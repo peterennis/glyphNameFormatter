@@ -129,7 +129,7 @@ class GlyphName(object):
             self.suffix("tick")
         if self.has("WITH DESCENDER"):
             self.replace("WITH DESCENDER")
-            self.suffix("desc")
+            self.suffix("descender")
         if self.has("WITH UPTURN"):
             self.replace("WITH UPTURN")
             self.suffix("up")
@@ -487,12 +487,16 @@ class GlyphName(object):
         self.replace("ARABIC")
         self.scriptPrefix = "ar"
 
+        lowercaseOk = True
         if self.has("UIGHUR"):
-            self.replace('UIGHUR')
-            self.suffix("uighur")
+            if self.replace('UIGHUR'):
+                self.suffix("uighur")
+        if self.has("KAZAKH"):
+            if self.replace("KAZAKH"):
+                self.suffix("kazakh")
         if self.has("KIRGHIZ"):
-            self.replace('KIRGHIZ')
-            self.suffix("kirghiz")
+            if self.replace('KIRGHIZ'):
+                self.suffix("kirghiz")
         if self.has("LETTER"):
             self.replace("LETTER")
         if self.has('LIGATURE'):
@@ -511,7 +515,13 @@ class GlyphName(object):
             self.suffix(".isol")
 
         self.replace("WITH", "_")
-        self.lower()
+
+        self.replace("SALLALLAHOU ALAYHE WASALLAM", "sallallahou_alayhe_wasallam")
+        if self.replace("BISMILLAH AR-RAHMAN AR-RAHEEM", "bismillah_arRahman_arRaheem"):
+            lowercaseOk = False
+
+        if lowercaseOk:
+            self.lower()
         self.compress()
 
     def processCyrillic(self):
@@ -543,6 +553,10 @@ class GlyphName(object):
 
         if self.has("PALOCHKA"):
             self.replace("PALOCHKA", "Palochka")
+
+        if self.has("KOMI"):
+            if self.replace("KOMI"):
+                self.suffix('komi')
 
         if self.has("BYELORUSSIAN-UKRAINIAN"):
             self.replace("BYELORUSSIAN-UKRAINIAN")
@@ -582,6 +596,7 @@ class GlyphName(object):
             self.replace("PSILI PNEUMATA", "psilipneumata")
 
         self.handleCase()
+        self.compress()
 
     def processMisc(self):
         # appear in the arabic list
@@ -804,27 +819,68 @@ class GlyphName(object):
             if self.replace("INVERTED"):
                 self.suffix("down")
 
-
         self.handleCase()
+        self.compress()
+
+    def processHebrew(self):
+        self.scriptPrefix = "hb"
+
+        self.replace("HEBREW LIGATURE YIDDISH DOUBLE VAV", "vav_vav")   # yiddish ?
+        self.replace("HEBREW LIGATURE YIDDISH VAV YOD", "vav_yod")  # yiddish ?
+        self.replace("HEBREW LIGATURE YIDDISH DOUBLE YOD", "yod_yod")
+        self.replace("HEBREW MARK UPPER DOT", "dotupper")
+        self.replace("HEBREW MARK LOWER DOT", "dotlower")
+        if self.has('HEBREW'):
+            self.replace('HEBREW')
+        if self.has("ACCENT"):
+            if self.replace("ACCENT"):
+                self.suffix("accent")
+        if self.has("LETTER"):
+            self.replace("LETTER")
+        if self.has("FINAL"):
+            self.replace("FINAL")
+            self.suffix(".final")
+        if self.has("POINT"):
+            if self.replace("POINT"):
+                self.suffix("point")
+        if self.has("YIDDISH"):
+            if self.replace("YIDDISH"):
+                self.suffix("yiddish")
+        if self.has("PUNCTUATION"):
+            self.replace("PUNCTUATION")
+
+        self.lower()
+        self.compress()
+
+    def processPrivateUse(self):
+        self.uniNameProcessed = "privateUseArea_%04x"%self.uniNumber
 
     def process(self):
         self.processStructure()
         self.processCase()
         self.processMisc()
 
-        if self.has("CYRILLIC"):
+        if self.uniRangeName in ['Cyrillic', 'Cyrillic Supplementary']:
+            #if self.has("CYRILLIC"):
             self.processCyrillic()
 
         if self.has("ARABIC"):
             self.processArabic()
 
+        if self.has("HEBREW"):
+            self.processHebrew()
+
         if self.uniRangeName in ["Basic Latin",
             'Latin-1 Supplement',
             'Latin Extended-A',
             'Latin Extended-B',
-            'Latin Extended Additional'
+            'Latin Extended Additional',
+            #"IPA Extensions"
             ]:
             self.processBasicLatin()
+
+        if self.uniRangeName in ["Private Use Area"]:
+            self.processPrivateUse()
 
         #if self.has("HANGUL"):
         #    self.processHangul()
@@ -834,7 +890,10 @@ class GlyphName(object):
             self.uniNameProcessed = self.scriptPrefix + "-" + self.uniNameProcessed
         self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "-".join(self.finalParts)
         # compress
-        self.compress()
+        #self.compress()
+
+    def getName(self):
+        return self.uniNameProcessed
 
     def compress(self):
         self.uniNameProcessed = self.uniNameProcessed.replace(" ", "")
@@ -862,26 +921,38 @@ class GlyphName(object):
 
 show = [
     #'Greek Extended',
-    'Arabic Presentation Forms-A',
     #'Hangul Syllables',
+    
+    'Basic Latin'
     'Latin-1 Supplement',
     'Latin Extended-A',
     'Latin Extended-B',
     'Latin Extended Additional',
-    'Basic Latin'
     'Cyrillic',
+    'Cyrillic Supplementary',
+    'Arabic Presentation Forms-A',
+    'Hebrew',
+    #'Currency Symbols',
+    #'Private Use Area',
+    #"IPA Extensions"
 ]
 
 from pprint import pprint
 skipped = {}
 
 lines = []
+uniqueNames = {}
 for uniNumber in range(1, 0xffff):
     glyphName = GlyphName(uniNumber=uniNumber)
     if glyphName.uniRangeName not in show:
+        skipped[glyphName.uniRangeName]=True
         continue
     if glyphName.hasName():
         print glyphName
+        thisName = glyphName.getName()
+        if not thisName in uniqueNames:
+            uniqueNames[thisName] = []
+        uniqueNames[thisName].append(glyphName)
         lines.append(str(glyphName))
 
 path = "generatedGlyphNames.txt"
@@ -889,3 +960,13 @@ f = open(path, 'w')
 f.write("\n".join(lines))
 f.close()
 
+# check for duplicate names
+for k, v in uniqueNames.items():
+    if len(v) > 1:
+        print "not unique enough:", v
+
+# print all the keys 
+# s = skipped.keys()
+# s.sort()
+# for cat in s:
+#    print cat
