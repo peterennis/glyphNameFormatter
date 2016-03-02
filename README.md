@@ -1,6 +1,12 @@
 # glyphNameFormatter
 
-Experimental.
+Experimental. Oh maybe that needs a bigger font.
+
+# EXPERIMENTAL
+
+Beware. This is a wild goose / red herring.
+
+## HOWEVER
 
 * Unicode has long and descriptive names for each character.
 * Font editors need glyph names to easily identify the glyphs, short, unique, can't use space
