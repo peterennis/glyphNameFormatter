@@ -13,7 +13,7 @@ The code is not going to be verypretty, basically a long list of rules and tests
 Some very specific, some very broad. As we can do more with python than with regular expressions we can add rules until it looks good. But in the end it will generate a reliable, testable list of names.
 Speed is not an issue, as long as it can generate final lists of names.
 
-In the initial version only the Latin ranges, Arabic and Cyrillic have been provisionally added.
+In the initial version only the Latin ranges, Arabic and Cyrillic have been provisionally added. Have a look at generatedGlyphNames.txt for output. Or just run the formatter and make a new one.
 
 ## Tests
 
