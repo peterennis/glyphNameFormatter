@@ -445,9 +445,6 @@ class GlyphName(object):
         if self.has("WITH BAR"):
             self.replace("WITH BAR")
             self.suffix("bar")
-        if self.has("BAR") and not self.has("AKBAR"):
-            self.replace("BAR")
-            self.suffix("bar")
 
         if self.has("WITH MACRON"):
             if self.replace("WITH MACRON"):
@@ -456,13 +453,19 @@ class GlyphName(object):
         if self.has("WITH MIDDLE TILDE"):
             if self.replace("WITH MIDDLE TILDE"):
                 self.suffix('middletilde')
-        if self.has("WITH MIDDLE HOOK"):
-            self.replace("WITH MIDDLE HOOK")
-            self.suffix("middlehook")
         if self.has("WITH HOOK TAIL"):
             if self.replace("WITH HOOK TAIL"):
                 self.suffix("hook")
                 self.suffix("tail")
+
+        if self.has("WITH MIDDLE HOOK"):
+            if self.replace("WITH MIDDLE HOOK"):
+                self.suffix("middlehook")
+        if self.has("WITH LOOP"):
+            if self.replace("WITH LOOP"):
+                self.suffix("loop")
+
+
         if self.has("WITH LEFT HOOK"):
             self.replace("WITH LEFT HOOK")
             self.suffix("left")
@@ -477,10 +480,13 @@ class GlyphName(object):
         if self.has("AND HOOK"):
             if self.replace("AND HOOK"):
                 self.suffix("hook")
+        if self.has("HOOK"):
+            if self.replace("HOOK"):
+                self.suffix("hook")
 
-        if self.has("WITH LOOP"):
-            if self.replace("WITH LOOP"):
-                self.suffix("loop")
+        if self.has("BAR") and not self.has("AKBAR") and not self.has("TOPBAR"):
+            self.replace("BAR")
+            self.suffix("bar")
 
 
     def processArabic(self):
@@ -525,10 +531,20 @@ class GlyphName(object):
         self.compress()
 
     def processCyrillic(self):
-        self.processShape()
+
         if self.has("CYRILLIC"):
             self.replace("CYRILLIC")
             self.scriptPrefix = "cy"
+
+        self.replace("CAPITAL LIGATURE EN GHE", "En_Ghe")
+        self.replace("SMALL LIGATURE EN GHE", "en_ghe")
+        self.replace("CAPITAL LIGATURE A IE", "A_IE")
+        self.replace("SMALL LIGATURE A IE", "a_ie")
+
+        self.processShape()
+        self.processDiacritics()
+
+
         if self.has("IOTIFIED"):
             self.replace("IOTIFIED")
             self.suffix("iotified")
@@ -594,6 +610,9 @@ class GlyphName(object):
             self.replace("DASIA PNEUMATA", "dasiapneumata")
         if self.has("PSILI PNEUMATA"):
             self.replace("PSILI PNEUMATA", "psilipneumata")
+
+        if self.has("WITH"):
+            self.replace("WITH")
 
         self.handleCase()
         self.compress()
