@@ -530,6 +530,25 @@ class GlyphName(object):
             self.lower()
         self.compress()
 
+    def processBoxDrawing(self):
+        self.scriptPrefix = "bxd"
+        self.replace("BOX DRAWINGS")
+        self.replace("AND")
+        self.replace("TO")
+        self.replace("VERTICAL", "vert")
+        self.replace("HORIZONTAL", "horz")
+        self.replace("DIAGONAL", "diag")
+        self.replace("DOUBLE", "dbl")
+        self.replace("TRIPLE", "trpl")
+        self.replace("QUAD", "quad")
+        self.replace("UPPER", "up")
+        self.replace("SINGLE", "sng")
+        self.replace("DOWN", "dn")
+        self.replace("LOWER", "dn")
+        self.lower()
+        self.compress()
+
+
     def processCyrillic(self):
 
         if self.has("CYRILLIC"):
@@ -670,6 +689,13 @@ class GlyphName(object):
         self.replace("LATIN CAPITAL LETTER O WITH STROKE AND ACUTE", "Oslashacute")
         self.replace("LATIN SMALL LETTER O WITH STROKE AND ACUTE", "oslashacute")
         self.replace("LATIN LETTER REVERSED ESH LOOP", "eshreversedloop")
+
+        self.replace("LATIN CAPITAL LETTER MIDDLE-WELSH LL", "LLmiddlewelsh")
+        self.replace("LATIN SMALL LETTER MIDDLE-WELSH LL", "llmiddlewelsh")
+
+        if self.has("MIDDLE-WELSH"):
+            if self.replace("MIDDLE-WELSH"):
+                self.suffix("middlewelsh")
 
         if self.has("WITH CURL"):
             self.replace("WITH CURL")
@@ -871,6 +897,8 @@ class GlyphName(object):
         self.lower()
         self.compress()
 
+    def processIPA(self):
+        pass
     def processPrivateUse(self):
         self.uniNameProcessed = "privateUseArea_%04x"%self.uniNumber
 
@@ -879,6 +907,8 @@ class GlyphName(object):
         self.processCase()
         self.processMisc()
 
+        if self.uniRangeName == "Box Drawing":
+            self.processBoxDrawing()
         if self.uniRangeName in ['Cyrillic', 'Cyrillic Supplementary']:
             #if self.has("CYRILLIC"):
             self.processCyrillic()
@@ -951,9 +981,9 @@ show = [
     'Cyrillic Supplementary',
     'Arabic Presentation Forms-A',
     'Hebrew',
-    #'Currency Symbols',
-    #'Private Use Area',
-    #"IPA Extensions"
+#    'Private Use Area',
+#    "IPA Extensions"
+    "Box Drawing"
 ]
 
 from pprint import pprint
