@@ -488,6 +488,10 @@ class GlyphName(object):
             self.replace("BAR")
             self.suffix("bar")
 
+        if self.has("WITH CURL"):
+            self.replace("WITH CURL")
+            self.suffix("curl")
+
 
     def processArabic(self):
         self.replace("ARABIC")
@@ -657,7 +661,7 @@ class GlyphName(object):
         self.replace("LATIN LETTER ALVEOLAR CLICK", "clickalveolar")
         self.replace("LATIN LETTER RETROFLEX CLICK", "clickretroflex")
         self.replace("LATIN LETTER INVERTED GLOTTAL STOP WITH STROKE", 'glottalstopinvertedstroke')
-        self.replace("LATIN CAPITAL LETTER SMALL Q WITH HOOK TAIL", "Qhooktail")
+        self.replace("LATIN CAPITAL LETTER SMALL Q WITH HOOK TAIL", "Qsmallhooktail")
         self.replace("LATIN SMALL LETTER AE", "ae")   # case gets wrong
         self.replace("LATIN CAPITAL LETTER AE", "AE")   # case gets wrong
         self.replace("LATIN SMALL LETTER DOTLESS I", "dotlessi")
@@ -697,9 +701,6 @@ class GlyphName(object):
             if self.replace("MIDDLE-WELSH"):
                 self.suffix("middlewelsh")
 
-        if self.has("WITH CURL"):
-            self.replace("WITH CURL")
-            self.suffix("curl")
         if self.has("WITH LONG RIGHT LEG"):
             self.replace("WITH LONG RIGHT LEG")
             self.suffix("long")
@@ -898,7 +899,112 @@ class GlyphName(object):
         self.compress()
 
     def processIPA(self):
-        pass
+        self.scriptPrefix = "ipa"
+        self.processCase()
+
+        self.replace('LETTER PHARYNGEAL VOICED FRICATIVE', "pharyngealvoicedfricative")
+
+        if self.has('BILABIAL PERCUSSIVE'):
+            if self.replace("BILABIAL PERCUSSIVE"):
+                self.suffix("bilabialpercussive")
+                self.replace("LETTER")
+
+        if self.has('BIDENTAL PERCUSSIVE'):
+            if self.replace("BIDENTAL PERCUSSIVE"):
+                self.suffix("bidentalpercussive")
+                self.replace("LETTER")
+
+        if self.has('BILABIAL CLICK'):
+            if self.replace("BILABIAL CLICK"):
+                self.suffix("bilabialclick")
+                self.replace("LETTER")
+                
+
+        if self.has("GLOTTAL STOP"):
+            if self.replace("GLOTTAL STOP"):
+                self.suffix("glottal")
+                self.suffix("stop")
+                self.replace("LETTER")
+
+        if self.has("WITH MIDDLE TILDE"):
+            if self.replace("WITH MIDDLE TILDE"):
+                self.suffix('middle')
+                self.suffix('tilde')
+
+
+        if self.has("WITH FISHHOOK"):
+            if self.replace("WITH FISHHOOK"):
+                self.suffix("fishhook")
+
+        if self.has("SQUAT REVERSED"):
+            if self.replace("SQUAT REVERSED"):
+                self.suffix("squat")
+                self.suffix("reversed")
+
+        if self.has("AND TAIL"):
+            if self.replace("AND TAIL"):
+                self.suffix("tail")
+
+        if self.has("TURNED"):
+            if self.replace("TURNED"):
+                self.suffix("turned")
+
+
+        self.processShape()
+        self.processDiacritics()
+
+
+        self.replace("LATIN")
+
+        if self.has("CAPITAL LETTER"):
+            self.replace("CAPITAL LETTER", "capital")
+        elif self.has("SMALL LETTER"):
+            self.replace("SMALL LETTER", "small")
+
+        if self.has("SMALL CAPITAL"):
+            if self.replace("SMALL CAPITAL"):
+                self.suffix("small")
+            self.replace("LETTER")
+
+        if self.has("WITH CROSSED-TAIL"):
+            if self.replace("WITH CROSSED-TAIL"):
+                self.suffix("crossedtail")
+
+        if self.has("STRETCHED"):
+            if self.replace("STRETCHED"):
+                self.suffix("stretched")
+        if self.has("OPEN"):
+            if self.replace("OPEN"):
+                self.suffix("open")
+
+        if self.has("DOTLESS"):
+            if self.replace("DOTLESS"):
+                self.suffix("dotless")
+
+        if self.has("HORN"):
+            if self.replace("HORN"):
+                self.suffix("horn") # roundabout case change
+
+        if self.has("WITH LONG LEG"):
+            if self.replace("WITH LONG LEG"):
+                self.suffix("longleg")
+        if self.has("WITH BELT"):
+            if self.replace("WITH BELT"):
+                self.suffix("belt")
+
+
+        if self.has("INVERTED"):
+            if self.replace("INVERTED"):
+                self.suffix("inverted")
+
+
+        self.handleCase()
+
+        self.replace("DIGRAPH")
+        self.replace("LETTER")
+        self.compress()
+
+
     def processPrivateUse(self):
         self.uniNameProcessed = "privateUseArea_%04x"%self.uniNumber
 
@@ -924,9 +1030,12 @@ class GlyphName(object):
             'Latin Extended-A',
             'Latin Extended-B',
             'Latin Extended Additional',
-            #"IPA Extensions"
             ]:
             self.processBasicLatin()
+
+        if self.uniRangeName == "IPA Extensions":
+            self.processIPA()
+
 
         if self.uniRangeName in ["Private Use Area"]:
             self.processPrivateUse()
@@ -972,7 +1081,7 @@ show = [
     #'Greek Extended',
     #'Hangul Syllables',
     
-    'Basic Latin'
+    'Basic Latin',
     'Latin-1 Supplement',
     'Latin Extended-A',
     'Latin Extended-B',
@@ -982,8 +1091,8 @@ show = [
     'Arabic Presentation Forms-A',
     'Hebrew',
 #    'Private Use Area',
-#    "IPA Extensions"
-    "Box Drawing"
+    "IPA Extensions",
+    "Box Drawing",
 ]
 
 from pprint import pprint
