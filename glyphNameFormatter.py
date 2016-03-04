@@ -30,9 +30,10 @@ class GlyphName(object):
         "Udieresis",
         "Umacron",
         "Upsilon",
-        "a",
+        "a", "ae",
         "abreve",
         "adieresis",
+        "comma",
         "delta",
         "e",
         "edieresis",
@@ -41,7 +42,7 @@ class GlyphName(object):
         "igrave",
         "imacron",
         "koppa",
-        "o",
+        "o", "oe",
         "odieresis",
         "omega",
         "pe",
@@ -51,6 +52,11 @@ class GlyphName(object):
         "udblacute",
         "udieresis",
         "umacron",
+        "yu",
+        "ve",
+
+        "numbersign",
+        "semicolon",
     ]
 
     def __init__(self, niceName=None, uniNumber=None):
@@ -62,7 +68,7 @@ class GlyphName(object):
         self.uniRangeName = "No Range"
         self.letterCase = None
         self.isLigature = False
-        self.scriptPrefix = ""
+        self.scriptTag = ""
         self.languageSuffix = []
         self.suffixParts = []
         self.finalParts = []
@@ -178,237 +184,71 @@ class GlyphName(object):
             self.replace("MONOCULAR")
             self.suffix("monocular")
 
-        if self.has("WITH TITLO"):
-            self.replace("WITH TITLO")
-            self.suffix("titlo")
-        if self.has("TITLO"):
-            self.replace("TITLO")
-            self.suffix("titlo")
-        if self.has("WITH TAIL"):
-            self.replace("WITH TAIL")
-            self.suffix("tail")
-        if self.has("WITH TICK"):
-            self.replace("WITH TICK")
-            self.suffix("tick")
-        if self.has("WITH DESCENDER"):
-            if self.replace("WITH DESCENDER"):
-                self.suffix("descender")
-        if self.has("WITH UPTURN"):
-            if self.replace("WITH UPTURN"):
-                self.suffix("up")
-        if self.has("WITH STROKE"):
-            if self.replace("WITH STROKE"):
-                self.suffix("stroke")
-        if self.has("WITH VERTICAL STROKE"):
-            self.replace("WITH VERTICAL STROKE")
-            self.suffix("verticalstroke")
-        if self.has("WITH DIAGONAL STROKE"):
-            self.replace("WITH DIAGONAL STROKE")
-            self.suffix("diagonalstroke")
-        if self.has("WITH HIGH STROKE"):
-            if self.replace("WITH HIGH STROKE"):
-                self.suffix("highstroke")
-        if self.has("WITH SWASH TAIL"):
-            self.replace("WITH SWASH TAIL")
-            self.suffix("swash")
-            self.suffix("tail")
-        if self.has("WITH COMMA BELOW"):
-            self.replace("WITH COMMA BELOW")
-            self.suffix("commaaccent")
-        if self.has("WITH PALATAL HOOK"):
-            if self.replace("WITH PALATAL HOOK"):
-                self.suffix("palatalhook")
+        self.edit("WITH TITLO", "titlo")
+        self.edit("TITLO", "titlo")
+        self.edit("WITH TAIL", "tail")
+        self.edit("WITH TICK", "tick")
+        self.edit("WITH DESCENDER", "descender")
+        self.edit("WITH UPTURN", "up")
+        self.edit("WITH STROKE", "stroke")
+        self.edit("WITH VERTICAL STROKE", "verticalstroke")
+        self.edit("WITH DIAGONAL STROKE", "diagonalstroke")
+        self.edit("WITH HIGH STROKE", "highstroke")
+        self.edit("WITH SWASH TAIL", "swash", "tail")
+        self.edit("WITH COMMA BELOW", "commaaccent")
+        self.edit("WITH PALATAL HOOK", "palatalhook")
 
 
     def processDiacritics(self):
-
-        if self.has("WITH CIRCUMFLEX AND HOOK ABOVE"):
-            if self.replace("WITH CIRCUMFLEX AND HOOK ABOVE"):
-                self.suffix("circumflex")
-                self.suffix("hookabove")
-        if self.has("WITH CIRCUMFLEX AND DOT BELOW"):
-            if self.replace("WITH CIRCUMFLEX AND DOT BELOW"):
-                self.suffix("circumflex")
-                self.suffix("dotbelow")
-        if self.has("WITH DOT BELOW AND DOT ABOVE"):
-            if self.replace("WITH DOT BELOW AND DOT ABOVE"):
-                self.suffix("dotbelow")
-                self.suffix("dotabove")
-        if self.has("WITH CIRCUMFLEX AND TILDE"):
-            if self.replace("WITH CIRCUMFLEX AND TILDE"):
-                self.suffix("circumflex")
-                self.suffix("tilde")
-        if self.has("WITH CARON AND DOT ABOVE"):
-            if self.replace("WITH CARON AND DOT ABOVE"):
-                self.suffix("caron")
-                self.suffix("dotaccent")
-        if self.has("WITH ACUTE AND DOT ABOVE"):
-            if self.replace("WITH ACUTE AND DOT ABOVE"):
-                self.suffix("acute")
-                self.suffix("dotaccent")
-
-        if self.has("WITH HORN AND GRAVE"):
-            if self.replace("WITH HORN AND GRAVE"):
-                self.suffix("horn")
-                self.suffix('grave')
-        if self.has("WITH HORN AND ACUTE"):
-            if self.replace("WITH HORN AND ACUTE"):
-                self.suffix("horn")
-                self.suffix('acute')
-        if self.has("WITH HORN AND TILDE"):
-            if self.replace("WITH HORN AND TILDE"):
-                self.suffix("horn")
-                self.suffix('tilde')
-        if self.has("WITH HORN AND HOOK ABOVE"):
-            if self.replace("WITH HORN AND HOOK ABOVE"):
-                self.suffix("horn")
-                self.suffix("hookabove")
-        if self.has("WITH HORN AND DOT BELOW"):
-            if self.replace("WITH HORN AND DOT BELOW"):
-                self.suffix("horn")
-                self.suffix("dot")
-                self.suffix("below")
-        if self.has("WITH BREVE AND TILDE"):
-            if self.replace("WITH BREVE AND TILDE"):
-                self.suffix("breve")
-                self.suffix("tilde")
-        if self.has("WITH BREVE AND ACUTE"):
-            if self.replace("WITH BREVE AND ACUTE"):
-                self.suffix("breve")
-                self.suffix("acute")
-        if self.has("WITH BREVE AND HOOK ABOVE"):
-            if self.replace("WITH BREVE AND HOOK ABOVE"):
-                self.suffix("breve")
-                self.suffix("hookabove")
-        if self.has("WITH BREVE AND DOT BELOW"):
-            if self.replace("WITH BREVE AND DOT BELOW"):
-                self.suffix("breve")
-                self.suffix("dotbelow")
-        if self.has("WITH BREVE BELOW"):
-            if self.replace("WITH BREVE BELOW"):
-                self.suffix("breve")
-                self.suffix("below")
-        if self.has("WITH TILDE AND DIAERESIS"):
-            if self.replace("WITH TILDE AND DIAERESIS"):
-                self.suffix("tilde")
-                self.suffix("dieresis")
-        if self.has("WITH BREVE AND GRAVE"):
-            if self.replace("WITH BREVE AND GRAVE"):
-                self.suffix("breve")
-                self.suffix("grave")
-
-        if self.has("WITH DOT BELOW AND MACRON"):
-            self.replace("WITH DOT BELOW AND MACRON")
-            self.suffix("macron")
-            self.suffix("dot")
-        if self.has("WITH DIAERESIS AND ACUTE"):
-            self.replace("WITH DIAERESIS AND ACUTE")
-            self.suffix("dieresis")
-            self.suffix("acute")
-        if self.has("WITH DIAERESIS AND TILDE"):
-            self.replace("WITH DIAERESIS AND TILDE")
-            self.suffix("dieresis")
-            self.suffix("tilde")
-        if self.has("WITH TILDE BELOW"):
-            self.replace("WITH TILDE BELOW")
-            self.suffix("tilde")
-            self.suffix("below")
-        if self.has('WITH CIRCUMFLEX AND ACUTE'):
-            self.replace("WITH CIRCUMFLEX AND ACUTE")
-            self.suffix('circumflex')
-            self.suffix('acute')
-        if self.has('WITH CIRCUMFLEX AND GRAVE'):
-            self.replace("WITH CIRCUMFLEX AND GRAVE")
-            self.suffix('circumflex')
-            self.suffix('grave')
-        if self.has("WITH CIRCUMFLEX BELOW"):
-            self.replace("WITH CIRCUMFLEX BELOW")
-            self.suffix("circumflex")
-            self.suffix("below")
-        if self.has("WITH CEDILLA AND ACUTE"):
-            self.replace("WITH CEDILLA AND ACUTE")
-            self.suffix("cedilla")
-            self.suffix("acute")
-
-        if self.has("WITH CEDILLA AND BREVE"):
-            self.replace("WITH CEDILLA AND BREVE")
-            self.suffix("cedilla")
-            self.suffix('breve')
-        if self.has("WITH MACRON AND DIAERESIS"):
-            if self.replace("WITH MACRON AND DIAERESIS"):
-                self.suffix("macron")
-                self.suffix("dieresis")
-        if self.has("WITH MACRON AND ACUTE"):
-            self.replace("WITH MACRON AND ACUTE")
-            self.suffix("macron")
-            self.suffix("acute")
-        if self.has("WITH MACRON AND GRAVE"):
-            self.replace("WITH MACRON AND GRAVE")
-            self.suffix("macron")
-            self.suffix("grave")
-        if self.has("WITH INVERTED BREVE"):
-            self.replace("WITH INVERTED BREVE")
-            self.suffix("inverted")
-            self.suffix("breve")
-        if self.has("WITH TILDE AND ACUTE"):
-            self.replace("WITH TILDE AND ACUTE")
-            self.suffix("tilde")
-            self.suffix("acute")
-        if self.has("WITH TILDE AND MACRON"):
-            self.replace("WITH TILDE AND MACRON")
-            self.suffix("tilde")
-            self.suffix("macron")
-        if self.has("WITH DIAERESIS AND MACRON"):
-            self.replace("WITH DIAERESIS AND MACRON")
-            self.suffix("dieresis")
-            self.suffix("macron")
-        if self.has("WITH DOT ABOVE AND MACRON"):
-            self.replace("WITH DOT ABOVE AND MACRON")
-            self.suffix("dotaccent")
-            self.suffix("macron")
-        if self.has("WITH TOPBAR"):
-            self.replace("WITH TOPBAR")
-            self.suffix("topbar")
-
-        if self.has("PRECEDED BY APOSTROPHE"):
-            self.replace("PRECEDED BY APOSTROPHE")
-            self.suffix("apostrophe")
-
-        if self.has("WITH MIDDLE DOT"):
-            self.replace("WITH MIDDLE DOT")
-            self.suffix("dot")
-
-        if self.has("WITH DOUBLE ACUTE"):
-            self.replace("WITH DOUBLE ACUTE")
-            self.suffix("dblacute")
-            return
-
-        if self.has("WITH DOUBLE GRAVE ACCENT"):
-            self.replace("WITH DOUBLE GRAVE ACCENT")
-            self.suffix("dblgrave")
-            return
-        if self.has("WITH DOUBLE GRAVE"):
-            self.replace("WITH DOUBLE GRAVE")
-            self.suffix("dblgrave")
-            return
-
-        if self.has("WITH DOT ABOVE"):
-            self.replace("WITH DOT ABOVE")
-            self.suffix("dotaccent")
-        if self.has("WITH DOT BELOW"):
-            if self.replace("WITH DOT BELOW"):
-                self.suffix("dotbelow")
-
-        if self.has("WITH GRAVE"):
-            self.replace("WITH GRAVE")
-            self.suffix("grave")
-        if self.has("GRAVE"):
-            if self.replace("GRAVE"):
-                self.suffix("grave")
-
-        if self.has("WITH HORN"):
-            self.replace("WITH HORN")
-            self.suffix("horn")
+        # WITH ___ AND ___
+        self.edit("WITH CIRCUMFLEX AND HOOK ABOVE", "circumflex", "hookabove")
+        self.edit("WITH CIRCUMFLEX AND DOT BELOW", "circumflex", "dotbelow")
+        self.edit("WITH DOT BELOW AND DOT ABOVE", "dotbelow", "dotabove")
+        self.edit("WITH CIRCUMFLEX AND TILDE", "circumflex", "tilde")
+        self.edit("WITH CARON AND DOT ABOVE", "caron", "dotaccent")
+        self.edit("WITH ACUTE AND DOT ABOVE", "acute", "dotaccent")
+        self.edit("WITH HORN AND GRAVE", "horn", 'grave')
+        self.edit("WITH HORN AND ACUTE", "horn", 'acute')
+        self.edit("WITH HORN AND TILDE", "horn", 'tilde')
+        self.edit("WITH HORN AND HOOK ABOVE", "horn", "hookabove")
+        self.edit("WITH HORN AND DOT BELOW", "horn", "dotbelow")
+        self.edit("WITH BREVE AND TILDE", "breve", "tilde")
+        self.edit("WITH BREVE AND ACUTE", "breve", "acute")
+        self.edit("WITH BREVE AND HOOK ABOVE", "breve", "hookabove")
+        self.edit("WITH BREVE AND DOT BELOW", "breve", "dotbelow")
+        self.edit("WITH BREVE BELOW", "breve", "below")
+        self.edit("WITH TILDE AND DIAERESIS", "tilde", "dieresis")
+        self.edit("WITH BREVE AND GRAVE", "breve", "grave")
+        self.edit("WITH DOT BELOW AND MACRON", "macron", "dot")
+        self.edit("WITH DIAERESIS AND ACUTE", "dieresis", "acute")
+        self.edit("WITH DIAERESIS AND TILDE", "dieresis", "tilde")
+        self.edit("WITH TILDE BELOW", "tilde", "below")
+        self.edit('WITH CIRCUMFLEX AND ACUTE', 'circumflex', 'acute')
+        self.edit('WITH CIRCUMFLEX AND GRAVE', 'circumflex', 'grave')
+        self.edit("WITH CIRCUMFLEX BELOW", "circumflex", "below")
+        self.edit("WITH CEDILLA AND ACUTE", "cedilla", "acute")
+        self.edit("WITH CEDILLA AND BREVE", "cedilla", 'breve')
+        self.edit("WITH MACRON AND DIAERESIS", "macron", "dieresis")
+        self.edit("WITH MACRON AND ACUTE", "macron", "acute")
+        self.edit("WITH MACRON AND GRAVE", "macron", "grave")
+        self.edit("WITH TILDE AND ACUTE", "tilde", "acute")
+        self.edit("WITH TILDE AND MACRON", "tilde", "macron")
+        self.edit("WITH DIAERESIS AND MACRON", "dieresis", "macron")
+        self.edit("WITH DOT ABOVE AND MACRON", "dotaccent", "macron")
+        # PRECEDED BY ___
+        self.edit("PRECEDED BY APOSTROPHE", "apostrophe")
+        # WITH ___ 
+        self.edit("WITH INVERTED BREVE", "inverted", "breve")
+        self.edit("WITH TOPBAR", "topbar")
+        self.edit("WITH MIDDLE DOT", "dot")
+        self.edit("WITH DOUBLE ACUTE", "dblacute")
+        self.edit("WITH DOUBLE GRAVE ACCENT", "dblgrave")
+        self.edit("WITH DOUBLE GRAVE", "dblgrave")
+        self.edit("WITH DOT ABOVE", "dotaccent")
+        self.edit("WITH DOT BELOW", "dotbelow")
+        self.edit("WITH GRAVE", "grave")
+        self.edit("GRAVE", "grave")
+        self.edit("WITH HORN", "horn")
 
         if self.has("WITH BREVE"):
             self.replace("WITH BREVE")
@@ -557,14 +397,19 @@ class GlyphName(object):
 
 
     def processArabic(self):
+        self.edit("ARABIC-INDIC", "indic")
         self.replace("ARABIC")
-        self.scriptPrefix = "ar"
+        self.scriptTag = "ar"
 
         lowercaseOk = True
+        self.replace("ZERO WIDTH NO-BREAK SPACE", "zerowidthnbspace")
+        self.edit("AFGHANI SIGN", "afghani")
         self.edit("UIGHUR", "uighur")
         self.edit("KAZAKH", "kazakh")
         self.edit("KIRGHIZ", "kirghiz")
         self.edit("FARSI", "farsi")
+
+        self.edit("SMALL HIGH", "small", "above")
         if self.has("LETTER"):
             self.replace("LETTER")
         if self.has('LIGATURE'):
@@ -573,19 +418,22 @@ class GlyphName(object):
         self.edit('MEDIAL FORM', ".medi")
         self.edit('FINAL FORM', ".fina")
         self.edit('ISOLATED FORM', ".isol")
+        self.replace("QUESTION MARK", "question")
+        self.edit("SIGN SANAH", "Sanah")
+        self.edit("FOOTNOTE MARKER", "Footnote")
 
         self.replace("WITH", "_")
 
         self.replace("SALLALLAHOU ALAYHE WASALLAM", "sallallahou_alayhe_wasallam")
         if self.replace("BISMILLAH AR-RAHMAN AR-RAHEEM", "bismillah_arRahman_arRaheem"):
             lowercaseOk = False
-
         if lowercaseOk:
             self.lower()
         self.compress()
 
+
     def processBoxDrawing(self):
-        self.scriptPrefix = "bxd"
+        self.scriptTag = "bxd"
         self.replace("BOX DRAWINGS")
         self.replace("AND")
         self.replace("TO")
@@ -607,7 +455,7 @@ class GlyphName(object):
 
         if self.has("CYRILLIC"):
             self.replace("CYRILLIC")
-            self.scriptPrefix = "cy"
+            self.scriptTag = "cy"
 
         self.replace("CAPITAL LIGATURE EN GHE", "En_Ghe")
         self.replace("SMALL LIGATURE EN GHE", "en_ghe")
@@ -797,7 +645,7 @@ class GlyphName(object):
         self.processShape()
         if self.has("LATIN"):
             self.replace("LATIN")
-            self.scriptPrefix = "lt"
+            self.scriptTag = "lt"
         self.processDiacritics()
         if self.has("CAPITAL LETTER"):
             self.replace("CAPITAL LETTER", "capital")
@@ -899,7 +747,7 @@ class GlyphName(object):
         self.compress()
 
     def processHebrew(self):
-        self.scriptPrefix = "hb"
+        self.scriptTag = "hb"
 
         self.replace("HEBREW LIGATURE YIDDISH DOUBLE VAV", "vav_vav")   # yiddish ?
         self.replace("HEBREW LIGATURE YIDDISH VAV YOD", "vav_yod")  # yiddish ?
@@ -930,7 +778,7 @@ class GlyphName(object):
         self.compress()
 
     def processIPA(self):
-        self.scriptPrefix = "ipa"
+        self.scriptTag = "ipa"
         self.processCase()
 
         self.replace('LETTER PHARYNGEAL VOICED FRICATIVE', "pharyngealvoicedfricative")
@@ -980,27 +828,21 @@ class GlyphName(object):
             if self.replace("TURNED"):
                 self.suffix("turned")
 
-
         self.processShape()
         self.processDiacritics()
 
-
         self.replace("LATIN")
-
         self.edit("CAPITAL LETTER", "capital")
         self.edit("SMALL LETTER", "small")
-
         if self.has("SMALL CAPITAL"):
             if self.replace("SMALL CAPITAL"):
                 self.suffix("small")
             self.replace("LETTER")
-
         self.edit("WITH CROSSED-TAIL", "crossedtail")
         self.edit("STRETCHED", "stretched")
         self.edit("OPEN", "open")
         self.edit("DOTLESS", "dotless")
         self.edit("HORN", "horn") # roundabout case change
-
         self.edit("WITH LONG LEG", "longleg")
         self.edit("WITH BELT", "belt")
         self.edit("INVERTED", "inverted")
@@ -1010,7 +852,7 @@ class GlyphName(object):
         self.compress()
 
     def processGreek(self):
-        self.scriptPrefix = "gr"
+        self.scriptTag = "gr"
         self.replace("GREEK")
 
         self.replace("UPSILON WITH HOOK SYMBOL", "upsilonhooksymbol")
@@ -1050,7 +892,6 @@ class GlyphName(object):
         self.edit("LOWER", "lower")
         self.edit("FINAL", "final")
         self.edit("WITH HOOK", "hook")
-
 
         self.edit("UPSILON SYMBOL", "upsilonsymbol")
         self.edit("PHI SYMBOL", "phisymbol")
@@ -1108,44 +949,25 @@ class GlyphName(object):
         if self.uniRangeName == "Box Drawing":
             self.processBoxDrawing()
         if self.uniRangeName in ['Cyrillic', 'Cyrillic Supplementary']:
-            #if self.has("CYRILLIC"):
             self.processCyrillic()
-
-        if self.has("ARABIC"):
+        if self.uniRangeName in ["Arabic", 'Arabic Presentation Forms-A', 'Arabic Presentation Forms-B']:
             self.processArabic()
-
-        if self.has("HEBREW"):
+        if self.uniRangeName == "Hebrew":
             self.processHebrew()
-
-        if self.uniRangeName in ["Basic Latin",
-            'Latin-1 Supplement',
-            'Latin Extended-A',
-            'Latin Extended-B',
-            'Latin Extended Additional',
-            ]:
+        if self.uniRangeName in ["Basic Latin", 'Latin-1 Supplement', 'Latin Extended-A', 'Latin Extended-B', 'Latin Extended Additional', ]:
             self.processLatin()
-
         if self.uniRangeName == "IPA Extensions":
             self.processIPA()
-
-
         if self.uniRangeName in ["Private Use Area"]:
             self.processPrivateUse()
-
         if self.uniRangeName in [ "Greek Extended", "Greek and Coptic",]:
             self.processGreek()
-
-        #if self.has("HANGUL"):
-        #    self.processHangul()
-
         self.processDiacritics()
         self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "-".join(self.finalParts)
         if self.uniNameProcessed in self.ambiguousNames:
             # the final name has a duplicate in another script
             # take disambiguation action
             self.mustAddScript = True
-        # compress
-        #self.compress()
 
     def edit(self, pattern, *suffix):
         """
@@ -1160,31 +982,35 @@ class GlyphName(object):
                 [self.suffix(s) for s in suffix]
 
     def getName(self, extension=True):
+        # return the name, add extensions or not.
         if not extension:
             if self.mustAddScript:
                 # we don't want a script extension,
                 # but we've been warned that it might be necessary
                 # for disambiguation
-                if self.scriptPrefix != "lt" or self.latinCentric:
-                    return "%s-%s"%(self.scriptPrefix, self.uniNameProcessed)
+                if self.scriptTag != "lt" and self.scriptTag != "":
+                    return "%s-%s"%(self.scriptTag, self.uniNameProcessed)
                 else:
                     return self.uniNameProcessed
             else:
                 # hope for the best then
                 return self.uniNameProcessed
         else:
-            if self.scriptPrefix:
-                return "%s-%s"%(self.scriptPrefix, self.uniNameProcessed)
+            if self.scriptTag:
+                return "%s-%s"%(self.scriptTag, self.uniNameProcessed)
             else:
                 return self.uniNameProcessed
 
     def compress(self):
+        # remove the spaces from the name
         self.uniNameProcessed = self.uniNameProcessed.replace(" ", "")
 
     def lower(self):
+        # whole name to lowercase
         self.uniNameProcessed = self.uniNameProcessed.lower()
 
     def suffix(self, namePart):
+        # add a suffix part
         if namePart not in self.suffixParts:
             self.suffixParts.append(namePart)
 
@@ -1199,7 +1025,6 @@ class GlyphName(object):
 
     def __repr__(self):
         return "%s\t\t%05x\t\t%s"%(self.getName(extension=False), self.uniNumber, self.uniName)
-        #return "<%s: %s, %05x>"%(self.uniNameProcessed, self.uniRangeName, self.uniNumber)
         
 
 show = [
@@ -1213,7 +1038,9 @@ show = [
     'Latin Extended Additional',
     'Cyrillic',
     'Cyrillic Supplementary',
+    "Arabic",
     'Arabic Presentation Forms-A',
+    'Arabic Presentation Forms-B'
     'Hebrew',
     "IPA Extensions"
     "Box Drawing",
@@ -1241,7 +1068,7 @@ for uniNumber in range(1, 0xffff):
             uniqueNamesExtension[thisName] = []
         uniqueNamesExtension[thisName].append(glyphName)
 
-        thisName = glyphName.getName(extension=False)
+        thisName = glyphName.getName(extension=True)
         if not thisName in uniqueNamesNoExtension:
             uniqueNamesNoExtension[thisName] = []
         uniqueNamesNoExtension[thisName].append(glyphName)
