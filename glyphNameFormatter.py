@@ -90,8 +90,8 @@ class GlyphName(object):
         self.latinCentric = True    # admit latincentric naming, if we can leave out latin tags, go for it
         self._log = []
         self.verbose = verbose
-        self.hasEdits = False       # true if we have been edited
         self.includeCJK = includeCJK
+        self.isCJK = False
         self.lookup()
         self.process()
 
@@ -226,7 +226,7 @@ class GlyphName(object):
         self.edit("WITH CIRCUMFLEX AND DOT BELOW", "circumflex", "dotbelow")
         self.edit("WITH DOT BELOW AND DOT ABOVE", "dotbelow", "dotabove")
         self.edit("WITH CIRCUMFLEX AND TILDE", "circumflex", "tilde")
-        self.edit("WITH CARON AND DOT ABOVE", "caron", "dotaccent")
+        self.edit("WITH CARON AND DOT ABOVE", "caron", "dot")
         self.edit("WITH ACUTE AND DOT ABOVE", "acute", "dotaccent")
         self.edit("WITH HORN AND GRAVE", "horn", 'grave')
         self.edit("WITH HORN AND ACUTE", "horn", 'acute')
@@ -265,7 +265,7 @@ class GlyphName(object):
         self.edit("WITH DOUBLE ACUTE", "dblacute")
         self.edit("WITH DOUBLE GRAVE ACCENT", "dblgrave")
         self.edit("WITH DOUBLE GRAVE", "dblgrave")
-        self.edit("WITH DOT ABOVE", "dotaccent")
+        self.edit("WITH DOT ABOVE", "dot")
         self.edit("WITH DOT BELOW", "dotbelow")
         self.edit("WITH GRAVE", "grave")
         self.edit("GRAVE", "grave")
@@ -293,7 +293,7 @@ class GlyphName(object):
         self.edit("WITH RING ABOVE", "ring")
         self.edit("WITH RING BELOW", "ringbelow")
         self.edit("WITH RIGHT HALF RING", "right", "halfring")
-        self.edit("WITH RETROFLEX HOOK", "retroflexhook")
+        self.edit("WITH RETROFLEX HOOK", "retroflex")
         self.edit("WITH LINE BELOW", "linebelow")
         self.edit("WITH BAR", "bar")
         self.edit("WITH MACRON", "macron")
@@ -462,6 +462,16 @@ class GlyphName(object):
     def processLatin(self):
         if self.verbose:
             print "processLatin"
+        # compatible with AGD
+        self.edit("LATIN CAPITAL LETTER T WITH STROKE", "Tbar")
+        self.edit("LATIN SMALL LETTER T WITH STROKE", "tbar")
+        self.edit("WITH DOUBLE ACUTE", "hungarumlaut")
+        self.edit("LATIN CAPITAL LETTER O WITH STROKE", "Oslash")
+        self.edit("LATIN SMALL LETTER O WITH STROKE", "oslash")
+        self.edit("LATIN CAPITAL LETTER H WITH STROKE", "Hbar")
+        self.edit("LATIN SMALL LETTER H WITH STROKE", "hbar")
+        self.edit("LATIN CAPITAL LETTER D WITH STROKE", "Dcroat")
+        self.edit("LATIN SMALL LETTER D WITH STROKE", "dcroat")
         # sort these before anything else
         self.replace("BROKEN BAR", "brokenbar")
         self.replace("LATIN LETTER WYNN", "wynn")
@@ -535,10 +545,8 @@ class GlyphName(object):
         # hard exceptions
         self.replace("COMMERCIAL AT", "at")
         self.replace("TILDE", "asciitilde")
-        self.replace("NO-BREAK", "nbspace")
-        if self.has("SPACE"):
-            self.replace("SPACE")
-            self.suffix("space")
+        self.edit("NO-BREAK SPACE", "nbspace")
+        self.edit("SPACE", "space")
             # INVERTED QUESTION MARK
         self.replace("EXCLAMATION MARK", "exclamation")
         self.replace("QUESTION MARK", "question")
@@ -944,6 +952,18 @@ class GlyphName(object):
         self.processCase()
         self.processMisc()
 
+        self.isCJK = self.uniRangeName in [
+            "CJK Unified Ideographs",
+            "CJK Unified Ideographs Extension A",
+            "CJK Unified Ideographs",
+            "CJK Unified Ideographs Extension A",
+            "CJK Compatibility",
+            "CJK Compatibility Forms",
+            "CJK Compatibility Ideographs",
+            "CJK Radicals Supplement",
+            "CJK Symbols and Punctuation"]
+
+
         if self.uniRangeName == "Box Drawing":
             self.processBoxDrawing()
         elif self.uniRangeName in ['Cyrillic', 'Cyrillic Supplementary']:
@@ -960,17 +980,7 @@ class GlyphName(object):
             self.processHangul()
         elif self.uniRangeName in [ "Katakana", "Katakana Phonetic Extensions", "Hiragana",]:
             self.processKatakanaHiragana()
-        elif self.uniRangeName in [
-            "CJK Unified Ideographs",
-            "CJK Unified Ideographs Extension A",
-            "CJK Unified Ideographs",
-            "CJK Unified Ideographs Extension A",
-            "CJK Compatibility",
-            "CJK Compatibility Forms",
-            "CJK Compatibility Ideographs",
-            "CJK Radicals Supplement",
-            "CJK Symbols and Punctuation",
-            ] and self.includeCJK:
+        elif self.isCJK and self.includeCJK:
             self.processCJK()
         elif self.uniRangeName in [
                 "Arrows",
@@ -998,7 +1008,6 @@ class GlyphName(object):
                 self.suffix("suffix")
                 self.suffix("suffix")
         """
-        self.hasEdits = True
         if self.has(pattern):
             if self.replace(pattern):
                 [self.suffix(s) for s in suffix]
@@ -1065,137 +1074,142 @@ class GlyphName(object):
         return "%s\t\t%05x\t\t%s"%(self.getName(extension=False), self.uniNumber, self.uniName)
         
 
-show = [
-    'Hangul Syllables',
-    'Private Use Area',
-    
-    'Basic Latin',
-    'Latin-1 Supplement',
-    'Latin Extended-A',
-    'Latin Extended-B',
-    'Latin Extended Additional',
-    'Cyrillic',
-    'Cyrillic Supplementary',
-    "Arabic",
-    'Arabic Presentation Forms-A',
-    'Arabic Presentation Forms-B',
-    'Hebrew',
-    "IPA Extensions",
-    "Phonetic Extensions",
-    "Box Drawing",
+if __name__ == "__main__":
+    show = [
+        'Hangul Syllables',
+        'Private Use Area',
+        
+        'Basic Latin',
+        'Latin-1 Supplement',
+        'Latin Extended-A',
+        'Latin Extended-B',
+        'Latin Extended Additional',
+        'Cyrillic',
+        'Cyrillic Supplementary',
+        "Arabic",
+        'Arabic Presentation Forms-A',
+        'Arabic Presentation Forms-B',
+        'Hebrew',
+        "IPA Extensions",
+        "Phonetic Extensions",
+        "Box Drawing",
 
-    "Greek and Coptic",
-    "Greek Extended",
+        "Greek and Coptic",
+        "Greek Extended",
 
-    "Arrows",
-    "Supplemental Arrows-A",
-    "Supplemental Arrows-B",
+        "Arrows",
+        "Supplemental Arrows-A",
+        "Supplemental Arrows-B",
 
-    "Katakana",
-    "Katakana Phonetic Extensions",
-    "Hiragana",
+        "Katakana",
+        "Katakana Phonetic Extensions",
+        "Hiragana",
 
-    # "CJK Unified Ideographs",
-    # "CJK Unified Ideographs Extension A",
-    # "CJK Compatibility",
-    # "CJK Compatibility Forms",
-    # "CJK Compatibility Ideographs",
-    # "CJK Radicals Supplement",
-    # "CJK Symbols and Punctuation"
+        "CJK Unified Ideographs",
+        "CJK Unified Ideographs Extension A",
+        "CJK Compatibility",
+        "CJK Compatibility Forms",
+        "CJK Compatibility Ideographs",
+        "CJK Radicals Supplement",
+        "CJK Symbols and Punctuation"
 
-    # "Alphabetic Presentation Forms",
+        # "Alphabetic Presentation Forms",
 
-]
+    ]
 
-from pprint import pprint
 
-INCLUDECJK = False
 
-skipped = {}
-def generateAll(path):
-    # generate all the names in the first plane
-    lines = []
-    uniqueNamesExtension = {}
-    uniqueNamesNoExtension = {}
-    for uniNumber in range(1, 0xffff):
-        glyphName = GlyphName(uniNumber=uniNumber, verbose=False, includeCJK=INCLUDECJK)
-        if glyphName.uniRangeName not in show:
-            skipped[glyphName.uniRangeName]=True
+    from pprint import pprint
+
+    INCLUDECJK = False
+
+    skipped = {}
+    def generateAll(path):
+        # generate all the names in the first plane
+        lines = []
+        uniqueNamesExtension = {}
+        uniqueNamesNoExtension = {}
+        for uniNumber in range(1, 0xffff):
+            glyphName = GlyphName(uniNumber=uniNumber, verbose=False, includeCJK=INCLUDECJK)
+            if glyphName.uniRangeName not in show:
+                skipped[glyphName.uniRangeName]=True
+                continue
+            if glyphName.hasName():
+                if not INCLUDECJK and glyphName.isCJK:
+                    continue
+                lines.append(glyphName.getExport())
+        f = open(path, 'w')
+        f.write("\n".join(lines))
+        f.close()
+
+    def testUniqueNames():
+        # test if results are unique
+        uniqueNamesExtension = {}
+        uniqueNamesNoExtension = {}
+        for uniNumber in range(1, 0xffff):
+            glyphName = GlyphName(uniNumber=uniNumber, includeCJK=INCLUDECJK)
+            if glyphName.hasName():
+                # print glyphName.getName(extension=True), glyphName.getName(extension=False)
+                thisName = glyphName.getName()
+                if not thisName in uniqueNamesExtension:
+                    uniqueNamesExtension[thisName] = []
+                uniqueNamesExtension[thisName].append(glyphName)
+
+                thisName = glyphName.getName(extension=True)
+                if not thisName in uniqueNamesNoExtension:
+                    uniqueNamesNoExtension[thisName] = []
+                uniqueNamesNoExtension[thisName].append(glyphName)
+        for k, v in uniqueNamesNoExtension.items():
+            if len(v) > 1:
+                print "Failed unique test without extension:", v
+
+        for k, v in uniqueNamesExtension.items():
+            if len(v) > 1:
+                print "Failed unique test:", v
+
+
+    def debug(uniNumber):
+        # trace the processing of a specific number
+        glyphName = GlyphName(uniNumber=uniNumber, verbose=True)
+        glyphName.process()
+        print "debug %04x"%uniNumber
+        print glyphName.getExport()
+        for step in glyphName._log:
+            print "\t", step
+
+    def findCapitals():
+        # find all unicode names that refer to CAPITAL or SMALL
+        parts = ["CAPITAL", 
+            #"SMALL",
+            ]
+        caseNumbers = []
+        for uniNumber in range(1, 0xffff):
+            glyphName = GlyphName(uniNumber=uniNumber, verbose=False)
+
+
+            if glyphName.uniRangeName not in show:
+                continue
+            for p in parts:
+                if glyphName.has(p):
+                    caseNumbers.append(uniNumber)
+        caseNumbers.sort()
+        return caseNumbers
+
+    #for n in findCapitals():
+    #    print GlyphName(uniNumber=n)
+        #print
+        #debug(n)
+
+    generateAll("generatedGlyphNames.txt")
+
+    testUniqueNames()
+
+    # check for duplicate names
+    # print all the keys 
+    s = skipped.keys()
+    s.sort()
+    print "to do"
+    for cat in s:
+        if cat in show:
             continue
-        if glyphName.hasName():
-            lines.append(glyphName.getExport())
-    f = open(path, 'w')
-    f.write("\n".join(lines))
-    f.close()
-
-def testUniqueNames():
-    # test if results are unique
-    uniqueNamesExtension = {}
-    uniqueNamesNoExtension = {}
-    for uniNumber in range(1, 0xffff):
-        glyphName = GlyphName(uniNumber=uniNumber, includeCJK=INCLUDECJK)
-        if glyphName.hasName():
-            # print glyphName.getName(extension=True), glyphName.getName(extension=False)
-            thisName = glyphName.getName()
-            if not thisName in uniqueNamesExtension:
-                uniqueNamesExtension[thisName] = []
-            uniqueNamesExtension[thisName].append(glyphName)
-
-            thisName = glyphName.getName(extension=True)
-            if not thisName in uniqueNamesNoExtension:
-                uniqueNamesNoExtension[thisName] = []
-            uniqueNamesNoExtension[thisName].append(glyphName)
-    for k, v in uniqueNamesNoExtension.items():
-        if len(v) > 1:
-            print "Failed unique test without extension:", v
-
-    for k, v in uniqueNamesExtension.items():
-        if len(v) > 1:
-            print "Failed unique test:", v
-
-
-def debug(uniNumber):
-    # trace the processing of a specific number
-    glyphName = GlyphName(uniNumber=uniNumber, verbose=True)
-    glyphName.process()
-    print "debug %04x"%uniNumber
-    print glyphName.getExport()
-    for step in glyphName._log:
-        print "\t", step
-
-def findCapitals():
-    # find all unicode names that refer to CAPITAL or SMALL
-    parts = ["CAPITAL", 
-        #"SMALL",
-        ]
-    caseNumbers = []
-    for uniNumber in range(1, 0xffff):
-        glyphName = GlyphName(uniNumber=uniNumber, verbose=False)
-
-
-        if glyphName.uniRangeName not in show:
-            continue
-        for p in parts:
-            if glyphName.has(p):
-                caseNumbers.append(uniNumber)
-    caseNumbers.sort()
-    return caseNumbers
-
-#for n in findCapitals():
-#    print GlyphName(uniNumber=n)
-    #print
-    #debug(n)
-
-generateAll("generatedGlyphNames.txt")
-
-testUniqueNames()
-
-# check for duplicate names
-# print all the keys 
-s = skipped.keys()
-s.sort()
-print "to do"
-for cat in s:
-    if cat in show:
-        continue
-    print "\t", cat
+        print "\t", cat
