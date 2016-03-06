@@ -1,0 +1,234 @@
+0x600	arNumberSign	ar-numbersign	ARABIC NUMBER SIGN
+0x601	arSanah	Sanah	ARABIC SIGN SANAH
+0x602	arFootnote	Footnote	ARABIC FOOTNOTE MARKER
+0x603	arSafha	Safha	ARABIC SIGN SAFHA
+0x60c	arComma	ar-comma	ARABIC COMMA
+0x60d	arDate	Date	ARABIC DATE SEPARATOR
+0x60e	arPoetic	Poetic	ARABIC POETIC VERSE SIGN
+0x60f	arMisra	Misra	ARABIC SIGN MISRA
+0x610	arHonSAW	signsallallahoualayhewassallam	ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM
+0x611	arHonAA	signalayheassallam	ARABIC SIGN ALAYHE ASSALLAM
+0x612	arHonRA	signrahmatullahalayhe	ARABIC SIGN RAHMATULLAH ALAYHE
+0x613	arHonRAA	signradiallahouanhu	ARABIC SIGN RADI ALLAHOU ANHU
+0x614	arHonTakhallus	signtakhallus	ARABIC SIGN TAKHALLUS
+0x615	arTahAbove	tahsmallabove	ARABIC SMALL HIGH TAH
+0x61b	arSemicolon	ar-semicolon	ARABIC SEMICOLON
+0x61e	ar3dotpunct	tripledotpunctuationmark	ARABIC TRIPLE DOT PUNCTUATION MARK
+0x61f	arQuestion	ar-question	ARABIC QUESTION MARK
+0x621	arHamza	hamza	ARABIC LETTER HAMZA
+0x622	arAlefMadda	alefmadda	ARABIC LETTER ALEF WITH MADDA ABOVE
+0x623	arAlefHamza	alefhamza	ARABIC LETTER ALEF WITH HAMZA ABOVE
+0x624	arWawHamza	wawhamza	ARABIC LETTER WAW WITH HAMZA ABOVE
+0x625	arAlefHamzaBelow	alefhamzabelow	ARABIC LETTER ALEF WITH HAMZA BELOW
+0x626	arYehHamza	yehhamza	ARABIC LETTER YEH WITH HAMZA ABOVE
+0x627	arAlef	alef	ARABIC LETTER ALEF
+0x628	arBeh	beh	ARABIC LETTER BEH
+0x629	arTehMarbuta	tehmarbuta	ARABIC LETTER TEH MARBUTA
+0x62a	arTeh	teh	ARABIC LETTER TEH
+0x62b	arTheh	theh	ARABIC LETTER THEH
+0x62c	arJeem	jeem	ARABIC LETTER JEEM
+0x62d	arHah	hah	ARABIC LETTER HAH
+0x62e	arKhah	khah	ARABIC LETTER KHAH
+0x62f	arDal	dal	ARABIC LETTER DAL
+0x630	arThal	thal	ARABIC LETTER THAL
+0x631	arReh	reh	ARABIC LETTER REH
+0x632	arZain	zain	ARABIC LETTER ZAIN
+0x633	arSeen	seen	ARABIC LETTER SEEN
+0x634	arSheen	sheen	ARABIC LETTER SHEEN
+0x635	arSad	sad	ARABIC LETTER SAD
+0x636	arDad	dad	ARABIC LETTER DAD
+0x637	arTah	tah	ARABIC LETTER TAH
+0x638	arZah	zah	ARABIC LETTER ZAH
+0x639	arAin	ain	ARABIC LETTER AIN
+0x63a	arGhain	ghain	ARABIC LETTER GHAIN
+0x640	arKashida	tatweel	ARABIC TATWEEL
+0x641	arFeh	feh	ARABIC LETTER FEH
+0x642	arQaf	qaf	ARABIC LETTER QAF
+0x643	arKaf	kaf	ARABIC LETTER KAF
+0x644	arLam	lam	ARABIC LETTER LAM
+0x645	arMeem	meem	ARABIC LETTER MEEM
+0x646	arNoon	noon	ARABIC LETTER NOON
+0x647	arHeh	heh	ARABIC LETTER HEH
+0x648	arWaw	waw	ARABIC LETTER WAW
+0x649	arAlefMaksura	alefmaksura	ARABIC LETTER ALEF MAKSURA
+0x64a	arYeh	yeh	ARABIC LETTER YEH
+0x64b	arFathatan	fathatan	ARABIC FATHATAN
+0x64c	arDammatan	dammatan	ARABIC DAMMATAN
+0x64d	arKasratan	kasratan	ARABIC KASRATAN
+0x64e	arFatha	fatha	ARABIC FATHA
+0x64f	arDamma	damma	ARABIC DAMMA
+0x650	arKasra	kasra	ARABIC KASRA
+0x651	arShadda	shadda	ARABIC SHADDA
+0x652	arSukun	sukun	ARABIC SUKUN
+0x653	arMadda	maddah	ARABIC MADDAH ABOVE
+0x654	arHamzaAbove	hamzaabove	ARABIC HAMZA ABOVE
+0x655	arHamzaBelow	hamzabelow	ARABIC HAMZA BELOW
+0x656	arAlefBelow	alefbelow	ARABIC SUBSCRIPT ALEF
+0x657	arDammaInverted	dammainverted	ARABIC INVERTED DAMMA
+0x658	arNoonGhunnaMark	noonghunnamark	ARABIC MARK NOON GHUNNA
+0x659	arZwarakay	zwarakay	ARABIC ZWARAKAY
+0x65a	arVAbove	vowelsignsmallvabove	ARABIC VOWEL SIGN SMALL V ABOVE
+0x65b	arVInvertedAbove	vowelsignsmallvaboveinverted	ARABIC VOWEL SIGN INVERTED SMALL V ABOVE
+0x65c	arDotBelow	dotbelow	ARABIC VOWEL SIGN DOT BELOW
+0x65d	arDammaReversed	dammareversed	ARABIC REVERSED DAMMA
+0x65e	arFathaDotted	fathadotted	ARABIC FATHA WITH TWO DOTS
+0x660	arZero	ar-zero	ARABIC-INDIC DIGIT ZERO
+0x661	arOne	ar-one	ARABIC-INDIC DIGIT ONE
+0x662	arTwo	ar-two	ARABIC-INDIC DIGIT TWO
+0x663	arThree	ar-three	ARABIC-INDIC DIGIT THREE
+0x664	arFour	ar-four	ARABIC-INDIC DIGIT FOUR
+0x665	arFive	ar-five	ARABIC-INDIC DIGIT FIVE
+0x666	arSix	ar-six	ARABIC-INDIC DIGIT SIX
+0x667	arSeven	ar-seven	ARABIC-INDIC DIGIT SEVEN
+0x668	arEight	ar-eight	ARABIC-INDIC DIGIT EIGHT
+0x669	arNine	ar-nine	ARABIC-INDIC DIGIT NINE
+0x66a	arPercent	ar-percent	ARABIC PERCENT SIGN
+0x66b	arDecimal	Decimal	ARABIC DECIMAL SEPARATOR
+0x66c	arThousands	Thousands	ARABIC THOUSANDS SEPARATOR
+0x66d	arStar	fivepointedstar	ARABIC FIVE POINTED STAR
+0x66e	arBehDotless	behdotless	ARABIC LETTER DOTLESS BEH
+0x66f	arQafDotless	qafdotless	ARABIC LETTER DOTLESS QAF
+0x670	arAlefAbove	superscriptalef	ARABIC LETTER SUPERSCRIPT ALEF
+0x671	arAlefWasla	alefwasla	ARABIC LETTER ALEF WASLA
+0x672	arAlefWavyHamza	alef_wavyhamzaabove	ARABIC LETTER ALEF WITH WAVY HAMZA ABOVE
+0x673	arAlefWavyHamzaBelow	alef_wavyhamzabelow	ARABIC LETTER ALEF WITH WAVY HAMZA BELOW
+0x674	arHamzaHigh	highhamza	ARABIC LETTER HIGH HAMZA
+0x675	arAlefHamzaHigh	alefhighhamza	ARABIC LETTER HIGH HAMZA ALEF
+0x676	arWawHamzaHigh	wawhighhamza	ARABIC LETTER HIGH HAMZA WAW
+0x677	arUHamzaAbove	uhamza	ARABIC LETTER U WITH HAMZA ABOVE
+0x678	arYehHamzaAbove	yehhighhamza	ARABIC LETTER HIGH HAMZA YEH
+0x679	arTteh	tteh	ARABIC LETTER TTEH
+0x67a	arTteheh	tteheh	ARABIC LETTER TTEHEH
+0x67b	arBeeh	beeh	ARABIC LETTER BEEH
+0x67c	arTehRing	tehring	ARABIC LETTER TEH WITH RING
+0x67d	arTehThreeDownAbove	tehdownwardsthreeabove	ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS
+0x67e	arPeh	peh	ARABIC LETTER PEH
+0x67f	arTeheh	teheh	ARABIC LETTER TEHEH
+0x680	arBeheh	beheh	ARABIC LETTER BEHEH
+0x681	arHahHamzaAbove	hahhamza	ARABIC LETTER HAH WITH HAMZA ABOVE
+0x682	arHahTwoVertAbove	hahtwodotsverticalabove	ARABIC LETTER HAH WITH TWO DOTS VERTICAL ABOVE
+0x683	arNyeh	nyeh	ARABIC LETTER NYEH
+0x684	arDyeh	dyeh	ARABIC LETTER DYEH
+0x685	arHahThreeAbove	hahthreeabove	ARABIC LETTER HAH WITH THREE DOTS ABOVE
+0x686	arTcheh	tcheh	ARABIC LETTER TCHEH
+0x687	arTcheheh	tcheheh	ARABIC LETTER TCHEHEH
+0x688	arDdal	ddal	ARABIC LETTER DDAL
+0x689	arDalRing	dalring	ARABIC LETTER DAL WITH RING
+0x68a	arDalDotBelow	daldotbelow	ARABIC LETTER DAL WITH DOT BELOW
+0x68b	arDdalDotBelow	dalandsmalltahdotbelow	ARABIC LETTER DAL WITH DOT BELOW AND SMALL TAH
+0x68c	arDahal	dahal	ARABIC LETTER DAHAL
+0x68d	arDdahal	ddahal	ARABIC LETTER DDAHAL
+0x68e	arDul	dul	ARABIC LETTER DUL
+0x68f	arDalThreeDownAbove	daldownwardsthreeabove	ARABIC LETTER DAL WITH THREE DOTS ABOVE DOWNWARDS
+0x690	arDalFourAbove	dalfourdotsabove	ARABIC LETTER DAL WITH FOUR DOTS ABOVE
+0x691	arRreh	rreh	ARABIC LETTER RREH
+0x692	arRehVAbove	reh_smallv	ARABIC LETTER REH WITH SMALL V
+0x693	arRehRing	rehring	ARABIC LETTER REH WITH RING
+0x694	arRehDotBelow	rehdotbelow	ARABIC LETTER REH WITH DOT BELOW
+0x695	arRehVBelow	reh_smallvbelow	ARABIC LETTER REH WITH SMALL V BELOW
+0x696	arRehDotBelowDotAbove	rehdotbelowdotabove	ARABIC LETTER REH WITH DOT BELOW AND DOT ABOVE
+0x697	arRehTwoAbove	rehtwoabove	ARABIC LETTER REH WITH TWO DOTS ABOVE
+0x698	arJeh	jeh	ARABIC LETTER JEH
+0x699	arRehFourAbove	rehfourdotsabove	ARABIC LETTER REH WITH FOUR DOTS ABOVE
+0x69a	arSeenDotBelowDotAbove	seendotbelowdotabove	ARABIC LETTER SEEN WITH DOT BELOW AND DOT ABOVE
+0x69b	arSeenThreeBelow	seenthreebelow	ARABIC LETTER SEEN WITH THREE DOTS BELOW
+0x69c	arSheenThreeBelow	seenthreebelowthreeabove	ARABIC LETTER SEEN WITH THREE DOTS BELOW AND THREE DOTS ABOVE
+0x69d	arSadTwoBelow	sadtwobelow	ARABIC LETTER SAD WITH TWO DOTS BELOW
+0x69e	arSadThreeAbove	sadthreeabove	ARABIC LETTER SAD WITH THREE DOTS ABOVE
+0x69f	arTahThreeAbove	tahthreeabove	ARABIC LETTER TAH WITH THREE DOTS ABOVE
+0x6a0	arAinThreeAbove	ainthreeabove	ARABIC LETTER AIN WITH THREE DOTS ABOVE
+0x6a1	arFehDotless	dotlessfeh	ARABIC LETTER DOTLESS FEH
+0x6a2	arFehDotBelowRight	fehdotbelowright	ARABIC LETTER FEH WITH DOT MOVED BELOW
+0x6a3	arFehDotBelow	fehdotbelow	ARABIC LETTER FEH WITH DOT BELOW
+0x6a4	arVeh	veh	ARABIC LETTER VEH
+0x6a5	arFehThreeBelow	fehthreebelow	ARABIC LETTER FEH WITH THREE DOTS BELOW
+0x6a6	arPeheh	peheh	ARABIC LETTER PEHEH
+0x6a7	arQafDotAbove	qafdotabove	ARABIC LETTER QAF WITH DOT ABOVE
+0x6a8	arQafThreeAbove	qafthreeabove	ARABIC LETTER QAF WITH THREE DOTS ABOVE
+0x6a9	arKeheh	keheh	ARABIC LETTER KEHEH
+0x6aa	arKafSwash	swashkaf	ARABIC LETTER SWASH KAF
+0x6ab	arKafRing	kafring	ARABIC LETTER KAF WITH RING
+0x6ac	arKafDotAbove	kafdotabove	ARABIC LETTER KAF WITH DOT ABOVE
+0x6ad	arNg	ng	ARABIC LETTER NG
+0x6ae	arKafThreeBelow	kafthreebelow	ARABIC LETTER KAF WITH THREE DOTS BELOW
+0x6af	arGaf	gaf	ARABIC LETTER GAF
+0x6b0	arGafRing	gafring	ARABIC LETTER GAF WITH RING
+0x6b1	arNgoeh	ngoeh	ARABIC LETTER NGOEH
+0x6b2	arGafTwoBelow	gaftwobelow	ARABIC LETTER GAF WITH TWO DOTS BELOW
+0x6b3	arGueh	gueh	ARABIC LETTER GUEH
+0x6b4	arGafThreeAbove	gafthreeabove	ARABIC LETTER GAF WITH THREE DOTS ABOVE
+0x6b5	arLamVAbove	lam_smallv	ARABIC LETTER LAM WITH SMALL V
+0x6b6	arLamDotAbove	lamdotabove	ARABIC LETTER LAM WITH DOT ABOVE
+0x6b7	arLamThreeAbove	lamthreeabove	ARABIC LETTER LAM WITH THREE DOTS ABOVE
+0x6b8	arLamThreeBelow	lamthreebelow	ARABIC LETTER LAM WITH THREE DOTS BELOW
+0x6b9	arNoonDotBelow	noondotbelow	ARABIC LETTER NOON WITH DOT BELOW
+0x6ba	arNoonGhunna	noonghunna	ARABIC LETTER NOON GHUNNA
+0x6bb	arRnoon	rnoon	ARABIC LETTER RNOON
+0x6bc	arNoonRing	noonring	ARABIC LETTER NOON WITH RING
+0x6bd	arNoonThreeAbove	noonthreeabove	ARABIC LETTER NOON WITH THREE DOTS ABOVE
+0x6be	arHehDoachashmee	hehdoachashmee	ARABIC LETTER HEH DOACHASHMEE
+0x6bf	arTchehDotAbove	tchehdotabove	ARABIC LETTER TCHEH WITH DOT ABOVE
+0x6c0	arHehYeh	hehyehabove	ARABIC LETTER HEH WITH YEH ABOVE
+0x6c1	arHehGoal	hehgoal	ARABIC LETTER HEH GOAL
+0x6c2	arHehGoalHamza	hehgoalhamza	ARABIC LETTER HEH GOAL WITH HAMZA ABOVE
+0x6c3	arTehMarbutaGoal	tehmarbutagoal	ARABIC LETTER TEH MARBUTA GOAL
+0x6c4	arWawRing	wawring	ARABIC LETTER WAW WITH RING
+0x6c5	arOeKIR	oekirghiz	ARABIC LETTER KIRGHIZ OE
+0x6c6	arOe	ar-oe	ARABIC LETTER OE
+0x6c7	arU	ar-u	ARABIC LETTER U
+0x6c8	arYu	ar-yu	ARABIC LETTER YU
+0x6c9	arYuKIR	yukirghiz	ARABIC LETTER KIRGHIZ YU
+0x6ca	arWawTwoAbove	wawtwoabove	ARABIC LETTER WAW WITH TWO DOTS ABOVE
+0x6cb	arVe	ar-ve	ARABIC LETTER VE
+0x6cc	arYehFAR	yehfarsi	ARABIC LETTER FARSI YEH
+0x6cd	arYehtail	yehtail	ARABIC LETTER YEH WITH TAIL
+0x6ce	arYehVAbove	yeh_smallv	ARABIC LETTER YEH WITH SMALL V
+0x6cf	arWawDotAbove	wawdotabove	ARABIC LETTER WAW WITH DOT ABOVE
+0x6d0	arE	ar-e	ARABIC LETTER E
+0x6d1	arYeh3dBelow	yehthreebelow	ARABIC LETTER YEH WITH THREE DOTS BELOW
+0x6d2	arYehBarree	yehbarree	ARABIC LETTER YEH BARREE
+0x6d3	arYehBarreeHamza	yehbarreehamza	ARABIC LETTER YEH BARREE WITH HAMZA ABOVE
+0x6d4	arPeriodURD	fullstop	ARABIC FULL STOP
+0x6d5	arAe	ar-ae	ARABIC LETTER AE
+0x6d6	arSLAligAbove	sad_lam_alefmaksurasmallabove	ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA
+0x6d7	arQLAligAbove	qaf_lam_alefmaksurasmallabove	ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA
+0x6d8	arMeemiAbove	meemsmallabove.init	ARABIC SMALL HIGH MEEM INITIAL FORM
+0x6d9	arLamAlefAbove	lamalefsmallabove	ARABIC SMALL HIGH LAM ALEF
+0x6da	arJeemAbove	jeemsmallabove	ARABIC SMALL HIGH JEEM
+0x6db	arThreeAbove	threedotssmallabove	ARABIC SMALL HIGH THREE DOTS
+0x6dc	arSeenAbove	seensmallabove	ARABIC SMALL HIGH SEEN
+0x6dd	arAyahEnd	ayahend	ARABIC END OF AYAH
+0x6de	arRubElHizbStart	rubElHizbstart	ARABIC START OF RUB EL HIZB
+0x6df	arZeroRoundAbove	roundedzerosmallabove	ARABIC SMALL HIGH ROUNDED ZERO
+0x6e0	arZeroSquareAbove	uprightrectangularzerosmallabove	ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO
+0x6e1	arKhahDotlessAbove	dotlessheadofkhahsmallabove	ARABIC SMALL HIGH DOTLESS HEAD OF KHAH
+0x6e2	arMeemAbove	meemsmallabove.isol	ARABIC SMALL HIGH MEEM ISOLATED FORM
+0x6e3	arSeenBelow	smallseenlow	ARABIC SMALL LOW SEEN
+0x6e4	arMaddaSmallAbove	maddasmallabove	ARABIC SMALL HIGH MADDA
+0x6e5	arWawSmall	wawsmall	ARABIC SMALL WAW
+0x6e6	arYehSmall	yehsmall	ARABIC SMALL YEH
+0x6e7	arYehAbove	yehsmallabove	ARABIC SMALL HIGH YEH
+0x6e8	arNoonAbove	noonsmallabove	ARABIC SMALL HIGH NOON
+0x6e9	arSajdah	Sajdah	ARABIC PLACE OF SAJDAH
+0x6ea	arStopBelow	stopabove	ARABIC EMPTY CENTRE LOW STOP
+0x6eb	arStopAbove	stopbelow	ARABIC EMPTY CENTRE HIGH STOP
+0x6ec	arStopBlackAbove	roundedhighstop_filledcentre	ARABIC ROUNDED HIGH STOP WITH FILLED CENTRE
+0x6ed	arMeemBelow	smalllowmeem	ARABIC SMALL LOW MEEM
+0x6ee	arDalVInverted	dalinvertedv	ARABIC LETTER DAL WITH INVERTED V
+0x6ef	arRehVInverted	rehinvertedv	ARABIC LETTER REH WITH INVERTED V
+0x6f0	arZeroFAR	zeroFar	EXTENDED ARABIC-INDIC DIGIT ZERO
+0x6f1	arOneFAR	oneFar	EXTENDED ARABIC-INDIC DIGIT ONE
+0x6f2	arTwoFAR	twoFar	EXTENDED ARABIC-INDIC DIGIT TWO
+0x6f3	arThreeFAR	threeFar	EXTENDED ARABIC-INDIC DIGIT THREE
+0x6f4	arFourFAR	fourFar	EXTENDED ARABIC-INDIC DIGIT FOUR
+0x6f5	arFiveFAR	fiveFar	EXTENDED ARABIC-INDIC DIGIT FIVE
+0x6f6	arSixFAR	sixFar	EXTENDED ARABIC-INDIC DIGIT SIX
+0x6f7	arSevenFAR	sevenFar	EXTENDED ARABIC-INDIC DIGIT SEVEN
+0x6f8	arEightFAR	eightFar	EXTENDED ARABIC-INDIC DIGIT EIGHT
+0x6f9	arNineFAR	nineFar	EXTENDED ARABIC-INDIC DIGIT NINE
+0x6fa	arSheenDotBelow	sheendotbelow	ARABIC LETTER SHEEN WITH DOT BELOW
+0x6fb	arDadDotBelow	daddotbelow	ARABIC LETTER DAD WITH DOT BELOW
+0x6fc	arGhainDotBelow	ghaindotbelow	ARABIC LETTER GHAIN WITH DOT BELOW
+0x6fd	arAmpersandSindhi	signsindhiampersand	ARABIC SIGN SINDHI AMPERSAND
+0x6fe	arMenpostSindhi	signsindhipostpositionmen	ARABIC SIGN SINDHI POSTPOSITION MEN
+0x6ff	arHehVInverted	heh_vinverted	ARABIC LETTER HEH WITH INVERTED V

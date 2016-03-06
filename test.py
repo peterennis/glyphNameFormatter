@@ -50,18 +50,39 @@ def compareWithAGDResults():
     print "matching names in AGD and uni", len(same)
 
     onlyShow = [
-        "Basic Latin",
-        "Latin-1 Supplement",
-        "Latin Extended-A",
-        "Latin Extended-B"
+        #"Basic Latin",
+        #"Latin-1 Supplement",
+        #"Latin Extended-A",
+        #"Latin Extended-B",
+
+        "Arabic"
+
     ]
+
+    differentCount = 0
+    for uniNumber in different:
+        g = glyphs[uniNumber]
+        if g.uniRangeName in onlyShow:
+            differentCount += 1
+
     print 
-    print len(different), "differing names"
+    print differentCount, "differing names"
+    lines = []
     for uniNumber in different:
         if uniNumber in agd:
             g = glyphs[uniNumber]
             if g.uniRangeName in onlyShow:
-                print agd[uniNumber], "\t", g.uniNameProcessed, "\t", g.uniName, "\t", g.uniRangeName
+                line = []
+                line.append(hex(g.uniNumber))
+                line.append(agd[uniNumber])
+                line.append(g.getName(extension=False))
+                line.append(g.uniName)
+                # line.append(g.uniRangeName)
+                lines.append("\t".join(line))
+    path = "./test/differences.txt"
+    f = open(path, 'w')
+    f.write("\n".join(lines))
+    f.close()
 
 
 compareWithAGDResults()

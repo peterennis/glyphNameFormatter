@@ -71,6 +71,9 @@ class GlyphName(object):
 
         "numbersign",
         "semicolon",
+        'zero', 'one', 'two', 'three', 'four', 'five', 'six',
+        'seven', 'eight', 'nine',
+        'percent'
     ]
 
     def __init__(self, niceName=None, uniNumber=None, verbose=False, includeCJK=False):
@@ -241,6 +244,7 @@ class GlyphName(object):
         self.edit("WITH TILDE AND DIAERESIS", "tilde", self.prefSpelling_dieresis)
         self.edit("WITH BREVE AND GRAVE", "breve", "grave")
         self.edit("WITH DOT BELOW AND MACRON", "macron", "dot")
+        self.edit("WITH DIAERESIS AND GRAVE", self.prefSpelling_dieresis, "grave")
         self.edit("WITH DIAERESIS AND ACUTE", self.prefSpelling_dieresis, "acute")
         self.edit("WITH DIAERESIS AND TILDE", self.prefSpelling_dieresis, "tilde")
         self.edit("WITH TILDE BELOW", "tilde", "below")
@@ -255,7 +259,7 @@ class GlyphName(object):
         self.edit("WITH TILDE AND ACUTE", "tilde", "acute")
         self.edit("WITH TILDE AND MACRON", "tilde", "macron")
         self.edit("WITH DIAERESIS AND MACRON", self.prefSpelling_dieresis, "macron")
-        self.edit("WITH DOT ABOVE AND MACRON", "dotaccent", "macron")
+        self.edit("WITH DOT ABOVE AND MACRON", "dot", "macron")
         # PRECEDED BY ___
         self.edit("PRECEDED BY APOSTROPHE", "apostrophe")
         # WITH ___ 
@@ -301,7 +305,7 @@ class GlyphName(object):
         self.edit("WITH HOOK TAIL", "hook", "tail")
         self.edit("WITH MIDDLE HOOK", "middlehook")
         self.edit("WITH LOOP", "loop")
-        self.edit("WITH LEFT HOOK", "left", "hook")
+        self.edit("WITH LEFT HOOK", "hook", "left")
         self.edit("WITH HOOK ABOVE", "hook", "above")
         self.edit("WITH HOOK", "hook")
         self.edit("AND HOOK", "hook")
@@ -314,9 +318,60 @@ class GlyphName(object):
     def processArabic(self):
         if self.verbose:
             print "processArabic"
-        self.edit("ARABIC-INDIC", "indic")
-        self.replace("ARABIC")
         self.scriptTag = self.languageTags['arabic']
+
+        # AGD compatible
+        self.edit("ARABIC SIGN SAFHA", "Safha")
+        self.edit("ARABIC DATE SEPARATOR", "Date")
+        self.edit("ARABIC POETIC VERSE SIGN", "Poetic")
+        self.edit("ARABIC SIGN MISRA", "Misra")
+        self.edit("ARABIC LETTER DAL WITH INVERTED V", "dalinvertedv")
+        self.edit("ARABIC LETTER REH WITH INVERTED V", "rehinvertedv")
+        self.edit("ARABIC SMALL WAW", "wawsmall")
+        self.edit("ARABIC SMALL YEH", "yehsmall")
+        self.edit("WITH DOT BELOW AND DOT ABOVE", "dotbelowdotabove")
+        self.edit("WITH DOT MOVED BELOW", 'dotbelowright')
+        self.edit("WITH DOT ABOVE", "dotabove")
+        self.edit("WITH TWO DOTS ABOVE", 'twoabove')
+        self.edit("WITH TWO DOTS BELOW", 'twobelow')
+        self.edit("WITH THREE DOTS BELOW AND THREE DOTS ABOVE", 'threebelowthreeabove')
+        self.edit("WITH THREE DOTS BELOW", 'threebelow')
+        self.edit("WITH THREE DOTS ABOVE", 'threeabove')
+        self.edit("HIGH HAMZA", "highhamza")
+        self.edit("WITH HAMZA ABOVE", "hamza")
+        self.edit("WITH YEH ABOVE", 'yehabove')
+        self.edit("ARABIC MADDAH ABOVE", "maddah")
+        self.edit("ARABIC SUBSCRIPT ALEF", "alefbelow")
+        self.edit("ARABIC VOWEL SIGN DOT BELOW", "dotbelow")
+        self.edit("ARABIC REVERSED DAMMA", "dammareversed")
+        self.edit("ARABIC FATHA WITH TWO DOTS", "fathadotted")
+        self.edit("ARABIC LETTER ALEF WITH MADDA ABOVE", "alefmadda")
+        self.edit("ARABIC LETTER ALEF WITH HAMZA ABOVE", "alefhamza")
+        self.edit("ARABIC LETTER WAW WITH HAMZA ABOVE", "wawhamza")
+        self.edit("ARABIC LETTER ALEF WITH HAMZA BELOW", "alefhamzabelow")
+        self.edit("ARABIC-INDIC DIGIT")
+        self.edit("ARABIC PERCENT SIGN", "percent")
+        self.edit("ARABIC DECIMAL SEPARATOR", "Decimal")
+        self.edit("ARABIC THOUSANDS SEPARATOR", "Thousands")
+        self.edit("ARABIC LETTER DOTLESS BEH", 'behdotless')
+        self.edit("ARABIC LETTER DOTLESS QAF", 'qafdotless')
+        self.edit("WITH RING", "ring")
+        self.edit("WITH TAIL", "tail")
+        self.edit("ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS", 'tehthreedownabove')
+        self.edit("ARABIC LETTER HAH WITH TWO DOTS VERTICAL ABOVE", "hahtwodotsverticalabove")
+        self.edit("WITH DOT BELOW", "dotbelow")
+        self.edit("WITH FOUR DOTS ABOVE", 'fourdotsabove')
+        self.edit("END OF AYAH", "ayahend")
+        self.edit("ARABIC START OF RUB EL HIZB", "rubElHizbstart")
+        self.edit("LOW SEEN", "seenlow")
+        self.edit("PLACE OF SAJDAH", 'Sajdah')
+        self.edit("EMPTY CENTRE LOW STOP", "stopabove")
+        self.edit("EMPTY CENTRE HIGH STOP", "stopbelow")
+        self.edit("MARK NOON GHUNNA", "noonghunnamark")
+        self.edit("INVERTED", 'inverted')
+
+        self.edit("EXTENDED", "Far")
+        self.replace("ARABIC")
 
         lowercaseOk = True
         self.replace("ZERO WIDTH NO-BREAK SPACE", "zerowidthnbspace")
@@ -472,6 +527,15 @@ class GlyphName(object):
         self.edit("LATIN SMALL LETTER H WITH STROKE", "hbar")
         self.edit("LATIN CAPITAL LETTER D WITH STROKE", "Dcroat")
         self.edit("LATIN SMALL LETTER D WITH STROKE", "dcroat")
+        self.edit("LATIN SMALL LETTER F WITH HOOK", "florin")
+        self.edit("CIRCUMFLEX ACCENT", "asciicircum")
+        self.edit("LATIN CAPITAL LETTER O WITH MIDDLE TILDE", "Obar")
+        self.edit("LATIN CAPITAL LETTER L WITH STROKE", "Lslash")
+        self.edit("LATIN SMALL LETTER L WITH STROKE", "lslash")
+        self.edit("LATIN CAPITAL LETTER UPSILON", self.languageTags['latin']+"-upsilon")
+        self.edit("LATIN CAPITAL LETTER IOTA", self.languageTags['latin']+"-iota")
+        self.edit("LATIN CAPITAL LETTER GAMMA", self.languageTags['latin']+"-gamma")
+        self.replace("SOFT HYPHEN", "hyphensoft")
         # sort these before anything else
         self.replace("BROKEN BAR", "brokenbar")
         self.replace("LATIN LETTER WYNN", "wynn")
@@ -479,7 +543,7 @@ class GlyphName(object):
         self.replace("LATIN LETTER LATERAL CLICK", "clicklateral")
         self.replace("LATIN LETTER ALVEOLAR CLICK", "clickalveolar")
         self.replace("LATIN LETTER RETROFLEX CLICK", "clickretroflex")
-        self.replace("LATIN LETTER INVERTED GLOTTAL STOP WITH STROKE", 'glottalstopinvertedstroke')
+        self.replace("LATIN LETTER INVERTED GLOTTAL STOP WITH STROKE", 'glottalinvertedstroke')
         self.replace("LATIN CAPITAL LETTER SMALL Q WITH HOOK TAIL", "Qsmallhooktail")
         self.replace("LATIN SMALL LETTER AE", "ae")   # case gets wrong
         self.replace("LATIN CAPITAL LETTER AE", "AE")   # case gets wrong
@@ -491,11 +555,10 @@ class GlyphName(object):
         self.replace("LATIN SMALL LETTER DOTLESS J", "dotlessj")
         self.replace("LATIN LETTER TWO WITH STROKE", "twostroke")
         self.replace("COPYRIGHT SIGN", "copyright")  # triggers "right"
-        self.replace("LEFT-POINTING DOUBLE ANGLE QUOTATION MARK", "guillemetleft")  # or guillemot ?
-        self.replace("RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK", "guillemetright")  # or guillemot ?
+        self.edit("LEFT-POINTING DOUBLE ANGLE QUOTATION MARK", "guillemetleft")  # or guillemot ?
+        self.edit("RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK", "guillemetright")  # or guillemot ?
         self.replace("FEMININE ORDINAL INDICATOR", "ordfeminine")
         self.replace("MASCULINE ORDINAL INDICATOR", "ordmasculine")
-        self.replace("SOFT HYPHEN", "hyphensoft")
         self.replace("FULL STOP", "period")
         self.replace("LOW LINE", "underscore")
         self.replace("LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE", "Ocircumflexhookabove")
@@ -513,7 +576,7 @@ class GlyphName(object):
         self.replace("LATIN CAPITAL LETTER MIDDLE-WELSH LL", "LLmiddlewelsh")
         self.replace("LATIN SMALL LETTER MIDDLE-WELSH LL", "llmiddlewelsh")
         self.edit("MIDDLE-WELSH", "middlewelsh")
-        self.edit("WITH LONG RIGHT LEG", "long", "leg", "right")
+        self.edit("WITH LONG RIGHT LEG", "long", "right", "leg")
         self.edit("AFRICAN", "african")
         self.edit("TURNED", "turned")
         self.edit("OPEN", "open")
@@ -533,6 +596,7 @@ class GlyphName(object):
         self.edit("LATIN CAPITAL LETTER L WITH SMALL LETTER J", "Lj")
         self.edit("LATIN CAPITAL LETTER NJ", "NJ")
         self.edit("LATIN CAPITAL LETTER N WITH SMALL LETTER J", "Nj")
+        self.edit("QUOTATION MARK", "quotedbl")
 
         # process
         self.processShape()
@@ -544,13 +608,11 @@ class GlyphName(object):
             self.replace("SHARP S", "germandbls")
         # hard exceptions
         self.replace("COMMERCIAL AT", "at")
-        self.replace("TILDE", "asciitilde")
         self.edit("NO-BREAK SPACE", "nbspace")
         self.edit("SPACE", "space")
             # INVERTED QUESTION MARK
-        self.replace("EXCLAMATION MARK", "exclamation")
+        self.replace("EXCLAMATION MARK", "exclam")
         self.replace("QUESTION MARK", "question")
-        self.replace("QUOTATION MARK", "quotedouble")
         self.replace("NUMBER SIGN", "numbersign")
         self.replace("DOLLAR SIGN", "dollar")
         self.replace("PERCENT SIGN", "percent")
@@ -569,7 +631,7 @@ class GlyphName(object):
         self.replace("HYPHEN-MINUS", "hyphen")
         self.replace("AMPERSAND", "ampersand")
         self.replace("ASTERISK", "asterisk")
-        self.replace("APOSTROPHE", "apostrophe")
+        self.replace("APOSTROPHE", "quotesingle")
         self.replace("NOT SIGN", "logicalnot")
         self.replace("REGISTERED SIGN", "registered")
         self.replace("DEGREE SIGN", "degree")
@@ -686,7 +748,7 @@ class GlyphName(object):
         if self.has("GLOTTAL STOP"):
             if self.replace("GLOTTAL STOP"):
                 self.suffix("glottal")
-                self.suffix("stop")
+                # self.suffix("stop")
                 self.replace("LETTER")
 
         if self.has("WITH MIDDLE TILDE"):
@@ -1206,10 +1268,10 @@ if __name__ == "__main__":
 
     # check for duplicate names
     # print all the keys 
-    s = skipped.keys()
-    s.sort()
-    print "to do"
-    for cat in s:
-        if cat in show:
-            continue
-        print "\t", cat
+    # s = skipped.keys()
+    # s.sort()
+    # print "to do"
+    # for cat in s:
+    #     if cat in show:
+    #         continue
+    #     print "\t", cat
