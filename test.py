@@ -1,5 +1,7 @@
 
-from glyphNameFormatter import GlyphName
+from glyphNameFormatter import *
+
+print debug(0x1eb2)
 
 INCLUDECJK = False
 
@@ -29,6 +31,10 @@ def compareWithAGDResults():
     missingAGD = []
     same = []
     different = []
+    totalAgdNameLengths = []
+    totalUniNameLengths = []
+    selectionAgdNameLengths = []
+    selectionUniNameLengths = []
 
     for uniNumber in range(1, 0xffff):
         a = agd.get(uniNumber)
@@ -40,24 +46,59 @@ def compareWithAGDResults():
             continue
         if u is None:
             continue
-        uName = u.uniNameProcessed
+        uName = u.getName(extension=False)
         if a == uName:
             same.append(uniNumber)
         else:
             different.append(uniNumber)
-
+        # stats
+        #print a, uName
+        totalAgdNameLengths.append(len(a))
+        totalUniNameLengths.append(len(uName))
     same.sort()
     print "matching names in AGD and uni", len(same)
 
     onlyShow = [
-        #"Basic Latin",
-        #"Latin-1 Supplement",
-        #"Latin Extended-A",
-        #"Latin Extended-B",
+     
+        
+        'Basic Latin',
+        'Latin-1 Supplement',
+        'Latin Extended-A',
+        'Latin Extended-B',
+        'Latin Extended Additional',
+        #'Cyrillic',
+        #'Cyrillic Supplementary',
+        # "Arabic",
+        # 'Arabic Presentation Forms-A',
+        # 'Arabic Presentation Forms-B',
+        # 'Hebrew',
+        #"IPA Extensions",
+        #"Phonetic Extensions",
+        # "Box Drawing",
 
-        "Arabic"
+        #"Greek and Coptic",
+        #"Greek Extended",
+
+        # "Arrows",
+        # "Supplemental Arrows-A",
+        # "Supplemental Arrows-B",
+
+        #"Katakana",
+         # "Katakana Phonetic Extensions",
+        #"Hiragana",
+
+        #"CJK Unified Ideographs",
+        # "CJK Unified Ideographs Extension A",
+        # "CJK Compatibility",
+        # "CJK Compatibility Forms",
+        # "CJK Compatibility Ideographs",
+        # "CJK Radicals Supplement",
+        # "CJK Symbols and Punctuation"
+
+
 
     ]
+
 
     differentCount = 0
     for uniNumber in different:
@@ -77,12 +118,18 @@ def compareWithAGDResults():
                 line.append(agd[uniNumber])
                 line.append(g.getName(extension=False))
                 line.append(g.uniName)
-                # line.append(g.uniRangeName)
                 lines.append("\t".join(line))
+                selectionAgdNameLengths.append(len(agd[uniNumber]))
+                selectionUniNameLengths.append(len(g.getName(extension=False)))
     path = "./test/differences.txt"
     f = open(path, 'w')
     f.write("\n".join(lines))
     f.close()
 
+    print "average name length AGD total", sum(totalAgdNameLengths)/float(len(totalAgdNameLengths)), "(total %d)"%len(totalAgdNameLengths)
+    print "average name length Uni total", sum(totalUniNameLengths)/float(len(totalUniNameLengths)), "(total %d)"%len(totalUniNameLengths)
+
+    print "average name length AGD selection", sum(selectionAgdNameLengths)/float(len(selectionAgdNameLengths)), "(total %d)"%len(selectionAgdNameLengths)
+    print "average name length Uni selection", sum(selectionUniNameLengths)/float(len(selectionUniNameLengths)), "(total %d)"%len(selectionUniNameLengths)
 
 compareWithAGDResults()
