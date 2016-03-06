@@ -16,7 +16,10 @@ class GlyphName(object):
         'greek': 'gr',
         'hebrew': 'hb',
         'boxdrawings': 'bxd',
-        'cyrillic': 'cy'
+        'cyrillic': 'cy',
+        'hangul': 'ko',
+        'japan': 'jp',
+        'CJK': 'cjk'
     }
     ambiguousNames =[
         "A",
@@ -70,7 +73,7 @@ class GlyphName(object):
         "semicolon",
     ]
 
-    def __init__(self, niceName=None, uniNumber=None, verbose=False):
+    def __init__(self, niceName=None, uniNumber=None, verbose=False, includeCJK=False):
         self.niceName = niceName
         self.uniNumber = uniNumber
         self.uniLetter = None
@@ -87,6 +90,8 @@ class GlyphName(object):
         self.latinCentric = True    # admit latincentric naming, if we can leave out latin tags, go for it
         self._log = []
         self.verbose = verbose
+        self.hasEdits = False       # true if we have been edited
+        self.includeCJK = includeCJK
         self.lookup()
         self.process()
 
@@ -423,9 +428,36 @@ class GlyphName(object):
             if self.replace("RIAL SIGN"):
                 self.suffix("rial")
 
+    def processCJK(self):
+        self.scriptTag = self.languageTags['CJK']
+        self.uniNameProcessed = self.uniName.replace(" ", "")
+        self.uniNameProcessed = self.uniNameProcessed.replace("-", "_")
+        self.lower()
+
+    def processKatakanaHiragana(self):
+        self.scriptTag = self.languageTags['japan']
+        self.condense("COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK")
+        self.condense("COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK")
+        self.condense("KATAKANA-HIRAGANA VOICED SOUND MARK")
+        self.condense("KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK")
+        self.condense("HIRAGANA ITERATION MARK")
+        self.condense("HIRAGANA VOICED ITERATION MARK")
+        self.condense("KATAKANA-HIRAGANA DOUBLE HYPHEN")
+        self.condense("KATAKANA-HIRAGANA PROLONGED SOUND MARK")
+        
+        self.edit("SMALL", "small")
+        self.edit("DIGRAPH", "digraph")
+        self.edit("KATAKANA", "katakana")
+        self.edit("HIRAGANA", "hiragana")
+        self.edit("LETTER", "")
+        self.lower()
+
     def processHangul(self):
+        self.scriptTag = self.languageTags['hangul']
         if self.has("HANGUL SYLLABLE"):
-            self.replace("HANGUL SYLLABLE", "-hangul")
+            self.replace("HANGUL SYLLABLE")
+        self.lower()
+        self.compress()
 
     def processLatin(self):
         if self.verbose:
@@ -768,6 +800,145 @@ class GlyphName(object):
     def processPrivateUse(self):
         self.uniNameProcessed = "privateUseArea_%04x"%self.uniNumber
 
+    def _arrowAsNumber(self):
+        self.uniNameProcessed = "arrow_%04x"%self.uniNumber
+
+    def processArrows(self):
+
+        # handle all the harpoon + barb names
+        # Difficult to make a shorter name without losing information
+        # LEFTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB DOWN
+        # UPWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT
+        # RIGHTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB DOWN
+        # DOWNWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT
+        # LEFTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB UP
+        # LEFTWARDS HARPOON WITH BARB DOWN ABOVE RIGHTWARDS HARPOON WITH BARB DOWN
+        # RIGHTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB UP
+        # RIGHTWARDS HARPOON WITH BARB DOWN ABOVE LEFTWARDS HARPOON WITH BARB DOWN
+        # etc.
+        if  0x21b6 <= self.uniNumber <= 0x297b:
+            self._arrowAsNumber()
+            return
+
+        self.edit("RIGHT-SIDE ARC CLOCKWISE ARROW", "rightsidearcclockwisearrow")
+        self.edit("LEFT-SIDE ARC ANTICLOCKWISE ARROW", "leftsidearcanticlockarrow")
+        self.edit("TOP ARC ANTICLOCKWISE ARROW", "toparcanticlockarrow")
+        self.edit("BOTTOM ARC ANTICLOCKWISE ARROW", "bottomarcanticlockarrow")
+        self.edit("TOP ARC CLOCKWISE ARROW WITH MINUS", "toparcclockarrowminus")
+        self.condense("GAPPED CIRCLE ARROW")
+        self.edit("CLOCKWISE ARROW", "clockarrow")
+        self.edit("ANTICLOCKWISE ARROW", "anticlockarrow")
+        self.edit("WITH MINUS", "minus")
+        self.edit("WITH PLUS", "plus")
+        self.condense("SEMICIRCULAR")
+
+        self.edit("RISING DIAGONAL CROSSING FALLING DIAGONAL", "risingdiagonalXfallingdiagonal")
+        self.edit("FALLING DIAGONAL CROSSING RISING DIAGONAL", "fallingdiagonalXrisingdiagonal")
+
+        self.edit("ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS", 'arrowrightthencurveup')
+        self.edit("ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS", 'arrowrightthendown')
+        self.edit("ARROW POINTING DOWNWARDS THEN CURVING LEFTWARDS", 'arrowdownthenleft')
+        self.edit("ARROW POINTING DOWNWARDS THEN CURVING RIGHTWARDS", 'arrowdownthenright')
+
+        self.edit("UPWARDS HARPOON", "harpoonup")
+        self.edit("DOWNWARDS HARPOON", "harpoondown")
+        self.edit("LEFTWARDS HARPOON", "harpoonleft")
+        self.edit("RIGHTWARDS HARPOON", "harpoonright")
+
+        # self.edit("WITH BARB", "barb")
+        self.edit("THREE RIGHTWARDS ARROWS", "threerightarrows")
+        self.edit("RISING DIAGONAL CROSSING SOUTH EAST ARROW", "risingdiagonalXSEarrow")
+        self.edit("WAVE ARROW POINTING DIRECTLY RIGHT", "wavearrowright")
+        self.edit("NORTH EAST ARROW CROSSING NORTH WEST ARROW", "NEarrowXNWarrow")
+        self.edit("SOUTH EAST ARROW CROSSING NORTH EAST ARROW", "SEarrowXNEarrow")
+        self.edit("NORTH EAST ARROW CROSSING SOUTH EAST ARROW", "NEarrowXSEarrow")
+        self.edit("NORTH WEST ARROW CROSSING NORTH EAST ARROW", "NEarrowXNEarrow")
+        self.edit("LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON", "leftharpoonoverrightharpoon")
+        self.edit("RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON", "rightharpoonoverleftharpoon")
+        self.edit("RIGHTWARDS ARROW OVER LEFTWARDS ARROW", "rightarrowoverleftarrow")
+        self.edit("UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW", "uparrowleftofdownarrow")
+        self.edit("DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW", "downwarrowleftofuparrow")
+        self.edit("LEFTWARDS ARROW OVER RIGHTWARDS ARROW", "leftarrowoverrightarrow")
+        self.edit("PAIRED ARROWS", "arrowspaired")
+
+        self.edit("WITH DOUBLE STROKE", "dblstroke")
+        self.edit("WITH VERTICAL STROKE", "verticalstroke")
+        self.edit("WITH DOUBLE VERTICAL STROKE", "verticalstroke")
+        self.edit("WITH HORIZONTAL BAR", "horizontalbar")
+        self.edit("WITH VERTICAL BAR", "verticalbar")
+        self.edit("FALLING DIAGONAL CROSSING", "fallingdiagonalx")
+        self.edit("ARROW-TAIL", "arrowtail")
+        self.edit("FISH TAIL", 'fishtail')
+        self.edit("OPEN-HEADED", "openhead")
+        self.edit("TRIPLE ARROW", "triplearrow")
+        self.edit("DOUBLE DASH ARROW", "dbldasharrow")
+        self.edit("WHITE DOUBLE ARROW", "whitedblarrow")
+        self.edit("DOUBLE", "dbl")
+        self.edit("QUADRUPLE ARROW", "quadarrow")
+        self.edit("WHITE ARROW", "whitearrow")
+        self.edit("ON PEDESTAL", "onpedestal")
+        self.edit("FROM WALL", "fromwall")
+        self.edit("TO CORNER", "tocorner")
+        self.edit("ARROW", "arrow")
+
+        self.edit("LONG", "long")
+        self.edit("LEFTWARDS", "left")
+        self.edit("UPWARDS", "up")
+        self.edit("RIGHTWARDS", "right")
+        self.edit("DOWNWARDS", "down")
+        self.edit("LEFT RIGHT", "leftright")
+        self.edit("UP DOWN", "updown")
+        self.edit("SQUIGGLE", "squiggle")
+        self.edit("TRIPLE DASH", "tripledash")
+        self.edit("DASHED", "dashed")
+        self.edit("NORTH WEST", "NW")
+        self.edit("NORTH EAST", "NE")
+        self.edit("SOUTH WEST", "SW")
+        self.edit("SOUTH EAST", "SE")
+        self.edit("NORTH", "N")
+        self.edit("WEST", "W")
+        self.edit("SOUTH", "S")
+        self.edit("EAST", "E")
+        self.edit("WITH STROKE", 'stroke')
+        self.edit("TWO HEADED", "twoheaded")
+        self.edit("TWO-HEADED", "twoheaded")
+        self.edit("WITH DIAGONAL STROKE", "diagonalstroke")
+        self.edit("WITH HORIZONTAL STROKE", "horizontalstroke")
+        self.edit("WITH CIRCLED PLUS", "circledplus")
+        self.edit("WITH TAIL", "tail")
+        self.edit("WAVE", 'wave')
+        self.edit("TO BAR", "tobar")
+        self.edit("FROM BAR", "frombar")
+        self.edit("WITH BASE", "withbase")
+        self.edit("WITH HOOK", "hook")
+        self.edit("WITH LOOP", "loop")
+        self.edit("ZIGZAG", "zigzag")
+        self.edit("WITH TIP", "tip")
+        self.edit("WITH CORNER", "corner")
+        self.edit("WITH DOTTED STEM", "dottedstem")
+        self.edit("TO BLACK DIAMOND", "blackdiamond")
+        self.edit("RIGHT", "right")
+        self.edit("LEFT", "left")
+        self.edit("UP", "up")
+        self.edit("DOWN", "down")
+        self.edit("AND", "")
+
+        self.edit("THROUGH X", "thruX")
+        self.edit("WITH SMALL CIRCLE", "smallcircle")
+        self.edit("THROUGH SMALL CIRCLE", "thrusmallcircle")
+        self.edit("ANTICLOCKWISE CLOSED CIRCLE", "anticlockwiseclosedcircle")
+        self.edit("CLOCKWISE CLOSED CIRCLE", "clockwiseclosedcircle")
+        self.edit("ABOVE ALMOST EQUAL TO", "abovealmostequal")
+        self.edit("ABOVE TILDE OPERATOR", 'tildeabove')
+        self.edit("TILDE OPERATOR ABOVE", 'tildeabove')
+
+    def condense(self, part, combiner=""):
+        # remove spaces, remove hyphens, change to lowercase
+        editPart = part.replace(" ", combiner)
+        editPart = editPart.replace("-", "")
+        editPart = editPart.lower()
+        self.replace(part, editPart)
+
     def process(self):
         self.processStructure()
         self.processCase()
@@ -775,19 +946,41 @@ class GlyphName(object):
 
         if self.uniRangeName == "Box Drawing":
             self.processBoxDrawing()
-        if self.uniRangeName in ['Cyrillic', 'Cyrillic Supplementary']:
+        elif self.uniRangeName in ['Cyrillic', 'Cyrillic Supplementary']:
             self.processCyrillic()
-        if self.uniRangeName in ["Arabic", 'Arabic Presentation Forms-A', 'Arabic Presentation Forms-B']:
+        elif self.uniRangeName in ["Arabic", 'Arabic Presentation Forms-A', 'Arabic Presentation Forms-B']:
             self.processArabic()
-        if self.uniRangeName == "Hebrew":
+        elif self.uniRangeName == "Hebrew":
             self.processHebrew()
-        if self.uniRangeName in ["Basic Latin", 'Latin-1 Supplement', 'Latin Extended-A', 'Latin Extended-B', 'Latin Extended Additional', ]:
+        elif self.uniRangeName in ["Basic Latin", 'Latin-1 Supplement', 'Latin Extended-A', 'Latin Extended-B', 'Latin Extended Additional', ]:
             self.processLatin()
-        if self.uniRangeName in ["IPA Extensions", "Phonetic Extensions"]:
+        elif self.uniRangeName in ["IPA Extensions", "Phonetic Extensions"]:
             self.processIPA()
-        if self.uniRangeName in ["Private Use Area"]:
+        elif self.uniRangeName in ["Hangul Syllables",]:
+            self.processHangul()
+        elif self.uniRangeName in [ "Katakana", "Katakana Phonetic Extensions", "Hiragana",]:
+            self.processKatakanaHiragana()
+        elif self.uniRangeName in [
+            "CJK Unified Ideographs",
+            "CJK Unified Ideographs Extension A",
+            "CJK Unified Ideographs",
+            "CJK Unified Ideographs Extension A",
+            "CJK Compatibility",
+            "CJK Compatibility Forms",
+            "CJK Compatibility Ideographs",
+            "CJK Radicals Supplement",
+            "CJK Symbols and Punctuation",
+            ] and self.includeCJK:
+            self.processCJK()
+        elif self.uniRangeName in [
+                "Arrows",
+                "Supplemental Arrows-A",
+                "Supplemental Arrows-B",
+                ]:
+            self.processArrows()
+        elif self.uniRangeName in ["Private Use Area"]:
             self.processPrivateUse()
-        if self.uniRangeName in [ "Greek Extended", "Greek and Coptic",]:
+        elif self.uniRangeName in [ "Greek Extended", "Greek and Coptic",]:
             self.processGreek()
         if self.verbose:
             print self.uniNameProcessed, self.suffixParts, self.finalParts
@@ -805,6 +998,7 @@ class GlyphName(object):
                 self.suffix("suffix")
                 self.suffix("suffix")
         """
+        self.hasEdits = True
         if self.has(pattern):
             if self.replace(pattern):
                 [self.suffix(s) for s in suffix]
@@ -872,8 +1066,8 @@ class GlyphName(object):
         
 
 show = [
-    #'Hangul Syllables',
-    #'Private Use Area',
+    'Hangul Syllables',
+    'Private Use Area',
     
     'Basic Latin',
     'Latin-1 Supplement',
@@ -884,7 +1078,7 @@ show = [
     'Cyrillic Supplementary',
     "Arabic",
     'Arabic Presentation Forms-A',
-    'Arabic Presentation Forms-B'
+    'Arabic Presentation Forms-B',
     'Hebrew',
     "IPA Extensions",
     "Phonetic Extensions",
@@ -893,18 +1087,38 @@ show = [
     "Greek and Coptic",
     "Greek Extended",
 
+    "Arrows",
+    "Supplemental Arrows-A",
+    "Supplemental Arrows-B",
+
+    "Katakana",
+    "Katakana Phonetic Extensions",
+    "Hiragana",
+
+    # "CJK Unified Ideographs",
+    # "CJK Unified Ideographs Extension A",
+    # "CJK Compatibility",
+    # "CJK Compatibility Forms",
+    # "CJK Compatibility Ideographs",
+    # "CJK Radicals Supplement",
+    # "CJK Symbols and Punctuation"
+
+    # "Alphabetic Presentation Forms",
+
 ]
 
 from pprint import pprint
 
+INCLUDECJK = False
+
+skipped = {}
 def generateAll(path):
     # generate all the names in the first plane
-    skipped = {}
     lines = []
     uniqueNamesExtension = {}
     uniqueNamesNoExtension = {}
     for uniNumber in range(1, 0xffff):
-        glyphName = GlyphName(uniNumber=uniNumber, verbose=False)
+        glyphName = GlyphName(uniNumber=uniNumber, verbose=False, includeCJK=INCLUDECJK)
         if glyphName.uniRangeName not in show:
             skipped[glyphName.uniRangeName]=True
             continue
@@ -919,9 +1133,9 @@ def testUniqueNames():
     uniqueNamesExtension = {}
     uniqueNamesNoExtension = {}
     for uniNumber in range(1, 0xffff):
-        glyphName = GlyphName(uniNumber=uniNumber)
+        glyphName = GlyphName(uniNumber=uniNumber, includeCJK=INCLUDECJK)
         if glyphName.hasName():
-            print glyphName.getName(extension=True), glyphName.getName(extension=False)
+            # print glyphName.getName(extension=True), glyphName.getName(extension=False)
             thisName = glyphName.getName()
             if not thisName in uniqueNamesExtension:
                 uniqueNamesExtension[thisName] = []
@@ -957,6 +1171,8 @@ def findCapitals():
     caseNumbers = []
     for uniNumber in range(1, 0xffff):
         glyphName = GlyphName(uniNumber=uniNumber, verbose=False)
+
+
         if glyphName.uniRangeName not in show:
             continue
         for p in parts:
@@ -972,14 +1188,14 @@ def findCapitals():
 
 generateAll("generatedGlyphNames.txt")
 
-#testUniqueNames()
+testUniqueNames()
 
 # check for duplicate names
 # print all the keys 
-# s = skipped.keys()
-# s.sort()
-# print "to do"
-# for cat in s:
-#     if cat in show:
-#         continue
-#     print "\t", cat
+s = skipped.keys()
+s.sort()
+print "to do"
+for cat in s:
+    if cat in show:
+        continue
+    print "\t", cat
