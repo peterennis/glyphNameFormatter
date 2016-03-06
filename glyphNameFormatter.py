@@ -1,12 +1,23 @@
-
-
-
 import unicodedata
-
 from unicodeRangeNames import *
 
+#
+#   this is an experimental approach
+#   to generating a list of glyph names
+#   from the standard unicode names
+#
+#
 class GlyphName(object):
-
+    prefSpelling_dieresis = "dieresis"
+    languageTags = {
+        'latin': "lt",
+        'arabic': 'ar',
+        'ipa': 'ipa',
+        'greek': 'gr',
+        'hebrew': 'hb',
+        'boxdrawings': 'bxd',
+        'cyrillic': 'cy'
+    }
     ambiguousNames =[
         "A",
         "Abreve",
@@ -59,7 +70,7 @@ class GlyphName(object):
         "semicolon",
     ]
 
-    def __init__(self, niceName=None, uniNumber=None):
+    def __init__(self, niceName=None, uniNumber=None, verbose=False):
         self.niceName = niceName
         self.uniNumber = uniNumber
         self.uniLetter = None
@@ -74,6 +85,8 @@ class GlyphName(object):
         self.finalParts = []
         self.mustAddScript = False  # set to True if we need to add script to disambiguate
         self.latinCentric = True    # admit latincentric naming, if we can leave out latin tags, go for it
+        self._log = []
+        self.verbose = verbose
         self.lookup()
         self.process()
 
@@ -81,10 +94,6 @@ class GlyphName(object):
         if not self.uniName:
             return False
         return True
-        # print "xx", self.uniNameProcessed
-        # if self.uniNameProcessed is not self.uniName and self.uniName is not None:
-        #     return True
-        # return False
 
     def hashWords(self):
         parts = {}
@@ -101,6 +110,7 @@ class GlyphName(object):
         return parts
 
     def lookup(self):
+        # look up all the external references we need.
         if self.uniNumber is None:
             return
         self.uniLetter = unichr(self.uniNumber)
@@ -116,73 +126,78 @@ class GlyphName(object):
             return True
         return False
 
-    def handleGreekCase(self):
-        if self.has("GREEK LETTER") or self.has("GREEK SMALL LETTER"):
-            parts = self.uniNameProcessed.split(" ")
-            for i in range(len(parts)-1):
-                p = parts[i].strip()
-                src = new = parts[i+1].strip()
-                if p == "small" or p == "SMALL":
-                    new = new.lower()
-                elif p == "capital" or p == "CAPITAL":
-                    if len(new)==1:
-                        new = new[0].upper()
-                    else:
-                        new = new[0].upper()+new[1:].lower()
-                else:
-                    continue
-                self.replace(p)
-                self.replace(src, new)
-                break
-
     def handleCase(self):
-        if self.has("CAPITAL LETTER") or self.has("SMALL LETTER"):
-            parts = self.uniNameProcessed.split(" ")
-            for i in range(len(parts)-1):
-                p = parts[i].strip()
-                src = new = parts[i+1].strip()
-                if p == "small" or p == "SMALL":
-                    new = new.lower()
-                elif p == "capital" or p == "CAPITAL":
-                    if len(new)==1:
-                        new = new[0].upper()
-                    else:
-                        new = new[0].upper()+new[1:].lower()
-                else:
+        upperCaseIndicators = [
+            # from complex to simple
+            ("LETTER SMALL CAPITAL", "small"),
+            ("SMALL CAPITAL LETTER", "smallcapital"),
+            ("CAPITAL LETTER", ""),
+            ("MODIFIER LETTER CAPITAL", "modifier"),
+            ("MODIFIER LETTER SMALL CAPITAL", "modifiersmall"),
+            ("CAPITAL", ""),
+        ]
+        lowercaseIndicators = [
+            # from complex to simple
+            ("LATIN SMALL LETTER", ""),
+            ("SMALL LETTER", ""),
+            ("MODIFIER LETTER SMALL", "modifier"),
+            ("SMALL", ""),
+        ]
+        for upperNames, suffix in upperCaseIndicators:
+            if self.has(upperNames):
+                start = self.uniNameProcessed.find(upperNames)
+                if start == -1:
                     continue
-                self.replace(p)
-                self.replace(src, new)
-                break
+                before = after = self.uniNameProcessed[start + len(upperNames):].strip()
+                if not before:
+                    continue
+                elif len(before) == 1:
+                    after = before.upper()
+                else:
+                    after = before[0].upper()+before[1:].lower()
+                self.edit(upperNames, suffix)
+                self.replace(before, after)
+        for lowerNames, suffix in lowercaseIndicators:
+            if self.has(lowerNames):
+                start = self.uniNameProcessed.find(lowerNames)
+                if start == -1:
+                    continue
+                before = after = self.uniNameProcessed[start + len(lowerNames):].strip()
+                after = after.lower()
+                self.edit(lowerNames, suffix)
+                self.replace(before, after)
+
 
     def processStructure(self):
+        if self.verbose:
+            print "processStructure"
         if self.has("LIGATURE"):
             self.isLigature = True
 
     def processCase(self):
+        if self.verbose:
+            print "processCase"
         if self.has("CAPITAL LETTER"):
             self.letterCase = "uppercase"
         if self.has("SMALL LETTER"):
             self.letterCase = "lowercase"
 
     def processShape(self):
+        if self.verbose:
+            print "processShape"
         self.edit("LITTLE", "little")
         self.edit("BIG", "big")
         self.edit("ROUND", "round")
 
         self.edit("SHORT", "short")
-        if self.has("STRAIGHT"):
-            self.replace("STRAIGHT")
-            self.suffix("straight")
+        self.edit("STRAIGHT", "straight")
         self.edit("BARRED", "barred")
-        if self.has('CLOSED'):
-            self.replace("CLOSED")
-            self.suffix("closed")
-        if self.has('REVERSED'):
-            if self.replace("REVERSED"):
-                self.suffix("reversed")
-        if self.has("MONOCULAR"):
-            self.replace("MONOCULAR")
-            self.suffix("monocular")
+        self.edit('CLOSED', "closed")
+        self.edit('REVERSED', "reversed")
+        self.edit("MONOCULAR", "monocular")
+        self.edit("SIDEWAYS", 'sideways')
+        self.edit("BOTTOM HALF", 'bottomhalf')
+        self.edit("TOP HALF", 'tophalf')
 
         self.edit("WITH TITLO", "titlo")
         self.edit("TITLO", "titlo")
@@ -198,8 +213,9 @@ class GlyphName(object):
         self.edit("WITH COMMA BELOW", "commaaccent")
         self.edit("WITH PALATAL HOOK", "palatalhook")
 
-
     def processDiacritics(self):
+        if self.verbose:
+            print "processDiacritics"
         # WITH ___ AND ___
         self.edit("WITH CIRCUMFLEX AND HOOK ABOVE", "circumflex", "hookabove")
         self.edit("WITH CIRCUMFLEX AND DOT BELOW", "circumflex", "dotbelow")
@@ -217,23 +233,23 @@ class GlyphName(object):
         self.edit("WITH BREVE AND HOOK ABOVE", "breve", "hookabove")
         self.edit("WITH BREVE AND DOT BELOW", "breve", "dotbelow")
         self.edit("WITH BREVE BELOW", "breve", "below")
-        self.edit("WITH TILDE AND DIAERESIS", "tilde", "dieresis")
+        self.edit("WITH TILDE AND DIAERESIS", "tilde", self.prefSpelling_dieresis)
         self.edit("WITH BREVE AND GRAVE", "breve", "grave")
         self.edit("WITH DOT BELOW AND MACRON", "macron", "dot")
-        self.edit("WITH DIAERESIS AND ACUTE", "dieresis", "acute")
-        self.edit("WITH DIAERESIS AND TILDE", "dieresis", "tilde")
+        self.edit("WITH DIAERESIS AND ACUTE", self.prefSpelling_dieresis, "acute")
+        self.edit("WITH DIAERESIS AND TILDE", self.prefSpelling_dieresis, "tilde")
         self.edit("WITH TILDE BELOW", "tilde", "below")
         self.edit('WITH CIRCUMFLEX AND ACUTE', 'circumflex', 'acute')
         self.edit('WITH CIRCUMFLEX AND GRAVE', 'circumflex', 'grave')
         self.edit("WITH CIRCUMFLEX BELOW", "circumflex", "below")
         self.edit("WITH CEDILLA AND ACUTE", "cedilla", "acute")
         self.edit("WITH CEDILLA AND BREVE", "cedilla", 'breve')
-        self.edit("WITH MACRON AND DIAERESIS", "macron", "dieresis")
+        self.edit("WITH MACRON AND DIAERESIS", "macron", self.prefSpelling_dieresis)
         self.edit("WITH MACRON AND ACUTE", "macron", "acute")
         self.edit("WITH MACRON AND GRAVE", "macron", "grave")
         self.edit("WITH TILDE AND ACUTE", "tilde", "acute")
         self.edit("WITH TILDE AND MACRON", "tilde", "macron")
-        self.edit("WITH DIAERESIS AND MACRON", "dieresis", "macron")
+        self.edit("WITH DIAERESIS AND MACRON", self.prefSpelling_dieresis, "macron")
         self.edit("WITH DOT ABOVE AND MACRON", "dotaccent", "macron")
         # PRECEDED BY ___
         self.edit("PRECEDED BY APOSTROPHE", "apostrophe")
@@ -249,157 +265,53 @@ class GlyphName(object):
         self.edit("WITH GRAVE", "grave")
         self.edit("GRAVE", "grave")
         self.edit("WITH HORN", "horn")
-
-        if self.has("WITH BREVE"):
-            self.replace("WITH BREVE")
-            self.suffix("breve")
-        if self.has("BREVE"):
-            if self.replace("BREVE"):
-                self.suffix("breve")
-
-        if self.has("WITH DIAERESIS BELOW"):
-            if self.replace("WITH DIAERESIS BELOW"):
-                self.suffix("dieresis")
-                self.suffix("below")
-        if self.has("WITH DIAERESIS"):
-            self.replace("WITH DIAERESIS")
-            self.suffix("dieresis")
-        if self.has("DIAERESIS"):
-            self.replace("DIAERESIS")
-            self.suffix("dieresis")
-
-        if self.has("WITH MACRON"):
-            self.replace("WITH MACRON")
-            self.suffix("macron")
-        if self.has("MACRON"):
-            if self.replace("MACRON"):
-                self.suffix("macron")
-
-
-        if self.has("WITH ACUTE"):
-            self.replace("WITH ACUTE")
-            self.suffix("acute")
-        if self.has("ACUTE"):
-            if self.replace("ACUTE"):
-                self.suffix("acute")
-
-        if self.has("WITH CARON"):
-            self.replace("WITH CARON")
-            self.suffix("caron")
-        if self.has("CARON"):
-            if self.replace("CARON"):
-                self.suffix("caron")
-
-        if self.has("WITH CIRCUMFLEX"):
-            if self.replace("WITH CIRCUMFLEX"):
-                self.suffix("circumflex")
-        if self.has("CIRCUMFLEX"):
-            if self.replace("CIRCUMFLEX"):
-                self.suffix("circumflex")
-
-        if self.has("WITH TILDE"):
-            self.replace("WITH TILDE")
-            self.suffix("tilde")
-        if self.has("TILDE"):
-            self.replace("TILDE")
-            self.suffix("tilde")
-
-
-        if self.has("WITH CEDILLA"):
-            self.replace("WITH CEDILLA")
-            self.suffix("cedilla")
-        if self.has("CEDILLA"):
-            self.replace("CEDILLA")
-            self.suffix("cedilla")
-
-        if self.has("WITH OGONEK"):
-            if self.replace("WITH OGONEK"):
-                self.suffix("ogonek")
-        if self.has("OGONEK"):
-            if self.replace("OGONEK"):
-                self.suffix("ogonek")
-
-        if self.has("WITH RING ABOVE AND ACUTE"):
-            if self.replace('WITH RING ABOVE AND ACUTE'):
-                self.suffix("ring")
-                self.suffix("acute")
-
-        if self.has("WITH RING ABOVE"):
-            if self.replace("WITH RING ABOVE"):
-                self.suffix("ring")
-
-        if self.has("WITH RING BELOW"):
-            self.replace("WITH RING BELOW")
-            self.suffix("ringbelow")
-
-        if self.has("WITH RIGHT HALF RING"):
-            self.replace("WITH RIGHT HALF RING")
-            self.suffix("right")
-            self.suffix("halfring")
-
-        if self.has("WITH RETROFLEX HOOK"):
-            if self.replace("WITH RETROFLEX HOOK"):
-                self.suffix("retroflexhook")
-
-        if self.has("WITH LINE BELOW"):
-            self.replace("WITH LINE BELOW")
-            self.suffix("linebelow")
-
-        if self.has("WITH BAR"):
-            self.replace("WITH BAR")
-            self.suffix("bar")
-
-        if self.has("WITH MACRON"):
-            if self.replace("WITH MACRON"):
-                self.suffix("macron")
-
-        if self.has("WITH MIDDLE TILDE"):
-            if self.replace("WITH MIDDLE TILDE"):
-                self.suffix('middletilde')
-        if self.has("WITH HOOK TAIL"):
-            if self.replace("WITH HOOK TAIL"):
-                self.suffix("hook")
-                self.suffix("tail")
-
-        if self.has("WITH MIDDLE HOOK"):
-            if self.replace("WITH MIDDLE HOOK"):
-                self.suffix("middlehook")
-        if self.has("WITH LOOP"):
-            if self.replace("WITH LOOP"):
-                self.suffix("loop")
-
-
-        if self.has("WITH LEFT HOOK"):
-            self.replace("WITH LEFT HOOK")
-            self.suffix("left")
-            self.suffix("hook")
-        if self.has("WITH HOOK ABOVE"):
-            if self.replace("WITH HOOK ABOVE"):
-                self.suffix("hook")
-                self.suffix("above")
-        if self.has("WITH HOOK"):
-            if self.replace("WITH HOOK"):
-                self.suffix("hook")
-        if self.has("AND HOOK"):
-            if self.replace("AND HOOK"):
-                self.suffix("hook")
-        if self.has("HOOK"):
-            if self.replace("HOOK"):
-                self.suffix("hook")
-
+        self.edit("WITH BREVE", "breve")
+        self.edit("BREVE", "breve")
+        self.edit("WITH DIAERESIS BELOW", self.prefSpelling_dieresis, "below")
+        self.edit("WITH DIAERESIS", self.prefSpelling_dieresis)
+        self.edit("DIAERESIS", self.prefSpelling_dieresis)
+        self.edit("WITH MACRON", "macron")
+        self.edit("MACRON", "macron")
+        self.edit("WITH ACUTE", "acute")
+        self.edit("ACUTE", "acute")
+        self.edit("WITH CARON", "caron")
+        self.edit("CARON", "caron")
+        self.edit("WITH CIRCUMFLEX", "circumflex")
+        self.edit("CIRCUMFLEX", "circumflex")
+        self.edit("WITH TILDE", "tilde")
+        self.edit("TILDE", "tilde")
+        self.edit("WITH CEDILLA", "cedilla")
+        self.edit("CEDILLA", "cedilla")
+        self.edit("WITH OGONEK", "ogonek")
+        self.edit("OGONEK", "ogonek")
+        self.edit("WITH RING ABOVE AND ACUTE","ring","acute")
+        self.edit("WITH RING ABOVE", "ring")
+        self.edit("WITH RING BELOW", "ringbelow")
+        self.edit("WITH RIGHT HALF RING", "right", "halfring")
+        self.edit("WITH RETROFLEX HOOK", "retroflexhook")
+        self.edit("WITH LINE BELOW", "linebelow")
+        self.edit("WITH BAR", "bar")
+        self.edit("WITH MACRON", "macron")
+        self.edit("WITH MIDDLE TILDE", 'middletilde')
+        self.edit("WITH HOOK TAIL", "hook", "tail")
+        self.edit("WITH MIDDLE HOOK", "middlehook")
+        self.edit("WITH LOOP", "loop")
+        self.edit("WITH LEFT HOOK", "left", "hook")
+        self.edit("WITH HOOK ABOVE", "hook", "above")
+        self.edit("WITH HOOK", "hook")
+        self.edit("AND HOOK", "hook")
+        self.edit("HOOK", "hook")
+        self.edit("WITH CURL", "curl")
         if self.has("BAR") and not self.has("AKBAR") and not self.has("TOPBAR") and not self.has("BARRED"):
             if self.replace("BAR"):
                 self.suffix("bar")
 
-        if self.has("WITH CURL"):
-            self.replace("WITH CURL")
-            self.suffix("curl")
-
-
     def processArabic(self):
+        if self.verbose:
+            print "processArabic"
         self.edit("ARABIC-INDIC", "indic")
         self.replace("ARABIC")
-        self.scriptTag = "ar"
+        self.scriptTag = self.languageTags['arabic']
 
         lowercaseOk = True
         self.replace("ZERO WIDTH NO-BREAK SPACE", "zerowidthnbspace")
@@ -421,9 +333,7 @@ class GlyphName(object):
         self.replace("QUESTION MARK", "question")
         self.edit("SIGN SANAH", "Sanah")
         self.edit("FOOTNOTE MARKER", "Footnote")
-
         self.replace("WITH", "_")
-
         self.replace("SALLALLAHOU ALAYHE WASALLAM", "sallallahou_alayhe_wasallam")
         if self.replace("BISMILLAH AR-RAHMAN AR-RAHEEM", "bismillah_arRahman_arRaheem"):
             lowercaseOk = False
@@ -431,9 +341,10 @@ class GlyphName(object):
             self.lower()
         self.compress()
 
-
     def processBoxDrawing(self):
-        self.scriptTag = "bxd"
+        if self.verbose:
+            print "processBoxDrawing"
+        self.scriptTag = self.languageTags['boxdrawings']
         self.replace("BOX DRAWINGS")
         self.replace("AND")
         self.replace("TO")
@@ -450,36 +361,26 @@ class GlyphName(object):
         self.lower()
         self.compress()
 
-
     def processCyrillic(self):
-
+        if self.verbose:
+            print "processCyrillic"
+        self.scriptTag = self.languageTags['cyrillic']
         if self.has("CYRILLIC"):
             self.replace("CYRILLIC")
-            self.scriptTag = "cy"
-
         self.replace("CAPITAL LIGATURE EN GHE", "En_Ghe")
         self.replace("SMALL LIGATURE EN GHE", "en_ghe")
         self.replace("CAPITAL LIGATURE A IE", "A_IE")
         self.replace("SMALL LIGATURE A IE", "a_ie")
-
         self.processShape()
         self.processDiacritics()
-
         self.edit("IOTIFIED", "iotified")
         if self.has("HARD SIGN"):
             self.replace("HARD SIGN", "hard")
         if self.has("SOFT SIGN"):
             self.replace("SOFT SIGN", "soft")
-
         self.edit("COMBINING", "comb")
-        if self.has("CAPITAL LETTER"):
-            self.replace("CAPITAL LETTER", "capital")
-        elif self.has("SMALL LETTER"):
-            self.replace("SMALL LETTER", "small")
-        elif self.has("SMALL LIGATURE"):
+        if self.has("SMALL LIGATURE"):
             self.replace("SMALL LIGATURE", "ligsmall")
-        elif self.has("LETTER"):
-            self.replace("LETTER")
         elif self.has("CAPITAL LIGATURE"):
             self.replace("CAPITAL LIGATURE", "liga")
         if self.has("PALOCHKA"):
@@ -491,7 +392,6 @@ class GlyphName(object):
         self.edit("BASHKIR", "bashkir")
         self.edit("KHAKASSIAN", "khakas")
         self.edit("ALEUT", "aleut")
-
 
         # hard exceptions, or, further coding
         if self.has("HUNDRED THOUSANDS SIGN"):
@@ -508,14 +408,14 @@ class GlyphName(object):
             self.replace("DASIA PNEUMATA", "dasiapneumata")
         if self.has("PSILI PNEUMATA"):
             self.replace("PSILI PNEUMATA", "psilipneumata")
-
         if self.has("WITH"):
             self.replace("WITH")
-
         self.handleCase()
         self.compress()
 
     def processMisc(self):
+        if self.verbose:
+            print "processMisc"
         # appear in the arabic list
         self.replace("ORNATE LEFT PARENTHESIS", "parenthesisornateleft")
         self.replace("ORNATE RIGHT PARENTHESIS", "parenthesisornateright")
@@ -528,6 +428,8 @@ class GlyphName(object):
             self.replace("HANGUL SYLLABLE", "-hangul")
 
     def processLatin(self):
+        if self.verbose:
+            print "processLatin"
         # sort these before anything else
         self.replace("BROKEN BAR", "brokenbar")
         self.replace("LATIN LETTER WYNN", "wynn")
@@ -563,94 +465,38 @@ class GlyphName(object):
         self.replace("LATIN SMALL LETTER O WITH OGONEK AND MACRON", "oogonekmacron")
         self.replace("LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE",  "Aringacute")
         self.replace("LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE",  "aringacute")
-
-
         self.replace("LATIN CAPITAL LETTER O WITH STROKE AND ACUTE", "Oslashacute")
         self.replace("LATIN SMALL LETTER O WITH STROKE AND ACUTE", "oslashacute")
         self.replace("LATIN LETTER REVERSED ESH LOOP", "eshreversedloop")
-
         self.replace("LATIN CAPITAL LETTER MIDDLE-WELSH LL", "LLmiddlewelsh")
         self.replace("LATIN SMALL LETTER MIDDLE-WELSH LL", "llmiddlewelsh")
-
-        if self.has("MIDDLE-WELSH"):
-            if self.replace("MIDDLE-WELSH"):
-                self.suffix("middlewelsh")
-
-        if self.has("WITH LONG RIGHT LEG"):
-            self.replace("WITH LONG RIGHT LEG")
-            self.suffix("long")
-            self.suffix("leg")
-            self.suffix("right")
-        if self.has("AFRICAN"):
-            self.replace("AFRICAN")
-            self.suffix("african")
-        if self.has("TURNED"):
-            self.replace("TURNED")
-            self.suffix("turned")
-        if self.has("OPEN"):
-            self.replace("OPEN")
-            self.suffix("open")
+        self.edit("MIDDLE-WELSH", "middlewelsh")
+        self.edit("WITH LONG RIGHT LEG", "long", "leg", "right")
+        self.edit("AFRICAN", "african")
+        self.edit("TURNED", "turned")
+        self.edit("OPEN", "open")
         self.replace("OPEN O", "")
-        if self.has("ACUTE ACCENT"):
-            self.replace("ACUTE ACCENT")
-            self.suffix("acute")
-        if self.has("CIRCUMFLEX ACCENT"):
-            self.replace("CIRCUMFLEX ACCENT")
-            self.suffix("circumflex")
-        if self.has("GRAVE ACCENT"):
-            self.replace("GRAVE ACCENT")
-            self.suffix("grave")
-
-        if self.has("STOP"):
-            if self.replace("STOP"):
-                self.suffix("stop")
-        if self.has("DIGRAPH"):
-            if self.replace("DIGRAPH"):
-                self.suffix("digraph")
-
+        self.edit("ACUTE ACCENT", "acute")
+        self.edit("CIRCUMFLEX ACCENT", "circumflex")
+        self.edit("GRAVE ACCENT", "grave")
+        self.edit("STOP", "stop")
+        self.edit("DIGRAPH", "digraph")
         self.replace('LATIN LETTER YR', "yr")
-
-        if self.has("LATIN CAPITAL LETTER DZ WITH CARON"):
-            if self.replace("LATIN CAPITAL LETTER DZ WITH CARON"):
-                self.suffix("D")
-                self.suffix("Z")
-                self.suffix("caron")
-        if self.has("LATIN CAPITAL LETTER D WITH SMALL LETTER Z"):
-            if self.replace("LATIN CAPITAL LETTER D WITH SMALL LETTER Z"):
-                self.suffix("Dz")
-        if self.has("LATIN CAPITAL LETTER DZ"):
-            if self.replace("LATIN CAPITAL LETTER DZ"):
-                self.suffix("DZ")
-        if self.has("WITH SMALL LETTER Z WITH CARON"):
-            if self.replace("WITH SMALL LETTER Z WITH CARON"):
-                self.suffix("z")
-                self.suffix("caron")
-        if self.has("LATIN CAPITAL LETTER LJ"):
-            if self.replace("LATIN CAPITAL LETTER LJ"):
-                self.suffix("LJ")
-        if self.has("LATIN SMALL LETTER LJ"):
-            if self.replace("LATIN SMALL LETTER LJ"):
-                self.suffix("lj")
-        if self.has("LATIN CAPITAL LETTER L WITH SMALL LETTER J"):
-            if self.replace("LATIN CAPITAL LETTER L WITH SMALL LETTER J"):
-                self.suffix("Lj")
-        if self.has("LATIN CAPITAL LETTER NJ"):
-            if self.replace("LATIN CAPITAL LETTER NJ"):
-                self.suffix("NJ")
-        if self.has("LATIN CAPITAL LETTER N WITH SMALL LETTER J"):
-            if self.replace("LATIN CAPITAL LETTER N WITH SMALL LETTER J"):
-                self.suffix("Nj")
+        self.edit("LATIN CAPITAL LETTER DZ WITH CARON", "D", "Z", "caron")
+        self.edit("LATIN CAPITAL LETTER D WITH SMALL LETTER Z", "Dz")
+        self.edit("LATIN CAPITAL LETTER DZ", "DZ")
+        self.edit("WITH SMALL LETTER Z WITH CARON", "z", "caron")
+        self.edit("LATIN CAPITAL LETTER LJ", "LJ")
+        self.edit("LATIN SMALL LETTER LJ", "lj")
+        self.edit("LATIN CAPITAL LETTER L WITH SMALL LETTER J", "Lj")
+        self.edit("LATIN CAPITAL LETTER NJ", "NJ")
+        self.edit("LATIN CAPITAL LETTER N WITH SMALL LETTER J", "Nj")
 
         # process
         self.processShape()
-        if self.has("LATIN"):
-            self.replace("LATIN")
-            self.scriptTag = "lt"
+        self.edit("LATIN")
+        self.scriptTag = self.languageTags['latin']
         self.processDiacritics()
-        if self.has("CAPITAL LETTER"):
-            self.replace("CAPITAL LETTER", "capital")
-        elif self.has("SMALL LETTER"):
-            self.replace("SMALL LETTER", "small")
 
         if self.has("SHARP S"):
             self.replace("SHARP S", "germandbls")
@@ -742,12 +588,11 @@ class GlyphName(object):
 
         if self.has("AND"):
             self.replace("AND")
-
         self.handleCase()
         self.compress()
 
     def processHebrew(self):
-        self.scriptTag = "hb"
+        self.scriptTag = self.languageTags['hebrew']
 
         self.replace("HEBREW LIGATURE YIDDISH DOUBLE VAV", "vav_vav")   # yiddish ?
         self.replace("HEBREW LIGATURE YIDDISH VAV YOD", "vav_yod")  # yiddish ?
@@ -759,8 +604,6 @@ class GlyphName(object):
         if self.has("ACCENT"):
             if self.replace("ACCENT"):
                 self.suffix("accent")
-        if self.has("LETTER"):
-            self.replace("LETTER")
         if self.has("FINAL"):
             self.replace("FINAL")
             self.suffix(".final")
@@ -772,17 +615,19 @@ class GlyphName(object):
                 self.suffix("yiddish")
         if self.has("PUNCTUATION"):
             self.replace("PUNCTUATION")
-
-
         self.lower()
         self.compress()
 
     def processIPA(self):
-        self.scriptTag = "ipa"
+        self.scriptTag = self.languageTags['ipa']
         self.processCase()
 
+        self.edit("LATIN")
+        self.edit("GREEK")
+        self.edit("INVERTED", "inverted")
+        self.edit("MODIFIER LETTER", "modifier")
         self.replace('LETTER PHARYNGEAL VOICED FRICATIVE', "pharyngealvoicedfricative")
-
+        self.edit("LETTER VOICED LARYNGEAL SPIRANT", "laryngealvoicedspirant")
         if self.has('BILABIAL PERCUSSIVE'):
             if self.replace("BILABIAL PERCUSSIVE"):
                 self.suffix("bilabialpercussive")
@@ -797,7 +642,6 @@ class GlyphName(object):
             if self.replace("BILABIAL CLICK"):
                 self.suffix("bilabialclick")
                 self.replace("LETTER")
-                
 
         if self.has("GLOTTAL STOP"):
             if self.replace("GLOTTAL STOP"):
@@ -809,7 +653,6 @@ class GlyphName(object):
             if self.replace("WITH MIDDLE TILDE"):
                 self.suffix('middle')
                 self.suffix('tilde')
-
 
         if self.has("WITH FISHHOOK"):
             if self.replace("WITH FISHHOOK"):
@@ -830,46 +673,34 @@ class GlyphName(object):
 
         self.processShape()
         self.processDiacritics()
-
-        self.replace("LATIN")
-        self.edit("CAPITAL LETTER", "capital")
-        self.edit("SMALL LETTER", "small")
-        if self.has("SMALL CAPITAL"):
-            if self.replace("SMALL CAPITAL"):
-                self.suffix("small")
-            self.replace("LETTER")
+        self.edit("LETTER AIN", "Ain")
         self.edit("WITH CROSSED-TAIL", "crossedtail")
         self.edit("STRETCHED", "stretched")
         self.edit("OPEN", "open")
         self.edit("DOTLESS", "dotless")
+        self.edit("GREEK SUBSCRIPT", "greek", "subscript")
+        self.edit("SUBSCRIPT", "subscript")
+        self.edit("CYRILLIC", 'cyrillic')
         self.edit("HORN", "horn") # roundabout case change
         self.edit("WITH LONG LEG", "longleg")
         self.edit("WITH BELT", "belt")
-        self.edit("INVERTED", "inverted")
+        self.edit("DIAERESIZED", self.prefSpelling_dieresis)        
         self.handleCase()
         self.replace("DIGRAPH")
-        self.replace("LETTER")
         self.compress()
 
     def processGreek(self):
-        self.scriptTag = "gr"
+        self.scriptTag = self.languageTags['greek']
         self.replace("GREEK")
-
         self.replace("UPSILON WITH HOOK SYMBOL", "upsilonhooksymbol")
         self.replace("UPSILON WITH ACUTE AND HOOK SYMBOL", "upsilonacutehooksymbol")
         self.replace("UPSILON WITH DIAERESIS AND HOOK SYMBOL", "upsilondieresishooksymbol")
-        self.replace("CAPITAL LUNATE SIGMA SYMBOL", "Sigmalunatesymbol")
-        self.replace("CAPITAL REVERSED LUNATE SIGMA SYMBOL", "Sigmalunatereversedsymbol")
         self.replace("SMALL REVERSED LUNATE SIGMA SYMBOL", "sigmalunatereversedsymbol")
-        self.replace("CAPITAL DOTTED LUNATE SIGMA SYMBOL", "Sigmalunatedottedsymbol")
         self.replace("SMALL DOTTED LUNATE SIGMA SYMBOL", "sigmalunatedottedsymbol")
-        self.replace("CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL", "Sigmalunatedottedreversedsymbol")
         self.replace("SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL", "sigmalunatedottedreversedsymbol")
         self.replace("LUNATE SIGMA SYMBOL", "sigmalunatesymbol")
         self.replace("LUNATE EPSILON SYMBOL", "epsilonlunatesymbol")
         self.replace("RHO WITH STROKE SYMBOL", "rhostrokesymbol")
-
-        self.replace("CAPITAL THETA SYMBOL", "Thetasymbol")
         self.replace("ANO TELEIA", "anoteleia")
 
         self.replace("DIGAMMA", "Digamma")
@@ -880,11 +711,10 @@ class GlyphName(object):
 
         self.edit("COPTIC", "coptic")
         self.edit("LUNATE", "lunate")
-        self.edit("ARCHAIC", "archaic")
+        self.edit("LETTER ARCHAIC", "archaic")
 
         self.processShape()
         self.processDiacritics()
-
 
         self.replace("QUESTION MARK", "question")
 
@@ -906,7 +736,6 @@ class GlyphName(object):
         if self.has("SIGMA SYMBOL"):
             if self.replace("SYMBOL"):
                 self.suffix("symbol")
-
 
         # with / and 
         parts = ['PROSGEGRAMMENI',
@@ -931,11 +760,9 @@ class GlyphName(object):
         for p in parts:
             self.replace(p, p.lower())
 
-
         self.replace("KORONIS", "koronis")
         self.replace("LETTER")
         self.handleCase()
-        self.handleGreekCase()
         self.compress()
 
     def processPrivateUse(self):
@@ -956,13 +783,14 @@ class GlyphName(object):
             self.processHebrew()
         if self.uniRangeName in ["Basic Latin", 'Latin-1 Supplement', 'Latin Extended-A', 'Latin Extended-B', 'Latin Extended Additional', ]:
             self.processLatin()
-        if self.uniRangeName == "IPA Extensions":
+        if self.uniRangeName in ["IPA Extensions", "Phonetic Extensions"]:
             self.processIPA()
         if self.uniRangeName in ["Private Use Area"]:
             self.processPrivateUse()
         if self.uniRangeName in [ "Greek Extended", "Greek and Coptic",]:
             self.processGreek()
-        self.processDiacritics()
+        if self.verbose:
+            print self.uniNameProcessed, self.suffixParts, self.finalParts
         self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "-".join(self.finalParts)
         if self.uniNameProcessed in self.ambiguousNames:
             # the final name has a duplicate in another script
@@ -981,6 +809,17 @@ class GlyphName(object):
             if self.replace(pattern):
                 [self.suffix(s) for s in suffix]
 
+    def getExport(self, name=True, useExtension=False, uniNumber=True, uniName=True):
+        # return a string fit for exporting
+        t = []
+        if name:
+            t.append(self.getName(extension=useExtension))
+        if uniNumber:
+            t.append("%04x"%self.uniNumber)
+        if uniName:
+            t.append(self.uniName)
+        return "\t".join(t)
+
     def getName(self, extension=True):
         # return the name, add extensions or not.
         if not extension:
@@ -988,7 +827,7 @@ class GlyphName(object):
                 # we don't want a script extension,
                 # but we've been warned that it might be necessary
                 # for disambiguation
-                if self.scriptTag != "lt" and self.scriptTag != "":
+                if self.scriptTag != self.languageTags['latin'] and self.scriptTag != "":
                     return "%s-%s"%(self.scriptTag, self.uniNameProcessed)
                 else:
                     return self.uniNameProcessed
@@ -1014,13 +853,18 @@ class GlyphName(object):
         if namePart not in self.suffixParts:
             self.suffixParts.append(namePart)
 
+    def log(self, lookFor, replaceWith, before, after):
+        self._log.append((lookFor, replaceWith, before, after))
+
     def replace(self, lookFor, replaceWith=""):
         after = self.uniNameProcessed.replace(lookFor, replaceWith)
         if self.uniNameProcessed == after:
             return False
+        before = self.uniNameProcessed
         self.uniNameProcessed = self.uniNameProcessed.replace(lookFor, replaceWith)
         self.uniNameProcessed = self.uniNameProcessed.replace("  ", " ")
-        self.uniNameProcessed.strip()
+        self.uniNameProcessed = self.uniNameProcessed.strip()
+        self.log(lookFor, replaceWith, before, self.uniNameProcessed)
         return True
 
     def __repr__(self):
@@ -1042,7 +886,8 @@ show = [
     'Arabic Presentation Forms-A',
     'Arabic Presentation Forms-B'
     'Hebrew',
-    "IPA Extensions"
+    "IPA Extensions",
+    "Phonetic Extensions",
     "Box Drawing",
 
     "Greek and Coptic",
@@ -1051,44 +896,85 @@ show = [
 ]
 
 from pprint import pprint
-skipped = {}
 
-lines = []
-uniqueNamesExtension = {}
-uniqueNamesNoExtension = {}
-for uniNumber in range(1, 0xffff):
-    glyphName = GlyphName(uniNumber=uniNumber)
-    if glyphName.uniRangeName not in show:
-        skipped[glyphName.uniRangeName]=True
-        continue
-    if glyphName.hasName():
-        print glyphName.getName(extension=True), glyphName.getName(extension=False)
-        thisName = glyphName.getName()
-        if not thisName in uniqueNamesExtension:
-            uniqueNamesExtension[thisName] = []
-        uniqueNamesExtension[thisName].append(glyphName)
+def generateAll(path):
+    # generate all the names in the first plane
+    skipped = {}
+    lines = []
+    uniqueNamesExtension = {}
+    uniqueNamesNoExtension = {}
+    for uniNumber in range(1, 0xffff):
+        glyphName = GlyphName(uniNumber=uniNumber, verbose=False)
+        if glyphName.uniRangeName not in show:
+            skipped[glyphName.uniRangeName]=True
+            continue
+        if glyphName.hasName():
+            lines.append(glyphName.getExport())
+    f = open(path, 'w')
+    f.write("\n".join(lines))
+    f.close()
 
-        thisName = glyphName.getName(extension=True)
-        if not thisName in uniqueNamesNoExtension:
-            uniqueNamesNoExtension[thisName] = []
-        uniqueNamesNoExtension[thisName].append(glyphName)
+def testUniqueNames():
+    # test if results are unique
+    uniqueNamesExtension = {}
+    uniqueNamesNoExtension = {}
+    for uniNumber in range(1, 0xffff):
+        glyphName = GlyphName(uniNumber=uniNumber)
+        if glyphName.hasName():
+            print glyphName.getName(extension=True), glyphName.getName(extension=False)
+            thisName = glyphName.getName()
+            if not thisName in uniqueNamesExtension:
+                uniqueNamesExtension[thisName] = []
+            uniqueNamesExtension[thisName].append(glyphName)
 
-        lines.append(str(glyphName))
+            thisName = glyphName.getName(extension=True)
+            if not thisName in uniqueNamesNoExtension:
+                uniqueNamesNoExtension[thisName] = []
+            uniqueNamesNoExtension[thisName].append(glyphName)
+    for k, v in uniqueNamesNoExtension.items():
+        if len(v) > 1:
+            print "Failed unique test without extension:", v
 
-path = "generatedGlyphNames.txt"
-f = open(path, 'w')
-f.write("\n".join(lines))
-f.close()
+    for k, v in uniqueNamesExtension.items():
+        if len(v) > 1:
+            print "Failed unique test:", v
+
+
+def debug(uniNumber):
+    # trace the processing of a specific number
+    glyphName = GlyphName(uniNumber=uniNumber, verbose=True)
+    glyphName.process()
+    print "debug %04x"%uniNumber
+    print glyphName.getExport()
+    for step in glyphName._log:
+        print "\t", step
+
+def findCapitals():
+    # find all unicode names that refer to CAPITAL or SMALL
+    parts = ["CAPITAL", 
+        #"SMALL",
+        ]
+    caseNumbers = []
+    for uniNumber in range(1, 0xffff):
+        glyphName = GlyphName(uniNumber=uniNumber, verbose=False)
+        if glyphName.uniRangeName not in show:
+            continue
+        for p in parts:
+            if glyphName.has(p):
+                caseNumbers.append(uniNumber)
+    caseNumbers.sort()
+    return caseNumbers
+
+#for n in findCapitals():
+#    print GlyphName(uniNumber=n)
+    #print
+    #debug(n)
+
+generateAll("generatedGlyphNames.txt")
+
+#testUniqueNames()
 
 # check for duplicate names
-for k, v in uniqueNamesNoExtension.items():
-    if len(v) > 1:
-        print "Failed unique test without extension:", v
-
-for k, v in uniqueNamesExtension.items():
-    if len(v) > 1:
-        print "Failed unique test:", v
-
 # print all the keys 
 # s = skipped.keys()
 # s.sort()

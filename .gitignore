@@ -1,2 +1,18 @@
 
 *.pyc
+
+.idea/.name
+
+*.xml
+
+.idea/encodings.xml
+
+.idea/glyphNameFormatter.iml
+
+.idea/vcs.xml
+
+.idea/scopes/scope_settings.xml
+
+.idea/modules.xml
+
+.idea/misc.xml
