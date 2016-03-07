@@ -47,6 +47,10 @@ def process(self):
     self.replace("MULTIPLICATION SIGN", "multiply")
     self.replace("DIVISION SIGN", "divide")
 
+    self.replace("CAPITAL LETTER AE", "AE")
+    self.replace("WITH STROKE", "slash")
+    self.replace("SMALL LETTER SHARP S", "germandbls")
+
     self.processDiacritics()
     self.handleCase()
     self.compress()

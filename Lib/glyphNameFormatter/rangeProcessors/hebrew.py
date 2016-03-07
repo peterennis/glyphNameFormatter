@@ -8,9 +8,9 @@ def process(self):
     self.replace("HEBREW LIGATURE YIDDISH DOUBLE YOD", "yod_yod")
     self.replace("HEBREW MARK UPPER DOT", "dotupper")
     self.replace("HEBREW MARK LOWER DOT", "dotlower")
-    self.edit("ACCENT", "accent")
+    self.edit("ACCENT", "")
     self.edit("FINAL", ".fina")    # .fina
-    self.edit("POINT", "pt")   # point?
+    self.edit("POINT", "")   # point?
     if self.has("YIDDISH"):
         if self.replace("YIDDISH"):
             self.suffix("yiddish")
