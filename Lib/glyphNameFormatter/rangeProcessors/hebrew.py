@@ -1,8 +1,6 @@
 from glyphNameFormatter.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    if self.verbose:
-        print "processArabic"
     self.scriptTag = scriptPrefixes['hebrew']
 
     self.replace("HEBREW LIGATURE YIDDISH DOUBLE VAV", "vav_vav")   # yiddish ?
@@ -27,10 +25,5 @@ def process(self):
     self.compress()
 
 if __name__ == "__main__":
-    from glyphNameFormatter import GlyphName
-    from glyphNameFormatter.unicodeRangeNames import getRangeByName
-
-    for u in range(*getRangeByName("Hebrew")):
-        g = GlyphName(uniNumber=u)
-        if g.uniName is not None:
-            print g.getName().ljust(30), "%04X" % g.uniNumber, "\t", g.uniName
+    from glyphNameFormatter.test import printRange
+    printRange("Hebrew")
