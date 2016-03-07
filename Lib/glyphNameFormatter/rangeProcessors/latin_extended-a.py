@@ -25,7 +25,6 @@ def process(self):
     self.editSuffix("dot", 'dotaccent')
     self.handleCase()
     self.compress()
-    return True
 
 
 if __name__ == "__main__":

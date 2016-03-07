@@ -54,7 +54,6 @@ def process(self):
     self.processDiacritics()
     self.handleCase()
     self.compress()
-    return True
 
 
 if __name__ == "__main__":

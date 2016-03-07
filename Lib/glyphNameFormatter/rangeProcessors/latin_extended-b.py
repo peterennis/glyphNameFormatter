@@ -36,8 +36,6 @@ def process(self):
     self.handleCase()
     self.compress()
 
-    return True
-
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
