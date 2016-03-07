@@ -25,6 +25,7 @@ def processDiacritics(self):
     self.edit("WITH DIAERESIS AND GRAVE", self.prefSpelling_dieresis, "grave")
     self.edit("WITH DIAERESIS AND ACUTE", self.prefSpelling_dieresis, "acute")
     self.edit("WITH DIAERESIS AND TILDE", self.prefSpelling_dieresis, "tilde")
+    self.edit("WITH DIAERESIS AND CARON", self.prefSpelling_dieresis, "caron")
     self.edit("WITH TILDE BELOW", "tilde", "below")
     self.edit('WITH CIRCUMFLEX AND ACUTE', 'circumflex', 'acute')
     self.edit('WITH CIRCUMFLEX AND GRAVE', 'circumflex', 'grave')
@@ -57,8 +58,11 @@ def processDiacritics(self):
     self.edit("WITH DIAERESIS BELOW", self.prefSpelling_dieresis, "below")
     self.edit("WITH DIAERESIS", self.prefSpelling_dieresis)
     self.edit("DIAERESIS", self.prefSpelling_dieresis)
+    self.edit("WITH OGONEK AND MACRON", "ogonek", "macron")
     self.edit("WITH MACRON", "macron")
     self.edit("MACRON", "macron")
+    self.edit("WITH STROKE AND ACUTE", "slash", "acute")
+    self.edit("WITH RING ABOVE AND ACUTE", "ring", "acute")
     self.edit("WITH ACUTE", "acute")
     self.edit("ACUTE", "acute")
     self.edit("WITH CARON", "caron")
@@ -71,7 +75,7 @@ def processDiacritics(self):
     self.edit("CEDILLA", "cedilla")
     self.edit("WITH OGONEK", "ogonek")
     self.edit("OGONEK", "ogonek")
-    self.edit("WITH RING ABOVE AND ACUTE","ring","acute")
+
     self.edit("WITH RING ABOVE", "ring")
     self.edit("WITH RING BELOW", "ringbelow")
     self.edit("WITH RIGHT HALF RING", "right", "halfring")
@@ -89,7 +93,11 @@ def processDiacritics(self):
     self.edit("AND HOOK", "hook")
     self.edit("HOOK", "hook")
     self.edit("WITH CURL", "curl")
+
     self.edit("WITH STROKE", "stroke")
+    self.edit("STROKE", "stroke")
+
+
     if self.has("BAR") and not self.has("AKBAR") and not self.has("TOPBAR") and not self.has("BARRED"):
         if self.replace("BAR"):
             self.suffix("bar")
