@@ -58,29 +58,32 @@ class GlyphName(GlyphNameProcessor):
             self.uniName = unicodedata.name(self.uniLetter)
             self.uniNameProcessed = self.uniName
         except ValueError:
-            pass
+            self.uniName = None
+            self.uniLetter = None
         self.uniRangeName = getRangeName(self.uniNumber)
 
-    def hasName(self):
-        if not self.uniName:
-            return False
-        return True
+    # def hasName(self):
+    #     if not self.uniName:
+    #         return False
+    #     return True
 
-    def hashWords(self):
-        parts = {}
-        if not self.uniName:
-            return parts
-        for p in self.uniName.split(" "):
-            for q in p.split("-"):
-                try:
-                    int(q, 16)
-                except ValueError:
-                    if q not in parts:
-                        parts[q] = 0
-                    parts[q] += 1
-        return parts
+    # def hashWords(self):
+    #     parts = {}
+    #     if not self.uniName:
+    #         return parts
+    #     for p in self.uniName.split(" "):
+    #         for q in p.split("-"):
+    #             try:
+    #                 int(q, 16)
+    #             except ValueError:
+    #                 if q not in parts:
+    #                     parts[q] = 0
+    #                 parts[q] += 1
+    #     return parts
 
     def has(self, namePart):
+        if self.uniName is None:
+            return False
         if namePart in self.uniName:
             return True
         return False
@@ -128,6 +131,9 @@ class GlyphName(GlyphNameProcessor):
 
     def getName(self, extension=True):
         # return the name, add extensions or not.
+        if self.uniName is None:
+            # nothing to see here.
+            return None
         if not extension:
             if self.mustAddScript:
                 # we don't want a script extension,
@@ -150,6 +156,7 @@ class GlyphName(GlyphNameProcessor):
         return "%s\t\t%05x\t\t%s" % (self.getName(extension=False), self.uniNumber, self.uniName)
 
     def process(self):
+        # try to find appropriate formatters and
         if self.uniNumber in preferredAGLNames:
             self.uniNameProcessed = preferredAGLNames[self.uniNumber]
         processor = getRangeProcessor(self.uniNumber)
@@ -159,8 +166,10 @@ class GlyphName(GlyphNameProcessor):
             # make the final name
             self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "-".join(self.finalParts)
 
-    # edit tools
     def edit(self, pattern, *suffix):
+        # look for pattern
+        # remove the pattern from the name
+        # add any suffix patterns to the suffixParts
         """
         a method that does the same as this:
         if self.has("PATTERN"):
