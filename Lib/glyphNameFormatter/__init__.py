@@ -194,9 +194,9 @@ class GlyphName(GlyphNameProcessor):
             self.suffixParts.append(namePart)
 
     def editSuffix(self, lookFor, replaceWith):
-        for n,i in enumerate(self.suffixParts):
-            if i==lookFor:
-                self.suffixParts[n]=replaceWith
+        for n, i in enumerate(self.suffixParts):
+            if i == lookFor:
+                self.suffixParts[n] = replaceWith
 
     def log(self, lookFor, replaceWith, before, after):
         self._log.append((lookFor, replaceWith, before, after))

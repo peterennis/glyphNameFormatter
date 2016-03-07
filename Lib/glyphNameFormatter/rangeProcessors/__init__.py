@@ -2,6 +2,7 @@
 # default, final, catchall handler
 
 from _processDiacritics import processDiacritics
+from _processShape import processShape
 
 
 def process(self):
@@ -13,3 +14,4 @@ def process(self):
 class GlyphNameProcessor(object):
 
     processDiacritics = processDiacritics
+    processShape = processShape

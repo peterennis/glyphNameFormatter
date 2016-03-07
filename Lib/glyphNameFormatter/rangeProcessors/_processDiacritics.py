@@ -89,6 +89,7 @@ def processDiacritics(self):
     self.edit("AND HOOK", "hook")
     self.edit("HOOK", "hook")
     self.edit("WITH CURL", "curl")
+    self.edit("WITH STROKE", "stroke")
     if self.has("BAR") and not self.has("AKBAR") and not self.has("TOPBAR") and not self.has("BARRED"):
         if self.replace("BAR"):
             self.suffix("bar")
