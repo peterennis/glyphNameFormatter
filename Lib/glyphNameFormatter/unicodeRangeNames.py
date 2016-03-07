@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 import rangeProcessors
+reload(rangeProcessors)
 
 unicodeRangeNames = {
 	(0x0020,	0x007F): "Basic Latin",
@@ -160,10 +161,13 @@ def getRangeProcessor(value):
 	if name is None:
 		return None
 	moduleName = name.lower().replace(" ", "_")
+	# print "looking for moduleName", moduleName
+	module = None
 	try:
-		module = importlib.import_module('rangeProcessors.%s' % moduleName)
+		module = importlib.import_module('glyphNameFormatter.rangeProcessors.%s' % moduleName)
 	except ImportError:
 		# return the default
+		print "importerror", moduleName
 		return rangeProcessors.process
 		return None
 	try:

@@ -91,7 +91,7 @@ class GlyphName(object):
         ]
         lowercaseIndicators = [
             # from complex to simple
-            ("LATIN SMALL LETTER", ""),
+            # ("LATIN SMALL LETTER", ""),
             ("SMALL LETTER", ""),
             ("MODIFIER LETTER SMALL", "mod"),
             ("SMALL", ""),
@@ -144,8 +144,11 @@ class GlyphName(object):
         return "%s\t\t%05x\t\t%s"%(self.getName(extension=False), self.uniNumber, self.uniName)
 
     def process(self):
+        if self.uniNumber in preferredAGLNames:
+            self.uniNameProcessed = preferredAGLNames[self.uniNumber]
         processor = getRangeProcessor(self.uniNumber)
         if processor:
+            # print "processor", processor
             processor(self)
 
     # edit tools
