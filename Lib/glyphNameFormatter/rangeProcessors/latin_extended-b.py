@@ -16,17 +16,5 @@ def process(self):
 
 
 if __name__ == "__main__":
-    from glyphNameFormatter import GlyphName
-    from glyphNameFormatter.unicodeRangeNames import getRangeByName
-
-    from glyphNameFormatter.data import unicode2name_AGD
-
-    for u in range(*getRangeByName("Latin Extended-B")):
-        g = GlyphName(uniNumber=u)
-        name = g.getName()
-
-        AGDName = unicode2name_AGD.get(g.uniNumber, "")
-        if AGDName == name:
-            AGDName = ""
-
-        print name.ljust(50), AGDName.ljust(20), "%04X" % g.uniNumber, "\t", g.uniName
+    from glyphNameFormatter.test import printRange
+    printRange("Latin Extended-B")

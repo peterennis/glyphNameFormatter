@@ -46,9 +46,5 @@ def process(self):
     return True
 
 if __name__ == "__main__":
-    from glyphNameFormatter import GlyphName
-    from glyphNameFormatter.unicodeRangeNames import getRangeByName
-
-    for u in range(*getRangeByName("Basic Latin")):
-        g = GlyphName(uniNumber=u)
-        print g.getName().ljust(50), "%04X" % g.uniNumber, "\t", g.uniName
+    from glyphNameFormatter.test import printRange
+    printRange("Basic Latin")

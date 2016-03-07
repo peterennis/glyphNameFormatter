@@ -105,10 +105,5 @@ def process(self):
     self.compress()
 
 if __name__ == "__main__":
-    from glyphNameFormatter import GlyphName
-    from glyphNameFormatter.unicodeRangeNames import getRangeByName
-
-    for u in range(*getRangeByName("Arabic")):
-        g = GlyphName(uniNumber=u)
-        if g.uniName is not None:
-            print g.getName().ljust(30), "%04X" % g.uniNumber, "\t", g.uniName
+    from glyphNameFormatter.test import printRange
+    printRange("Arabic")
