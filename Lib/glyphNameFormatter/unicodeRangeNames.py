@@ -1,5 +1,7 @@
 # -*- coding: UTF-8 -*-
 
+import rangeProcessors
+
 unicodeRangeNames = {
 	(0x0020,	0x007F): "Basic Latin",
 	(0x00A0,	0x00FF): "Latin-1 Supplement",
@@ -161,6 +163,8 @@ def getRangeProcessor(value):
 	try:
 		module = importlib.import_module('rangeProcessors.%s' % moduleName)
 	except ImportError:
+		# return the default
+		return rangeProcessors.process
 		return None
 	try:
 		return getattr(module, "process")

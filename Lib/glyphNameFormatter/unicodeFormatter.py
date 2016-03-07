@@ -1,23 +1,26 @@
-
 import unicodedata
 
-from unicodeRangeNames import getRangeName, getRangeProcessor
-from scriptConflictNames import scriptConflictNames
-from preferredAGLNames import preferredAGLNames
-from scriptPrefixes import scriptPrefixes
+import unicodeRangeNames
+reload(unicodeRangeNames)
 
-def debug(uniNumber):
-    # trace the processing of a specific number
-    glyphName = GlyphName(uniNumber=uniNumber, verbose=True)
-    glyphName.process()
-    print "debug: %04x"%uniNumber
-    print "name:", glyphName.getName()
-    for step in glyphName._log:
-        print "\t", step
+from unicodeRangeNames import getRangeName, getRangeProcessor
+from preferredAGLNames import preferredAGLNames
 
 class GlyphName(object):
 
     prefSpelling_dieresis = "dieresis"
+    languageTags = {
+        'latin': "lt",
+        'arabic': 'ar',
+        'ipa': 'ipa',
+        'greek': 'gr',
+        'hebrew': 'hb',
+        'boxdrawings': 'bxd',
+        'cyrillic': 'cy',
+        'hangul': 'ko',
+        'japan': 'jp',
+        'CJK': 'cjk'
+    }
 
     def __init__(self, niceName=None, uniNumber=None, verbose=False, includeCJK=False):
         self.niceName = niceName
@@ -38,7 +41,6 @@ class GlyphName(object):
         self.verbose = verbose
         self.includeCJK = includeCJK
         self.isCJK = False
-
         self.lookup()
         self.process()
 
@@ -147,58 +149,11 @@ class GlyphName(object):
         if processor:
             processor(self)
 
-    # edit tools
-    def edit(self, pattern, *suffix):
-        """
-        a method that does the same as this:
-        if self.has("PATTERN"):
-            if self.replace("PATTERN"):
-                self.suffix("suffix")
-                self.suffix("suffix")
-        """
-        if self.has(pattern):
-            if self.replace(pattern):
-                [self.suffix(s) for s in suffix]
 
-    def compress(self):
-        # remove the spaces from the name
-        self.uniNameProcessed = self.uniNameProcessed.replace(" ", "")
+g = GlyphName(uniNumber=0x0041)
 
-    def lower(self):
-        # whole name to lowercase
-        self.uniNameProcessed = self.uniNameProcessed.lower()
-
-    def suffix(self, namePart):
-        # add a suffix part
-        if namePart not in self.suffixParts:
-            self.suffixParts.append(namePart)
-
-    def editSuffix(self, lookFor, replaceWith):
-        for n,i in enumerate(self.suffixParts):
-            if i==lookFor:
-                self.suffixParts[n]=replaceWith
-
-    def log(self, lookFor, replaceWith, before, after):
-        self._log.append((lookFor, replaceWith, before, after))
-
-    def replace(self, lookFor, replaceWith=""):
-        after = self.uniNameProcessed.replace(lookFor, replaceWith)
-        if self.uniNameProcessed == after:
-            return False
-        before = self.uniNameProcessed
-        self.uniNameProcessed = self.uniNameProcessed.replace(lookFor, replaceWith)
-        self.uniNameProcessed = self.uniNameProcessed.replace("  ", " ")
-        self.uniNameProcessed = self.uniNameProcessed.strip()
-        self.log(lookFor, replaceWith, before, self.uniNameProcessed)
-        return True
-
-    def condense(self, part, combiner=""):
-        # remove spaces, remove hyphens, change to lowercase
-        editPart = part.replace(" ", combiner)
-        editPart = editPart.replace("-", "")
-        editPart = editPart.lower()
-        self.replace(part, editPart)
+print str(g)
 
 
-if __name__ == "__main__":
-    debug(0x0440)
+g = GlyphName(uniNumber=0x0145)
+print str(g)
