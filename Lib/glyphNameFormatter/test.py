@@ -14,4 +14,4 @@ def printRange(rangeName):
         if AGDName is None or AGDName == name:
             AGDName = ""
 
-        print name.ljust(50), AGDName.ljust(20), "%04X" % g.uniNumber, "\t", g.uniName
+        print name.ljust(50), AGDName.ljust(30), "%04X" % g.uniNumber, "\t", g.uniLetter.encode("utf-8"), "\t", g.uniName
