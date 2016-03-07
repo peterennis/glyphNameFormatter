@@ -1,7 +1,6 @@
 
 from glyphNameFormatter import *
 
-print debug(0x1eb2)
 
 INCLUDECJK = False
 
@@ -35,6 +34,7 @@ def compareWithAGDResults():
     totalUniNameLengths = []
     selectionAgdNameLengths = []
     selectionUniNameLengths = []
+    lengthWarnings = []
 
     for uniNumber in range(1, 0xffff):
         a = agd.get(uniNumber)
@@ -52,9 +52,12 @@ def compareWithAGDResults():
         else:
             different.append(uniNumber)
         # stats
-        #print a, uName
-        totalAgdNameLengths.append(len(a))
-        totalUniNameLengths.append(len(uName))
+        agdLen = len(a)
+        uniLen = len(uName)
+        if uniLen > agdLen:
+            lengthWarnings.append("%04x\t%s\t%s\t%s"%(uniNumber, a, uName, u.uniRangeName))
+        totalAgdNameLengths.append(agdLen)
+        totalUniNameLengths.append(uniLen)
     same.sort()
     print "matching names in AGD and uni", len(same)
 
@@ -124,6 +127,11 @@ def compareWithAGDResults():
     path = "./test/differences.txt"
     f = open(path, 'w')
     f.write("\n".join(lines))
+    f.close()
+
+    path = "./test/lengthWarnings.txt"
+    f = open(path, 'w')
+    f.write("\n".join(lengthWarnings))
     f.close()
 
     print "average name length AGD total", sum(totalAgdNameLengths)/float(len(totalAgdNameLengths)), "(total %d)"%len(totalAgdNameLengths)

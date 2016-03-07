@@ -51,6 +51,7 @@ class GlyphName(object):
         "delta",
         "e",
         "edieresis",
+        'gamma',
         "i",
         "idieresis",
         "igrave",
@@ -1040,6 +1041,10 @@ class GlyphName(object):
         self.edit("ABOVE TILDE OPERATOR", 'tildeabove')
         self.edit("TILDE OPERATOR ABOVE", 'tildeabove')
 
+    def processWidths(self):
+        self.edit("FULLWIDTH", 'fullwidth')
+        self.processLatin()
+
     def condense(self, part, combiner=""):
         # remove spaces, remove hyphens, change to lowercase
         editPart = part.replace(" ", combiner)
@@ -1080,6 +1085,8 @@ class GlyphName(object):
             self.processHangul()
         elif self.uniRangeName in [ "Katakana", "Katakana Phonetic Extensions", "Hiragana",]:
             self.processKatakanaHiragana()
+        elif self.uniRangeName in ["Halfwidth and Fullwidth Forms"]:
+            self.processWidths()
         elif self.isCJK and self.includeCJK:
             self.processCJK()
         elif self.uniRangeName in [
@@ -1092,6 +1099,10 @@ class GlyphName(object):
             self.processPrivateUse()
         elif self.uniRangeName in [ "Greek Extended", "Greek and Coptic",]:
             self.processGreek()
+        else:
+            # catchall
+            self.compress()
+
         if self.verbose:
             print self.uniNameProcessed, self.suffixParts, self.finalParts
         self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "-".join(self.finalParts)
@@ -1295,6 +1306,8 @@ if __name__ == "__main__":
         "CJK Radicals Supplement",
         "CJK Symbols and Punctuation"
 
+
+        # "Halfwidth and Fullwidth Forms"
         # "Alphabetic Presentation Forms",
 
     ]

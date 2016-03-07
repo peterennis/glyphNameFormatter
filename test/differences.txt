@@ -41,7 +41,7 @@
 0x25e	eopenreversedclosed	eopenclosedreversed	LATIN SMALL LETTER CLOSED REVERSED OPEN E
 0x25f	dotlessjstroke	jstrokedotless	LATIN SMALL LETTER DOTLESS J WITH STROKE
 0x261	gscript	scriptg	LATIN SMALL LETTER SCRIPT G
-0x263	gammalatin	gamma	LATIN SMALL LETTER GAMMA
+0x263	gammalatin	ipa-gamma	LATIN SMALL LETTER GAMMA
 0x269	iotalatin	ipa-iota	LATIN SMALL LETTER IOTA
 0x270	mlonglegturned	mturnedlongleg	LATIN SMALL LETTER TURNED M WITH LONG LEG
 0x275	obar	obarred	LATIN SMALL LETTER BARRED O
@@ -79,6 +79,7 @@
 0x3a5	Upsilon	gr-Upsilon	GREEK CAPITAL LETTER UPSILON
 0x3a8	Psi	gr-Psi	GREEK CAPITAL LETTER PSI
 0x3a9	Omega	gr-Omega	GREEK CAPITAL LETTER OMEGA
+0x3b3	gamma	gr-gamma	GREEK SMALL LETTER GAMMA
 0x3b4	delta	gr-delta	GREEK SMALL LETTER DELTA
 0x3b9	iota	gr-iota	GREEK SMALL LETTER IOTA
 0x3bb	lambda	lamda	GREEK SMALL LETTER LAMDA
