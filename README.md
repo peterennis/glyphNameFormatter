@@ -1,14 +1,9 @@
 # glyphNameFormatter
 
-Experimental. Oh maybe that needs a bigger font.
-
-# EXPERIMENTAL
-
-Beware. This is a wild goose / red herring.
-
-## HOWEVER
+Experimental. 
 
 * Unicode has long and descriptive names for each character.
+* Unicode is not always right.
 * Font editors need glyph names to easily identify the glyphs, short, unique, can't use space
 * Raw Unicode names are unsuitable for this purpose in font editors
 * Font editors then use their own lists that map names to unicode values.
@@ -16,20 +11,16 @@ Beware. This is a wild goose / red herring.
 * These lists should not dictate what is useful or not in a font but offer reliable unicode to name mapping.
 * Adobe standardized some lists years ago, standard, but incomplete and immutable
 
+## Rules
 
-## SO..
+* Glyph names should, as much as possible, only have script prefixes to disambiguate. Otherwise all names are equal. So `gaf` rather than `arGaf` for `ARABIC LETTER GAF`, or `Uk` rather than `Ukcyrillic` for `CYRILLIC CAPITAL LETTER UK`.
+* Script prefixes rather than suffixes to prevent interference with extensions as `.init`.
+* Short script prefixes. `cy-Psi` rather than `Psicyrillic`.
+* Disambiguation prefixes can be added after clash detection.
+* If a name needs to include a language, this is added to the end: `yehfarsi.isol` for	`ARABIC LETTER FARSI YEH ISOLATED FORM`
+* If an AGD name has a language but it is not needed for disambiguation and Unicode does not mention it, it can be ignored. For instance `kgreenlandic` can just be	`kra`.
 
-What if we could /generate/ useful names using the Unicode database, more or less following the conventions?
-
-The code is not going to be verypretty, basically a long list of rules, tests and exceptions.
-Some rules would be very specific, but many would work on many names, so there will be an economy of scale. As we can do more with python than with regular expressions we can add rules until it looks good. But in the end it will generate a reliable, testable list of names.
-Speed is not an issue, as long as it can generate final lists of names.
-
-This initial version only generates the Latin, Arabic and Cyrillic ranges. Have a look at generatedGlyphNames.txt for output. Or just run the formatter and make a new one.
-
-## Tests
-
-* Tests need to be written to make sure it all behaves. 
-* Names need to be unique
-* Compare names to available and public name lists from existing font editors
-* Fix rules to match those lists, or use this opportunity to fix bugs?
+## Goals
+*  Reduce the number of glyph specific rules.
+*  Casing in the name should reflect the case of the letter, if it has one.
+*  Average name length should not exceed that of the AGD. Statistics are calculated in the test.
