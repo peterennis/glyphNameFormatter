@@ -166,6 +166,15 @@ def getPlaneName(value):
     return None
 
 
+def getAllRangeNames():
+    names = []
+    k = unicodePlaneNames.keys()
+    k.sort()
+    for r in k:
+        names.append(unicodePlaneNames[r])
+    return names
+
+
 def getRangeProcessor(value):
     import importlib
     name = getRangeName(value)

@@ -1,5 +1,3 @@
-0028	parenleft	LEFT PARENTHESIS
-0029	parenright	RIGHT PARENTHESIS
 0040 - - - - - - >	at	COMMERCIAL AT
 007E	asciitilde	TILDE
 00A5 - - - - - - >	yen	YEN SIGN

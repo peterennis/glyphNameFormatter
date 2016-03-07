@@ -1,6 +1,7 @@
 
 from glyphNameFormatter import *
 
+debug(0x0028)
 
 INCLUDECJK = False
 
@@ -124,7 +125,7 @@ def compareWithAGDResults():
                 lines.append("\t".join(line))
                 selectionAgdNameLengths.append(len(agd[uniNumber]))
                 selectionUniNameLengths.append(len(g.getName(extension=False)))
-    path = "./test/differences.txt"
+    path = "./test/compare_with_AGD.txt"
     f = open(path, 'w')
     f.write("\n".join(lines))
     f.close()

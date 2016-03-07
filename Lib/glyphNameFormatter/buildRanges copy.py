@@ -1,15 +1,16 @@
 import glyphNameFormatter
 reload(glyphNameFormatter)
-from unicodeRangeNames import getRangeByName, getAllRangeNames
+from glyphNameFormatter.unicodeRangeNames import getRangeFromName, getAllRangeNames
 
 
 skipped = {}
+<<<<<<< Updated upstream
 
 
 def generateRange(rangeName):
     # generate all the names in the range
     lines = []
-    r = getRangeByName(rangeName)
+    r = getRangeFromName(rangeName)
     if r is None:
         print "unknown range name", rangeName
         return

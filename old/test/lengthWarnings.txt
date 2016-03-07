@@ -36,7 +36,6 @@
 02c3	arrowheadrightmod	MODIFIERLETTERRIGHTARROWHEAD	Spacing Modifier Letters
 02c4	arrowheadupmod	MODIFIERLETTERUPARROWHEAD	Spacing Modifier Letters
 02c5	arrowheaddownmod	MODIFIERLETTERDOWNARROWHEAD	Spacing Modifier Letters
-02c6	circumflex	MODIFIERLETTERCIRCUMFLEXACCENT	Spacing Modifier Letters
 02c8	verticallinemod	MODIFIERLETTERVERTICALLINE	Spacing Modifier Letters
 02c9	macronmod	MODIFIERLETTERMACRON	Spacing Modifier Letters
 02ca	acutemod	MODIFIERLETTERACUTEACCENT	Spacing Modifier Letters
@@ -53,9 +52,6 @@
 02d5	downtackmod	MODIFIERLETTERDOWNTACK	Spacing Modifier Letters
 02d6	plusmod	MODIFIERLETTERPLUSSIGN	Spacing Modifier Letters
 02d7	minusmod	MODIFIERLETTERMINUSSIGN	Spacing Modifier Letters
-02da	ring	RINGABOVE	Spacing Modifier Letters
-02dc	tilde	SMALLTILDE	Spacing Modifier Letters
-02dd	hungarumlaut	DOUBLEACUTEACCENT	Spacing Modifier Letters
 02de	hookrhoticmod	MODIFIERLETTERRHOTICHOOK	Spacing Modifier Letters
 02df	crossaccentmod	MODIFIERLETTERCROSSACCENT	Spacing Modifier Letters
 02e0	gammalatinsupmod	MODIFIERLETTERSMALLGAMMA	Spacing Modifier Letters
@@ -90,16 +86,16 @@
 02fd	shelfmod	MODIFIERLETTERSHELF	Spacing Modifier Letters
 02fe	shelfopenmod	MODIFIERLETTEROPENSHELF	Spacing Modifier Letters
 02ff	arrowleftlowmod	MODIFIERLETTERLOWLEFTARROW	Spacing Modifier Letters
-0300	gravecmb	COMBININGGRAVEACCENT	Combining Diacritical Marks
-0301	acutecmb	COMBININGACUTEACCENT	Combining Diacritical Marks
+0300	gravecmb	gravecomb	Combining Diacritical Marks
+0301	acutecmb	acutecomb	Combining Diacritical Marks
 0302	circumflexcmb	COMBININGCIRCUMFLEXACCENT	Combining Diacritical Marks
-0303	tildecmb	COMBININGTILDE	Combining Diacritical Marks
+0303	tildecmb	tildecomb	Combining Diacritical Marks
 0304	macroncmb	COMBININGMACRON	Combining Diacritical Marks
 0305	overlinecmb	COMBININGOVERLINE	Combining Diacritical Marks
 0306	brevecmb	COMBININGBREVE	Combining Diacritical Marks
 0307	dotaccentcmb	COMBININGDOTABOVE	Combining Diacritical Marks
 0308	dieresiscmb	COMBININGDIAERESIS	Combining Diacritical Marks
-0309	hoicmb	COMBININGHOOKABOVE	Combining Diacritical Marks
+0309	hoicmb	hookabovecomb	Combining Diacritical Marks
 030a	ringcmb	COMBININGRINGABOVE	Combining Diacritical Marks
 030b	hungarumlautcmb	COMBININGDOUBLEACUTEACCENT	Combining Diacritical Marks
 030c	caroncmb	COMBININGCARON	Combining Diacritical Marks
@@ -125,7 +121,7 @@
 0320	minusbelowcmb	COMBININGMINUSSIGNBELOW	Combining Diacritical Marks
 0321	hookpalatalizedbelowcmb	COMBININGPALATALIZEDHOOKBELOW	Combining Diacritical Marks
 0322	hookretroflexbelowcmb	COMBININGRETROFLEXHOOKBELOW	Combining Diacritical Marks
-0323	dotbelowcmb	COMBININGDOTBELOW	Combining Diacritical Marks
+0323	dotbelowcmb	dotbelowcomb	Combining Diacritical Marks
 0324	dieresisbelowcmb	COMBININGDIAERESISBELOW	Combining Diacritical Marks
 0325	ringbelowcmb	COMBININGRINGBELOW	Combining Diacritical Marks
 0326	commabelowcmb	COMBININGCOMMABELOW	Combining Diacritical Marks
@@ -1390,27 +1386,13 @@
 200f	righttoleftmark	RIGHT-TO-LEFTMARK	General Punctuation
 2011	nbhyphen	NON-BREAKINGHYPHEN	General Punctuation
 2016	bardbl	DOUBLEVERTICALLINE	General Punctuation
-2018	quoteleft	LEFTSINGLEQUOTATIONMARK	General Punctuation
-2019	quoteright	RIGHTSINGLEQUOTATIONMARK	General Punctuation
-201a	quotesinglbase	SINGLELOW-9QUOTATIONMARK	General Punctuation
-201b	quotereversed	SINGLEHIGH-REVERSED-9QUOTATIONMARK	General Punctuation
-201c	quotedblleft	LEFTDOUBLEQUOTATIONMARK	General Punctuation
-201d	quotedblright	RIGHTDOUBLEQUOTATIONMARK	General Punctuation
-201e	quotedblbase	DOUBLELOW-9QUOTATIONMARK	General Punctuation
 201f	quotedblreversed	DOUBLEHIGH-REVERSED-9QUOTATIONMARK	General Punctuation
-2021	daggerdbl	DOUBLEDAGGER	General Punctuation
-2026	ellipsis	HORIZONTALELLIPSIS	General Punctuation
 202a	lefttorightembed	LEFT-TO-RIGHTEMBEDDING	General Punctuation
 202b	righttoleftembed	RIGHT-TO-LEFTEMBEDDING	General Punctuation
 202c	popdirectionformat	POPDIRECTIONALFORMATTING	General Punctuation
 202d	lefttorightoverride	LEFT-TO-RIGHTOVERRIDE	General Punctuation
 202e	righttoleftoverride	RIGHT-TO-LEFTOVERRIDE	General Punctuation
-2030	perthousand	PERMILLESIGN	General Punctuation
-2033	dblprime	DOUBLEPRIME	General Punctuation
-2039	guilsinglleft	SINGLELEFT-POINTINGANGLEQUOTATIONMARK	General Punctuation
-203a	guilsinglright	SINGLERIGHT-POINTINGANGLEQUOTATIONMARK	General Punctuation
-203c	exclamdbl	DOUBLEEXCLAMATIONMARK	General Punctuation
-2044	fraction	FRACTIONSLASH	General Punctuation
+2032	prime	minute	General Punctuation
 2047	questiondbl	DOUBLEQUESTIONMARK	General Punctuation
 2048	questionexclam	QUESTIONEXCLAMATIONMARK	General Punctuation
 2049	exclamquestion	EXCLAMATIONQUESTIONMARK	General Punctuation
@@ -1429,15 +1411,10 @@
 208d	parenleft.inferior	SUBSCRIPTLEFTPARENTHESIS	Superscripts and Subscripts
 208e	parenright.inferior	SUBSCRIPTRIGHTPARENTHESIS	Superscripts and Subscripts
 20a2	cruzeiro	CRUZEIROSIGN	Currency Symbols
-20a3	franc	FRENCHFRANCSIGN	Currency Symbols
-20a4	lira	LIRASIGN	Currency Symbols
 20a6	naira	NAIRASIGN	Currency Symbols
-20a7	peseta	PESETASIGN	Currency Symbols
 20a8	rupee	RUPEESIGN	Currency Symbols
 20a9	won	WONSIGN	Currency Symbols
 20aa	newsheqel	NEWSHEQELSIGN	Currency Symbols
-20ab	dong	DONGSIGN	Currency Symbols
-20ac	Euro	EUROSIGN	Currency Symbols
 20ad	kip	KIPSIGN	Currency Symbols
 20ae	tugrik	TUGRIKSIGN	Currency Symbols
 20af	drachma	DRACHMASIGN	Currency Symbols
@@ -1452,34 +1429,21 @@
 2109	fahrenheit	DEGREEFAHRENHEIT	Letterlike Symbols
 210a	gscriptmath	SCRIPTSMALLG	Letterlike Symbols
 210f	hbarmath	PLANCKCONSTANTOVERTWOPI	Letterlike Symbols
-2111	Ifraktur	BLACK-LETTERCAPITALI	Letterlike Symbols
 2113	litre	SCRIPTSMALLL	Letterlike Symbols
 2116	numero	NUMEROSIGN	Letterlike Symbols
 2117	soundcopyright	SOUNDRECORDINGCOPYRIGHT	Letterlike Symbols
-2118	weierstrass	SCRIPTCAPITALP	Letterlike Symbols
-211c	Rfraktur	BLACK-LETTERCAPITALR	Letterlike Symbols
-211e	prescription	PRESCRIPTIONTAKE	Letterlike Symbols
 2121	telephone	TELEPHONESIGN	Letterlike Symbols
-2122	trademark	TRADEMARKSIGN	Letterlike Symbols
 2127	Ohminverted	INVERTEDOHMSIGN	Letterlike Symbols
 212b	angstrom	ANGSTROMSIGN	Letterlike Symbols
-212e	estimated	ESTIMATEDSYMBOL	Letterlike Symbols
-2135	aleph	ALEFSYMBOL	Letterlike Symbols
 2150	oneseventh	VULGARFRACTIONONESEVENTH	Number Forms
 2151	oneninth	VULGARFRACTIONONENINTH	Number Forms
 2152	onetenth	VULGARFRACTIONONETENTH	Number Forms
-2153	onethird	VULGARFRACTIONONETHIRD	Number Forms
-2154	twothirds	VULGARFRACTIONTWOTHIRDS	Number Forms
 2155	onefifth	VULGARFRACTIONONEFIFTH	Number Forms
 2156	twofifths	VULGARFRACTIONTWOFIFTHS	Number Forms
 2157	threefifths	VULGARFRACTIONTHREEFIFTHS	Number Forms
 2158	fourfifths	VULGARFRACTIONFOURFIFTHS	Number Forms
 2159	onesixth	VULGARFRACTIONONESIXTH	Number Forms
 215a	fivesixths	VULGARFRACTIONFIVESIXTHS	Number Forms
-215b	oneeighth	VULGARFRACTIONONEEIGHTH	Number Forms
-215c	threeeighths	VULGARFRACTIONTHREEEIGHTHS	Number Forms
-215d	fiveeighths	VULGARFRACTIONFIVEEIGHTHS	Number Forms
-215e	seveneighths	VULGARFRACTIONSEVENEIGHTHS	Number Forms
 215f	onefraction	FRACTIONNUMERATORONE	Number Forms
 2160	Oneroman	ROMANNUMERALONE	Number Forms
 2161	Tworoman	ROMANNUMERALTWO	Number Forms
@@ -1514,34 +1478,18 @@
 21de	pageup	arrow_21de	Arrows
 21df	pagedown	arrow_21df	Arrows
 21ea	capslock	arrow_21ea	Arrows
-2202	partialdiff	PARTIALDIFFERENTIAL	Mathematical Operators
-2208	element	ELEMENTOF	Mathematical Operators
-2209	notelement	NOTANELEMENTOF	Mathematical Operators
-220b	suchthat	CONTAINSASMEMBER	Mathematical Operators
 220c	notcontains	DOESNOTCONTAINASMEMBER	Mathematical Operators
-220f	product	N-ARYPRODUCT	Mathematical Operators
-2211	summation	N-ARYSUMMATION	Mathematical Operators
-2212	minus	MINUSSIGN	Mathematical Operators
 2213	minusplus	MINUS-OR-PLUSSIGN	Mathematical Operators
-2217	asteriskmath	ASTERISKOPERATOR	Mathematical Operators
-221a	radical	SQUAREROOT	Mathematical Operators
-221d	proportional	PROPORTIONALTO	Mathematical Operators
 2225	parallel	PARALLELTO	Mathematical Operators
 2226	notparallel	NOTPARALLELTO	Mathematical Operators
 222c	dblintegral	DOUBLEINTEGRAL	Mathematical Operators
-223c	similar	TILDEOPERATOR	Mathematical Operators
 2243	asymptoticallyequal	ASYMPTOTICALLYEQUALTO	Mathematical Operators
-2245	congruent	APPROXIMATELYEQUALTO	Mathematical Operators
-2248	approxequal	ALMOSTEQUALTO	Mathematical Operators
 224c	allequal	ALLEQUALTO	Mathematical Operators
 2250	approaches	APPROACHESTHELIMIT	Mathematical Operators
 2251	geometricallyequal	GEOMETRICALLYEQUALTO	Mathematical Operators
 2252	approxequalorimage	APPROXIMATELYEQUALTOORTHEIMAGEOF	Mathematical Operators
 2253	imageorapproximatelyequal	IMAGEOFORAPPROXIMATELYEQUALTO	Mathematical Operators
-2260	notequal	NOTEQUALTO	Mathematical Operators
 2262	notidentical	NOTIDENTICALTO	Mathematical Operators
-2264	lessequal	LESS-THANOREQUALTO	Mathematical Operators
-2265	greaterequal	GREATER-THANOREQUALTO	Mathematical Operators
 2266	lessoverequal	LESS-THANOVEREQUALTO	Mathematical Operators
 2267	greateroverequal	GREATER-THANOVEREQUALTO	Mathematical Operators
 226a	muchless	MUCHLESS-THAN	Mathematical Operators
@@ -1557,32 +1505,22 @@
 2279	notgreaternorless	NEITHERGREATER-THANNORLESS-THAN	Mathematical Operators
 2280	notprecedes	DOESNOTPRECEDE	Mathematical Operators
 2281	notsucceeds	DOESNOTSUCCEED	Mathematical Operators
-2284	notsubset	NOTASUBSETOF	Mathematical Operators
 2285	notsuperset	NOTASUPERSETOF	Mathematical Operators
-2286	reflexsubset	SUBSETOFOREQUALTO	Mathematical Operators
-2287	reflexsuperset	SUPERSETOFOREQUALTO	Mathematical Operators
 228a	subsetnotequal	SUBSETOFWITHNOTEQUALTO	Mathematical Operators
 228b	supersetnotequal	SUPERSETOFWITHNOTEQUALTO	Mathematical Operators
-2295	circleplus	CIRCLEDPLUS	Mathematical Operators
 2296	minuscircle	CIRCLEDMINUS	Mathematical Operators
 2299	circleot	CIRCLEDDOTOPERATOR	Mathematical Operators
-22c5	dotmath	DOTOPERATOR	Mathematical Operators
 22ce	curlyor	CURLYLOGICALOR	Mathematical Operators
 22cf	curlyand	CURLYLOGICALAND	Mathematical Operators
 22da	lessequalorgreater	LESS-THANEQUALTOORGREATER-THAN	Mathematical Operators
 22db	greaterequalorless	GREATER-THANEQUALTOORLESS-THAN	Mathematical Operators
-2310	revlogicalnot	REVERSEDNOTSIGN	Miscellaneous Technical
 2318	propellor	PLACEOFINTERESTSIGN	Miscellaneous Technical
 2319	SA420000	TURNEDNOTSIGN	Miscellaneous Technical
 231e	BorderLLCorner1	BOTTOMLEFTCORNER	Miscellaneous Technical
 231f	BorderLRCorner1	BOTTOMRIGHTCORNER	Miscellaneous Technical
-2320	integraltp	TOPHALFINTEGRAL	Miscellaneous Technical
-2321	integralbt	BOTTOMHALFINTEGRAL	Miscellaneous Technical
 2325	option	OPTIONKEY	Miscellaneous Technical
 2326	deleteright	ERASETOTHERIGHT	Miscellaneous Technical
 2327	clear	XINARECTANGLEBOX	Miscellaneous Technical
-2329	angleleft	LEFT-POINTINGANGLEBRACKET	Miscellaneous Technical
-232a	angleright	RIGHT-POINTINGANGLEBRACKET	Miscellaneous Technical
 232b	deleteleft	ERASETOTHELEFT	Miscellaneous Technical
 2423	blank	OPENBOX	Control Pictures
 2441	chair	OCRCHAIR	Optical Character Recognition
@@ -1747,11 +1685,9 @@
 24fd	ninecircledbl	DOUBLECIRCLEDDIGITNINE	Enclosed Alphanumerics
 24fe	tencircledbl	DOUBLECIRCLEDNUMBERTEN	Enclosed Alphanumerics
 24ff	zerocircleblack	NEGATIVECIRCLEDDIGITZERO	Enclosed Alphanumerics
-2580	uphalfblock	UPPERHALFBLOCK	Block Elements
 2581	dneighthblock	LOWERONEEIGHTHBLOCK	Block Elements
 2582	dnquarterblock	LOWERONEQUARTERBLOCK	Block Elements
 2583	dnthreeeighthsblock	LOWERTHREEEIGHTHSBLOCK	Block Elements
-2584	dnhalfblock	LOWERHALFBLOCK	Block Elements
 2585	dnfiveeighthsblock	LOWERFIVEEIGHTHSBLOCK	Block Elements
 2586	dnthreequartersblock	LOWERTHREEQUARTERSBLOCK	Block Elements
 2587	dnseveneighthsblock	LOWERSEVENEIGHTHSBLOCK	Block Elements
@@ -1777,43 +1713,26 @@
 25a8	squareupperrighttolowerleftfill	SQUAREWITHUPPERRIGHTTOLOWERLEFTFILL	Geometric Shapes
 25a9	squarediagonalcrosshatchfill	SQUAREWITHDIAGONALCROSSHATCHFILL	Geometric Shapes
 25aa	bulletsquare	BLACKSMALLSQUARE	Geometric Shapes
-25ac	filledrect	BLACKRECTANGLE	Geometric Shapes
-25b2	triangleblackup	BLACKUP-POINTINGTRIANGLE	Geometric Shapes
 25b3	trianglewhiteup	WHITEUP-POINTINGTRIANGLE	Geometric Shapes
 25b4	blackuppointingsmalltriangle	BLACKUP-POINTINGSMALLTRIANGLE	Geometric Shapes
 25b5	whiteuppointingsmalltriangle	WHITEUP-POINTINGSMALLTRIANGLE	Geometric Shapes
 25b6	triangleblackright	BLACKRIGHT-POINTINGTRIANGLE	Geometric Shapes
 25b7	trianglewhiteright	WHITERIGHT-POINTINGTRIANGLE	Geometric Shapes
 25b9	whiterightpointingsmalltriangle	WHITERIGHT-POINTINGSMALLTRIANGLE	Geometric Shapes
-25ba	pointerblackright	BLACKRIGHT-POINTINGPOINTER	Geometric Shapes
-25bc	triangleblackdown	BLACKDOWN-POINTINGTRIANGLE	Geometric Shapes
 25bd	trianglewhitedown	WHITEDOWN-POINTINGTRIANGLE	Geometric Shapes
 25bf	whitedownpointingsmalltriangle	WHITEDOWN-POINTINGSMALLTRIANGLE	Geometric Shapes
 25c0	triangleblackleft	BLACKLEFT-POINTINGTRIANGLE	Geometric Shapes
 25c1	trianglewhiteleft	WHITELEFT-POINTINGTRIANGLE	Geometric Shapes
 25c3	whiteleftpointingsmalltriangle	WHITELEFT-POINTINGSMALLTRIANGLE	Geometric Shapes
-25c4	pointerblackleft	BLACKLEFT-POINTINGPOINTER	Geometric Shapes
-25d8	invbullet	INVERSEBULLET	Geometric Shapes
-25d9	invcircle	INVERSEWHITECIRCLE	Geometric Shapes
 2610	checkbox	BALLOTBOX	Miscellaneous Symbols
 2611	checkbox.checked	BALLOTBOXWITHCHECK	Miscellaneous Symbols
 2619	FleuronLeft	REVERSEDROTATEDFLORALHEARTBULLET	Miscellaneous Symbols
 2629	cross	CROSSOFJERUSALEM	Miscellaneous Symbols
 262c	khanda	ADISHAKTI	Miscellaneous Symbols
-263a	smileface	WHITESMILINGFACE	Miscellaneous Symbols
-263b	invsmileface	BLACKSMILINGFACE	Miscellaneous Symbols
-263c	sun	WHITESUNWITHRAYS	Miscellaneous Symbols
 263d	TheMoon	FIRSTQUARTERMOON	Miscellaneous Symbols
 263e	Moon	LASTQUARTERMOON	Miscellaneous Symbols
-2640	female	FEMALESIGN	Miscellaneous Symbols
-2642	male	MALESIGN	Miscellaneous Symbols
 264f	Scorpio	SCORPIUS	Miscellaneous Symbols
-2660	spade	BLACKSPADESUIT	Miscellaneous Symbols
 2662	diamondopen	WHITEDIAMONDSUIT	Miscellaneous Symbols
-2663	club	BLACKCLUBSUIT	Miscellaneous Symbols
-2665	heart	BLACKHEARTSUIT	Miscellaneous Symbols
-2666	diamond	BLACKDIAMONDSUIT	Miscellaneous Symbols
-266b	musicalnotedbl	BEAMEDEIGHTHNOTES	Miscellaneous Symbols
 2673	recycleone	RECYCLINGSYMBOLFORTYPE-1PLASTICS	Miscellaneous Symbols
 2674	recycletwo	RECYCLINGSYMBOLFORTYPE-2PLASTICS	Miscellaneous Symbols
 2675	recyclethree	RECYCLINGSYMBOLFORTYPE-3PLASTICS	Miscellaneous Symbols
