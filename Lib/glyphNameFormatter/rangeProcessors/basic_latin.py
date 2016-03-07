@@ -1,5 +1,3 @@
-# -*- coding: UTF-8 -*-
-
 
 def process(self):
     self.edit("LATIN")
@@ -33,17 +31,15 @@ def process(self):
     self.edit("LOW LINE", "underscore")
     self.edit("CIRCUMFLEX ACCENT", "asciicircum")
     self.edit("GRAVE ACCENT", "grave")
-    self.edit("TILDE", "tilde")
+    self.edit("TILDE", "asciitilde")
 
     self.edit("SQUARE BRACKET", "bracket")
     self.edit("CURLY BRACKET", "brace")
     self.edit("PARENTHESIS", "parenthesis")
     self.edit("LEFT", "left")
     if self.has("RIGHT") and not self.has("COPYRIGHT"):
-        self.replace("RIGHT")
-        self.suffix("right")
+        self.edit("RIGHT", "right")
     self.handleCase()
-    return True
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
