@@ -9,7 +9,7 @@ def printRange(rangeName):
         g = GlyphName(uniNumber=u)
         name = g.getName()
         if name is None:
-            name = "! ! ! ! ! ! ! ! !"
+            continue
         AGDName = unicode2name_AGD.get(g.uniNumber, "")
         if AGDName is None or AGDName == name:
             AGDName = ""
