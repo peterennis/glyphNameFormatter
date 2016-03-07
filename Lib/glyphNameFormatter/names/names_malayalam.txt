@@ -1,96 +1,96 @@
 # Malayalam 0D00 - 0D7F
-0D02	needsfix_malayalamsignanusvara	MALAYALAM SIGN ANUSVARA
-0D03	needsfix_malayalamsignvisarga	MALAYALAM SIGN VISARGA
-0D05	needsfix_malayalamlettera	MALAYALAM LETTER A
-0D06	needsfix_malayalamletteraa	MALAYALAM LETTER AA
-0D07	needsfix_malayalamletteri	MALAYALAM LETTER I
-0D08	needsfix_malayalamletterii	MALAYALAM LETTER II
-0D09	needsfix_malayalamletteru	MALAYALAM LETTER U
-0D0A	needsfix_malayalamletteruu	MALAYALAM LETTER UU
-0D0B	needsfix_malayalamlettervocalicr	MALAYALAM LETTER VOCALIC R
-0D0C	needsfix_malayalamlettervocalicl	MALAYALAM LETTER VOCALIC L
-0D0E	needsfix_malayalamlettere	MALAYALAM LETTER E
-0D0F	needsfix_malayalamletteree	MALAYALAM LETTER EE
-0D10	needsfix_malayalamletterai	MALAYALAM LETTER AI
-0D12	needsfix_malayalamlettero	MALAYALAM LETTER O
-0D13	needsfix_malayalamletteroo	MALAYALAM LETTER OO
-0D14	needsfix_malayalamletterau	MALAYALAM LETTER AU
-0D15	needsfix_malayalamletterka	MALAYALAM LETTER KA
-0D16	needsfix_malayalamletterkha	MALAYALAM LETTER KHA
-0D17	needsfix_malayalamletterga	MALAYALAM LETTER GA
-0D18	needsfix_malayalamlettergha	MALAYALAM LETTER GHA
-0D19	needsfix_malayalamletternga	MALAYALAM LETTER NGA
-0D1A	needsfix_malayalamletterca	MALAYALAM LETTER CA
-0D1B	needsfix_malayalamlettercha	MALAYALAM LETTER CHA
-0D1C	needsfix_malayalamletterja	MALAYALAM LETTER JA
-0D1D	needsfix_malayalamletterjha	MALAYALAM LETTER JHA
-0D1E	needsfix_malayalamletternya	MALAYALAM LETTER NYA
-0D1F	needsfix_malayalamlettertta	MALAYALAM LETTER TTA
-0D20	needsfix_malayalamletterttha	MALAYALAM LETTER TTHA
-0D21	needsfix_malayalamletterdda	MALAYALAM LETTER DDA
-0D22	needsfix_malayalamletterddha	MALAYALAM LETTER DDHA
-0D23	needsfix_malayalamletternna	MALAYALAM LETTER NNA
-0D24	needsfix_malayalamletterta	MALAYALAM LETTER TA
-0D25	needsfix_malayalamlettertha	MALAYALAM LETTER THA
-0D26	needsfix_malayalamletterda	MALAYALAM LETTER DA
-0D27	needsfix_malayalamletterdha	MALAYALAM LETTER DHA
-0D28	needsfix_malayalamletterna	MALAYALAM LETTER NA
-0D2A	needsfix_malayalamletterpa	MALAYALAM LETTER PA
-0D2B	needsfix_malayalamletterpha	MALAYALAM LETTER PHA
-0D2C	needsfix_malayalamletterba	MALAYALAM LETTER BA
-0D2D	needsfix_malayalamletterbha	MALAYALAM LETTER BHA
-0D2E	needsfix_malayalamletterma	MALAYALAM LETTER MA
-0D2F	needsfix_malayalamletterya	MALAYALAM LETTER YA
-0D30	needsfix_malayalamletterra	MALAYALAM LETTER RA
-0D31	needsfix_malayalamletterrra	MALAYALAM LETTER RRA
-0D32	needsfix_malayalamletterla	MALAYALAM LETTER LA
-0D33	needsfix_malayalamletterlla	MALAYALAM LETTER LLA
-0D34	needsfix_malayalamletterllla	MALAYALAM LETTER LLLA
-0D35	needsfix_malayalamletterva	MALAYALAM LETTER VA
-0D36	needsfix_malayalamlettersha	MALAYALAM LETTER SHA
-0D37	needsfix_malayalamletterssa	MALAYALAM LETTER SSA
-0D38	needsfix_malayalamlettersa	MALAYALAM LETTER SA
-0D39	needsfix_malayalamletterha	MALAYALAM LETTER HA
-0D3D	needsfix_malayalamsignavagraha	MALAYALAM SIGN AVAGRAHA
-0D3E	needsfix_malayalamvowelsignaa	MALAYALAM VOWEL SIGN AA
-0D3F	needsfix_malayalamvowelsigni	MALAYALAM VOWEL SIGN I
-0D40	needsfix_malayalamvowelsignii	MALAYALAM VOWEL SIGN II
-0D41	needsfix_malayalamvowelsignu	MALAYALAM VOWEL SIGN U
-0D42	needsfix_malayalamvowelsignuu	MALAYALAM VOWEL SIGN UU
-0D43	needsfix_malayalamvowelsignvocalicr	MALAYALAM VOWEL SIGN VOCALIC R
-0D44	needsfix_malayalamvowelsignvocalicrr	MALAYALAM VOWEL SIGN VOCALIC RR
-0D46	needsfix_malayalamvowelsigne	MALAYALAM VOWEL SIGN E
-0D47	needsfix_malayalamvowelsignee	MALAYALAM VOWEL SIGN EE
-0D48	needsfix_malayalamvowelsignai	MALAYALAM VOWEL SIGN AI
-0D4A	needsfix_malayalamvowelsigno	MALAYALAM VOWEL SIGN O
-0D4B	needsfix_malayalamvowelsignoo	MALAYALAM VOWEL SIGN OO
-0D4C	needsfix_malayalamvowelsignau	MALAYALAM VOWEL SIGN AU
-0D4D	needsfix_malayalamsignvirama	MALAYALAM SIGN VIRAMA
-0D57	needsfix_malayalamaulengthmark	MALAYALAM AU LENGTH MARK
-0D60	needsfix_malayalamlettervocalicrr	MALAYALAM LETTER VOCALIC RR
-0D61	needsfix_malayalamlettervocalicll	MALAYALAM LETTER VOCALIC LL
-0D62	needsfix_malayalamvowelsignvocalicl	MALAYALAM VOWEL SIGN VOCALIC L
-0D63	needsfix_malayalamvowelsignvocalicll	MALAYALAM VOWEL SIGN VOCALIC LL
-0D66	needsfix_malayalamdigitzero	MALAYALAM DIGIT ZERO
-0D67	needsfix_malayalamdigitone	MALAYALAM DIGIT ONE
-0D68	needsfix_malayalamdigittwo	MALAYALAM DIGIT TWO
-0D69	needsfix_malayalamdigitthree	MALAYALAM DIGIT THREE
-0D6A	needsfix_malayalamdigitfour	MALAYALAM DIGIT FOUR
-0D6B	needsfix_malayalamdigitfive	MALAYALAM DIGIT FIVE
-0D6C	needsfix_malayalamdigitsix	MALAYALAM DIGIT SIX
-0D6D	needsfix_malayalamdigitseven	MALAYALAM DIGIT SEVEN
-0D6E	needsfix_malayalamdigiteight	MALAYALAM DIGIT EIGHT
-0D6F	needsfix_malayalamdigitnine	MALAYALAM DIGIT NINE
-0D70	needsfix_malayalamnumberten	MALAYALAM NUMBER TEN
-0D71	needsfix_malayalamnumberonehundred	MALAYALAM NUMBER ONE HUNDRED
-0D72	needsfix_malayalamnumberonethousand	MALAYALAM NUMBER ONE THOUSAND
-0D73	needsfix_malayalamfractiononequarter	MALAYALAM FRACTION ONE QUARTER
-0D74	needsfix_malayalamfractiononehalf	MALAYALAM FRACTION ONE HALF
-0D75	needsfix_malayalamfractionthreequarters	MALAYALAM FRACTION THREE QUARTERS
-0D79	needsfix_malayalamdatemark	MALAYALAM DATE MARK
-0D7A	needsfix_malayalamletterchillunn	MALAYALAM LETTER CHILLU NN
-0D7B	needsfix_malayalamletterchillun	MALAYALAM LETTER CHILLU N
-0D7C	needsfix_malayalamletterchillurr	MALAYALAM LETTER CHILLU RR
-0D7D	needsfix_malayalamletterchillul	MALAYALAM LETTER CHILLU L
-0D7E	needsfix_malayalamletterchillull	MALAYALAM LETTER CHILLU LL
-0D7F	needsfix_malayalamletterchilluk	MALAYALAM LETTER CHILLU K
+0D02	malayalamsignanusvara	MALAYALAM SIGN ANUSVARA
+0D03	malayalamsignvisarga	MALAYALAM SIGN VISARGA
+0D05	malayalamlettera	MALAYALAM LETTER A
+0D06	malayalamletteraa	MALAYALAM LETTER AA
+0D07	malayalamletteri	MALAYALAM LETTER I
+0D08	malayalamletterii	MALAYALAM LETTER II
+0D09	malayalamletteru	MALAYALAM LETTER U
+0D0A	malayalamletteruu	MALAYALAM LETTER UU
+0D0B	malayalamlettervocalicr	MALAYALAM LETTER VOCALIC R
+0D0C	malayalamlettervocalicl	MALAYALAM LETTER VOCALIC L
+0D0E	malayalamlettere	MALAYALAM LETTER E
+0D0F	malayalamletteree	MALAYALAM LETTER EE
+0D10	malayalamletterai	MALAYALAM LETTER AI
+0D12	malayalamlettero	MALAYALAM LETTER O
+0D13	malayalamletteroo	MALAYALAM LETTER OO
+0D14	malayalamletterau	MALAYALAM LETTER AU
+0D15	malayalamletterka	MALAYALAM LETTER KA
+0D16	malayalamletterkha	MALAYALAM LETTER KHA
+0D17	malayalamletterga	MALAYALAM LETTER GA
+0D18	malayalamlettergha	MALAYALAM LETTER GHA
+0D19	malayalamletternga	MALAYALAM LETTER NGA
+0D1A	malayalamletterca	MALAYALAM LETTER CA
+0D1B	malayalamlettercha	MALAYALAM LETTER CHA
+0D1C	malayalamletterja	MALAYALAM LETTER JA
+0D1D	malayalamletterjha	MALAYALAM LETTER JHA
+0D1E	malayalamletternya	MALAYALAM LETTER NYA
+0D1F	malayalamlettertta	MALAYALAM LETTER TTA
+0D20	malayalamletterttha	MALAYALAM LETTER TTHA
+0D21	malayalamletterdda	MALAYALAM LETTER DDA
+0D22	malayalamletterddha	MALAYALAM LETTER DDHA
+0D23	malayalamletternna	MALAYALAM LETTER NNA
+0D24	malayalamletterta	MALAYALAM LETTER TA
+0D25	malayalamlettertha	MALAYALAM LETTER THA
+0D26	malayalamletterda	MALAYALAM LETTER DA
+0D27	malayalamletterdha	MALAYALAM LETTER DHA
+0D28	malayalamletterna	MALAYALAM LETTER NA
+0D2A	malayalamletterpa	MALAYALAM LETTER PA
+0D2B	malayalamletterpha	MALAYALAM LETTER PHA
+0D2C	malayalamletterba	MALAYALAM LETTER BA
+0D2D	malayalamletterbha	MALAYALAM LETTER BHA
+0D2E	malayalamletterma	MALAYALAM LETTER MA
+0D2F	malayalamletterya	MALAYALAM LETTER YA
+0D30	malayalamletterra	MALAYALAM LETTER RA
+0D31	malayalamletterrra	MALAYALAM LETTER RRA
+0D32	malayalamletterla	MALAYALAM LETTER LA
+0D33	malayalamletterlla	MALAYALAM LETTER LLA
+0D34	malayalamletterllla	MALAYALAM LETTER LLLA
+0D35	malayalamletterva	MALAYALAM LETTER VA
+0D36	malayalamlettersha	MALAYALAM LETTER SHA
+0D37	malayalamletterssa	MALAYALAM LETTER SSA
+0D38	malayalamlettersa	MALAYALAM LETTER SA
+0D39	malayalamletterha	MALAYALAM LETTER HA
+0D3D	malayalamsignavagraha	MALAYALAM SIGN AVAGRAHA
+0D3E	malayalamvowelsignaa	MALAYALAM VOWEL SIGN AA
+0D3F	malayalamvowelsigni	MALAYALAM VOWEL SIGN I
+0D40	malayalamvowelsignii	MALAYALAM VOWEL SIGN II
+0D41	malayalamvowelsignu	MALAYALAM VOWEL SIGN U
+0D42	malayalamvowelsignuu	MALAYALAM VOWEL SIGN UU
+0D43	malayalamvowelsignvocalicr	MALAYALAM VOWEL SIGN VOCALIC R
+0D44	malayalamvowelsignvocalicrr	MALAYALAM VOWEL SIGN VOCALIC RR
+0D46	malayalamvowelsigne	MALAYALAM VOWEL SIGN E
+0D47	malayalamvowelsignee	MALAYALAM VOWEL SIGN EE
+0D48	malayalamvowelsignai	MALAYALAM VOWEL SIGN AI
+0D4A	malayalamvowelsigno	MALAYALAM VOWEL SIGN O
+0D4B	malayalamvowelsignoo	MALAYALAM VOWEL SIGN OO
+0D4C	malayalamvowelsignau	MALAYALAM VOWEL SIGN AU
+0D4D	malayalamsignvirama	MALAYALAM SIGN VIRAMA
+0D57	malayalamaulengthmark	MALAYALAM AU LENGTH MARK
+0D60	malayalamlettervocalicrr	MALAYALAM LETTER VOCALIC RR
+0D61	malayalamlettervocalicll	MALAYALAM LETTER VOCALIC LL
+0D62	malayalamvowelsignvocalicl	MALAYALAM VOWEL SIGN VOCALIC L
+0D63	malayalamvowelsignvocalicll	MALAYALAM VOWEL SIGN VOCALIC LL
+0D66	malayalamdigitzero	MALAYALAM DIGIT ZERO
+0D67	malayalamdigitone	MALAYALAM DIGIT ONE
+0D68	malayalamdigittwo	MALAYALAM DIGIT TWO
+0D69	malayalamdigitthree	MALAYALAM DIGIT THREE
+0D6A	malayalamdigitfour	MALAYALAM DIGIT FOUR
+0D6B	malayalamdigitfive	MALAYALAM DIGIT FIVE
+0D6C	malayalamdigitsix	MALAYALAM DIGIT SIX
+0D6D	malayalamdigitseven	MALAYALAM DIGIT SEVEN
+0D6E	malayalamdigiteight	MALAYALAM DIGIT EIGHT
+0D6F	malayalamdigitnine	MALAYALAM DIGIT NINE
+0D70	malayalamnumberten	MALAYALAM NUMBER TEN
+0D71	malayalamnumberonehundred	MALAYALAM NUMBER ONE HUNDRED
+0D72	malayalamnumberonethousand	MALAYALAM NUMBER ONE THOUSAND
+0D73	malayalamfractiononequarter	MALAYALAM FRACTION ONE QUARTER
+0D74	malayalamfractiononehalf	MALAYALAM FRACTION ONE HALF
+0D75	malayalamfractionthreequarters	MALAYALAM FRACTION THREE QUARTERS
+0D79	malayalamdatemark	MALAYALAM DATE MARK
+0D7A	malayalamletterchillunn	MALAYALAM LETTER CHILLU NN
+0D7B	malayalamletterchillun	MALAYALAM LETTER CHILLU N
+0D7C	malayalamletterchillurr	MALAYALAM LETTER CHILLU RR
+0D7D	malayalamletterchillul	MALAYALAM LETTER CHILLU L
+0D7E	malayalamletterchillull	MALAYALAM LETTER CHILLU LL
+0D7F	malayalamletterchilluk	MALAYALAM LETTER CHILLU K

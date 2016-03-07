@@ -1,65 +1,65 @@
 # Yijing Hexagram Symbols 4DC0 - 4DFF
-4DC0	needsfix_hexagramforthecreativeheaven	HEXAGRAM FOR THE CREATIVE HEAVEN
-4DC1	needsfix_hexagramforthereceptiveearth	HEXAGRAM FOR THE RECEPTIVE EARTH
-4DC2	needsfix_hexagramfordifficultyatthebeginning	HEXAGRAM FOR DIFFICULTY AT THE BEGINNING
-4DC3	needsfix_hexagramforyouthfulfolly	HEXAGRAM FOR YOUTHFUL FOLLY
-4DC4	needsfix_hexagramforwaiting	HEXAGRAM FOR WAITING
-4DC5	needsfix_hexagramforconflict	HEXAGRAM FOR CONFLICT
-4DC6	needsfix_hexagramforthearmy	HEXAGRAM FOR THE ARMY
-4DC7	needsfix_hexagramforholdingtogether	HEXAGRAM FOR HOLDING TOGETHER
-4DC8	needsfix_hexagramforsmalltaming	HEXAGRAM FOR SMALL TAMING
-4DC9	needsfix_hexagramfortreading	HEXAGRAM FOR TREADING
-4DCA	needsfix_hexagramforpeace	HEXAGRAM FOR PEACE
-4DCB	needsfix_hexagramforstandstill	HEXAGRAM FOR STANDSTILL
-4DCC	needsfix_hexagramforfellowship	HEXAGRAM FOR FELLOWSHIP
-4DCD	needsfix_hexagramforgreatpossession	HEXAGRAM FOR GREAT POSSESSION
-4DCE	needsfix_hexagramformodesty	HEXAGRAM FOR MODESTY
-4DCF	needsfix_hexagramforenthusiasm	HEXAGRAM FOR ENTHUSIASM
-4DD0	needsfix_hexagramforfollowing	HEXAGRAM FOR FOLLOWING
-4DD1	needsfix_hexagramforworkonthedecayed	HEXAGRAM FOR WORK ON THE DECAYED
-4DD2	needsfix_hexagramforapproach	HEXAGRAM FOR APPROACH
-4DD3	needsfix_hexagramforcontemplation	HEXAGRAM FOR CONTEMPLATION
-4DD4	needsfix_hexagramforbitingthrough	HEXAGRAM FOR BITING THROUGH
-4DD5	needsfix_hexagramforgrace	HEXAGRAM FOR GRACE
-4DD6	needsfix_hexagramforsplittingapart	HEXAGRAM FOR SPLITTING APART
-4DD7	needsfix_hexagramforreturn	HEXAGRAM FOR RETURN
-4DD8	needsfix_hexagramforinnocence	HEXAGRAM FOR INNOCENCE
-4DD9	needsfix_hexagramforgreattaming	HEXAGRAM FOR GREAT TAMING
-4DDA	needsfix_hexagramformouthcorners	HEXAGRAM FOR MOUTH CORNERS
-4DDB	needsfix_hexagramforgreatpreponderance	HEXAGRAM FOR GREAT PREPONDERANCE
-4DDC	needsfix_hexagramfortheabysmalwater	HEXAGRAM FOR THE ABYSMAL WATER
-4DDD	needsfix_hexagramfortheclingingfire	HEXAGRAM FOR THE CLINGING FIRE
-4DDE	needsfix_hexagramforinfluence	HEXAGRAM FOR INFLUENCE
-4DDF	needsfix_hexagramforduration	HEXAGRAM FOR DURATION
-4DE0	needsfix_hexagramforretreat	HEXAGRAM FOR RETREAT
-4DE1	needsfix_hexagramforgreatpower	HEXAGRAM FOR GREAT POWER
-4DE2	needsfix_hexagramforprogress	HEXAGRAM FOR PROGRESS
-4DE3	needsfix_hexagramfordarkeningofthelight	HEXAGRAM FOR DARKENING OF THE LIGHT
-4DE4	needsfix_hexagramforthefamily	HEXAGRAM FOR THE FAMILY
-4DE5	needsfix_hexagramforopposition	HEXAGRAM FOR OPPOSITION
-4DE6	needsfix_hexagramforobstruction	HEXAGRAM FOR OBSTRUCTION
-4DE7	needsfix_hexagramfordeliverance	HEXAGRAM FOR DELIVERANCE
-4DE8	needsfix_hexagramfordecrease	HEXAGRAM FOR DECREASE
-4DE9	needsfix_hexagramforincrease	HEXAGRAM FOR INCREASE
-4DEA	needsfix_hexagramforbreakthrough	HEXAGRAM FOR BREAKTHROUGH
-4DEB	needsfix_hexagramforcomingtomeet	HEXAGRAM FOR COMING TO MEET
-4DEC	needsfix_hexagramforgatheringtogether	HEXAGRAM FOR GATHERING TOGETHER
-4DED	needsfix_hexagramforpushingupward	HEXAGRAM FOR PUSHING UPWARD
-4DEE	needsfix_hexagramforoppression	HEXAGRAM FOR OPPRESSION
-4DEF	needsfix_hexagramforthewell	HEXAGRAM FOR THE WELL
-4DF0	needsfix_hexagramforrevolution	HEXAGRAM FOR REVOLUTION
-4DF1	needsfix_hexagramforthecauldron	HEXAGRAM FOR THE CAULDRON
-4DF2	needsfix_hexagramforthearousingthunder	HEXAGRAM FOR THE AROUSING THUNDER
-4DF3	needsfix_hexagramforthekeepingstillmountain	HEXAGRAM FOR THE KEEPING STILL MOUNTAIN
-4DF4	needsfix_hexagramfordevelopment	HEXAGRAM FOR DEVELOPMENT
-4DF5	needsfix_hexagramforthemarryingmaiden	HEXAGRAM FOR THE MARRYING MAIDEN
-4DF6	needsfix_hexagramforabundance	HEXAGRAM FOR ABUNDANCE
-4DF7	needsfix_hexagramforthewanderer	HEXAGRAM FOR THE WANDERER
-4DF8	needsfix_hexagramforthegentlewind	HEXAGRAM FOR THE GENTLE WIND
-4DF9	needsfix_hexagramforthejoyouslake	HEXAGRAM FOR THE JOYOUS LAKE
-4DFA	needsfix_hexagramfordispersion	HEXAGRAM FOR DISPERSION
-4DFB	needsfix_hexagramforlimitation	HEXAGRAM FOR LIMITATION
-4DFC	needsfix_hexagramforinnertruth	HEXAGRAM FOR INNER TRUTH
-4DFD	needsfix_hexagramforsmallpreponderance	HEXAGRAM FOR SMALL PREPONDERANCE
-4DFE	needsfix_hexagramforaftercompletion	HEXAGRAM FOR AFTER COMPLETION
-4DFF	needsfix_hexagramforbeforecompletion	HEXAGRAM FOR BEFORE COMPLETION
+4DC0	hexagramforthecreativeheaven	HEXAGRAM FOR THE CREATIVE HEAVEN
+4DC1	hexagramforthereceptiveearth	HEXAGRAM FOR THE RECEPTIVE EARTH
+4DC2	hexagramfordifficultyatthebeginning	HEXAGRAM FOR DIFFICULTY AT THE BEGINNING
+4DC3	hexagramforyouthfulfolly	HEXAGRAM FOR YOUTHFUL FOLLY
+4DC4	hexagramforwaiting	HEXAGRAM FOR WAITING
+4DC5	hexagramforconflict	HEXAGRAM FOR CONFLICT
+4DC6	hexagramforthearmy	HEXAGRAM FOR THE ARMY
+4DC7	hexagramforholdingtogether	HEXAGRAM FOR HOLDING TOGETHER
+4DC8	hexagramforsmalltaming	HEXAGRAM FOR SMALL TAMING
+4DC9	hexagramfortreading	HEXAGRAM FOR TREADING
+4DCA	hexagramforpeace	HEXAGRAM FOR PEACE
+4DCB	hexagramforstandstill	HEXAGRAM FOR STANDSTILL
+4DCC	hexagramforfellowship	HEXAGRAM FOR FELLOWSHIP
+4DCD	hexagramforgreatpossession	HEXAGRAM FOR GREAT POSSESSION
+4DCE	hexagramformodesty	HEXAGRAM FOR MODESTY
+4DCF	hexagramforenthusiasm	HEXAGRAM FOR ENTHUSIASM
+4DD0	hexagramforfollowing	HEXAGRAM FOR FOLLOWING
+4DD1	hexagramforworkonthedecayed	HEXAGRAM FOR WORK ON THE DECAYED
+4DD2	hexagramforapproach	HEXAGRAM FOR APPROACH
+4DD3	hexagramforcontemplation	HEXAGRAM FOR CONTEMPLATION
+4DD4	hexagramforbitingthrough	HEXAGRAM FOR BITING THROUGH
+4DD5	hexagramforgrace	HEXAGRAM FOR GRACE
+4DD6	hexagramforsplittingapart	HEXAGRAM FOR SPLITTING APART
+4DD7	hexagramforreturn	HEXAGRAM FOR RETURN
+4DD8	hexagramforinnocence	HEXAGRAM FOR INNOCENCE
+4DD9	hexagramforgreattaming	HEXAGRAM FOR GREAT TAMING
+4DDA	hexagramformouthcorners	HEXAGRAM FOR MOUTH CORNERS
+4DDB	hexagramforgreatpreponderance	HEXAGRAM FOR GREAT PREPONDERANCE
+4DDC	hexagramfortheabysmalwater	HEXAGRAM FOR THE ABYSMAL WATER
+4DDD	hexagramfortheclingingfire	HEXAGRAM FOR THE CLINGING FIRE
+4DDE	hexagramforinfluence	HEXAGRAM FOR INFLUENCE
+4DDF	hexagramforduration	HEXAGRAM FOR DURATION
+4DE0	hexagramforretreat	HEXAGRAM FOR RETREAT
+4DE1	hexagramforgreatpower	HEXAGRAM FOR GREAT POWER
+4DE2	hexagramforprogress	HEXAGRAM FOR PROGRESS
+4DE3	hexagramfordarkeningofthelight	HEXAGRAM FOR DARKENING OF THE LIGHT
+4DE4	hexagramforthefamily	HEXAGRAM FOR THE FAMILY
+4DE5	hexagramforopposition	HEXAGRAM FOR OPPOSITION
+4DE6	hexagramforobstruction	HEXAGRAM FOR OBSTRUCTION
+4DE7	hexagramfordeliverance	HEXAGRAM FOR DELIVERANCE
+4DE8	hexagramfordecrease	HEXAGRAM FOR DECREASE
+4DE9	hexagramforincrease	HEXAGRAM FOR INCREASE
+4DEA	hexagramforbreakthrough	HEXAGRAM FOR BREAKTHROUGH
+4DEB	hexagramforcomingtomeet	HEXAGRAM FOR COMING TO MEET
+4DEC	hexagramforgatheringtogether	HEXAGRAM FOR GATHERING TOGETHER
+4DED	hexagramforpushingupward	HEXAGRAM FOR PUSHING UPWARD
+4DEE	hexagramforoppression	HEXAGRAM FOR OPPRESSION
+4DEF	hexagramforthewell	HEXAGRAM FOR THE WELL
+4DF0	hexagramforrevolution	HEXAGRAM FOR REVOLUTION
+4DF1	hexagramforthecauldron	HEXAGRAM FOR THE CAULDRON
+4DF2	hexagramforthearousingthunder	HEXAGRAM FOR THE AROUSING THUNDER
+4DF3	hexagramforthekeepingstillmountain	HEXAGRAM FOR THE KEEPING STILL MOUNTAIN
+4DF4	hexagramfordevelopment	HEXAGRAM FOR DEVELOPMENT
+4DF5	hexagramforthemarryingmaiden	HEXAGRAM FOR THE MARRYING MAIDEN
+4DF6	hexagramforabundance	HEXAGRAM FOR ABUNDANCE
+4DF7	hexagramforthewanderer	HEXAGRAM FOR THE WANDERER
+4DF8	hexagramforthegentlewind	HEXAGRAM FOR THE GENTLE WIND
+4DF9	hexagramforthejoyouslake	HEXAGRAM FOR THE JOYOUS LAKE
+4DFA	hexagramfordispersion	HEXAGRAM FOR DISPERSION
+4DFB	hexagramforlimitation	HEXAGRAM FOR LIMITATION
+4DFC	hexagramforinnertruth	HEXAGRAM FOR INNER TRUTH
+4DFD	hexagramforsmallpreponderance	HEXAGRAM FOR SMALL PREPONDERANCE
+4DFE	hexagramforaftercompletion	HEXAGRAM FOR AFTER COMPLETION
+4DFF	hexagramforbeforecompletion	HEXAGRAM FOR BEFORE COMPLETION

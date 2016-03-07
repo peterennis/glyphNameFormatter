@@ -1,65 +1,65 @@
 # CJK Symbols and Punctuation 3000 - 303F
-3000	needsfix_ideographicspace	IDEOGRAPHIC SPACE
-3001	needsfix_ideographiccomma	IDEOGRAPHIC COMMA
-3002	needsfix_ideographicfullstop	IDEOGRAPHIC FULL STOP
-3003	needsfix_dittomark	DITTO MARK
-3004	needsfix_japaneseindustrialstandardsymbol	JAPANESE INDUSTRIAL STANDARD SYMBOL
-3005	needsfix_ideographiciterationmark	IDEOGRAPHIC ITERATION MARK
-3006	needsfix_ideographicclosingmark	IDEOGRAPHIC CLOSING MARK
-3007	needsfix_ideographicnumberzero	IDEOGRAPHIC NUMBER ZERO
-3008	needsfix_leftanglebracket	LEFT ANGLE BRACKET
-3009	needsfix_rightanglebracket	RIGHT ANGLE BRACKET
-300A	needsfix_leftdoubleanglebracket	LEFT DOUBLE ANGLE BRACKET
-300B	needsfix_rightdoubleanglebracket	RIGHT DOUBLE ANGLE BRACKET
-300C	needsfix_leftcornerbracket	LEFT CORNER BRACKET
-300D	needsfix_rightcornerbracket	RIGHT CORNER BRACKET
-300E	needsfix_leftwhitecornerbracket	LEFT WHITE CORNER BRACKET
-300F	needsfix_rightwhitecornerbracket	RIGHT WHITE CORNER BRACKET
-3010	needsfix_leftblacklenticularbracket	LEFT BLACK LENTICULAR BRACKET
-3011	needsfix_rightblacklenticularbracket	RIGHT BLACK LENTICULAR BRACKET
-3012	needsfix_postalmark	POSTAL MARK
-3013	needsfix_getamark	GETA MARK
-3014	needsfix_lefttortoiseshellbracket	LEFT TORTOISE SHELL BRACKET
-3015	needsfix_righttortoiseshellbracket	RIGHT TORTOISE SHELL BRACKET
-3016	needsfix_leftwhitelenticularbracket	LEFT WHITE LENTICULAR BRACKET
-3017	needsfix_rightwhitelenticularbracket	RIGHT WHITE LENTICULAR BRACKET
-3018	needsfix_leftwhitetortoiseshellbracket	LEFT WHITE TORTOISE SHELL BRACKET
-3019	needsfix_rightwhitetortoiseshellbracket	RIGHT WHITE TORTOISE SHELL BRACKET
-301A	needsfix_leftwhitesquarebracket	LEFT WHITE SQUARE BRACKET
-301B	needsfix_rightwhitesquarebracket	RIGHT WHITE SQUARE BRACKET
-301C	needsfix_wavedash	WAVE DASH
-301D	needsfix_reverseddoubleprimequotationmark	REVERSED DOUBLE PRIME QUOTATION MARK
-301E	needsfix_doubleprimequotationmark	DOUBLE PRIME QUOTATION MARK
-301F	needsfix_lowdoubleprimequotationmark	LOW DOUBLE PRIME QUOTATION MARK
-3020	needsfix_postalmarkface	POSTAL MARK FACE
-3021	needsfix_hangzhounumeralone	HANGZHOU NUMERAL ONE
-3022	needsfix_hangzhounumeraltwo	HANGZHOU NUMERAL TWO
-3023	needsfix_hangzhounumeralthree	HANGZHOU NUMERAL THREE
-3024	needsfix_hangzhounumeralfour	HANGZHOU NUMERAL FOUR
-3025	needsfix_hangzhounumeralfive	HANGZHOU NUMERAL FIVE
-3026	needsfix_hangzhounumeralsix	HANGZHOU NUMERAL SIX
-3027	needsfix_hangzhounumeralseven	HANGZHOU NUMERAL SEVEN
-3028	needsfix_hangzhounumeraleight	HANGZHOU NUMERAL EIGHT
-3029	needsfix_hangzhounumeralnine	HANGZHOU NUMERAL NINE
-302A	needsfix_ideographicleveltonemark	IDEOGRAPHIC LEVEL TONE MARK
-302B	needsfix_ideographicrisingtonemark	IDEOGRAPHIC RISING TONE MARK
-302C	needsfix_ideographicdepartingtonemark	IDEOGRAPHIC DEPARTING TONE MARK
-302D	needsfix_ideographicenteringtonemark	IDEOGRAPHIC ENTERING TONE MARK
-302E	needsfix_hangulsingledottonemark	HANGUL SINGLE DOT TONE MARK
-302F	needsfix_hanguldoubledottonemark	HANGUL DOUBLE DOT TONE MARK
-3030	needsfix_wavydash	WAVY DASH
-3031	needsfix_verticalkanarepeatmark	VERTICAL KANA REPEAT MARK
-3032	needsfix_verticalkanarepeatwithvoicedsoundmark	VERTICAL KANA REPEAT WITH VOICED SOUND MARK
-3033	needsfix_verticalkanarepeatmarkupperhalf	VERTICAL KANA REPEAT MARK UPPER HALF
-3034	needsfix_verticalkanarepeatwithvoicedsoundmarkupperhalf	VERTICAL KANA REPEAT WITH VOICED SOUND MARK UPPER HALF
-3035	needsfix_verticalkanarepeatmarklowerhalf	VERTICAL KANA REPEAT MARK LOWER HALF
-3036	needsfix_circledpostalmark	CIRCLED POSTAL MARK
-3037	needsfix_ideographictelegraphlinefeedseparatorsymbol	IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL
-3038	needsfix_hangzhounumeralten	HANGZHOU NUMERAL TEN
-3039	needsfix_hangzhounumeraltwenty	HANGZHOU NUMERAL TWENTY
-303A	needsfix_hangzhounumeralthirty	HANGZHOU NUMERAL THIRTY
-303B	needsfix_verticalideographiciterationmark	VERTICAL IDEOGRAPHIC ITERATION MARK
-303C	needsfix_masumark	MASU MARK
-303D	needsfix_partalternationmark	PART ALTERNATION MARK
-303E	needsfix_ideographicvariationindicator	IDEOGRAPHIC VARIATION INDICATOR
-303F	needsfix_ideographichalffillspace	IDEOGRAPHIC HALF FILL SPACE
+3000	ideographicspace	IDEOGRAPHIC SPACE
+3001	ideographiccomma	IDEOGRAPHIC COMMA
+3002	ideographicfullstop	IDEOGRAPHIC FULL STOP
+3003	dittomark	DITTO MARK
+3004	japaneseindustrialstandardsymbol	JAPANESE INDUSTRIAL STANDARD SYMBOL
+3005	ideographiciterationmark	IDEOGRAPHIC ITERATION MARK
+3006	ideographicclosingmark	IDEOGRAPHIC CLOSING MARK
+3007	ideographicnumberzero	IDEOGRAPHIC NUMBER ZERO
+3008	leftanglebracket	LEFT ANGLE BRACKET
+3009	rightanglebracket	RIGHT ANGLE BRACKET
+300A	leftdoubleanglebracket	LEFT DOUBLE ANGLE BRACKET
+300B	rightdoubleanglebracket	RIGHT DOUBLE ANGLE BRACKET
+300C	leftcornerbracket	LEFT CORNER BRACKET
+300D	rightcornerbracket	RIGHT CORNER BRACKET
+300E	leftwhitecornerbracket	LEFT WHITE CORNER BRACKET
+300F	rightwhitecornerbracket	RIGHT WHITE CORNER BRACKET
+3010	leftblacklenticularbracket	LEFT BLACK LENTICULAR BRACKET
+3011	rightblacklenticularbracket	RIGHT BLACK LENTICULAR BRACKET
+3012	postalmark	POSTAL MARK
+3013	getamark	GETA MARK
+3014	lefttortoiseshellbracket	LEFT TORTOISE SHELL BRACKET
+3015	righttortoiseshellbracket	RIGHT TORTOISE SHELL BRACKET
+3016	leftwhitelenticularbracket	LEFT WHITE LENTICULAR BRACKET
+3017	rightwhitelenticularbracket	RIGHT WHITE LENTICULAR BRACKET
+3018	leftwhitetortoiseshellbracket	LEFT WHITE TORTOISE SHELL BRACKET
+3019	rightwhitetortoiseshellbracket	RIGHT WHITE TORTOISE SHELL BRACKET
+301A	leftwhitesquarebracket	LEFT WHITE SQUARE BRACKET
+301B	rightwhitesquarebracket	RIGHT WHITE SQUARE BRACKET
+301C	wavedash	WAVE DASH
+301D	reverseddoubleprimequotationmark	REVERSED DOUBLE PRIME QUOTATION MARK
+301E	doubleprimequotationmark	DOUBLE PRIME QUOTATION MARK
+301F	lowdoubleprimequotationmark	LOW DOUBLE PRIME QUOTATION MARK
+3020	postalmarkface	POSTAL MARK FACE
+3021	hangzhounumeralone	HANGZHOU NUMERAL ONE
+3022	hangzhounumeraltwo	HANGZHOU NUMERAL TWO
+3023	hangzhounumeralthree	HANGZHOU NUMERAL THREE
+3024	hangzhounumeralfour	HANGZHOU NUMERAL FOUR
+3025	hangzhounumeralfive	HANGZHOU NUMERAL FIVE
+3026	hangzhounumeralsix	HANGZHOU NUMERAL SIX
+3027	hangzhounumeralseven	HANGZHOU NUMERAL SEVEN
+3028	hangzhounumeraleight	HANGZHOU NUMERAL EIGHT
+3029	hangzhounumeralnine	HANGZHOU NUMERAL NINE
+302A	ideographicleveltonemark	IDEOGRAPHIC LEVEL TONE MARK
+302B	ideographicrisingtonemark	IDEOGRAPHIC RISING TONE MARK
+302C	ideographicdepartingtonemark	IDEOGRAPHIC DEPARTING TONE MARK
+302D	ideographicenteringtonemark	IDEOGRAPHIC ENTERING TONE MARK
+302E	hangulsingledottonemark	HANGUL SINGLE DOT TONE MARK
+302F	hanguldoubledottonemark	HANGUL DOUBLE DOT TONE MARK
+3030	wavydash	WAVY DASH
+3031	verticalkanarepeatmark	VERTICAL KANA REPEAT MARK
+3032	verticalkanarepeatwithvoicedsoundmark	VERTICAL KANA REPEAT WITH VOICED SOUND MARK
+3033	verticalkanarepeatmarkupperhalf	VERTICAL KANA REPEAT MARK UPPER HALF
+3034	verticalkanarepeatwithvoicedsoundmarkupperhalf	VERTICAL KANA REPEAT WITH VOICED SOUND MARK UPPER HALF
+3035	verticalkanarepeatmarklowerhalf	VERTICAL KANA REPEAT MARK LOWER HALF
+3036	circledpostalmark	CIRCLED POSTAL MARK
+3037	ideographictelegraphlinefeedseparatorsymbol	IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL
+3038	hangzhounumeralten	HANGZHOU NUMERAL TEN
+3039	hangzhounumeraltwenty	HANGZHOU NUMERAL TWENTY
+303A	hangzhounumeralthirty	HANGZHOU NUMERAL THIRTY
+303B	verticalideographiciterationmark	VERTICAL IDEOGRAPHIC ITERATION MARK
+303C	masumark	MASU MARK
+303D	partalternationmark	PART ALTERNATION MARK
+303E	ideographicvariationindicator	IDEOGRAPHIC VARIATION INDICATOR
+303F	ideographichalffillspace	IDEOGRAPHIC HALF FILL SPACE

@@ -1,94 +1,94 @@
 # Telugu 0C00 - 0C7F
-0C01	needsfix_telugusigncandrabindu	TELUGU SIGN CANDRABINDU
-0C02	needsfix_telugusignanusvara	TELUGU SIGN ANUSVARA
-0C03	needsfix_telugusignvisarga	TELUGU SIGN VISARGA
-0C05	needsfix_telugulettera	TELUGU LETTER A
-0C06	needsfix_teluguletteraa	TELUGU LETTER AA
-0C07	needsfix_teluguletteri	TELUGU LETTER I
-0C08	needsfix_teluguletterii	TELUGU LETTER II
-0C09	needsfix_teluguletteru	TELUGU LETTER U
-0C0A	needsfix_teluguletteruu	TELUGU LETTER UU
-0C0B	needsfix_telugulettervocalicr	TELUGU LETTER VOCALIC R
-0C0C	needsfix_telugulettervocalicl	TELUGU LETTER VOCALIC L
-0C0E	needsfix_telugulettere	TELUGU LETTER E
-0C0F	needsfix_teluguletteree	TELUGU LETTER EE
-0C10	needsfix_teluguletterai	TELUGU LETTER AI
-0C12	needsfix_telugulettero	TELUGU LETTER O
-0C13	needsfix_teluguletteroo	TELUGU LETTER OO
-0C14	needsfix_teluguletterau	TELUGU LETTER AU
-0C15	needsfix_teluguletterka	TELUGU LETTER KA
-0C16	needsfix_teluguletterkha	TELUGU LETTER KHA
-0C17	needsfix_teluguletterga	TELUGU LETTER GA
-0C18	needsfix_telugulettergha	TELUGU LETTER GHA
-0C19	needsfix_teluguletternga	TELUGU LETTER NGA
-0C1A	needsfix_teluguletterca	TELUGU LETTER CA
-0C1B	needsfix_telugulettercha	TELUGU LETTER CHA
-0C1C	needsfix_teluguletterja	TELUGU LETTER JA
-0C1D	needsfix_teluguletterjha	TELUGU LETTER JHA
-0C1E	needsfix_teluguletternya	TELUGU LETTER NYA
-0C1F	needsfix_telugulettertta	TELUGU LETTER TTA
-0C20	needsfix_teluguletterttha	TELUGU LETTER TTHA
-0C21	needsfix_teluguletterdda	TELUGU LETTER DDA
-0C22	needsfix_teluguletterddha	TELUGU LETTER DDHA
-0C23	needsfix_teluguletternna	TELUGU LETTER NNA
-0C24	needsfix_teluguletterta	TELUGU LETTER TA
-0C25	needsfix_telugulettertha	TELUGU LETTER THA
-0C26	needsfix_teluguletterda	TELUGU LETTER DA
-0C27	needsfix_teluguletterdha	TELUGU LETTER DHA
-0C28	needsfix_teluguletterna	TELUGU LETTER NA
-0C2A	needsfix_teluguletterpa	TELUGU LETTER PA
-0C2B	needsfix_teluguletterpha	TELUGU LETTER PHA
-0C2C	needsfix_teluguletterba	TELUGU LETTER BA
-0C2D	needsfix_teluguletterbha	TELUGU LETTER BHA
-0C2E	needsfix_teluguletterma	TELUGU LETTER MA
-0C2F	needsfix_teluguletterya	TELUGU LETTER YA
-0C30	needsfix_teluguletterra	TELUGU LETTER RA
-0C31	needsfix_teluguletterrra	TELUGU LETTER RRA
-0C32	needsfix_teluguletterla	TELUGU LETTER LA
-0C33	needsfix_teluguletterlla	TELUGU LETTER LLA
-0C35	needsfix_teluguletterva	TELUGU LETTER VA
-0C36	needsfix_telugulettersha	TELUGU LETTER SHA
-0C37	needsfix_teluguletterssa	TELUGU LETTER SSA
-0C38	needsfix_telugulettersa	TELUGU LETTER SA
-0C39	needsfix_teluguletterha	TELUGU LETTER HA
-0C3D	needsfix_telugusignavagraha	TELUGU SIGN AVAGRAHA
-0C3E	needsfix_teluguvowelsignaa	TELUGU VOWEL SIGN AA
-0C3F	needsfix_teluguvowelsigni	TELUGU VOWEL SIGN I
-0C40	needsfix_teluguvowelsignii	TELUGU VOWEL SIGN II
-0C41	needsfix_teluguvowelsignu	TELUGU VOWEL SIGN U
-0C42	needsfix_teluguvowelsignuu	TELUGU VOWEL SIGN UU
-0C43	needsfix_teluguvowelsignvocalicr	TELUGU VOWEL SIGN VOCALIC R
-0C44	needsfix_teluguvowelsignvocalicrr	TELUGU VOWEL SIGN VOCALIC RR
-0C46	needsfix_teluguvowelsigne	TELUGU VOWEL SIGN E
-0C47	needsfix_teluguvowelsignee	TELUGU VOWEL SIGN EE
-0C48	needsfix_teluguvowelsignai	TELUGU VOWEL SIGN AI
-0C4A	needsfix_teluguvowelsigno	TELUGU VOWEL SIGN O
-0C4B	needsfix_teluguvowelsignoo	TELUGU VOWEL SIGN OO
-0C4C	needsfix_teluguvowelsignau	TELUGU VOWEL SIGN AU
-0C4D	needsfix_telugusignvirama	TELUGU SIGN VIRAMA
-0C55	needsfix_telugulengthmark	TELUGU LENGTH MARK
-0C56	needsfix_teluguailengthmark	TELUGU AI LENGTH MARK
-0C58	needsfix_telugulettertsa	TELUGU LETTER TSA
-0C59	needsfix_teluguletterdza	TELUGU LETTER DZA
-0C60	needsfix_telugulettervocalicrr	TELUGU LETTER VOCALIC RR
-0C61	needsfix_telugulettervocalicll	TELUGU LETTER VOCALIC LL
-0C62	needsfix_teluguvowelsignvocalicl	TELUGU VOWEL SIGN VOCALIC L
-0C63	needsfix_teluguvowelsignvocalicll	TELUGU VOWEL SIGN VOCALIC LL
-0C66	needsfix_telugudigitzero	TELUGU DIGIT ZERO
-0C67	needsfix_telugudigitone	TELUGU DIGIT ONE
-0C68	needsfix_telugudigittwo	TELUGU DIGIT TWO
-0C69	needsfix_telugudigitthree	TELUGU DIGIT THREE
-0C6A	needsfix_telugudigitfour	TELUGU DIGIT FOUR
-0C6B	needsfix_telugudigitfive	TELUGU DIGIT FIVE
-0C6C	needsfix_telugudigitsix	TELUGU DIGIT SIX
-0C6D	needsfix_telugudigitseven	TELUGU DIGIT SEVEN
-0C6E	needsfix_telugudigiteight	TELUGU DIGIT EIGHT
-0C6F	needsfix_telugudigitnine	TELUGU DIGIT NINE
-0C78	needsfix_telugufractiondigitzeroforoddpowersoffour	TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR
-0C79	needsfix_telugufractiondigitoneforoddpowersoffour	TELUGU FRACTION DIGIT ONE FOR ODD POWERS OF FOUR
-0C7A	needsfix_telugufractiondigittwoforoddpowersoffour	TELUGU FRACTION DIGIT TWO FOR ODD POWERS OF FOUR
-0C7B	needsfix_telugufractiondigitthreeforoddpowersoffour	TELUGU FRACTION DIGIT THREE FOR ODD POWERS OF FOUR
-0C7C	needsfix_telugufractiondigitoneforevenpowersoffour	TELUGU FRACTION DIGIT ONE FOR EVEN POWERS OF FOUR
-0C7D	needsfix_telugufractiondigittwoforevenpowersoffour	TELUGU FRACTION DIGIT TWO FOR EVEN POWERS OF FOUR
-0C7E	needsfix_telugufractiondigitthreeforevenpowersoffour	TELUGU FRACTION DIGIT THREE FOR EVEN POWERS OF FOUR
-0C7F	needsfix_telugusigntuumu	TELUGU SIGN TUUMU
+0C01	telugusigncandrabindu	TELUGU SIGN CANDRABINDU
+0C02	telugusignanusvara	TELUGU SIGN ANUSVARA
+0C03	telugusignvisarga	TELUGU SIGN VISARGA
+0C05	telugulettera	TELUGU LETTER A
+0C06	teluguletteraa	TELUGU LETTER AA
+0C07	teluguletteri	TELUGU LETTER I
+0C08	teluguletterii	TELUGU LETTER II
+0C09	teluguletteru	TELUGU LETTER U
+0C0A	teluguletteruu	TELUGU LETTER UU
+0C0B	telugulettervocalicr	TELUGU LETTER VOCALIC R
+0C0C	telugulettervocalicl	TELUGU LETTER VOCALIC L
+0C0E	telugulettere	TELUGU LETTER E
+0C0F	teluguletteree	TELUGU LETTER EE
+0C10	teluguletterai	TELUGU LETTER AI
+0C12	telugulettero	TELUGU LETTER O
+0C13	teluguletteroo	TELUGU LETTER OO
+0C14	teluguletterau	TELUGU LETTER AU
+0C15	teluguletterka	TELUGU LETTER KA
+0C16	teluguletterkha	TELUGU LETTER KHA
+0C17	teluguletterga	TELUGU LETTER GA
+0C18	telugulettergha	TELUGU LETTER GHA
+0C19	teluguletternga	TELUGU LETTER NGA
+0C1A	teluguletterca	TELUGU LETTER CA
+0C1B	telugulettercha	TELUGU LETTER CHA
+0C1C	teluguletterja	TELUGU LETTER JA
+0C1D	teluguletterjha	TELUGU LETTER JHA
+0C1E	teluguletternya	TELUGU LETTER NYA
+0C1F	telugulettertta	TELUGU LETTER TTA
+0C20	teluguletterttha	TELUGU LETTER TTHA
+0C21	teluguletterdda	TELUGU LETTER DDA
+0C22	teluguletterddha	TELUGU LETTER DDHA
+0C23	teluguletternna	TELUGU LETTER NNA
+0C24	teluguletterta	TELUGU LETTER TA
+0C25	telugulettertha	TELUGU LETTER THA
+0C26	teluguletterda	TELUGU LETTER DA
+0C27	teluguletterdha	TELUGU LETTER DHA
+0C28	teluguletterna	TELUGU LETTER NA
+0C2A	teluguletterpa	TELUGU LETTER PA
+0C2B	teluguletterpha	TELUGU LETTER PHA
+0C2C	teluguletterba	TELUGU LETTER BA
+0C2D	teluguletterbha	TELUGU LETTER BHA
+0C2E	teluguletterma	TELUGU LETTER MA
+0C2F	teluguletterya	TELUGU LETTER YA
+0C30	teluguletterra	TELUGU LETTER RA
+0C31	teluguletterrra	TELUGU LETTER RRA
+0C32	teluguletterla	TELUGU LETTER LA
+0C33	teluguletterlla	TELUGU LETTER LLA
+0C35	teluguletterva	TELUGU LETTER VA
+0C36	telugulettersha	TELUGU LETTER SHA
+0C37	teluguletterssa	TELUGU LETTER SSA
+0C38	telugulettersa	TELUGU LETTER SA
+0C39	teluguletterha	TELUGU LETTER HA
+0C3D	telugusignavagraha	TELUGU SIGN AVAGRAHA
+0C3E	teluguvowelsignaa	TELUGU VOWEL SIGN AA
+0C3F	teluguvowelsigni	TELUGU VOWEL SIGN I
+0C40	teluguvowelsignii	TELUGU VOWEL SIGN II
+0C41	teluguvowelsignu	TELUGU VOWEL SIGN U
+0C42	teluguvowelsignuu	TELUGU VOWEL SIGN UU
+0C43	teluguvowelsignvocalicr	TELUGU VOWEL SIGN VOCALIC R
+0C44	teluguvowelsignvocalicrr	TELUGU VOWEL SIGN VOCALIC RR
+0C46	teluguvowelsigne	TELUGU VOWEL SIGN E
+0C47	teluguvowelsignee	TELUGU VOWEL SIGN EE
+0C48	teluguvowelsignai	TELUGU VOWEL SIGN AI
+0C4A	teluguvowelsigno	TELUGU VOWEL SIGN O
+0C4B	teluguvowelsignoo	TELUGU VOWEL SIGN OO
+0C4C	teluguvowelsignau	TELUGU VOWEL SIGN AU
+0C4D	telugusignvirama	TELUGU SIGN VIRAMA
+0C55	telugulengthmark	TELUGU LENGTH MARK
+0C56	teluguailengthmark	TELUGU AI LENGTH MARK
+0C58	telugulettertsa	TELUGU LETTER TSA
+0C59	teluguletterdza	TELUGU LETTER DZA
+0C60	telugulettervocalicrr	TELUGU LETTER VOCALIC RR
+0C61	telugulettervocalicll	TELUGU LETTER VOCALIC LL
+0C62	teluguvowelsignvocalicl	TELUGU VOWEL SIGN VOCALIC L
+0C63	teluguvowelsignvocalicll	TELUGU VOWEL SIGN VOCALIC LL
+0C66	telugudigitzero	TELUGU DIGIT ZERO
+0C67	telugudigitone	TELUGU DIGIT ONE
+0C68	telugudigittwo	TELUGU DIGIT TWO
+0C69	telugudigitthree	TELUGU DIGIT THREE
+0C6A	telugudigitfour	TELUGU DIGIT FOUR
+0C6B	telugudigitfive	TELUGU DIGIT FIVE
+0C6C	telugudigitsix	TELUGU DIGIT SIX
+0C6D	telugudigitseven	TELUGU DIGIT SEVEN
+0C6E	telugudigiteight	TELUGU DIGIT EIGHT
+0C6F	telugudigitnine	TELUGU DIGIT NINE
+0C78	telugufractiondigitzeroforoddpowersoffour	TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR
+0C79	telugufractiondigitoneforoddpowersoffour	TELUGU FRACTION DIGIT ONE FOR ODD POWERS OF FOUR
+0C7A	telugufractiondigittwoforoddpowersoffour	TELUGU FRACTION DIGIT TWO FOR ODD POWERS OF FOUR
+0C7B	telugufractiondigitthreeforoddpowersoffour	TELUGU FRACTION DIGIT THREE FOR ODD POWERS OF FOUR
+0C7C	telugufractiondigitoneforevenpowersoffour	TELUGU FRACTION DIGIT ONE FOR EVEN POWERS OF FOUR
+0C7D	telugufractiondigittwoforevenpowersoffour	TELUGU FRACTION DIGIT TWO FOR EVEN POWERS OF FOUR
+0C7E	telugufractiondigitthreeforevenpowersoffour	TELUGU FRACTION DIGIT THREE FOR EVEN POWERS OF FOUR
+0C7F	telugusigntuumu	TELUGU SIGN TUUMU

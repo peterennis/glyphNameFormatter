@@ -1,257 +1,257 @@
 # Mathematical Operators 2200 - 22FF
-2200	needsfix_universal	FOR ALL
-2201	needsfix_complement	COMPLEMENT
-2202	needsfix_partialdiff	PARTIAL DIFFERENTIAL
-2203	needsfix_existential	THERE EXISTS
-2204	needsfix_theredoesnotexist	THERE DOES NOT EXIST
-2205	needsfix_emptyset	EMPTY SET
-2206	needsfix_increment	INCREMENT
-2207	needsfix_gradient	NABLA
-2208	needsfix_element	ELEMENT OF
-2209	needsfix_notelement	NOT AN ELEMENT OF
-220A	needsfix_smallelementof	SMALL ELEMENT OF
-220B	needsfix_suchthat	CONTAINS AS MEMBER
-220C	needsfix_doesnotcontainasmember	DOES NOT CONTAIN AS MEMBER
-220D	needsfix_smallcontainsasmember	SMALL CONTAINS AS MEMBER
-220E	needsfix_endofproof	END OF PROOF
-220F	needsfix_product	N-ARY PRODUCT
-2210	needsfix_narycoproduct	N-ARY COPRODUCT
-2211	needsfix_summation	N-ARY SUMMATION
-2212	needsfix_minus	MINUS SIGN
-2213	needsfix_minusorplussign	MINUS-OR-PLUS SIGN
-2214	needsfix_dotplus	DOT PLUS
-2215	needsfix_divisionslash	DIVISION SLASH
-2216	needsfix_setminus	SET MINUS
-2217	needsfix_asteriskmath	ASTERISK OPERATOR
-2218	needsfix_ringoperator	RING OPERATOR
-2219	needsfix_bulletoperator	BULLET OPERATOR
-221A	needsfix_radical	SQUARE ROOT
-221B	needsfix_cuberoot	CUBE ROOT
-221C	needsfix_fourthroot	FOURTH ROOT
-221D	needsfix_proportional	PROPORTIONAL TO
-221E	needsfix_infinity	INFINITY
-221F	needsfix_orthogonal	RIGHT ANGLE
-2220	needsfix_angle	ANGLE
-2221	needsfix_measuredangle	MEASURED ANGLE
-2222	needsfix_sphericalangle	SPHERICAL ANGLE
-2223	needsfix_divides	DIVIDES
-2224	needsfix_doesnotdivide	DOES NOT DIVIDE
-2225	needsfix_parallelto	PARALLEL TO
-2226	needsfix_notparallelto	NOT PARALLEL TO
-2227	needsfix_logicaland	LOGICAL AND
-2228	needsfix_logicalor	LOGICAL OR
-2229	needsfix_intersection	INTERSECTION
-222A	needsfix_union	UNION
-222B	needsfix_integral	INTEGRAL
-222C	needsfix_doubleintegral	DOUBLE INTEGRAL
-222D	needsfix_tripleintegral	TRIPLE INTEGRAL
-222E	needsfix_contourintegral	CONTOUR INTEGRAL
-222F	needsfix_surfaceintegral	SURFACE INTEGRAL
-2230	needsfix_volumeintegral	VOLUME INTEGRAL
-2231	needsfix_clockwiseintegral	CLOCKWISE INTEGRAL
-2232	needsfix_clockwisecontourintegral	CLOCKWISE CONTOUR INTEGRAL
-2233	needsfix_anticlockwisecontourintegral	ANTICLOCKWISE CONTOUR INTEGRAL
-2234	needsfix_therefore	THEREFORE
-2235	needsfix_because	BECAUSE
-2236	needsfix_ratio	RATIO
-2237	needsfix_proportion	PROPORTION
-2238	needsfix_dotminus	DOT MINUS
-2239	needsfix_excess	EXCESS
-223A	needsfix_geometricproportion	GEOMETRIC PROPORTION
-223B	needsfix_homothetic	HOMOTHETIC
-223C	needsfix_similar	TILDE OPERATOR
-223D	needsfix_reversedtilde	REVERSED TILDE
-223E	needsfix_invertedlazys	INVERTED LAZY S
-223F	needsfix_sinewave	SINE WAVE
-2240	needsfix_wreathproduct	WREATH PRODUCT
-2241	needsfix_nottilde	NOT TILDE
-2242	needsfix_minustilde	MINUS TILDE
-2243	needsfix_asymptoticallyequalto	ASYMPTOTICALLY EQUAL TO
-2244	needsfix_notasymptoticallyequalto	NOT ASYMPTOTICALLY EQUAL TO
-2245	needsfix_congruent	APPROXIMATELY EQUAL TO
-2246	needsfix_approximatelybutnotactuallyequalto	APPROXIMATELY BUT NOT ACTUALLY EQUAL TO
-2247	needsfix_neitherapproximatelynoractuallyequalto	NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO
-2248	needsfix_approxequal	ALMOST EQUAL TO
-2249	needsfix_notalmostequalto	NOT ALMOST EQUAL TO
-224A	needsfix_almostequalorequalto	ALMOST EQUAL OR EQUAL TO
-224B	needsfix_tripletilde	TRIPLE TILDE
-224C	needsfix_allequalto	ALL EQUAL TO
-224D	needsfix_equivalentto	EQUIVALENT TO
-224E	needsfix_geometricallyequivalentto	GEOMETRICALLY EQUIVALENT TO
-224F	needsfix_differencebetween	DIFFERENCE BETWEEN
-2250	needsfix_approachesthelimit	APPROACHES THE LIMIT
-2251	needsfix_geometricallyequalto	GEOMETRICALLY EQUAL TO
-2252	needsfix_approximatelyequaltoortheimageof	APPROXIMATELY EQUAL TO OR THE IMAGE OF
-2253	needsfix_imageoforapproximatelyequalto	IMAGE OF OR APPROXIMATELY EQUAL TO
-2254	needsfix_colonequals	COLON EQUALS
-2255	needsfix_equalscolon	EQUALS COLON
-2256	needsfix_ringinequalto	RING IN EQUAL TO
-2257	needsfix_ringequalto	RING EQUAL TO
-2258	needsfix_correspondsto	CORRESPONDS TO
-2259	needsfix_estimates	ESTIMATES
-225A	needsfix_equiangularto	EQUIANGULAR TO
-225B	needsfix_starequals	STAR EQUALS
-225C	needsfix_deltaequalto	DELTA EQUAL TO
-225D	needsfix_equaltobydefinition	EQUAL TO BY DEFINITION
-225E	needsfix_measuredby	MEASURED BY
-225F	needsfix_questionedequalto	QUESTIONED EQUAL TO
-2260	needsfix_notequal	NOT EQUAL TO
-2261	needsfix_equivalence	IDENTICAL TO
-2262	needsfix_notidenticalto	NOT IDENTICAL TO
-2263	needsfix_strictlyequivalentto	STRICTLY EQUIVALENT TO
-2264	needsfix_lessequal	LESS-THAN OR EQUAL TO
-2265	needsfix_greaterequal	GREATER-THAN OR EQUAL TO
-2266	needsfix_lessthanoverequalto	LESS-THAN OVER EQUAL TO
-2267	needsfix_greaterthanoverequalto	GREATER-THAN OVER EQUAL TO
-2268	needsfix_lessthanbutnotequalto	LESS-THAN BUT NOT EQUAL TO
-2269	needsfix_greaterthanbutnotequalto	GREATER-THAN BUT NOT EQUAL TO
-226A	needsfix_muchlessthan	MUCH LESS-THAN
-226B	needsfix_muchgreaterthan	MUCH GREATER-THAN
-226C	needsfix_between	BETWEEN
-226D	needsfix_notequivalentto	NOT EQUIVALENT TO
-226E	needsfix_notlessthan	NOT LESS-THAN
-226F	needsfix_notgreaterthan	NOT GREATER-THAN
-2270	needsfix_neitherlessthannorequalto	NEITHER LESS-THAN NOR EQUAL TO
-2271	needsfix_neithergreaterthannorequalto	NEITHER GREATER-THAN NOR EQUAL TO
-2272	needsfix_lessthanorequivalentto	LESS-THAN OR EQUIVALENT TO
-2273	needsfix_greaterthanorequivalentto	GREATER-THAN OR EQUIVALENT TO
-2274	needsfix_neitherlessthannorequivalentto	NEITHER LESS-THAN NOR EQUIVALENT TO
-2275	needsfix_neithergreaterthannorequivalentto	NEITHER GREATER-THAN NOR EQUIVALENT TO
-2276	needsfix_lessthanorgreaterthan	LESS-THAN OR GREATER-THAN
-2277	needsfix_greaterthanorlessthan	GREATER-THAN OR LESS-THAN
-2278	needsfix_neitherlessthannorgreaterthan	NEITHER LESS-THAN NOR GREATER-THAN
-2279	needsfix_neithergreaterthannorlessthan	NEITHER GREATER-THAN NOR LESS-THAN
-227A	needsfix_precedes	PRECEDES
-227B	needsfix_succeeds	SUCCEEDS
-227C	needsfix_precedesorequalto	PRECEDES OR EQUAL TO
-227D	needsfix_succeedsorequalto	SUCCEEDS OR EQUAL TO
-227E	needsfix_precedesorequivalentto	PRECEDES OR EQUIVALENT TO
-227F	needsfix_succeedsorequivalentto	SUCCEEDS OR EQUIVALENT TO
-2280	needsfix_doesnotprecede	DOES NOT PRECEDE
-2281	needsfix_doesnotsucceed	DOES NOT SUCCEED
-2282	needsfix_propersubset	SUBSET OF
-2283	needsfix_propersuperset	SUPERSET OF
-2284	needsfix_notsubset	NOT A SUBSET OF
-2285	needsfix_notasupersetof	NOT A SUPERSET OF
-2286	needsfix_reflexsubset	SUBSET OF OR EQUAL TO
-2287	needsfix_reflexsuperset	SUPERSET OF OR EQUAL TO
-2288	needsfix_neitherasubsetofnorequalto	NEITHER A SUBSET OF NOR EQUAL TO
-2289	needsfix_neitherasupersetofnorequalto	NEITHER A SUPERSET OF NOR EQUAL TO
-228A	needsfix_subsetofwithnotequalto	SUBSET OF WITH NOT EQUAL TO
-228B	needsfix_supersetofwithnotequalto	SUPERSET OF WITH NOT EQUAL TO
-228C	needsfix_multiset	MULTISET
-228D	needsfix_multisetmultiplication	MULTISET MULTIPLICATION
-228E	needsfix_multisetunion	MULTISET UNION
-228F	needsfix_squareimageof	SQUARE IMAGE OF
-2290	needsfix_squareoriginalof	SQUARE ORIGINAL OF
-2291	needsfix_squareimageoforequalto	SQUARE IMAGE OF OR EQUAL TO
-2292	needsfix_squareoriginaloforequalto	SQUARE ORIGINAL OF OR EQUAL TO
-2293	needsfix_squarecap	SQUARE CAP
-2294	needsfix_squarecup	SQUARE CUP
-2295	needsfix_circleplus	CIRCLED PLUS
-2296	needsfix_circledminus	CIRCLED MINUS
-2297	needsfix_circlemultiply	CIRCLED TIMES
-2298	needsfix_circleddivisionslash	CIRCLED DIVISION SLASH
-2299	needsfix_circleddotoperator	CIRCLED DOT OPERATOR
-229A	needsfix_circledringoperator	CIRCLED RING OPERATOR
-229B	needsfix_circledasteriskoperator	CIRCLED ASTERISK OPERATOR
-229C	needsfix_circledequals	CIRCLED EQUALS
-229D	needsfix_circleddash	CIRCLED DASH
-229E	needsfix_squaredplus	SQUARED PLUS
-229F	needsfix_squaredminus	SQUARED MINUS
-22A0	needsfix_squaredtimes	SQUARED TIMES
-22A1	needsfix_squareddotoperator	SQUARED DOT OPERATOR
-22A2	needsfix_righttack	RIGHT TACK
-22A3	needsfix_lefttack	LEFT TACK
-22A4	needsfix_downtack	DOWN TACK
-22A5	needsfix_perpendicular	UP TACK
-22A6	needsfix_assertion	ASSERTION
-22A7	needsfix_models	MODELS
-22A8	needsfix_true	TRUE
-22A9	needsfix_forces	FORCES
-22AA	needsfix_tripleverticalbarrightturnstile	TRIPLE VERTICAL BAR RIGHT TURNSTILE
-22AB	needsfix_doubleverticalbardoublerightturnstile	DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE
-22AC	needsfix_doesnotprove	DOES NOT PROVE
-22AD	needsfix_nottrue	NOT TRUE
-22AE	needsfix_doesnotforce	DOES NOT FORCE
-22AF	needsfix_negateddoubleverticalbardoublerightturnstile	NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE
-22B0	needsfix_precedesunderrelation	PRECEDES UNDER RELATION
-22B1	needsfix_succeedsunderrelation	SUCCEEDS UNDER RELATION
-22B2	needsfix_normalsubgroupof	NORMAL SUBGROUP OF
-22B3	needsfix_containsasnormalsubgroup	CONTAINS AS NORMAL SUBGROUP
-22B4	needsfix_normalsubgroupoforequalto	NORMAL SUBGROUP OF OR EQUAL TO
-22B5	needsfix_containsasnormalsubgrouporequalto	CONTAINS AS NORMAL SUBGROUP OR EQUAL TO
-22B6	needsfix_originalof	ORIGINAL OF
-22B7	needsfix_imageof	IMAGE OF
-22B8	needsfix_multimap	MULTIMAP
-22B9	needsfix_hermitianconjugatematrix	HERMITIAN CONJUGATE MATRIX
-22BA	needsfix_intercalate	INTERCALATE
-22BB	needsfix_xor	XOR
-22BC	needsfix_nand	NAND
-22BD	needsfix_nor	NOR
-22BE	needsfix_rightanglewitharc	RIGHT ANGLE WITH ARC
-22BF	needsfix_righttriangle	RIGHT TRIANGLE
-22C0	needsfix_narylogicaland	N-ARY LOGICAL AND
-22C1	needsfix_narylogicalor	N-ARY LOGICAL OR
-22C2	needsfix_naryintersection	N-ARY INTERSECTION
-22C3	needsfix_naryunion	N-ARY UNION
-22C4	needsfix_diamondoperator	DIAMOND OPERATOR
-22C5	needsfix_dotmath	DOT OPERATOR
-22C6	needsfix_staroperator	STAR OPERATOR
-22C7	needsfix_divisiontimes	DIVISION TIMES
-22C8	needsfix_bowtie	BOWTIE
-22C9	needsfix_leftnormalfactorsemidirectproduct	LEFT NORMAL FACTOR SEMIDIRECT PRODUCT
-22CA	needsfix_rightnormalfactorsemidirectproduct	RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT
-22CB	needsfix_leftsemidirectproduct	LEFT SEMIDIRECT PRODUCT
-22CC	needsfix_rightsemidirectproduct	RIGHT SEMIDIRECT PRODUCT
-22CD	needsfix_reversedtildeequals	REVERSED TILDE EQUALS
-22CE	needsfix_curlylogicalor	CURLY LOGICAL OR
-22CF	needsfix_curlylogicaland	CURLY LOGICAL AND
-22D0	needsfix_doublesubset	DOUBLE SUBSET
-22D1	needsfix_doublesuperset	DOUBLE SUPERSET
-22D2	needsfix_doubleintersection	DOUBLE INTERSECTION
-22D3	needsfix_doubleunion	DOUBLE UNION
-22D4	needsfix_pitchfork	PITCHFORK
-22D5	needsfix_equalandparallelto	EQUAL AND PARALLEL TO
-22D6	needsfix_lessthanwithdot	LESS-THAN WITH DOT
-22D7	needsfix_greaterthanwithdot	GREATER-THAN WITH DOT
-22D8	needsfix_verymuchlessthan	VERY MUCH LESS-THAN
-22D9	needsfix_verymuchgreaterthan	VERY MUCH GREATER-THAN
-22DA	needsfix_lessthanequaltoorgreaterthan	LESS-THAN EQUAL TO OR GREATER-THAN
-22DB	needsfix_greaterthanequaltoorlessthan	GREATER-THAN EQUAL TO OR LESS-THAN
-22DC	needsfix_equaltoorlessthan	EQUAL TO OR LESS-THAN
-22DD	needsfix_equaltoorgreaterthan	EQUAL TO OR GREATER-THAN
-22DE	needsfix_equaltoorprecedes	EQUAL TO OR PRECEDES
-22DF	needsfix_equaltoorsucceeds	EQUAL TO OR SUCCEEDS
-22E0	needsfix_doesnotprecedeorequal	DOES NOT PRECEDE OR EQUAL
-22E1	needsfix_doesnotsucceedorequal	DOES NOT SUCCEED OR EQUAL
-22E2	needsfix_notsquareimageoforequalto	NOT SQUARE IMAGE OF OR EQUAL TO
-22E3	needsfix_notsquareoriginaloforequalto	NOT SQUARE ORIGINAL OF OR EQUAL TO
-22E4	needsfix_squareimageofornotequalto	SQUARE IMAGE OF OR NOT EQUAL TO
-22E5	needsfix_squareoriginalofornotequalto	SQUARE ORIGINAL OF OR NOT EQUAL TO
-22E6	needsfix_lessthanbutnotequivalentto	LESS-THAN BUT NOT EQUIVALENT TO
-22E7	needsfix_greaterthanbutnotequivalentto	GREATER-THAN BUT NOT EQUIVALENT TO
-22E8	needsfix_precedesbutnotequivalentto	PRECEDES BUT NOT EQUIVALENT TO
-22E9	needsfix_succeedsbutnotequivalentto	SUCCEEDS BUT NOT EQUIVALENT TO
-22EA	needsfix_notnormalsubgroupof	NOT NORMAL SUBGROUP OF
-22EB	needsfix_doesnotcontainasnormalsubgroup	DOES NOT CONTAIN AS NORMAL SUBGROUP
-22EC	needsfix_notnormalsubgroupoforequalto	NOT NORMAL SUBGROUP OF OR EQUAL TO
-22ED	needsfix_doesnotcontainasnormalsubgrouporequal	DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL
-22EE	needsfix_verticalellipsis	VERTICAL ELLIPSIS
-22EF	needsfix_midlinehorizontalellipsis	MIDLINE HORIZONTAL ELLIPSIS
-22F0	needsfix_uprightdiagonalellipsis	UP RIGHT DIAGONAL ELLIPSIS
-22F1	needsfix_downrightdiagonalellipsis	DOWN RIGHT DIAGONAL ELLIPSIS
-22F2	needsfix_elementofwithlonghorizontalstroke	ELEMENT OF WITH LONG HORIZONTAL STROKE
-22F3	needsfix_elementofwithverticalbaratendofhorizontalstroke	ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
-22F4	needsfix_smallelementofwithverticalbaratendofhorizontalstroke	SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
-22F5	needsfix_elementofwithdotabove	ELEMENT OF WITH DOT ABOVE
-22F6	needsfix_elementofwithoverbar	ELEMENT OF WITH OVERBAR
-22F7	needsfix_smallelementofwithoverbar	SMALL ELEMENT OF WITH OVERBAR
-22F8	needsfix_elementofwithunderbar	ELEMENT OF WITH UNDERBAR
-22F9	needsfix_elementofwithtwohorizontalstrokes	ELEMENT OF WITH TWO HORIZONTAL STROKES
-22FA	needsfix_containswithlonghorizontalstroke	CONTAINS WITH LONG HORIZONTAL STROKE
-22FB	needsfix_containswithverticalbaratendofhorizontalstroke	CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
-22FC	needsfix_smallcontainswithverticalbaratendofhorizontalstroke	SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
-22FD	needsfix_containswithoverbar	CONTAINS WITH OVERBAR
-22FE	needsfix_smallcontainswithoverbar	SMALL CONTAINS WITH OVERBAR
-22FF	needsfix_znotationbagmembership	Z NOTATION BAG MEMBERSHIP
+2200	universal	FOR ALL
+2201	complement	COMPLEMENT
+2202	partialdiff	PARTIAL DIFFERENTIAL
+2203	existential	THERE EXISTS
+2204	theredoesnotexist	THERE DOES NOT EXIST
+2205	emptyset	EMPTY SET
+2206	increment	INCREMENT
+2207	gradient	NABLA
+2208	element	ELEMENT OF
+2209	notelement	NOT AN ELEMENT OF
+220A	smallelementof	SMALL ELEMENT OF
+220B	suchthat	CONTAINS AS MEMBER
+220C	doesnotcontainasmember	DOES NOT CONTAIN AS MEMBER
+220D	smallcontainsasmember	SMALL CONTAINS AS MEMBER
+220E	endofproof	END OF PROOF
+220F	product	N-ARY PRODUCT
+2210	narycoproduct	N-ARY COPRODUCT
+2211	summation	N-ARY SUMMATION
+2212	minus	MINUS SIGN
+2213	minusorplussign	MINUS-OR-PLUS SIGN
+2214	dotplus	DOT PLUS
+2215	divisionslash	DIVISION SLASH
+2216	setminus	SET MINUS
+2217	asteriskmath	ASTERISK OPERATOR
+2218	ringoperator	RING OPERATOR
+2219	bulletoperator	BULLET OPERATOR
+221A	radical	SQUARE ROOT
+221B	cuberoot	CUBE ROOT
+221C	fourthroot	FOURTH ROOT
+221D	proportional	PROPORTIONAL TO
+221E	infinity	INFINITY
+221F	orthogonal	RIGHT ANGLE
+2220	angle	ANGLE
+2221	measuredangle	MEASURED ANGLE
+2222	sphericalangle	SPHERICAL ANGLE
+2223	divides	DIVIDES
+2224	doesnotdivide	DOES NOT DIVIDE
+2225	parallelto	PARALLEL TO
+2226	notparallelto	NOT PARALLEL TO
+2227	logicaland	LOGICAL AND
+2228	logicalor	LOGICAL OR
+2229	intersection	INTERSECTION
+222A	union	UNION
+222B	integral	INTEGRAL
+222C	doubleintegral	DOUBLE INTEGRAL
+222D	tripleintegral	TRIPLE INTEGRAL
+222E	contourintegral	CONTOUR INTEGRAL
+222F	surfaceintegral	SURFACE INTEGRAL
+2230	volumeintegral	VOLUME INTEGRAL
+2231	clockwiseintegral	CLOCKWISE INTEGRAL
+2232	clockwisecontourintegral	CLOCKWISE CONTOUR INTEGRAL
+2233	anticlockwisecontourintegral	ANTICLOCKWISE CONTOUR INTEGRAL
+2234	therefore	THEREFORE
+2235	because	BECAUSE
+2236	ratio	RATIO
+2237	proportion	PROPORTION
+2238	dotminus	DOT MINUS
+2239	excess	EXCESS
+223A	geometricproportion	GEOMETRIC PROPORTION
+223B	homothetic	HOMOTHETIC
+223C	similar	TILDE OPERATOR
+223D	reversedtilde	REVERSED TILDE
+223E	invertedlazys	INVERTED LAZY S
+223F	sinewave	SINE WAVE
+2240	wreathproduct	WREATH PRODUCT
+2241	nottilde	NOT TILDE
+2242	minustilde	MINUS TILDE
+2243	asymptoticallyequalto	ASYMPTOTICALLY EQUAL TO
+2244	notasymptoticallyequalto	NOT ASYMPTOTICALLY EQUAL TO
+2245	congruent	APPROXIMATELY EQUAL TO
+2246	approximatelybutnotactuallyequalto	APPROXIMATELY BUT NOT ACTUALLY EQUAL TO
+2247	neitherapproximatelynoractuallyequalto	NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO
+2248	approxequal	ALMOST EQUAL TO
+2249	notalmostequalto	NOT ALMOST EQUAL TO
+224A	almostequalorequalto	ALMOST EQUAL OR EQUAL TO
+224B	tripletilde	TRIPLE TILDE
+224C	allequalto	ALL EQUAL TO
+224D	equivalentto	EQUIVALENT TO
+224E	geometricallyequivalentto	GEOMETRICALLY EQUIVALENT TO
+224F	differencebetween	DIFFERENCE BETWEEN
+2250	approachesthelimit	APPROACHES THE LIMIT
+2251	geometricallyequalto	GEOMETRICALLY EQUAL TO
+2252	approximatelyequaltoortheimageof	APPROXIMATELY EQUAL TO OR THE IMAGE OF
+2253	imageoforapproximatelyequalto	IMAGE OF OR APPROXIMATELY EQUAL TO
+2254	colonequals	COLON EQUALS
+2255	equalscolon	EQUALS COLON
+2256	ringinequalto	RING IN EQUAL TO
+2257	ringequalto	RING EQUAL TO
+2258	correspondsto	CORRESPONDS TO
+2259	estimates	ESTIMATES
+225A	equiangularto	EQUIANGULAR TO
+225B	starequals	STAR EQUALS
+225C	deltaequalto	DELTA EQUAL TO
+225D	equaltobydefinition	EQUAL TO BY DEFINITION
+225E	measuredby	MEASURED BY
+225F	questionedequalto	QUESTIONED EQUAL TO
+2260	notequal	NOT EQUAL TO
+2261	equivalence	IDENTICAL TO
+2262	notidenticalto	NOT IDENTICAL TO
+2263	strictlyequivalentto	STRICTLY EQUIVALENT TO
+2264	lessequal	LESS-THAN OR EQUAL TO
+2265	greaterequal	GREATER-THAN OR EQUAL TO
+2266	lessthanoverequalto	LESS-THAN OVER EQUAL TO
+2267	greaterthanoverequalto	GREATER-THAN OVER EQUAL TO
+2268	lessthanbutnotequalto	LESS-THAN BUT NOT EQUAL TO
+2269	greaterthanbutnotequalto	GREATER-THAN BUT NOT EQUAL TO
+226A	muchlessthan	MUCH LESS-THAN
+226B	muchgreaterthan	MUCH GREATER-THAN
+226C	between	BETWEEN
+226D	notequivalentto	NOT EQUIVALENT TO
+226E	notlessthan	NOT LESS-THAN
+226F	notgreaterthan	NOT GREATER-THAN
+2270	neitherlessthannorequalto	NEITHER LESS-THAN NOR EQUAL TO
+2271	neithergreaterthannorequalto	NEITHER GREATER-THAN NOR EQUAL TO
+2272	lessthanorequivalentto	LESS-THAN OR EQUIVALENT TO
+2273	greaterthanorequivalentto	GREATER-THAN OR EQUIVALENT TO
+2274	neitherlessthannorequivalentto	NEITHER LESS-THAN NOR EQUIVALENT TO
+2275	neithergreaterthannorequivalentto	NEITHER GREATER-THAN NOR EQUIVALENT TO
+2276	lessthanorgreaterthan	LESS-THAN OR GREATER-THAN
+2277	greaterthanorlessthan	GREATER-THAN OR LESS-THAN
+2278	neitherlessthannorgreaterthan	NEITHER LESS-THAN NOR GREATER-THAN
+2279	neithergreaterthannorlessthan	NEITHER GREATER-THAN NOR LESS-THAN
+227A	precedes	PRECEDES
+227B	succeeds	SUCCEEDS
+227C	precedesorequalto	PRECEDES OR EQUAL TO
+227D	succeedsorequalto	SUCCEEDS OR EQUAL TO
+227E	precedesorequivalentto	PRECEDES OR EQUIVALENT TO
+227F	succeedsorequivalentto	SUCCEEDS OR EQUIVALENT TO
+2280	doesnotprecede	DOES NOT PRECEDE
+2281	doesnotsucceed	DOES NOT SUCCEED
+2282	propersubset	SUBSET OF
+2283	propersuperset	SUPERSET OF
+2284	notsubset	NOT A SUBSET OF
+2285	notasupersetof	NOT A SUPERSET OF
+2286	reflexsubset	SUBSET OF OR EQUAL TO
+2287	reflexsuperset	SUPERSET OF OR EQUAL TO
+2288	neitherasubsetofnorequalto	NEITHER A SUBSET OF NOR EQUAL TO
+2289	neitherasupersetofnorequalto	NEITHER A SUPERSET OF NOR EQUAL TO
+228A	subsetofwithnotequalto	SUBSET OF WITH NOT EQUAL TO
+228B	supersetofwithnotequalto	SUPERSET OF WITH NOT EQUAL TO
+228C	multiset	MULTISET
+228D	multisetmultiplication	MULTISET MULTIPLICATION
+228E	multisetunion	MULTISET UNION
+228F	squareimageof	SQUARE IMAGE OF
+2290	squareoriginalof	SQUARE ORIGINAL OF
+2291	squareimageoforequalto	SQUARE IMAGE OF OR EQUAL TO
+2292	squareoriginaloforequalto	SQUARE ORIGINAL OF OR EQUAL TO
+2293	squarecap	SQUARE CAP
+2294	squarecup	SQUARE CUP
+2295	circleplus	CIRCLED PLUS
+2296	circledminus	CIRCLED MINUS
+2297	circlemultiply	CIRCLED TIMES
+2298	circleddivisionslash	CIRCLED DIVISION SLASH
+2299	circleddotoperator	CIRCLED DOT OPERATOR
+229A	circledringoperator	CIRCLED RING OPERATOR
+229B	circledasteriskoperator	CIRCLED ASTERISK OPERATOR
+229C	circledequals	CIRCLED EQUALS
+229D	circleddash	CIRCLED DASH
+229E	squaredplus	SQUARED PLUS
+229F	squaredminus	SQUARED MINUS
+22A0	squaredtimes	SQUARED TIMES
+22A1	squareddotoperator	SQUARED DOT OPERATOR
+22A2	righttack	RIGHT TACK
+22A3	lefttack	LEFT TACK
+22A4	downtack	DOWN TACK
+22A5	perpendicular	UP TACK
+22A6	assertion	ASSERTION
+22A7	models	MODELS
+22A8	true	TRUE
+22A9	forces	FORCES
+22AA	tripleverticalbarrightturnstile	TRIPLE VERTICAL BAR RIGHT TURNSTILE
+22AB	doubleverticalbardoublerightturnstile	DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE
+22AC	doesnotprove	DOES NOT PROVE
+22AD	nottrue	NOT TRUE
+22AE	doesnotforce	DOES NOT FORCE
+22AF	negateddoubleverticalbardoublerightturnstile	NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE
+22B0	precedesunderrelation	PRECEDES UNDER RELATION
+22B1	succeedsunderrelation	SUCCEEDS UNDER RELATION
+22B2	normalsubgroupof	NORMAL SUBGROUP OF
+22B3	containsasnormalsubgroup	CONTAINS AS NORMAL SUBGROUP
+22B4	normalsubgroupoforequalto	NORMAL SUBGROUP OF OR EQUAL TO
+22B5	containsasnormalsubgrouporequalto	CONTAINS AS NORMAL SUBGROUP OR EQUAL TO
+22B6	originalof	ORIGINAL OF
+22B7	imageof	IMAGE OF
+22B8	multimap	MULTIMAP
+22B9	hermitianconjugatematrix	HERMITIAN CONJUGATE MATRIX
+22BA	intercalate	INTERCALATE
+22BB	xor	XOR
+22BC	nand	NAND
+22BD	nor	NOR
+22BE	rightanglewitharc	RIGHT ANGLE WITH ARC
+22BF	righttriangle	RIGHT TRIANGLE
+22C0	narylogicaland	N-ARY LOGICAL AND
+22C1	narylogicalor	N-ARY LOGICAL OR
+22C2	naryintersection	N-ARY INTERSECTION
+22C3	naryunion	N-ARY UNION
+22C4	diamondoperator	DIAMOND OPERATOR
+22C5	dotmath	DOT OPERATOR
+22C6	staroperator	STAR OPERATOR
+22C7	divisiontimes	DIVISION TIMES
+22C8	bowtie	BOWTIE
+22C9	leftnormalfactorsemidirectproduct	LEFT NORMAL FACTOR SEMIDIRECT PRODUCT
+22CA	rightnormalfactorsemidirectproduct	RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT
+22CB	leftsemidirectproduct	LEFT SEMIDIRECT PRODUCT
+22CC	rightsemidirectproduct	RIGHT SEMIDIRECT PRODUCT
+22CD	reversedtildeequals	REVERSED TILDE EQUALS
+22CE	curlylogicalor	CURLY LOGICAL OR
+22CF	curlylogicaland	CURLY LOGICAL AND
+22D0	doublesubset	DOUBLE SUBSET
+22D1	doublesuperset	DOUBLE SUPERSET
+22D2	doubleintersection	DOUBLE INTERSECTION
+22D3	doubleunion	DOUBLE UNION
+22D4	pitchfork	PITCHFORK
+22D5	equalandparallelto	EQUAL AND PARALLEL TO
+22D6	lessthanwithdot	LESS-THAN WITH DOT
+22D7	greaterthanwithdot	GREATER-THAN WITH DOT
+22D8	verymuchlessthan	VERY MUCH LESS-THAN
+22D9	verymuchgreaterthan	VERY MUCH GREATER-THAN
+22DA	lessthanequaltoorgreaterthan	LESS-THAN EQUAL TO OR GREATER-THAN
+22DB	greaterthanequaltoorlessthan	GREATER-THAN EQUAL TO OR LESS-THAN
+22DC	equaltoorlessthan	EQUAL TO OR LESS-THAN
+22DD	equaltoorgreaterthan	EQUAL TO OR GREATER-THAN
+22DE	equaltoorprecedes	EQUAL TO OR PRECEDES
+22DF	equaltoorsucceeds	EQUAL TO OR SUCCEEDS
+22E0	doesnotprecedeorequal	DOES NOT PRECEDE OR EQUAL
+22E1	doesnotsucceedorequal	DOES NOT SUCCEED OR EQUAL
+22E2	notsquareimageoforequalto	NOT SQUARE IMAGE OF OR EQUAL TO
+22E3	notsquareoriginaloforequalto	NOT SQUARE ORIGINAL OF OR EQUAL TO
+22E4	squareimageofornotequalto	SQUARE IMAGE OF OR NOT EQUAL TO
+22E5	squareoriginalofornotequalto	SQUARE ORIGINAL OF OR NOT EQUAL TO
+22E6	lessthanbutnotequivalentto	LESS-THAN BUT NOT EQUIVALENT TO
+22E7	greaterthanbutnotequivalentto	GREATER-THAN BUT NOT EQUIVALENT TO
+22E8	precedesbutnotequivalentto	PRECEDES BUT NOT EQUIVALENT TO
+22E9	succeedsbutnotequivalentto	SUCCEEDS BUT NOT EQUIVALENT TO
+22EA	notnormalsubgroupof	NOT NORMAL SUBGROUP OF
+22EB	doesnotcontainasnormalsubgroup	DOES NOT CONTAIN AS NORMAL SUBGROUP
+22EC	notnormalsubgroupoforequalto	NOT NORMAL SUBGROUP OF OR EQUAL TO
+22ED	doesnotcontainasnormalsubgrouporequal	DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL
+22EE	verticalellipsis	VERTICAL ELLIPSIS
+22EF	midlinehorizontalellipsis	MIDLINE HORIZONTAL ELLIPSIS
+22F0	uprightdiagonalellipsis	UP RIGHT DIAGONAL ELLIPSIS
+22F1	downrightdiagonalellipsis	DOWN RIGHT DIAGONAL ELLIPSIS
+22F2	elementofwithlonghorizontalstroke	ELEMENT OF WITH LONG HORIZONTAL STROKE
+22F3	elementofwithverticalbaratendofhorizontalstroke	ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
+22F4	smallelementofwithverticalbaratendofhorizontalstroke	SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
+22F5	elementofwithdotabove	ELEMENT OF WITH DOT ABOVE
+22F6	elementofwithoverbar	ELEMENT OF WITH OVERBAR
+22F7	smallelementofwithoverbar	SMALL ELEMENT OF WITH OVERBAR
+22F8	elementofwithunderbar	ELEMENT OF WITH UNDERBAR
+22F9	elementofwithtwohorizontalstrokes	ELEMENT OF WITH TWO HORIZONTAL STROKES
+22FA	containswithlonghorizontalstroke	CONTAINS WITH LONG HORIZONTAL STROKE
+22FB	containswithverticalbaratendofhorizontalstroke	CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
+22FC	smallcontainswithverticalbaratendofhorizontalstroke	SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
+22FD	containswithoverbar	CONTAINS WITH OVERBAR
+22FE	smallcontainswithoverbar	SMALL CONTAINS WITH OVERBAR
+22FF	znotationbagmembership	Z NOTATION BAG MEMBERSHIP

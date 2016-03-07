@@ -1,27 +1,27 @@
 # Small Form Variants FE50 - FE6F
-FE50	needsfix_smallcomma	SMALL COMMA
-FE51	needsfix_smallideographiccomma	SMALL IDEOGRAPHIC COMMA
-FE52	needsfix_smallfullstop	SMALL FULL STOP
-FE54	needsfix_smallsemicolon	SMALL SEMICOLON
-FE55	needsfix_smallcolon	SMALL COLON
-FE56	needsfix_smallquestionmark	SMALL QUESTION MARK
-FE57	needsfix_smallexclamationmark	SMALL EXCLAMATION MARK
-FE58	needsfix_smallemdash	SMALL EM DASH
-FE59	needsfix_smallleftparenthesis	SMALL LEFT PARENTHESIS
-FE5A	needsfix_smallrightparenthesis	SMALL RIGHT PARENTHESIS
-FE5B	needsfix_smallleftcurlybracket	SMALL LEFT CURLY BRACKET
-FE5C	needsfix_smallrightcurlybracket	SMALL RIGHT CURLY BRACKET
-FE5D	needsfix_smalllefttortoiseshellbracket	SMALL LEFT TORTOISE SHELL BRACKET
-FE5E	needsfix_smallrighttortoiseshellbracket	SMALL RIGHT TORTOISE SHELL BRACKET
-FE5F	needsfix_smallnumbersign	SMALL NUMBER SIGN
-FE60	needsfix_smallampersand	SMALL AMPERSAND
-FE61	needsfix_smallasterisk	SMALL ASTERISK
-FE62	needsfix_smallplussign	SMALL PLUS SIGN
-FE63	needsfix_smallhyphenminus	SMALL HYPHEN-MINUS
-FE64	needsfix_smalllessthansign	SMALL LESS-THAN SIGN
-FE65	needsfix_smallgreaterthansign	SMALL GREATER-THAN SIGN
-FE66	needsfix_smallequalssign	SMALL EQUALS SIGN
-FE68	needsfix_smallreversesolidus	SMALL REVERSE SOLIDUS
-FE69	needsfix_smalldollarsign	SMALL DOLLAR SIGN
-FE6A	needsfix_smallpercentsign	SMALL PERCENT SIGN
-FE6B	needsfix_smallcommercialat	SMALL COMMERCIAL AT
+FE50	smallcomma	SMALL COMMA
+FE51	smallideographiccomma	SMALL IDEOGRAPHIC COMMA
+FE52	smallfullstop	SMALL FULL STOP
+FE54	smallsemicolon	SMALL SEMICOLON
+FE55	smallcolon	SMALL COLON
+FE56	smallquestionmark	SMALL QUESTION MARK
+FE57	smallexclamationmark	SMALL EXCLAMATION MARK
+FE58	smallemdash	SMALL EM DASH
+FE59	smallleftparenthesis	SMALL LEFT PARENTHESIS
+FE5A	smallrightparenthesis	SMALL RIGHT PARENTHESIS
+FE5B	smallleftcurlybracket	SMALL LEFT CURLY BRACKET
+FE5C	smallrightcurlybracket	SMALL RIGHT CURLY BRACKET
+FE5D	smalllefttortoiseshellbracket	SMALL LEFT TORTOISE SHELL BRACKET
+FE5E	smallrighttortoiseshellbracket	SMALL RIGHT TORTOISE SHELL BRACKET
+FE5F	smallnumbersign	SMALL NUMBER SIGN
+FE60	smallampersand	SMALL AMPERSAND
+FE61	smallasterisk	SMALL ASTERISK
+FE62	smallplussign	SMALL PLUS SIGN
+FE63	smallhyphenminus	SMALL HYPHEN-MINUS
+FE64	smalllessthansign	SMALL LESS-THAN SIGN
+FE65	smallgreaterthansign	SMALL GREATER-THAN SIGN
+FE66	smallequalssign	SMALL EQUALS SIGN
+FE68	smallreversesolidus	SMALL REVERSE SOLIDUS
+FE69	smalldollarsign	SMALL DOLLAR SIGN
+FE6A	smallpercentsign	SMALL PERCENT SIGN
+FE6B	smallcommercialat	SMALL COMMERCIAL AT

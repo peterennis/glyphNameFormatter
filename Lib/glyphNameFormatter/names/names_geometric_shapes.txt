@@ -1,97 +1,97 @@
 # Geometric Shapes 25A0 - 25FF
-25A0	needsfix_filledbox	BLACK SQUARE
-25A1	needsfix_whitesquare	WHITE SQUARE
-25A2	needsfix_whitesquarewithroundedcorners	WHITE SQUARE WITH ROUNDED CORNERS
-25A3	needsfix_whitesquarecontainingblacksmallsquare	WHITE SQUARE CONTAINING BLACK SMALL SQUARE
-25A4	needsfix_squarewithhorizontalfill	SQUARE WITH HORIZONTAL FILL
-25A5	needsfix_squarewithverticalfill	SQUARE WITH VERTICAL FILL
-25A6	needsfix_squarewithorthogonalcrosshatchfill	SQUARE WITH ORTHOGONAL CROSSHATCH FILL
-25A7	needsfix_squarewithupperlefttolowerrightfill	SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL
-25A8	needsfix_squarewithupperrighttolowerleftfill	SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL
-25A9	needsfix_squarewithdiagonalcrosshatchfill	SQUARE WITH DIAGONAL CROSSHATCH FILL
-25AA	needsfix_blacksmallsquare	BLACK SMALL SQUARE
-25AB	needsfix_whitesmallsquare	WHITE SMALL SQUARE
-25AC	needsfix_filledrect	BLACK RECTANGLE
-25AD	needsfix_whiterectangle	WHITE RECTANGLE
-25AE	needsfix_blackverticalrectangle	BLACK VERTICAL RECTANGLE
-25AF	needsfix_whiteverticalrectangle	WHITE VERTICAL RECTANGLE
-25B0	needsfix_blackparallelogram	BLACK PARALLELOGRAM
-25B1	needsfix_whiteparallelogram	WHITE PARALLELOGRAM
-25B2	needsfix_triagup	BLACK UP-POINTING TRIANGLE
-25B3	needsfix_whiteuppointingtriangle	WHITE UP-POINTING TRIANGLE
-25B4	needsfix_blackuppointingsmalltriangle	BLACK UP-POINTING SMALL TRIANGLE
-25B5	needsfix_whiteuppointingsmalltriangle	WHITE UP-POINTING SMALL TRIANGLE
-25B6	needsfix_blackrightpointingtriangle	BLACK RIGHT-POINTING TRIANGLE
-25B7	needsfix_whiterightpointingtriangle	WHITE RIGHT-POINTING TRIANGLE
-25B8	needsfix_blackrightpointingsmalltriangle	BLACK RIGHT-POINTING SMALL TRIANGLE
-25B9	needsfix_whiterightpointingsmalltriangle	WHITE RIGHT-POINTING SMALL TRIANGLE
-25BA	needsfix_triagrt	BLACK RIGHT-POINTING POINTER
-25BB	needsfix_whiterightpointingpointer	WHITE RIGHT-POINTING POINTER
-25BC	needsfix_triagdn	BLACK DOWN-POINTING TRIANGLE
-25BD	needsfix_whitedownpointingtriangle	WHITE DOWN-POINTING TRIANGLE
-25BE	needsfix_blackdownpointingsmalltriangle	BLACK DOWN-POINTING SMALL TRIANGLE
-25BF	needsfix_whitedownpointingsmalltriangle	WHITE DOWN-POINTING SMALL TRIANGLE
-25C0	needsfix_blackleftpointingtriangle	BLACK LEFT-POINTING TRIANGLE
-25C1	needsfix_whiteleftpointingtriangle	WHITE LEFT-POINTING TRIANGLE
-25C2	needsfix_blackleftpointingsmalltriangle	BLACK LEFT-POINTING SMALL TRIANGLE
-25C3	needsfix_whiteleftpointingsmalltriangle	WHITE LEFT-POINTING SMALL TRIANGLE
-25C4	needsfix_triaglf	BLACK LEFT-POINTING POINTER
-25C5	needsfix_whiteleftpointingpointer	WHITE LEFT-POINTING POINTER
-25C6	needsfix_blackdiamond	BLACK DIAMOND
-25C7	needsfix_whitediamond	WHITE DIAMOND
-25C8	needsfix_whitediamondcontainingblacksmalldiamond	WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND
-25C9	needsfix_fisheye	FISHEYE
-25CA	needsfix_lozenge	LOZENGE
-25CB	needsfix_circle	WHITE CIRCLE
-25CC	needsfix_dottedcircle	DOTTED CIRCLE
-25CD	needsfix_circlewithverticalfill	CIRCLE WITH VERTICAL FILL
-25CE	needsfix_bullseye	BULLSEYE
-25CF	needsfix_blackcircle	BLACK CIRCLE
-25D0	needsfix_circlewithlefthalfblack	CIRCLE WITH LEFT HALF BLACK
-25D1	needsfix_circlewithrighthalfblack	CIRCLE WITH RIGHT HALF BLACK
-25D2	needsfix_circlewithlowerhalfblack	CIRCLE WITH LOWER HALF BLACK
-25D3	needsfix_circlewithupperhalfblack	CIRCLE WITH UPPER HALF BLACK
-25D4	needsfix_circlewithupperrightquadrantblack	CIRCLE WITH UPPER RIGHT QUADRANT BLACK
-25D5	needsfix_circlewithallbutupperleftquadrantblack	CIRCLE WITH ALL BUT UPPER LEFT QUADRANT BLACK
-25D6	needsfix_lefthalfblackcircle	LEFT HALF BLACK CIRCLE
-25D7	needsfix_righthalfblackcircle	RIGHT HALF BLACK CIRCLE
-25D8	needsfix_invbullet	INVERSE BULLET
-25D9	needsfix_invcircle	INVERSE WHITE CIRCLE
-25DA	needsfix_upperhalfinversewhitecircle	UPPER HALF INVERSE WHITE CIRCLE
-25DB	needsfix_lowerhalfinversewhitecircle	LOWER HALF INVERSE WHITE CIRCLE
-25DC	needsfix_upperleftquadrantcirculararc	UPPER LEFT QUADRANT CIRCULAR ARC
-25DD	needsfix_upperrightquadrantcirculararc	UPPER RIGHT QUADRANT CIRCULAR ARC
-25DE	needsfix_lowerrightquadrantcirculararc	LOWER RIGHT QUADRANT CIRCULAR ARC
-25DF	needsfix_lowerleftquadrantcirculararc	LOWER LEFT QUADRANT CIRCULAR ARC
-25E0	needsfix_upperhalfcircle	UPPER HALF CIRCLE
-25E1	needsfix_lowerhalfcircle	LOWER HALF CIRCLE
-25E2	needsfix_blacklowerrighttriangle	BLACK LOWER RIGHT TRIANGLE
-25E3	needsfix_blacklowerlefttriangle	BLACK LOWER LEFT TRIANGLE
-25E4	needsfix_blackupperlefttriangle	BLACK UPPER LEFT TRIANGLE
-25E5	needsfix_blackupperrighttriangle	BLACK UPPER RIGHT TRIANGLE
-25E6	needsfix_openbullet	WHITE BULLET
-25E7	needsfix_squarewithlefthalfblack	SQUARE WITH LEFT HALF BLACK
-25E8	needsfix_squarewithrighthalfblack	SQUARE WITH RIGHT HALF BLACK
-25E9	needsfix_squarewithupperleftdiagonalhalfblack	SQUARE WITH UPPER LEFT DIAGONAL HALF BLACK
-25EA	needsfix_squarewithlowerrightdiagonalhalfblack	SQUARE WITH LOWER RIGHT DIAGONAL HALF BLACK
-25EB	needsfix_whitesquarewithverticalbisectingline	WHITE SQUARE WITH VERTICAL BISECTING LINE
-25EC	needsfix_whiteuppointingtrianglewithdot	WHITE UP-POINTING TRIANGLE WITH DOT
-25ED	needsfix_uppointingtrianglewithlefthalfblack	UP-POINTING TRIANGLE WITH LEFT HALF BLACK
-25EE	needsfix_uppointingtrianglewithrighthalfblack	UP-POINTING TRIANGLE WITH RIGHT HALF BLACK
-25EF	needsfix_largecircle	LARGE CIRCLE
-25F0	needsfix_whitesquarewithupperleftquadrant	WHITE SQUARE WITH UPPER LEFT QUADRANT
-25F1	needsfix_whitesquarewithlowerleftquadrant	WHITE SQUARE WITH LOWER LEFT QUADRANT
-25F2	needsfix_whitesquarewithlowerrightquadrant	WHITE SQUARE WITH LOWER RIGHT QUADRANT
-25F3	needsfix_whitesquarewithupperrightquadrant	WHITE SQUARE WITH UPPER RIGHT QUADRANT
-25F4	needsfix_whitecirclewithupperleftquadrant	WHITE CIRCLE WITH UPPER LEFT QUADRANT
-25F5	needsfix_whitecirclewithlowerleftquadrant	WHITE CIRCLE WITH LOWER LEFT QUADRANT
-25F6	needsfix_whitecirclewithlowerrightquadrant	WHITE CIRCLE WITH LOWER RIGHT QUADRANT
-25F7	needsfix_whitecirclewithupperrightquadrant	WHITE CIRCLE WITH UPPER RIGHT QUADRANT
-25F8	needsfix_upperlefttriangle	UPPER LEFT TRIANGLE
-25F9	needsfix_upperrighttriangle	UPPER RIGHT TRIANGLE
-25FA	needsfix_lowerlefttriangle	LOWER LEFT TRIANGLE
-25FB	needsfix_whitemediumsquare	WHITE MEDIUM SQUARE
-25FC	needsfix_blackmediumsquare	BLACK MEDIUM SQUARE
-25FD	needsfix_whitemediumsmallsquare	WHITE MEDIUM SMALL SQUARE
-25FE	needsfix_blackmediumsmallsquare	BLACK MEDIUM SMALL SQUARE
-25FF	needsfix_lowerrighttriangle	LOWER RIGHT TRIANGLE
+25A0	filledbox	BLACK SQUARE
+25A1	whitesquare	WHITE SQUARE
+25A2	whitesquarewithroundedcorners	WHITE SQUARE WITH ROUNDED CORNERS
+25A3	whitesquarecontainingblacksmallsquare	WHITE SQUARE CONTAINING BLACK SMALL SQUARE
+25A4	squarewithhorizontalfill	SQUARE WITH HORIZONTAL FILL
+25A5	squarewithverticalfill	SQUARE WITH VERTICAL FILL
+25A6	squarewithorthogonalcrosshatchfill	SQUARE WITH ORTHOGONAL CROSSHATCH FILL
+25A7	squarewithupperlefttolowerrightfill	SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL
+25A8	squarewithupperrighttolowerleftfill	SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL
+25A9	squarewithdiagonalcrosshatchfill	SQUARE WITH DIAGONAL CROSSHATCH FILL
+25AA	blacksmallsquare	BLACK SMALL SQUARE
+25AB	whitesmallsquare	WHITE SMALL SQUARE
+25AC	filledrect	BLACK RECTANGLE
+25AD	whiterectangle	WHITE RECTANGLE
+25AE	blackverticalrectangle	BLACK VERTICAL RECTANGLE
+25AF	whiteverticalrectangle	WHITE VERTICAL RECTANGLE
+25B0	blackparallelogram	BLACK PARALLELOGRAM
+25B1	whiteparallelogram	WHITE PARALLELOGRAM
+25B2	triagup	BLACK UP-POINTING TRIANGLE
+25B3	whiteuppointingtriangle	WHITE UP-POINTING TRIANGLE
+25B4	blackuppointingsmalltriangle	BLACK UP-POINTING SMALL TRIANGLE
+25B5	whiteuppointingsmalltriangle	WHITE UP-POINTING SMALL TRIANGLE
+25B6	blackrightpointingtriangle	BLACK RIGHT-POINTING TRIANGLE
+25B7	whiterightpointingtriangle	WHITE RIGHT-POINTING TRIANGLE
+25B8	blackrightpointingsmalltriangle	BLACK RIGHT-POINTING SMALL TRIANGLE
+25B9	whiterightpointingsmalltriangle	WHITE RIGHT-POINTING SMALL TRIANGLE
+25BA	triagrt	BLACK RIGHT-POINTING POINTER
+25BB	whiterightpointingpointer	WHITE RIGHT-POINTING POINTER
+25BC	triagdn	BLACK DOWN-POINTING TRIANGLE
+25BD	whitedownpointingtriangle	WHITE DOWN-POINTING TRIANGLE
+25BE	blackdownpointingsmalltriangle	BLACK DOWN-POINTING SMALL TRIANGLE
+25BF	whitedownpointingsmalltriangle	WHITE DOWN-POINTING SMALL TRIANGLE
+25C0	blackleftpointingtriangle	BLACK LEFT-POINTING TRIANGLE
+25C1	whiteleftpointingtriangle	WHITE LEFT-POINTING TRIANGLE
+25C2	blackleftpointingsmalltriangle	BLACK LEFT-POINTING SMALL TRIANGLE
+25C3	whiteleftpointingsmalltriangle	WHITE LEFT-POINTING SMALL TRIANGLE
+25C4	triaglf	BLACK LEFT-POINTING POINTER
+25C5	whiteleftpointingpointer	WHITE LEFT-POINTING POINTER
+25C6	blackdiamond	BLACK DIAMOND
+25C7	whitediamond	WHITE DIAMOND
+25C8	whitediamondcontainingblacksmalldiamond	WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND
+25C9	fisheye	FISHEYE
+25CA	lozenge	LOZENGE
+25CB	circle	WHITE CIRCLE
+25CC	dottedcircle	DOTTED CIRCLE
+25CD	circlewithverticalfill	CIRCLE WITH VERTICAL FILL
+25CE	bullseye	BULLSEYE
+25CF	blackcircle	BLACK CIRCLE
+25D0	circlewithlefthalfblack	CIRCLE WITH LEFT HALF BLACK
+25D1	circlewithrighthalfblack	CIRCLE WITH RIGHT HALF BLACK
+25D2	circlewithlowerhalfblack	CIRCLE WITH LOWER HALF BLACK
+25D3	circlewithupperhalfblack	CIRCLE WITH UPPER HALF BLACK
+25D4	circlewithupperrightquadrantblack	CIRCLE WITH UPPER RIGHT QUADRANT BLACK
+25D5	circlewithallbutupperleftquadrantblack	CIRCLE WITH ALL BUT UPPER LEFT QUADRANT BLACK
+25D6	lefthalfblackcircle	LEFT HALF BLACK CIRCLE
+25D7	righthalfblackcircle	RIGHT HALF BLACK CIRCLE
+25D8	invbullet	INVERSE BULLET
+25D9	invcircle	INVERSE WHITE CIRCLE
+25DA	upperhalfinversewhitecircle	UPPER HALF INVERSE WHITE CIRCLE
+25DB	lowerhalfinversewhitecircle	LOWER HALF INVERSE WHITE CIRCLE
+25DC	upperleftquadrantcirculararc	UPPER LEFT QUADRANT CIRCULAR ARC
+25DD	upperrightquadrantcirculararc	UPPER RIGHT QUADRANT CIRCULAR ARC
+25DE	lowerrightquadrantcirculararc	LOWER RIGHT QUADRANT CIRCULAR ARC
+25DF	lowerleftquadrantcirculararc	LOWER LEFT QUADRANT CIRCULAR ARC
+25E0	upperhalfcircle	UPPER HALF CIRCLE
+25E1	lowerhalfcircle	LOWER HALF CIRCLE
+25E2	blacklowerrighttriangle	BLACK LOWER RIGHT TRIANGLE
+25E3	blacklowerlefttriangle	BLACK LOWER LEFT TRIANGLE
+25E4	blackupperlefttriangle	BLACK UPPER LEFT TRIANGLE
+25E5	blackupperrighttriangle	BLACK UPPER RIGHT TRIANGLE
+25E6	openbullet	WHITE BULLET
+25E7	squarewithlefthalfblack	SQUARE WITH LEFT HALF BLACK
+25E8	squarewithrighthalfblack	SQUARE WITH RIGHT HALF BLACK
+25E9	squarewithupperleftdiagonalhalfblack	SQUARE WITH UPPER LEFT DIAGONAL HALF BLACK
+25EA	squarewithlowerrightdiagonalhalfblack	SQUARE WITH LOWER RIGHT DIAGONAL HALF BLACK
+25EB	whitesquarewithverticalbisectingline	WHITE SQUARE WITH VERTICAL BISECTING LINE
+25EC	whiteuppointingtrianglewithdot	WHITE UP-POINTING TRIANGLE WITH DOT
+25ED	uppointingtrianglewithlefthalfblack	UP-POINTING TRIANGLE WITH LEFT HALF BLACK
+25EE	uppointingtrianglewithrighthalfblack	UP-POINTING TRIANGLE WITH RIGHT HALF BLACK
+25EF	largecircle	LARGE CIRCLE
+25F0	whitesquarewithupperleftquadrant	WHITE SQUARE WITH UPPER LEFT QUADRANT
+25F1	whitesquarewithlowerleftquadrant	WHITE SQUARE WITH LOWER LEFT QUADRANT
+25F2	whitesquarewithlowerrightquadrant	WHITE SQUARE WITH LOWER RIGHT QUADRANT
+25F3	whitesquarewithupperrightquadrant	WHITE SQUARE WITH UPPER RIGHT QUADRANT
+25F4	whitecirclewithupperleftquadrant	WHITE CIRCLE WITH UPPER LEFT QUADRANT
+25F5	whitecirclewithlowerleftquadrant	WHITE CIRCLE WITH LOWER LEFT QUADRANT
+25F6	whitecirclewithlowerrightquadrant	WHITE CIRCLE WITH LOWER RIGHT QUADRANT
+25F7	whitecirclewithupperrightquadrant	WHITE CIRCLE WITH UPPER RIGHT QUADRANT
+25F8	upperlefttriangle	UPPER LEFT TRIANGLE
+25F9	upperrighttriangle	UPPER RIGHT TRIANGLE
+25FA	lowerlefttriangle	LOWER LEFT TRIANGLE
+25FB	whitemediumsquare	WHITE MEDIUM SQUARE
+25FC	blackmediumsquare	BLACK MEDIUM SQUARE
+25FD	whitemediumsmallsquare	WHITE MEDIUM SMALL SQUARE
+25FE	blackmediumsmallsquare	BLACK MEDIUM SMALL SQUARE
+25FF	lowerrighttriangle	LOWER RIGHT TRIANGLE

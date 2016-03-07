@@ -1,251 +1,251 @@
 # Arabic 0600 - 06FF
-0600	needsfix_arabicnumbersign	ARABIC NUMBER SIGN
-0601	needsfix_arabicsignsanah	ARABIC SIGN SANAH
-0602	needsfix_arabicfootnotemarker	ARABIC FOOTNOTE MARKER
-0603	needsfix_arabicsignsafha	ARABIC SIGN SAFHA
-0606	needsfix_arabicindiccuberoot	ARABIC-INDIC CUBE ROOT
-0607	needsfix_arabicindicfourthroot	ARABIC-INDIC FOURTH ROOT
-0608	needsfix_arabicray	ARABIC RAY
-0609	needsfix_arabicindicpermillesign	ARABIC-INDIC PER MILLE SIGN
-060A	needsfix_arabicindicpertenthousandsign	ARABIC-INDIC PER TEN THOUSAND SIGN
-060B	needsfix_afghanisign	AFGHANI SIGN
-060C	needsfix_arabiccomma	ARABIC COMMA
-060D	needsfix_arabicdateseparator	ARABIC DATE SEPARATOR
-060E	needsfix_arabicpoeticversesign	ARABIC POETIC VERSE SIGN
-060F	needsfix_arabicsignmisra	ARABIC SIGN MISRA
-0610	needsfix_arabicsignsallallahoualayhewassallam	ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM
-0611	needsfix_arabicsignalayheassallam	ARABIC SIGN ALAYHE ASSALLAM
-0612	needsfix_arabicsignrahmatullahalayhe	ARABIC SIGN RAHMATULLAH ALAYHE
-0613	needsfix_arabicsignradiallahouanhu	ARABIC SIGN RADI ALLAHOU ANHU
-0614	needsfix_arabicsigntakhallus	ARABIC SIGN TAKHALLUS
-0615	needsfix_arabicsmallhightah	ARABIC SMALL HIGH TAH
-0616	needsfix_arabicsmallhighligaturealefwithlamwithyeh	ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH
-0617	needsfix_arabicsmallhighzain	ARABIC SMALL HIGH ZAIN
-0618	needsfix_arabicsmallfatha	ARABIC SMALL FATHA
-0619	needsfix_arabicsmalldamma	ARABIC SMALL DAMMA
-061A	needsfix_arabicsmallkasra	ARABIC SMALL KASRA
-061B	needsfix_arabicsemicolon	ARABIC SEMICOLON
-061E	needsfix_arabictripledotpunctuationmark	ARABIC TRIPLE DOT PUNCTUATION MARK
-061F	needsfix_arabicquestionmark	ARABIC QUESTION MARK
-0621	needsfix_arabicletterhamza	ARABIC LETTER HAMZA
-0622	needsfix_arabicletteralefwithmaddaabove	ARABIC LETTER ALEF WITH MADDA ABOVE
-0623	needsfix_arabicletteralefwithhamzaabove	ARABIC LETTER ALEF WITH HAMZA ABOVE
-0624	needsfix_arabicletterwawwithhamzaabove	ARABIC LETTER WAW WITH HAMZA ABOVE
-0625	needsfix_arabicletteralefwithhamzabelow	ARABIC LETTER ALEF WITH HAMZA BELOW
-0626	needsfix_arabicletteryehwithhamzaabove	ARABIC LETTER YEH WITH HAMZA ABOVE
-0627	needsfix_arabicletteralef	ARABIC LETTER ALEF
-0628	needsfix_arabicletterbeh	ARABIC LETTER BEH
-0629	needsfix_arabiclettertehmarbuta	ARABIC LETTER TEH MARBUTA
-062A	needsfix_arabicletterteh	ARABIC LETTER TEH
-062B	needsfix_arabiclettertheh	ARABIC LETTER THEH
-062C	needsfix_arabicletterjeem	ARABIC LETTER JEEM
-062D	needsfix_arabicletterhah	ARABIC LETTER HAH
-062E	needsfix_arabicletterkhah	ARABIC LETTER KHAH
-062F	needsfix_arabicletterdal	ARABIC LETTER DAL
-0630	needsfix_arabicletterthal	ARABIC LETTER THAL
-0631	needsfix_arabicletterreh	ARABIC LETTER REH
-0632	needsfix_arabicletterzain	ARABIC LETTER ZAIN
-0633	needsfix_arabicletterseen	ARABIC LETTER SEEN
-0634	needsfix_arabiclettersheen	ARABIC LETTER SHEEN
-0635	needsfix_arabiclettersad	ARABIC LETTER SAD
-0636	needsfix_arabicletterdad	ARABIC LETTER DAD
-0637	needsfix_arabiclettertah	ARABIC LETTER TAH
-0638	needsfix_arabicletterzah	ARABIC LETTER ZAH
-0639	needsfix_arabicletterain	ARABIC LETTER AIN
-063A	needsfix_arabicletterghain	ARABIC LETTER GHAIN
-063B	needsfix_arabicletterkehehwithtwodotsabove	ARABIC LETTER KEHEH WITH TWO DOTS ABOVE
-063C	needsfix_arabicletterkehehwiththreedotsbelow	ARABIC LETTER KEHEH WITH THREE DOTS BELOW
-063D	needsfix_arabicletterfarsiyehwithinvertedv	ARABIC LETTER FARSI YEH WITH INVERTED V
-063E	needsfix_arabicletterfarsiyehwithtwodotsabove	ARABIC LETTER FARSI YEH WITH TWO DOTS ABOVE
-063F	needsfix_arabicletterfarsiyehwiththreedotsabove	ARABIC LETTER FARSI YEH WITH THREE DOTS ABOVE
-0640	needsfix_arabictatweel	ARABIC TATWEEL
-0641	needsfix_arabicletterfeh	ARABIC LETTER FEH
-0642	needsfix_arabicletterqaf	ARABIC LETTER QAF
-0643	needsfix_arabicletterkaf	ARABIC LETTER KAF
-0644	needsfix_arabicletterlam	ARABIC LETTER LAM
-0645	needsfix_arabiclettermeem	ARABIC LETTER MEEM
-0646	needsfix_arabicletternoon	ARABIC LETTER NOON
-0647	needsfix_arabicletterheh	ARABIC LETTER HEH
-0648	needsfix_arabicletterwaw	ARABIC LETTER WAW
-0649	needsfix_arabicletteralefmaksura	ARABIC LETTER ALEF MAKSURA
-064A	needsfix_arabicletteryeh	ARABIC LETTER YEH
-064B	needsfix_arabicfathatan	ARABIC FATHATAN
-064C	needsfix_arabicdammatan	ARABIC DAMMATAN
-064D	needsfix_arabickasratan	ARABIC KASRATAN
-064E	needsfix_arabicfatha	ARABIC FATHA
-064F	needsfix_arabicdamma	ARABIC DAMMA
-0650	needsfix_arabickasra	ARABIC KASRA
-0651	needsfix_arabicshadda	ARABIC SHADDA
-0652	needsfix_arabicsukun	ARABIC SUKUN
-0653	needsfix_arabicmaddahabove	ARABIC MADDAH ABOVE
-0654	needsfix_arabichamzaabove	ARABIC HAMZA ABOVE
-0655	needsfix_arabichamzabelow	ARABIC HAMZA BELOW
-0656	needsfix_arabicsubscriptalef	ARABIC SUBSCRIPT ALEF
-0657	needsfix_arabicinverteddamma	ARABIC INVERTED DAMMA
-0658	needsfix_arabicmarknoonghunna	ARABIC MARK NOON GHUNNA
-0659	needsfix_arabiczwarakay	ARABIC ZWARAKAY
-065A	needsfix_arabicvowelsignsmallvabove	ARABIC VOWEL SIGN SMALL V ABOVE
-065B	needsfix_arabicvowelsigninvertedsmallvabove	ARABIC VOWEL SIGN INVERTED SMALL V ABOVE
-065C	needsfix_arabicvowelsigndotbelow	ARABIC VOWEL SIGN DOT BELOW
-065D	needsfix_arabicreverseddamma	ARABIC REVERSED DAMMA
-065E	needsfix_arabicfathawithtwodots	ARABIC FATHA WITH TWO DOTS
-0660	needsfix_arabicindicdigitzero	ARABIC-INDIC DIGIT ZERO
-0661	needsfix_arabicindicdigitone	ARABIC-INDIC DIGIT ONE
-0662	needsfix_arabicindicdigittwo	ARABIC-INDIC DIGIT TWO
-0663	needsfix_arabicindicdigitthree	ARABIC-INDIC DIGIT THREE
-0664	needsfix_arabicindicdigitfour	ARABIC-INDIC DIGIT FOUR
-0665	needsfix_arabicindicdigitfive	ARABIC-INDIC DIGIT FIVE
-0666	needsfix_arabicindicdigitsix	ARABIC-INDIC DIGIT SIX
-0667	needsfix_arabicindicdigitseven	ARABIC-INDIC DIGIT SEVEN
-0668	needsfix_arabicindicdigiteight	ARABIC-INDIC DIGIT EIGHT
-0669	needsfix_arabicindicdigitnine	ARABIC-INDIC DIGIT NINE
-066A	needsfix_arabicpercentsign	ARABIC PERCENT SIGN
-066B	needsfix_arabicdecimalseparator	ARABIC DECIMAL SEPARATOR
-066C	needsfix_arabicthousandsseparator	ARABIC THOUSANDS SEPARATOR
-066D	needsfix_arabicfivepointedstar	ARABIC FIVE POINTED STAR
-066E	needsfix_arabicletterdotlessbeh	ARABIC LETTER DOTLESS BEH
-066F	needsfix_arabicletterdotlessqaf	ARABIC LETTER DOTLESS QAF
-0670	needsfix_arabiclettersuperscriptalef	ARABIC LETTER SUPERSCRIPT ALEF
-0671	needsfix_arabicletteralefwasla	ARABIC LETTER ALEF WASLA
-0672	needsfix_arabicletteralefwithwavyhamzaabove	ARABIC LETTER ALEF WITH WAVY HAMZA ABOVE
-0673	needsfix_arabicletteralefwithwavyhamzabelow	ARABIC LETTER ALEF WITH WAVY HAMZA BELOW
-0674	needsfix_arabicletterhighhamza	ARABIC LETTER HIGH HAMZA
-0675	needsfix_arabicletterhighhamzaalef	ARABIC LETTER HIGH HAMZA ALEF
-0676	needsfix_arabicletterhighhamzawaw	ARABIC LETTER HIGH HAMZA WAW
-0677	needsfix_arabicletteruwithhamzaabove	ARABIC LETTER U WITH HAMZA ABOVE
-0678	needsfix_arabicletterhighhamzayeh	ARABIC LETTER HIGH HAMZA YEH
-0679	needsfix_arabiclettertteh	ARABIC LETTER TTEH
-067A	needsfix_arabiclettertteheh	ARABIC LETTER TTEHEH
-067B	needsfix_arabicletterbeeh	ARABIC LETTER BEEH
-067C	needsfix_arabiclettertehwithring	ARABIC LETTER TEH WITH RING
-067D	needsfix_arabiclettertehwiththreedotsabovedownwards	ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS
-067E	needsfix_arabicletterpeh	ARABIC LETTER PEH
-067F	needsfix_arabicletterteheh	ARABIC LETTER TEHEH
-0680	needsfix_arabicletterbeheh	ARABIC LETTER BEHEH
-0681	needsfix_arabicletterhahwithhamzaabove	ARABIC LETTER HAH WITH HAMZA ABOVE
-0682	needsfix_arabicletterhahwithtwodotsverticalabove	ARABIC LETTER HAH WITH TWO DOTS VERTICAL ABOVE
-0683	needsfix_arabicletternyeh	ARABIC LETTER NYEH
-0684	needsfix_arabicletterdyeh	ARABIC LETTER DYEH
-0685	needsfix_arabicletterhahwiththreedotsabove	ARABIC LETTER HAH WITH THREE DOTS ABOVE
-0686	needsfix_arabiclettertcheh	ARABIC LETTER TCHEH
-0687	needsfix_arabiclettertcheheh	ARABIC LETTER TCHEHEH
-0688	needsfix_arabicletterddal	ARABIC LETTER DDAL
-0689	needsfix_arabicletterdalwithring	ARABIC LETTER DAL WITH RING
-068A	needsfix_arabicletterdalwithdotbelow	ARABIC LETTER DAL WITH DOT BELOW
-068B	needsfix_arabicletterdalwithdotbelowandsmalltah	ARABIC LETTER DAL WITH DOT BELOW AND SMALL TAH
-068C	needsfix_arabicletterdahal	ARABIC LETTER DAHAL
-068D	needsfix_arabicletterddahal	ARABIC LETTER DDAHAL
-068E	needsfix_arabicletterdul	ARABIC LETTER DUL
-068F	needsfix_arabicletterdalwiththreedotsabovedownwards	ARABIC LETTER DAL WITH THREE DOTS ABOVE DOWNWARDS
-0690	needsfix_arabicletterdalwithfourdotsabove	ARABIC LETTER DAL WITH FOUR DOTS ABOVE
-0691	needsfix_arabicletterrreh	ARABIC LETTER RREH
-0692	needsfix_arabicletterrehwithsmallv	ARABIC LETTER REH WITH SMALL V
-0693	needsfix_arabicletterrehwithring	ARABIC LETTER REH WITH RING
-0694	needsfix_arabicletterrehwithdotbelow	ARABIC LETTER REH WITH DOT BELOW
-0695	needsfix_arabicletterrehwithsmallvbelow	ARABIC LETTER REH WITH SMALL V BELOW
-0696	needsfix_arabicletterrehwithdotbelowanddotabove	ARABIC LETTER REH WITH DOT BELOW AND DOT ABOVE
-0697	needsfix_arabicletterrehwithtwodotsabove	ARABIC LETTER REH WITH TWO DOTS ABOVE
-0698	needsfix_arabicletterjeh	ARABIC LETTER JEH
-0699	needsfix_arabicletterrehwithfourdotsabove	ARABIC LETTER REH WITH FOUR DOTS ABOVE
-069A	needsfix_arabicletterseenwithdotbelowanddotabove	ARABIC LETTER SEEN WITH DOT BELOW AND DOT ABOVE
-069B	needsfix_arabicletterseenwiththreedotsbelow	ARABIC LETTER SEEN WITH THREE DOTS BELOW
-069C	needsfix_arabicletterseenwiththreedotsbelowandthreedotsabove	ARABIC LETTER SEEN WITH THREE DOTS BELOW AND THREE DOTS ABOVE
-069D	needsfix_arabiclettersadwithtwodotsbelow	ARABIC LETTER SAD WITH TWO DOTS BELOW
-069E	needsfix_arabiclettersadwiththreedotsabove	ARABIC LETTER SAD WITH THREE DOTS ABOVE
-069F	needsfix_arabiclettertahwiththreedotsabove	ARABIC LETTER TAH WITH THREE DOTS ABOVE
-06A0	needsfix_arabicletterainwiththreedotsabove	ARABIC LETTER AIN WITH THREE DOTS ABOVE
-06A1	needsfix_arabicletterdotlessfeh	ARABIC LETTER DOTLESS FEH
-06A2	needsfix_arabicletterfehwithdotmovedbelow	ARABIC LETTER FEH WITH DOT MOVED BELOW
-06A3	needsfix_arabicletterfehwithdotbelow	ARABIC LETTER FEH WITH DOT BELOW
-06A4	needsfix_arabicletterveh	ARABIC LETTER VEH
-06A5	needsfix_arabicletterfehwiththreedotsbelow	ARABIC LETTER FEH WITH THREE DOTS BELOW
-06A6	needsfix_arabicletterpeheh	ARABIC LETTER PEHEH
-06A7	needsfix_arabicletterqafwithdotabove	ARABIC LETTER QAF WITH DOT ABOVE
-06A8	needsfix_arabicletterqafwiththreedotsabove	ARABIC LETTER QAF WITH THREE DOTS ABOVE
-06A9	needsfix_arabicletterkeheh	ARABIC LETTER KEHEH
-06AA	needsfix_arabicletterswashkaf	ARABIC LETTER SWASH KAF
-06AB	needsfix_arabicletterkafwithring	ARABIC LETTER KAF WITH RING
-06AC	needsfix_arabicletterkafwithdotabove	ARABIC LETTER KAF WITH DOT ABOVE
-06AD	needsfix_arabicletterng	ARABIC LETTER NG
-06AE	needsfix_arabicletterkafwiththreedotsbelow	ARABIC LETTER KAF WITH THREE DOTS BELOW
-06AF	needsfix_arabiclettergaf	ARABIC LETTER GAF
-06B0	needsfix_arabiclettergafwithring	ARABIC LETTER GAF WITH RING
-06B1	needsfix_arabicletterngoeh	ARABIC LETTER NGOEH
-06B2	needsfix_arabiclettergafwithtwodotsbelow	ARABIC LETTER GAF WITH TWO DOTS BELOW
-06B3	needsfix_arabiclettergueh	ARABIC LETTER GUEH
-06B4	needsfix_arabiclettergafwiththreedotsabove	ARABIC LETTER GAF WITH THREE DOTS ABOVE
-06B5	needsfix_arabicletterlamwithsmallv	ARABIC LETTER LAM WITH SMALL V
-06B6	needsfix_arabicletterlamwithdotabove	ARABIC LETTER LAM WITH DOT ABOVE
-06B7	needsfix_arabicletterlamwiththreedotsabove	ARABIC LETTER LAM WITH THREE DOTS ABOVE
-06B8	needsfix_arabicletterlamwiththreedotsbelow	ARABIC LETTER LAM WITH THREE DOTS BELOW
-06B9	needsfix_arabicletternoonwithdotbelow	ARABIC LETTER NOON WITH DOT BELOW
-06BA	needsfix_arabicletternoonghunna	ARABIC LETTER NOON GHUNNA
-06BB	needsfix_arabicletterrnoon	ARABIC LETTER RNOON
-06BC	needsfix_arabicletternoonwithring	ARABIC LETTER NOON WITH RING
-06BD	needsfix_arabicletternoonwiththreedotsabove	ARABIC LETTER NOON WITH THREE DOTS ABOVE
-06BE	needsfix_arabicletterhehdoachashmee	ARABIC LETTER HEH DOACHASHMEE
-06BF	needsfix_arabiclettertchehwithdotabove	ARABIC LETTER TCHEH WITH DOT ABOVE
-06C0	needsfix_arabicletterhehwithyehabove	ARABIC LETTER HEH WITH YEH ABOVE
-06C1	needsfix_arabicletterhehgoal	ARABIC LETTER HEH GOAL
-06C2	needsfix_arabicletterhehgoalwithhamzaabove	ARABIC LETTER HEH GOAL WITH HAMZA ABOVE
-06C3	needsfix_arabiclettertehmarbutagoal	ARABIC LETTER TEH MARBUTA GOAL
-06C4	needsfix_arabicletterwawwithring	ARABIC LETTER WAW WITH RING
-06C5	needsfix_arabicletterkirghizoe	ARABIC LETTER KIRGHIZ OE
-06C6	needsfix_arabicletteroe	ARABIC LETTER OE
-06C7	needsfix_arabicletteru	ARABIC LETTER U
-06C8	needsfix_arabicletteryu	ARABIC LETTER YU
-06C9	needsfix_arabicletterkirghizyu	ARABIC LETTER KIRGHIZ YU
-06CA	needsfix_arabicletterwawwithtwodotsabove	ARABIC LETTER WAW WITH TWO DOTS ABOVE
-06CB	needsfix_arabicletterve	ARABIC LETTER VE
-06CC	needsfix_arabicletterfarsiyeh	ARABIC LETTER FARSI YEH
-06CD	needsfix_arabicletteryehwithtail	ARABIC LETTER YEH WITH TAIL
-06CE	needsfix_arabicletteryehwithsmallv	ARABIC LETTER YEH WITH SMALL V
-06CF	needsfix_arabicletterwawwithdotabove	ARABIC LETTER WAW WITH DOT ABOVE
-06D0	needsfix_arabiclettere	ARABIC LETTER E
-06D1	needsfix_arabicletteryehwiththreedotsbelow	ARABIC LETTER YEH WITH THREE DOTS BELOW
-06D2	needsfix_arabicletteryehbarree	ARABIC LETTER YEH BARREE
-06D3	needsfix_arabicletteryehbarreewithhamzaabove	ARABIC LETTER YEH BARREE WITH HAMZA ABOVE
-06D4	needsfix_arabicfullstop	ARABIC FULL STOP
-06D5	needsfix_arabicletterae	ARABIC LETTER AE
-06D6	needsfix_arabicsmallhighligaturesadwithlamwithalefmaksura	ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA
-06D7	needsfix_arabicsmallhighligatureqafwithlamwithalefmaksura	ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA
-06D8	needsfix_arabicsmallhighmeeminitialform	ARABIC SMALL HIGH MEEM INITIAL FORM
-06D9	needsfix_arabicsmallhighlamalef	ARABIC SMALL HIGH LAM ALEF
-06DA	needsfix_arabicsmallhighjeem	ARABIC SMALL HIGH JEEM
-06DB	needsfix_arabicsmallhighthreedots	ARABIC SMALL HIGH THREE DOTS
-06DC	needsfix_arabicsmallhighseen	ARABIC SMALL HIGH SEEN
-06DD	needsfix_arabicendofayah	ARABIC END OF AYAH
-06DE	needsfix_arabicstartofrubelhizb	ARABIC START OF RUB EL HIZB
-06DF	needsfix_arabicsmallhighroundedzero	ARABIC SMALL HIGH ROUNDED ZERO
-06E0	needsfix_arabicsmallhighuprightrectangularzero	ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO
-06E1	needsfix_arabicsmallhighdotlessheadofkhah	ARABIC SMALL HIGH DOTLESS HEAD OF KHAH
-06E2	needsfix_arabicsmallhighmeemisolatedform	ARABIC SMALL HIGH MEEM ISOLATED FORM
-06E3	needsfix_arabicsmalllowseen	ARABIC SMALL LOW SEEN
-06E4	needsfix_arabicsmallhighmadda	ARABIC SMALL HIGH MADDA
-06E5	needsfix_arabicsmallwaw	ARABIC SMALL WAW
-06E6	needsfix_arabicsmallyeh	ARABIC SMALL YEH
-06E7	needsfix_arabicsmallhighyeh	ARABIC SMALL HIGH YEH
-06E8	needsfix_arabicsmallhighnoon	ARABIC SMALL HIGH NOON
-06E9	needsfix_arabicplaceofsajdah	ARABIC PLACE OF SAJDAH
-06EA	needsfix_arabicemptycentrelowstop	ARABIC EMPTY CENTRE LOW STOP
-06EB	needsfix_arabicemptycentrehighstop	ARABIC EMPTY CENTRE HIGH STOP
-06EC	needsfix_arabicroundedhighstopwithfilledcentre	ARABIC ROUNDED HIGH STOP WITH FILLED CENTRE
-06ED	needsfix_arabicsmalllowmeem	ARABIC SMALL LOW MEEM
-06EE	needsfix_arabicletterdalwithinvertedv	ARABIC LETTER DAL WITH INVERTED V
-06EF	needsfix_arabicletterrehwithinvertedv	ARABIC LETTER REH WITH INVERTED V
-06F0	needsfix_extendedarabicindicdigitzero	EXTENDED ARABIC-INDIC DIGIT ZERO
-06F1	needsfix_extendedarabicindicdigitone	EXTENDED ARABIC-INDIC DIGIT ONE
-06F2	needsfix_extendedarabicindicdigittwo	EXTENDED ARABIC-INDIC DIGIT TWO
-06F3	needsfix_extendedarabicindicdigitthree	EXTENDED ARABIC-INDIC DIGIT THREE
-06F4	needsfix_extendedarabicindicdigitfour	EXTENDED ARABIC-INDIC DIGIT FOUR
-06F5	needsfix_extendedarabicindicdigitfive	EXTENDED ARABIC-INDIC DIGIT FIVE
-06F6	needsfix_extendedarabicindicdigitsix	EXTENDED ARABIC-INDIC DIGIT SIX
-06F7	needsfix_extendedarabicindicdigitseven	EXTENDED ARABIC-INDIC DIGIT SEVEN
-06F8	needsfix_extendedarabicindicdigiteight	EXTENDED ARABIC-INDIC DIGIT EIGHT
-06F9	needsfix_extendedarabicindicdigitnine	EXTENDED ARABIC-INDIC DIGIT NINE
-06FA	needsfix_arabiclettersheenwithdotbelow	ARABIC LETTER SHEEN WITH DOT BELOW
-06FB	needsfix_arabicletterdadwithdotbelow	ARABIC LETTER DAD WITH DOT BELOW
-06FC	needsfix_arabicletterghainwithdotbelow	ARABIC LETTER GHAIN WITH DOT BELOW
-06FD	needsfix_arabicsignsindhiampersand	ARABIC SIGN SINDHI AMPERSAND
-06FE	needsfix_arabicsignsindhipostpositionmen	ARABIC SIGN SINDHI POSTPOSITION MEN
-06FF	needsfix_arabicletterhehwithinvertedv	ARABIC LETTER HEH WITH INVERTED V
+0600	ar-numbersign	ARABIC NUMBER SIGN
+0601	ar-Sanah	ARABIC SIGN SANAH
+0602	ar-footnote	ARABIC FOOTNOTE MARKER
+0603	ar-Safha	ARABIC SIGN SAFHA
+0606	ar-cuberoot	ARABIC-INDIC CUBE ROOT
+0607	ar-fourthroot	ARABIC-INDIC FOURTH ROOT
+0608	ar-ray	ARABIC RAY
+0609	ar-permille	ARABIC-INDIC PER MILLE SIGN
+060A	ar-perthousand	ARABIC-INDIC PER TEN THOUSAND SIGN
+060B	ar-afghani	AFGHANI SIGN
+060C	ar-comma	ARABIC COMMA
+060D	ar-date	ARABIC DATE SEPARATOR
+060E	ar-poeticverse	ARABIC POETIC VERSE SIGN
+060F	ar-misra	ARABIC SIGN MISRA
+0610	ar-HonSAW	ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM
+0611	ar-HonAA	ARABIC SIGN ALAYHE ASSALLAM
+0612	ar-HonRA	ARABIC SIGN RAHMATULLAH ALAYHE
+0613	ar-aHonRAA	ARABIC SIGN RADI ALLAHOU ANHU
+0614	ar-takhallus	ARABIC SIGN TAKHALLUS
+0615	ar-tahabove	ARABIC SMALL HIGH TAH
+0616	ar-alef_lam_yehabove	ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH
+0617	ar-zainabove	ARABIC SMALL HIGH ZAIN
+0618	ar-fathasmall	ARABIC SMALL FATHA
+0619	ar-dammasmall	ARABIC SMALL DAMMA
+061A	ar-kasrasmall	ARABIC SMALL KASRA
+061B	ar-semicolon	ARABIC SEMICOLON
+061E	ar-tripledot	ARABIC TRIPLE DOT PUNCTUATION MARK
+061F	ar-question	ARABIC QUESTION MARK
+0621	ar-hamza	ARABIC LETTER HAMZA
+0622	ar-alefmadda	ARABIC LETTER ALEF WITH MADDA ABOVE
+0623	ar-alefhamza	ARABIC LETTER ALEF WITH HAMZA ABOVE
+0624	ar-wawhamza	ARABIC LETTER WAW WITH HAMZA ABOVE
+0625	ar-alefhamzabelow	ARABIC LETTER ALEF WITH HAMZA BELOW
+0626	ar-yehhamza	ARABIC LETTER YEH WITH HAMZA ABOVE
+0627	ar-alef	ARABIC LETTER ALEF
+0628	ar-beh	ARABIC LETTER BEH
+0629	ar-tehmarbuta	ARABIC LETTER TEH MARBUTA
+062A	ar-teh	ARABIC LETTER TEH
+062B	ar-theh	ARABIC LETTER THEH
+062C	ar-jeem	ARABIC LETTER JEEM
+062D	ar-hah	ARABIC LETTER HAH
+062E	ar-khah	ARABIC LETTER KHAH
+062F	ar-dal	ARABIC LETTER DAL
+0630	ar-thal	ARABIC LETTER THAL
+0631	ar-reh	ARABIC LETTER REH
+0632	ar-zain	ARABIC LETTER ZAIN
+0633	ar-seen	ARABIC LETTER SEEN
+0634	ar-sheen	ARABIC LETTER SHEEN
+0635	ar-sad	ARABIC LETTER SAD
+0636	ar-dad	ARABIC LETTER DAD
+0637	ar-tah	ARABIC LETTER TAH
+0638	ar-zah	ARABIC LETTER ZAH
+0639	ar-ain	ARABIC LETTER AIN
+063A	ar-ghain	ARABIC LETTER GHAIN
+063B	ar-kehehtwoabove	ARABIC LETTER KEHEH WITH TWO DOTS ABOVE
+063C	ar-kehehthreebelow	ARABIC LETTER KEHEH WITH THREE DOTS BELOW
+063D	ar-yehfarsiinvertedV	ARABIC LETTER FARSI YEH WITH INVERTED V
+063E	ar-yehfarsitwoabove	ARABIC LETTER FARSI YEH WITH TWO DOTS ABOVE
+063F	ar-yehfarsithreeabove	ARABIC LETTER FARSI YEH WITH THREE DOTS ABOVE
+0640	ar-kashida	ARABIC TATWEEL
+0641	ar-feh	ARABIC LETTER FEH
+0642	ar-qaf	ARABIC LETTER QAF
+0643	ar-kaf	ARABIC LETTER KAF
+0644	ar-lam	ARABIC LETTER LAM
+0645	ar-meem	ARABIC LETTER MEEM
+0646	ar-noon	ARABIC LETTER NOON
+0647	ar-heh	ARABIC LETTER HEH
+0648	ar-waw	ARABIC LETTER WAW
+0649	ar-alefmaksura	ARABIC LETTER ALEF MAKSURA
+064A	ar-yeh	ARABIC LETTER YEH
+064B	ar-fathatan	ARABIC FATHATAN
+064C	ar-dammatan	ARABIC DAMMATAN
+064D	ar-kasratan	ARABIC KASRATAN
+064E	ar-fatha	ARABIC FATHA
+064F	ar-damma	ARABIC DAMMA
+0650	ar-kasra	ARABIC KASRA
+0651	ar-shadda	ARABIC SHADDA
+0652	ar-sukun	ARABIC SUKUN
+0653	ar-madda	ARABIC MADDAH ABOVE
+0654	ar-hamzaabove	ARABIC HAMZA ABOVE
+0655	ar-hamzabelow	ARABIC HAMZA BELOW
+0656	ar-subscriptalef	ARABIC SUBSCRIPT ALEF
+0657	ar-inverteddamma	ARABIC INVERTED DAMMA
+0658	ar-marknoonghunna	ARABIC MARK NOON GHUNNA
+0659	ar-zwarakay	ARABIC ZWARAKAY
+065A	ar-vowelVabove	ARABIC VOWEL SIGN SMALL V ABOVE
+065B	ar-vowelinvertedVabove	ARABIC VOWEL SIGN INVERTED SMALL V ABOVE
+065C	ar-voweldotbelow	ARABIC VOWEL SIGN DOT BELOW
+065D	ar-dammareversed	ARABIC REVERSED DAMMA
+065E	ar-fathadotted	ARABIC FATHA WITH TWO DOTS
+0660	ar-zero	ARABIC-INDIC DIGIT ZERO
+0661	ar-one	ARABIC-INDIC DIGIT ONE
+0662	ar-two	ARABIC-INDIC DIGIT TWO
+0663	ar-three	ARABIC-INDIC DIGIT THREE
+0664	ar-four	ARABIC-INDIC DIGIT FOUR
+0665	ar-five	ARABIC-INDIC DIGIT FIVE
+0666	ar-six	ARABIC-INDIC DIGIT SIX
+0667	ar-seven	ARABIC-INDIC DIGIT SEVEN
+0668	ar-eight	ARABIC-INDIC DIGIT EIGHT
+0669	ar-nine	ARABIC-INDIC DIGIT NINE
+066A	ar-percent	ARABIC PERCENT SIGN
+066B	ar-decimal	ARABIC DECIMAL SEPARATOR
+066C	ar-thousands	ARABIC THOUSANDS SEPARATOR
+066D	ar-fivepointedstar	ARABIC FIVE POINTED STAR
+066E	ar-behdotless	ARABIC LETTER DOTLESS BEH
+066F	ar-qafdotless	ARABIC LETTER DOTLESS QAF
+0670	ar-alefabove	ARABIC LETTER SUPERSCRIPT ALEF
+0671	ar-alefwasla	ARABIC LETTER ALEF WASLA
+0672	ar-alefwavyhamza	ARABIC LETTER ALEF WITH WAVY HAMZA ABOVE
+0673	ar-alefwavyhamzabelow	ARABIC LETTER ALEF WITH WAVY HAMZA BELOW
+0674	ar-highhamza	ARABIC LETTER HIGH HAMZA
+0675	ar-alefhighhamza	ARABIC LETTER HIGH HAMZA ALEF
+0676	ar-wawhighhamza	ARABIC LETTER HIGH HAMZA WAW
+0677	ar-uhamza	ARABIC LETTER U WITH HAMZA ABOVE
+0678	ar-yehhighhamza	ARABIC LETTER HIGH HAMZA YEH
+0679	ar-tteh	ARABIC LETTER TTEH
+067A	ar-tteheh	ARABIC LETTER TTEHEH
+067B	ar-beeh	ARABIC LETTER BEEH
+067C	ar-tehring	ARABIC LETTER TEH WITH RING
+067D	ar-tehdownthreeabove	ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS
+067E	ar-peh	ARABIC LETTER PEH
+067F	ar-teheh	ARABIC LETTER TEHEH
+0680	ar-beheh	ARABIC LETTER BEHEH
+0681	ar-hahhamza	ARABIC LETTER HAH WITH HAMZA ABOVE
+0682	ar-hahtwodotsvertical	ARABIC LETTER HAH WITH TWO DOTS VERTICAL ABOVE
+0683	ar-nyeh	ARABIC LETTER NYEH
+0684	ar-dyeh	ARABIC LETTER DYEH
+0685	ar-hahthreeabove	ARABIC LETTER HAH WITH THREE DOTS ABOVE
+0686	ar-tcheh	ARABIC LETTER TCHEH
+0687	ar-tcheheh	ARABIC LETTER TCHEHEH
+0688	ar-ddal	ARABIC LETTER DDAL
+0689	ar-dalring	ARABIC LETTER DAL WITH RING
+068A	ar-daldotbelow	ARABIC LETTER DAL WITH DOT BELOW
+068B	ar-daldotbelowtahsmall	ARABIC LETTER DAL WITH DOT BELOW AND SMALL TAH
+068C	ar-dahal	ARABIC LETTER DAHAL
+068D	ar-ddahal	ARABIC LETTER DDAHAL
+068E	ar-dul	ARABIC LETTER DUL
+068F	ar-daldownthreeabove	ARABIC LETTER DAL WITH THREE DOTS ABOVE DOWNWARDS
+0690	ar-dalfourdotsabove	ARABIC LETTER DAL WITH FOUR DOTS ABOVE
+0691	ar-rreh	ARABIC LETTER RREH
+0692	ar-rehVabove	ARABIC LETTER REH WITH SMALL V
+0693	ar-rehring	ARABIC LETTER REH WITH RING
+0694	ar-rehdotbelow	ARABIC LETTER REH WITH DOT BELOW
+0695	ar-rehVbelow	ARABIC LETTER REH WITH SMALL V BELOW
+0696	ar-rehdotbelowdotabove	ARABIC LETTER REH WITH DOT BELOW AND DOT ABOVE
+0697	ar-rehtwoabove	ARABIC LETTER REH WITH TWO DOTS ABOVE
+0698	ar-jeh	ARABIC LETTER JEH
+0699	ar-rehfourdotsabove	ARABIC LETTER REH WITH FOUR DOTS ABOVE
+069A	ar-seendotbelowdotabove	ARABIC LETTER SEEN WITH DOT BELOW AND DOT ABOVE
+069B	ar-seenthreebelow	ARABIC LETTER SEEN WITH THREE DOTS BELOW
+069C	ar-seenthreebelowthreeabove	ARABIC LETTER SEEN WITH THREE DOTS BELOW AND THREE DOTS ABOVE
+069D	ar-sadtwobelow	ARABIC LETTER SAD WITH TWO DOTS BELOW
+069E	ar-sadthreeabove	ARABIC LETTER SAD WITH THREE DOTS ABOVE
+069F	ar-tahthreeabove	ARABIC LETTER TAH WITH THREE DOTS ABOVE
+06A0	ar-ainthreeabove	ARABIC LETTER AIN WITH THREE DOTS ABOVE
+06A1	ar-fehdotless	ARABIC LETTER DOTLESS FEH
+06A2	ar-fehdotbelowright	ARABIC LETTER FEH WITH DOT MOVED BELOW
+06A3	ar-fehdotbelow	ARABIC LETTER FEH WITH DOT BELOW
+06A4	ar-veh	ARABIC LETTER VEH
+06A5	ar-fehthreebelow	ARABIC LETTER FEH WITH THREE DOTS BELOW
+06A6	ar-peheh	ARABIC LETTER PEHEH
+06A7	ar-qafdotabove	ARABIC LETTER QAF WITH DOT ABOVE
+06A8	ar-qafthreeabove	ARABIC LETTER QAF WITH THREE DOTS ABOVE
+06A9	ar-keheh	ARABIC LETTER KEHEH
+06AA	ar-kafswash	ARABIC LETTER SWASH KAF
+06AB	ar-kafring	ARABIC LETTER KAF WITH RING
+06AC	ar-kafdotabove	ARABIC LETTER KAF WITH DOT ABOVE
+06AD	ar-ng	ARABIC LETTER NG
+06AE	ar-kafthreebelow	ARABIC LETTER KAF WITH THREE DOTS BELOW
+06AF	ar-gaf	ARABIC LETTER GAF
+06B0	ar-gafring	ARABIC LETTER GAF WITH RING
+06B1	ar-ngoeh	ARABIC LETTER NGOEH
+06B2	ar-gaftwobelow	ARABIC LETTER GAF WITH TWO DOTS BELOW
+06B3	ar-gueh	ARABIC LETTER GUEH
+06B4	ar-gafthreeabove	ARABIC LETTER GAF WITH THREE DOTS ABOVE
+06B5	ar-lamVabove	ARABIC LETTER LAM WITH SMALL V
+06B6	ar-lamdotabove	ARABIC LETTER LAM WITH DOT ABOVE
+06B7	ar-lamthreeabove	ARABIC LETTER LAM WITH THREE DOTS ABOVE
+06B8	ar-lamthreebelow	ARABIC LETTER LAM WITH THREE DOTS BELOW
+06B9	ar-noondotbelow	ARABIC LETTER NOON WITH DOT BELOW
+06BA	ar-noonghunna	ARABIC LETTER NOON GHUNNA
+06BB	ar-rnoon	ARABIC LETTER RNOON
+06BC	ar-noonring	ARABIC LETTER NOON WITH RING
+06BD	ar-noonthreeabove	ARABIC LETTER NOON WITH THREE DOTS ABOVE
+06BE	ar-hehdoachashmee	ARABIC LETTER HEH DOACHASHMEE
+06BF	ar-tchehdotabove	ARABIC LETTER TCHEH WITH DOT ABOVE
+06C0	ar-hehyeh	ARABIC LETTER HEH WITH YEH ABOVE
+06C1	ar-hehgoal	ARABIC LETTER HEH GOAL
+06C2	ar-hehgoalhamza	ARABIC LETTER HEH GOAL WITH HAMZA ABOVE
+06C3	ar-tehmarbutagoal	ARABIC LETTER TEH MARBUTA GOAL
+06C4	ar-wawring	ARABIC LETTER WAW WITH RING
+06C5	ar-oekirghiz	ARABIC LETTER KIRGHIZ OE
+06C6	ar-oe	ARABIC LETTER OE
+06C7	ar-u	ARABIC LETTER U
+06C8	ar-yu	ARABIC LETTER YU
+06C9	ar-yukirghiz	ARABIC LETTER KIRGHIZ YU
+06CA	ar-wawtwoabove	ARABIC LETTER WAW WITH TWO DOTS ABOVE
+06CB	ar-ve	ARABIC LETTER VE
+06CC	ar-yehfarsi	ARABIC LETTER FARSI YEH
+06CD	ar-yehtail	ARABIC LETTER YEH WITH TAIL
+06CE	ar-yehVabove	ARABIC LETTER YEH WITH SMALL V
+06CF	ar-wawdotabove	ARABIC LETTER WAW WITH DOT ABOVE
+06D0	ar-e	ARABIC LETTER E
+06D1	ar-yehthreebelow	ARABIC LETTER YEH WITH THREE DOTS BELOW
+06D2	ar-yehbarree	ARABIC LETTER YEH BARREE
+06D3	ar-yehbarreehamza	ARABIC LETTER YEH BARREE WITH HAMZA ABOVE
+06D4	ar-period	ARABIC FULL STOP
+06D5	ar-ae	ARABIC LETTER AE
+06D6	ar-sad_lam_alefmaksuraabove	ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA
+06D7	ar-qaf_lam_alefmaksuraabove	ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA
+06D8	ar-meemabove.init	ARABIC SMALL HIGH MEEM INITIAL FORM
+06D9	ar-lamalefabove	ARABIC SMALL HIGH LAM ALEF
+06DA	ar-jeemabove	ARABIC SMALL HIGH JEEM
+06DB	ar-threeaboveabove	ARABIC SMALL HIGH THREE DOTS
+06DC	ar-seenabove	ARABIC SMALL HIGH SEEN
+06DD	ar-Ayahend	ARABIC END OF AYAH
+06DE	ar-RubElHizbstart	ARABIC START OF RUB EL HIZB
+06DF	ar-roundedzeroabove	ARABIC SMALL HIGH ROUNDED ZERO
+06E0	ar-zerosquareabove	ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO
+06E1	ar-khahdotlessabove	ARABIC SMALL HIGH DOTLESS HEAD OF KHAH
+06E2	ar-meemabove.isol	ARABIC SMALL HIGH MEEM ISOLATED FORM
+06E3	ar-seenlow	ARABIC SMALL LOW SEEN
+06E4	ar-maddaabove	ARABIC SMALL HIGH MADDA
+06E5	ar-wawsmall	ARABIC SMALL WAW
+06E6	ar-yehsmall	ARABIC SMALL YEH
+06E7	ar-yehabove	ARABIC SMALL HIGH YEH
+06E8	ar-noonabove	ARABIC SMALL HIGH NOON
+06E9	ar-Sajdah	ARABIC PLACE OF SAJDAH
+06EA	ar-stopbelow	ARABIC EMPTY CENTRE LOW STOP
+06EB	ar-stopabove	ARABIC EMPTY CENTRE HIGH STOP
+06EC	ar-filledstopabove	ARABIC ROUNDED HIGH STOP WITH FILLED CENTRE
+06ED	ar-meembelow	ARABIC SMALL LOW MEEM
+06EE	ar-dalinvertedV	ARABIC LETTER DAL WITH INVERTED V
+06EF	ar-rehinvertedV	ARABIC LETTER REH WITH INVERTED V
+06F0	ar-zerofar	EXTENDED ARABIC-INDIC DIGIT ZERO
+06F1	ar-onefar	EXTENDED ARABIC-INDIC DIGIT ONE
+06F2	ar-twofar	EXTENDED ARABIC-INDIC DIGIT TWO
+06F3	ar-threefar	EXTENDED ARABIC-INDIC DIGIT THREE
+06F4	ar-fourfar	EXTENDED ARABIC-INDIC DIGIT FOUR
+06F5	ar-fivefar	EXTENDED ARABIC-INDIC DIGIT FIVE
+06F6	ar-sixfar	EXTENDED ARABIC-INDIC DIGIT SIX
+06F7	ar-sevenfar	EXTENDED ARABIC-INDIC DIGIT SEVEN
+06F8	ar-eightfar	EXTENDED ARABIC-INDIC DIGIT EIGHT
+06F9	ar-ninefar	EXTENDED ARABIC-INDIC DIGIT NINE
+06FA	ar-sheendotbelow	ARABIC LETTER SHEEN WITH DOT BELOW
+06FB	ar-daddotbelow	ARABIC LETTER DAD WITH DOT BELOW
+06FC	ar-ghaindotbelow	ARABIC LETTER GHAIN WITH DOT BELOW
+06FD	ar-ampersandSindhi	ARABIC SIGN SINDHI AMPERSAND
+06FE	ar-menpostSindhi	ARABIC SIGN SINDHI POSTPOSITION MEN
+06FF	ar-hehinvertedV	ARABIC LETTER HEH WITH INVERTED V

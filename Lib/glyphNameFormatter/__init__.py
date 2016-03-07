@@ -63,10 +63,10 @@ class GlyphName(GlyphNameProcessor):
             self.uniLetter = None
         self.uniRangeName = getRangeName(self.uniNumber)
 
-    # def hasName(self):
-    #     if not self.uniName:
-    #         return False
-    #     return True
+    def hasName(self):
+        if not self.uniName:
+            return False
+        return True
 
     # def hashWords(self):
     #     parts = {}
@@ -166,6 +166,11 @@ class GlyphName(GlyphNameProcessor):
             processor(self)
             # make the final name
             self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "".join(self.finalParts)
+        if self.uniNameProcessed in scriptConflictNames:
+            # the final name has a duplicate in another script
+            # take disambiguation action
+            self.mustAddScript = True
+
 
     def edit(self, pattern, *suffix):
         # look for pattern
@@ -220,6 +225,7 @@ class GlyphName(GlyphNameProcessor):
 
     def condense(self, part, combiner=""):
         # remove spaces, remove hyphens, change to lowercase
+        if part is None: return
         editPart = part.replace(" ", combiner)
         editPart = editPart.replace("-", "")
         editPart = editPart.lower()

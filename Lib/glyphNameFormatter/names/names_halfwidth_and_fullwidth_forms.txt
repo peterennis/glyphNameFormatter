@@ -1,226 +1,226 @@
 # Halfwidth and Fullwidth Forms FF00 - FFEF
-FF01	needsfix_fullwidthexclamationmark	FULLWIDTH EXCLAMATION MARK
-FF02	needsfix_fullwidthquotationmark	FULLWIDTH QUOTATION MARK
-FF03	needsfix_fullwidthnumbersign	FULLWIDTH NUMBER SIGN
-FF04	needsfix_fullwidthdollarsign	FULLWIDTH DOLLAR SIGN
-FF05	needsfix_fullwidthpercentsign	FULLWIDTH PERCENT SIGN
-FF06	needsfix_fullwidthampersand	FULLWIDTH AMPERSAND
-FF07	needsfix_fullwidthapostrophe	FULLWIDTH APOSTROPHE
-FF08	needsfix_fullwidthleftparenthesis	FULLWIDTH LEFT PARENTHESIS
-FF09	needsfix_fullwidthrightparenthesis	FULLWIDTH RIGHT PARENTHESIS
-FF0A	needsfix_fullwidthasterisk	FULLWIDTH ASTERISK
-FF0B	needsfix_fullwidthplussign	FULLWIDTH PLUS SIGN
-FF0C	needsfix_fullwidthcomma	FULLWIDTH COMMA
-FF0D	needsfix_fullwidthhyphenminus	FULLWIDTH HYPHEN-MINUS
-FF0E	needsfix_fullwidthfullstop	FULLWIDTH FULL STOP
-FF0F	needsfix_fullwidthsolidus	FULLWIDTH SOLIDUS
-FF10	needsfix_fullwidthdigitzero	FULLWIDTH DIGIT ZERO
-FF11	needsfix_fullwidthdigitone	FULLWIDTH DIGIT ONE
-FF12	needsfix_fullwidthdigittwo	FULLWIDTH DIGIT TWO
-FF13	needsfix_fullwidthdigitthree	FULLWIDTH DIGIT THREE
-FF14	needsfix_fullwidthdigitfour	FULLWIDTH DIGIT FOUR
-FF15	needsfix_fullwidthdigitfive	FULLWIDTH DIGIT FIVE
-FF16	needsfix_fullwidthdigitsix	FULLWIDTH DIGIT SIX
-FF17	needsfix_fullwidthdigitseven	FULLWIDTH DIGIT SEVEN
-FF18	needsfix_fullwidthdigiteight	FULLWIDTH DIGIT EIGHT
-FF19	needsfix_fullwidthdigitnine	FULLWIDTH DIGIT NINE
-FF1A	needsfix_fullwidthcolon	FULLWIDTH COLON
-FF1B	needsfix_fullwidthsemicolon	FULLWIDTH SEMICOLON
-FF1C	needsfix_fullwidthlessthansign	FULLWIDTH LESS-THAN SIGN
-FF1D	needsfix_fullwidthequalssign	FULLWIDTH EQUALS SIGN
-FF1E	needsfix_fullwidthgreaterthansign	FULLWIDTH GREATER-THAN SIGN
-FF1F	needsfix_fullwidthquestionmark	FULLWIDTH QUESTION MARK
-FF20	needsfix_fullwidthcommercialat	FULLWIDTH COMMERCIAL AT
-FF21	needsfix_fullwidthlatincapitallettera	FULLWIDTH LATIN CAPITAL LETTER A
-FF22	needsfix_fullwidthlatincapitalletterb	FULLWIDTH LATIN CAPITAL LETTER B
-FF23	needsfix_fullwidthlatincapitalletterc	FULLWIDTH LATIN CAPITAL LETTER C
-FF24	needsfix_fullwidthlatincapitalletterd	FULLWIDTH LATIN CAPITAL LETTER D
-FF25	needsfix_fullwidthlatincapitallettere	FULLWIDTH LATIN CAPITAL LETTER E
-FF26	needsfix_fullwidthlatincapitalletterf	FULLWIDTH LATIN CAPITAL LETTER F
-FF27	needsfix_fullwidthlatincapitalletterg	FULLWIDTH LATIN CAPITAL LETTER G
-FF28	needsfix_fullwidthlatincapitalletterh	FULLWIDTH LATIN CAPITAL LETTER H
-FF29	needsfix_fullwidthlatincapitalletteri	FULLWIDTH LATIN CAPITAL LETTER I
-FF2A	needsfix_fullwidthlatincapitalletterj	FULLWIDTH LATIN CAPITAL LETTER J
-FF2B	needsfix_fullwidthlatincapitalletterk	FULLWIDTH LATIN CAPITAL LETTER K
-FF2C	needsfix_fullwidthlatincapitalletterl	FULLWIDTH LATIN CAPITAL LETTER L
-FF2D	needsfix_fullwidthlatincapitalletterm	FULLWIDTH LATIN CAPITAL LETTER M
-FF2E	needsfix_fullwidthlatincapitallettern	FULLWIDTH LATIN CAPITAL LETTER N
-FF2F	needsfix_fullwidthlatincapitallettero	FULLWIDTH LATIN CAPITAL LETTER O
-FF30	needsfix_fullwidthlatincapitalletterp	FULLWIDTH LATIN CAPITAL LETTER P
-FF31	needsfix_fullwidthlatincapitalletterq	FULLWIDTH LATIN CAPITAL LETTER Q
-FF32	needsfix_fullwidthlatincapitalletterr	FULLWIDTH LATIN CAPITAL LETTER R
-FF33	needsfix_fullwidthlatincapitalletters	FULLWIDTH LATIN CAPITAL LETTER S
-FF34	needsfix_fullwidthlatincapitallettert	FULLWIDTH LATIN CAPITAL LETTER T
-FF35	needsfix_fullwidthlatincapitalletteru	FULLWIDTH LATIN CAPITAL LETTER U
-FF36	needsfix_fullwidthlatincapitalletterv	FULLWIDTH LATIN CAPITAL LETTER V
-FF37	needsfix_fullwidthlatincapitalletterw	FULLWIDTH LATIN CAPITAL LETTER W
-FF38	needsfix_fullwidthlatincapitalletterx	FULLWIDTH LATIN CAPITAL LETTER X
-FF39	needsfix_fullwidthlatincapitallettery	FULLWIDTH LATIN CAPITAL LETTER Y
-FF3A	needsfix_fullwidthlatincapitalletterz	FULLWIDTH LATIN CAPITAL LETTER Z
-FF3B	needsfix_fullwidthleftsquarebracket	FULLWIDTH LEFT SQUARE BRACKET
-FF3C	needsfix_fullwidthreversesolidus	FULLWIDTH REVERSE SOLIDUS
-FF3D	needsfix_fullwidthrightsquarebracket	FULLWIDTH RIGHT SQUARE BRACKET
-FF3E	needsfix_fullwidthcircumflexaccent	FULLWIDTH CIRCUMFLEX ACCENT
-FF3F	needsfix_fullwidthlowline	FULLWIDTH LOW LINE
-FF40	needsfix_fullwidthgraveaccent	FULLWIDTH GRAVE ACCENT
-FF41	needsfix_fullwidthlatinsmalllettera	FULLWIDTH LATIN SMALL LETTER A
-FF42	needsfix_fullwidthlatinsmallletterb	FULLWIDTH LATIN SMALL LETTER B
-FF43	needsfix_fullwidthlatinsmallletterc	FULLWIDTH LATIN SMALL LETTER C
-FF44	needsfix_fullwidthlatinsmallletterd	FULLWIDTH LATIN SMALL LETTER D
-FF45	needsfix_fullwidthlatinsmalllettere	FULLWIDTH LATIN SMALL LETTER E
-FF46	needsfix_fullwidthlatinsmallletterf	FULLWIDTH LATIN SMALL LETTER F
-FF47	needsfix_fullwidthlatinsmallletterg	FULLWIDTH LATIN SMALL LETTER G
-FF48	needsfix_fullwidthlatinsmallletterh	FULLWIDTH LATIN SMALL LETTER H
-FF49	needsfix_fullwidthlatinsmallletteri	FULLWIDTH LATIN SMALL LETTER I
-FF4A	needsfix_fullwidthlatinsmallletterj	FULLWIDTH LATIN SMALL LETTER J
-FF4B	needsfix_fullwidthlatinsmallletterk	FULLWIDTH LATIN SMALL LETTER K
-FF4C	needsfix_fullwidthlatinsmallletterl	FULLWIDTH LATIN SMALL LETTER L
-FF4D	needsfix_fullwidthlatinsmallletterm	FULLWIDTH LATIN SMALL LETTER M
-FF4E	needsfix_fullwidthlatinsmalllettern	FULLWIDTH LATIN SMALL LETTER N
-FF4F	needsfix_fullwidthlatinsmalllettero	FULLWIDTH LATIN SMALL LETTER O
-FF50	needsfix_fullwidthlatinsmallletterp	FULLWIDTH LATIN SMALL LETTER P
-FF51	needsfix_fullwidthlatinsmallletterq	FULLWIDTH LATIN SMALL LETTER Q
-FF52	needsfix_fullwidthlatinsmallletterr	FULLWIDTH LATIN SMALL LETTER R
-FF53	needsfix_fullwidthlatinsmallletters	FULLWIDTH LATIN SMALL LETTER S
-FF54	needsfix_fullwidthlatinsmalllettert	FULLWIDTH LATIN SMALL LETTER T
-FF55	needsfix_fullwidthlatinsmallletteru	FULLWIDTH LATIN SMALL LETTER U
-FF56	needsfix_fullwidthlatinsmallletterv	FULLWIDTH LATIN SMALL LETTER V
-FF57	needsfix_fullwidthlatinsmallletterw	FULLWIDTH LATIN SMALL LETTER W
-FF58	needsfix_fullwidthlatinsmallletterx	FULLWIDTH LATIN SMALL LETTER X
-FF59	needsfix_fullwidthlatinsmalllettery	FULLWIDTH LATIN SMALL LETTER Y
-FF5A	needsfix_fullwidthlatinsmallletterz	FULLWIDTH LATIN SMALL LETTER Z
-FF5B	needsfix_fullwidthleftcurlybracket	FULLWIDTH LEFT CURLY BRACKET
-FF5C	needsfix_fullwidthverticalline	FULLWIDTH VERTICAL LINE
-FF5D	needsfix_fullwidthrightcurlybracket	FULLWIDTH RIGHT CURLY BRACKET
-FF5E	needsfix_fullwidthtilde	FULLWIDTH TILDE
-FF5F	needsfix_fullwidthleftwhiteparenthesis	FULLWIDTH LEFT WHITE PARENTHESIS
-FF60	needsfix_fullwidthrightwhiteparenthesis	FULLWIDTH RIGHT WHITE PARENTHESIS
-FF61	needsfix_halfwidthideographicfullstop	HALFWIDTH IDEOGRAPHIC FULL STOP
-FF62	needsfix_halfwidthleftcornerbracket	HALFWIDTH LEFT CORNER BRACKET
-FF63	needsfix_halfwidthrightcornerbracket	HALFWIDTH RIGHT CORNER BRACKET
-FF64	needsfix_halfwidthideographiccomma	HALFWIDTH IDEOGRAPHIC COMMA
-FF65	needsfix_halfwidthkatakanamiddledot	HALFWIDTH KATAKANA MIDDLE DOT
-FF66	needsfix_halfwidthkatakanaletterwo	HALFWIDTH KATAKANA LETTER WO
-FF67	needsfix_halfwidthkatakanalettersmalla	HALFWIDTH KATAKANA LETTER SMALL A
-FF68	needsfix_halfwidthkatakanalettersmalli	HALFWIDTH KATAKANA LETTER SMALL I
-FF69	needsfix_halfwidthkatakanalettersmallu	HALFWIDTH KATAKANA LETTER SMALL U
-FF6A	needsfix_halfwidthkatakanalettersmalle	HALFWIDTH KATAKANA LETTER SMALL E
-FF6B	needsfix_halfwidthkatakanalettersmallo	HALFWIDTH KATAKANA LETTER SMALL O
-FF6C	needsfix_halfwidthkatakanalettersmallya	HALFWIDTH KATAKANA LETTER SMALL YA
-FF6D	needsfix_halfwidthkatakanalettersmallyu	HALFWIDTH KATAKANA LETTER SMALL YU
-FF6E	needsfix_halfwidthkatakanalettersmallyo	HALFWIDTH KATAKANA LETTER SMALL YO
-FF6F	needsfix_halfwidthkatakanalettersmalltu	HALFWIDTH KATAKANA LETTER SMALL TU
-FF70	needsfix_halfwidthkatakanahiraganaprolongedsoundmark	HALFWIDTH KATAKANA-HIRAGANA PROLONGED SOUND MARK
-FF71	needsfix_halfwidthkatakanalettera	HALFWIDTH KATAKANA LETTER A
-FF72	needsfix_halfwidthkatakanaletteri	HALFWIDTH KATAKANA LETTER I
-FF73	needsfix_halfwidthkatakanaletteru	HALFWIDTH KATAKANA LETTER U
-FF74	needsfix_halfwidthkatakanalettere	HALFWIDTH KATAKANA LETTER E
-FF75	needsfix_halfwidthkatakanalettero	HALFWIDTH KATAKANA LETTER O
-FF76	needsfix_halfwidthkatakanaletterka	HALFWIDTH KATAKANA LETTER KA
-FF77	needsfix_halfwidthkatakanaletterki	HALFWIDTH KATAKANA LETTER KI
-FF78	needsfix_halfwidthkatakanaletterku	HALFWIDTH KATAKANA LETTER KU
-FF79	needsfix_halfwidthkatakanaletterke	HALFWIDTH KATAKANA LETTER KE
-FF7A	needsfix_halfwidthkatakanaletterko	HALFWIDTH KATAKANA LETTER KO
-FF7B	needsfix_halfwidthkatakanalettersa	HALFWIDTH KATAKANA LETTER SA
-FF7C	needsfix_halfwidthkatakanalettersi	HALFWIDTH KATAKANA LETTER SI
-FF7D	needsfix_halfwidthkatakanalettersu	HALFWIDTH KATAKANA LETTER SU
-FF7E	needsfix_halfwidthkatakanaletterse	HALFWIDTH KATAKANA LETTER SE
-FF7F	needsfix_halfwidthkatakanaletterso	HALFWIDTH KATAKANA LETTER SO
-FF80	needsfix_halfwidthkatakanaletterta	HALFWIDTH KATAKANA LETTER TA
-FF81	needsfix_halfwidthkatakanaletterti	HALFWIDTH KATAKANA LETTER TI
-FF82	needsfix_halfwidthkatakanalettertu	HALFWIDTH KATAKANA LETTER TU
-FF83	needsfix_halfwidthkatakanaletterte	HALFWIDTH KATAKANA LETTER TE
-FF84	needsfix_halfwidthkatakanaletterto	HALFWIDTH KATAKANA LETTER TO
-FF85	needsfix_halfwidthkatakanaletterna	HALFWIDTH KATAKANA LETTER NA
-FF86	needsfix_halfwidthkatakanaletterni	HALFWIDTH KATAKANA LETTER NI
-FF87	needsfix_halfwidthkatakanaletternu	HALFWIDTH KATAKANA LETTER NU
-FF88	needsfix_halfwidthkatakanaletterne	HALFWIDTH KATAKANA LETTER NE
-FF89	needsfix_halfwidthkatakanaletterno	HALFWIDTH KATAKANA LETTER NO
-FF8A	needsfix_halfwidthkatakanaletterha	HALFWIDTH KATAKANA LETTER HA
-FF8B	needsfix_halfwidthkatakanaletterhi	HALFWIDTH KATAKANA LETTER HI
-FF8C	needsfix_halfwidthkatakanaletterhu	HALFWIDTH KATAKANA LETTER HU
-FF8D	needsfix_halfwidthkatakanaletterhe	HALFWIDTH KATAKANA LETTER HE
-FF8E	needsfix_halfwidthkatakanaletterho	HALFWIDTH KATAKANA LETTER HO
-FF8F	needsfix_halfwidthkatakanaletterma	HALFWIDTH KATAKANA LETTER MA
-FF90	needsfix_halfwidthkatakanalettermi	HALFWIDTH KATAKANA LETTER MI
-FF91	needsfix_halfwidthkatakanalettermu	HALFWIDTH KATAKANA LETTER MU
-FF92	needsfix_halfwidthkatakanaletterme	HALFWIDTH KATAKANA LETTER ME
-FF93	needsfix_halfwidthkatakanalettermo	HALFWIDTH KATAKANA LETTER MO
-FF94	needsfix_halfwidthkatakanaletterya	HALFWIDTH KATAKANA LETTER YA
-FF95	needsfix_halfwidthkatakanaletteryu	HALFWIDTH KATAKANA LETTER YU
-FF96	needsfix_halfwidthkatakanaletteryo	HALFWIDTH KATAKANA LETTER YO
-FF97	needsfix_halfwidthkatakanaletterra	HALFWIDTH KATAKANA LETTER RA
-FF98	needsfix_halfwidthkatakanaletterri	HALFWIDTH KATAKANA LETTER RI
-FF99	needsfix_halfwidthkatakanaletterru	HALFWIDTH KATAKANA LETTER RU
-FF9A	needsfix_halfwidthkatakanaletterre	HALFWIDTH KATAKANA LETTER RE
-FF9B	needsfix_halfwidthkatakanaletterro	HALFWIDTH KATAKANA LETTER RO
-FF9C	needsfix_halfwidthkatakanaletterwa	HALFWIDTH KATAKANA LETTER WA
-FF9D	needsfix_halfwidthkatakanalettern	HALFWIDTH KATAKANA LETTER N
-FF9E	needsfix_halfwidthkatakanavoicedsoundmark	HALFWIDTH KATAKANA VOICED SOUND MARK
-FF9F	needsfix_halfwidthkatakanasemivoicedsoundmark	HALFWIDTH KATAKANA SEMI-VOICED SOUND MARK
-FFA0	needsfix_halfwidthhangulfiller	HALFWIDTH HANGUL FILLER
-FFA1	needsfix_halfwidthhangulletterkiyeok	HALFWIDTH HANGUL LETTER KIYEOK
-FFA2	needsfix_halfwidthhangulletterssangkiyeok	HALFWIDTH HANGUL LETTER SSANGKIYEOK
-FFA3	needsfix_halfwidthhangulletterkiyeoksios	HALFWIDTH HANGUL LETTER KIYEOK-SIOS
-FFA4	needsfix_halfwidthhangulletternieun	HALFWIDTH HANGUL LETTER NIEUN
-FFA5	needsfix_halfwidthhangulletternieuncieuc	HALFWIDTH HANGUL LETTER NIEUN-CIEUC
-FFA6	needsfix_halfwidthhangulletternieunhieuh	HALFWIDTH HANGUL LETTER NIEUN-HIEUH
-FFA7	needsfix_halfwidthhangullettertikeut	HALFWIDTH HANGUL LETTER TIKEUT
-FFA8	needsfix_halfwidthhangulletterssangtikeut	HALFWIDTH HANGUL LETTER SSANGTIKEUT
-FFA9	needsfix_halfwidthhangulletterrieul	HALFWIDTH HANGUL LETTER RIEUL
-FFAA	needsfix_halfwidthhangulletterrieulkiyeok	HALFWIDTH HANGUL LETTER RIEUL-KIYEOK
-FFAB	needsfix_halfwidthhangulletterrieulmieum	HALFWIDTH HANGUL LETTER RIEUL-MIEUM
-FFAC	needsfix_halfwidthhangulletterrieulpieup	HALFWIDTH HANGUL LETTER RIEUL-PIEUP
-FFAD	needsfix_halfwidthhangulletterrieulsios	HALFWIDTH HANGUL LETTER RIEUL-SIOS
-FFAE	needsfix_halfwidthhangulletterrieulthieuth	HALFWIDTH HANGUL LETTER RIEUL-THIEUTH
-FFAF	needsfix_halfwidthhangulletterrieulphieuph	HALFWIDTH HANGUL LETTER RIEUL-PHIEUPH
-FFB0	needsfix_halfwidthhangulletterrieulhieuh	HALFWIDTH HANGUL LETTER RIEUL-HIEUH
-FFB1	needsfix_halfwidthhangullettermieum	HALFWIDTH HANGUL LETTER MIEUM
-FFB2	needsfix_halfwidthhangulletterpieup	HALFWIDTH HANGUL LETTER PIEUP
-FFB3	needsfix_halfwidthhangulletterssangpieup	HALFWIDTH HANGUL LETTER SSANGPIEUP
-FFB4	needsfix_halfwidthhangulletterpieupsios	HALFWIDTH HANGUL LETTER PIEUP-SIOS
-FFB5	needsfix_halfwidthhangullettersios	HALFWIDTH HANGUL LETTER SIOS
-FFB6	needsfix_halfwidthhangulletterssangsios	HALFWIDTH HANGUL LETTER SSANGSIOS
-FFB7	needsfix_halfwidthhangulletterieung	HALFWIDTH HANGUL LETTER IEUNG
-FFB8	needsfix_halfwidthhangullettercieuc	HALFWIDTH HANGUL LETTER CIEUC
-FFB9	needsfix_halfwidthhangulletterssangcieuc	HALFWIDTH HANGUL LETTER SSANGCIEUC
-FFBA	needsfix_halfwidthhangulletterchieuch	HALFWIDTH HANGUL LETTER CHIEUCH
-FFBB	needsfix_halfwidthhangulletterkhieukh	HALFWIDTH HANGUL LETTER KHIEUKH
-FFBC	needsfix_halfwidthhangulletterthieuth	HALFWIDTH HANGUL LETTER THIEUTH
-FFBD	needsfix_halfwidthhangulletterphieuph	HALFWIDTH HANGUL LETTER PHIEUPH
-FFBE	needsfix_halfwidthhangulletterhieuh	HALFWIDTH HANGUL LETTER HIEUH
-FFC2	needsfix_halfwidthhangullettera	HALFWIDTH HANGUL LETTER A
-FFC3	needsfix_halfwidthhangulletterae	HALFWIDTH HANGUL LETTER AE
-FFC4	needsfix_halfwidthhangulletterya	HALFWIDTH HANGUL LETTER YA
-FFC5	needsfix_halfwidthhangulletteryae	HALFWIDTH HANGUL LETTER YAE
-FFC6	needsfix_halfwidthhangullettereo	HALFWIDTH HANGUL LETTER EO
-FFC7	needsfix_halfwidthhangullettere	HALFWIDTH HANGUL LETTER E
-FFCA	needsfix_halfwidthhangulletteryeo	HALFWIDTH HANGUL LETTER YEO
-FFCB	needsfix_halfwidthhangulletterye	HALFWIDTH HANGUL LETTER YE
-FFCC	needsfix_halfwidthhangullettero	HALFWIDTH HANGUL LETTER O
-FFCD	needsfix_halfwidthhangulletterwa	HALFWIDTH HANGUL LETTER WA
-FFCE	needsfix_halfwidthhangulletterwae	HALFWIDTH HANGUL LETTER WAE
-FFCF	needsfix_halfwidthhangulletteroe	HALFWIDTH HANGUL LETTER OE
-FFD2	needsfix_halfwidthhangulletteryo	HALFWIDTH HANGUL LETTER YO
-FFD3	needsfix_halfwidthhangulletteru	HALFWIDTH HANGUL LETTER U
-FFD4	needsfix_halfwidthhangulletterweo	HALFWIDTH HANGUL LETTER WEO
-FFD5	needsfix_halfwidthhangulletterwe	HALFWIDTH HANGUL LETTER WE
-FFD6	needsfix_halfwidthhangulletterwi	HALFWIDTH HANGUL LETTER WI
-FFD7	needsfix_halfwidthhangulletteryu	HALFWIDTH HANGUL LETTER YU
-FFDA	needsfix_halfwidthhangullettereu	HALFWIDTH HANGUL LETTER EU
-FFDB	needsfix_halfwidthhangulletteryi	HALFWIDTH HANGUL LETTER YI
-FFDC	needsfix_halfwidthhangulletteri	HALFWIDTH HANGUL LETTER I
-FFE0	needsfix_fullwidthcentsign	FULLWIDTH CENT SIGN
-FFE1	needsfix_fullwidthpoundsign	FULLWIDTH POUND SIGN
-FFE2	needsfix_fullwidthnotsign	FULLWIDTH NOT SIGN
-FFE3	needsfix_fullwidthmacron	FULLWIDTH MACRON
-FFE4	needsfix_fullwidthbrokenbar	FULLWIDTH BROKEN BAR
-FFE5	needsfix_fullwidthyensign	FULLWIDTH YEN SIGN
-FFE6	needsfix_fullwidthwonsign	FULLWIDTH WON SIGN
-FFE8	needsfix_halfwidthformslightvertical	HALFWIDTH FORMS LIGHT VERTICAL
-FFE9	needsfix_halfwidthleftwardsarrow	HALFWIDTH LEFTWARDS ARROW
-FFEA	needsfix_halfwidthupwardsarrow	HALFWIDTH UPWARDS ARROW
-FFEB	needsfix_halfwidthrightwardsarrow	HALFWIDTH RIGHTWARDS ARROW
-FFEC	needsfix_halfwidthdownwardsarrow	HALFWIDTH DOWNWARDS ARROW
-FFED	needsfix_halfwidthblacksquare	HALFWIDTH BLACK SQUARE
-FFEE	needsfix_halfwidthwhitecircle	HALFWIDTH WHITE CIRCLE
+FF01	fullwidthexclamationmark	FULLWIDTH EXCLAMATION MARK
+FF02	fullwidthquotationmark	FULLWIDTH QUOTATION MARK
+FF03	fullwidthnumbersign	FULLWIDTH NUMBER SIGN
+FF04	fullwidthdollarsign	FULLWIDTH DOLLAR SIGN
+FF05	fullwidthpercentsign	FULLWIDTH PERCENT SIGN
+FF06	fullwidthampersand	FULLWIDTH AMPERSAND
+FF07	fullwidthapostrophe	FULLWIDTH APOSTROPHE
+FF08	fullwidthleftparenthesis	FULLWIDTH LEFT PARENTHESIS
+FF09	fullwidthrightparenthesis	FULLWIDTH RIGHT PARENTHESIS
+FF0A	fullwidthasterisk	FULLWIDTH ASTERISK
+FF0B	fullwidthplussign	FULLWIDTH PLUS SIGN
+FF0C	fullwidthcomma	FULLWIDTH COMMA
+FF0D	fullwidthhyphenminus	FULLWIDTH HYPHEN-MINUS
+FF0E	fullwidthfullstop	FULLWIDTH FULL STOP
+FF0F	fullwidthsolidus	FULLWIDTH SOLIDUS
+FF10	fullwidthdigitzero	FULLWIDTH DIGIT ZERO
+FF11	fullwidthdigitone	FULLWIDTH DIGIT ONE
+FF12	fullwidthdigittwo	FULLWIDTH DIGIT TWO
+FF13	fullwidthdigitthree	FULLWIDTH DIGIT THREE
+FF14	fullwidthdigitfour	FULLWIDTH DIGIT FOUR
+FF15	fullwidthdigitfive	FULLWIDTH DIGIT FIVE
+FF16	fullwidthdigitsix	FULLWIDTH DIGIT SIX
+FF17	fullwidthdigitseven	FULLWIDTH DIGIT SEVEN
+FF18	fullwidthdigiteight	FULLWIDTH DIGIT EIGHT
+FF19	fullwidthdigitnine	FULLWIDTH DIGIT NINE
+FF1A	fullwidthcolon	FULLWIDTH COLON
+FF1B	fullwidthsemicolon	FULLWIDTH SEMICOLON
+FF1C	fullwidthlessthansign	FULLWIDTH LESS-THAN SIGN
+FF1D	fullwidthequalssign	FULLWIDTH EQUALS SIGN
+FF1E	fullwidthgreaterthansign	FULLWIDTH GREATER-THAN SIGN
+FF1F	fullwidthquestionmark	FULLWIDTH QUESTION MARK
+FF20	fullwidthcommercialat	FULLWIDTH COMMERCIAL AT
+FF21	fullwidthlatincapitallettera	FULLWIDTH LATIN CAPITAL LETTER A
+FF22	fullwidthlatincapitalletterb	FULLWIDTH LATIN CAPITAL LETTER B
+FF23	fullwidthlatincapitalletterc	FULLWIDTH LATIN CAPITAL LETTER C
+FF24	fullwidthlatincapitalletterd	FULLWIDTH LATIN CAPITAL LETTER D
+FF25	fullwidthlatincapitallettere	FULLWIDTH LATIN CAPITAL LETTER E
+FF26	fullwidthlatincapitalletterf	FULLWIDTH LATIN CAPITAL LETTER F
+FF27	fullwidthlatincapitalletterg	FULLWIDTH LATIN CAPITAL LETTER G
+FF28	fullwidthlatincapitalletterh	FULLWIDTH LATIN CAPITAL LETTER H
+FF29	fullwidthlatincapitalletteri	FULLWIDTH LATIN CAPITAL LETTER I
+FF2A	fullwidthlatincapitalletterj	FULLWIDTH LATIN CAPITAL LETTER J
+FF2B	fullwidthlatincapitalletterk	FULLWIDTH LATIN CAPITAL LETTER K
+FF2C	fullwidthlatincapitalletterl	FULLWIDTH LATIN CAPITAL LETTER L
+FF2D	fullwidthlatincapitalletterm	FULLWIDTH LATIN CAPITAL LETTER M
+FF2E	fullwidthlatincapitallettern	FULLWIDTH LATIN CAPITAL LETTER N
+FF2F	fullwidthlatincapitallettero	FULLWIDTH LATIN CAPITAL LETTER O
+FF30	fullwidthlatincapitalletterp	FULLWIDTH LATIN CAPITAL LETTER P
+FF31	fullwidthlatincapitalletterq	FULLWIDTH LATIN CAPITAL LETTER Q
+FF32	fullwidthlatincapitalletterr	FULLWIDTH LATIN CAPITAL LETTER R
+FF33	fullwidthlatincapitalletters	FULLWIDTH LATIN CAPITAL LETTER S
+FF34	fullwidthlatincapitallettert	FULLWIDTH LATIN CAPITAL LETTER T
+FF35	fullwidthlatincapitalletteru	FULLWIDTH LATIN CAPITAL LETTER U
+FF36	fullwidthlatincapitalletterv	FULLWIDTH LATIN CAPITAL LETTER V
+FF37	fullwidthlatincapitalletterw	FULLWIDTH LATIN CAPITAL LETTER W
+FF38	fullwidthlatincapitalletterx	FULLWIDTH LATIN CAPITAL LETTER X
+FF39	fullwidthlatincapitallettery	FULLWIDTH LATIN CAPITAL LETTER Y
+FF3A	fullwidthlatincapitalletterz	FULLWIDTH LATIN CAPITAL LETTER Z
+FF3B	fullwidthleftsquarebracket	FULLWIDTH LEFT SQUARE BRACKET
+FF3C	fullwidthreversesolidus	FULLWIDTH REVERSE SOLIDUS
+FF3D	fullwidthrightsquarebracket	FULLWIDTH RIGHT SQUARE BRACKET
+FF3E	fullwidthcircumflexaccent	FULLWIDTH CIRCUMFLEX ACCENT
+FF3F	fullwidthlowline	FULLWIDTH LOW LINE
+FF40	fullwidthgraveaccent	FULLWIDTH GRAVE ACCENT
+FF41	fullwidthlatinsmalllettera	FULLWIDTH LATIN SMALL LETTER A
+FF42	fullwidthlatinsmallletterb	FULLWIDTH LATIN SMALL LETTER B
+FF43	fullwidthlatinsmallletterc	FULLWIDTH LATIN SMALL LETTER C
+FF44	fullwidthlatinsmallletterd	FULLWIDTH LATIN SMALL LETTER D
+FF45	fullwidthlatinsmalllettere	FULLWIDTH LATIN SMALL LETTER E
+FF46	fullwidthlatinsmallletterf	FULLWIDTH LATIN SMALL LETTER F
+FF47	fullwidthlatinsmallletterg	FULLWIDTH LATIN SMALL LETTER G
+FF48	fullwidthlatinsmallletterh	FULLWIDTH LATIN SMALL LETTER H
+FF49	fullwidthlatinsmallletteri	FULLWIDTH LATIN SMALL LETTER I
+FF4A	fullwidthlatinsmallletterj	FULLWIDTH LATIN SMALL LETTER J
+FF4B	fullwidthlatinsmallletterk	FULLWIDTH LATIN SMALL LETTER K
+FF4C	fullwidthlatinsmallletterl	FULLWIDTH LATIN SMALL LETTER L
+FF4D	fullwidthlatinsmallletterm	FULLWIDTH LATIN SMALL LETTER M
+FF4E	fullwidthlatinsmalllettern	FULLWIDTH LATIN SMALL LETTER N
+FF4F	fullwidthlatinsmalllettero	FULLWIDTH LATIN SMALL LETTER O
+FF50	fullwidthlatinsmallletterp	FULLWIDTH LATIN SMALL LETTER P
+FF51	fullwidthlatinsmallletterq	FULLWIDTH LATIN SMALL LETTER Q
+FF52	fullwidthlatinsmallletterr	FULLWIDTH LATIN SMALL LETTER R
+FF53	fullwidthlatinsmallletters	FULLWIDTH LATIN SMALL LETTER S
+FF54	fullwidthlatinsmalllettert	FULLWIDTH LATIN SMALL LETTER T
+FF55	fullwidthlatinsmallletteru	FULLWIDTH LATIN SMALL LETTER U
+FF56	fullwidthlatinsmallletterv	FULLWIDTH LATIN SMALL LETTER V
+FF57	fullwidthlatinsmallletterw	FULLWIDTH LATIN SMALL LETTER W
+FF58	fullwidthlatinsmallletterx	FULLWIDTH LATIN SMALL LETTER X
+FF59	fullwidthlatinsmalllettery	FULLWIDTH LATIN SMALL LETTER Y
+FF5A	fullwidthlatinsmallletterz	FULLWIDTH LATIN SMALL LETTER Z
+FF5B	fullwidthleftcurlybracket	FULLWIDTH LEFT CURLY BRACKET
+FF5C	fullwidthverticalline	FULLWIDTH VERTICAL LINE
+FF5D	fullwidthrightcurlybracket	FULLWIDTH RIGHT CURLY BRACKET
+FF5E	fullwidthtilde	FULLWIDTH TILDE
+FF5F	fullwidthleftwhiteparenthesis	FULLWIDTH LEFT WHITE PARENTHESIS
+FF60	fullwidthrightwhiteparenthesis	FULLWIDTH RIGHT WHITE PARENTHESIS
+FF61	halfwidthideographicfullstop	HALFWIDTH IDEOGRAPHIC FULL STOP
+FF62	halfwidthleftcornerbracket	HALFWIDTH LEFT CORNER BRACKET
+FF63	halfwidthrightcornerbracket	HALFWIDTH RIGHT CORNER BRACKET
+FF64	halfwidthideographiccomma	HALFWIDTH IDEOGRAPHIC COMMA
+FF65	halfwidthkatakanamiddledot	HALFWIDTH KATAKANA MIDDLE DOT
+FF66	halfwidthkatakanaletterwo	HALFWIDTH KATAKANA LETTER WO
+FF67	halfwidthkatakanalettersmalla	HALFWIDTH KATAKANA LETTER SMALL A
+FF68	halfwidthkatakanalettersmalli	HALFWIDTH KATAKANA LETTER SMALL I
+FF69	halfwidthkatakanalettersmallu	HALFWIDTH KATAKANA LETTER SMALL U
+FF6A	halfwidthkatakanalettersmalle	HALFWIDTH KATAKANA LETTER SMALL E
+FF6B	halfwidthkatakanalettersmallo	HALFWIDTH KATAKANA LETTER SMALL O
+FF6C	halfwidthkatakanalettersmallya	HALFWIDTH KATAKANA LETTER SMALL YA
+FF6D	halfwidthkatakanalettersmallyu	HALFWIDTH KATAKANA LETTER SMALL YU
+FF6E	halfwidthkatakanalettersmallyo	HALFWIDTH KATAKANA LETTER SMALL YO
+FF6F	halfwidthkatakanalettersmalltu	HALFWIDTH KATAKANA LETTER SMALL TU
+FF70	halfwidthkatakanahiraganaprolongedsoundmark	HALFWIDTH KATAKANA-HIRAGANA PROLONGED SOUND MARK
+FF71	halfwidthkatakanalettera	HALFWIDTH KATAKANA LETTER A
+FF72	halfwidthkatakanaletteri	HALFWIDTH KATAKANA LETTER I
+FF73	halfwidthkatakanaletteru	HALFWIDTH KATAKANA LETTER U
+FF74	halfwidthkatakanalettere	HALFWIDTH KATAKANA LETTER E
+FF75	halfwidthkatakanalettero	HALFWIDTH KATAKANA LETTER O
+FF76	halfwidthkatakanaletterka	HALFWIDTH KATAKANA LETTER KA
+FF77	halfwidthkatakanaletterki	HALFWIDTH KATAKANA LETTER KI
+FF78	halfwidthkatakanaletterku	HALFWIDTH KATAKANA LETTER KU
+FF79	halfwidthkatakanaletterke	HALFWIDTH KATAKANA LETTER KE
+FF7A	halfwidthkatakanaletterko	HALFWIDTH KATAKANA LETTER KO
+FF7B	halfwidthkatakanalettersa	HALFWIDTH KATAKANA LETTER SA
+FF7C	halfwidthkatakanalettersi	HALFWIDTH KATAKANA LETTER SI
+FF7D	halfwidthkatakanalettersu	HALFWIDTH KATAKANA LETTER SU
+FF7E	halfwidthkatakanaletterse	HALFWIDTH KATAKANA LETTER SE
+FF7F	halfwidthkatakanaletterso	HALFWIDTH KATAKANA LETTER SO
+FF80	halfwidthkatakanaletterta	HALFWIDTH KATAKANA LETTER TA
+FF81	halfwidthkatakanaletterti	HALFWIDTH KATAKANA LETTER TI
+FF82	halfwidthkatakanalettertu	HALFWIDTH KATAKANA LETTER TU
+FF83	halfwidthkatakanaletterte	HALFWIDTH KATAKANA LETTER TE
+FF84	halfwidthkatakanaletterto	HALFWIDTH KATAKANA LETTER TO
+FF85	halfwidthkatakanaletterna	HALFWIDTH KATAKANA LETTER NA
+FF86	halfwidthkatakanaletterni	HALFWIDTH KATAKANA LETTER NI
+FF87	halfwidthkatakanaletternu	HALFWIDTH KATAKANA LETTER NU
+FF88	halfwidthkatakanaletterne	HALFWIDTH KATAKANA LETTER NE
+FF89	halfwidthkatakanaletterno	HALFWIDTH KATAKANA LETTER NO
+FF8A	halfwidthkatakanaletterha	HALFWIDTH KATAKANA LETTER HA
+FF8B	halfwidthkatakanaletterhi	HALFWIDTH KATAKANA LETTER HI
+FF8C	halfwidthkatakanaletterhu	HALFWIDTH KATAKANA LETTER HU
+FF8D	halfwidthkatakanaletterhe	HALFWIDTH KATAKANA LETTER HE
+FF8E	halfwidthkatakanaletterho	HALFWIDTH KATAKANA LETTER HO
+FF8F	halfwidthkatakanaletterma	HALFWIDTH KATAKANA LETTER MA
+FF90	halfwidthkatakanalettermi	HALFWIDTH KATAKANA LETTER MI
+FF91	halfwidthkatakanalettermu	HALFWIDTH KATAKANA LETTER MU
+FF92	halfwidthkatakanaletterme	HALFWIDTH KATAKANA LETTER ME
+FF93	halfwidthkatakanalettermo	HALFWIDTH KATAKANA LETTER MO
+FF94	halfwidthkatakanaletterya	HALFWIDTH KATAKANA LETTER YA
+FF95	halfwidthkatakanaletteryu	HALFWIDTH KATAKANA LETTER YU
+FF96	halfwidthkatakanaletteryo	HALFWIDTH KATAKANA LETTER YO
+FF97	halfwidthkatakanaletterra	HALFWIDTH KATAKANA LETTER RA
+FF98	halfwidthkatakanaletterri	HALFWIDTH KATAKANA LETTER RI
+FF99	halfwidthkatakanaletterru	HALFWIDTH KATAKANA LETTER RU
+FF9A	halfwidthkatakanaletterre	HALFWIDTH KATAKANA LETTER RE
+FF9B	halfwidthkatakanaletterro	HALFWIDTH KATAKANA LETTER RO
+FF9C	halfwidthkatakanaletterwa	HALFWIDTH KATAKANA LETTER WA
+FF9D	halfwidthkatakanalettern	HALFWIDTH KATAKANA LETTER N
+FF9E	halfwidthkatakanavoicedsoundmark	HALFWIDTH KATAKANA VOICED SOUND MARK
+FF9F	halfwidthkatakanasemivoicedsoundmark	HALFWIDTH KATAKANA SEMI-VOICED SOUND MARK
+FFA0	halfwidthhangulfiller	HALFWIDTH HANGUL FILLER
+FFA1	halfwidthhangulletterkiyeok	HALFWIDTH HANGUL LETTER KIYEOK
+FFA2	halfwidthhangulletterssangkiyeok	HALFWIDTH HANGUL LETTER SSANGKIYEOK
+FFA3	halfwidthhangulletterkiyeoksios	HALFWIDTH HANGUL LETTER KIYEOK-SIOS
+FFA4	halfwidthhangulletternieun	HALFWIDTH HANGUL LETTER NIEUN
+FFA5	halfwidthhangulletternieuncieuc	HALFWIDTH HANGUL LETTER NIEUN-CIEUC
+FFA6	halfwidthhangulletternieunhieuh	HALFWIDTH HANGUL LETTER NIEUN-HIEUH
+FFA7	halfwidthhangullettertikeut	HALFWIDTH HANGUL LETTER TIKEUT
+FFA8	halfwidthhangulletterssangtikeut	HALFWIDTH HANGUL LETTER SSANGTIKEUT
+FFA9	halfwidthhangulletterrieul	HALFWIDTH HANGUL LETTER RIEUL
+FFAA	halfwidthhangulletterrieulkiyeok	HALFWIDTH HANGUL LETTER RIEUL-KIYEOK
+FFAB	halfwidthhangulletterrieulmieum	HALFWIDTH HANGUL LETTER RIEUL-MIEUM
+FFAC	halfwidthhangulletterrieulpieup	HALFWIDTH HANGUL LETTER RIEUL-PIEUP
+FFAD	halfwidthhangulletterrieulsios	HALFWIDTH HANGUL LETTER RIEUL-SIOS
+FFAE	halfwidthhangulletterrieulthieuth	HALFWIDTH HANGUL LETTER RIEUL-THIEUTH
+FFAF	halfwidthhangulletterrieulphieuph	HALFWIDTH HANGUL LETTER RIEUL-PHIEUPH
+FFB0	halfwidthhangulletterrieulhieuh	HALFWIDTH HANGUL LETTER RIEUL-HIEUH
+FFB1	halfwidthhangullettermieum	HALFWIDTH HANGUL LETTER MIEUM
+FFB2	halfwidthhangulletterpieup	HALFWIDTH HANGUL LETTER PIEUP
+FFB3	halfwidthhangulletterssangpieup	HALFWIDTH HANGUL LETTER SSANGPIEUP
+FFB4	halfwidthhangulletterpieupsios	HALFWIDTH HANGUL LETTER PIEUP-SIOS
+FFB5	halfwidthhangullettersios	HALFWIDTH HANGUL LETTER SIOS
+FFB6	halfwidthhangulletterssangsios	HALFWIDTH HANGUL LETTER SSANGSIOS
+FFB7	halfwidthhangulletterieung	HALFWIDTH HANGUL LETTER IEUNG
+FFB8	halfwidthhangullettercieuc	HALFWIDTH HANGUL LETTER CIEUC
+FFB9	halfwidthhangulletterssangcieuc	HALFWIDTH HANGUL LETTER SSANGCIEUC
+FFBA	halfwidthhangulletterchieuch	HALFWIDTH HANGUL LETTER CHIEUCH
+FFBB	halfwidthhangulletterkhieukh	HALFWIDTH HANGUL LETTER KHIEUKH
+FFBC	halfwidthhangulletterthieuth	HALFWIDTH HANGUL LETTER THIEUTH
+FFBD	halfwidthhangulletterphieuph	HALFWIDTH HANGUL LETTER PHIEUPH
+FFBE	halfwidthhangulletterhieuh	HALFWIDTH HANGUL LETTER HIEUH
+FFC2	halfwidthhangullettera	HALFWIDTH HANGUL LETTER A
+FFC3	halfwidthhangulletterae	HALFWIDTH HANGUL LETTER AE
+FFC4	halfwidthhangulletterya	HALFWIDTH HANGUL LETTER YA
+FFC5	halfwidthhangulletteryae	HALFWIDTH HANGUL LETTER YAE
+FFC6	halfwidthhangullettereo	HALFWIDTH HANGUL LETTER EO
+FFC7	halfwidthhangullettere	HALFWIDTH HANGUL LETTER E
+FFCA	halfwidthhangulletteryeo	HALFWIDTH HANGUL LETTER YEO
+FFCB	halfwidthhangulletterye	HALFWIDTH HANGUL LETTER YE
+FFCC	halfwidthhangullettero	HALFWIDTH HANGUL LETTER O
+FFCD	halfwidthhangulletterwa	HALFWIDTH HANGUL LETTER WA
+FFCE	halfwidthhangulletterwae	HALFWIDTH HANGUL LETTER WAE
+FFCF	halfwidthhangulletteroe	HALFWIDTH HANGUL LETTER OE
+FFD2	halfwidthhangulletteryo	HALFWIDTH HANGUL LETTER YO
+FFD3	halfwidthhangulletteru	HALFWIDTH HANGUL LETTER U
+FFD4	halfwidthhangulletterweo	HALFWIDTH HANGUL LETTER WEO
+FFD5	halfwidthhangulletterwe	HALFWIDTH HANGUL LETTER WE
+FFD6	halfwidthhangulletterwi	HALFWIDTH HANGUL LETTER WI
+FFD7	halfwidthhangulletteryu	HALFWIDTH HANGUL LETTER YU
+FFDA	halfwidthhangullettereu	HALFWIDTH HANGUL LETTER EU
+FFDB	halfwidthhangulletteryi	HALFWIDTH HANGUL LETTER YI
+FFDC	halfwidthhangulletteri	HALFWIDTH HANGUL LETTER I
+FFE0	fullwidthcentsign	FULLWIDTH CENT SIGN
+FFE1	fullwidthpoundsign	FULLWIDTH POUND SIGN
+FFE2	fullwidthnotsign	FULLWIDTH NOT SIGN
+FFE3	fullwidthmacron	FULLWIDTH MACRON
+FFE4	fullwidthbrokenbar	FULLWIDTH BROKEN BAR
+FFE5	fullwidthyensign	FULLWIDTH YEN SIGN
+FFE6	fullwidthwonsign	FULLWIDTH WON SIGN
+FFE8	halfwidthformslightvertical	HALFWIDTH FORMS LIGHT VERTICAL
+FFE9	halfwidthleftwardsarrow	HALFWIDTH LEFTWARDS ARROW
+FFEA	halfwidthupwardsarrow	HALFWIDTH UPWARDS ARROW
+FFEB	halfwidthrightwardsarrow	HALFWIDTH RIGHTWARDS ARROW
+FFEC	halfwidthdownwardsarrow	HALFWIDTH DOWNWARDS ARROW
+FFED	halfwidthblacksquare	HALFWIDTH BLACK SQUARE
+FFEE	halfwidthwhitecircle	HALFWIDTH WHITE CIRCLE

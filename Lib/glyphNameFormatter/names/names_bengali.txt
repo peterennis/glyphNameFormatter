@@ -1,93 +1,93 @@
 # Bengali 0980 - 09FF
-0981	needsfix_bengalisigncandrabindu	BENGALI SIGN CANDRABINDU
-0982	needsfix_bengalisignanusvara	BENGALI SIGN ANUSVARA
-0983	needsfix_bengalisignvisarga	BENGALI SIGN VISARGA
-0985	needsfix_bengalilettera	BENGALI LETTER A
-0986	needsfix_bengaliletteraa	BENGALI LETTER AA
-0987	needsfix_bengaliletteri	BENGALI LETTER I
-0988	needsfix_bengaliletterii	BENGALI LETTER II
-0989	needsfix_bengaliletteru	BENGALI LETTER U
-098A	needsfix_bengaliletteruu	BENGALI LETTER UU
-098B	needsfix_bengalilettervocalicr	BENGALI LETTER VOCALIC R
-098C	needsfix_bengalilettervocalicl	BENGALI LETTER VOCALIC L
-098F	needsfix_bengalilettere	BENGALI LETTER E
-0990	needsfix_bengaliletterai	BENGALI LETTER AI
-0993	needsfix_bengalilettero	BENGALI LETTER O
-0994	needsfix_bengaliletterau	BENGALI LETTER AU
-0995	needsfix_bengaliletterka	BENGALI LETTER KA
-0996	needsfix_bengaliletterkha	BENGALI LETTER KHA
-0997	needsfix_bengaliletterga	BENGALI LETTER GA
-0998	needsfix_bengalilettergha	BENGALI LETTER GHA
-0999	needsfix_bengaliletternga	BENGALI LETTER NGA
-099A	needsfix_bengaliletterca	BENGALI LETTER CA
-099B	needsfix_bengalilettercha	BENGALI LETTER CHA
-099C	needsfix_bengaliletterja	BENGALI LETTER JA
-099D	needsfix_bengaliletterjha	BENGALI LETTER JHA
-099E	needsfix_bengaliletternya	BENGALI LETTER NYA
-099F	needsfix_bengalilettertta	BENGALI LETTER TTA
-09A0	needsfix_bengaliletterttha	BENGALI LETTER TTHA
-09A1	needsfix_bengaliletterdda	BENGALI LETTER DDA
-09A2	needsfix_bengaliletterddha	BENGALI LETTER DDHA
-09A3	needsfix_bengaliletternna	BENGALI LETTER NNA
-09A4	needsfix_bengaliletterta	BENGALI LETTER TA
-09A5	needsfix_bengalilettertha	BENGALI LETTER THA
-09A6	needsfix_bengaliletterda	BENGALI LETTER DA
-09A7	needsfix_bengaliletterdha	BENGALI LETTER DHA
-09A8	needsfix_bengaliletterna	BENGALI LETTER NA
-09AA	needsfix_bengaliletterpa	BENGALI LETTER PA
-09AB	needsfix_bengaliletterpha	BENGALI LETTER PHA
-09AC	needsfix_bengaliletterba	BENGALI LETTER BA
-09AD	needsfix_bengaliletterbha	BENGALI LETTER BHA
-09AE	needsfix_bengaliletterma	BENGALI LETTER MA
-09AF	needsfix_bengaliletterya	BENGALI LETTER YA
-09B0	needsfix_bengaliletterra	BENGALI LETTER RA
-09B2	needsfix_bengaliletterla	BENGALI LETTER LA
-09B6	needsfix_bengalilettersha	BENGALI LETTER SHA
-09B7	needsfix_bengaliletterssa	BENGALI LETTER SSA
-09B8	needsfix_bengalilettersa	BENGALI LETTER SA
-09B9	needsfix_bengaliletterha	BENGALI LETTER HA
-09BC	needsfix_bengalisignnukta	BENGALI SIGN NUKTA
-09BD	needsfix_bengalisignavagraha	BENGALI SIGN AVAGRAHA
-09BE	needsfix_bengalivowelsignaa	BENGALI VOWEL SIGN AA
-09BF	needsfix_bengalivowelsigni	BENGALI VOWEL SIGN I
-09C0	needsfix_bengalivowelsignii	BENGALI VOWEL SIGN II
-09C1	needsfix_bengalivowelsignu	BENGALI VOWEL SIGN U
-09C2	needsfix_bengalivowelsignuu	BENGALI VOWEL SIGN UU
-09C3	needsfix_bengalivowelsignvocalicr	BENGALI VOWEL SIGN VOCALIC R
-09C4	needsfix_bengalivowelsignvocalicrr	BENGALI VOWEL SIGN VOCALIC RR
-09C7	needsfix_bengalivowelsigne	BENGALI VOWEL SIGN E
-09C8	needsfix_bengalivowelsignai	BENGALI VOWEL SIGN AI
-09CB	needsfix_bengalivowelsigno	BENGALI VOWEL SIGN O
-09CC	needsfix_bengalivowelsignau	BENGALI VOWEL SIGN AU
-09CD	needsfix_bengalisignvirama	BENGALI SIGN VIRAMA
-09CE	needsfix_bengaliletterkhandata	BENGALI LETTER KHANDA TA
-09D7	needsfix_bengaliaulengthmark	BENGALI AU LENGTH MARK
-09DC	needsfix_bengaliletterrra	BENGALI LETTER RRA
-09DD	needsfix_bengaliletterrha	BENGALI LETTER RHA
-09DF	needsfix_bengaliletteryya	BENGALI LETTER YYA
-09E0	needsfix_bengalilettervocalicrr	BENGALI LETTER VOCALIC RR
-09E1	needsfix_bengalilettervocalicll	BENGALI LETTER VOCALIC LL
-09E2	needsfix_bengalivowelsignvocalicl	BENGALI VOWEL SIGN VOCALIC L
-09E3	needsfix_bengalivowelsignvocalicll	BENGALI VOWEL SIGN VOCALIC LL
-09E6	needsfix_bengalidigitzero	BENGALI DIGIT ZERO
-09E7	needsfix_bengalidigitone	BENGALI DIGIT ONE
-09E8	needsfix_bengalidigittwo	BENGALI DIGIT TWO
-09E9	needsfix_bengalidigitthree	BENGALI DIGIT THREE
-09EA	needsfix_bengalidigitfour	BENGALI DIGIT FOUR
-09EB	needsfix_bengalidigitfive	BENGALI DIGIT FIVE
-09EC	needsfix_bengalidigitsix	BENGALI DIGIT SIX
-09ED	needsfix_bengalidigitseven	BENGALI DIGIT SEVEN
-09EE	needsfix_bengalidigiteight	BENGALI DIGIT EIGHT
-09EF	needsfix_bengalidigitnine	BENGALI DIGIT NINE
-09F0	needsfix_bengaliletterrawithmiddlediagonal	BENGALI LETTER RA WITH MIDDLE DIAGONAL
-09F1	needsfix_bengaliletterrawithlowerdiagonal	BENGALI LETTER RA WITH LOWER DIAGONAL
-09F2	needsfix_bengalirupeemark	BENGALI RUPEE MARK
-09F3	needsfix_bengalirupeesign	BENGALI RUPEE SIGN
-09F4	needsfix_bengalicurrencynumeratorone	BENGALI CURRENCY NUMERATOR ONE
-09F5	needsfix_bengalicurrencynumeratortwo	BENGALI CURRENCY NUMERATOR TWO
-09F6	needsfix_bengalicurrencynumeratorthree	BENGALI CURRENCY NUMERATOR THREE
-09F7	needsfix_bengalicurrencynumeratorfour	BENGALI CURRENCY NUMERATOR FOUR
-09F8	needsfix_bengalicurrencynumeratoronelessthanthedenominator	BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR
-09F9	needsfix_bengalicurrencydenominatorsixteen	BENGALI CURRENCY DENOMINATOR SIXTEEN
-09FA	needsfix_bengaliisshar	BENGALI ISSHAR
-09FB	needsfix_bengaligandamark	BENGALI GANDA MARK
+0981	bengalisigncandrabindu	BENGALI SIGN CANDRABINDU
+0982	bengalisignanusvara	BENGALI SIGN ANUSVARA
+0983	bengalisignvisarga	BENGALI SIGN VISARGA
+0985	bengalilettera	BENGALI LETTER A
+0986	bengaliletteraa	BENGALI LETTER AA
+0987	bengaliletteri	BENGALI LETTER I
+0988	bengaliletterii	BENGALI LETTER II
+0989	bengaliletteru	BENGALI LETTER U
+098A	bengaliletteruu	BENGALI LETTER UU
+098B	bengalilettervocalicr	BENGALI LETTER VOCALIC R
+098C	bengalilettervocalicl	BENGALI LETTER VOCALIC L
+098F	bengalilettere	BENGALI LETTER E
+0990	bengaliletterai	BENGALI LETTER AI
+0993	bengalilettero	BENGALI LETTER O
+0994	bengaliletterau	BENGALI LETTER AU
+0995	bengaliletterka	BENGALI LETTER KA
+0996	bengaliletterkha	BENGALI LETTER KHA
+0997	bengaliletterga	BENGALI LETTER GA
+0998	bengalilettergha	BENGALI LETTER GHA
+0999	bengaliletternga	BENGALI LETTER NGA
+099A	bengaliletterca	BENGALI LETTER CA
+099B	bengalilettercha	BENGALI LETTER CHA
+099C	bengaliletterja	BENGALI LETTER JA
+099D	bengaliletterjha	BENGALI LETTER JHA
+099E	bengaliletternya	BENGALI LETTER NYA
+099F	bengalilettertta	BENGALI LETTER TTA
+09A0	bengaliletterttha	BENGALI LETTER TTHA
+09A1	bengaliletterdda	BENGALI LETTER DDA
+09A2	bengaliletterddha	BENGALI LETTER DDHA
+09A3	bengaliletternna	BENGALI LETTER NNA
+09A4	bengaliletterta	BENGALI LETTER TA
+09A5	bengalilettertha	BENGALI LETTER THA
+09A6	bengaliletterda	BENGALI LETTER DA
+09A7	bengaliletterdha	BENGALI LETTER DHA
+09A8	bengaliletterna	BENGALI LETTER NA
+09AA	bengaliletterpa	BENGALI LETTER PA
+09AB	bengaliletterpha	BENGALI LETTER PHA
+09AC	bengaliletterba	BENGALI LETTER BA
+09AD	bengaliletterbha	BENGALI LETTER BHA
+09AE	bengaliletterma	BENGALI LETTER MA
+09AF	bengaliletterya	BENGALI LETTER YA
+09B0	bengaliletterra	BENGALI LETTER RA
+09B2	bengaliletterla	BENGALI LETTER LA
+09B6	bengalilettersha	BENGALI LETTER SHA
+09B7	bengaliletterssa	BENGALI LETTER SSA
+09B8	bengalilettersa	BENGALI LETTER SA
+09B9	bengaliletterha	BENGALI LETTER HA
+09BC	bengalisignnukta	BENGALI SIGN NUKTA
+09BD	bengalisignavagraha	BENGALI SIGN AVAGRAHA
+09BE	bengalivowelsignaa	BENGALI VOWEL SIGN AA
+09BF	bengalivowelsigni	BENGALI VOWEL SIGN I
+09C0	bengalivowelsignii	BENGALI VOWEL SIGN II
+09C1	bengalivowelsignu	BENGALI VOWEL SIGN U
+09C2	bengalivowelsignuu	BENGALI VOWEL SIGN UU
+09C3	bengalivowelsignvocalicr	BENGALI VOWEL SIGN VOCALIC R
+09C4	bengalivowelsignvocalicrr	BENGALI VOWEL SIGN VOCALIC RR
+09C7	bengalivowelsigne	BENGALI VOWEL SIGN E
+09C8	bengalivowelsignai	BENGALI VOWEL SIGN AI
+09CB	bengalivowelsigno	BENGALI VOWEL SIGN O
+09CC	bengalivowelsignau	BENGALI VOWEL SIGN AU
+09CD	bengalisignvirama	BENGALI SIGN VIRAMA
+09CE	bengaliletterkhandata	BENGALI LETTER KHANDA TA
+09D7	bengaliaulengthmark	BENGALI AU LENGTH MARK
+09DC	bengaliletterrra	BENGALI LETTER RRA
+09DD	bengaliletterrha	BENGALI LETTER RHA
+09DF	bengaliletteryya	BENGALI LETTER YYA
+09E0	bengalilettervocalicrr	BENGALI LETTER VOCALIC RR
+09E1	bengalilettervocalicll	BENGALI LETTER VOCALIC LL
+09E2	bengalivowelsignvocalicl	BENGALI VOWEL SIGN VOCALIC L
+09E3	bengalivowelsignvocalicll	BENGALI VOWEL SIGN VOCALIC LL
+09E6	bengalidigitzero	BENGALI DIGIT ZERO
+09E7	bengalidigitone	BENGALI DIGIT ONE
+09E8	bengalidigittwo	BENGALI DIGIT TWO
+09E9	bengalidigitthree	BENGALI DIGIT THREE
+09EA	bengalidigitfour	BENGALI DIGIT FOUR
+09EB	bengalidigitfive	BENGALI DIGIT FIVE
+09EC	bengalidigitsix	BENGALI DIGIT SIX
+09ED	bengalidigitseven	BENGALI DIGIT SEVEN
+09EE	bengalidigiteight	BENGALI DIGIT EIGHT
+09EF	bengalidigitnine	BENGALI DIGIT NINE
+09F0	bengaliletterrawithmiddlediagonal	BENGALI LETTER RA WITH MIDDLE DIAGONAL
+09F1	bengaliletterrawithlowerdiagonal	BENGALI LETTER RA WITH LOWER DIAGONAL
+09F2	bengalirupeemark	BENGALI RUPEE MARK
+09F3	bengalirupeesign	BENGALI RUPEE SIGN
+09F4	bengalicurrencynumeratorone	BENGALI CURRENCY NUMERATOR ONE
+09F5	bengalicurrencynumeratortwo	BENGALI CURRENCY NUMERATOR TWO
+09F6	bengalicurrencynumeratorthree	BENGALI CURRENCY NUMERATOR THREE
+09F7	bengalicurrencynumeratorfour	BENGALI CURRENCY NUMERATOR FOUR
+09F8	bengalicurrencynumeratoronelessthanthedenominator	BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR
+09F9	bengalicurrencydenominatorsixteen	BENGALI CURRENCY DENOMINATOR SIXTEEN
+09FA	bengaliisshar	BENGALI ISSHAR
+09FB	bengaligandamark	BENGALI GANDA MARK

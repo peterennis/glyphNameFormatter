@@ -1,80 +1,80 @@
 # Gurmukhi 0A00 - 0A7F
-0A01	needsfix_gurmukhisignadakbindi	GURMUKHI SIGN ADAK BINDI
-0A02	needsfix_gurmukhisignbindi	GURMUKHI SIGN BINDI
-0A03	needsfix_gurmukhisignvisarga	GURMUKHI SIGN VISARGA
-0A05	needsfix_gurmukhilettera	GURMUKHI LETTER A
-0A06	needsfix_gurmukhiletteraa	GURMUKHI LETTER AA
-0A07	needsfix_gurmukhiletteri	GURMUKHI LETTER I
-0A08	needsfix_gurmukhiletterii	GURMUKHI LETTER II
-0A09	needsfix_gurmukhiletteru	GURMUKHI LETTER U
-0A0A	needsfix_gurmukhiletteruu	GURMUKHI LETTER UU
-0A0F	needsfix_gurmukhiletteree	GURMUKHI LETTER EE
-0A10	needsfix_gurmukhiletterai	GURMUKHI LETTER AI
-0A13	needsfix_gurmukhiletteroo	GURMUKHI LETTER OO
-0A14	needsfix_gurmukhiletterau	GURMUKHI LETTER AU
-0A15	needsfix_gurmukhiletterka	GURMUKHI LETTER KA
-0A16	needsfix_gurmukhiletterkha	GURMUKHI LETTER KHA
-0A17	needsfix_gurmukhiletterga	GURMUKHI LETTER GA
-0A18	needsfix_gurmukhilettergha	GURMUKHI LETTER GHA
-0A19	needsfix_gurmukhiletternga	GURMUKHI LETTER NGA
-0A1A	needsfix_gurmukhiletterca	GURMUKHI LETTER CA
-0A1B	needsfix_gurmukhilettercha	GURMUKHI LETTER CHA
-0A1C	needsfix_gurmukhiletterja	GURMUKHI LETTER JA
-0A1D	needsfix_gurmukhiletterjha	GURMUKHI LETTER JHA
-0A1E	needsfix_gurmukhiletternya	GURMUKHI LETTER NYA
-0A1F	needsfix_gurmukhilettertta	GURMUKHI LETTER TTA
-0A20	needsfix_gurmukhiletterttha	GURMUKHI LETTER TTHA
-0A21	needsfix_gurmukhiletterdda	GURMUKHI LETTER DDA
-0A22	needsfix_gurmukhiletterddha	GURMUKHI LETTER DDHA
-0A23	needsfix_gurmukhiletternna	GURMUKHI LETTER NNA
-0A24	needsfix_gurmukhiletterta	GURMUKHI LETTER TA
-0A25	needsfix_gurmukhilettertha	GURMUKHI LETTER THA
-0A26	needsfix_gurmukhiletterda	GURMUKHI LETTER DA
-0A27	needsfix_gurmukhiletterdha	GURMUKHI LETTER DHA
-0A28	needsfix_gurmukhiletterna	GURMUKHI LETTER NA
-0A2A	needsfix_gurmukhiletterpa	GURMUKHI LETTER PA
-0A2B	needsfix_gurmukhiletterpha	GURMUKHI LETTER PHA
-0A2C	needsfix_gurmukhiletterba	GURMUKHI LETTER BA
-0A2D	needsfix_gurmukhiletterbha	GURMUKHI LETTER BHA
-0A2E	needsfix_gurmukhiletterma	GURMUKHI LETTER MA
-0A2F	needsfix_gurmukhiletterya	GURMUKHI LETTER YA
-0A30	needsfix_gurmukhiletterra	GURMUKHI LETTER RA
-0A32	needsfix_gurmukhiletterla	GURMUKHI LETTER LA
-0A33	needsfix_gurmukhiletterlla	GURMUKHI LETTER LLA
-0A35	needsfix_gurmukhiletterva	GURMUKHI LETTER VA
-0A36	needsfix_gurmukhilettersha	GURMUKHI LETTER SHA
-0A38	needsfix_gurmukhilettersa	GURMUKHI LETTER SA
-0A39	needsfix_gurmukhiletterha	GURMUKHI LETTER HA
-0A3C	needsfix_gurmukhisignnukta	GURMUKHI SIGN NUKTA
-0A3E	needsfix_gurmukhivowelsignaa	GURMUKHI VOWEL SIGN AA
-0A3F	needsfix_gurmukhivowelsigni	GURMUKHI VOWEL SIGN I
-0A40	needsfix_gurmukhivowelsignii	GURMUKHI VOWEL SIGN II
-0A41	needsfix_gurmukhivowelsignu	GURMUKHI VOWEL SIGN U
-0A42	needsfix_gurmukhivowelsignuu	GURMUKHI VOWEL SIGN UU
-0A47	needsfix_gurmukhivowelsignee	GURMUKHI VOWEL SIGN EE
-0A48	needsfix_gurmukhivowelsignai	GURMUKHI VOWEL SIGN AI
-0A4B	needsfix_gurmukhivowelsignoo	GURMUKHI VOWEL SIGN OO
-0A4C	needsfix_gurmukhivowelsignau	GURMUKHI VOWEL SIGN AU
-0A4D	needsfix_gurmukhisignvirama	GURMUKHI SIGN VIRAMA
-0A51	needsfix_gurmukhisignudaat	GURMUKHI SIGN UDAAT
-0A59	needsfix_gurmukhiletterkhha	GURMUKHI LETTER KHHA
-0A5A	needsfix_gurmukhiletterghha	GURMUKHI LETTER GHHA
-0A5B	needsfix_gurmukhiletterza	GURMUKHI LETTER ZA
-0A5C	needsfix_gurmukhiletterrra	GURMUKHI LETTER RRA
-0A5E	needsfix_gurmukhiletterfa	GURMUKHI LETTER FA
-0A66	needsfix_gurmukhidigitzero	GURMUKHI DIGIT ZERO
-0A67	needsfix_gurmukhidigitone	GURMUKHI DIGIT ONE
-0A68	needsfix_gurmukhidigittwo	GURMUKHI DIGIT TWO
-0A69	needsfix_gurmukhidigitthree	GURMUKHI DIGIT THREE
-0A6A	needsfix_gurmukhidigitfour	GURMUKHI DIGIT FOUR
-0A6B	needsfix_gurmukhidigitfive	GURMUKHI DIGIT FIVE
-0A6C	needsfix_gurmukhidigitsix	GURMUKHI DIGIT SIX
-0A6D	needsfix_gurmukhidigitseven	GURMUKHI DIGIT SEVEN
-0A6E	needsfix_gurmukhidigiteight	GURMUKHI DIGIT EIGHT
-0A6F	needsfix_gurmukhidigitnine	GURMUKHI DIGIT NINE
-0A70	needsfix_gurmukhitippi	GURMUKHI TIPPI
-0A71	needsfix_gurmukhiaddak	GURMUKHI ADDAK
-0A72	needsfix_gurmukhiiri	GURMUKHI IRI
-0A73	needsfix_gurmukhiura	GURMUKHI URA
-0A74	needsfix_gurmukhiekonkar	GURMUKHI EK ONKAR
-0A75	needsfix_gurmukhisignyakash	GURMUKHI SIGN YAKASH
+0A01	gurmukhisignadakbindi	GURMUKHI SIGN ADAK BINDI
+0A02	gurmukhisignbindi	GURMUKHI SIGN BINDI
+0A03	gurmukhisignvisarga	GURMUKHI SIGN VISARGA
+0A05	gurmukhilettera	GURMUKHI LETTER A
+0A06	gurmukhiletteraa	GURMUKHI LETTER AA
+0A07	gurmukhiletteri	GURMUKHI LETTER I
+0A08	gurmukhiletterii	GURMUKHI LETTER II
+0A09	gurmukhiletteru	GURMUKHI LETTER U
+0A0A	gurmukhiletteruu	GURMUKHI LETTER UU
+0A0F	gurmukhiletteree	GURMUKHI LETTER EE
+0A10	gurmukhiletterai	GURMUKHI LETTER AI
+0A13	gurmukhiletteroo	GURMUKHI LETTER OO
+0A14	gurmukhiletterau	GURMUKHI LETTER AU
+0A15	gurmukhiletterka	GURMUKHI LETTER KA
+0A16	gurmukhiletterkha	GURMUKHI LETTER KHA
+0A17	gurmukhiletterga	GURMUKHI LETTER GA
+0A18	gurmukhilettergha	GURMUKHI LETTER GHA
+0A19	gurmukhiletternga	GURMUKHI LETTER NGA
+0A1A	gurmukhiletterca	GURMUKHI LETTER CA
+0A1B	gurmukhilettercha	GURMUKHI LETTER CHA
+0A1C	gurmukhiletterja	GURMUKHI LETTER JA
+0A1D	gurmukhiletterjha	GURMUKHI LETTER JHA
+0A1E	gurmukhiletternya	GURMUKHI LETTER NYA
+0A1F	gurmukhilettertta	GURMUKHI LETTER TTA
+0A20	gurmukhiletterttha	GURMUKHI LETTER TTHA
+0A21	gurmukhiletterdda	GURMUKHI LETTER DDA
+0A22	gurmukhiletterddha	GURMUKHI LETTER DDHA
+0A23	gurmukhiletternna	GURMUKHI LETTER NNA
+0A24	gurmukhiletterta	GURMUKHI LETTER TA
+0A25	gurmukhilettertha	GURMUKHI LETTER THA
+0A26	gurmukhiletterda	GURMUKHI LETTER DA
+0A27	gurmukhiletterdha	GURMUKHI LETTER DHA
+0A28	gurmukhiletterna	GURMUKHI LETTER NA
+0A2A	gurmukhiletterpa	GURMUKHI LETTER PA
+0A2B	gurmukhiletterpha	GURMUKHI LETTER PHA
+0A2C	gurmukhiletterba	GURMUKHI LETTER BA
+0A2D	gurmukhiletterbha	GURMUKHI LETTER BHA
+0A2E	gurmukhiletterma	GURMUKHI LETTER MA
+0A2F	gurmukhiletterya	GURMUKHI LETTER YA
+0A30	gurmukhiletterra	GURMUKHI LETTER RA
+0A32	gurmukhiletterla	GURMUKHI LETTER LA
+0A33	gurmukhiletterlla	GURMUKHI LETTER LLA
+0A35	gurmukhiletterva	GURMUKHI LETTER VA
+0A36	gurmukhilettersha	GURMUKHI LETTER SHA
+0A38	gurmukhilettersa	GURMUKHI LETTER SA
+0A39	gurmukhiletterha	GURMUKHI LETTER HA
+0A3C	gurmukhisignnukta	GURMUKHI SIGN NUKTA
+0A3E	gurmukhivowelsignaa	GURMUKHI VOWEL SIGN AA
+0A3F	gurmukhivowelsigni	GURMUKHI VOWEL SIGN I
+0A40	gurmukhivowelsignii	GURMUKHI VOWEL SIGN II
+0A41	gurmukhivowelsignu	GURMUKHI VOWEL SIGN U
+0A42	gurmukhivowelsignuu	GURMUKHI VOWEL SIGN UU
+0A47	gurmukhivowelsignee	GURMUKHI VOWEL SIGN EE
+0A48	gurmukhivowelsignai	GURMUKHI VOWEL SIGN AI
+0A4B	gurmukhivowelsignoo	GURMUKHI VOWEL SIGN OO
+0A4C	gurmukhivowelsignau	GURMUKHI VOWEL SIGN AU
+0A4D	gurmukhisignvirama	GURMUKHI SIGN VIRAMA
+0A51	gurmukhisignudaat	GURMUKHI SIGN UDAAT
+0A59	gurmukhiletterkhha	GURMUKHI LETTER KHHA
+0A5A	gurmukhiletterghha	GURMUKHI LETTER GHHA
+0A5B	gurmukhiletterza	GURMUKHI LETTER ZA
+0A5C	gurmukhiletterrra	GURMUKHI LETTER RRA
+0A5E	gurmukhiletterfa	GURMUKHI LETTER FA
+0A66	gurmukhidigitzero	GURMUKHI DIGIT ZERO
+0A67	gurmukhidigitone	GURMUKHI DIGIT ONE
+0A68	gurmukhidigittwo	GURMUKHI DIGIT TWO
+0A69	gurmukhidigitthree	GURMUKHI DIGIT THREE
+0A6A	gurmukhidigitfour	GURMUKHI DIGIT FOUR
+0A6B	gurmukhidigitfive	GURMUKHI DIGIT FIVE
+0A6C	gurmukhidigitsix	GURMUKHI DIGIT SIX
+0A6D	gurmukhidigitseven	GURMUKHI DIGIT SEVEN
+0A6E	gurmukhidigiteight	GURMUKHI DIGIT EIGHT
+0A6F	gurmukhidigitnine	GURMUKHI DIGIT NINE
+0A70	gurmukhitippi	GURMUKHI TIPPI
+0A71	gurmukhiaddak	GURMUKHI ADDAK
+0A72	gurmukhiiri	GURMUKHI IRI
+0A73	gurmukhiura	GURMUKHI URA
+0A74	gurmukhiekonkar	GURMUKHI EK ONKAR
+0A75	gurmukhisignyakash	GURMUKHI SIGN YAKASH

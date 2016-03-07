@@ -1,35 +1,35 @@
 # Superscripts and Subscripts 2070 - 209F
-2070	needsfix_superscriptzero	SUPERSCRIPT ZERO
-2071	needsfix_superscriptlatinsmallletteri	SUPERSCRIPT LATIN SMALL LETTER I
-2074	needsfix_superscriptfour	SUPERSCRIPT FOUR
-2075	needsfix_superscriptfive	SUPERSCRIPT FIVE
-2076	needsfix_superscriptsix	SUPERSCRIPT SIX
-2077	needsfix_superscriptseven	SUPERSCRIPT SEVEN
-2078	needsfix_superscripteight	SUPERSCRIPT EIGHT
-2079	needsfix_superscriptnine	SUPERSCRIPT NINE
-207A	needsfix_superscriptplussign	SUPERSCRIPT PLUS SIGN
-207B	needsfix_superscriptminus	SUPERSCRIPT MINUS
-207C	needsfix_superscriptequalssign	SUPERSCRIPT EQUALS SIGN
-207D	needsfix_superscriptleftparenthesis	SUPERSCRIPT LEFT PARENTHESIS
-207E	needsfix_superscriptrightparenthesis	SUPERSCRIPT RIGHT PARENTHESIS
-207F	needsfix_superscriptlatinsmalllettern	SUPERSCRIPT LATIN SMALL LETTER N
-2080	needsfix_subscriptzero	SUBSCRIPT ZERO
-2081	needsfix_subscriptone	SUBSCRIPT ONE
-2082	needsfix_subscripttwo	SUBSCRIPT TWO
-2083	needsfix_subscriptthree	SUBSCRIPT THREE
-2084	needsfix_subscriptfour	SUBSCRIPT FOUR
-2085	needsfix_subscriptfive	SUBSCRIPT FIVE
-2086	needsfix_subscriptsix	SUBSCRIPT SIX
-2087	needsfix_subscriptseven	SUBSCRIPT SEVEN
-2088	needsfix_subscripteight	SUBSCRIPT EIGHT
-2089	needsfix_subscriptnine	SUBSCRIPT NINE
-208A	needsfix_subscriptplussign	SUBSCRIPT PLUS SIGN
-208B	needsfix_subscriptminus	SUBSCRIPT MINUS
-208C	needsfix_subscriptequalssign	SUBSCRIPT EQUALS SIGN
-208D	needsfix_subscriptleftparenthesis	SUBSCRIPT LEFT PARENTHESIS
-208E	needsfix_subscriptrightparenthesis	SUBSCRIPT RIGHT PARENTHESIS
-2090	needsfix_latinsubscriptsmalllettera	LATIN SUBSCRIPT SMALL LETTER A
-2091	needsfix_latinsubscriptsmalllettere	LATIN SUBSCRIPT SMALL LETTER E
-2092	needsfix_latinsubscriptsmalllettero	LATIN SUBSCRIPT SMALL LETTER O
-2093	needsfix_latinsubscriptsmallletterx	LATIN SUBSCRIPT SMALL LETTER X
-2094	needsfix_latinsubscriptsmallletterschwa	LATIN SUBSCRIPT SMALL LETTER SCHWA
+2070	superscriptzero	SUPERSCRIPT ZERO
+2071	superscriptlatinsmallletteri	SUPERSCRIPT LATIN SMALL LETTER I
+2074	superscriptfour	SUPERSCRIPT FOUR
+2075	superscriptfive	SUPERSCRIPT FIVE
+2076	superscriptsix	SUPERSCRIPT SIX
+2077	superscriptseven	SUPERSCRIPT SEVEN
+2078	superscripteight	SUPERSCRIPT EIGHT
+2079	superscriptnine	SUPERSCRIPT NINE
+207A	superscriptplussign	SUPERSCRIPT PLUS SIGN
+207B	superscriptminus	SUPERSCRIPT MINUS
+207C	superscriptequalssign	SUPERSCRIPT EQUALS SIGN
+207D	superscriptleftparenthesis	SUPERSCRIPT LEFT PARENTHESIS
+207E	superscriptrightparenthesis	SUPERSCRIPT RIGHT PARENTHESIS
+207F	superscriptlatinsmalllettern	SUPERSCRIPT LATIN SMALL LETTER N
+2080	subscriptzero	SUBSCRIPT ZERO
+2081	subscriptone	SUBSCRIPT ONE
+2082	subscripttwo	SUBSCRIPT TWO
+2083	subscriptthree	SUBSCRIPT THREE
+2084	subscriptfour	SUBSCRIPT FOUR
+2085	subscriptfive	SUBSCRIPT FIVE
+2086	subscriptsix	SUBSCRIPT SIX
+2087	subscriptseven	SUBSCRIPT SEVEN
+2088	subscripteight	SUBSCRIPT EIGHT
+2089	subscriptnine	SUBSCRIPT NINE
+208A	subscriptplussign	SUBSCRIPT PLUS SIGN
+208B	subscriptminus	SUBSCRIPT MINUS
+208C	subscriptequalssign	SUBSCRIPT EQUALS SIGN
+208D	subscriptleftparenthesis	SUBSCRIPT LEFT PARENTHESIS
+208E	subscriptrightparenthesis	SUBSCRIPT RIGHT PARENTHESIS
+2090	latinsubscriptsmalllettera	LATIN SUBSCRIPT SMALL LETTER A
+2091	latinsubscriptsmalllettere	LATIN SUBSCRIPT SMALL LETTER E
+2092	latinsubscriptsmalllettero	LATIN SUBSCRIPT SMALL LETTER O
+2093	latinsubscriptsmallletterx	LATIN SUBSCRIPT SMALL LETTER X
+2094	latinsubscriptsmallletterschwa	LATIN SUBSCRIPT SMALL LETTER SCHWA

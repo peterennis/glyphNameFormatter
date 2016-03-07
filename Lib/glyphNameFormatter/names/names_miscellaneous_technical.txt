@@ -1,234 +1,234 @@
 # Miscellaneous Technical 2300 - 23FF
-2300	needsfix_diametersign	DIAMETER SIGN
-2301	needsfix_electricarrow	ELECTRIC ARROW
-2302	needsfix_house	HOUSE
-2303	needsfix_uparrowhead	UP ARROWHEAD
-2304	needsfix_downarrowhead	DOWN ARROWHEAD
-2305	needsfix_projective	PROJECTIVE
-2306	needsfix_perspective	PERSPECTIVE
-2307	needsfix_wavyline	WAVY LINE
-2308	needsfix_leftceiling	LEFT CEILING
-2309	needsfix_rightceiling	RIGHT CEILING
-230A	needsfix_leftfloor	LEFT FLOOR
-230B	needsfix_rightfloor	RIGHT FLOOR
-230C	needsfix_bottomrightcrop	BOTTOM RIGHT CROP
-230D	needsfix_bottomleftcrop	BOTTOM LEFT CROP
-230E	needsfix_toprightcrop	TOP RIGHT CROP
-230F	needsfix_topleftcrop	TOP LEFT CROP
-2310	needsfix_revlogicalnot	REVERSED NOT SIGN
-2311	needsfix_squarelozenge	SQUARE LOZENGE
-2312	needsfix_arc	ARC
-2313	needsfix_segment	SEGMENT
-2314	needsfix_sector	SECTOR
-2315	needsfix_telephonerecorder	TELEPHONE RECORDER
-2316	needsfix_positionindicator	POSITION INDICATOR
-2317	needsfix_viewdatasquare	VIEWDATA SQUARE
-2318	needsfix_placeofinterestsign	PLACE OF INTEREST SIGN
-2319	needsfix_turnednotsign	TURNED NOT SIGN
-231A	needsfix_watch	WATCH
-231B	needsfix_hourglass	HOURGLASS
-231C	needsfix_topleftcorner	TOP LEFT CORNER
-231D	needsfix_toprightcorner	TOP RIGHT CORNER
-231E	needsfix_bottomleftcorner	BOTTOM LEFT CORNER
-231F	needsfix_bottomrightcorner	BOTTOM RIGHT CORNER
-2320	needsfix_integraltp	TOP HALF INTEGRAL
-2321	needsfix_integralbt	BOTTOM HALF INTEGRAL
-2322	needsfix_frown	FROWN
-2323	needsfix_smile	SMILE
-2324	needsfix_uparrowheadbetweentwohorizontalbars	UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS
-2325	needsfix_optionkey	OPTION KEY
-2326	needsfix_erasetotheright	ERASE TO THE RIGHT
-2327	needsfix_xinarectanglebox	X IN A RECTANGLE BOX
-2328	needsfix_keyboard	KEYBOARD
-2329	needsfix_angleleft	LEFT-POINTING ANGLE BRACKET
-232A	needsfix_angleright	RIGHT-POINTING ANGLE BRACKET
-232B	needsfix_erasetotheleft	ERASE TO THE LEFT
-232C	needsfix_benzenering	BENZENE RING
-232D	needsfix_cylindricity	CYLINDRICITY
-232E	needsfix_allaroundprofile	ALL AROUND-PROFILE
-232F	needsfix_symmetry	SYMMETRY
-2330	needsfix_totalrunout	TOTAL RUNOUT
-2331	needsfix_dimensionorigin	DIMENSION ORIGIN
-2332	needsfix_conicaltaper	CONICAL TAPER
-2333	needsfix_slope	SLOPE
-2334	needsfix_counterbore	COUNTERBORE
-2335	needsfix_countersink	COUNTERSINK
-2336	needsfix_aplfunctionalsymbolibeam	APL FUNCTIONAL SYMBOL I-BEAM
-2337	needsfix_aplfunctionalsymbolsquishquad	APL FUNCTIONAL SYMBOL SQUISH QUAD
-2338	needsfix_aplfunctionalsymbolquadequal	APL FUNCTIONAL SYMBOL QUAD EQUAL
-2339	needsfix_aplfunctionalsymbolquaddivide	APL FUNCTIONAL SYMBOL QUAD DIVIDE
-233A	needsfix_aplfunctionalsymbolquaddiamond	APL FUNCTIONAL SYMBOL QUAD DIAMOND
-233B	needsfix_aplfunctionalsymbolquadjot	APL FUNCTIONAL SYMBOL QUAD JOT
-233C	needsfix_aplfunctionalsymbolquadcircle	APL FUNCTIONAL SYMBOL QUAD CIRCLE
-233D	needsfix_aplfunctionalsymbolcirclestile	APL FUNCTIONAL SYMBOL CIRCLE STILE
-233E	needsfix_aplfunctionalsymbolcirclejot	APL FUNCTIONAL SYMBOL CIRCLE JOT
-233F	needsfix_aplfunctionalsymbolslashbar	APL FUNCTIONAL SYMBOL SLASH BAR
-2340	needsfix_aplfunctionalsymbolbackslashbar	APL FUNCTIONAL SYMBOL BACKSLASH BAR
-2341	needsfix_aplfunctionalsymbolquadslash	APL FUNCTIONAL SYMBOL QUAD SLASH
-2342	needsfix_aplfunctionalsymbolquadbackslash	APL FUNCTIONAL SYMBOL QUAD BACKSLASH
-2343	needsfix_aplfunctionalsymbolquadlessthan	APL FUNCTIONAL SYMBOL QUAD LESS-THAN
-2344	needsfix_aplfunctionalsymbolquadgreaterthan	APL FUNCTIONAL SYMBOL QUAD GREATER-THAN
-2345	needsfix_aplfunctionalsymbolleftwardsvane	APL FUNCTIONAL SYMBOL LEFTWARDS VANE
-2346	needsfix_aplfunctionalsymbolrightwardsvane	APL FUNCTIONAL SYMBOL RIGHTWARDS VANE
-2347	needsfix_aplfunctionalsymbolquadleftwardsarrow	APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW
-2348	needsfix_aplfunctionalsymbolquadrightwardsarrow	APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW
-2349	needsfix_aplfunctionalsymbolcirclebackslash	APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH
-234A	needsfix_aplfunctionalsymboldowntackunderbar	APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR
-234B	needsfix_aplfunctionalsymboldeltastile	APL FUNCTIONAL SYMBOL DELTA STILE
-234C	needsfix_aplfunctionalsymbolquaddowncaret	APL FUNCTIONAL SYMBOL QUAD DOWN CARET
-234D	needsfix_aplfunctionalsymbolquaddelta	APL FUNCTIONAL SYMBOL QUAD DELTA
-234E	needsfix_aplfunctionalsymboldowntackjot	APL FUNCTIONAL SYMBOL DOWN TACK JOT
-234F	needsfix_aplfunctionalsymbolupwardsvane	APL FUNCTIONAL SYMBOL UPWARDS VANE
-2350	needsfix_aplfunctionalsymbolquadupwardsarrow	APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW
-2351	needsfix_aplfunctionalsymboluptackoverbar	APL FUNCTIONAL SYMBOL UP TACK OVERBAR
-2352	needsfix_aplfunctionalsymboldelstile	APL FUNCTIONAL SYMBOL DEL STILE
-2353	needsfix_aplfunctionalsymbolquadupcaret	APL FUNCTIONAL SYMBOL QUAD UP CARET
-2354	needsfix_aplfunctionalsymbolquaddel	APL FUNCTIONAL SYMBOL QUAD DEL
-2355	needsfix_aplfunctionalsymboluptackjot	APL FUNCTIONAL SYMBOL UP TACK JOT
-2356	needsfix_aplfunctionalsymboldownwardsvane	APL FUNCTIONAL SYMBOL DOWNWARDS VANE
-2357	needsfix_aplfunctionalsymbolquaddownwardsarrow	APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW
-2358	needsfix_aplfunctionalsymbolquoteunderbar	APL FUNCTIONAL SYMBOL QUOTE UNDERBAR
-2359	needsfix_aplfunctionalsymboldeltaunderbar	APL FUNCTIONAL SYMBOL DELTA UNDERBAR
-235A	needsfix_aplfunctionalsymboldiamondunderbar	APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR
-235B	needsfix_aplfunctionalsymboljotunderbar	APL FUNCTIONAL SYMBOL JOT UNDERBAR
-235C	needsfix_aplfunctionalsymbolcircleunderbar	APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR
-235D	needsfix_aplfunctionalsymbolupshoejot	APL FUNCTIONAL SYMBOL UP SHOE JOT
-235E	needsfix_aplfunctionalsymbolquotequad	APL FUNCTIONAL SYMBOL QUOTE QUAD
-235F	needsfix_aplfunctionalsymbolcirclestar	APL FUNCTIONAL SYMBOL CIRCLE STAR
-2360	needsfix_aplfunctionalsymbolquadcolon	APL FUNCTIONAL SYMBOL QUAD COLON
-2361	needsfix_aplfunctionalsymboluptackdiaeresis	APL FUNCTIONAL SYMBOL UP TACK DIAERESIS
-2362	needsfix_aplfunctionalsymboldeldiaeresis	APL FUNCTIONAL SYMBOL DEL DIAERESIS
-2363	needsfix_aplfunctionalsymbolstardiaeresis	APL FUNCTIONAL SYMBOL STAR DIAERESIS
-2364	needsfix_aplfunctionalsymboljotdiaeresis	APL FUNCTIONAL SYMBOL JOT DIAERESIS
-2365	needsfix_aplfunctionalsymbolcirclediaeresis	APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS
-2366	needsfix_aplfunctionalsymboldownshoestile	APL FUNCTIONAL SYMBOL DOWN SHOE STILE
-2367	needsfix_aplfunctionalsymbolleftshoestile	APL FUNCTIONAL SYMBOL LEFT SHOE STILE
-2368	needsfix_aplfunctionalsymboltildediaeresis	APL FUNCTIONAL SYMBOL TILDE DIAERESIS
-2369	needsfix_aplfunctionalsymbolgreaterthandiaeresis	APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS
-236A	needsfix_aplfunctionalsymbolcommabar	APL FUNCTIONAL SYMBOL COMMA BAR
-236B	needsfix_aplfunctionalsymboldeltilde	APL FUNCTIONAL SYMBOL DEL TILDE
-236C	needsfix_aplfunctionalsymbolzilde	APL FUNCTIONAL SYMBOL ZILDE
-236D	needsfix_aplfunctionalsymbolstiletilde	APL FUNCTIONAL SYMBOL STILE TILDE
-236E	needsfix_aplfunctionalsymbolsemicolonunderbar	APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR
-236F	needsfix_aplfunctionalsymbolquadnotequal	APL FUNCTIONAL SYMBOL QUAD NOT EQUAL
-2370	needsfix_aplfunctionalsymbolquadquestion	APL FUNCTIONAL SYMBOL QUAD QUESTION
-2371	needsfix_aplfunctionalsymboldowncarettilde	APL FUNCTIONAL SYMBOL DOWN CARET TILDE
-2372	needsfix_aplfunctionalsymbolupcarettilde	APL FUNCTIONAL SYMBOL UP CARET TILDE
-2373	needsfix_aplfunctionalsymboliota	APL FUNCTIONAL SYMBOL IOTA
-2374	needsfix_aplfunctionalsymbolrho	APL FUNCTIONAL SYMBOL RHO
-2375	needsfix_aplfunctionalsymbolomega	APL FUNCTIONAL SYMBOL OMEGA
-2376	needsfix_aplfunctionalsymbolalphaunderbar	APL FUNCTIONAL SYMBOL ALPHA UNDERBAR
-2377	needsfix_aplfunctionalsymbolepsilonunderbar	APL FUNCTIONAL SYMBOL EPSILON UNDERBAR
-2378	needsfix_aplfunctionalsymboliotaunderbar	APL FUNCTIONAL SYMBOL IOTA UNDERBAR
-2379	needsfix_aplfunctionalsymbolomegaunderbar	APL FUNCTIONAL SYMBOL OMEGA UNDERBAR
-237A	needsfix_aplfunctionalsymbolalpha	APL FUNCTIONAL SYMBOL ALPHA
-237B	needsfix_notcheckmark	NOT CHECK MARK
-237C	needsfix_rightanglewithdownwardszigzagarrow	RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW
-237D	needsfix_shoulderedopenbox	SHOULDERED OPEN BOX
-237E	needsfix_bellsymbol	BELL SYMBOL
-237F	needsfix_verticallinewithmiddledot	VERTICAL LINE WITH MIDDLE DOT
-2380	needsfix_insertionsymbol	INSERTION SYMBOL
-2381	needsfix_continuousunderlinesymbol	CONTINUOUS UNDERLINE SYMBOL
-2382	needsfix_discontinuousunderlinesymbol	DISCONTINUOUS UNDERLINE SYMBOL
-2383	needsfix_emphasissymbol	EMPHASIS SYMBOL
-2384	needsfix_compositionsymbol	COMPOSITION SYMBOL
-2385	needsfix_whitesquarewithcentreverticalline	WHITE SQUARE WITH CENTRE VERTICAL LINE
-2386	needsfix_entersymbol	ENTER SYMBOL
-2387	needsfix_alternativekeysymbol	ALTERNATIVE KEY SYMBOL
-2388	needsfix_helmsymbol	HELM SYMBOL
-2389	needsfix_circledhorizontalbarwithnotch	CIRCLED HORIZONTAL BAR WITH NOTCH
-238A	needsfix_circledtriangledown	CIRCLED TRIANGLE DOWN
-238B	needsfix_brokencirclewithnorthwestarrow	BROKEN CIRCLE WITH NORTHWEST ARROW
-238C	needsfix_undosymbol	UNDO SYMBOL
-238D	needsfix_monostablesymbol	MONOSTABLE SYMBOL
-238E	needsfix_hysteresissymbol	HYSTERESIS SYMBOL
-238F	needsfix_opencircuitoutputhtypesymbol	OPEN-CIRCUIT-OUTPUT H-TYPE SYMBOL
-2390	needsfix_opencircuitoutputltypesymbol	OPEN-CIRCUIT-OUTPUT L-TYPE SYMBOL
-2391	needsfix_passivepulldownoutputsymbol	PASSIVE-PULL-DOWN-OUTPUT SYMBOL
-2392	needsfix_passivepullupoutputsymbol	PASSIVE-PULL-UP-OUTPUT SYMBOL
-2393	needsfix_directcurrentsymbolformtwo	DIRECT CURRENT SYMBOL FORM TWO
-2394	needsfix_softwarefunctionsymbol	SOFTWARE-FUNCTION SYMBOL
-2395	needsfix_aplfunctionalsymbolquad	APL FUNCTIONAL SYMBOL QUAD
-2396	needsfix_decimalseparatorkeysymbol	DECIMAL SEPARATOR KEY SYMBOL
-2397	needsfix_previouspage	PREVIOUS PAGE
-2398	needsfix_nextpage	NEXT PAGE
-2399	needsfix_printscreensymbol	PRINT SCREEN SYMBOL
-239A	needsfix_clearscreensymbol	CLEAR SCREEN SYMBOL
-239B	needsfix_leftparenthesisupperhook	LEFT PARENTHESIS UPPER HOOK
-239C	needsfix_leftparenthesisextension	LEFT PARENTHESIS EXTENSION
-239D	needsfix_leftparenthesislowerhook	LEFT PARENTHESIS LOWER HOOK
-239E	needsfix_rightparenthesisupperhook	RIGHT PARENTHESIS UPPER HOOK
-239F	needsfix_rightparenthesisextension	RIGHT PARENTHESIS EXTENSION
-23A0	needsfix_rightparenthesislowerhook	RIGHT PARENTHESIS LOWER HOOK
-23A1	needsfix_leftsquarebracketuppercorner	LEFT SQUARE BRACKET UPPER CORNER
-23A2	needsfix_leftsquarebracketextension	LEFT SQUARE BRACKET EXTENSION
-23A3	needsfix_leftsquarebracketlowercorner	LEFT SQUARE BRACKET LOWER CORNER
-23A4	needsfix_rightsquarebracketuppercorner	RIGHT SQUARE BRACKET UPPER CORNER
-23A5	needsfix_rightsquarebracketextension	RIGHT SQUARE BRACKET EXTENSION
-23A6	needsfix_rightsquarebracketlowercorner	RIGHT SQUARE BRACKET LOWER CORNER
-23A7	needsfix_leftcurlybracketupperhook	LEFT CURLY BRACKET UPPER HOOK
-23A8	needsfix_leftcurlybracketmiddlepiece	LEFT CURLY BRACKET MIDDLE PIECE
-23A9	needsfix_leftcurlybracketlowerhook	LEFT CURLY BRACKET LOWER HOOK
-23AA	needsfix_curlybracketextension	CURLY BRACKET EXTENSION
-23AB	needsfix_rightcurlybracketupperhook	RIGHT CURLY BRACKET UPPER HOOK
-23AC	needsfix_rightcurlybracketmiddlepiece	RIGHT CURLY BRACKET MIDDLE PIECE
-23AD	needsfix_rightcurlybracketlowerhook	RIGHT CURLY BRACKET LOWER HOOK
-23AE	needsfix_integralextension	INTEGRAL EXTENSION
-23AF	needsfix_horizontallineextension	HORIZONTAL LINE EXTENSION
-23B0	needsfix_upperleftorlowerrightcurlybracketsection	UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION
-23B1	needsfix_upperrightorlowerleftcurlybracketsection	UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION
-23B2	needsfix_summationtop	SUMMATION TOP
-23B3	needsfix_summationbottom	SUMMATION BOTTOM
-23B4	needsfix_topsquarebracket	TOP SQUARE BRACKET
-23B5	needsfix_bottomsquarebracket	BOTTOM SQUARE BRACKET
-23B6	needsfix_bottomsquarebracketovertopsquarebracket	BOTTOM SQUARE BRACKET OVER TOP SQUARE BRACKET
-23B7	needsfix_radicalsymbolbottom	RADICAL SYMBOL BOTTOM
-23B8	needsfix_leftverticalboxline	LEFT VERTICAL BOX LINE
-23B9	needsfix_rightverticalboxline	RIGHT VERTICAL BOX LINE
-23BA	needsfix_horizontalscanline1	HORIZONTAL SCAN LINE-1
-23BB	needsfix_horizontalscanline3	HORIZONTAL SCAN LINE-3
-23BC	needsfix_horizontalscanline7	HORIZONTAL SCAN LINE-7
-23BD	needsfix_horizontalscanline9	HORIZONTAL SCAN LINE-9
-23BE	needsfix_dentistrysymbollightverticalandtopright	DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT
-23BF	needsfix_dentistrysymbollightverticalandbottomright	DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM RIGHT
-23C0	needsfix_dentistrysymbollightverticalwithcircle	DENTISTRY SYMBOL LIGHT VERTICAL WITH CIRCLE
-23C1	needsfix_dentistrysymbollightdownandhorizontalwithcircle	DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH CIRCLE
-23C2	needsfix_dentistrysymbollightupandhorizontalwithcircle	DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH CIRCLE
-23C3	needsfix_dentistrysymbollightverticalwithtriangle	DENTISTRY SYMBOL LIGHT VERTICAL WITH TRIANGLE
-23C4	needsfix_dentistrysymbollightdownandhorizontalwithtriangle	DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH TRIANGLE
-23C5	needsfix_dentistrysymbollightupandhorizontalwithtriangle	DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH TRIANGLE
-23C6	needsfix_dentistrysymbollightverticalandwave	DENTISTRY SYMBOL LIGHT VERTICAL AND WAVE
-23C7	needsfix_dentistrysymbollightdownandhorizontalwithwave	DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH WAVE
-23C8	needsfix_dentistrysymbollightupandhorizontalwithwave	DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH WAVE
-23C9	needsfix_dentistrysymbollightdownandhorizontal	DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL
-23CA	needsfix_dentistrysymbollightupandhorizontal	DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL
-23CB	needsfix_dentistrysymbollightverticalandtopleft	DENTISTRY SYMBOL LIGHT VERTICAL AND TOP LEFT
-23CC	needsfix_dentistrysymbollightverticalandbottomleft	DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM LEFT
-23CD	needsfix_squarefoot	SQUARE FOOT
-23CE	needsfix_returnsymbol	RETURN SYMBOL
-23CF	needsfix_ejectsymbol	EJECT SYMBOL
-23D0	needsfix_verticallineextension	VERTICAL LINE EXTENSION
-23D1	needsfix_metricalbreve	METRICAL BREVE
-23D2	needsfix_metricallongovershort	METRICAL LONG OVER SHORT
-23D3	needsfix_metricalshortoverlong	METRICAL SHORT OVER LONG
-23D4	needsfix_metricallongovertwoshorts	METRICAL LONG OVER TWO SHORTS
-23D5	needsfix_metricaltwoshortsoverlong	METRICAL TWO SHORTS OVER LONG
-23D6	needsfix_metricaltwoshortsjoined	METRICAL TWO SHORTS JOINED
-23D7	needsfix_metricaltriseme	METRICAL TRISEME
-23D8	needsfix_metricaltetraseme	METRICAL TETRASEME
-23D9	needsfix_metricalpentaseme	METRICAL PENTASEME
-23DA	needsfix_earthground	EARTH GROUND
-23DB	needsfix_fuse	FUSE
-23DC	needsfix_topparenthesis	TOP PARENTHESIS
-23DD	needsfix_bottomparenthesis	BOTTOM PARENTHESIS
-23DE	needsfix_topcurlybracket	TOP CURLY BRACKET
-23DF	needsfix_bottomcurlybracket	BOTTOM CURLY BRACKET
-23E0	needsfix_toptortoiseshellbracket	TOP TORTOISE SHELL BRACKET
-23E1	needsfix_bottomtortoiseshellbracket	BOTTOM TORTOISE SHELL BRACKET
-23E2	needsfix_whitetrapezium	WHITE TRAPEZIUM
-23E3	needsfix_benzeneringwithcircle	BENZENE RING WITH CIRCLE
-23E4	needsfix_straightness	STRAIGHTNESS
-23E5	needsfix_flatness	FLATNESS
-23E6	needsfix_accurrent	AC CURRENT
-23E7	needsfix_electricalintersection	ELECTRICAL INTERSECTION
-23E8	needsfix_decimalexponentsymbol	DECIMAL EXPONENT SYMBOL
+2300	diametersign	DIAMETER SIGN
+2301	electricarrow	ELECTRIC ARROW
+2302	house	HOUSE
+2303	uparrowhead	UP ARROWHEAD
+2304	downarrowhead	DOWN ARROWHEAD
+2305	projective	PROJECTIVE
+2306	perspective	PERSPECTIVE
+2307	wavyline	WAVY LINE
+2308	leftceiling	LEFT CEILING
+2309	rightceiling	RIGHT CEILING
+230A	leftfloor	LEFT FLOOR
+230B	rightfloor	RIGHT FLOOR
+230C	bottomrightcrop	BOTTOM RIGHT CROP
+230D	bottomleftcrop	BOTTOM LEFT CROP
+230E	toprightcrop	TOP RIGHT CROP
+230F	topleftcrop	TOP LEFT CROP
+2310	revlogicalnot	REVERSED NOT SIGN
+2311	squarelozenge	SQUARE LOZENGE
+2312	arc	ARC
+2313	segment	SEGMENT
+2314	sector	SECTOR
+2315	telephonerecorder	TELEPHONE RECORDER
+2316	positionindicator	POSITION INDICATOR
+2317	viewdatasquare	VIEWDATA SQUARE
+2318	placeofinterestsign	PLACE OF INTEREST SIGN
+2319	turnednotsign	TURNED NOT SIGN
+231A	watch	WATCH
+231B	hourglass	HOURGLASS
+231C	topleftcorner	TOP LEFT CORNER
+231D	toprightcorner	TOP RIGHT CORNER
+231E	bottomleftcorner	BOTTOM LEFT CORNER
+231F	bottomrightcorner	BOTTOM RIGHT CORNER
+2320	integraltp	TOP HALF INTEGRAL
+2321	integralbt	BOTTOM HALF INTEGRAL
+2322	frown	FROWN
+2323	smile	SMILE
+2324	uparrowheadbetweentwohorizontalbars	UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS
+2325	optionkey	OPTION KEY
+2326	erasetotheright	ERASE TO THE RIGHT
+2327	xinarectanglebox	X IN A RECTANGLE BOX
+2328	keyboard	KEYBOARD
+2329	angleleft	LEFT-POINTING ANGLE BRACKET
+232A	angleright	RIGHT-POINTING ANGLE BRACKET
+232B	erasetotheleft	ERASE TO THE LEFT
+232C	benzenering	BENZENE RING
+232D	cylindricity	CYLINDRICITY
+232E	allaroundprofile	ALL AROUND-PROFILE
+232F	symmetry	SYMMETRY
+2330	totalrunout	TOTAL RUNOUT
+2331	dimensionorigin	DIMENSION ORIGIN
+2332	conicaltaper	CONICAL TAPER
+2333	slope	SLOPE
+2334	counterbore	COUNTERBORE
+2335	countersink	COUNTERSINK
+2336	aplfunctionalsymbolibeam	APL FUNCTIONAL SYMBOL I-BEAM
+2337	aplfunctionalsymbolsquishquad	APL FUNCTIONAL SYMBOL SQUISH QUAD
+2338	aplfunctionalsymbolquadequal	APL FUNCTIONAL SYMBOL QUAD EQUAL
+2339	aplfunctionalsymbolquaddivide	APL FUNCTIONAL SYMBOL QUAD DIVIDE
+233A	aplfunctionalsymbolquaddiamond	APL FUNCTIONAL SYMBOL QUAD DIAMOND
+233B	aplfunctionalsymbolquadjot	APL FUNCTIONAL SYMBOL QUAD JOT
+233C	aplfunctionalsymbolquadcircle	APL FUNCTIONAL SYMBOL QUAD CIRCLE
+233D	aplfunctionalsymbolcirclestile	APL FUNCTIONAL SYMBOL CIRCLE STILE
+233E	aplfunctionalsymbolcirclejot	APL FUNCTIONAL SYMBOL CIRCLE JOT
+233F	aplfunctionalsymbolslashbar	APL FUNCTIONAL SYMBOL SLASH BAR
+2340	aplfunctionalsymbolbackslashbar	APL FUNCTIONAL SYMBOL BACKSLASH BAR
+2341	aplfunctionalsymbolquadslash	APL FUNCTIONAL SYMBOL QUAD SLASH
+2342	aplfunctionalsymbolquadbackslash	APL FUNCTIONAL SYMBOL QUAD BACKSLASH
+2343	aplfunctionalsymbolquadlessthan	APL FUNCTIONAL SYMBOL QUAD LESS-THAN
+2344	aplfunctionalsymbolquadgreaterthan	APL FUNCTIONAL SYMBOL QUAD GREATER-THAN
+2345	aplfunctionalsymbolleftwardsvane	APL FUNCTIONAL SYMBOL LEFTWARDS VANE
+2346	aplfunctionalsymbolrightwardsvane	APL FUNCTIONAL SYMBOL RIGHTWARDS VANE
+2347	aplfunctionalsymbolquadleftwardsarrow	APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW
+2348	aplfunctionalsymbolquadrightwardsarrow	APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW
+2349	aplfunctionalsymbolcirclebackslash	APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH
+234A	aplfunctionalsymboldowntackunderbar	APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR
+234B	aplfunctionalsymboldeltastile	APL FUNCTIONAL SYMBOL DELTA STILE
+234C	aplfunctionalsymbolquaddowncaret	APL FUNCTIONAL SYMBOL QUAD DOWN CARET
+234D	aplfunctionalsymbolquaddelta	APL FUNCTIONAL SYMBOL QUAD DELTA
+234E	aplfunctionalsymboldowntackjot	APL FUNCTIONAL SYMBOL DOWN TACK JOT
+234F	aplfunctionalsymbolupwardsvane	APL FUNCTIONAL SYMBOL UPWARDS VANE
+2350	aplfunctionalsymbolquadupwardsarrow	APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW
+2351	aplfunctionalsymboluptackoverbar	APL FUNCTIONAL SYMBOL UP TACK OVERBAR
+2352	aplfunctionalsymboldelstile	APL FUNCTIONAL SYMBOL DEL STILE
+2353	aplfunctionalsymbolquadupcaret	APL FUNCTIONAL SYMBOL QUAD UP CARET
+2354	aplfunctionalsymbolquaddel	APL FUNCTIONAL SYMBOL QUAD DEL
+2355	aplfunctionalsymboluptackjot	APL FUNCTIONAL SYMBOL UP TACK JOT
+2356	aplfunctionalsymboldownwardsvane	APL FUNCTIONAL SYMBOL DOWNWARDS VANE
+2357	aplfunctionalsymbolquaddownwardsarrow	APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW
+2358	aplfunctionalsymbolquoteunderbar	APL FUNCTIONAL SYMBOL QUOTE UNDERBAR
+2359	aplfunctionalsymboldeltaunderbar	APL FUNCTIONAL SYMBOL DELTA UNDERBAR
+235A	aplfunctionalsymboldiamondunderbar	APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR
+235B	aplfunctionalsymboljotunderbar	APL FUNCTIONAL SYMBOL JOT UNDERBAR
+235C	aplfunctionalsymbolcircleunderbar	APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR
+235D	aplfunctionalsymbolupshoejot	APL FUNCTIONAL SYMBOL UP SHOE JOT
+235E	aplfunctionalsymbolquotequad	APL FUNCTIONAL SYMBOL QUOTE QUAD
+235F	aplfunctionalsymbolcirclestar	APL FUNCTIONAL SYMBOL CIRCLE STAR
+2360	aplfunctionalsymbolquadcolon	APL FUNCTIONAL SYMBOL QUAD COLON
+2361	aplfunctionalsymboluptackdiaeresis	APL FUNCTIONAL SYMBOL UP TACK DIAERESIS
+2362	aplfunctionalsymboldeldiaeresis	APL FUNCTIONAL SYMBOL DEL DIAERESIS
+2363	aplfunctionalsymbolstardiaeresis	APL FUNCTIONAL SYMBOL STAR DIAERESIS
+2364	aplfunctionalsymboljotdiaeresis	APL FUNCTIONAL SYMBOL JOT DIAERESIS
+2365	aplfunctionalsymbolcirclediaeresis	APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS
+2366	aplfunctionalsymboldownshoestile	APL FUNCTIONAL SYMBOL DOWN SHOE STILE
+2367	aplfunctionalsymbolleftshoestile	APL FUNCTIONAL SYMBOL LEFT SHOE STILE
+2368	aplfunctionalsymboltildediaeresis	APL FUNCTIONAL SYMBOL TILDE DIAERESIS
+2369	aplfunctionalsymbolgreaterthandiaeresis	APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS
+236A	aplfunctionalsymbolcommabar	APL FUNCTIONAL SYMBOL COMMA BAR
+236B	aplfunctionalsymboldeltilde	APL FUNCTIONAL SYMBOL DEL TILDE
+236C	aplfunctionalsymbolzilde	APL FUNCTIONAL SYMBOL ZILDE
+236D	aplfunctionalsymbolstiletilde	APL FUNCTIONAL SYMBOL STILE TILDE
+236E	aplfunctionalsymbolsemicolonunderbar	APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR
+236F	aplfunctionalsymbolquadnotequal	APL FUNCTIONAL SYMBOL QUAD NOT EQUAL
+2370	aplfunctionalsymbolquadquestion	APL FUNCTIONAL SYMBOL QUAD QUESTION
+2371	aplfunctionalsymboldowncarettilde	APL FUNCTIONAL SYMBOL DOWN CARET TILDE
+2372	aplfunctionalsymbolupcarettilde	APL FUNCTIONAL SYMBOL UP CARET TILDE
+2373	aplfunctionalsymboliota	APL FUNCTIONAL SYMBOL IOTA
+2374	aplfunctionalsymbolrho	APL FUNCTIONAL SYMBOL RHO
+2375	aplfunctionalsymbolomega	APL FUNCTIONAL SYMBOL OMEGA
+2376	aplfunctionalsymbolalphaunderbar	APL FUNCTIONAL SYMBOL ALPHA UNDERBAR
+2377	aplfunctionalsymbolepsilonunderbar	APL FUNCTIONAL SYMBOL EPSILON UNDERBAR
+2378	aplfunctionalsymboliotaunderbar	APL FUNCTIONAL SYMBOL IOTA UNDERBAR
+2379	aplfunctionalsymbolomegaunderbar	APL FUNCTIONAL SYMBOL OMEGA UNDERBAR
+237A	aplfunctionalsymbolalpha	APL FUNCTIONAL SYMBOL ALPHA
+237B	notcheckmark	NOT CHECK MARK
+237C	rightanglewithdownwardszigzagarrow	RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW
+237D	shoulderedopenbox	SHOULDERED OPEN BOX
+237E	bellsymbol	BELL SYMBOL
+237F	verticallinewithmiddledot	VERTICAL LINE WITH MIDDLE DOT
+2380	insertionsymbol	INSERTION SYMBOL
+2381	continuousunderlinesymbol	CONTINUOUS UNDERLINE SYMBOL
+2382	discontinuousunderlinesymbol	DISCONTINUOUS UNDERLINE SYMBOL
+2383	emphasissymbol	EMPHASIS SYMBOL
+2384	compositionsymbol	COMPOSITION SYMBOL
+2385	whitesquarewithcentreverticalline	WHITE SQUARE WITH CENTRE VERTICAL LINE
+2386	entersymbol	ENTER SYMBOL
+2387	alternativekeysymbol	ALTERNATIVE KEY SYMBOL
+2388	helmsymbol	HELM SYMBOL
+2389	circledhorizontalbarwithnotch	CIRCLED HORIZONTAL BAR WITH NOTCH
+238A	circledtriangledown	CIRCLED TRIANGLE DOWN
+238B	brokencirclewithnorthwestarrow	BROKEN CIRCLE WITH NORTHWEST ARROW
+238C	undosymbol	UNDO SYMBOL
+238D	monostablesymbol	MONOSTABLE SYMBOL
+238E	hysteresissymbol	HYSTERESIS SYMBOL
+238F	opencircuitoutputhtypesymbol	OPEN-CIRCUIT-OUTPUT H-TYPE SYMBOL
+2390	opencircuitoutputltypesymbol	OPEN-CIRCUIT-OUTPUT L-TYPE SYMBOL
+2391	passivepulldownoutputsymbol	PASSIVE-PULL-DOWN-OUTPUT SYMBOL
+2392	passivepullupoutputsymbol	PASSIVE-PULL-UP-OUTPUT SYMBOL
+2393	directcurrentsymbolformtwo	DIRECT CURRENT SYMBOL FORM TWO
+2394	softwarefunctionsymbol	SOFTWARE-FUNCTION SYMBOL
+2395	aplfunctionalsymbolquad	APL FUNCTIONAL SYMBOL QUAD
+2396	decimalseparatorkeysymbol	DECIMAL SEPARATOR KEY SYMBOL
+2397	previouspage	PREVIOUS PAGE
+2398	nextpage	NEXT PAGE
+2399	printscreensymbol	PRINT SCREEN SYMBOL
+239A	clearscreensymbol	CLEAR SCREEN SYMBOL
+239B	leftparenthesisupperhook	LEFT PARENTHESIS UPPER HOOK
+239C	leftparenthesisextension	LEFT PARENTHESIS EXTENSION
+239D	leftparenthesislowerhook	LEFT PARENTHESIS LOWER HOOK
+239E	rightparenthesisupperhook	RIGHT PARENTHESIS UPPER HOOK
+239F	rightparenthesisextension	RIGHT PARENTHESIS EXTENSION
+23A0	rightparenthesislowerhook	RIGHT PARENTHESIS LOWER HOOK
+23A1	leftsquarebracketuppercorner	LEFT SQUARE BRACKET UPPER CORNER
+23A2	leftsquarebracketextension	LEFT SQUARE BRACKET EXTENSION
+23A3	leftsquarebracketlowercorner	LEFT SQUARE BRACKET LOWER CORNER
+23A4	rightsquarebracketuppercorner	RIGHT SQUARE BRACKET UPPER CORNER
+23A5	rightsquarebracketextension	RIGHT SQUARE BRACKET EXTENSION
+23A6	rightsquarebracketlowercorner	RIGHT SQUARE BRACKET LOWER CORNER
+23A7	leftcurlybracketupperhook	LEFT CURLY BRACKET UPPER HOOK
+23A8	leftcurlybracketmiddlepiece	LEFT CURLY BRACKET MIDDLE PIECE
+23A9	leftcurlybracketlowerhook	LEFT CURLY BRACKET LOWER HOOK
+23AA	curlybracketextension	CURLY BRACKET EXTENSION
+23AB	rightcurlybracketupperhook	RIGHT CURLY BRACKET UPPER HOOK
+23AC	rightcurlybracketmiddlepiece	RIGHT CURLY BRACKET MIDDLE PIECE
+23AD	rightcurlybracketlowerhook	RIGHT CURLY BRACKET LOWER HOOK
+23AE	integralextension	INTEGRAL EXTENSION
+23AF	horizontallineextension	HORIZONTAL LINE EXTENSION
+23B0	upperleftorlowerrightcurlybracketsection	UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION
+23B1	upperrightorlowerleftcurlybracketsection	UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION
+23B2	summationtop	SUMMATION TOP
+23B3	summationbottom	SUMMATION BOTTOM
+23B4	topsquarebracket	TOP SQUARE BRACKET
+23B5	bottomsquarebracket	BOTTOM SQUARE BRACKET
+23B6	bottomsquarebracketovertopsquarebracket	BOTTOM SQUARE BRACKET OVER TOP SQUARE BRACKET
+23B7	radicalsymbolbottom	RADICAL SYMBOL BOTTOM
+23B8	leftverticalboxline	LEFT VERTICAL BOX LINE
+23B9	rightverticalboxline	RIGHT VERTICAL BOX LINE
+23BA	horizontalscanline1	HORIZONTAL SCAN LINE-1
+23BB	horizontalscanline3	HORIZONTAL SCAN LINE-3
+23BC	horizontalscanline7	HORIZONTAL SCAN LINE-7
+23BD	horizontalscanline9	HORIZONTAL SCAN LINE-9
+23BE	dentistrysymbollightverticalandtopright	DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT
+23BF	dentistrysymbollightverticalandbottomright	DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM RIGHT
+23C0	dentistrysymbollightverticalwithcircle	DENTISTRY SYMBOL LIGHT VERTICAL WITH CIRCLE
+23C1	dentistrysymbollightdownandhorizontalwithcircle	DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH CIRCLE
+23C2	dentistrysymbollightupandhorizontalwithcircle	DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH CIRCLE
+23C3	dentistrysymbollightverticalwithtriangle	DENTISTRY SYMBOL LIGHT VERTICAL WITH TRIANGLE
+23C4	dentistrysymbollightdownandhorizontalwithtriangle	DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH TRIANGLE
+23C5	dentistrysymbollightupandhorizontalwithtriangle	DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH TRIANGLE
+23C6	dentistrysymbollightverticalandwave	DENTISTRY SYMBOL LIGHT VERTICAL AND WAVE
+23C7	dentistrysymbollightdownandhorizontalwithwave	DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH WAVE
+23C8	dentistrysymbollightupandhorizontalwithwave	DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH WAVE
+23C9	dentistrysymbollightdownandhorizontal	DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL
+23CA	dentistrysymbollightupandhorizontal	DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL
+23CB	dentistrysymbollightverticalandtopleft	DENTISTRY SYMBOL LIGHT VERTICAL AND TOP LEFT
+23CC	dentistrysymbollightverticalandbottomleft	DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM LEFT
+23CD	squarefoot	SQUARE FOOT
+23CE	returnsymbol	RETURN SYMBOL
+23CF	ejectsymbol	EJECT SYMBOL
+23D0	verticallineextension	VERTICAL LINE EXTENSION
+23D1	metricalbreve	METRICAL BREVE
+23D2	metricallongovershort	METRICAL LONG OVER SHORT
+23D3	metricalshortoverlong	METRICAL SHORT OVER LONG
+23D4	metricallongovertwoshorts	METRICAL LONG OVER TWO SHORTS
+23D5	metricaltwoshortsoverlong	METRICAL TWO SHORTS OVER LONG
+23D6	metricaltwoshortsjoined	METRICAL TWO SHORTS JOINED
+23D7	metricaltriseme	METRICAL TRISEME
+23D8	metricaltetraseme	METRICAL TETRASEME
+23D9	metricalpentaseme	METRICAL PENTASEME
+23DA	earthground	EARTH GROUND
+23DB	fuse	FUSE
+23DC	topparenthesis	TOP PARENTHESIS
+23DD	bottomparenthesis	BOTTOM PARENTHESIS
+23DE	topcurlybracket	TOP CURLY BRACKET
+23DF	bottomcurlybracket	BOTTOM CURLY BRACKET
+23E0	toptortoiseshellbracket	TOP TORTOISE SHELL BRACKET
+23E1	bottomtortoiseshellbracket	BOTTOM TORTOISE SHELL BRACKET
+23E2	whitetrapezium	WHITE TRAPEZIUM
+23E3	benzeneringwithcircle	BENZENE RING WITH CIRCLE
+23E4	straightness	STRAIGHTNESS
+23E5	flatness	FLATNESS
+23E6	accurrent	AC CURRENT
+23E7	electricalintersection	ELECTRICAL INTERSECTION
+23E8	decimalexponentsymbol	DECIMAL EXPONENT SYMBOL

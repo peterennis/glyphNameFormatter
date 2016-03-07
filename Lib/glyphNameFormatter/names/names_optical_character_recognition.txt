@@ -1,12 +1,12 @@
 # Optical Character Recognition 2440 - 245F
-2440	needsfix_ocrhook	OCR HOOK
-2441	needsfix_ocrchair	OCR CHAIR
-2442	needsfix_ocrfork	OCR FORK
-2443	needsfix_ocrinvertedfork	OCR INVERTED FORK
-2444	needsfix_ocrbeltbuckle	OCR BELT BUCKLE
-2445	needsfix_ocrbowtie	OCR BOW TIE
-2446	needsfix_ocrbranchbankidentification	OCR BRANCH BANK IDENTIFICATION
-2447	needsfix_ocramountofcheck	OCR AMOUNT OF CHECK
-2448	needsfix_ocrdash	OCR DASH
-2449	needsfix_ocrcustomeraccountnumber	OCR CUSTOMER ACCOUNT NUMBER
-244A	needsfix_ocrdoublebackslash	OCR DOUBLE BACKSLASH
+2440	ocrhook	OCR HOOK
+2441	ocrchair	OCR CHAIR
+2442	ocrfork	OCR FORK
+2443	ocrinvertedfork	OCR INVERTED FORK
+2444	ocrbeltbuckle	OCR BELT BUCKLE
+2445	ocrbowtie	OCR BOW TIE
+2446	ocrbranchbankidentification	OCR BRANCH BANK IDENTIFICATION
+2447	ocramountofcheck	OCR AMOUNT OF CHECK
+2448	ocrdash	OCR DASH
+2449	ocrcustomeraccountnumber	OCR CUSTOMER ACCOUNT NUMBER
+244A	ocrdoublebackslash	OCR DOUBLE BACKSLASH

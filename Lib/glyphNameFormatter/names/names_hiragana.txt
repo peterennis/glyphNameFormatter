@@ -1,94 +1,94 @@
 # Hiragana 3040 - 309F
-3041	needsfix_hiraganalettersmalla	HIRAGANA LETTER SMALL A
-3042	needsfix_hiraganalettera	HIRAGANA LETTER A
-3043	needsfix_hiraganalettersmalli	HIRAGANA LETTER SMALL I
-3044	needsfix_hiraganaletteri	HIRAGANA LETTER I
-3045	needsfix_hiraganalettersmallu	HIRAGANA LETTER SMALL U
-3046	needsfix_hiraganaletteru	HIRAGANA LETTER U
-3047	needsfix_hiraganalettersmalle	HIRAGANA LETTER SMALL E
-3048	needsfix_hiraganalettere	HIRAGANA LETTER E
-3049	needsfix_hiraganalettersmallo	HIRAGANA LETTER SMALL O
-304A	needsfix_hiraganalettero	HIRAGANA LETTER O
-304B	needsfix_hiraganaletterka	HIRAGANA LETTER KA
-304C	needsfix_hiraganaletterga	HIRAGANA LETTER GA
-304D	needsfix_hiraganaletterki	HIRAGANA LETTER KI
-304E	needsfix_hiraganalettergi	HIRAGANA LETTER GI
-304F	needsfix_hiraganaletterku	HIRAGANA LETTER KU
-3050	needsfix_hiraganalettergu	HIRAGANA LETTER GU
-3051	needsfix_hiraganaletterke	HIRAGANA LETTER KE
-3052	needsfix_hiraganaletterge	HIRAGANA LETTER GE
-3053	needsfix_hiraganaletterko	HIRAGANA LETTER KO
-3054	needsfix_hiraganalettergo	HIRAGANA LETTER GO
-3055	needsfix_hiraganalettersa	HIRAGANA LETTER SA
-3056	needsfix_hiraganaletterza	HIRAGANA LETTER ZA
-3057	needsfix_hiraganalettersi	HIRAGANA LETTER SI
-3058	needsfix_hiraganaletterzi	HIRAGANA LETTER ZI
-3059	needsfix_hiraganalettersu	HIRAGANA LETTER SU
-305A	needsfix_hiraganaletterzu	HIRAGANA LETTER ZU
-305B	needsfix_hiraganaletterse	HIRAGANA LETTER SE
-305C	needsfix_hiraganaletterze	HIRAGANA LETTER ZE
-305D	needsfix_hiraganaletterso	HIRAGANA LETTER SO
-305E	needsfix_hiraganaletterzo	HIRAGANA LETTER ZO
-305F	needsfix_hiraganaletterta	HIRAGANA LETTER TA
-3060	needsfix_hiraganaletterda	HIRAGANA LETTER DA
-3061	needsfix_hiraganaletterti	HIRAGANA LETTER TI
-3062	needsfix_hiraganaletterdi	HIRAGANA LETTER DI
-3063	needsfix_hiraganalettersmalltu	HIRAGANA LETTER SMALL TU
-3064	needsfix_hiraganalettertu	HIRAGANA LETTER TU
-3065	needsfix_hiraganaletterdu	HIRAGANA LETTER DU
-3066	needsfix_hiraganaletterte	HIRAGANA LETTER TE
-3067	needsfix_hiraganaletterde	HIRAGANA LETTER DE
-3068	needsfix_hiraganaletterto	HIRAGANA LETTER TO
-3069	needsfix_hiraganaletterdo	HIRAGANA LETTER DO
-306A	needsfix_hiraganaletterna	HIRAGANA LETTER NA
-306B	needsfix_hiraganaletterni	HIRAGANA LETTER NI
-306C	needsfix_hiraganaletternu	HIRAGANA LETTER NU
-306D	needsfix_hiraganaletterne	HIRAGANA LETTER NE
-306E	needsfix_hiraganaletterno	HIRAGANA LETTER NO
-306F	needsfix_hiraganaletterha	HIRAGANA LETTER HA
-3070	needsfix_hiraganaletterba	HIRAGANA LETTER BA
-3071	needsfix_hiraganaletterpa	HIRAGANA LETTER PA
-3072	needsfix_hiraganaletterhi	HIRAGANA LETTER HI
-3073	needsfix_hiraganaletterbi	HIRAGANA LETTER BI
-3074	needsfix_hiraganaletterpi	HIRAGANA LETTER PI
-3075	needsfix_hiraganaletterhu	HIRAGANA LETTER HU
-3076	needsfix_hiraganaletterbu	HIRAGANA LETTER BU
-3077	needsfix_hiraganaletterpu	HIRAGANA LETTER PU
-3078	needsfix_hiraganaletterhe	HIRAGANA LETTER HE
-3079	needsfix_hiraganaletterbe	HIRAGANA LETTER BE
-307A	needsfix_hiraganaletterpe	HIRAGANA LETTER PE
-307B	needsfix_hiraganaletterho	HIRAGANA LETTER HO
-307C	needsfix_hiraganaletterbo	HIRAGANA LETTER BO
-307D	needsfix_hiraganaletterpo	HIRAGANA LETTER PO
-307E	needsfix_hiraganaletterma	HIRAGANA LETTER MA
-307F	needsfix_hiraganalettermi	HIRAGANA LETTER MI
-3080	needsfix_hiraganalettermu	HIRAGANA LETTER MU
-3081	needsfix_hiraganaletterme	HIRAGANA LETTER ME
-3082	needsfix_hiraganalettermo	HIRAGANA LETTER MO
-3083	needsfix_hiraganalettersmallya	HIRAGANA LETTER SMALL YA
-3084	needsfix_hiraganaletterya	HIRAGANA LETTER YA
-3085	needsfix_hiraganalettersmallyu	HIRAGANA LETTER SMALL YU
-3086	needsfix_hiraganaletteryu	HIRAGANA LETTER YU
-3087	needsfix_hiraganalettersmallyo	HIRAGANA LETTER SMALL YO
-3088	needsfix_hiraganaletteryo	HIRAGANA LETTER YO
-3089	needsfix_hiraganaletterra	HIRAGANA LETTER RA
-308A	needsfix_hiraganaletterri	HIRAGANA LETTER RI
-308B	needsfix_hiraganaletterru	HIRAGANA LETTER RU
-308C	needsfix_hiraganaletterre	HIRAGANA LETTER RE
-308D	needsfix_hiraganaletterro	HIRAGANA LETTER RO
-308E	needsfix_hiraganalettersmallwa	HIRAGANA LETTER SMALL WA
-308F	needsfix_hiraganaletterwa	HIRAGANA LETTER WA
-3090	needsfix_hiraganaletterwi	HIRAGANA LETTER WI
-3091	needsfix_hiraganaletterwe	HIRAGANA LETTER WE
-3092	needsfix_hiraganaletterwo	HIRAGANA LETTER WO
-3093	needsfix_hiraganalettern	HIRAGANA LETTER N
-3094	needsfix_hiraganalettervu	HIRAGANA LETTER VU
-3095	needsfix_hiraganalettersmallka	HIRAGANA LETTER SMALL KA
-3096	needsfix_hiraganalettersmallke	HIRAGANA LETTER SMALL KE
-3099	needsfix_combiningkatakanahiraganavoicedsoundmark	COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK
-309A	needsfix_combiningkatakanahiraganasemivoicedsoundmark	COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK
-309B	needsfix_katakanahiraganavoicedsoundmark	KATAKANA-HIRAGANA VOICED SOUND MARK
-309C	needsfix_katakanahiraganasemivoicedsoundmark	KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK
-309D	needsfix_hiraganaiterationmark	HIRAGANA ITERATION MARK
-309E	needsfix_hiraganavoicediterationmark	HIRAGANA VOICED ITERATION MARK
-309F	needsfix_hiraganadigraphyori	HIRAGANA DIGRAPH YORI
+3041	hiraganalettersmalla	HIRAGANA LETTER SMALL A
+3042	hiraganalettera	HIRAGANA LETTER A
+3043	hiraganalettersmalli	HIRAGANA LETTER SMALL I
+3044	hiraganaletteri	HIRAGANA LETTER I
+3045	hiraganalettersmallu	HIRAGANA LETTER SMALL U
+3046	hiraganaletteru	HIRAGANA LETTER U
+3047	hiraganalettersmalle	HIRAGANA LETTER SMALL E
+3048	hiraganalettere	HIRAGANA LETTER E
+3049	hiraganalettersmallo	HIRAGANA LETTER SMALL O
+304A	hiraganalettero	HIRAGANA LETTER O
+304B	hiraganaletterka	HIRAGANA LETTER KA
+304C	hiraganaletterga	HIRAGANA LETTER GA
+304D	hiraganaletterki	HIRAGANA LETTER KI
+304E	hiraganalettergi	HIRAGANA LETTER GI
+304F	hiraganaletterku	HIRAGANA LETTER KU
+3050	hiraganalettergu	HIRAGANA LETTER GU
+3051	hiraganaletterke	HIRAGANA LETTER KE
+3052	hiraganaletterge	HIRAGANA LETTER GE
+3053	hiraganaletterko	HIRAGANA LETTER KO
+3054	hiraganalettergo	HIRAGANA LETTER GO
+3055	hiraganalettersa	HIRAGANA LETTER SA
+3056	hiraganaletterza	HIRAGANA LETTER ZA
+3057	hiraganalettersi	HIRAGANA LETTER SI
+3058	hiraganaletterzi	HIRAGANA LETTER ZI
+3059	hiraganalettersu	HIRAGANA LETTER SU
+305A	hiraganaletterzu	HIRAGANA LETTER ZU
+305B	hiraganaletterse	HIRAGANA LETTER SE
+305C	hiraganaletterze	HIRAGANA LETTER ZE
+305D	hiraganaletterso	HIRAGANA LETTER SO
+305E	hiraganaletterzo	HIRAGANA LETTER ZO
+305F	hiraganaletterta	HIRAGANA LETTER TA
+3060	hiraganaletterda	HIRAGANA LETTER DA
+3061	hiraganaletterti	HIRAGANA LETTER TI
+3062	hiraganaletterdi	HIRAGANA LETTER DI
+3063	hiraganalettersmalltu	HIRAGANA LETTER SMALL TU
+3064	hiraganalettertu	HIRAGANA LETTER TU
+3065	hiraganaletterdu	HIRAGANA LETTER DU
+3066	hiraganaletterte	HIRAGANA LETTER TE
+3067	hiraganaletterde	HIRAGANA LETTER DE
+3068	hiraganaletterto	HIRAGANA LETTER TO
+3069	hiraganaletterdo	HIRAGANA LETTER DO
+306A	hiraganaletterna	HIRAGANA LETTER NA
+306B	hiraganaletterni	HIRAGANA LETTER NI
+306C	hiraganaletternu	HIRAGANA LETTER NU
+306D	hiraganaletterne	HIRAGANA LETTER NE
+306E	hiraganaletterno	HIRAGANA LETTER NO
+306F	hiraganaletterha	HIRAGANA LETTER HA
+3070	hiraganaletterba	HIRAGANA LETTER BA
+3071	hiraganaletterpa	HIRAGANA LETTER PA
+3072	hiraganaletterhi	HIRAGANA LETTER HI
+3073	hiraganaletterbi	HIRAGANA LETTER BI
+3074	hiraganaletterpi	HIRAGANA LETTER PI
+3075	hiraganaletterhu	HIRAGANA LETTER HU
+3076	hiraganaletterbu	HIRAGANA LETTER BU
+3077	hiraganaletterpu	HIRAGANA LETTER PU
+3078	hiraganaletterhe	HIRAGANA LETTER HE
+3079	hiraganaletterbe	HIRAGANA LETTER BE
+307A	hiraganaletterpe	HIRAGANA LETTER PE
+307B	hiraganaletterho	HIRAGANA LETTER HO
+307C	hiraganaletterbo	HIRAGANA LETTER BO
+307D	hiraganaletterpo	HIRAGANA LETTER PO
+307E	hiraganaletterma	HIRAGANA LETTER MA
+307F	hiraganalettermi	HIRAGANA LETTER MI
+3080	hiraganalettermu	HIRAGANA LETTER MU
+3081	hiraganaletterme	HIRAGANA LETTER ME
+3082	hiraganalettermo	HIRAGANA LETTER MO
+3083	hiraganalettersmallya	HIRAGANA LETTER SMALL YA
+3084	hiraganaletterya	HIRAGANA LETTER YA
+3085	hiraganalettersmallyu	HIRAGANA LETTER SMALL YU
+3086	hiraganaletteryu	HIRAGANA LETTER YU
+3087	hiraganalettersmallyo	HIRAGANA LETTER SMALL YO
+3088	hiraganaletteryo	HIRAGANA LETTER YO
+3089	hiraganaletterra	HIRAGANA LETTER RA
+308A	hiraganaletterri	HIRAGANA LETTER RI
+308B	hiraganaletterru	HIRAGANA LETTER RU
+308C	hiraganaletterre	HIRAGANA LETTER RE
+308D	hiraganaletterro	HIRAGANA LETTER RO
+308E	hiraganalettersmallwa	HIRAGANA LETTER SMALL WA
+308F	hiraganaletterwa	HIRAGANA LETTER WA
+3090	hiraganaletterwi	HIRAGANA LETTER WI
+3091	hiraganaletterwe	HIRAGANA LETTER WE
+3092	hiraganaletterwo	HIRAGANA LETTER WO
+3093	hiraganalettern	HIRAGANA LETTER N
+3094	hiraganalettervu	HIRAGANA LETTER VU
+3095	hiraganalettersmallka	HIRAGANA LETTER SMALL KA
+3096	hiraganalettersmallke	HIRAGANA LETTER SMALL KE
+3099	combiningkatakanahiraganavoicedsoundmark	COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK
+309A	combiningkatakanahiraganasemivoicedsoundmark	COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK
+309B	katakanahiraganavoicedsoundmark	KATAKANA-HIRAGANA VOICED SOUND MARK
+309C	katakanahiraganasemivoicedsoundmark	KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK
+309D	hiraganaiterationmark	HIRAGANA ITERATION MARK
+309E	hiraganavoicediterationmark	HIRAGANA VOICED ITERATION MARK
+309F	hiraganadigraphyori	HIRAGANA DIGRAPH YORI

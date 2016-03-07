@@ -6,7 +6,6 @@ from _processShape import processShape
 
 
 def process(self):
-    print "default processor"
     self.condense(self.uniName)
     return False
 

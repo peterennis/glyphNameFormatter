@@ -1,19 +1,19 @@
 # Tagbanwa 1760 - 177F
-1760	needsfix_tagbanwalettera	TAGBANWA LETTER A
-1761	needsfix_tagbanwaletteri	TAGBANWA LETTER I
-1762	needsfix_tagbanwaletteru	TAGBANWA LETTER U
-1763	needsfix_tagbanwaletterka	TAGBANWA LETTER KA
-1764	needsfix_tagbanwaletterga	TAGBANWA LETTER GA
-1765	needsfix_tagbanwaletternga	TAGBANWA LETTER NGA
-1766	needsfix_tagbanwaletterta	TAGBANWA LETTER TA
-1767	needsfix_tagbanwaletterda	TAGBANWA LETTER DA
-1768	needsfix_tagbanwaletterna	TAGBANWA LETTER NA
-1769	needsfix_tagbanwaletterpa	TAGBANWA LETTER PA
-176A	needsfix_tagbanwaletterba	TAGBANWA LETTER BA
-176B	needsfix_tagbanwaletterma	TAGBANWA LETTER MA
-176C	needsfix_tagbanwaletterya	TAGBANWA LETTER YA
-176E	needsfix_tagbanwaletterla	TAGBANWA LETTER LA
-176F	needsfix_tagbanwaletterwa	TAGBANWA LETTER WA
-1770	needsfix_tagbanwalettersa	TAGBANWA LETTER SA
-1772	needsfix_tagbanwavowelsigni	TAGBANWA VOWEL SIGN I
-1773	needsfix_tagbanwavowelsignu	TAGBANWA VOWEL SIGN U
+1760	tagbanwalettera	TAGBANWA LETTER A
+1761	tagbanwaletteri	TAGBANWA LETTER I
+1762	tagbanwaletteru	TAGBANWA LETTER U
+1763	tagbanwaletterka	TAGBANWA LETTER KA
+1764	tagbanwaletterga	TAGBANWA LETTER GA
+1765	tagbanwaletternga	TAGBANWA LETTER NGA
+1766	tagbanwaletterta	TAGBANWA LETTER TA
+1767	tagbanwaletterda	TAGBANWA LETTER DA
+1768	tagbanwaletterna	TAGBANWA LETTER NA
+1769	tagbanwaletterpa	TAGBANWA LETTER PA
+176A	tagbanwaletterba	TAGBANWA LETTER BA
+176B	tagbanwaletterma	TAGBANWA LETTER MA
+176C	tagbanwaletterya	TAGBANWA LETTER YA
+176E	tagbanwaletterla	TAGBANWA LETTER LA
+176F	tagbanwaletterwa	TAGBANWA LETTER WA
+1770	tagbanwalettersa	TAGBANWA LETTER SA
+1772	tagbanwavowelsigni	TAGBANWA VOWEL SIGN I
+1773	tagbanwavowelsignu	TAGBANWA VOWEL SIGN U

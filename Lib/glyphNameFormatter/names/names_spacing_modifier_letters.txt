@@ -1,81 +1,81 @@
 # Spacing Modifier Letters 02B0 - 02FF
-02B0	needsfix_modifierlettersmallh	MODIFIER LETTER SMALL H
-02B1	needsfix_modifierlettersmallhwithhook	MODIFIER LETTER SMALL H WITH HOOK
-02B2	needsfix_modifierlettersmallj	MODIFIER LETTER SMALL J
-02B3	needsfix_modifierlettersmallr	MODIFIER LETTER SMALL R
-02B4	needsfix_modifierlettersmallturnedr	MODIFIER LETTER SMALL TURNED R
-02B5	needsfix_modifierlettersmallturnedrwithhook	MODIFIER LETTER SMALL TURNED R WITH HOOK
-02B6	needsfix_modifierlettersmallcapitalinvertedr	MODIFIER LETTER SMALL CAPITAL INVERTED R
-02B7	needsfix_modifierlettersmallw	MODIFIER LETTER SMALL W
-02B8	needsfix_modifierlettersmally	MODIFIER LETTER SMALL Y
-02B9	needsfix_modifierletterprime	MODIFIER LETTER PRIME
-02BA	needsfix_modifierletterdoubleprime	MODIFIER LETTER DOUBLE PRIME
-02BB	needsfix_modifierletterturnedcomma	MODIFIER LETTER TURNED COMMA
-02BC	needsfix_modifierletterapostrophe	MODIFIER LETTER APOSTROPHE
-02BD	needsfix_modifierletterreversedcomma	MODIFIER LETTER REVERSED COMMA
-02BE	needsfix_modifierletterrighthalfring	MODIFIER LETTER RIGHT HALF RING
-02BF	needsfix_modifierletterlefthalfring	MODIFIER LETTER LEFT HALF RING
-02C0	needsfix_modifierletterglottalstop	MODIFIER LETTER GLOTTAL STOP
-02C1	needsfix_modifierletterreversedglottalstop	MODIFIER LETTER REVERSED GLOTTAL STOP
-02C2	needsfix_modifierletterleftarrowhead	MODIFIER LETTER LEFT ARROWHEAD
-02C3	needsfix_modifierletterrightarrowhead	MODIFIER LETTER RIGHT ARROWHEAD
-02C4	needsfix_modifierletteruparrowhead	MODIFIER LETTER UP ARROWHEAD
-02C5	needsfix_modifierletterdownarrowhead	MODIFIER LETTER DOWN ARROWHEAD
-02C6	needsfix_circumflex	MODIFIER LETTER CIRCUMFLEX ACCENT
-02C7	needsfix_caron	CARON
-02C8	needsfix_modifierletterverticalline	MODIFIER LETTER VERTICAL LINE
-02C9	needsfix_modifierlettermacron	MODIFIER LETTER MACRON
-02CA	needsfix_modifierletteracuteaccent	MODIFIER LETTER ACUTE ACCENT
-02CB	needsfix_modifierlettergraveaccent	MODIFIER LETTER GRAVE ACCENT
-02CC	needsfix_modifierletterlowverticalline	MODIFIER LETTER LOW VERTICAL LINE
-02CD	needsfix_modifierletterlowmacron	MODIFIER LETTER LOW MACRON
-02CE	needsfix_modifierletterlowgraveaccent	MODIFIER LETTER LOW GRAVE ACCENT
-02CF	needsfix_modifierletterlowacuteaccent	MODIFIER LETTER LOW ACUTE ACCENT
-02D0	needsfix_modifierlettertriangularcolon	MODIFIER LETTER TRIANGULAR COLON
-02D1	needsfix_modifierletterhalftriangularcolon	MODIFIER LETTER HALF TRIANGULAR COLON
-02D2	needsfix_modifierlettercentredrighthalfring	MODIFIER LETTER CENTRED RIGHT HALF RING
-02D3	needsfix_modifierlettercentredlefthalfring	MODIFIER LETTER CENTRED LEFT HALF RING
-02D4	needsfix_modifierletteruptack	MODIFIER LETTER UP TACK
-02D5	needsfix_modifierletterdowntack	MODIFIER LETTER DOWN TACK
-02D6	needsfix_modifierletterplussign	MODIFIER LETTER PLUS SIGN
-02D7	needsfix_modifierletterminussign	MODIFIER LETTER MINUS SIGN
-02D8	needsfix_breve	BREVE
-02D9	needsfix_dotaccent	DOT ABOVE
-02DA	needsfix_ring	RING ABOVE
-02DB	needsfix_ogonek	OGONEK
-02DC	needsfix_tilde	SMALL TILDE
-02DD	needsfix_hungarumlaut	DOUBLE ACUTE ACCENT
-02DE	needsfix_modifierletterrhotichook	MODIFIER LETTER RHOTIC HOOK
-02DF	needsfix_modifierlettercrossaccent	MODIFIER LETTER CROSS ACCENT
-02E0	needsfix_modifierlettersmallgamma	MODIFIER LETTER SMALL GAMMA
-02E1	needsfix_modifierlettersmalll	MODIFIER LETTER SMALL L
-02E2	needsfix_modifierlettersmalls	MODIFIER LETTER SMALL S
-02E3	needsfix_modifierlettersmallx	MODIFIER LETTER SMALL X
-02E4	needsfix_modifierlettersmallreversedglottalstop	MODIFIER LETTER SMALL REVERSED GLOTTAL STOP
-02E5	needsfix_modifierletterextrahightonebar	MODIFIER LETTER EXTRA-HIGH TONE BAR
-02E6	needsfix_modifierletterhightonebar	MODIFIER LETTER HIGH TONE BAR
-02E7	needsfix_modifierlettermidtonebar	MODIFIER LETTER MID TONE BAR
-02E8	needsfix_modifierletterlowtonebar	MODIFIER LETTER LOW TONE BAR
-02E9	needsfix_modifierletterextralowtonebar	MODIFIER LETTER EXTRA-LOW TONE BAR
-02EA	needsfix_modifierletteryindepartingtonemark	MODIFIER LETTER YIN DEPARTING TONE MARK
-02EB	needsfix_modifierletteryangdepartingtonemark	MODIFIER LETTER YANG DEPARTING TONE MARK
-02EC	needsfix_modifierlettervoicing	MODIFIER LETTER VOICING
-02ED	needsfix_modifierletterunaspirated	MODIFIER LETTER UNASPIRATED
-02EE	needsfix_modifierletterdoubleapostrophe	MODIFIER LETTER DOUBLE APOSTROPHE
-02EF	needsfix_modifierletterlowdownarrowhead	MODIFIER LETTER LOW DOWN ARROWHEAD
-02F0	needsfix_modifierletterlowuparrowhead	MODIFIER LETTER LOW UP ARROWHEAD
-02F1	needsfix_modifierletterlowleftarrowhead	MODIFIER LETTER LOW LEFT ARROWHEAD
-02F2	needsfix_modifierletterlowrightarrowhead	MODIFIER LETTER LOW RIGHT ARROWHEAD
-02F3	needsfix_modifierletterlowring	MODIFIER LETTER LOW RING
-02F4	needsfix_modifierlettermiddlegraveaccent	MODIFIER LETTER MIDDLE GRAVE ACCENT
-02F5	needsfix_modifierlettermiddledoublegraveaccent	MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT
-02F6	needsfix_modifierlettermiddledoubleacuteaccent	MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT
-02F7	needsfix_modifierletterlowtilde	MODIFIER LETTER LOW TILDE
-02F8	needsfix_modifierletterraisedcolon	MODIFIER LETTER RAISED COLON
-02F9	needsfix_modifierletterbeginhightone	MODIFIER LETTER BEGIN HIGH TONE
-02FA	needsfix_modifierletterendhightone	MODIFIER LETTER END HIGH TONE
-02FB	needsfix_modifierletterbeginlowtone	MODIFIER LETTER BEGIN LOW TONE
-02FC	needsfix_modifierletterendlowtone	MODIFIER LETTER END LOW TONE
-02FD	needsfix_modifierlettershelf	MODIFIER LETTER SHELF
-02FE	needsfix_modifierletteropenshelf	MODIFIER LETTER OPEN SHELF
-02FF	needsfix_modifierletterlowleftarrow	MODIFIER LETTER LOW LEFT ARROW
+02B0	hsupmod	MODIFIER LETTER SMALL H
+02B1	hhooksupmod	MODIFIER LETTER SMALL H WITH HOOK
+02B2	jsupmod	MODIFIER LETTER SMALL J
+02B3	rsupmod	MODIFIER LETTER SMALL R
+02B4	rturnedsupmod	MODIFIER LETTER SMALL TURNED R
+02B5	rhookturnedsupmod	MODIFIER LETTER SMALL TURNED R WITH HOOK
+02B6	Rsmallinvertedsupmod	MODIFIER LETTER SMALL CAPITAL INVERTED R
+02B7	wsupmod	MODIFIER LETTER SMALL W
+02B8	ysupmod	MODIFIER LETTER SMALL Y
+02B9	primemod	MODIFIER LETTER PRIME
+02BA	dblprimemod	MODIFIER LETTER DOUBLE PRIME
+02BB	okina	MODIFIER LETTER TURNED COMMA
+02BC	apostrophemod	MODIFIER LETTER APOSTROPHE
+02BD	commareversedmod	MODIFIER LETTER REVERSED COMMA
+02BE	ringhalfrightmod	MODIFIER LETTER RIGHT HALF RING
+02BF	ringhalfleftmod	MODIFIER LETTER LEFT HALF RING
+02C0	glottalstopmod	MODIFIER LETTER GLOTTAL STOP
+02C1	glottalstopreversedmod	MODIFIER LETTER REVERSED GLOTTAL STOP
+02C2	arrowheadleftmod	MODIFIER LETTER LEFT ARROWHEAD
+02C3	arrowheadrightmod	MODIFIER LETTER RIGHT ARROWHEAD
+02C4	arrowheadupmod	MODIFIER LETTER UP ARROWHEAD
+02C5	arrowheaddownmod	MODIFIER LETTER DOWN ARROWHEAD
+02C6	circumflex	MODIFIER LETTER CIRCUMFLEX ACCENT
+02C7	caron	CARON
+02C8	verticallinemod	MODIFIER LETTER VERTICAL LINE
+02C9	macronmod	MODIFIER LETTER MACRON
+02CA	acutemod	MODIFIER LETTER ACUTE ACCENT
+02CB	gravemod	MODIFIER LETTER GRAVE ACCENT
+02CC	verticallinelowmod	MODIFIER LETTER LOW VERTICAL LINE
+02CD	macronlowmod	MODIFIER LETTER LOW MACRON
+02CE	gravelowmod	MODIFIER LETTER LOW GRAVE ACCENT
+02CF	acutelowmod	MODIFIER LETTER LOW ACUTE ACCENT
+02D0	colontriangularmod	MODIFIER LETTER TRIANGULAR COLON
+02D1	colontriangularhalfmod	MODIFIER LETTER HALF TRIANGULAR COLON
+02D2	ringhalfrightcenteredmod	MODIFIER LETTER CENTRED RIGHT HALF RING
+02D3	ringhalfleftcenteredmod	MODIFIER LETTER CENTRED LEFT HALF RING
+02D4	uptackmod	MODIFIER LETTER UP TACK
+02D5	downtackmod	MODIFIER LETTER DOWN TACK
+02D6	plusmod	MODIFIER LETTER PLUS SIGN
+02D7	minusmod	MODIFIER LETTER MINUS SIGN
+02D8	breve	BREVE
+02D9	dotaccent	DOT ABOVE
+02DA	ring	RING ABOVE
+02DB	ogonek	OGONEK
+02DC	tilde	SMALL TILDE
+02DD	hungarumlaut	DOUBLE ACUTE ACCENT
+02DE	hookrhoticmod	MODIFIER LETTER RHOTIC HOOK
+02DF	crossaccentmod	MODIFIER LETTER CROSS ACCENT
+02E0	gammalatinsupmod	MODIFIER LETTER SMALL GAMMA
+02E1	lsupmod	MODIFIER LETTER SMALL L
+02E2	ssupmod	MODIFIER LETTER SMALL S
+02E3	xsupmod	MODIFIER LETTER SMALL X
+02E4	glottalstopreversedsupmod	MODIFIER LETTER SMALL REVERSED GLOTTAL STOP
+02E5	tonebarextrahighmod	MODIFIER LETTER EXTRA-HIGH TONE BAR
+02E6	tonebarhighmod	MODIFIER LETTER HIGH TONE BAR
+02E7	tonebarmidmod	MODIFIER LETTER MID TONE BAR
+02E8	tonebarlowmod	MODIFIER LETTER LOW TONE BAR
+02E9	tonebarextralowmod	MODIFIER LETTER EXTRA-LOW TONE BAR
+02EA	toneyinmod	MODIFIER LETTER YIN DEPARTING TONE MARK
+02EB	toneyangmod	MODIFIER LETTER YANG DEPARTING TONE MARK
+02EC	voicingmod	MODIFIER LETTER VOICING
+02ED	unaspiratedmod	MODIFIER LETTER UNASPIRATED
+02EE	apostrophedblmod	MODIFIER LETTER DOUBLE APOSTROPHE
+02EF	arrowheaddownlowmod	MODIFIER LETTER LOW DOWN ARROWHEAD
+02F0	arrowheaduplowmod	MODIFIER LETTER LOW UP ARROWHEAD
+02F1	arrowheadleftlowmod	MODIFIER LETTER LOW LEFT ARROWHEAD
+02F2	arrowheadrightlowmod	MODIFIER LETTER LOW RIGHT ARROWHEAD
+02F3	ringlowmod	MODIFIER LETTER LOW RING
+02F4	gravemiddlemod	MODIFIER LETTER MIDDLE GRAVE ACCENT
+02F5	dblgravemiddlemod	MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT
+02F6	dblacutemiddlemod	MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT
+02F7	tildelowmod	MODIFIER LETTER LOW TILDE
+02F8	colonraisedmod	MODIFIER LETTER RAISED COLON
+02F9	tonehighbeginmod	MODIFIER LETTER BEGIN HIGH TONE
+02FA	tonehighendmod	MODIFIER LETTER END HIGH TONE
+02FB	tonelowbeginmod	MODIFIER LETTER BEGIN LOW TONE
+02FC	tonelowendmod	MODIFIER LETTER END LOW TONE
+02FD	shelfmod	MODIFIER LETTER SHELF
+02FE	shelfopenmod	MODIFIER LETTER OPEN SHELF
+02FF	arrowleftlowmod	MODIFIER LETTER LOW LEFT ARROW

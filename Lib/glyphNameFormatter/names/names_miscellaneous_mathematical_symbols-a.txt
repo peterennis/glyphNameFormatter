@@ -1,45 +1,45 @@
 # Miscellaneous Mathematical Symbols-A 27C0 - 27EF
-27C0	needsfix_threedimensionalangle	THREE DIMENSIONAL ANGLE
-27C1	needsfix_whitetrianglecontainingsmallwhitetriangle	WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE
-27C2	needsfix_perpendicular	PERPENDICULAR
-27C3	needsfix_opensubset	OPEN SUBSET
-27C4	needsfix_opensuperset	OPEN SUPERSET
-27C5	needsfix_leftsshapedbagdelimiter	LEFT S-SHAPED BAG DELIMITER
-27C6	needsfix_rightsshapedbagdelimiter	RIGHT S-SHAPED BAG DELIMITER
-27C7	needsfix_orwithdotinside	OR WITH DOT INSIDE
-27C8	needsfix_reversesolidusprecedingsubset	REVERSE SOLIDUS PRECEDING SUBSET
-27C9	needsfix_supersetprecedingsolidus	SUPERSET PRECEDING SOLIDUS
-27CA	needsfix_verticalbarwithhorizontalstroke	VERTICAL BAR WITH HORIZONTAL STROKE
-27CC	needsfix_longdivision	LONG DIVISION
-27D0	needsfix_whitediamondwithcentreddot	WHITE DIAMOND WITH CENTRED DOT
-27D1	needsfix_andwithdot	AND WITH DOT
-27D2	needsfix_elementofopeningupwards	ELEMENT OF OPENING UPWARDS
-27D3	needsfix_lowerrightcornerwithdot	LOWER RIGHT CORNER WITH DOT
-27D4	needsfix_upperleftcornerwithdot	UPPER LEFT CORNER WITH DOT
-27D5	needsfix_leftouterjoin	LEFT OUTER JOIN
-27D6	needsfix_rightouterjoin	RIGHT OUTER JOIN
-27D7	needsfix_fullouterjoin	FULL OUTER JOIN
-27D8	needsfix_largeuptack	LARGE UP TACK
-27D9	needsfix_largedowntack	LARGE DOWN TACK
-27DA	needsfix_leftandrightdoubleturnstile	LEFT AND RIGHT DOUBLE TURNSTILE
-27DB	needsfix_leftandrighttack	LEFT AND RIGHT TACK
-27DC	needsfix_leftmultimap	LEFT MULTIMAP
-27DD	needsfix_longrighttack	LONG RIGHT TACK
-27DE	needsfix_longlefttack	LONG LEFT TACK
-27DF	needsfix_uptackwithcircleabove	UP TACK WITH CIRCLE ABOVE
-27E0	needsfix_lozengedividedbyhorizontalrule	LOZENGE DIVIDED BY HORIZONTAL RULE
-27E1	needsfix_whiteconcavesideddiamond	WHITE CONCAVE-SIDED DIAMOND
-27E2	needsfix_whiteconcavesideddiamondwithleftwardstick	WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK
-27E3	needsfix_whiteconcavesideddiamondwithrightwardstick	WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK
-27E4	needsfix_whitesquarewithleftwardstick	WHITE SQUARE WITH LEFTWARDS TICK
-27E5	needsfix_whitesquarewithrightwardstick	WHITE SQUARE WITH RIGHTWARDS TICK
-27E6	needsfix_mathematicalleftwhitesquarebracket	MATHEMATICAL LEFT WHITE SQUARE BRACKET
-27E7	needsfix_mathematicalrightwhitesquarebracket	MATHEMATICAL RIGHT WHITE SQUARE BRACKET
-27E8	needsfix_mathematicalleftanglebracket	MATHEMATICAL LEFT ANGLE BRACKET
-27E9	needsfix_mathematicalrightanglebracket	MATHEMATICAL RIGHT ANGLE BRACKET
-27EA	needsfix_mathematicalleftdoubleanglebracket	MATHEMATICAL LEFT DOUBLE ANGLE BRACKET
-27EB	needsfix_mathematicalrightdoubleanglebracket	MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET
-27EC	needsfix_mathematicalleftwhitetortoiseshellbracket	MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET
-27ED	needsfix_mathematicalrightwhitetortoiseshellbracket	MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET
-27EE	needsfix_mathematicalleftflattenedparenthesis	MATHEMATICAL LEFT FLATTENED PARENTHESIS
-27EF	needsfix_mathematicalrightflattenedparenthesis	MATHEMATICAL RIGHT FLATTENED PARENTHESIS
+27C0	threedimensionalangle	THREE DIMENSIONAL ANGLE
+27C1	whitetrianglecontainingsmallwhitetriangle	WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE
+27C2	perpendicular	PERPENDICULAR
+27C3	opensubset	OPEN SUBSET
+27C4	opensuperset	OPEN SUPERSET
+27C5	leftsshapedbagdelimiter	LEFT S-SHAPED BAG DELIMITER
+27C6	rightsshapedbagdelimiter	RIGHT S-SHAPED BAG DELIMITER
+27C7	orwithdotinside	OR WITH DOT INSIDE
+27C8	reversesolidusprecedingsubset	REVERSE SOLIDUS PRECEDING SUBSET
+27C9	supersetprecedingsolidus	SUPERSET PRECEDING SOLIDUS
+27CA	verticalbarwithhorizontalstroke	VERTICAL BAR WITH HORIZONTAL STROKE
+27CC	longdivision	LONG DIVISION
+27D0	whitediamondwithcentreddot	WHITE DIAMOND WITH CENTRED DOT
+27D1	andwithdot	AND WITH DOT
+27D2	elementofopeningupwards	ELEMENT OF OPENING UPWARDS
+27D3	lowerrightcornerwithdot	LOWER RIGHT CORNER WITH DOT
+27D4	upperleftcornerwithdot	UPPER LEFT CORNER WITH DOT
+27D5	leftouterjoin	LEFT OUTER JOIN
+27D6	rightouterjoin	RIGHT OUTER JOIN
+27D7	fullouterjoin	FULL OUTER JOIN
+27D8	largeuptack	LARGE UP TACK
+27D9	largedowntack	LARGE DOWN TACK
+27DA	leftandrightdoubleturnstile	LEFT AND RIGHT DOUBLE TURNSTILE
+27DB	leftandrighttack	LEFT AND RIGHT TACK
+27DC	leftmultimap	LEFT MULTIMAP
+27DD	longrighttack	LONG RIGHT TACK
+27DE	longlefttack	LONG LEFT TACK
+27DF	uptackwithcircleabove	UP TACK WITH CIRCLE ABOVE
+27E0	lozengedividedbyhorizontalrule	LOZENGE DIVIDED BY HORIZONTAL RULE
+27E1	whiteconcavesideddiamond	WHITE CONCAVE-SIDED DIAMOND
+27E2	whiteconcavesideddiamondwithleftwardstick	WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK
+27E3	whiteconcavesideddiamondwithrightwardstick	WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK
+27E4	whitesquarewithleftwardstick	WHITE SQUARE WITH LEFTWARDS TICK
+27E5	whitesquarewithrightwardstick	WHITE SQUARE WITH RIGHTWARDS TICK
+27E6	mathematicalleftwhitesquarebracket	MATHEMATICAL LEFT WHITE SQUARE BRACKET
+27E7	mathematicalrightwhitesquarebracket	MATHEMATICAL RIGHT WHITE SQUARE BRACKET
+27E8	mathematicalleftanglebracket	MATHEMATICAL LEFT ANGLE BRACKET
+27E9	mathematicalrightanglebracket	MATHEMATICAL RIGHT ANGLE BRACKET
+27EA	mathematicalleftdoubleanglebracket	MATHEMATICAL LEFT DOUBLE ANGLE BRACKET
+27EB	mathematicalrightdoubleanglebracket	MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET
+27EC	mathematicalleftwhitetortoiseshellbracket	MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET
+27ED	mathematicalrightwhitetortoiseshellbracket	MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET
+27EE	mathematicalleftflattenedparenthesis	MATHEMATICAL LEFT FLATTENED PARENTHESIS
+27EF	mathematicalrightflattenedparenthesis	MATHEMATICAL RIGHT FLATTENED PARENTHESIS

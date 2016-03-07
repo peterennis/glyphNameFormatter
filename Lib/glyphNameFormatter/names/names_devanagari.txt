@@ -1,118 +1,118 @@
 # Devanagari 0900 - 097F
-0900	needsfix_devanagarisigninvertedcandrabindu	DEVANAGARI SIGN INVERTED CANDRABINDU
-0901	needsfix_devanagarisigncandrabindu	DEVANAGARI SIGN CANDRABINDU
-0902	needsfix_devanagarisignanusvara	DEVANAGARI SIGN ANUSVARA
-0903	needsfix_devanagarisignvisarga	DEVANAGARI SIGN VISARGA
-0904	needsfix_devanagarilettershorta	DEVANAGARI LETTER SHORT A
-0905	needsfix_devanagarilettera	DEVANAGARI LETTER A
-0906	needsfix_devanagariletteraa	DEVANAGARI LETTER AA
-0907	needsfix_devanagariletteri	DEVANAGARI LETTER I
-0908	needsfix_devanagariletterii	DEVANAGARI LETTER II
-0909	needsfix_devanagariletteru	DEVANAGARI LETTER U
-090A	needsfix_devanagariletteruu	DEVANAGARI LETTER UU
-090B	needsfix_devanagarilettervocalicr	DEVANAGARI LETTER VOCALIC R
-090C	needsfix_devanagarilettervocalicl	DEVANAGARI LETTER VOCALIC L
-090D	needsfix_devanagarilettercandrae	DEVANAGARI LETTER CANDRA E
-090E	needsfix_devanagarilettershorte	DEVANAGARI LETTER SHORT E
-090F	needsfix_devanagarilettere	DEVANAGARI LETTER E
-0910	needsfix_devanagariletterai	DEVANAGARI LETTER AI
-0911	needsfix_devanagarilettercandrao	DEVANAGARI LETTER CANDRA O
-0912	needsfix_devanagarilettershorto	DEVANAGARI LETTER SHORT O
-0913	needsfix_devanagarilettero	DEVANAGARI LETTER O
-0914	needsfix_devanagariletterau	DEVANAGARI LETTER AU
-0915	needsfix_devanagariletterka	DEVANAGARI LETTER KA
-0916	needsfix_devanagariletterkha	DEVANAGARI LETTER KHA
-0917	needsfix_devanagariletterga	DEVANAGARI LETTER GA
-0918	needsfix_devanagarilettergha	DEVANAGARI LETTER GHA
-0919	needsfix_devanagariletternga	DEVANAGARI LETTER NGA
-091A	needsfix_devanagariletterca	DEVANAGARI LETTER CA
-091B	needsfix_devanagarilettercha	DEVANAGARI LETTER CHA
-091C	needsfix_devanagariletterja	DEVANAGARI LETTER JA
-091D	needsfix_devanagariletterjha	DEVANAGARI LETTER JHA
-091E	needsfix_devanagariletternya	DEVANAGARI LETTER NYA
-091F	needsfix_devanagarilettertta	DEVANAGARI LETTER TTA
-0920	needsfix_devanagariletterttha	DEVANAGARI LETTER TTHA
-0921	needsfix_devanagariletterdda	DEVANAGARI LETTER DDA
-0922	needsfix_devanagariletterddha	DEVANAGARI LETTER DDHA
-0923	needsfix_devanagariletternna	DEVANAGARI LETTER NNA
-0924	needsfix_devanagariletterta	DEVANAGARI LETTER TA
-0925	needsfix_devanagarilettertha	DEVANAGARI LETTER THA
-0926	needsfix_devanagariletterda	DEVANAGARI LETTER DA
-0927	needsfix_devanagariletterdha	DEVANAGARI LETTER DHA
-0928	needsfix_devanagariletterna	DEVANAGARI LETTER NA
-0929	needsfix_devanagariletternnna	DEVANAGARI LETTER NNNA
-092A	needsfix_devanagariletterpa	DEVANAGARI LETTER PA
-092B	needsfix_devanagariletterpha	DEVANAGARI LETTER PHA
-092C	needsfix_devanagariletterba	DEVANAGARI LETTER BA
-092D	needsfix_devanagariletterbha	DEVANAGARI LETTER BHA
-092E	needsfix_devanagariletterma	DEVANAGARI LETTER MA
-092F	needsfix_devanagariletterya	DEVANAGARI LETTER YA
-0930	needsfix_devanagariletterra	DEVANAGARI LETTER RA
-0931	needsfix_devanagariletterrra	DEVANAGARI LETTER RRA
-0932	needsfix_devanagariletterla	DEVANAGARI LETTER LA
-0933	needsfix_devanagariletterlla	DEVANAGARI LETTER LLA
-0934	needsfix_devanagariletterllla	DEVANAGARI LETTER LLLA
-0935	needsfix_devanagariletterva	DEVANAGARI LETTER VA
-0936	needsfix_devanagarilettersha	DEVANAGARI LETTER SHA
-0937	needsfix_devanagariletterssa	DEVANAGARI LETTER SSA
-0938	needsfix_devanagarilettersa	DEVANAGARI LETTER SA
-0939	needsfix_devanagariletterha	DEVANAGARI LETTER HA
-093C	needsfix_devanagarisignnukta	DEVANAGARI SIGN NUKTA
-093D	needsfix_devanagarisignavagraha	DEVANAGARI SIGN AVAGRAHA
-093E	needsfix_devanagarivowelsignaa	DEVANAGARI VOWEL SIGN AA
-093F	needsfix_devanagarivowelsigni	DEVANAGARI VOWEL SIGN I
-0940	needsfix_devanagarivowelsignii	DEVANAGARI VOWEL SIGN II
-0941	needsfix_devanagarivowelsignu	DEVANAGARI VOWEL SIGN U
-0942	needsfix_devanagarivowelsignuu	DEVANAGARI VOWEL SIGN UU
-0943	needsfix_devanagarivowelsignvocalicr	DEVANAGARI VOWEL SIGN VOCALIC R
-0944	needsfix_devanagarivowelsignvocalicrr	DEVANAGARI VOWEL SIGN VOCALIC RR
-0945	needsfix_devanagarivowelsigncandrae	DEVANAGARI VOWEL SIGN CANDRA E
-0946	needsfix_devanagarivowelsignshorte	DEVANAGARI VOWEL SIGN SHORT E
-0947	needsfix_devanagarivowelsigne	DEVANAGARI VOWEL SIGN E
-0948	needsfix_devanagarivowelsignai	DEVANAGARI VOWEL SIGN AI
-0949	needsfix_devanagarivowelsigncandrao	DEVANAGARI VOWEL SIGN CANDRA O
-094A	needsfix_devanagarivowelsignshorto	DEVANAGARI VOWEL SIGN SHORT O
-094B	needsfix_devanagarivowelsigno	DEVANAGARI VOWEL SIGN O
-094C	needsfix_devanagarivowelsignau	DEVANAGARI VOWEL SIGN AU
-094D	needsfix_devanagarisignvirama	DEVANAGARI SIGN VIRAMA
-094E	needsfix_devanagarivowelsignprishthamatrae	DEVANAGARI VOWEL SIGN PRISHTHAMATRA E
-0950	needsfix_devanagariom	DEVANAGARI OM
-0951	needsfix_devanagaristresssignudatta	DEVANAGARI STRESS SIGN UDATTA
-0952	needsfix_devanagaristresssignanudatta	DEVANAGARI STRESS SIGN ANUDATTA
-0953	needsfix_devanagarigraveaccent	DEVANAGARI GRAVE ACCENT
-0954	needsfix_devanagariacuteaccent	DEVANAGARI ACUTE ACCENT
-0955	needsfix_devanagarivowelsigncandralonge	DEVANAGARI VOWEL SIGN CANDRA LONG E
-0958	needsfix_devanagariletterqa	DEVANAGARI LETTER QA
-0959	needsfix_devanagariletterkhha	DEVANAGARI LETTER KHHA
-095A	needsfix_devanagariletterghha	DEVANAGARI LETTER GHHA
-095B	needsfix_devanagariletterza	DEVANAGARI LETTER ZA
-095C	needsfix_devanagariletterdddha	DEVANAGARI LETTER DDDHA
-095D	needsfix_devanagariletterrha	DEVANAGARI LETTER RHA
-095E	needsfix_devanagariletterfa	DEVANAGARI LETTER FA
-095F	needsfix_devanagariletteryya	DEVANAGARI LETTER YYA
-0960	needsfix_devanagarilettervocalicrr	DEVANAGARI LETTER VOCALIC RR
-0961	needsfix_devanagarilettervocalicll	DEVANAGARI LETTER VOCALIC LL
-0962	needsfix_devanagarivowelsignvocalicl	DEVANAGARI VOWEL SIGN VOCALIC L
-0963	needsfix_devanagarivowelsignvocalicll	DEVANAGARI VOWEL SIGN VOCALIC LL
-0964	needsfix_devanagaridanda	DEVANAGARI DANDA
-0965	needsfix_devanagaridoubledanda	DEVANAGARI DOUBLE DANDA
-0966	needsfix_devanagaridigitzero	DEVANAGARI DIGIT ZERO
-0967	needsfix_devanagaridigitone	DEVANAGARI DIGIT ONE
-0968	needsfix_devanagaridigittwo	DEVANAGARI DIGIT TWO
-0969	needsfix_devanagaridigitthree	DEVANAGARI DIGIT THREE
-096A	needsfix_devanagaridigitfour	DEVANAGARI DIGIT FOUR
-096B	needsfix_devanagaridigitfive	DEVANAGARI DIGIT FIVE
-096C	needsfix_devanagaridigitsix	DEVANAGARI DIGIT SIX
-096D	needsfix_devanagaridigitseven	DEVANAGARI DIGIT SEVEN
-096E	needsfix_devanagaridigiteight	DEVANAGARI DIGIT EIGHT
-096F	needsfix_devanagaridigitnine	DEVANAGARI DIGIT NINE
-0970	needsfix_devanagariabbreviationsign	DEVANAGARI ABBREVIATION SIGN
-0971	needsfix_devanagarisignhighspacingdot	DEVANAGARI SIGN HIGH SPACING DOT
-0972	needsfix_devanagarilettercandraa	DEVANAGARI LETTER CANDRA A
-0979	needsfix_devanagariletterzha	DEVANAGARI LETTER ZHA
-097A	needsfix_devanagariletterheavyya	DEVANAGARI LETTER HEAVY YA
-097B	needsfix_devanagarilettergga	DEVANAGARI LETTER GGA
-097C	needsfix_devanagariletterjja	DEVANAGARI LETTER JJA
-097D	needsfix_devanagariletterglottalstop	DEVANAGARI LETTER GLOTTAL STOP
-097E	needsfix_devanagariletterddda	DEVANAGARI LETTER DDDA
-097F	needsfix_devanagariletterbba	DEVANAGARI LETTER BBA
+0900	devanagarisigninvertedcandrabindu	DEVANAGARI SIGN INVERTED CANDRABINDU
+0901	devanagarisigncandrabindu	DEVANAGARI SIGN CANDRABINDU
+0902	devanagarisignanusvara	DEVANAGARI SIGN ANUSVARA
+0903	devanagarisignvisarga	DEVANAGARI SIGN VISARGA
+0904	devanagarilettershorta	DEVANAGARI LETTER SHORT A
+0905	devanagarilettera	DEVANAGARI LETTER A
+0906	devanagariletteraa	DEVANAGARI LETTER AA
+0907	devanagariletteri	DEVANAGARI LETTER I
+0908	devanagariletterii	DEVANAGARI LETTER II
+0909	devanagariletteru	DEVANAGARI LETTER U
+090A	devanagariletteruu	DEVANAGARI LETTER UU
+090B	devanagarilettervocalicr	DEVANAGARI LETTER VOCALIC R
+090C	devanagarilettervocalicl	DEVANAGARI LETTER VOCALIC L
+090D	devanagarilettercandrae	DEVANAGARI LETTER CANDRA E
+090E	devanagarilettershorte	DEVANAGARI LETTER SHORT E
+090F	devanagarilettere	DEVANAGARI LETTER E
+0910	devanagariletterai	DEVANAGARI LETTER AI
+0911	devanagarilettercandrao	DEVANAGARI LETTER CANDRA O
+0912	devanagarilettershorto	DEVANAGARI LETTER SHORT O
+0913	devanagarilettero	DEVANAGARI LETTER O
+0914	devanagariletterau	DEVANAGARI LETTER AU
+0915	devanagariletterka	DEVANAGARI LETTER KA
+0916	devanagariletterkha	DEVANAGARI LETTER KHA
+0917	devanagariletterga	DEVANAGARI LETTER GA
+0918	devanagarilettergha	DEVANAGARI LETTER GHA
+0919	devanagariletternga	DEVANAGARI LETTER NGA
+091A	devanagariletterca	DEVANAGARI LETTER CA
+091B	devanagarilettercha	DEVANAGARI LETTER CHA
+091C	devanagariletterja	DEVANAGARI LETTER JA
+091D	devanagariletterjha	DEVANAGARI LETTER JHA
+091E	devanagariletternya	DEVANAGARI LETTER NYA
+091F	devanagarilettertta	DEVANAGARI LETTER TTA
+0920	devanagariletterttha	DEVANAGARI LETTER TTHA
+0921	devanagariletterdda	DEVANAGARI LETTER DDA
+0922	devanagariletterddha	DEVANAGARI LETTER DDHA
+0923	devanagariletternna	DEVANAGARI LETTER NNA
+0924	devanagariletterta	DEVANAGARI LETTER TA
+0925	devanagarilettertha	DEVANAGARI LETTER THA
+0926	devanagariletterda	DEVANAGARI LETTER DA
+0927	devanagariletterdha	DEVANAGARI LETTER DHA
+0928	devanagariletterna	DEVANAGARI LETTER NA
+0929	devanagariletternnna	DEVANAGARI LETTER NNNA
+092A	devanagariletterpa	DEVANAGARI LETTER PA
+092B	devanagariletterpha	DEVANAGARI LETTER PHA
+092C	devanagariletterba	DEVANAGARI LETTER BA
+092D	devanagariletterbha	DEVANAGARI LETTER BHA
+092E	devanagariletterma	DEVANAGARI LETTER MA
+092F	devanagariletterya	DEVANAGARI LETTER YA
+0930	devanagariletterra	DEVANAGARI LETTER RA
+0931	devanagariletterrra	DEVANAGARI LETTER RRA
+0932	devanagariletterla	DEVANAGARI LETTER LA
+0933	devanagariletterlla	DEVANAGARI LETTER LLA
+0934	devanagariletterllla	DEVANAGARI LETTER LLLA
+0935	devanagariletterva	DEVANAGARI LETTER VA
+0936	devanagarilettersha	DEVANAGARI LETTER SHA
+0937	devanagariletterssa	DEVANAGARI LETTER SSA
+0938	devanagarilettersa	DEVANAGARI LETTER SA
+0939	devanagariletterha	DEVANAGARI LETTER HA
+093C	devanagarisignnukta	DEVANAGARI SIGN NUKTA
+093D	devanagarisignavagraha	DEVANAGARI SIGN AVAGRAHA
+093E	devanagarivowelsignaa	DEVANAGARI VOWEL SIGN AA
+093F	devanagarivowelsigni	DEVANAGARI VOWEL SIGN I
+0940	devanagarivowelsignii	DEVANAGARI VOWEL SIGN II
+0941	devanagarivowelsignu	DEVANAGARI VOWEL SIGN U
+0942	devanagarivowelsignuu	DEVANAGARI VOWEL SIGN UU
+0943	devanagarivowelsignvocalicr	DEVANAGARI VOWEL SIGN VOCALIC R
+0944	devanagarivowelsignvocalicrr	DEVANAGARI VOWEL SIGN VOCALIC RR
+0945	devanagarivowelsigncandrae	DEVANAGARI VOWEL SIGN CANDRA E
+0946	devanagarivowelsignshorte	DEVANAGARI VOWEL SIGN SHORT E
+0947	devanagarivowelsigne	DEVANAGARI VOWEL SIGN E
+0948	devanagarivowelsignai	DEVANAGARI VOWEL SIGN AI
+0949	devanagarivowelsigncandrao	DEVANAGARI VOWEL SIGN CANDRA O
+094A	devanagarivowelsignshorto	DEVANAGARI VOWEL SIGN SHORT O
+094B	devanagarivowelsigno	DEVANAGARI VOWEL SIGN O
+094C	devanagarivowelsignau	DEVANAGARI VOWEL SIGN AU
+094D	devanagarisignvirama	DEVANAGARI SIGN VIRAMA
+094E	devanagarivowelsignprishthamatrae	DEVANAGARI VOWEL SIGN PRISHTHAMATRA E
+0950	devanagariom	DEVANAGARI OM
+0951	devanagaristresssignudatta	DEVANAGARI STRESS SIGN UDATTA
+0952	devanagaristresssignanudatta	DEVANAGARI STRESS SIGN ANUDATTA
+0953	devanagarigraveaccent	DEVANAGARI GRAVE ACCENT
+0954	devanagariacuteaccent	DEVANAGARI ACUTE ACCENT
+0955	devanagarivowelsigncandralonge	DEVANAGARI VOWEL SIGN CANDRA LONG E
+0958	devanagariletterqa	DEVANAGARI LETTER QA
+0959	devanagariletterkhha	DEVANAGARI LETTER KHHA
+095A	devanagariletterghha	DEVANAGARI LETTER GHHA
+095B	devanagariletterza	DEVANAGARI LETTER ZA
+095C	devanagariletterdddha	DEVANAGARI LETTER DDDHA
+095D	devanagariletterrha	DEVANAGARI LETTER RHA
+095E	devanagariletterfa	DEVANAGARI LETTER FA
+095F	devanagariletteryya	DEVANAGARI LETTER YYA
+0960	devanagarilettervocalicrr	DEVANAGARI LETTER VOCALIC RR
+0961	devanagarilettervocalicll	DEVANAGARI LETTER VOCALIC LL
+0962	devanagarivowelsignvocalicl	DEVANAGARI VOWEL SIGN VOCALIC L
+0963	devanagarivowelsignvocalicll	DEVANAGARI VOWEL SIGN VOCALIC LL
+0964	devanagaridanda	DEVANAGARI DANDA
+0965	devanagaridoubledanda	DEVANAGARI DOUBLE DANDA
+0966	devanagaridigitzero	DEVANAGARI DIGIT ZERO
+0967	devanagaridigitone	DEVANAGARI DIGIT ONE
+0968	devanagaridigittwo	DEVANAGARI DIGIT TWO
+0969	devanagaridigitthree	DEVANAGARI DIGIT THREE
+096A	devanagaridigitfour	DEVANAGARI DIGIT FOUR
+096B	devanagaridigitfive	DEVANAGARI DIGIT FIVE
+096C	devanagaridigitsix	DEVANAGARI DIGIT SIX
+096D	devanagaridigitseven	DEVANAGARI DIGIT SEVEN
+096E	devanagaridigiteight	DEVANAGARI DIGIT EIGHT
+096F	devanagaridigitnine	DEVANAGARI DIGIT NINE
+0970	devanagariabbreviationsign	DEVANAGARI ABBREVIATION SIGN
+0971	devanagarisignhighspacingdot	DEVANAGARI SIGN HIGH SPACING DOT
+0972	devanagarilettercandraa	DEVANAGARI LETTER CANDRA A
+0979	devanagariletterzha	DEVANAGARI LETTER ZHA
+097A	devanagariletterheavyya	DEVANAGARI LETTER HEAVY YA
+097B	devanagarilettergga	DEVANAGARI LETTER GGA
+097C	devanagariletterjja	DEVANAGARI LETTER JJA
+097D	devanagariletterglottalstop	DEVANAGARI LETTER GLOTTAL STOP
+097E	devanagariletterddda	DEVANAGARI LETTER DDDA
+097F	devanagariletterbba	DEVANAGARI LETTER BBA

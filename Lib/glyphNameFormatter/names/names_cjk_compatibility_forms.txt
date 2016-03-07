@@ -1,33 +1,33 @@
 # CJK Compatibility Forms FE30 - FE4F
-FE30	needsfix_presentationformforverticaltwodotleader	PRESENTATION FORM FOR VERTICAL TWO DOT LEADER
-FE31	needsfix_presentationformforverticalemdash	PRESENTATION FORM FOR VERTICAL EM DASH
-FE32	needsfix_presentationformforverticalendash	PRESENTATION FORM FOR VERTICAL EN DASH
-FE33	needsfix_presentationformforverticallowline	PRESENTATION FORM FOR VERTICAL LOW LINE
-FE34	needsfix_presentationformforverticalwavylowline	PRESENTATION FORM FOR VERTICAL WAVY LOW LINE
-FE35	needsfix_presentationformforverticalleftparenthesis	PRESENTATION FORM FOR VERTICAL LEFT PARENTHESIS
-FE36	needsfix_presentationformforverticalrightparenthesis	PRESENTATION FORM FOR VERTICAL RIGHT PARENTHESIS
-FE37	needsfix_presentationformforverticalleftcurlybracket	PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET
-FE38	needsfix_presentationformforverticalrightcurlybracket	PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET
-FE39	needsfix_presentationformforverticallefttortoiseshellbracket	PRESENTATION FORM FOR VERTICAL LEFT TORTOISE SHELL BRACKET
-FE3A	needsfix_presentationformforverticalrighttortoiseshellbracket	PRESENTATION FORM FOR VERTICAL RIGHT TORTOISE SHELL BRACKET
-FE3B	needsfix_presentationformforverticalleftblacklenticularbracket	PRESENTATION FORM FOR VERTICAL LEFT BLACK LENTICULAR BRACKET
-FE3C	needsfix_presentationformforverticalrightblacklenticularbracket	PRESENTATION FORM FOR VERTICAL RIGHT BLACK LENTICULAR BRACKET
-FE3D	needsfix_presentationformforverticalleftdoubleanglebracket	PRESENTATION FORM FOR VERTICAL LEFT DOUBLE ANGLE BRACKET
-FE3E	needsfix_presentationformforverticalrightdoubleanglebracket	PRESENTATION FORM FOR VERTICAL RIGHT DOUBLE ANGLE BRACKET
-FE3F	needsfix_presentationformforverticalleftanglebracket	PRESENTATION FORM FOR VERTICAL LEFT ANGLE BRACKET
-FE40	needsfix_presentationformforverticalrightanglebracket	PRESENTATION FORM FOR VERTICAL RIGHT ANGLE BRACKET
-FE41	needsfix_presentationformforverticalleftcornerbracket	PRESENTATION FORM FOR VERTICAL LEFT CORNER BRACKET
-FE42	needsfix_presentationformforverticalrightcornerbracket	PRESENTATION FORM FOR VERTICAL RIGHT CORNER BRACKET
-FE43	needsfix_presentationformforverticalleftwhitecornerbracket	PRESENTATION FORM FOR VERTICAL LEFT WHITE CORNER BRACKET
-FE44	needsfix_presentationformforverticalrightwhitecornerbracket	PRESENTATION FORM FOR VERTICAL RIGHT WHITE CORNER BRACKET
-FE45	needsfix_sesamedot	SESAME DOT
-FE46	needsfix_whitesesamedot	WHITE SESAME DOT
-FE47	needsfix_presentationformforverticalleftsquarebracket	PRESENTATION FORM FOR VERTICAL LEFT SQUARE BRACKET
-FE48	needsfix_presentationformforverticalrightsquarebracket	PRESENTATION FORM FOR VERTICAL RIGHT SQUARE BRACKET
-FE49	needsfix_dashedoverline	DASHED OVERLINE
-FE4A	needsfix_centrelineoverline	CENTRELINE OVERLINE
-FE4B	needsfix_wavyoverline	WAVY OVERLINE
-FE4C	needsfix_doublewavyoverline	DOUBLE WAVY OVERLINE
-FE4D	needsfix_dashedlowline	DASHED LOW LINE
-FE4E	needsfix_centrelinelowline	CENTRELINE LOW LINE
-FE4F	needsfix_wavylowline	WAVY LOW LINE
+FE30	presentationformforverticaltwodotleader	PRESENTATION FORM FOR VERTICAL TWO DOT LEADER
+FE31	presentationformforverticalemdash	PRESENTATION FORM FOR VERTICAL EM DASH
+FE32	presentationformforverticalendash	PRESENTATION FORM FOR VERTICAL EN DASH
+FE33	presentationformforverticallowline	PRESENTATION FORM FOR VERTICAL LOW LINE
+FE34	presentationformforverticalwavylowline	PRESENTATION FORM FOR VERTICAL WAVY LOW LINE
+FE35	presentationformforverticalleftparenthesis	PRESENTATION FORM FOR VERTICAL LEFT PARENTHESIS
+FE36	presentationformforverticalrightparenthesis	PRESENTATION FORM FOR VERTICAL RIGHT PARENTHESIS
+FE37	presentationformforverticalleftcurlybracket	PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET
+FE38	presentationformforverticalrightcurlybracket	PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET
+FE39	presentationformforverticallefttortoiseshellbracket	PRESENTATION FORM FOR VERTICAL LEFT TORTOISE SHELL BRACKET
+FE3A	presentationformforverticalrighttortoiseshellbracket	PRESENTATION FORM FOR VERTICAL RIGHT TORTOISE SHELL BRACKET
+FE3B	presentationformforverticalleftblacklenticularbracket	PRESENTATION FORM FOR VERTICAL LEFT BLACK LENTICULAR BRACKET
+FE3C	presentationformforverticalrightblacklenticularbracket	PRESENTATION FORM FOR VERTICAL RIGHT BLACK LENTICULAR BRACKET
+FE3D	presentationformforverticalleftdoubleanglebracket	PRESENTATION FORM FOR VERTICAL LEFT DOUBLE ANGLE BRACKET
+FE3E	presentationformforverticalrightdoubleanglebracket	PRESENTATION FORM FOR VERTICAL RIGHT DOUBLE ANGLE BRACKET
+FE3F	presentationformforverticalleftanglebracket	PRESENTATION FORM FOR VERTICAL LEFT ANGLE BRACKET
+FE40	presentationformforverticalrightanglebracket	PRESENTATION FORM FOR VERTICAL RIGHT ANGLE BRACKET
+FE41	presentationformforverticalleftcornerbracket	PRESENTATION FORM FOR VERTICAL LEFT CORNER BRACKET
+FE42	presentationformforverticalrightcornerbracket	PRESENTATION FORM FOR VERTICAL RIGHT CORNER BRACKET
+FE43	presentationformforverticalleftwhitecornerbracket	PRESENTATION FORM FOR VERTICAL LEFT WHITE CORNER BRACKET
+FE44	presentationformforverticalrightwhitecornerbracket	PRESENTATION FORM FOR VERTICAL RIGHT WHITE CORNER BRACKET
+FE45	sesamedot	SESAME DOT
+FE46	whitesesamedot	WHITE SESAME DOT
+FE47	presentationformforverticalleftsquarebracket	PRESENTATION FORM FOR VERTICAL LEFT SQUARE BRACKET
+FE48	presentationformforverticalrightsquarebracket	PRESENTATION FORM FOR VERTICAL RIGHT SQUARE BRACKET
+FE49	dashedoverline	DASHED OVERLINE
+FE4A	centrelineoverline	CENTRELINE OVERLINE
+FE4B	wavyoverline	WAVY OVERLINE
+FE4C	doublewavyoverline	DOUBLE WAVY OVERLINE
+FE4D	dashedlowline	DASHED LOW LINE
+FE4E	centrelinelowline	CENTRELINE LOW LINE
+FE4F	wavylowline	WAVY LOW LINE

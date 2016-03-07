@@ -1,26 +1,26 @@
 # Currency Symbols 20A0 - 20CF
-20A0	needsfix_eurocurrencysign	EURO-CURRENCY SIGN
-20A1	needsfix_colonmonetary	COLON SIGN
-20A2	needsfix_cruzeirosign	CRUZEIRO SIGN
-20A3	needsfix_franc	FRENCH FRANC SIGN
-20A4	needsfix_lira	LIRA SIGN
-20A5	needsfix_millsign	MILL SIGN
-20A6	needsfix_nairasign	NAIRA SIGN
-20A7	needsfix_peseta	PESETA SIGN
-20A8	needsfix_rupeesign	RUPEE SIGN
-20A9	needsfix_wonsign	WON SIGN
-20AA	needsfix_newsheqelsign	NEW SHEQEL SIGN
-20AB	needsfix_dong	DONG SIGN
-20AC	needsfix_Euro	EURO SIGN
-20AD	needsfix_kipsign	KIP SIGN
-20AE	needsfix_tugriksign	TUGRIK SIGN
-20AF	needsfix_drachmasign	DRACHMA SIGN
-20B0	needsfix_germanpennysign	GERMAN PENNY SIGN
-20B1	needsfix_pesosign	PESO SIGN
-20B2	needsfix_guaranisign	GUARANI SIGN
-20B3	needsfix_australsign	AUSTRAL SIGN
-20B4	needsfix_hryvniasign	HRYVNIA SIGN
-20B5	needsfix_cedisign	CEDI SIGN
-20B6	needsfix_livretournoissign	LIVRE TOURNOIS SIGN
-20B7	needsfix_spesmilosign	SPESMILO SIGN
-20B8	needsfix_tengesign	TENGE SIGN
+20A0	eurocurrencysign	EURO-CURRENCY SIGN
+20A1	colonmonetary	COLON SIGN
+20A2	cruzeirosign	CRUZEIRO SIGN
+20A3	franc	FRENCH FRANC SIGN
+20A4	lira	LIRA SIGN
+20A5	millsign	MILL SIGN
+20A6	nairasign	NAIRA SIGN
+20A7	peseta	PESETA SIGN
+20A8	rupeesign	RUPEE SIGN
+20A9	wonsign	WON SIGN
+20AA	newsheqelsign	NEW SHEQEL SIGN
+20AB	dong	DONG SIGN
+20AC	Euro	EURO SIGN
+20AD	kipsign	KIP SIGN
+20AE	tugriksign	TUGRIK SIGN
+20AF	drachmasign	DRACHMA SIGN
+20B0	germanpennysign	GERMAN PENNY SIGN
+20B1	pesosign	PESO SIGN
+20B2	guaranisign	GUARANI SIGN
+20B3	australsign	AUSTRAL SIGN
+20B4	hryvniasign	HRYVNIA SIGN
+20B5	cedisign	CEDI SIGN
+20B6	livretournoissign	LIVRE TOURNOIS SIGN
+20B7	spesmilosign	SPESMILO SIGN
+20B8	tengesign	TENGE SIGN

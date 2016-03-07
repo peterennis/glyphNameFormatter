@@ -1,59 +1,59 @@
 # Alphabetic Presentation Forms FB00 - FB4F
-FB00	needsfix_latinsmallligatureff	LATIN SMALL LIGATURE FF
-FB01	needsfix_latinsmallligaturefi	LATIN SMALL LIGATURE FI
-FB02	needsfix_latinsmallligaturefl	LATIN SMALL LIGATURE FL
-FB03	needsfix_latinsmallligatureffi	LATIN SMALL LIGATURE FFI
-FB04	needsfix_latinsmallligatureffl	LATIN SMALL LIGATURE FFL
-FB05	needsfix_latinsmallligaturelongst	LATIN SMALL LIGATURE LONG S T
-FB06	needsfix_latinsmallligaturest	LATIN SMALL LIGATURE ST
-FB13	needsfix_armeniansmallligaturemennow	ARMENIAN SMALL LIGATURE MEN NOW
-FB14	needsfix_armeniansmallligaturemenech	ARMENIAN SMALL LIGATURE MEN ECH
-FB15	needsfix_armeniansmallligaturemenini	ARMENIAN SMALL LIGATURE MEN INI
-FB16	needsfix_armeniansmallligaturevewnow	ARMENIAN SMALL LIGATURE VEW NOW
-FB17	needsfix_armeniansmallligaturemenxeh	ARMENIAN SMALL LIGATURE MEN XEH
-FB1D	needsfix_hebrewletteryodwithhiriq	HEBREW LETTER YOD WITH HIRIQ
-FB1E	needsfix_hebrewpointjudeospanishvarika	HEBREW POINT JUDEO-SPANISH VARIKA
-FB1F	needsfix_hebrewligatureyiddishyodyodpatah	HEBREW LIGATURE YIDDISH YOD YOD PATAH
-FB20	needsfix_hebrewletteralternativeayin	HEBREW LETTER ALTERNATIVE AYIN
-FB21	needsfix_hebrewletterwidealef	HEBREW LETTER WIDE ALEF
-FB22	needsfix_hebrewletterwidedalet	HEBREW LETTER WIDE DALET
-FB23	needsfix_hebrewletterwidehe	HEBREW LETTER WIDE HE
-FB24	needsfix_hebrewletterwidekaf	HEBREW LETTER WIDE KAF
-FB25	needsfix_hebrewletterwidelamed	HEBREW LETTER WIDE LAMED
-FB26	needsfix_hebrewletterwidefinalmem	HEBREW LETTER WIDE FINAL MEM
-FB27	needsfix_hebrewletterwideresh	HEBREW LETTER WIDE RESH
-FB28	needsfix_hebrewletterwidetav	HEBREW LETTER WIDE TAV
-FB29	needsfix_hebrewletteralternativeplussign	HEBREW LETTER ALTERNATIVE PLUS SIGN
-FB2A	needsfix_hebrewlettershinwithshindot	HEBREW LETTER SHIN WITH SHIN DOT
-FB2B	needsfix_hebrewlettershinwithsindot	HEBREW LETTER SHIN WITH SIN DOT
-FB2C	needsfix_hebrewlettershinwithdageshandshindot	HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT
-FB2D	needsfix_hebrewlettershinwithdageshandsindot	HEBREW LETTER SHIN WITH DAGESH AND SIN DOT
-FB2E	needsfix_hebrewletteralefwithpatah	HEBREW LETTER ALEF WITH PATAH
-FB2F	needsfix_hebrewletteralefwithqamats	HEBREW LETTER ALEF WITH QAMATS
-FB30	needsfix_hebrewletteralefwithmapiq	HEBREW LETTER ALEF WITH MAPIQ
-FB31	needsfix_hebrewletterbetwithdagesh	HEBREW LETTER BET WITH DAGESH
-FB32	needsfix_hebrewlettergimelwithdagesh	HEBREW LETTER GIMEL WITH DAGESH
-FB33	needsfix_hebrewletterdaletwithdagesh	HEBREW LETTER DALET WITH DAGESH
-FB34	needsfix_hebrewletterhewithmapiq	HEBREW LETTER HE WITH MAPIQ
-FB35	needsfix_hebrewlettervavwithdagesh	HEBREW LETTER VAV WITH DAGESH
-FB36	needsfix_hebrewletterzayinwithdagesh	HEBREW LETTER ZAYIN WITH DAGESH
-FB38	needsfix_hebrewlettertetwithdagesh	HEBREW LETTER TET WITH DAGESH
-FB39	needsfix_hebrewletteryodwithdagesh	HEBREW LETTER YOD WITH DAGESH
-FB3A	needsfix_hebrewletterfinalkafwithdagesh	HEBREW LETTER FINAL KAF WITH DAGESH
-FB3B	needsfix_hebrewletterkafwithdagesh	HEBREW LETTER KAF WITH DAGESH
-FB3C	needsfix_hebrewletterlamedwithdagesh	HEBREW LETTER LAMED WITH DAGESH
-FB3E	needsfix_hebrewlettermemwithdagesh	HEBREW LETTER MEM WITH DAGESH
-FB40	needsfix_hebrewletternunwithdagesh	HEBREW LETTER NUN WITH DAGESH
-FB41	needsfix_hebrewlettersamekhwithdagesh	HEBREW LETTER SAMEKH WITH DAGESH
-FB43	needsfix_hebrewletterfinalpewithdagesh	HEBREW LETTER FINAL PE WITH DAGESH
-FB44	needsfix_hebrewletterpewithdagesh	HEBREW LETTER PE WITH DAGESH
-FB46	needsfix_hebrewlettertsadiwithdagesh	HEBREW LETTER TSADI WITH DAGESH
-FB47	needsfix_hebrewletterqofwithdagesh	HEBREW LETTER QOF WITH DAGESH
-FB48	needsfix_hebrewletterreshwithdagesh	HEBREW LETTER RESH WITH DAGESH
-FB49	needsfix_hebrewlettershinwithdagesh	HEBREW LETTER SHIN WITH DAGESH
-FB4A	needsfix_hebrewlettertavwithdagesh	HEBREW LETTER TAV WITH DAGESH
-FB4B	needsfix_hebrewlettervavwithholam	HEBREW LETTER VAV WITH HOLAM
-FB4C	needsfix_hebrewletterbetwithrafe	HEBREW LETTER BET WITH RAFE
-FB4D	needsfix_hebrewletterkafwithrafe	HEBREW LETTER KAF WITH RAFE
-FB4E	needsfix_hebrewletterpewithrafe	HEBREW LETTER PE WITH RAFE
-FB4F	needsfix_hebrewligaturealeflamed	HEBREW LIGATURE ALEF LAMED
+FB00	latinsmallligatureff	LATIN SMALL LIGATURE FF
+FB01	latinsmallligaturefi	LATIN SMALL LIGATURE FI
+FB02	latinsmallligaturefl	LATIN SMALL LIGATURE FL
+FB03	latinsmallligatureffi	LATIN SMALL LIGATURE FFI
+FB04	latinsmallligatureffl	LATIN SMALL LIGATURE FFL
+FB05	latinsmallligaturelongst	LATIN SMALL LIGATURE LONG S T
+FB06	latinsmallligaturest	LATIN SMALL LIGATURE ST
+FB13	armeniansmallligaturemennow	ARMENIAN SMALL LIGATURE MEN NOW
+FB14	armeniansmallligaturemenech	ARMENIAN SMALL LIGATURE MEN ECH
+FB15	armeniansmallligaturemenini	ARMENIAN SMALL LIGATURE MEN INI
+FB16	armeniansmallligaturevewnow	ARMENIAN SMALL LIGATURE VEW NOW
+FB17	armeniansmallligaturemenxeh	ARMENIAN SMALL LIGATURE MEN XEH
+FB1D	hebrewletteryodwithhiriq	HEBREW LETTER YOD WITH HIRIQ
+FB1E	hebrewpointjudeospanishvarika	HEBREW POINT JUDEO-SPANISH VARIKA
+FB1F	hebrewligatureyiddishyodyodpatah	HEBREW LIGATURE YIDDISH YOD YOD PATAH
+FB20	hebrewletteralternativeayin	HEBREW LETTER ALTERNATIVE AYIN
+FB21	hebrewletterwidealef	HEBREW LETTER WIDE ALEF
+FB22	hebrewletterwidedalet	HEBREW LETTER WIDE DALET
+FB23	hebrewletterwidehe	HEBREW LETTER WIDE HE
+FB24	hebrewletterwidekaf	HEBREW LETTER WIDE KAF
+FB25	hebrewletterwidelamed	HEBREW LETTER WIDE LAMED
+FB26	hebrewletterwidefinalmem	HEBREW LETTER WIDE FINAL MEM
+FB27	hebrewletterwideresh	HEBREW LETTER WIDE RESH
+FB28	hebrewletterwidetav	HEBREW LETTER WIDE TAV
+FB29	hebrewletteralternativeplussign	HEBREW LETTER ALTERNATIVE PLUS SIGN
+FB2A	hebrewlettershinwithshindot	HEBREW LETTER SHIN WITH SHIN DOT
+FB2B	hebrewlettershinwithsindot	HEBREW LETTER SHIN WITH SIN DOT
+FB2C	hebrewlettershinwithdageshandshindot	HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT
+FB2D	hebrewlettershinwithdageshandsindot	HEBREW LETTER SHIN WITH DAGESH AND SIN DOT
+FB2E	hebrewletteralefwithpatah	HEBREW LETTER ALEF WITH PATAH
+FB2F	hebrewletteralefwithqamats	HEBREW LETTER ALEF WITH QAMATS
+FB30	hebrewletteralefwithmapiq	HEBREW LETTER ALEF WITH MAPIQ
+FB31	hebrewletterbetwithdagesh	HEBREW LETTER BET WITH DAGESH
+FB32	hebrewlettergimelwithdagesh	HEBREW LETTER GIMEL WITH DAGESH
+FB33	hebrewletterdaletwithdagesh	HEBREW LETTER DALET WITH DAGESH
+FB34	hebrewletterhewithmapiq	HEBREW LETTER HE WITH MAPIQ
+FB35	hebrewlettervavwithdagesh	HEBREW LETTER VAV WITH DAGESH
+FB36	hebrewletterzayinwithdagesh	HEBREW LETTER ZAYIN WITH DAGESH
+FB38	hebrewlettertetwithdagesh	HEBREW LETTER TET WITH DAGESH
+FB39	hebrewletteryodwithdagesh	HEBREW LETTER YOD WITH DAGESH
+FB3A	hebrewletterfinalkafwithdagesh	HEBREW LETTER FINAL KAF WITH DAGESH
+FB3B	hebrewletterkafwithdagesh	HEBREW LETTER KAF WITH DAGESH
+FB3C	hebrewletterlamedwithdagesh	HEBREW LETTER LAMED WITH DAGESH
+FB3E	hebrewlettermemwithdagesh	HEBREW LETTER MEM WITH DAGESH
+FB40	hebrewletternunwithdagesh	HEBREW LETTER NUN WITH DAGESH
+FB41	hebrewlettersamekhwithdagesh	HEBREW LETTER SAMEKH WITH DAGESH
+FB43	hebrewletterfinalpewithdagesh	HEBREW LETTER FINAL PE WITH DAGESH
+FB44	hebrewletterpewithdagesh	HEBREW LETTER PE WITH DAGESH
+FB46	hebrewlettertsadiwithdagesh	HEBREW LETTER TSADI WITH DAGESH
+FB47	hebrewletterqofwithdagesh	HEBREW LETTER QOF WITH DAGESH
+FB48	hebrewletterreshwithdagesh	HEBREW LETTER RESH WITH DAGESH
+FB49	hebrewlettershinwithdagesh	HEBREW LETTER SHIN WITH DAGESH
+FB4A	hebrewlettertavwithdagesh	HEBREW LETTER TAV WITH DAGESH
+FB4B	hebrewlettervavwithholam	HEBREW LETTER VAV WITH HOLAM
+FB4C	hebrewletterbetwithrafe	HEBREW LETTER BET WITH RAFE
+FB4D	hebrewletterkafwithrafe	HEBREW LETTER KAF WITH RAFE
+FB4E	hebrewletterpewithrafe	HEBREW LETTER PE WITH RAFE
+FB4F	hebrewligaturealeflamed	HEBREW LIGATURE ALEF LAMED

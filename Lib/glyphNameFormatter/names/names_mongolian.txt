@@ -1,157 +1,157 @@
 # Mongolian 1800 - 18AF
-1800	needsfix_mongolianbirga	MONGOLIAN BIRGA
-1801	needsfix_mongolianellipsis	MONGOLIAN ELLIPSIS
-1802	needsfix_mongoliancomma	MONGOLIAN COMMA
-1803	needsfix_mongolianfullstop	MONGOLIAN FULL STOP
-1804	needsfix_mongoliancolon	MONGOLIAN COLON
-1805	needsfix_mongolianfourdots	MONGOLIAN FOUR DOTS
-1806	needsfix_mongoliantodosofthyphen	MONGOLIAN TODO SOFT HYPHEN
-1807	needsfix_mongoliansibesyllableboundarymarker	MONGOLIAN SIBE SYLLABLE BOUNDARY MARKER
-1808	needsfix_mongolianmanchucomma	MONGOLIAN MANCHU COMMA
-1809	needsfix_mongolianmanchufullstop	MONGOLIAN MANCHU FULL STOP
-180A	needsfix_mongoliannirugu	MONGOLIAN NIRUGU
-180B	needsfix_mongolianfreevariationselectorone	MONGOLIAN FREE VARIATION SELECTOR ONE
-180C	needsfix_mongolianfreevariationselectortwo	MONGOLIAN FREE VARIATION SELECTOR TWO
-180D	needsfix_mongolianfreevariationselectorthree	MONGOLIAN FREE VARIATION SELECTOR THREE
-180E	needsfix_mongolianvowelseparator	MONGOLIAN VOWEL SEPARATOR
-1810	needsfix_mongoliandigitzero	MONGOLIAN DIGIT ZERO
-1811	needsfix_mongoliandigitone	MONGOLIAN DIGIT ONE
-1812	needsfix_mongoliandigittwo	MONGOLIAN DIGIT TWO
-1813	needsfix_mongoliandigitthree	MONGOLIAN DIGIT THREE
-1814	needsfix_mongoliandigitfour	MONGOLIAN DIGIT FOUR
-1815	needsfix_mongoliandigitfive	MONGOLIAN DIGIT FIVE
-1816	needsfix_mongoliandigitsix	MONGOLIAN DIGIT SIX
-1817	needsfix_mongoliandigitseven	MONGOLIAN DIGIT SEVEN
-1818	needsfix_mongoliandigiteight	MONGOLIAN DIGIT EIGHT
-1819	needsfix_mongoliandigitnine	MONGOLIAN DIGIT NINE
-1820	needsfix_mongolianlettera	MONGOLIAN LETTER A
-1821	needsfix_mongolianlettere	MONGOLIAN LETTER E
-1822	needsfix_mongolianletteri	MONGOLIAN LETTER I
-1823	needsfix_mongolianlettero	MONGOLIAN LETTER O
-1824	needsfix_mongolianletteru	MONGOLIAN LETTER U
-1825	needsfix_mongolianletteroe	MONGOLIAN LETTER OE
-1826	needsfix_mongolianletterue	MONGOLIAN LETTER UE
-1827	needsfix_mongolianletteree	MONGOLIAN LETTER EE
-1828	needsfix_mongolianletterna	MONGOLIAN LETTER NA
-1829	needsfix_mongolianletterang	MONGOLIAN LETTER ANG
-182A	needsfix_mongolianletterba	MONGOLIAN LETTER BA
-182B	needsfix_mongolianletterpa	MONGOLIAN LETTER PA
-182C	needsfix_mongolianletterqa	MONGOLIAN LETTER QA
-182D	needsfix_mongolianletterga	MONGOLIAN LETTER GA
-182E	needsfix_mongolianletterma	MONGOLIAN LETTER MA
-182F	needsfix_mongolianletterla	MONGOLIAN LETTER LA
-1830	needsfix_mongolianlettersa	MONGOLIAN LETTER SA
-1831	needsfix_mongolianlettersha	MONGOLIAN LETTER SHA
-1832	needsfix_mongolianletterta	MONGOLIAN LETTER TA
-1833	needsfix_mongolianletterda	MONGOLIAN LETTER DA
-1834	needsfix_mongolianlettercha	MONGOLIAN LETTER CHA
-1835	needsfix_mongolianletterja	MONGOLIAN LETTER JA
-1836	needsfix_mongolianletterya	MONGOLIAN LETTER YA
-1837	needsfix_mongolianletterra	MONGOLIAN LETTER RA
-1838	needsfix_mongolianletterwa	MONGOLIAN LETTER WA
-1839	needsfix_mongolianletterfa	MONGOLIAN LETTER FA
-183A	needsfix_mongolianletterka	MONGOLIAN LETTER KA
-183B	needsfix_mongolianletterkha	MONGOLIAN LETTER KHA
-183C	needsfix_mongolianlettertsa	MONGOLIAN LETTER TSA
-183D	needsfix_mongolianletterza	MONGOLIAN LETTER ZA
-183E	needsfix_mongolianletterhaa	MONGOLIAN LETTER HAA
-183F	needsfix_mongolianletterzra	MONGOLIAN LETTER ZRA
-1840	needsfix_mongolianletterlha	MONGOLIAN LETTER LHA
-1841	needsfix_mongolianletterzhi	MONGOLIAN LETTER ZHI
-1842	needsfix_mongolianletterchi	MONGOLIAN LETTER CHI
-1843	needsfix_mongolianlettertodolongvowelsign	MONGOLIAN LETTER TODO LONG VOWEL SIGN
-1844	needsfix_mongolianlettertodoe	MONGOLIAN LETTER TODO E
-1845	needsfix_mongolianlettertodoi	MONGOLIAN LETTER TODO I
-1846	needsfix_mongolianlettertodoo	MONGOLIAN LETTER TODO O
-1847	needsfix_mongolianlettertodou	MONGOLIAN LETTER TODO U
-1848	needsfix_mongolianlettertodooe	MONGOLIAN LETTER TODO OE
-1849	needsfix_mongolianlettertodoue	MONGOLIAN LETTER TODO UE
-184A	needsfix_mongolianlettertodoang	MONGOLIAN LETTER TODO ANG
-184B	needsfix_mongolianlettertodoba	MONGOLIAN LETTER TODO BA
-184C	needsfix_mongolianlettertodopa	MONGOLIAN LETTER TODO PA
-184D	needsfix_mongolianlettertodoqa	MONGOLIAN LETTER TODO QA
-184E	needsfix_mongolianlettertodoga	MONGOLIAN LETTER TODO GA
-184F	needsfix_mongolianlettertodoma	MONGOLIAN LETTER TODO MA
-1850	needsfix_mongolianlettertodota	MONGOLIAN LETTER TODO TA
-1851	needsfix_mongolianlettertododa	MONGOLIAN LETTER TODO DA
-1852	needsfix_mongolianlettertodocha	MONGOLIAN LETTER TODO CHA
-1853	needsfix_mongolianlettertodoja	MONGOLIAN LETTER TODO JA
-1854	needsfix_mongolianlettertodotsa	MONGOLIAN LETTER TODO TSA
-1855	needsfix_mongolianlettertodoya	MONGOLIAN LETTER TODO YA
-1856	needsfix_mongolianlettertodowa	MONGOLIAN LETTER TODO WA
-1857	needsfix_mongolianlettertodoka	MONGOLIAN LETTER TODO KA
-1858	needsfix_mongolianlettertodogaa	MONGOLIAN LETTER TODO GAA
-1859	needsfix_mongolianlettertodohaa	MONGOLIAN LETTER TODO HAA
-185A	needsfix_mongolianlettertodojia	MONGOLIAN LETTER TODO JIA
-185B	needsfix_mongolianlettertodonia	MONGOLIAN LETTER TODO NIA
-185C	needsfix_mongolianlettertododza	MONGOLIAN LETTER TODO DZA
-185D	needsfix_mongolianlettersibee	MONGOLIAN LETTER SIBE E
-185E	needsfix_mongolianlettersibei	MONGOLIAN LETTER SIBE I
-185F	needsfix_mongolianlettersibeiy	MONGOLIAN LETTER SIBE IY
-1860	needsfix_mongolianlettersibeue	MONGOLIAN LETTER SIBE UE
-1861	needsfix_mongolianlettersibeu	MONGOLIAN LETTER SIBE U
-1862	needsfix_mongolianlettersibeang	MONGOLIAN LETTER SIBE ANG
-1863	needsfix_mongolianlettersibeka	MONGOLIAN LETTER SIBE KA
-1864	needsfix_mongolianlettersibega	MONGOLIAN LETTER SIBE GA
-1865	needsfix_mongolianlettersibeha	MONGOLIAN LETTER SIBE HA
-1866	needsfix_mongolianlettersibepa	MONGOLIAN LETTER SIBE PA
-1867	needsfix_mongolianlettersibesha	MONGOLIAN LETTER SIBE SHA
-1868	needsfix_mongolianlettersibeta	MONGOLIAN LETTER SIBE TA
-1869	needsfix_mongolianlettersibeda	MONGOLIAN LETTER SIBE DA
-186A	needsfix_mongolianlettersibeja	MONGOLIAN LETTER SIBE JA
-186B	needsfix_mongolianlettersibefa	MONGOLIAN LETTER SIBE FA
-186C	needsfix_mongolianlettersibegaa	MONGOLIAN LETTER SIBE GAA
-186D	needsfix_mongolianlettersibehaa	MONGOLIAN LETTER SIBE HAA
-186E	needsfix_mongolianlettersibetsa	MONGOLIAN LETTER SIBE TSA
-186F	needsfix_mongolianlettersibeza	MONGOLIAN LETTER SIBE ZA
-1870	needsfix_mongolianlettersiberaa	MONGOLIAN LETTER SIBE RAA
-1871	needsfix_mongolianlettersibecha	MONGOLIAN LETTER SIBE CHA
-1872	needsfix_mongolianlettersibezha	MONGOLIAN LETTER SIBE ZHA
-1873	needsfix_mongolianlettermanchui	MONGOLIAN LETTER MANCHU I
-1874	needsfix_mongolianlettermanchuka	MONGOLIAN LETTER MANCHU KA
-1875	needsfix_mongolianlettermanchura	MONGOLIAN LETTER MANCHU RA
-1876	needsfix_mongolianlettermanchufa	MONGOLIAN LETTER MANCHU FA
-1877	needsfix_mongolianlettermanchuzha	MONGOLIAN LETTER MANCHU ZHA
-1880	needsfix_mongolianletteraligalianusvaraone	MONGOLIAN LETTER ALI GALI ANUSVARA ONE
-1881	needsfix_mongolianletteraligalivisargaone	MONGOLIAN LETTER ALI GALI VISARGA ONE
-1882	needsfix_mongolianletteraligalidamaru	MONGOLIAN LETTER ALI GALI DAMARU
-1883	needsfix_mongolianletteraligaliubadama	MONGOLIAN LETTER ALI GALI UBADAMA
-1884	needsfix_mongolianletteraligaliinvertedubadama	MONGOLIAN LETTER ALI GALI INVERTED UBADAMA
-1885	needsfix_mongolianletteraligalibaluda	MONGOLIAN LETTER ALI GALI BALUDA
-1886	needsfix_mongolianletteraligalithreebaluda	MONGOLIAN LETTER ALI GALI THREE BALUDA
-1887	needsfix_mongolianletteraligalia	MONGOLIAN LETTER ALI GALI A
-1888	needsfix_mongolianletteraligalii	MONGOLIAN LETTER ALI GALI I
-1889	needsfix_mongolianletteraligalika	MONGOLIAN LETTER ALI GALI KA
-188A	needsfix_mongolianletteraligalinga	MONGOLIAN LETTER ALI GALI NGA
-188B	needsfix_mongolianletteraligalica	MONGOLIAN LETTER ALI GALI CA
-188C	needsfix_mongolianletteraligalitta	MONGOLIAN LETTER ALI GALI TTA
-188D	needsfix_mongolianletteraligalittha	MONGOLIAN LETTER ALI GALI TTHA
-188E	needsfix_mongolianletteraligalidda	MONGOLIAN LETTER ALI GALI DDA
-188F	needsfix_mongolianletteraligalinna	MONGOLIAN LETTER ALI GALI NNA
-1890	needsfix_mongolianletteraligalita	MONGOLIAN LETTER ALI GALI TA
-1891	needsfix_mongolianletteraligalida	MONGOLIAN LETTER ALI GALI DA
-1892	needsfix_mongolianletteraligalipa	MONGOLIAN LETTER ALI GALI PA
-1893	needsfix_mongolianletteraligalipha	MONGOLIAN LETTER ALI GALI PHA
-1894	needsfix_mongolianletteraligalissa	MONGOLIAN LETTER ALI GALI SSA
-1895	needsfix_mongolianletteraligalizha	MONGOLIAN LETTER ALI GALI ZHA
-1896	needsfix_mongolianletteraligaliza	MONGOLIAN LETTER ALI GALI ZA
-1897	needsfix_mongolianletteraligaliah	MONGOLIAN LETTER ALI GALI AH
-1898	needsfix_mongolianlettertodoaligalita	MONGOLIAN LETTER TODO ALI GALI TA
-1899	needsfix_mongolianlettertodoaligalizha	MONGOLIAN LETTER TODO ALI GALI ZHA
-189A	needsfix_mongolianlettermanchualigaligha	MONGOLIAN LETTER MANCHU ALI GALI GHA
-189B	needsfix_mongolianlettermanchualigalinga	MONGOLIAN LETTER MANCHU ALI GALI NGA
-189C	needsfix_mongolianlettermanchualigalica	MONGOLIAN LETTER MANCHU ALI GALI CA
-189D	needsfix_mongolianlettermanchualigalijha	MONGOLIAN LETTER MANCHU ALI GALI JHA
-189E	needsfix_mongolianlettermanchualigalitta	MONGOLIAN LETTER MANCHU ALI GALI TTA
-189F	needsfix_mongolianlettermanchualigaliddha	MONGOLIAN LETTER MANCHU ALI GALI DDHA
-18A0	needsfix_mongolianlettermanchualigalita	MONGOLIAN LETTER MANCHU ALI GALI TA
-18A1	needsfix_mongolianlettermanchualigalidha	MONGOLIAN LETTER MANCHU ALI GALI DHA
-18A2	needsfix_mongolianlettermanchualigalissa	MONGOLIAN LETTER MANCHU ALI GALI SSA
-18A3	needsfix_mongolianlettermanchualigalicya	MONGOLIAN LETTER MANCHU ALI GALI CYA
-18A4	needsfix_mongolianlettermanchualigalizha	MONGOLIAN LETTER MANCHU ALI GALI ZHA
-18A5	needsfix_mongolianlettermanchualigaliza	MONGOLIAN LETTER MANCHU ALI GALI ZA
-18A6	needsfix_mongolianletteraligalihalfu	MONGOLIAN LETTER ALI GALI HALF U
-18A7	needsfix_mongolianletteraligalihalfya	MONGOLIAN LETTER ALI GALI HALF YA
-18A8	needsfix_mongolianlettermanchualigalibha	MONGOLIAN LETTER MANCHU ALI GALI BHA
-18A9	needsfix_mongolianletteraligalidagalga	MONGOLIAN LETTER ALI GALI DAGALGA
-18AA	needsfix_mongolianlettermanchualigalilha	MONGOLIAN LETTER MANCHU ALI GALI LHA
+1800	mongolianbirga	MONGOLIAN BIRGA
+1801	mongolianellipsis	MONGOLIAN ELLIPSIS
+1802	mongoliancomma	MONGOLIAN COMMA
+1803	mongolianfullstop	MONGOLIAN FULL STOP
+1804	mongoliancolon	MONGOLIAN COLON
+1805	mongolianfourdots	MONGOLIAN FOUR DOTS
+1806	mongoliantodosofthyphen	MONGOLIAN TODO SOFT HYPHEN
+1807	mongoliansibesyllableboundarymarker	MONGOLIAN SIBE SYLLABLE BOUNDARY MARKER
+1808	mongolianmanchucomma	MONGOLIAN MANCHU COMMA
+1809	mongolianmanchufullstop	MONGOLIAN MANCHU FULL STOP
+180A	mongoliannirugu	MONGOLIAN NIRUGU
+180B	mongolianfreevariationselectorone	MONGOLIAN FREE VARIATION SELECTOR ONE
+180C	mongolianfreevariationselectortwo	MONGOLIAN FREE VARIATION SELECTOR TWO
+180D	mongolianfreevariationselectorthree	MONGOLIAN FREE VARIATION SELECTOR THREE
+180E	mongolianvowelseparator	MONGOLIAN VOWEL SEPARATOR
+1810	mongoliandigitzero	MONGOLIAN DIGIT ZERO
+1811	mongoliandigitone	MONGOLIAN DIGIT ONE
+1812	mongoliandigittwo	MONGOLIAN DIGIT TWO
+1813	mongoliandigitthree	MONGOLIAN DIGIT THREE
+1814	mongoliandigitfour	MONGOLIAN DIGIT FOUR
+1815	mongoliandigitfive	MONGOLIAN DIGIT FIVE
+1816	mongoliandigitsix	MONGOLIAN DIGIT SIX
+1817	mongoliandigitseven	MONGOLIAN DIGIT SEVEN
+1818	mongoliandigiteight	MONGOLIAN DIGIT EIGHT
+1819	mongoliandigitnine	MONGOLIAN DIGIT NINE
+1820	mongolianlettera	MONGOLIAN LETTER A
+1821	mongolianlettere	MONGOLIAN LETTER E
+1822	mongolianletteri	MONGOLIAN LETTER I
+1823	mongolianlettero	MONGOLIAN LETTER O
+1824	mongolianletteru	MONGOLIAN LETTER U
+1825	mongolianletteroe	MONGOLIAN LETTER OE
+1826	mongolianletterue	MONGOLIAN LETTER UE
+1827	mongolianletteree	MONGOLIAN LETTER EE
+1828	mongolianletterna	MONGOLIAN LETTER NA
+1829	mongolianletterang	MONGOLIAN LETTER ANG
+182A	mongolianletterba	MONGOLIAN LETTER BA
+182B	mongolianletterpa	MONGOLIAN LETTER PA
+182C	mongolianletterqa	MONGOLIAN LETTER QA
+182D	mongolianletterga	MONGOLIAN LETTER GA
+182E	mongolianletterma	MONGOLIAN LETTER MA
+182F	mongolianletterla	MONGOLIAN LETTER LA
+1830	mongolianlettersa	MONGOLIAN LETTER SA
+1831	mongolianlettersha	MONGOLIAN LETTER SHA
+1832	mongolianletterta	MONGOLIAN LETTER TA
+1833	mongolianletterda	MONGOLIAN LETTER DA
+1834	mongolianlettercha	MONGOLIAN LETTER CHA
+1835	mongolianletterja	MONGOLIAN LETTER JA
+1836	mongolianletterya	MONGOLIAN LETTER YA
+1837	mongolianletterra	MONGOLIAN LETTER RA
+1838	mongolianletterwa	MONGOLIAN LETTER WA
+1839	mongolianletterfa	MONGOLIAN LETTER FA
+183A	mongolianletterka	MONGOLIAN LETTER KA
+183B	mongolianletterkha	MONGOLIAN LETTER KHA
+183C	mongolianlettertsa	MONGOLIAN LETTER TSA
+183D	mongolianletterza	MONGOLIAN LETTER ZA
+183E	mongolianletterhaa	MONGOLIAN LETTER HAA
+183F	mongolianletterzra	MONGOLIAN LETTER ZRA
+1840	mongolianletterlha	MONGOLIAN LETTER LHA
+1841	mongolianletterzhi	MONGOLIAN LETTER ZHI
+1842	mongolianletterchi	MONGOLIAN LETTER CHI
+1843	mongolianlettertodolongvowelsign	MONGOLIAN LETTER TODO LONG VOWEL SIGN
+1844	mongolianlettertodoe	MONGOLIAN LETTER TODO E
+1845	mongolianlettertodoi	MONGOLIAN LETTER TODO I
+1846	mongolianlettertodoo	MONGOLIAN LETTER TODO O
+1847	mongolianlettertodou	MONGOLIAN LETTER TODO U
+1848	mongolianlettertodooe	MONGOLIAN LETTER TODO OE
+1849	mongolianlettertodoue	MONGOLIAN LETTER TODO UE
+184A	mongolianlettertodoang	MONGOLIAN LETTER TODO ANG
+184B	mongolianlettertodoba	MONGOLIAN LETTER TODO BA
+184C	mongolianlettertodopa	MONGOLIAN LETTER TODO PA
+184D	mongolianlettertodoqa	MONGOLIAN LETTER TODO QA
+184E	mongolianlettertodoga	MONGOLIAN LETTER TODO GA
+184F	mongolianlettertodoma	MONGOLIAN LETTER TODO MA
+1850	mongolianlettertodota	MONGOLIAN LETTER TODO TA
+1851	mongolianlettertododa	MONGOLIAN LETTER TODO DA
+1852	mongolianlettertodocha	MONGOLIAN LETTER TODO CHA
+1853	mongolianlettertodoja	MONGOLIAN LETTER TODO JA
+1854	mongolianlettertodotsa	MONGOLIAN LETTER TODO TSA
+1855	mongolianlettertodoya	MONGOLIAN LETTER TODO YA
+1856	mongolianlettertodowa	MONGOLIAN LETTER TODO WA
+1857	mongolianlettertodoka	MONGOLIAN LETTER TODO KA
+1858	mongolianlettertodogaa	MONGOLIAN LETTER TODO GAA
+1859	mongolianlettertodohaa	MONGOLIAN LETTER TODO HAA
+185A	mongolianlettertodojia	MONGOLIAN LETTER TODO JIA
+185B	mongolianlettertodonia	MONGOLIAN LETTER TODO NIA
+185C	mongolianlettertododza	MONGOLIAN LETTER TODO DZA
+185D	mongolianlettersibee	MONGOLIAN LETTER SIBE E
+185E	mongolianlettersibei	MONGOLIAN LETTER SIBE I
+185F	mongolianlettersibeiy	MONGOLIAN LETTER SIBE IY
+1860	mongolianlettersibeue	MONGOLIAN LETTER SIBE UE
+1861	mongolianlettersibeu	MONGOLIAN LETTER SIBE U
+1862	mongolianlettersibeang	MONGOLIAN LETTER SIBE ANG
+1863	mongolianlettersibeka	MONGOLIAN LETTER SIBE KA
+1864	mongolianlettersibega	MONGOLIAN LETTER SIBE GA
+1865	mongolianlettersibeha	MONGOLIAN LETTER SIBE HA
+1866	mongolianlettersibepa	MONGOLIAN LETTER SIBE PA
+1867	mongolianlettersibesha	MONGOLIAN LETTER SIBE SHA
+1868	mongolianlettersibeta	MONGOLIAN LETTER SIBE TA
+1869	mongolianlettersibeda	MONGOLIAN LETTER SIBE DA
+186A	mongolianlettersibeja	MONGOLIAN LETTER SIBE JA
+186B	mongolianlettersibefa	MONGOLIAN LETTER SIBE FA
+186C	mongolianlettersibegaa	MONGOLIAN LETTER SIBE GAA
+186D	mongolianlettersibehaa	MONGOLIAN LETTER SIBE HAA
+186E	mongolianlettersibetsa	MONGOLIAN LETTER SIBE TSA
+186F	mongolianlettersibeza	MONGOLIAN LETTER SIBE ZA
+1870	mongolianlettersiberaa	MONGOLIAN LETTER SIBE RAA
+1871	mongolianlettersibecha	MONGOLIAN LETTER SIBE CHA
+1872	mongolianlettersibezha	MONGOLIAN LETTER SIBE ZHA
+1873	mongolianlettermanchui	MONGOLIAN LETTER MANCHU I
+1874	mongolianlettermanchuka	MONGOLIAN LETTER MANCHU KA
+1875	mongolianlettermanchura	MONGOLIAN LETTER MANCHU RA
+1876	mongolianlettermanchufa	MONGOLIAN LETTER MANCHU FA
+1877	mongolianlettermanchuzha	MONGOLIAN LETTER MANCHU ZHA
+1880	mongolianletteraligalianusvaraone	MONGOLIAN LETTER ALI GALI ANUSVARA ONE
+1881	mongolianletteraligalivisargaone	MONGOLIAN LETTER ALI GALI VISARGA ONE
+1882	mongolianletteraligalidamaru	MONGOLIAN LETTER ALI GALI DAMARU
+1883	mongolianletteraligaliubadama	MONGOLIAN LETTER ALI GALI UBADAMA
+1884	mongolianletteraligaliinvertedubadama	MONGOLIAN LETTER ALI GALI INVERTED UBADAMA
+1885	mongolianletteraligalibaluda	MONGOLIAN LETTER ALI GALI BALUDA
+1886	mongolianletteraligalithreebaluda	MONGOLIAN LETTER ALI GALI THREE BALUDA
+1887	mongolianletteraligalia	MONGOLIAN LETTER ALI GALI A
+1888	mongolianletteraligalii	MONGOLIAN LETTER ALI GALI I
+1889	mongolianletteraligalika	MONGOLIAN LETTER ALI GALI KA
+188A	mongolianletteraligalinga	MONGOLIAN LETTER ALI GALI NGA
+188B	mongolianletteraligalica	MONGOLIAN LETTER ALI GALI CA
+188C	mongolianletteraligalitta	MONGOLIAN LETTER ALI GALI TTA
+188D	mongolianletteraligalittha	MONGOLIAN LETTER ALI GALI TTHA
+188E	mongolianletteraligalidda	MONGOLIAN LETTER ALI GALI DDA
+188F	mongolianletteraligalinna	MONGOLIAN LETTER ALI GALI NNA
+1890	mongolianletteraligalita	MONGOLIAN LETTER ALI GALI TA
+1891	mongolianletteraligalida	MONGOLIAN LETTER ALI GALI DA
+1892	mongolianletteraligalipa	MONGOLIAN LETTER ALI GALI PA
+1893	mongolianletteraligalipha	MONGOLIAN LETTER ALI GALI PHA
+1894	mongolianletteraligalissa	MONGOLIAN LETTER ALI GALI SSA
+1895	mongolianletteraligalizha	MONGOLIAN LETTER ALI GALI ZHA
+1896	mongolianletteraligaliza	MONGOLIAN LETTER ALI GALI ZA
+1897	mongolianletteraligaliah	MONGOLIAN LETTER ALI GALI AH
+1898	mongolianlettertodoaligalita	MONGOLIAN LETTER TODO ALI GALI TA
+1899	mongolianlettertodoaligalizha	MONGOLIAN LETTER TODO ALI GALI ZHA
+189A	mongolianlettermanchualigaligha	MONGOLIAN LETTER MANCHU ALI GALI GHA
+189B	mongolianlettermanchualigalinga	MONGOLIAN LETTER MANCHU ALI GALI NGA
+189C	mongolianlettermanchualigalica	MONGOLIAN LETTER MANCHU ALI GALI CA
+189D	mongolianlettermanchualigalijha	MONGOLIAN LETTER MANCHU ALI GALI JHA
+189E	mongolianlettermanchualigalitta	MONGOLIAN LETTER MANCHU ALI GALI TTA
+189F	mongolianlettermanchualigaliddha	MONGOLIAN LETTER MANCHU ALI GALI DDHA
+18A0	mongolianlettermanchualigalita	MONGOLIAN LETTER MANCHU ALI GALI TA
+18A1	mongolianlettermanchualigalidha	MONGOLIAN LETTER MANCHU ALI GALI DHA
+18A2	mongolianlettermanchualigalissa	MONGOLIAN LETTER MANCHU ALI GALI SSA
+18A3	mongolianlettermanchualigalicya	MONGOLIAN LETTER MANCHU ALI GALI CYA
+18A4	mongolianlettermanchualigalizha	MONGOLIAN LETTER MANCHU ALI GALI ZHA
+18A5	mongolianlettermanchualigaliza	MONGOLIAN LETTER MANCHU ALI GALI ZA
+18A6	mongolianletteraligalihalfu	MONGOLIAN LETTER ALI GALI HALF U
+18A7	mongolianletteraligalihalfya	MONGOLIAN LETTER ALI GALI HALF YA
+18A8	mongolianlettermanchualigalibha	MONGOLIAN LETTER MANCHU ALI GALI BHA
+18A9	mongolianletteraligalidagalga	MONGOLIAN LETTER ALI GALI DAGALGA
+18AA	mongolianlettermanchualigalilha	MONGOLIAN LETTER MANCHU ALI GALI LHA

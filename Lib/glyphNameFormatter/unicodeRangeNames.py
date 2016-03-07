@@ -158,6 +158,13 @@ def getRangeByName(rangeName):
             return r
     return None
 
+def getAllRangeNames():
+    names = []
+    ranges = unicodeRangeNames.keys()
+    ranges.sort()
+    for r in ranges:
+        names.append(unicodeRangeNames[r])
+    return names
 
 def getPlaneName(value):
     for a, b in unicodePlaneNames.keys():
@@ -166,7 +173,7 @@ def getPlaneName(value):
     return None
 
 
-def getAllRangeNames():
+def getAllPlaneNames():
     names = []
     k = unicodePlaneNames.keys()
     k.sort()

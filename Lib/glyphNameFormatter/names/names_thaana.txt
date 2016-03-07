@@ -1,51 +1,51 @@
 # Thaana 0780 - 07BF
-0780	needsfix_thaanaletterhaa	THAANA LETTER HAA
-0781	needsfix_thaanalettershaviyani	THAANA LETTER SHAVIYANI
-0782	needsfix_thaanaletternoonu	THAANA LETTER NOONU
-0783	needsfix_thaanaletterraa	THAANA LETTER RAA
-0784	needsfix_thaanaletterbaa	THAANA LETTER BAA
-0785	needsfix_thaanaletterlhaviyani	THAANA LETTER LHAVIYANI
-0786	needsfix_thaanaletterkaafu	THAANA LETTER KAAFU
-0787	needsfix_thaanaletteralifu	THAANA LETTER ALIFU
-0788	needsfix_thaanalettervaavu	THAANA LETTER VAAVU
-0789	needsfix_thaanalettermeemu	THAANA LETTER MEEMU
-078A	needsfix_thaanaletterfaafu	THAANA LETTER FAAFU
-078B	needsfix_thaanaletterdhaalu	THAANA LETTER DHAALU
-078C	needsfix_thaanaletterthaa	THAANA LETTER THAA
-078D	needsfix_thaanaletterlaamu	THAANA LETTER LAAMU
-078E	needsfix_thaanalettergaafu	THAANA LETTER GAAFU
-078F	needsfix_thaanalettergnaviyani	THAANA LETTER GNAVIYANI
-0790	needsfix_thaanaletterseenu	THAANA LETTER SEENU
-0791	needsfix_thaanaletterdaviyani	THAANA LETTER DAVIYANI
-0792	needsfix_thaanaletterzaviyani	THAANA LETTER ZAVIYANI
-0793	needsfix_thaanalettertaviyani	THAANA LETTER TAVIYANI
-0794	needsfix_thaanaletteryaa	THAANA LETTER YAA
-0795	needsfix_thaanaletterpaviyani	THAANA LETTER PAVIYANI
-0796	needsfix_thaanaletterjaviyani	THAANA LETTER JAVIYANI
-0797	needsfix_thaanaletterchaviyani	THAANA LETTER CHAVIYANI
-0798	needsfix_thaanaletterttaa	THAANA LETTER TTAA
-0799	needsfix_thaanaletterhhaa	THAANA LETTER HHAA
-079A	needsfix_thaanaletterkhaa	THAANA LETTER KHAA
-079B	needsfix_thaanaletterthaalu	THAANA LETTER THAALU
-079C	needsfix_thaanaletterzaa	THAANA LETTER ZAA
-079D	needsfix_thaanalettersheenu	THAANA LETTER SHEENU
-079E	needsfix_thaanalettersaadhu	THAANA LETTER SAADHU
-079F	needsfix_thaanaletterdaadhu	THAANA LETTER DAADHU
-07A0	needsfix_thaanaletterto	THAANA LETTER TO
-07A1	needsfix_thaanaletterzo	THAANA LETTER ZO
-07A2	needsfix_thaanaletterainu	THAANA LETTER AINU
-07A3	needsfix_thaanaletterghainu	THAANA LETTER GHAINU
-07A4	needsfix_thaanaletterqaafu	THAANA LETTER QAAFU
-07A5	needsfix_thaanaletterwaavu	THAANA LETTER WAAVU
-07A6	needsfix_thaanaabafili	THAANA ABAFILI
-07A7	needsfix_thaanaaabaafili	THAANA AABAAFILI
-07A8	needsfix_thaanaibifili	THAANA IBIFILI
-07A9	needsfix_thaanaeebeefili	THAANA EEBEEFILI
-07AA	needsfix_thaanaubufili	THAANA UBUFILI
-07AB	needsfix_thaanaooboofili	THAANA OOBOOFILI
-07AC	needsfix_thaanaebefili	THAANA EBEFILI
-07AD	needsfix_thaanaeybeyfili	THAANA EYBEYFILI
-07AE	needsfix_thaanaobofili	THAANA OBOFILI
-07AF	needsfix_thaanaoaboafili	THAANA OABOAFILI
-07B0	needsfix_thaanasukun	THAANA SUKUN
-07B1	needsfix_thaanaletternaa	THAANA LETTER NAA
+0780	thaanaletterhaa	THAANA LETTER HAA
+0781	thaanalettershaviyani	THAANA LETTER SHAVIYANI
+0782	thaanaletternoonu	THAANA LETTER NOONU
+0783	thaanaletterraa	THAANA LETTER RAA
+0784	thaanaletterbaa	THAANA LETTER BAA
+0785	thaanaletterlhaviyani	THAANA LETTER LHAVIYANI
+0786	thaanaletterkaafu	THAANA LETTER KAAFU
+0787	thaanaletteralifu	THAANA LETTER ALIFU
+0788	thaanalettervaavu	THAANA LETTER VAAVU
+0789	thaanalettermeemu	THAANA LETTER MEEMU
+078A	thaanaletterfaafu	THAANA LETTER FAAFU
+078B	thaanaletterdhaalu	THAANA LETTER DHAALU
+078C	thaanaletterthaa	THAANA LETTER THAA
+078D	thaanaletterlaamu	THAANA LETTER LAAMU
+078E	thaanalettergaafu	THAANA LETTER GAAFU
+078F	thaanalettergnaviyani	THAANA LETTER GNAVIYANI
+0790	thaanaletterseenu	THAANA LETTER SEENU
+0791	thaanaletterdaviyani	THAANA LETTER DAVIYANI
+0792	thaanaletterzaviyani	THAANA LETTER ZAVIYANI
+0793	thaanalettertaviyani	THAANA LETTER TAVIYANI
+0794	thaanaletteryaa	THAANA LETTER YAA
+0795	thaanaletterpaviyani	THAANA LETTER PAVIYANI
+0796	thaanaletterjaviyani	THAANA LETTER JAVIYANI
+0797	thaanaletterchaviyani	THAANA LETTER CHAVIYANI
+0798	thaanaletterttaa	THAANA LETTER TTAA
+0799	thaanaletterhhaa	THAANA LETTER HHAA
+079A	thaanaletterkhaa	THAANA LETTER KHAA
+079B	thaanaletterthaalu	THAANA LETTER THAALU
+079C	thaanaletterzaa	THAANA LETTER ZAA
+079D	thaanalettersheenu	THAANA LETTER SHEENU
+079E	thaanalettersaadhu	THAANA LETTER SAADHU
+079F	thaanaletterdaadhu	THAANA LETTER DAADHU
+07A0	thaanaletterto	THAANA LETTER TO
+07A1	thaanaletterzo	THAANA LETTER ZO
+07A2	thaanaletterainu	THAANA LETTER AINU
+07A3	thaanaletterghainu	THAANA LETTER GHAINU
+07A4	thaanaletterqaafu	THAANA LETTER QAAFU
+07A5	thaanaletterwaavu	THAANA LETTER WAAVU
+07A6	thaanaabafili	THAANA ABAFILI
+07A7	thaanaaabaafili	THAANA AABAAFILI
+07A8	thaanaibifili	THAANA IBIFILI
+07A9	thaanaeebeefili	THAANA EEBEEFILI
+07AA	thaanaubufili	THAANA UBUFILI
+07AB	thaanaooboofili	THAANA OOBOOFILI
+07AC	thaanaebefili	THAANA EBEFILI
+07AD	thaanaeybeyfili	THAANA EYBEYFILI
+07AE	thaanaobofili	THAANA OBOFILI
+07AF	thaanaoaboafili	THAANA OABOAFILI
+07B0	thaanasukun	THAANA SUKUN
+07B1	thaanaletternaa	THAANA LETTER NAA
