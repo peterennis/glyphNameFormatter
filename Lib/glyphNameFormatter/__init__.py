@@ -6,6 +6,8 @@ from unicodeRangeNames import getRangeName, getRangeProcessor
 from scriptConflictNames import scriptConflictNames
 from preferredAGLNames import preferredAGLNames
 from scriptPrefixes import scriptPrefixes
+from rangeProcessors import GlyphNameProcessor
+
 
 def debug(uniNumber):
     # trace the processing of a specific number
@@ -16,7 +18,8 @@ def debug(uniNumber):
     for step in glyphName._log:
         print "\t", step
 
-class GlyphName(object):
+
+class GlyphName(GlyphNameProcessor):
 
     prefSpelling_dieresis = "dieresis"
 
@@ -49,7 +52,7 @@ class GlyphName(object):
         try:
             self.uniLetter = unichr(self.uniNumber)
         except ValueError:
-            print "GlyphName valueerror for %04X"%self.uniNumber
+            print "GlyphName valueerror for %04X" % self.uniNumber
             return
         try:
             self.uniName = unicodedata.name(self.uniLetter)
@@ -70,9 +73,9 @@ class GlyphName(object):
         for p in self.uniName.split(" "):
             for q in p.split("-"):
                 try:
-                    int("0x"+q, 16)
+                    int(q, 16)
                 except ValueError:
-                    if not q in parts:
+                    if q not in parts:
                         parts[q] = 0
                     parts[q] += 1
         return parts
@@ -131,7 +134,7 @@ class GlyphName(object):
                 # but we've been warned that it might be necessary
                 # for disambiguation
                 if self.scriptTag != self.languageTags['latin'] and self.scriptTag != "":
-                    return "%s-%s"%(self.scriptTag, self.uniNameProcessed)
+                    return "%s-%s" % (self.scriptTag, self.uniNameProcessed)
                 else:
                     return self.uniNameProcessed
             else:
@@ -139,12 +142,12 @@ class GlyphName(object):
                 return self.uniNameProcessed
         else:
             if self.scriptTag:
-                return "%s-%s"%(self.scriptTag, self.uniNameProcessed)
+                return "%s-%s" % (self.scriptTag, self.uniNameProcessed)
             else:
                 return self.uniNameProcessed
 
     def __repr__(self):
-        return "%s\t\t%05x\t\t%s"%(self.getName(extension=False), self.uniNumber, self.uniName)
+        return "%s\t\t%05x\t\t%s" % (self.getName(extension=False), self.uniNumber, self.uniName)
 
     def process(self):
         if self.uniNumber in preferredAGLNames:
@@ -229,7 +232,7 @@ if __name__ == "__main__":
         >>> g.uniName
         'EXCLAMATION MARK'
         >>> g.getName()
-        "exclam"
+        'exclam'
 
         >>> g = GlyphName(uniNumber=0x041)
         >>> g.uniName
@@ -245,5 +248,5 @@ if __name__ == "__main__":
         'a'
 
         """
-    
+
     doctest.testmod()

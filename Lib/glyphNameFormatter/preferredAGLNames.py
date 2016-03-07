@@ -1,5 +1,5 @@
 # these names are from the AGL and are to be preferred over unicode formatted names
-# it is only a handful. Objectionable names can be commented out. 
+# it is only a handful. Objectionable names can be commented out.
 
 preferredAGLNames = {
     0x0028: 'parenleft',

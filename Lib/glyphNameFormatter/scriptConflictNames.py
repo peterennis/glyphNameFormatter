@@ -1,7 +1,7 @@
 # these are names that appear in several scripts and probably need a script prefix
-# Names that are reported in the duplicate tests should end up here. 
+# Names that are reported in the duplicate tests should end up here.
 
-scriptConflictNames =[
+scriptConflictNames = [
     "A",
     "Abreve",
     "Adieresis",

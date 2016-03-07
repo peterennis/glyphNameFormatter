@@ -33,6 +33,16 @@ unicodeRangeNames = {
     (0x0E80,    0x0EFF): "Lao",
     (0x0F00,    0x0FFF): "Tibetan",
     (0x1000,    0x109F): "Myanmar",
+    (0x10000,   0x1007F): "Linear B Syllabary",
+    (0x10080,   0x100FF): "Linear B Ideograms",
+    (0x10100,   0x1013F): "Aegean Numbers",
+    (0x10300,   0x1032F): "Old Italic",
+    (0x10330,   0x1034F): "Gothic",
+    (0x10380,   0x1039F): "Ugaritic",
+    (0x10400,   0x1044F): "Deseret",
+    (0x10450,   0x1047F): "Shavian",
+    (0x10480,   0x104AF): "Osmanya",
+    (0x10800,   0x1083F): "Cypriot Syllabary",
     (0x10A0,    0x10FF): "Georgian",
     (0x1100,    0x11FF): "Hangul Jamo",
     (0x1200,    0x137F): "Ethiopic",
@@ -50,9 +60,14 @@ unicodeRangeNames = {
     (0x1950,    0x197F): "Tai Le",
     (0x19E0,    0x19FF): "Khmer Symbols",
     (0x1D00,    0x1D7F): "Phonetic Extensions",
+    (0x1D000,   0x1D0FF): "Byzantine Musical Symbols",
+    (0x1D100,   0x1D1FF): "Musical Symbols",
+    (0x1D300,   0x1D35F): "Tai Xuan Jing Symbols",
+    (0x1D400,   0x1D7FF): "Mathematical Alphanumeric Symbols",
     (0x1E00,    0x1EFF): "Latin Extended Additional",
     (0x1F00,    0x1FFF): "Greek Extended",
     (0x2000,    0x206F): "General Punctuation",
+    (0x20000,   0x2A6DF): "CJK Unified Ideographs Extension B",
     (0x2070,    0x209F): "Superscripts and Subscripts",
     (0x20A0,    0x20CF): "Currency Symbols",
     (0x20D0,    0x20FF): "Combining Diacritical Marks for Symbols",
@@ -78,6 +93,7 @@ unicodeRangeNames = {
     (0x2B00,    0x2BFF): "Miscellaneous Symbols and Arrows",
     (0x2E80,    0x2EFF): "CJK Radicals Supplement",
     (0x2F00,    0x2FDF): "Kangxi Radicals",
+    (0x2F800,   0x2FA1F): "CJK Compatibility Ideographs Supplement",
     (0x2FF0,    0x2FFF): "Ideographic Description Characters",
     (0x3000,    0x303F): "CJK Symbols and Punctuation",
     (0x3040,    0x309F): "Hiragana",
@@ -99,6 +115,7 @@ unicodeRangeNames = {
     (0xDB80,    0xDBFF): "High Private Use Surrogates",
     (0xDC00,    0xDFFF): "Low Surrogates",
     (0xE000,    0xF8FF): "Private Use Area",
+    (0xE0000,   0xE007F): "Tags",
     (0xF900,    0xFAFF): "CJK Compatibility Ideographs",
     (0xFB00,    0xFB4F): "Alphabetic Presentation Forms",
     (0xFB50,    0xFDFF): "Arabic Presentation Forms-A",
@@ -109,24 +126,6 @@ unicodeRangeNames = {
     (0xFE70,    0xFEFF): "Arabic Presentation Forms-B",
     (0xFF00,    0xFFEF): "Halfwidth and Fullwidth Forms",
     (0xFFF0,    0xFFFF): "Specials",
-
-    (0x10000,   0x1007F): "Linear B Syllabary",
-    (0x10080,   0x100FF): "Linear B Ideograms",
-    (0x10100,   0x1013F): "Aegean Numbers",
-    (0x10300,   0x1032F): "Old Italic",
-    (0x10330,   0x1034F): "Gothic",
-    (0x10380,   0x1039F): "Ugaritic",
-    (0x10400,   0x1044F): "Deseret",
-    (0x10450,   0x1047F): "Shavian",
-    (0x10480,   0x104AF): "Osmanya",
-    (0x10800,   0x1083F): "Cypriot Syllabary",
-    (0x1D000,   0x1D0FF): "Byzantine Musical Symbols",
-    (0x1D100,   0x1D1FF): "Musical Symbols",
-    (0x1D300,   0x1D35F): "Tai Xuan Jing Symbols",
-    (0x1D400,   0x1D7FF): "Mathematical Alphanumeric Symbols",
-    (0x20000,   0x2A6DF): "CJK Unified Ideographs Extension B",
-    (0xE0000,   0xE007F): "Tags",
-    (0x2F800,   0x2FA1F): "CJK Compatibility Ideographs Supplement",
 }
 
 unicodePlaneNames = {
@@ -138,37 +137,34 @@ unicodePlaneNames = {
     (0xF0000,   0x10FFFF): (u"Supplement­ary Private Use Area", ),
 }
 
-def getAllRangeNames():
-    k = unicodeRangeNames.keys()
-    k.sort()
-    names = []
-    for r in k:
-        names.append(unicodeRangeNames[r])
-    return names
-
-def getRangeFromName(name):
-    for r, thisName in unicodeRangeNames.items():
-        if name == thisName:
-            return r
-    return None
 
 def getRangeName(value):
     for a, b in unicodeRangeNames.keys():
         if a <= value <= b:
-            return unicodeRangeNames[(a,b)]
+            return unicodeRangeNames[(a, b)]
     return None
+
 
 def getRangeAndName(value):
     for a, b in unicodeRangeNames.keys():
         if a <= value <= b:
-            return (a,b), unicodeRangeNames[(a,b)]
+            return (a, b), unicodeRangeNames[(a, b)]
     return None, None
+
+
+def getRangeByName(rangeName):
+    for r, name in unicodeRangeNames.items():
+        if rangeName == name:
+            return r
+    return None
+
 
 def getPlaneName(value):
     for a, b in unicodePlaneNames.keys():
         if a <= value <= b:
-            return unicodePlaneNames[(a,b)][0]
+            return unicodePlaneNames[(a, b)][0]
     return None
+
 
 def getRangeProcessor(value):
     import importlib
@@ -176,17 +172,14 @@ def getRangeProcessor(value):
     if name is None:
         return None
     moduleName = name.lower().replace(" ", "_")
-    # print "looking for moduleName", moduleName
     module = None
     try:
         module = importlib.import_module('glyphNameFormatter.rangeProcessors.%s' % moduleName)
     except ImportError:
         # return the default
-        return rangeProcessors.process
-        return None
+        module = rangeProcessors
     try:
         return getattr(module, "process")
     except AttributeError:
         print moduleName
         return None
-
