@@ -1,113 +1,113 @@
 # Combining Diacritical Marks 0300 - 036F
-0300	needsfix__gravecomb	COMBINING GRAVE ACCENT
-0301	needsfix__acutecomb	COMBINING ACUTE ACCENT
-0302	needsfix__combiningcircumflexaccent	COMBINING CIRCUMFLEX ACCENT
-0303	needsfix__tildecomb	COMBINING TILDE
-0304	needsfix__combiningmacron	COMBINING MACRON
-0305	needsfix__combiningoverline	COMBINING OVERLINE
-0306	needsfix__combiningbreve	COMBINING BREVE
-0307	needsfix__combiningdotabove	COMBINING DOT ABOVE
-0308	needsfix__combiningdiaeresis	COMBINING DIAERESIS
-0309	needsfix__hookabovecomb	COMBINING HOOK ABOVE
-030A	needsfix__combiningringabove	COMBINING RING ABOVE
-030B	needsfix__combiningdoubleacuteaccent	COMBINING DOUBLE ACUTE ACCENT
-030C	needsfix__combiningcaron	COMBINING CARON
-030D	needsfix__combiningverticallineabove	COMBINING VERTICAL LINE ABOVE
-030E	needsfix__combiningdoubleverticallineabove	COMBINING DOUBLE VERTICAL LINE ABOVE
-030F	needsfix__combiningdoublegraveaccent	COMBINING DOUBLE GRAVE ACCENT
-0310	needsfix__combiningcandrabindu	COMBINING CANDRABINDU
-0311	needsfix__combininginvertedbreve	COMBINING INVERTED BREVE
-0312	needsfix__combiningturnedcommaabove	COMBINING TURNED COMMA ABOVE
-0313	needsfix__combiningcommaabove	COMBINING COMMA ABOVE
-0314	needsfix__combiningreversedcommaabove	COMBINING REVERSED COMMA ABOVE
-0315	needsfix__combiningcommaaboveright	COMBINING COMMA ABOVE RIGHT
-0316	needsfix__combininggraveaccentbelow	COMBINING GRAVE ACCENT BELOW
-0317	needsfix__combiningacuteaccentbelow	COMBINING ACUTE ACCENT BELOW
-0318	needsfix__combininglefttackbelow	COMBINING LEFT TACK BELOW
-0319	needsfix__combiningrighttackbelow	COMBINING RIGHT TACK BELOW
-031A	needsfix__combiningleftangleabove	COMBINING LEFT ANGLE ABOVE
-031B	needsfix__combininghorn	COMBINING HORN
-031C	needsfix__combininglefthalfringbelow	COMBINING LEFT HALF RING BELOW
-031D	needsfix__combininguptackbelow	COMBINING UP TACK BELOW
-031E	needsfix__combiningdowntackbelow	COMBINING DOWN TACK BELOW
-031F	needsfix__combiningplussignbelow	COMBINING PLUS SIGN BELOW
-0320	needsfix__combiningminussignbelow	COMBINING MINUS SIGN BELOW
-0321	needsfix__combiningpalatalizedhookbelow	COMBINING PALATALIZED HOOK BELOW
-0322	needsfix__combiningretroflexhookbelow	COMBINING RETROFLEX HOOK BELOW
-0323	needsfix__dotbelowcomb	COMBINING DOT BELOW
-0324	needsfix__combiningdiaeresisbelow	COMBINING DIAERESIS BELOW
-0325	needsfix__combiningringbelow	COMBINING RING BELOW
-0326	needsfix__combiningcommabelow	COMBINING COMMA BELOW
-0327	needsfix__combiningcedilla	COMBINING CEDILLA
-0328	needsfix__combiningogonek	COMBINING OGONEK
-0329	needsfix__combiningverticallinebelow	COMBINING VERTICAL LINE BELOW
-032A	needsfix__combiningbridgebelow	COMBINING BRIDGE BELOW
-032B	needsfix__combininginverteddoublearchbelow	COMBINING INVERTED DOUBLE ARCH BELOW
-032C	needsfix__combiningcaronbelow	COMBINING CARON BELOW
-032D	needsfix__combiningcircumflexaccentbelow	COMBINING CIRCUMFLEX ACCENT BELOW
-032E	needsfix__combiningbrevebelow	COMBINING BREVE BELOW
-032F	needsfix__combininginvertedbrevebelow	COMBINING INVERTED BREVE BELOW
-0330	needsfix__combiningtildebelow	COMBINING TILDE BELOW
-0331	needsfix__combiningmacronbelow	COMBINING MACRON BELOW
-0332	needsfix__combininglowline	COMBINING LOW LINE
-0333	needsfix__combiningdoublelowline	COMBINING DOUBLE LOW LINE
-0334	needsfix__combiningtildeoverlay	COMBINING TILDE OVERLAY
-0335	needsfix__combiningshortstrokeoverlay	COMBINING SHORT STROKE OVERLAY
-0336	needsfix__combininglongstrokeoverlay	COMBINING LONG STROKE OVERLAY
-0337	needsfix__combiningshortsolidusoverlay	COMBINING SHORT SOLIDUS OVERLAY
-0338	needsfix__combininglongsolidusoverlay	COMBINING LONG SOLIDUS OVERLAY
-0339	needsfix__combiningrighthalfringbelow	COMBINING RIGHT HALF RING BELOW
-033A	needsfix__combininginvertedbridgebelow	COMBINING INVERTED BRIDGE BELOW
-033B	needsfix__combiningsquarebelow	COMBINING SQUARE BELOW
-033C	needsfix__combiningseagullbelow	COMBINING SEAGULL BELOW
-033D	needsfix__combiningxabove	COMBINING X ABOVE
-033E	needsfix__combiningverticaltilde	COMBINING VERTICAL TILDE
-033F	needsfix__combiningdoubleoverline	COMBINING DOUBLE OVERLINE
-0340	needsfix__combininggravetonemark	COMBINING GRAVE TONE MARK
-0341	needsfix__combiningacutetonemark	COMBINING ACUTE TONE MARK
-0342	needsfix__combininggreekperispomeni	COMBINING GREEK PERISPOMENI
-0343	needsfix__combininggreekkoronis	COMBINING GREEK KORONIS
-0344	needsfix__combininggreekdialytikatonos	COMBINING GREEK DIALYTIKA TONOS
-0345	needsfix__combininggreekypogegrammeni	COMBINING GREEK YPOGEGRAMMENI
-0346	needsfix__combiningbridgeabove	COMBINING BRIDGE ABOVE
-0347	needsfix__combiningequalssignbelow	COMBINING EQUALS SIGN BELOW
-0348	needsfix__combiningdoubleverticallinebelow	COMBINING DOUBLE VERTICAL LINE BELOW
-0349	needsfix__combiningleftanglebelow	COMBINING LEFT ANGLE BELOW
-034A	needsfix__combiningnottildeabove	COMBINING NOT TILDE ABOVE
-034B	needsfix__combininghomotheticabove	COMBINING HOMOTHETIC ABOVE
-034C	needsfix__combiningalmostequaltoabove	COMBINING ALMOST EQUAL TO ABOVE
-034D	needsfix__combiningleftrightarrowbelow	COMBINING LEFT RIGHT ARROW BELOW
-034E	needsfix__combiningupwardsarrowbelow	COMBINING UPWARDS ARROW BELOW
-034F	needsfix__combininggraphemejoiner	COMBINING GRAPHEME JOINER
-0350	needsfix__combiningrightarrowheadabove	COMBINING RIGHT ARROWHEAD ABOVE
-0351	needsfix__combininglefthalfringabove	COMBINING LEFT HALF RING ABOVE
-0352	needsfix__combiningfermata	COMBINING FERMATA
-0353	needsfix__combiningxbelow	COMBINING X BELOW
-0354	needsfix__combiningleftarrowheadbelow	COMBINING LEFT ARROWHEAD BELOW
-0355	needsfix__combiningrightarrowheadbelow	COMBINING RIGHT ARROWHEAD BELOW
-0356	needsfix__combiningrightarrowheadanduparrowheadbelow	COMBINING RIGHT ARROWHEAD AND UP ARROWHEAD BELOW
-0357	needsfix__combiningrighthalfringabove	COMBINING RIGHT HALF RING ABOVE
-0358	needsfix__combiningdotaboveright	COMBINING DOT ABOVE RIGHT
-0359	needsfix__combiningasteriskbelow	COMBINING ASTERISK BELOW
-035A	needsfix__combiningdoubleringbelow	COMBINING DOUBLE RING BELOW
-035B	needsfix__combiningzigzagabove	COMBINING ZIGZAG ABOVE
-035C	needsfix__combiningdoublebrevebelow	COMBINING DOUBLE BREVE BELOW
-035D	needsfix__combiningdoublebreve	COMBINING DOUBLE BREVE
-035E	needsfix__combiningdoublemacron	COMBINING DOUBLE MACRON
-035F	needsfix__combiningdoublemacronbelow	COMBINING DOUBLE MACRON BELOW
-0360	needsfix__combiningdoubletilde	COMBINING DOUBLE TILDE
-0361	needsfix__combiningdoubleinvertedbreve	COMBINING DOUBLE INVERTED BREVE
-0362	needsfix__combiningdoublerightwardsarrowbelow	COMBINING DOUBLE RIGHTWARDS ARROW BELOW
-0363	needsfix__combininglatinsmalllettera	COMBINING LATIN SMALL LETTER A
-0364	needsfix__combininglatinsmalllettere	COMBINING LATIN SMALL LETTER E
-0365	needsfix__combininglatinsmallletteri	COMBINING LATIN SMALL LETTER I
-0366	needsfix__combininglatinsmalllettero	COMBINING LATIN SMALL LETTER O
-0367	needsfix__combininglatinsmallletteru	COMBINING LATIN SMALL LETTER U
-0368	needsfix__combininglatinsmallletterc	COMBINING LATIN SMALL LETTER C
-0369	needsfix__combininglatinsmallletterd	COMBINING LATIN SMALL LETTER D
-036A	needsfix__combininglatinsmallletterh	COMBINING LATIN SMALL LETTER H
-036B	needsfix__combininglatinsmallletterm	COMBINING LATIN SMALL LETTER M
-036C	needsfix__combininglatinsmallletterr	COMBINING LATIN SMALL LETTER R
-036D	needsfix__combininglatinsmalllettert	COMBINING LATIN SMALL LETTER T
-036E	needsfix__combininglatinsmallletterv	COMBINING LATIN SMALL LETTER V
-036F	needsfix__combininglatinsmallletterx	COMBINING LATIN SMALL LETTER X
+0300	needsfix_gravecomb	COMBINING GRAVE ACCENT
+0301	needsfix_acutecomb	COMBINING ACUTE ACCENT
+0302	needsfix_combiningcircumflexaccent	COMBINING CIRCUMFLEX ACCENT
+0303	needsfix_tildecomb	COMBINING TILDE
+0304	needsfix_combiningmacron	COMBINING MACRON
+0305	needsfix_combiningoverline	COMBINING OVERLINE
+0306	needsfix_combiningbreve	COMBINING BREVE
+0307	needsfix_combiningdotabove	COMBINING DOT ABOVE
+0308	needsfix_combiningdiaeresis	COMBINING DIAERESIS
+0309	needsfix_hookabovecomb	COMBINING HOOK ABOVE
+030A	needsfix_combiningringabove	COMBINING RING ABOVE
+030B	needsfix_combiningdoubleacuteaccent	COMBINING DOUBLE ACUTE ACCENT
+030C	needsfix_combiningcaron	COMBINING CARON
+030D	needsfix_combiningverticallineabove	COMBINING VERTICAL LINE ABOVE
+030E	needsfix_combiningdoubleverticallineabove	COMBINING DOUBLE VERTICAL LINE ABOVE
+030F	needsfix_combiningdoublegraveaccent	COMBINING DOUBLE GRAVE ACCENT
+0310	needsfix_combiningcandrabindu	COMBINING CANDRABINDU
+0311	needsfix_combininginvertedbreve	COMBINING INVERTED BREVE
+0312	needsfix_combiningturnedcommaabove	COMBINING TURNED COMMA ABOVE
+0313	needsfix_combiningcommaabove	COMBINING COMMA ABOVE
+0314	needsfix_combiningreversedcommaabove	COMBINING REVERSED COMMA ABOVE
+0315	needsfix_combiningcommaaboveright	COMBINING COMMA ABOVE RIGHT
+0316	needsfix_combininggraveaccentbelow	COMBINING GRAVE ACCENT BELOW
+0317	needsfix_combiningacuteaccentbelow	COMBINING ACUTE ACCENT BELOW
+0318	needsfix_combininglefttackbelow	COMBINING LEFT TACK BELOW
+0319	needsfix_combiningrighttackbelow	COMBINING RIGHT TACK BELOW
+031A	needsfix_combiningleftangleabove	COMBINING LEFT ANGLE ABOVE
+031B	needsfix_combininghorn	COMBINING HORN
+031C	needsfix_combininglefthalfringbelow	COMBINING LEFT HALF RING BELOW
+031D	needsfix_combininguptackbelow	COMBINING UP TACK BELOW
+031E	needsfix_combiningdowntackbelow	COMBINING DOWN TACK BELOW
+031F	needsfix_combiningplussignbelow	COMBINING PLUS SIGN BELOW
+0320	needsfix_combiningminussignbelow	COMBINING MINUS SIGN BELOW
+0321	needsfix_combiningpalatalizedhookbelow	COMBINING PALATALIZED HOOK BELOW
+0322	needsfix_combiningretroflexhookbelow	COMBINING RETROFLEX HOOK BELOW
+0323	needsfix_dotbelowcomb	COMBINING DOT BELOW
+0324	needsfix_combiningdiaeresisbelow	COMBINING DIAERESIS BELOW
+0325	needsfix_combiningringbelow	COMBINING RING BELOW
+0326	needsfix_combiningcommabelow	COMBINING COMMA BELOW
+0327	needsfix_combiningcedilla	COMBINING CEDILLA
+0328	needsfix_combiningogonek	COMBINING OGONEK
+0329	needsfix_combiningverticallinebelow	COMBINING VERTICAL LINE BELOW
+032A	needsfix_combiningbridgebelow	COMBINING BRIDGE BELOW
+032B	needsfix_combininginverteddoublearchbelow	COMBINING INVERTED DOUBLE ARCH BELOW
+032C	needsfix_combiningcaronbelow	COMBINING CARON BELOW
+032D	needsfix_combiningcircumflexaccentbelow	COMBINING CIRCUMFLEX ACCENT BELOW
+032E	needsfix_combiningbrevebelow	COMBINING BREVE BELOW
+032F	needsfix_combininginvertedbrevebelow	COMBINING INVERTED BREVE BELOW
+0330	needsfix_combiningtildebelow	COMBINING TILDE BELOW
+0331	needsfix_combiningmacronbelow	COMBINING MACRON BELOW
+0332	needsfix_combininglowline	COMBINING LOW LINE
+0333	needsfix_combiningdoublelowline	COMBINING DOUBLE LOW LINE
+0334	needsfix_combiningtildeoverlay	COMBINING TILDE OVERLAY
+0335	needsfix_combiningshortstrokeoverlay	COMBINING SHORT STROKE OVERLAY
+0336	needsfix_combininglongstrokeoverlay	COMBINING LONG STROKE OVERLAY
+0337	needsfix_combiningshortsolidusoverlay	COMBINING SHORT SOLIDUS OVERLAY
+0338	needsfix_combininglongsolidusoverlay	COMBINING LONG SOLIDUS OVERLAY
+0339	needsfix_combiningrighthalfringbelow	COMBINING RIGHT HALF RING BELOW
+033A	needsfix_combininginvertedbridgebelow	COMBINING INVERTED BRIDGE BELOW
+033B	needsfix_combiningsquarebelow	COMBINING SQUARE BELOW
+033C	needsfix_combiningseagullbelow	COMBINING SEAGULL BELOW
+033D	needsfix_combiningxabove	COMBINING X ABOVE
+033E	needsfix_combiningverticaltilde	COMBINING VERTICAL TILDE
+033F	needsfix_combiningdoubleoverline	COMBINING DOUBLE OVERLINE
+0340	needsfix_combininggravetonemark	COMBINING GRAVE TONE MARK
+0341	needsfix_combiningacutetonemark	COMBINING ACUTE TONE MARK
+0342	needsfix_combininggreekperispomeni	COMBINING GREEK PERISPOMENI
+0343	needsfix_combininggreekkoronis	COMBINING GREEK KORONIS
+0344	needsfix_combininggreekdialytikatonos	COMBINING GREEK DIALYTIKA TONOS
+0345	needsfix_combininggreekypogegrammeni	COMBINING GREEK YPOGEGRAMMENI
+0346	needsfix_combiningbridgeabove	COMBINING BRIDGE ABOVE
+0347	needsfix_combiningequalssignbelow	COMBINING EQUALS SIGN BELOW
+0348	needsfix_combiningdoubleverticallinebelow	COMBINING DOUBLE VERTICAL LINE BELOW
+0349	needsfix_combiningleftanglebelow	COMBINING LEFT ANGLE BELOW
+034A	needsfix_combiningnottildeabove	COMBINING NOT TILDE ABOVE
+034B	needsfix_combininghomotheticabove	COMBINING HOMOTHETIC ABOVE
+034C	needsfix_combiningalmostequaltoabove	COMBINING ALMOST EQUAL TO ABOVE
+034D	needsfix_combiningleftrightarrowbelow	COMBINING LEFT RIGHT ARROW BELOW
+034E	needsfix_combiningupwardsarrowbelow	COMBINING UPWARDS ARROW BELOW
+034F	needsfix_combininggraphemejoiner	COMBINING GRAPHEME JOINER
+0350	needsfix_combiningrightarrowheadabove	COMBINING RIGHT ARROWHEAD ABOVE
+0351	needsfix_combininglefthalfringabove	COMBINING LEFT HALF RING ABOVE
+0352	needsfix_combiningfermata	COMBINING FERMATA
+0353	needsfix_combiningxbelow	COMBINING X BELOW
+0354	needsfix_combiningleftarrowheadbelow	COMBINING LEFT ARROWHEAD BELOW
+0355	needsfix_combiningrightarrowheadbelow	COMBINING RIGHT ARROWHEAD BELOW
+0356	needsfix_combiningrightarrowheadanduparrowheadbelow	COMBINING RIGHT ARROWHEAD AND UP ARROWHEAD BELOW
+0357	needsfix_combiningrighthalfringabove	COMBINING RIGHT HALF RING ABOVE
+0358	needsfix_combiningdotaboveright	COMBINING DOT ABOVE RIGHT
+0359	needsfix_combiningasteriskbelow	COMBINING ASTERISK BELOW
+035A	needsfix_combiningdoubleringbelow	COMBINING DOUBLE RING BELOW
+035B	needsfix_combiningzigzagabove	COMBINING ZIGZAG ABOVE
+035C	needsfix_combiningdoublebrevebelow	COMBINING DOUBLE BREVE BELOW
+035D	needsfix_combiningdoublebreve	COMBINING DOUBLE BREVE
+035E	needsfix_combiningdoublemacron	COMBINING DOUBLE MACRON
+035F	needsfix_combiningdoublemacronbelow	COMBINING DOUBLE MACRON BELOW
+0360	needsfix_combiningdoubletilde	COMBINING DOUBLE TILDE
+0361	needsfix_combiningdoubleinvertedbreve	COMBINING DOUBLE INVERTED BREVE
+0362	needsfix_combiningdoublerightwardsarrowbelow	COMBINING DOUBLE RIGHTWARDS ARROW BELOW
+0363	needsfix_combininglatinsmalllettera	COMBINING LATIN SMALL LETTER A
+0364	needsfix_combininglatinsmalllettere	COMBINING LATIN SMALL LETTER E
+0365	needsfix_combininglatinsmallletteri	COMBINING LATIN SMALL LETTER I
+0366	needsfix_combininglatinsmalllettero	COMBINING LATIN SMALL LETTER O
+0367	needsfix_combininglatinsmallletteru	COMBINING LATIN SMALL LETTER U
+0368	needsfix_combininglatinsmallletterc	COMBINING LATIN SMALL LETTER C
+0369	needsfix_combininglatinsmallletterd	COMBINING LATIN SMALL LETTER D
+036A	needsfix_combininglatinsmallletterh	COMBINING LATIN SMALL LETTER H
+036B	needsfix_combininglatinsmallletterm	COMBINING LATIN SMALL LETTER M
+036C	needsfix_combininglatinsmallletterr	COMBINING LATIN SMALL LETTER R
+036D	needsfix_combininglatinsmalllettert	COMBINING LATIN SMALL LETTER T
+036E	needsfix_combininglatinsmallletterv	COMBINING LATIN SMALL LETTER V
+036F	needsfix_combininglatinsmallletterx	COMBINING LATIN SMALL LETTER X

@@ -1,84 +1,84 @@
 # Gujarati 0A80 - 0AFF
-0A81	needsfix__gujaratisigncandrabindu	GUJARATI SIGN CANDRABINDU
-0A82	needsfix__gujaratisignanusvara	GUJARATI SIGN ANUSVARA
-0A83	needsfix__gujaratisignvisarga	GUJARATI SIGN VISARGA
-0A85	needsfix__gujaratilettera	GUJARATI LETTER A
-0A86	needsfix__gujaratiletteraa	GUJARATI LETTER AA
-0A87	needsfix__gujaratiletteri	GUJARATI LETTER I
-0A88	needsfix__gujaratiletterii	GUJARATI LETTER II
-0A89	needsfix__gujaratiletteru	GUJARATI LETTER U
-0A8A	needsfix__gujaratiletteruu	GUJARATI LETTER UU
-0A8B	needsfix__gujaratilettervocalicr	GUJARATI LETTER VOCALIC R
-0A8C	needsfix__gujaratilettervocalicl	GUJARATI LETTER VOCALIC L
-0A8D	needsfix__gujarativowelcandrae	GUJARATI VOWEL CANDRA E
-0A8F	needsfix__gujaratilettere	GUJARATI LETTER E
-0A90	needsfix__gujaratiletterai	GUJARATI LETTER AI
-0A91	needsfix__gujarativowelcandrao	GUJARATI VOWEL CANDRA O
-0A93	needsfix__gujaratilettero	GUJARATI LETTER O
-0A94	needsfix__gujaratiletterau	GUJARATI LETTER AU
-0A95	needsfix__gujaratiletterka	GUJARATI LETTER KA
-0A96	needsfix__gujaratiletterkha	GUJARATI LETTER KHA
-0A97	needsfix__gujaratiletterga	GUJARATI LETTER GA
-0A98	needsfix__gujaratilettergha	GUJARATI LETTER GHA
-0A99	needsfix__gujaratiletternga	GUJARATI LETTER NGA
-0A9A	needsfix__gujaratiletterca	GUJARATI LETTER CA
-0A9B	needsfix__gujaratilettercha	GUJARATI LETTER CHA
-0A9C	needsfix__gujaratiletterja	GUJARATI LETTER JA
-0A9D	needsfix__gujaratiletterjha	GUJARATI LETTER JHA
-0A9E	needsfix__gujaratiletternya	GUJARATI LETTER NYA
-0A9F	needsfix__gujaratilettertta	GUJARATI LETTER TTA
-0AA0	needsfix__gujaratiletterttha	GUJARATI LETTER TTHA
-0AA1	needsfix__gujaratiletterdda	GUJARATI LETTER DDA
-0AA2	needsfix__gujaratiletterddha	GUJARATI LETTER DDHA
-0AA3	needsfix__gujaratiletternna	GUJARATI LETTER NNA
-0AA4	needsfix__gujaratiletterta	GUJARATI LETTER TA
-0AA5	needsfix__gujaratilettertha	GUJARATI LETTER THA
-0AA6	needsfix__gujaratiletterda	GUJARATI LETTER DA
-0AA7	needsfix__gujaratiletterdha	GUJARATI LETTER DHA
-0AA8	needsfix__gujaratiletterna	GUJARATI LETTER NA
-0AAA	needsfix__gujaratiletterpa	GUJARATI LETTER PA
-0AAB	needsfix__gujaratiletterpha	GUJARATI LETTER PHA
-0AAC	needsfix__gujaratiletterba	GUJARATI LETTER BA
-0AAD	needsfix__gujaratiletterbha	GUJARATI LETTER BHA
-0AAE	needsfix__gujaratiletterma	GUJARATI LETTER MA
-0AAF	needsfix__gujaratiletterya	GUJARATI LETTER YA
-0AB0	needsfix__gujaratiletterra	GUJARATI LETTER RA
-0AB2	needsfix__gujaratiletterla	GUJARATI LETTER LA
-0AB3	needsfix__gujaratiletterlla	GUJARATI LETTER LLA
-0AB5	needsfix__gujaratiletterva	GUJARATI LETTER VA
-0AB6	needsfix__gujaratilettersha	GUJARATI LETTER SHA
-0AB7	needsfix__gujaratiletterssa	GUJARATI LETTER SSA
-0AB8	needsfix__gujaratilettersa	GUJARATI LETTER SA
-0AB9	needsfix__gujaratiletterha	GUJARATI LETTER HA
-0ABC	needsfix__gujaratisignnukta	GUJARATI SIGN NUKTA
-0ABD	needsfix__gujaratisignavagraha	GUJARATI SIGN AVAGRAHA
-0ABE	needsfix__gujarativowelsignaa	GUJARATI VOWEL SIGN AA
-0ABF	needsfix__gujarativowelsigni	GUJARATI VOWEL SIGN I
-0AC0	needsfix__gujarativowelsignii	GUJARATI VOWEL SIGN II
-0AC1	needsfix__gujarativowelsignu	GUJARATI VOWEL SIGN U
-0AC2	needsfix__gujarativowelsignuu	GUJARATI VOWEL SIGN UU
-0AC3	needsfix__gujarativowelsignvocalicr	GUJARATI VOWEL SIGN VOCALIC R
-0AC4	needsfix__gujarativowelsignvocalicrr	GUJARATI VOWEL SIGN VOCALIC RR
-0AC5	needsfix__gujarativowelsigncandrae	GUJARATI VOWEL SIGN CANDRA E
-0AC7	needsfix__gujarativowelsigne	GUJARATI VOWEL SIGN E
-0AC8	needsfix__gujarativowelsignai	GUJARATI VOWEL SIGN AI
-0AC9	needsfix__gujarativowelsigncandrao	GUJARATI VOWEL SIGN CANDRA O
-0ACB	needsfix__gujarativowelsigno	GUJARATI VOWEL SIGN O
-0ACC	needsfix__gujarativowelsignau	GUJARATI VOWEL SIGN AU
-0ACD	needsfix__gujaratisignvirama	GUJARATI SIGN VIRAMA
-0AD0	needsfix__gujaratiom	GUJARATI OM
-0AE0	needsfix__gujaratilettervocalicrr	GUJARATI LETTER VOCALIC RR
-0AE1	needsfix__gujaratilettervocalicll	GUJARATI LETTER VOCALIC LL
-0AE2	needsfix__gujarativowelsignvocalicl	GUJARATI VOWEL SIGN VOCALIC L
-0AE3	needsfix__gujarativowelsignvocalicll	GUJARATI VOWEL SIGN VOCALIC LL
-0AE6	needsfix__gujaratidigitzero	GUJARATI DIGIT ZERO
-0AE7	needsfix__gujaratidigitone	GUJARATI DIGIT ONE
-0AE8	needsfix__gujaratidigittwo	GUJARATI DIGIT TWO
-0AE9	needsfix__gujaratidigitthree	GUJARATI DIGIT THREE
-0AEA	needsfix__gujaratidigitfour	GUJARATI DIGIT FOUR
-0AEB	needsfix__gujaratidigitfive	GUJARATI DIGIT FIVE
-0AEC	needsfix__gujaratidigitsix	GUJARATI DIGIT SIX
-0AED	needsfix__gujaratidigitseven	GUJARATI DIGIT SEVEN
-0AEE	needsfix__gujaratidigiteight	GUJARATI DIGIT EIGHT
-0AEF	needsfix__gujaratidigitnine	GUJARATI DIGIT NINE
-0AF1	needsfix__gujaratirupeesign	GUJARATI RUPEE SIGN
+0A81	needsfix_gujaratisigncandrabindu	GUJARATI SIGN CANDRABINDU
+0A82	needsfix_gujaratisignanusvara	GUJARATI SIGN ANUSVARA
+0A83	needsfix_gujaratisignvisarga	GUJARATI SIGN VISARGA
+0A85	needsfix_gujaratilettera	GUJARATI LETTER A
+0A86	needsfix_gujaratiletteraa	GUJARATI LETTER AA
+0A87	needsfix_gujaratiletteri	GUJARATI LETTER I
+0A88	needsfix_gujaratiletterii	GUJARATI LETTER II
+0A89	needsfix_gujaratiletteru	GUJARATI LETTER U
+0A8A	needsfix_gujaratiletteruu	GUJARATI LETTER UU
+0A8B	needsfix_gujaratilettervocalicr	GUJARATI LETTER VOCALIC R
+0A8C	needsfix_gujaratilettervocalicl	GUJARATI LETTER VOCALIC L
+0A8D	needsfix_gujarativowelcandrae	GUJARATI VOWEL CANDRA E
+0A8F	needsfix_gujaratilettere	GUJARATI LETTER E
+0A90	needsfix_gujaratiletterai	GUJARATI LETTER AI
+0A91	needsfix_gujarativowelcandrao	GUJARATI VOWEL CANDRA O
+0A93	needsfix_gujaratilettero	GUJARATI LETTER O
+0A94	needsfix_gujaratiletterau	GUJARATI LETTER AU
+0A95	needsfix_gujaratiletterka	GUJARATI LETTER KA
+0A96	needsfix_gujaratiletterkha	GUJARATI LETTER KHA
+0A97	needsfix_gujaratiletterga	GUJARATI LETTER GA
+0A98	needsfix_gujaratilettergha	GUJARATI LETTER GHA
+0A99	needsfix_gujaratiletternga	GUJARATI LETTER NGA
+0A9A	needsfix_gujaratiletterca	GUJARATI LETTER CA
+0A9B	needsfix_gujaratilettercha	GUJARATI LETTER CHA
+0A9C	needsfix_gujaratiletterja	GUJARATI LETTER JA
+0A9D	needsfix_gujaratiletterjha	GUJARATI LETTER JHA
+0A9E	needsfix_gujaratiletternya	GUJARATI LETTER NYA
+0A9F	needsfix_gujaratilettertta	GUJARATI LETTER TTA
+0AA0	needsfix_gujaratiletterttha	GUJARATI LETTER TTHA
+0AA1	needsfix_gujaratiletterdda	GUJARATI LETTER DDA
+0AA2	needsfix_gujaratiletterddha	GUJARATI LETTER DDHA
+0AA3	needsfix_gujaratiletternna	GUJARATI LETTER NNA
+0AA4	needsfix_gujaratiletterta	GUJARATI LETTER TA
+0AA5	needsfix_gujaratilettertha	GUJARATI LETTER THA
+0AA6	needsfix_gujaratiletterda	GUJARATI LETTER DA
+0AA7	needsfix_gujaratiletterdha	GUJARATI LETTER DHA
+0AA8	needsfix_gujaratiletterna	GUJARATI LETTER NA
+0AAA	needsfix_gujaratiletterpa	GUJARATI LETTER PA
+0AAB	needsfix_gujaratiletterpha	GUJARATI LETTER PHA
+0AAC	needsfix_gujaratiletterba	GUJARATI LETTER BA
+0AAD	needsfix_gujaratiletterbha	GUJARATI LETTER BHA
+0AAE	needsfix_gujaratiletterma	GUJARATI LETTER MA
+0AAF	needsfix_gujaratiletterya	GUJARATI LETTER YA
+0AB0	needsfix_gujaratiletterra	GUJARATI LETTER RA
+0AB2	needsfix_gujaratiletterla	GUJARATI LETTER LA
+0AB3	needsfix_gujaratiletterlla	GUJARATI LETTER LLA
+0AB5	needsfix_gujaratiletterva	GUJARATI LETTER VA
+0AB6	needsfix_gujaratilettersha	GUJARATI LETTER SHA
+0AB7	needsfix_gujaratiletterssa	GUJARATI LETTER SSA
+0AB8	needsfix_gujaratilettersa	GUJARATI LETTER SA
+0AB9	needsfix_gujaratiletterha	GUJARATI LETTER HA
+0ABC	needsfix_gujaratisignnukta	GUJARATI SIGN NUKTA
+0ABD	needsfix_gujaratisignavagraha	GUJARATI SIGN AVAGRAHA
+0ABE	needsfix_gujarativowelsignaa	GUJARATI VOWEL SIGN AA
+0ABF	needsfix_gujarativowelsigni	GUJARATI VOWEL SIGN I
+0AC0	needsfix_gujarativowelsignii	GUJARATI VOWEL SIGN II
+0AC1	needsfix_gujarativowelsignu	GUJARATI VOWEL SIGN U
+0AC2	needsfix_gujarativowelsignuu	GUJARATI VOWEL SIGN UU
+0AC3	needsfix_gujarativowelsignvocalicr	GUJARATI VOWEL SIGN VOCALIC R
+0AC4	needsfix_gujarativowelsignvocalicrr	GUJARATI VOWEL SIGN VOCALIC RR
+0AC5	needsfix_gujarativowelsigncandrae	GUJARATI VOWEL SIGN CANDRA E
+0AC7	needsfix_gujarativowelsigne	GUJARATI VOWEL SIGN E
+0AC8	needsfix_gujarativowelsignai	GUJARATI VOWEL SIGN AI
+0AC9	needsfix_gujarativowelsigncandrao	GUJARATI VOWEL SIGN CANDRA O
+0ACB	needsfix_gujarativowelsigno	GUJARATI VOWEL SIGN O
+0ACC	needsfix_gujarativowelsignau	GUJARATI VOWEL SIGN AU
+0ACD	needsfix_gujaratisignvirama	GUJARATI SIGN VIRAMA
+0AD0	needsfix_gujaratiom	GUJARATI OM
+0AE0	needsfix_gujaratilettervocalicrr	GUJARATI LETTER VOCALIC RR
+0AE1	needsfix_gujaratilettervocalicll	GUJARATI LETTER VOCALIC LL
+0AE2	needsfix_gujarativowelsignvocalicl	GUJARATI VOWEL SIGN VOCALIC L
+0AE3	needsfix_gujarativowelsignvocalicll	GUJARATI VOWEL SIGN VOCALIC LL
+0AE6	needsfix_gujaratidigitzero	GUJARATI DIGIT ZERO
+0AE7	needsfix_gujaratidigitone	GUJARATI DIGIT ONE
+0AE8	needsfix_gujaratidigittwo	GUJARATI DIGIT TWO
+0AE9	needsfix_gujaratidigitthree	GUJARATI DIGIT THREE
+0AEA	needsfix_gujaratidigitfour	GUJARATI DIGIT FOUR
+0AEB	needsfix_gujaratidigitfive	GUJARATI DIGIT FIVE
+0AEC	needsfix_gujaratidigitsix	GUJARATI DIGIT SIX
+0AED	needsfix_gujaratidigitseven	GUJARATI DIGIT SEVEN
+0AEE	needsfix_gujaratidigiteight	GUJARATI DIGIT EIGHT
+0AEF	needsfix_gujaratidigitnine	GUJARATI DIGIT NINE
+0AF1	needsfix_gujaratirupeesign	GUJARATI RUPEE SIGN

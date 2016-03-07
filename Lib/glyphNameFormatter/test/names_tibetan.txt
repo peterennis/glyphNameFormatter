@@ -1,206 +1,206 @@
 # Tibetan 0F00 - 0FFF
-0F00	needsfix__tibetansyllableom	TIBETAN SYLLABLE OM
-0F01	needsfix__tibetanmarkgteryigmgotruncateda	TIBETAN MARK GTER YIG MGO TRUNCATED A
-0F02	needsfix__tibetanmarkgteryigmgoumrnambcadma	TIBETAN MARK GTER YIG MGO -UM RNAM BCAD MA
-0F03	needsfix__tibetanmarkgteryigmgoumgtertshegma	TIBETAN MARK GTER YIG MGO -UM GTER TSHEG MA
-0F04	needsfix__tibetanmarkinitialyigmgomdunma	TIBETAN MARK INITIAL YIG MGO MDUN MA
-0F05	needsfix__tibetanmarkclosingyigmgosgabma	TIBETAN MARK CLOSING YIG MGO SGAB MA
-0F06	needsfix__tibetanmarkcaretyigmgophurshadma	TIBETAN MARK CARET YIG MGO PHUR SHAD MA
-0F07	needsfix__tibetanmarkyigmgotshegshadma	TIBETAN MARK YIG MGO TSHEG SHAD MA
-0F08	needsfix__tibetanmarksbrulshad	TIBETAN MARK SBRUL SHAD
-0F09	needsfix__tibetanmarkbskuryigmgo	TIBETAN MARK BSKUR YIG MGO
-0F0A	needsfix__tibetanmarkbkashogyigmgo	TIBETAN MARK BKA- SHOG YIG MGO
-0F0B	needsfix__tibetanmarkintersyllabictsheg	TIBETAN MARK INTERSYLLABIC TSHEG
-0F0C	needsfix__tibetanmarkdelimitertshegbstar	TIBETAN MARK DELIMITER TSHEG BSTAR
-0F0D	needsfix__tibetanmarkshad	TIBETAN MARK SHAD
-0F0E	needsfix__tibetanmarknyisshad	TIBETAN MARK NYIS SHAD
-0F0F	needsfix__tibetanmarktshegshad	TIBETAN MARK TSHEG SHAD
-0F10	needsfix__tibetanmarknyistshegshad	TIBETAN MARK NYIS TSHEG SHAD
-0F11	needsfix__tibetanmarkrinchenspungsshad	TIBETAN MARK RIN CHEN SPUNGS SHAD
-0F12	needsfix__tibetanmarkrgyagramshad	TIBETAN MARK RGYA GRAM SHAD
-0F13	needsfix__tibetanmarkcaretdzudrtagsmelongcan	TIBETAN MARK CARET -DZUD RTAGS ME LONG CAN
-0F14	needsfix__tibetanmarkgtertsheg	TIBETAN MARK GTER TSHEG
-0F15	needsfix__tibetanlogotypesignchadrtags	TIBETAN LOGOTYPE SIGN CHAD RTAGS
-0F16	needsfix__tibetanlogotypesignlhagrtags	TIBETAN LOGOTYPE SIGN LHAG RTAGS
-0F17	needsfix__tibetanastrologicalsignsgragcancharrtags	TIBETAN ASTROLOGICAL SIGN SGRA GCAN -CHAR RTAGS
-0F18	needsfix__tibetanastrologicalsignkhyudpa	TIBETAN ASTROLOGICAL SIGN -KHYUD PA
-0F19	needsfix__tibetanastrologicalsignsdongtshugs	TIBETAN ASTROLOGICAL SIGN SDONG TSHUGS
-0F1A	needsfix__tibetansignrdeldkargcig	TIBETAN SIGN RDEL DKAR GCIG
-0F1B	needsfix__tibetansignrdeldkargnyis	TIBETAN SIGN RDEL DKAR GNYIS
-0F1C	needsfix__tibetansignrdeldkargsum	TIBETAN SIGN RDEL DKAR GSUM
-0F1D	needsfix__tibetansignrdelnaggcig	TIBETAN SIGN RDEL NAG GCIG
-0F1E	needsfix__tibetansignrdelnaggnyis	TIBETAN SIGN RDEL NAG GNYIS
-0F1F	needsfix__tibetansignrdeldkarrdelnag	TIBETAN SIGN RDEL DKAR RDEL NAG
-0F20	needsfix__tibetandigitzero	TIBETAN DIGIT ZERO
-0F21	needsfix__tibetandigitone	TIBETAN DIGIT ONE
-0F22	needsfix__tibetandigittwo	TIBETAN DIGIT TWO
-0F23	needsfix__tibetandigitthree	TIBETAN DIGIT THREE
-0F24	needsfix__tibetandigitfour	TIBETAN DIGIT FOUR
-0F25	needsfix__tibetandigitfive	TIBETAN DIGIT FIVE
-0F26	needsfix__tibetandigitsix	TIBETAN DIGIT SIX
-0F27	needsfix__tibetandigitseven	TIBETAN DIGIT SEVEN
-0F28	needsfix__tibetandigiteight	TIBETAN DIGIT EIGHT
-0F29	needsfix__tibetandigitnine	TIBETAN DIGIT NINE
-0F2A	needsfix__tibetandigithalfone	TIBETAN DIGIT HALF ONE
-0F2B	needsfix__tibetandigithalftwo	TIBETAN DIGIT HALF TWO
-0F2C	needsfix__tibetandigithalfthree	TIBETAN DIGIT HALF THREE
-0F2D	needsfix__tibetandigithalffour	TIBETAN DIGIT HALF FOUR
-0F2E	needsfix__tibetandigithalffive	TIBETAN DIGIT HALF FIVE
-0F2F	needsfix__tibetandigithalfsix	TIBETAN DIGIT HALF SIX
-0F30	needsfix__tibetandigithalfseven	TIBETAN DIGIT HALF SEVEN
-0F31	needsfix__tibetandigithalfeight	TIBETAN DIGIT HALF EIGHT
-0F32	needsfix__tibetandigithalfnine	TIBETAN DIGIT HALF NINE
-0F33	needsfix__tibetandigithalfzero	TIBETAN DIGIT HALF ZERO
-0F34	needsfix__tibetanmarkbsdusrtags	TIBETAN MARK BSDUS RTAGS
-0F35	needsfix__tibetanmarkngasbzungnyizla	TIBETAN MARK NGAS BZUNG NYI ZLA
-0F36	needsfix__tibetanmarkcaretdzudrtagsbzhimigcan	TIBETAN MARK CARET -DZUD RTAGS BZHI MIG CAN
-0F37	needsfix__tibetanmarkngasbzungsgorrtags	TIBETAN MARK NGAS BZUNG SGOR RTAGS
-0F38	needsfix__tibetanmarkchemgo	TIBETAN MARK CHE MGO
-0F39	needsfix__tibetanmarktsaphru	TIBETAN MARK TSA -PHRU
-0F3A	needsfix__tibetanmarkgugrtagsgyon	TIBETAN MARK GUG RTAGS GYON
-0F3B	needsfix__tibetanmarkgugrtagsgyas	TIBETAN MARK GUG RTAGS GYAS
-0F3C	needsfix__tibetanmarkangkhanggyon	TIBETAN MARK ANG KHANG GYON
-0F3D	needsfix__tibetanmarkangkhanggyas	TIBETAN MARK ANG KHANG GYAS
-0F3E	needsfix__tibetansignyartshes	TIBETAN SIGN YAR TSHES
-0F3F	needsfix__tibetansignmartshes	TIBETAN SIGN MAR TSHES
-0F40	needsfix__tibetanletterka	TIBETAN LETTER KA
-0F41	needsfix__tibetanletterkha	TIBETAN LETTER KHA
-0F42	needsfix__tibetanletterga	TIBETAN LETTER GA
-0F43	needsfix__tibetanlettergha	TIBETAN LETTER GHA
-0F44	needsfix__tibetanletternga	TIBETAN LETTER NGA
-0F45	needsfix__tibetanletterca	TIBETAN LETTER CA
-0F46	needsfix__tibetanlettercha	TIBETAN LETTER CHA
-0F47	needsfix__tibetanletterja	TIBETAN LETTER JA
-0F49	needsfix__tibetanletternya	TIBETAN LETTER NYA
-0F4A	needsfix__tibetanlettertta	TIBETAN LETTER TTA
-0F4B	needsfix__tibetanletterttha	TIBETAN LETTER TTHA
-0F4C	needsfix__tibetanletterdda	TIBETAN LETTER DDA
-0F4D	needsfix__tibetanletterddha	TIBETAN LETTER DDHA
-0F4E	needsfix__tibetanletternna	TIBETAN LETTER NNA
-0F4F	needsfix__tibetanletterta	TIBETAN LETTER TA
-0F50	needsfix__tibetanlettertha	TIBETAN LETTER THA
-0F51	needsfix__tibetanletterda	TIBETAN LETTER DA
-0F52	needsfix__tibetanletterdha	TIBETAN LETTER DHA
-0F53	needsfix__tibetanletterna	TIBETAN LETTER NA
-0F54	needsfix__tibetanletterpa	TIBETAN LETTER PA
-0F55	needsfix__tibetanletterpha	TIBETAN LETTER PHA
-0F56	needsfix__tibetanletterba	TIBETAN LETTER BA
-0F57	needsfix__tibetanletterbha	TIBETAN LETTER BHA
-0F58	needsfix__tibetanletterma	TIBETAN LETTER MA
-0F59	needsfix__tibetanlettertsa	TIBETAN LETTER TSA
-0F5A	needsfix__tibetanlettertsha	TIBETAN LETTER TSHA
-0F5B	needsfix__tibetanletterdza	TIBETAN LETTER DZA
-0F5C	needsfix__tibetanletterdzha	TIBETAN LETTER DZHA
-0F5D	needsfix__tibetanletterwa	TIBETAN LETTER WA
-0F5E	needsfix__tibetanletterzha	TIBETAN LETTER ZHA
-0F5F	needsfix__tibetanletterza	TIBETAN LETTER ZA
-0F60	needsfix__tibetanlettera	TIBETAN LETTER -A
-0F61	needsfix__tibetanletterya	TIBETAN LETTER YA
-0F62	needsfix__tibetanletterra	TIBETAN LETTER RA
-0F63	needsfix__tibetanletterla	TIBETAN LETTER LA
-0F64	needsfix__tibetanlettersha	TIBETAN LETTER SHA
-0F65	needsfix__tibetanletterssa	TIBETAN LETTER SSA
-0F66	needsfix__tibetanlettersa	TIBETAN LETTER SA
-0F67	needsfix__tibetanletterha	TIBETAN LETTER HA
-0F68	needsfix__tibetanlettera	TIBETAN LETTER A
-0F69	needsfix__tibetanletterkssa	TIBETAN LETTER KSSA
-0F6A	needsfix__tibetanletterfixedformra	TIBETAN LETTER FIXED-FORM RA
-0F6B	needsfix__tibetanletterkka	TIBETAN LETTER KKA
-0F6C	needsfix__tibetanletterrra	TIBETAN LETTER RRA
-0F71	needsfix__tibetanvowelsignaa	TIBETAN VOWEL SIGN AA
-0F72	needsfix__tibetanvowelsigni	TIBETAN VOWEL SIGN I
-0F73	needsfix__tibetanvowelsignii	TIBETAN VOWEL SIGN II
-0F74	needsfix__tibetanvowelsignu	TIBETAN VOWEL SIGN U
-0F75	needsfix__tibetanvowelsignuu	TIBETAN VOWEL SIGN UU
-0F76	needsfix__tibetanvowelsignvocalicr	TIBETAN VOWEL SIGN VOCALIC R
-0F77	needsfix__tibetanvowelsignvocalicrr	TIBETAN VOWEL SIGN VOCALIC RR
-0F78	needsfix__tibetanvowelsignvocalicl	TIBETAN VOWEL SIGN VOCALIC L
-0F79	needsfix__tibetanvowelsignvocalicll	TIBETAN VOWEL SIGN VOCALIC LL
-0F7A	needsfix__tibetanvowelsigne	TIBETAN VOWEL SIGN E
-0F7B	needsfix__tibetanvowelsignee	TIBETAN VOWEL SIGN EE
-0F7C	needsfix__tibetanvowelsigno	TIBETAN VOWEL SIGN O
-0F7D	needsfix__tibetanvowelsignoo	TIBETAN VOWEL SIGN OO
-0F7E	needsfix__tibetansignrjessungaro	TIBETAN SIGN RJES SU NGA RO
-0F7F	needsfix__tibetansignrnambcad	TIBETAN SIGN RNAM BCAD
-0F80	needsfix__tibetanvowelsignreversedi	TIBETAN VOWEL SIGN REVERSED I
-0F81	needsfix__tibetanvowelsignreversedii	TIBETAN VOWEL SIGN REVERSED II
-0F82	needsfix__tibetansignnyizlanaada	TIBETAN SIGN NYI ZLA NAA DA
-0F83	needsfix__tibetansignsnaldan	TIBETAN SIGN SNA LDAN
-0F84	needsfix__tibetanmarkhalanta	TIBETAN MARK HALANTA
-0F85	needsfix__tibetanmarkpaluta	TIBETAN MARK PALUTA
-0F86	needsfix__tibetansignlcirtags	TIBETAN SIGN LCI RTAGS
-0F87	needsfix__tibetansignyangrtags	TIBETAN SIGN YANG RTAGS
-0F88	needsfix__tibetansignlcetsacan	TIBETAN SIGN LCE TSA CAN
-0F89	needsfix__tibetansignmchucan	TIBETAN SIGN MCHU CAN
-0F8A	needsfix__tibetansigngrucanrgyings	TIBETAN SIGN GRU CAN RGYINGS
-0F8B	needsfix__tibetansigngrumedrgyings	TIBETAN SIGN GRU MED RGYINGS
-0F90	needsfix__tibetansubjoinedletterka	TIBETAN SUBJOINED LETTER KA
-0F91	needsfix__tibetansubjoinedletterkha	TIBETAN SUBJOINED LETTER KHA
-0F92	needsfix__tibetansubjoinedletterga	TIBETAN SUBJOINED LETTER GA
-0F93	needsfix__tibetansubjoinedlettergha	TIBETAN SUBJOINED LETTER GHA
-0F94	needsfix__tibetansubjoinedletternga	TIBETAN SUBJOINED LETTER NGA
-0F95	needsfix__tibetansubjoinedletterca	TIBETAN SUBJOINED LETTER CA
-0F96	needsfix__tibetansubjoinedlettercha	TIBETAN SUBJOINED LETTER CHA
-0F97	needsfix__tibetansubjoinedletterja	TIBETAN SUBJOINED LETTER JA
-0F99	needsfix__tibetansubjoinedletternya	TIBETAN SUBJOINED LETTER NYA
-0F9A	needsfix__tibetansubjoinedlettertta	TIBETAN SUBJOINED LETTER TTA
-0F9B	needsfix__tibetansubjoinedletterttha	TIBETAN SUBJOINED LETTER TTHA
-0F9C	needsfix__tibetansubjoinedletterdda	TIBETAN SUBJOINED LETTER DDA
-0F9D	needsfix__tibetansubjoinedletterddha	TIBETAN SUBJOINED LETTER DDHA
-0F9E	needsfix__tibetansubjoinedletternna	TIBETAN SUBJOINED LETTER NNA
-0F9F	needsfix__tibetansubjoinedletterta	TIBETAN SUBJOINED LETTER TA
-0FA0	needsfix__tibetansubjoinedlettertha	TIBETAN SUBJOINED LETTER THA
-0FA1	needsfix__tibetansubjoinedletterda	TIBETAN SUBJOINED LETTER DA
-0FA2	needsfix__tibetansubjoinedletterdha	TIBETAN SUBJOINED LETTER DHA
-0FA3	needsfix__tibetansubjoinedletterna	TIBETAN SUBJOINED LETTER NA
-0FA4	needsfix__tibetansubjoinedletterpa	TIBETAN SUBJOINED LETTER PA
-0FA5	needsfix__tibetansubjoinedletterpha	TIBETAN SUBJOINED LETTER PHA
-0FA6	needsfix__tibetansubjoinedletterba	TIBETAN SUBJOINED LETTER BA
-0FA7	needsfix__tibetansubjoinedletterbha	TIBETAN SUBJOINED LETTER BHA
-0FA8	needsfix__tibetansubjoinedletterma	TIBETAN SUBJOINED LETTER MA
-0FA9	needsfix__tibetansubjoinedlettertsa	TIBETAN SUBJOINED LETTER TSA
-0FAA	needsfix__tibetansubjoinedlettertsha	TIBETAN SUBJOINED LETTER TSHA
-0FAB	needsfix__tibetansubjoinedletterdza	TIBETAN SUBJOINED LETTER DZA
-0FAC	needsfix__tibetansubjoinedletterdzha	TIBETAN SUBJOINED LETTER DZHA
-0FAD	needsfix__tibetansubjoinedletterwa	TIBETAN SUBJOINED LETTER WA
-0FAE	needsfix__tibetansubjoinedletterzha	TIBETAN SUBJOINED LETTER ZHA
-0FAF	needsfix__tibetansubjoinedletterza	TIBETAN SUBJOINED LETTER ZA
-0FB0	needsfix__tibetansubjoinedlettera	TIBETAN SUBJOINED LETTER -A
-0FB1	needsfix__tibetansubjoinedletterya	TIBETAN SUBJOINED LETTER YA
-0FB2	needsfix__tibetansubjoinedletterra	TIBETAN SUBJOINED LETTER RA
-0FB3	needsfix__tibetansubjoinedletterla	TIBETAN SUBJOINED LETTER LA
-0FB4	needsfix__tibetansubjoinedlettersha	TIBETAN SUBJOINED LETTER SHA
-0FB5	needsfix__tibetansubjoinedletterssa	TIBETAN SUBJOINED LETTER SSA
-0FB6	needsfix__tibetansubjoinedlettersa	TIBETAN SUBJOINED LETTER SA
-0FB7	needsfix__tibetansubjoinedletterha	TIBETAN SUBJOINED LETTER HA
-0FB8	needsfix__tibetansubjoinedlettera	TIBETAN SUBJOINED LETTER A
-0FB9	needsfix__tibetansubjoinedletterkssa	TIBETAN SUBJOINED LETTER KSSA
-0FBA	needsfix__tibetansubjoinedletterfixedformwa	TIBETAN SUBJOINED LETTER FIXED-FORM WA
-0FBB	needsfix__tibetansubjoinedletterfixedformya	TIBETAN SUBJOINED LETTER FIXED-FORM YA
-0FBC	needsfix__tibetansubjoinedletterfixedformra	TIBETAN SUBJOINED LETTER FIXED-FORM RA
-0FBE	needsfix__tibetankurukha	TIBETAN KU RU KHA
-0FBF	needsfix__tibetankurukhabzhimigcan	TIBETAN KU RU KHA BZHI MIG CAN
-0FC0	needsfix__tibetancantillationsignheavybeat	TIBETAN CANTILLATION SIGN HEAVY BEAT
-0FC1	needsfix__tibetancantillationsignlightbeat	TIBETAN CANTILLATION SIGN LIGHT BEAT
-0FC2	needsfix__tibetancantillationsigncangteu	TIBETAN CANTILLATION SIGN CANG TE-U
-0FC3	needsfix__tibetancantillationsignsbubchal	TIBETAN CANTILLATION SIGN SBUB -CHAL
-0FC4	needsfix__tibetansymboldrilbu	TIBETAN SYMBOL DRIL BU
-0FC5	needsfix__tibetansymbolrdorje	TIBETAN SYMBOL RDO RJE
-0FC6	needsfix__tibetansymbolpadmagdan	TIBETAN SYMBOL PADMA GDAN
-0FC7	needsfix__tibetansymbolrdorjergyagram	TIBETAN SYMBOL RDO RJE RGYA GRAM
-0FC8	needsfix__tibetansymbolphurpa	TIBETAN SYMBOL PHUR PA
-0FC9	needsfix__tibetansymbolnorbu	TIBETAN SYMBOL NOR BU
-0FCA	needsfix__tibetansymbolnorbunyiskhyil	TIBETAN SYMBOL NOR BU NYIS -KHYIL
-0FCB	needsfix__tibetansymbolnorbugsumkhyil	TIBETAN SYMBOL NOR BU GSUM -KHYIL
-0FCC	needsfix__tibetansymbolnorbubzhikhyil	TIBETAN SYMBOL NOR BU BZHI -KHYIL
-0FCE	needsfix__tibetansignrdelnagrdeldkar	TIBETAN SIGN RDEL NAG RDEL DKAR
-0FCF	needsfix__tibetansignrdelnaggsum	TIBETAN SIGN RDEL NAG GSUM
-0FD0	needsfix__tibetanmarkbskashoggimgorgyan	TIBETAN MARK BSKA- SHOG GI MGO RGYAN
-0FD1	needsfix__tibetanmarkmnyamyiggimgorgyan	TIBETAN MARK MNYAM YIG GI MGO RGYAN
-0FD2	needsfix__tibetanmarknyistsheg	TIBETAN MARK NYIS TSHEG
-0FD3	needsfix__tibetanmarkinitialbrdarnyingyigmgomdunma	TIBETAN MARK INITIAL BRDA RNYING YIG MGO MDUN MA
-0FD4	needsfix__tibetanmarkclosingbrdarnyingyigmgosgabma	TIBETAN MARK CLOSING BRDA RNYING YIG MGO SGAB MA
-0FD5	needsfix__rightfacingsvastisign	RIGHT-FACING SVASTI SIGN
-0FD6	needsfix__leftfacingsvastisign	LEFT-FACING SVASTI SIGN
-0FD7	needsfix__rightfacingsvastisignwithdots	RIGHT-FACING SVASTI SIGN WITH DOTS
-0FD8	needsfix__leftfacingsvastisignwithdots	LEFT-FACING SVASTI SIGN WITH DOTS
+0F00	needsfix_tibetansyllableom	TIBETAN SYLLABLE OM
+0F01	needsfix_tibetanmarkgteryigmgotruncateda	TIBETAN MARK GTER YIG MGO TRUNCATED A
+0F02	needsfix_tibetanmarkgteryigmgoumrnambcadma	TIBETAN MARK GTER YIG MGO -UM RNAM BCAD MA
+0F03	needsfix_tibetanmarkgteryigmgoumgtertshegma	TIBETAN MARK GTER YIG MGO -UM GTER TSHEG MA
+0F04	needsfix_tibetanmarkinitialyigmgomdunma	TIBETAN MARK INITIAL YIG MGO MDUN MA
+0F05	needsfix_tibetanmarkclosingyigmgosgabma	TIBETAN MARK CLOSING YIG MGO SGAB MA
+0F06	needsfix_tibetanmarkcaretyigmgophurshadma	TIBETAN MARK CARET YIG MGO PHUR SHAD MA
+0F07	needsfix_tibetanmarkyigmgotshegshadma	TIBETAN MARK YIG MGO TSHEG SHAD MA
+0F08	needsfix_tibetanmarksbrulshad	TIBETAN MARK SBRUL SHAD
+0F09	needsfix_tibetanmarkbskuryigmgo	TIBETAN MARK BSKUR YIG MGO
+0F0A	needsfix_tibetanmarkbkashogyigmgo	TIBETAN MARK BKA- SHOG YIG MGO
+0F0B	needsfix_tibetanmarkintersyllabictsheg	TIBETAN MARK INTERSYLLABIC TSHEG
+0F0C	needsfix_tibetanmarkdelimitertshegbstar	TIBETAN MARK DELIMITER TSHEG BSTAR
+0F0D	needsfix_tibetanmarkshad	TIBETAN MARK SHAD
+0F0E	needsfix_tibetanmarknyisshad	TIBETAN MARK NYIS SHAD
+0F0F	needsfix_tibetanmarktshegshad	TIBETAN MARK TSHEG SHAD
+0F10	needsfix_tibetanmarknyistshegshad	TIBETAN MARK NYIS TSHEG SHAD
+0F11	needsfix_tibetanmarkrinchenspungsshad	TIBETAN MARK RIN CHEN SPUNGS SHAD
+0F12	needsfix_tibetanmarkrgyagramshad	TIBETAN MARK RGYA GRAM SHAD
+0F13	needsfix_tibetanmarkcaretdzudrtagsmelongcan	TIBETAN MARK CARET -DZUD RTAGS ME LONG CAN
+0F14	needsfix_tibetanmarkgtertsheg	TIBETAN MARK GTER TSHEG
+0F15	needsfix_tibetanlogotypesignchadrtags	TIBETAN LOGOTYPE SIGN CHAD RTAGS
+0F16	needsfix_tibetanlogotypesignlhagrtags	TIBETAN LOGOTYPE SIGN LHAG RTAGS
+0F17	needsfix_tibetanastrologicalsignsgragcancharrtags	TIBETAN ASTROLOGICAL SIGN SGRA GCAN -CHAR RTAGS
+0F18	needsfix_tibetanastrologicalsignkhyudpa	TIBETAN ASTROLOGICAL SIGN -KHYUD PA
+0F19	needsfix_tibetanastrologicalsignsdongtshugs	TIBETAN ASTROLOGICAL SIGN SDONG TSHUGS
+0F1A	needsfix_tibetansignrdeldkargcig	TIBETAN SIGN RDEL DKAR GCIG
+0F1B	needsfix_tibetansignrdeldkargnyis	TIBETAN SIGN RDEL DKAR GNYIS
+0F1C	needsfix_tibetansignrdeldkargsum	TIBETAN SIGN RDEL DKAR GSUM
+0F1D	needsfix_tibetansignrdelnaggcig	TIBETAN SIGN RDEL NAG GCIG
+0F1E	needsfix_tibetansignrdelnaggnyis	TIBETAN SIGN RDEL NAG GNYIS
+0F1F	needsfix_tibetansignrdeldkarrdelnag	TIBETAN SIGN RDEL DKAR RDEL NAG
+0F20	needsfix_tibetandigitzero	TIBETAN DIGIT ZERO
+0F21	needsfix_tibetandigitone	TIBETAN DIGIT ONE
+0F22	needsfix_tibetandigittwo	TIBETAN DIGIT TWO
+0F23	needsfix_tibetandigitthree	TIBETAN DIGIT THREE
+0F24	needsfix_tibetandigitfour	TIBETAN DIGIT FOUR
+0F25	needsfix_tibetandigitfive	TIBETAN DIGIT FIVE
+0F26	needsfix_tibetandigitsix	TIBETAN DIGIT SIX
+0F27	needsfix_tibetandigitseven	TIBETAN DIGIT SEVEN
+0F28	needsfix_tibetandigiteight	TIBETAN DIGIT EIGHT
+0F29	needsfix_tibetandigitnine	TIBETAN DIGIT NINE
+0F2A	needsfix_tibetandigithalfone	TIBETAN DIGIT HALF ONE
+0F2B	needsfix_tibetandigithalftwo	TIBETAN DIGIT HALF TWO
+0F2C	needsfix_tibetandigithalfthree	TIBETAN DIGIT HALF THREE
+0F2D	needsfix_tibetandigithalffour	TIBETAN DIGIT HALF FOUR
+0F2E	needsfix_tibetandigithalffive	TIBETAN DIGIT HALF FIVE
+0F2F	needsfix_tibetandigithalfsix	TIBETAN DIGIT HALF SIX
+0F30	needsfix_tibetandigithalfseven	TIBETAN DIGIT HALF SEVEN
+0F31	needsfix_tibetandigithalfeight	TIBETAN DIGIT HALF EIGHT
+0F32	needsfix_tibetandigithalfnine	TIBETAN DIGIT HALF NINE
+0F33	needsfix_tibetandigithalfzero	TIBETAN DIGIT HALF ZERO
+0F34	needsfix_tibetanmarkbsdusrtags	TIBETAN MARK BSDUS RTAGS
+0F35	needsfix_tibetanmarkngasbzungnyizla	TIBETAN MARK NGAS BZUNG NYI ZLA
+0F36	needsfix_tibetanmarkcaretdzudrtagsbzhimigcan	TIBETAN MARK CARET -DZUD RTAGS BZHI MIG CAN
+0F37	needsfix_tibetanmarkngasbzungsgorrtags	TIBETAN MARK NGAS BZUNG SGOR RTAGS
+0F38	needsfix_tibetanmarkchemgo	TIBETAN MARK CHE MGO
+0F39	needsfix_tibetanmarktsaphru	TIBETAN MARK TSA -PHRU
+0F3A	needsfix_tibetanmarkgugrtagsgyon	TIBETAN MARK GUG RTAGS GYON
+0F3B	needsfix_tibetanmarkgugrtagsgyas	TIBETAN MARK GUG RTAGS GYAS
+0F3C	needsfix_tibetanmarkangkhanggyon	TIBETAN MARK ANG KHANG GYON
+0F3D	needsfix_tibetanmarkangkhanggyas	TIBETAN MARK ANG KHANG GYAS
+0F3E	needsfix_tibetansignyartshes	TIBETAN SIGN YAR TSHES
+0F3F	needsfix_tibetansignmartshes	TIBETAN SIGN MAR TSHES
+0F40	needsfix_tibetanletterka	TIBETAN LETTER KA
+0F41	needsfix_tibetanletterkha	TIBETAN LETTER KHA
+0F42	needsfix_tibetanletterga	TIBETAN LETTER GA
+0F43	needsfix_tibetanlettergha	TIBETAN LETTER GHA
+0F44	needsfix_tibetanletternga	TIBETAN LETTER NGA
+0F45	needsfix_tibetanletterca	TIBETAN LETTER CA
+0F46	needsfix_tibetanlettercha	TIBETAN LETTER CHA
+0F47	needsfix_tibetanletterja	TIBETAN LETTER JA
+0F49	needsfix_tibetanletternya	TIBETAN LETTER NYA
+0F4A	needsfix_tibetanlettertta	TIBETAN LETTER TTA
+0F4B	needsfix_tibetanletterttha	TIBETAN LETTER TTHA
+0F4C	needsfix_tibetanletterdda	TIBETAN LETTER DDA
+0F4D	needsfix_tibetanletterddha	TIBETAN LETTER DDHA
+0F4E	needsfix_tibetanletternna	TIBETAN LETTER NNA
+0F4F	needsfix_tibetanletterta	TIBETAN LETTER TA
+0F50	needsfix_tibetanlettertha	TIBETAN LETTER THA
+0F51	needsfix_tibetanletterda	TIBETAN LETTER DA
+0F52	needsfix_tibetanletterdha	TIBETAN LETTER DHA
+0F53	needsfix_tibetanletterna	TIBETAN LETTER NA
+0F54	needsfix_tibetanletterpa	TIBETAN LETTER PA
+0F55	needsfix_tibetanletterpha	TIBETAN LETTER PHA
+0F56	needsfix_tibetanletterba	TIBETAN LETTER BA
+0F57	needsfix_tibetanletterbha	TIBETAN LETTER BHA
+0F58	needsfix_tibetanletterma	TIBETAN LETTER MA
+0F59	needsfix_tibetanlettertsa	TIBETAN LETTER TSA
+0F5A	needsfix_tibetanlettertsha	TIBETAN LETTER TSHA
+0F5B	needsfix_tibetanletterdza	TIBETAN LETTER DZA
+0F5C	needsfix_tibetanletterdzha	TIBETAN LETTER DZHA
+0F5D	needsfix_tibetanletterwa	TIBETAN LETTER WA
+0F5E	needsfix_tibetanletterzha	TIBETAN LETTER ZHA
+0F5F	needsfix_tibetanletterza	TIBETAN LETTER ZA
+0F60	needsfix_tibetanlettera	TIBETAN LETTER -A
+0F61	needsfix_tibetanletterya	TIBETAN LETTER YA
+0F62	needsfix_tibetanletterra	TIBETAN LETTER RA
+0F63	needsfix_tibetanletterla	TIBETAN LETTER LA
+0F64	needsfix_tibetanlettersha	TIBETAN LETTER SHA
+0F65	needsfix_tibetanletterssa	TIBETAN LETTER SSA
+0F66	needsfix_tibetanlettersa	TIBETAN LETTER SA
+0F67	needsfix_tibetanletterha	TIBETAN LETTER HA
+0F68	needsfix_tibetanlettera	TIBETAN LETTER A
+0F69	needsfix_tibetanletterkssa	TIBETAN LETTER KSSA
+0F6A	needsfix_tibetanletterfixedformra	TIBETAN LETTER FIXED-FORM RA
+0F6B	needsfix_tibetanletterkka	TIBETAN LETTER KKA
+0F6C	needsfix_tibetanletterrra	TIBETAN LETTER RRA
+0F71	needsfix_tibetanvowelsignaa	TIBETAN VOWEL SIGN AA
+0F72	needsfix_tibetanvowelsigni	TIBETAN VOWEL SIGN I
+0F73	needsfix_tibetanvowelsignii	TIBETAN VOWEL SIGN II
+0F74	needsfix_tibetanvowelsignu	TIBETAN VOWEL SIGN U
+0F75	needsfix_tibetanvowelsignuu	TIBETAN VOWEL SIGN UU
+0F76	needsfix_tibetanvowelsignvocalicr	TIBETAN VOWEL SIGN VOCALIC R
+0F77	needsfix_tibetanvowelsignvocalicrr	TIBETAN VOWEL SIGN VOCALIC RR
+0F78	needsfix_tibetanvowelsignvocalicl	TIBETAN VOWEL SIGN VOCALIC L
+0F79	needsfix_tibetanvowelsignvocalicll	TIBETAN VOWEL SIGN VOCALIC LL
+0F7A	needsfix_tibetanvowelsigne	TIBETAN VOWEL SIGN E
+0F7B	needsfix_tibetanvowelsignee	TIBETAN VOWEL SIGN EE
+0F7C	needsfix_tibetanvowelsigno	TIBETAN VOWEL SIGN O
+0F7D	needsfix_tibetanvowelsignoo	TIBETAN VOWEL SIGN OO
+0F7E	needsfix_tibetansignrjessungaro	TIBETAN SIGN RJES SU NGA RO
+0F7F	needsfix_tibetansignrnambcad	TIBETAN SIGN RNAM BCAD
+0F80	needsfix_tibetanvowelsignreversedi	TIBETAN VOWEL SIGN REVERSED I
+0F81	needsfix_tibetanvowelsignreversedii	TIBETAN VOWEL SIGN REVERSED II
+0F82	needsfix_tibetansignnyizlanaada	TIBETAN SIGN NYI ZLA NAA DA
+0F83	needsfix_tibetansignsnaldan	TIBETAN SIGN SNA LDAN
+0F84	needsfix_tibetanmarkhalanta	TIBETAN MARK HALANTA
+0F85	needsfix_tibetanmarkpaluta	TIBETAN MARK PALUTA
+0F86	needsfix_tibetansignlcirtags	TIBETAN SIGN LCI RTAGS
+0F87	needsfix_tibetansignyangrtags	TIBETAN SIGN YANG RTAGS
+0F88	needsfix_tibetansignlcetsacan	TIBETAN SIGN LCE TSA CAN
+0F89	needsfix_tibetansignmchucan	TIBETAN SIGN MCHU CAN
+0F8A	needsfix_tibetansigngrucanrgyings	TIBETAN SIGN GRU CAN RGYINGS
+0F8B	needsfix_tibetansigngrumedrgyings	TIBETAN SIGN GRU MED RGYINGS
+0F90	needsfix_tibetansubjoinedletterka	TIBETAN SUBJOINED LETTER KA
+0F91	needsfix_tibetansubjoinedletterkha	TIBETAN SUBJOINED LETTER KHA
+0F92	needsfix_tibetansubjoinedletterga	TIBETAN SUBJOINED LETTER GA
+0F93	needsfix_tibetansubjoinedlettergha	TIBETAN SUBJOINED LETTER GHA
+0F94	needsfix_tibetansubjoinedletternga	TIBETAN SUBJOINED LETTER NGA
+0F95	needsfix_tibetansubjoinedletterca	TIBETAN SUBJOINED LETTER CA
+0F96	needsfix_tibetansubjoinedlettercha	TIBETAN SUBJOINED LETTER CHA
+0F97	needsfix_tibetansubjoinedletterja	TIBETAN SUBJOINED LETTER JA
+0F99	needsfix_tibetansubjoinedletternya	TIBETAN SUBJOINED LETTER NYA
+0F9A	needsfix_tibetansubjoinedlettertta	TIBETAN SUBJOINED LETTER TTA
+0F9B	needsfix_tibetansubjoinedletterttha	TIBETAN SUBJOINED LETTER TTHA
+0F9C	needsfix_tibetansubjoinedletterdda	TIBETAN SUBJOINED LETTER DDA
+0F9D	needsfix_tibetansubjoinedletterddha	TIBETAN SUBJOINED LETTER DDHA
+0F9E	needsfix_tibetansubjoinedletternna	TIBETAN SUBJOINED LETTER NNA
+0F9F	needsfix_tibetansubjoinedletterta	TIBETAN SUBJOINED LETTER TA
+0FA0	needsfix_tibetansubjoinedlettertha	TIBETAN SUBJOINED LETTER THA
+0FA1	needsfix_tibetansubjoinedletterda	TIBETAN SUBJOINED LETTER DA
+0FA2	needsfix_tibetansubjoinedletterdha	TIBETAN SUBJOINED LETTER DHA
+0FA3	needsfix_tibetansubjoinedletterna	TIBETAN SUBJOINED LETTER NA
+0FA4	needsfix_tibetansubjoinedletterpa	TIBETAN SUBJOINED LETTER PA
+0FA5	needsfix_tibetansubjoinedletterpha	TIBETAN SUBJOINED LETTER PHA
+0FA6	needsfix_tibetansubjoinedletterba	TIBETAN SUBJOINED LETTER BA
+0FA7	needsfix_tibetansubjoinedletterbha	TIBETAN SUBJOINED LETTER BHA
+0FA8	needsfix_tibetansubjoinedletterma	TIBETAN SUBJOINED LETTER MA
+0FA9	needsfix_tibetansubjoinedlettertsa	TIBETAN SUBJOINED LETTER TSA
+0FAA	needsfix_tibetansubjoinedlettertsha	TIBETAN SUBJOINED LETTER TSHA
+0FAB	needsfix_tibetansubjoinedletterdza	TIBETAN SUBJOINED LETTER DZA
+0FAC	needsfix_tibetansubjoinedletterdzha	TIBETAN SUBJOINED LETTER DZHA
+0FAD	needsfix_tibetansubjoinedletterwa	TIBETAN SUBJOINED LETTER WA
+0FAE	needsfix_tibetansubjoinedletterzha	TIBETAN SUBJOINED LETTER ZHA
+0FAF	needsfix_tibetansubjoinedletterza	TIBETAN SUBJOINED LETTER ZA
+0FB0	needsfix_tibetansubjoinedlettera	TIBETAN SUBJOINED LETTER -A
+0FB1	needsfix_tibetansubjoinedletterya	TIBETAN SUBJOINED LETTER YA
+0FB2	needsfix_tibetansubjoinedletterra	TIBETAN SUBJOINED LETTER RA
+0FB3	needsfix_tibetansubjoinedletterla	TIBETAN SUBJOINED LETTER LA
+0FB4	needsfix_tibetansubjoinedlettersha	TIBETAN SUBJOINED LETTER SHA
+0FB5	needsfix_tibetansubjoinedletterssa	TIBETAN SUBJOINED LETTER SSA
+0FB6	needsfix_tibetansubjoinedlettersa	TIBETAN SUBJOINED LETTER SA
+0FB7	needsfix_tibetansubjoinedletterha	TIBETAN SUBJOINED LETTER HA
+0FB8	needsfix_tibetansubjoinedlettera	TIBETAN SUBJOINED LETTER A
+0FB9	needsfix_tibetansubjoinedletterkssa	TIBETAN SUBJOINED LETTER KSSA
+0FBA	needsfix_tibetansubjoinedletterfixedformwa	TIBETAN SUBJOINED LETTER FIXED-FORM WA
+0FBB	needsfix_tibetansubjoinedletterfixedformya	TIBETAN SUBJOINED LETTER FIXED-FORM YA
+0FBC	needsfix_tibetansubjoinedletterfixedformra	TIBETAN SUBJOINED LETTER FIXED-FORM RA
+0FBE	needsfix_tibetankurukha	TIBETAN KU RU KHA
+0FBF	needsfix_tibetankurukhabzhimigcan	TIBETAN KU RU KHA BZHI MIG CAN
+0FC0	needsfix_tibetancantillationsignheavybeat	TIBETAN CANTILLATION SIGN HEAVY BEAT
+0FC1	needsfix_tibetancantillationsignlightbeat	TIBETAN CANTILLATION SIGN LIGHT BEAT
+0FC2	needsfix_tibetancantillationsigncangteu	TIBETAN CANTILLATION SIGN CANG TE-U
+0FC3	needsfix_tibetancantillationsignsbubchal	TIBETAN CANTILLATION SIGN SBUB -CHAL
+0FC4	needsfix_tibetansymboldrilbu	TIBETAN SYMBOL DRIL BU
+0FC5	needsfix_tibetansymbolrdorje	TIBETAN SYMBOL RDO RJE
+0FC6	needsfix_tibetansymbolpadmagdan	TIBETAN SYMBOL PADMA GDAN
+0FC7	needsfix_tibetansymbolrdorjergyagram	TIBETAN SYMBOL RDO RJE RGYA GRAM
+0FC8	needsfix_tibetansymbolphurpa	TIBETAN SYMBOL PHUR PA
+0FC9	needsfix_tibetansymbolnorbu	TIBETAN SYMBOL NOR BU
+0FCA	needsfix_tibetansymbolnorbunyiskhyil	TIBETAN SYMBOL NOR BU NYIS -KHYIL
+0FCB	needsfix_tibetansymbolnorbugsumkhyil	TIBETAN SYMBOL NOR BU GSUM -KHYIL
+0FCC	needsfix_tibetansymbolnorbubzhikhyil	TIBETAN SYMBOL NOR BU BZHI -KHYIL
+0FCE	needsfix_tibetansignrdelnagrdeldkar	TIBETAN SIGN RDEL NAG RDEL DKAR
+0FCF	needsfix_tibetansignrdelnaggsum	TIBETAN SIGN RDEL NAG GSUM
+0FD0	needsfix_tibetanmarkbskashoggimgorgyan	TIBETAN MARK BSKA- SHOG GI MGO RGYAN
+0FD1	needsfix_tibetanmarkmnyamyiggimgorgyan	TIBETAN MARK MNYAM YIG GI MGO RGYAN
+0FD2	needsfix_tibetanmarknyistsheg	TIBETAN MARK NYIS TSHEG
+0FD3	needsfix_tibetanmarkinitialbrdarnyingyigmgomdunma	TIBETAN MARK INITIAL BRDA RNYING YIG MGO MDUN MA
+0FD4	needsfix_tibetanmarkclosingbrdarnyingyigmgosgabma	TIBETAN MARK CLOSING BRDA RNYING YIG MGO SGAB MA
+0FD5	needsfix_rightfacingsvastisign	RIGHT-FACING SVASTI SIGN
+0FD6	needsfix_leftfacingsvastisign	LEFT-FACING SVASTI SIGN
+0FD7	needsfix_rightfacingsvastisignwithdots	RIGHT-FACING SVASTI SIGN WITH DOTS
+0FD8	needsfix_leftfacingsvastisignwithdots	LEFT-FACING SVASTI SIGN WITH DOTS

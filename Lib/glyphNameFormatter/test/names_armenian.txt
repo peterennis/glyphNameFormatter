@@ -1,87 +1,87 @@
 # Armenian 0530 - 058F
-0531	needsfix__armeniancapitalletterayb	ARMENIAN CAPITAL LETTER AYB
-0532	needsfix__armeniancapitalletterben	ARMENIAN CAPITAL LETTER BEN
-0533	needsfix__armeniancapitallettergim	ARMENIAN CAPITAL LETTER GIM
-0534	needsfix__armeniancapitalletterda	ARMENIAN CAPITAL LETTER DA
-0535	needsfix__armeniancapitalletterech	ARMENIAN CAPITAL LETTER ECH
-0536	needsfix__armeniancapitalletterza	ARMENIAN CAPITAL LETTER ZA
-0537	needsfix__armeniancapitallettereh	ARMENIAN CAPITAL LETTER EH
-0538	needsfix__armeniancapitalletteret	ARMENIAN CAPITAL LETTER ET
-0539	needsfix__armeniancapitalletterto	ARMENIAN CAPITAL LETTER TO
-053A	needsfix__armeniancapitalletterzhe	ARMENIAN CAPITAL LETTER ZHE
-053B	needsfix__armeniancapitalletterini	ARMENIAN CAPITAL LETTER INI
-053C	needsfix__armeniancapitalletterliwn	ARMENIAN CAPITAL LETTER LIWN
-053D	needsfix__armeniancapitalletterxeh	ARMENIAN CAPITAL LETTER XEH
-053E	needsfix__armeniancapitalletterca	ARMENIAN CAPITAL LETTER CA
-053F	needsfix__armeniancapitalletterken	ARMENIAN CAPITAL LETTER KEN
-0540	needsfix__armeniancapitalletterho	ARMENIAN CAPITAL LETTER HO
-0541	needsfix__armeniancapitalletterja	ARMENIAN CAPITAL LETTER JA
-0542	needsfix__armeniancapitalletterghad	ARMENIAN CAPITAL LETTER GHAD
-0543	needsfix__armeniancapitallettercheh	ARMENIAN CAPITAL LETTER CHEH
-0544	needsfix__armeniancapitallettermen	ARMENIAN CAPITAL LETTER MEN
-0545	needsfix__armeniancapitalletteryi	ARMENIAN CAPITAL LETTER YI
-0546	needsfix__armeniancapitalletternow	ARMENIAN CAPITAL LETTER NOW
-0547	needsfix__armeniancapitallettersha	ARMENIAN CAPITAL LETTER SHA
-0548	needsfix__armeniancapitallettervo	ARMENIAN CAPITAL LETTER VO
-0549	needsfix__armeniancapitallettercha	ARMENIAN CAPITAL LETTER CHA
-054A	needsfix__armeniancapitalletterpeh	ARMENIAN CAPITAL LETTER PEH
-054B	needsfix__armeniancapitalletterjheh	ARMENIAN CAPITAL LETTER JHEH
-054C	needsfix__armeniancapitalletterra	ARMENIAN CAPITAL LETTER RA
-054D	needsfix__armeniancapitalletterseh	ARMENIAN CAPITAL LETTER SEH
-054E	needsfix__armeniancapitallettervew	ARMENIAN CAPITAL LETTER VEW
-054F	needsfix__armeniancapitallettertiwn	ARMENIAN CAPITAL LETTER TIWN
-0550	needsfix__armeniancapitalletterreh	ARMENIAN CAPITAL LETTER REH
-0551	needsfix__armeniancapitalletterco	ARMENIAN CAPITAL LETTER CO
-0552	needsfix__armeniancapitalletteryiwn	ARMENIAN CAPITAL LETTER YIWN
-0553	needsfix__armeniancapitalletterpiwr	ARMENIAN CAPITAL LETTER PIWR
-0554	needsfix__armeniancapitalletterkeh	ARMENIAN CAPITAL LETTER KEH
-0555	needsfix__armeniancapitalletteroh	ARMENIAN CAPITAL LETTER OH
-0556	needsfix__armeniancapitalletterfeh	ARMENIAN CAPITAL LETTER FEH
-0559	needsfix__armenianmodifierletterlefthalfring	ARMENIAN MODIFIER LETTER LEFT HALF RING
-055A	needsfix__armenianapostrophe	ARMENIAN APOSTROPHE
-055B	needsfix__armenianemphasismark	ARMENIAN EMPHASIS MARK
-055C	needsfix__armenianexclamationmark	ARMENIAN EXCLAMATION MARK
-055D	needsfix__armeniancomma	ARMENIAN COMMA
-055E	needsfix__armenianquestionmark	ARMENIAN QUESTION MARK
-055F	needsfix__armenianabbreviationmark	ARMENIAN ABBREVIATION MARK
-0561	needsfix__armeniansmallletterayb	ARMENIAN SMALL LETTER AYB
-0562	needsfix__armeniansmallletterben	ARMENIAN SMALL LETTER BEN
-0563	needsfix__armeniansmalllettergim	ARMENIAN SMALL LETTER GIM
-0564	needsfix__armeniansmallletterda	ARMENIAN SMALL LETTER DA
-0565	needsfix__armeniansmallletterech	ARMENIAN SMALL LETTER ECH
-0566	needsfix__armeniansmallletterza	ARMENIAN SMALL LETTER ZA
-0567	needsfix__armeniansmalllettereh	ARMENIAN SMALL LETTER EH
-0568	needsfix__armeniansmallletteret	ARMENIAN SMALL LETTER ET
-0569	needsfix__armeniansmallletterto	ARMENIAN SMALL LETTER TO
-056A	needsfix__armeniansmallletterzhe	ARMENIAN SMALL LETTER ZHE
-056B	needsfix__armeniansmallletterini	ARMENIAN SMALL LETTER INI
-056C	needsfix__armeniansmallletterliwn	ARMENIAN SMALL LETTER LIWN
-056D	needsfix__armeniansmallletterxeh	ARMENIAN SMALL LETTER XEH
-056E	needsfix__armeniansmallletterca	ARMENIAN SMALL LETTER CA
-056F	needsfix__armeniansmallletterken	ARMENIAN SMALL LETTER KEN
-0570	needsfix__armeniansmallletterho	ARMENIAN SMALL LETTER HO
-0571	needsfix__armeniansmallletterja	ARMENIAN SMALL LETTER JA
-0572	needsfix__armeniansmallletterghad	ARMENIAN SMALL LETTER GHAD
-0573	needsfix__armeniansmalllettercheh	ARMENIAN SMALL LETTER CHEH
-0574	needsfix__armeniansmalllettermen	ARMENIAN SMALL LETTER MEN
-0575	needsfix__armeniansmallletteryi	ARMENIAN SMALL LETTER YI
-0576	needsfix__armeniansmallletternow	ARMENIAN SMALL LETTER NOW
-0577	needsfix__armeniansmalllettersha	ARMENIAN SMALL LETTER SHA
-0578	needsfix__armeniansmalllettervo	ARMENIAN SMALL LETTER VO
-0579	needsfix__armeniansmalllettercha	ARMENIAN SMALL LETTER CHA
-057A	needsfix__armeniansmallletterpeh	ARMENIAN SMALL LETTER PEH
-057B	needsfix__armeniansmallletterjheh	ARMENIAN SMALL LETTER JHEH
-057C	needsfix__armeniansmallletterra	ARMENIAN SMALL LETTER RA
-057D	needsfix__armeniansmallletterseh	ARMENIAN SMALL LETTER SEH
-057E	needsfix__armeniansmalllettervew	ARMENIAN SMALL LETTER VEW
-057F	needsfix__armeniansmalllettertiwn	ARMENIAN SMALL LETTER TIWN
-0580	needsfix__armeniansmallletterreh	ARMENIAN SMALL LETTER REH
-0581	needsfix__armeniansmallletterco	ARMENIAN SMALL LETTER CO
-0582	needsfix__armeniansmallletteryiwn	ARMENIAN SMALL LETTER YIWN
-0583	needsfix__armeniansmallletterpiwr	ARMENIAN SMALL LETTER PIWR
-0584	needsfix__armeniansmallletterkeh	ARMENIAN SMALL LETTER KEH
-0585	needsfix__armeniansmallletteroh	ARMENIAN SMALL LETTER OH
-0586	needsfix__armeniansmallletterfeh	ARMENIAN SMALL LETTER FEH
-0587	needsfix__armeniansmallligatureechyiwn	ARMENIAN SMALL LIGATURE ECH YIWN
-0589	needsfix__armenianfullstop	ARMENIAN FULL STOP
-058A	needsfix__armenianhyphen	ARMENIAN HYPHEN
+0531	needsfix_armeniancapitalletterayb	ARMENIAN CAPITAL LETTER AYB
+0532	needsfix_armeniancapitalletterben	ARMENIAN CAPITAL LETTER BEN
+0533	needsfix_armeniancapitallettergim	ARMENIAN CAPITAL LETTER GIM
+0534	needsfix_armeniancapitalletterda	ARMENIAN CAPITAL LETTER DA
+0535	needsfix_armeniancapitalletterech	ARMENIAN CAPITAL LETTER ECH
+0536	needsfix_armeniancapitalletterza	ARMENIAN CAPITAL LETTER ZA
+0537	needsfix_armeniancapitallettereh	ARMENIAN CAPITAL LETTER EH
+0538	needsfix_armeniancapitalletteret	ARMENIAN CAPITAL LETTER ET
+0539	needsfix_armeniancapitalletterto	ARMENIAN CAPITAL LETTER TO
+053A	needsfix_armeniancapitalletterzhe	ARMENIAN CAPITAL LETTER ZHE
+053B	needsfix_armeniancapitalletterini	ARMENIAN CAPITAL LETTER INI
+053C	needsfix_armeniancapitalletterliwn	ARMENIAN CAPITAL LETTER LIWN
+053D	needsfix_armeniancapitalletterxeh	ARMENIAN CAPITAL LETTER XEH
+053E	needsfix_armeniancapitalletterca	ARMENIAN CAPITAL LETTER CA
+053F	needsfix_armeniancapitalletterken	ARMENIAN CAPITAL LETTER KEN
+0540	needsfix_armeniancapitalletterho	ARMENIAN CAPITAL LETTER HO
+0541	needsfix_armeniancapitalletterja	ARMENIAN CAPITAL LETTER JA
+0542	needsfix_armeniancapitalletterghad	ARMENIAN CAPITAL LETTER GHAD
+0543	needsfix_armeniancapitallettercheh	ARMENIAN CAPITAL LETTER CHEH
+0544	needsfix_armeniancapitallettermen	ARMENIAN CAPITAL LETTER MEN
+0545	needsfix_armeniancapitalletteryi	ARMENIAN CAPITAL LETTER YI
+0546	needsfix_armeniancapitalletternow	ARMENIAN CAPITAL LETTER NOW
+0547	needsfix_armeniancapitallettersha	ARMENIAN CAPITAL LETTER SHA
+0548	needsfix_armeniancapitallettervo	ARMENIAN CAPITAL LETTER VO
+0549	needsfix_armeniancapitallettercha	ARMENIAN CAPITAL LETTER CHA
+054A	needsfix_armeniancapitalletterpeh	ARMENIAN CAPITAL LETTER PEH
+054B	needsfix_armeniancapitalletterjheh	ARMENIAN CAPITAL LETTER JHEH
+054C	needsfix_armeniancapitalletterra	ARMENIAN CAPITAL LETTER RA
+054D	needsfix_armeniancapitalletterseh	ARMENIAN CAPITAL LETTER SEH
+054E	needsfix_armeniancapitallettervew	ARMENIAN CAPITAL LETTER VEW
+054F	needsfix_armeniancapitallettertiwn	ARMENIAN CAPITAL LETTER TIWN
+0550	needsfix_armeniancapitalletterreh	ARMENIAN CAPITAL LETTER REH
+0551	needsfix_armeniancapitalletterco	ARMENIAN CAPITAL LETTER CO
+0552	needsfix_armeniancapitalletteryiwn	ARMENIAN CAPITAL LETTER YIWN
+0553	needsfix_armeniancapitalletterpiwr	ARMENIAN CAPITAL LETTER PIWR
+0554	needsfix_armeniancapitalletterkeh	ARMENIAN CAPITAL LETTER KEH
+0555	needsfix_armeniancapitalletteroh	ARMENIAN CAPITAL LETTER OH
+0556	needsfix_armeniancapitalletterfeh	ARMENIAN CAPITAL LETTER FEH
+0559	needsfix_armenianmodifierletterlefthalfring	ARMENIAN MODIFIER LETTER LEFT HALF RING
+055A	needsfix_armenianapostrophe	ARMENIAN APOSTROPHE
+055B	needsfix_armenianemphasismark	ARMENIAN EMPHASIS MARK
+055C	needsfix_armenianexclamationmark	ARMENIAN EXCLAMATION MARK
+055D	needsfix_armeniancomma	ARMENIAN COMMA
+055E	needsfix_armenianquestionmark	ARMENIAN QUESTION MARK
+055F	needsfix_armenianabbreviationmark	ARMENIAN ABBREVIATION MARK
+0561	needsfix_armeniansmallletterayb	ARMENIAN SMALL LETTER AYB
+0562	needsfix_armeniansmallletterben	ARMENIAN SMALL LETTER BEN
+0563	needsfix_armeniansmalllettergim	ARMENIAN SMALL LETTER GIM
+0564	needsfix_armeniansmallletterda	ARMENIAN SMALL LETTER DA
+0565	needsfix_armeniansmallletterech	ARMENIAN SMALL LETTER ECH
+0566	needsfix_armeniansmallletterza	ARMENIAN SMALL LETTER ZA
+0567	needsfix_armeniansmalllettereh	ARMENIAN SMALL LETTER EH
+0568	needsfix_armeniansmallletteret	ARMENIAN SMALL LETTER ET
+0569	needsfix_armeniansmallletterto	ARMENIAN SMALL LETTER TO
+056A	needsfix_armeniansmallletterzhe	ARMENIAN SMALL LETTER ZHE
+056B	needsfix_armeniansmallletterini	ARMENIAN SMALL LETTER INI
+056C	needsfix_armeniansmallletterliwn	ARMENIAN SMALL LETTER LIWN
+056D	needsfix_armeniansmallletterxeh	ARMENIAN SMALL LETTER XEH
+056E	needsfix_armeniansmallletterca	ARMENIAN SMALL LETTER CA
+056F	needsfix_armeniansmallletterken	ARMENIAN SMALL LETTER KEN
+0570	needsfix_armeniansmallletterho	ARMENIAN SMALL LETTER HO
+0571	needsfix_armeniansmallletterja	ARMENIAN SMALL LETTER JA
+0572	needsfix_armeniansmallletterghad	ARMENIAN SMALL LETTER GHAD
+0573	needsfix_armeniansmalllettercheh	ARMENIAN SMALL LETTER CHEH
+0574	needsfix_armeniansmalllettermen	ARMENIAN SMALL LETTER MEN
+0575	needsfix_armeniansmallletteryi	ARMENIAN SMALL LETTER YI
+0576	needsfix_armeniansmallletternow	ARMENIAN SMALL LETTER NOW
+0577	needsfix_armeniansmalllettersha	ARMENIAN SMALL LETTER SHA
+0578	needsfix_armeniansmalllettervo	ARMENIAN SMALL LETTER VO
+0579	needsfix_armeniansmalllettercha	ARMENIAN SMALL LETTER CHA
+057A	needsfix_armeniansmallletterpeh	ARMENIAN SMALL LETTER PEH
+057B	needsfix_armeniansmallletterjheh	ARMENIAN SMALL LETTER JHEH
+057C	needsfix_armeniansmallletterra	ARMENIAN SMALL LETTER RA
+057D	needsfix_armeniansmallletterseh	ARMENIAN SMALL LETTER SEH
+057E	needsfix_armeniansmalllettervew	ARMENIAN SMALL LETTER VEW
+057F	needsfix_armeniansmalllettertiwn	ARMENIAN SMALL LETTER TIWN
+0580	needsfix_armeniansmallletterreh	ARMENIAN SMALL LETTER REH
+0581	needsfix_armeniansmallletterco	ARMENIAN SMALL LETTER CO
+0582	needsfix_armeniansmallletteryiwn	ARMENIAN SMALL LETTER YIWN
+0583	needsfix_armeniansmallletterpiwr	ARMENIAN SMALL LETTER PIWR
+0584	needsfix_armeniansmallletterkeh	ARMENIAN SMALL LETTER KEH
+0585	needsfix_armeniansmallletteroh	ARMENIAN SMALL LETTER OH
+0586	needsfix_armeniansmallletterfeh	ARMENIAN SMALL LETTER FEH
+0587	needsfix_armeniansmallligatureechyiwn	ARMENIAN SMALL LIGATURE ECH YIWN
+0589	needsfix_armenianfullstop	ARMENIAN FULL STOP
+058A	needsfix_armenianhyphen	ARMENIAN HYPHEN

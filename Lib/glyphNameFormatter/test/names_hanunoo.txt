@@ -1,24 +1,24 @@
 # Hanunoo 1720 - 173F
-1720	needsfix__hanunoolettera	HANUNOO LETTER A
-1721	needsfix__hanunooletteri	HANUNOO LETTER I
-1722	needsfix__hanunooletteru	HANUNOO LETTER U
-1723	needsfix__hanunooletterka	HANUNOO LETTER KA
-1724	needsfix__hanunooletterga	HANUNOO LETTER GA
-1725	needsfix__hanunooletternga	HANUNOO LETTER NGA
-1726	needsfix__hanunooletterta	HANUNOO LETTER TA
-1727	needsfix__hanunooletterda	HANUNOO LETTER DA
-1728	needsfix__hanunooletterna	HANUNOO LETTER NA
-1729	needsfix__hanunooletterpa	HANUNOO LETTER PA
-172A	needsfix__hanunooletterba	HANUNOO LETTER BA
-172B	needsfix__hanunooletterma	HANUNOO LETTER MA
-172C	needsfix__hanunooletterya	HANUNOO LETTER YA
-172D	needsfix__hanunooletterra	HANUNOO LETTER RA
-172E	needsfix__hanunooletterla	HANUNOO LETTER LA
-172F	needsfix__hanunooletterwa	HANUNOO LETTER WA
-1730	needsfix__hanunoolettersa	HANUNOO LETTER SA
-1731	needsfix__hanunooletterha	HANUNOO LETTER HA
-1732	needsfix__hanunoovowelsigni	HANUNOO VOWEL SIGN I
-1733	needsfix__hanunoovowelsignu	HANUNOO VOWEL SIGN U
-1734	needsfix__hanunoosignpamudpod	HANUNOO SIGN PAMUDPOD
-1735	needsfix__philippinesinglepunctuation	PHILIPPINE SINGLE PUNCTUATION
-1736	needsfix__philippinedoublepunctuation	PHILIPPINE DOUBLE PUNCTUATION
+1720	needsfix_hanunoolettera	HANUNOO LETTER A
+1721	needsfix_hanunooletteri	HANUNOO LETTER I
+1722	needsfix_hanunooletteru	HANUNOO LETTER U
+1723	needsfix_hanunooletterka	HANUNOO LETTER KA
+1724	needsfix_hanunooletterga	HANUNOO LETTER GA
+1725	needsfix_hanunooletternga	HANUNOO LETTER NGA
+1726	needsfix_hanunooletterta	HANUNOO LETTER TA
+1727	needsfix_hanunooletterda	HANUNOO LETTER DA
+1728	needsfix_hanunooletterna	HANUNOO LETTER NA
+1729	needsfix_hanunooletterpa	HANUNOO LETTER PA
+172A	needsfix_hanunooletterba	HANUNOO LETTER BA
+172B	needsfix_hanunooletterma	HANUNOO LETTER MA
+172C	needsfix_hanunooletterya	HANUNOO LETTER YA
+172D	needsfix_hanunooletterra	HANUNOO LETTER RA
+172E	needsfix_hanunooletterla	HANUNOO LETTER LA
+172F	needsfix_hanunooletterwa	HANUNOO LETTER WA
+1730	needsfix_hanunoolettersa	HANUNOO LETTER SA
+1731	needsfix_hanunooletterha	HANUNOO LETTER HA
+1732	needsfix_hanunoovowelsigni	HANUNOO VOWEL SIGN I
+1733	needsfix_hanunoovowelsignu	HANUNOO VOWEL SIGN U
+1734	needsfix_hanunoosignpamudpod	HANUNOO SIGN PAMUDPOD
+1735	needsfix_philippinesinglepunctuation	PHILIPPINE SINGLE PUNCTUATION
+1736	needsfix_philippinedoublepunctuation	PHILIPPINE DOUBLE PUNCTUATION

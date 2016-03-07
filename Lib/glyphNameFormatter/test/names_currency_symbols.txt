@@ -1,26 +1,26 @@
 # Currency Symbols 20A0 - 20CF
-20A0	needsfix__eurocurrencysign	EURO-CURRENCY SIGN
-20A1	needsfix__colonmonetary	COLON SIGN
-20A2	needsfix__cruzeirosign	CRUZEIRO SIGN
-20A3	needsfix__franc	FRENCH FRANC SIGN
-20A4	needsfix__lira	LIRA SIGN
-20A5	needsfix__millsign	MILL SIGN
-20A6	needsfix__nairasign	NAIRA SIGN
-20A7	needsfix__peseta	PESETA SIGN
-20A8	needsfix__rupeesign	RUPEE SIGN
-20A9	needsfix__wonsign	WON SIGN
-20AA	needsfix__newsheqelsign	NEW SHEQEL SIGN
-20AB	needsfix__dong	DONG SIGN
-20AC	needsfix__Euro	EURO SIGN
-20AD	needsfix__kipsign	KIP SIGN
-20AE	needsfix__tugriksign	TUGRIK SIGN
-20AF	needsfix__drachmasign	DRACHMA SIGN
-20B0	needsfix__germanpennysign	GERMAN PENNY SIGN
-20B1	needsfix__pesosign	PESO SIGN
-20B2	needsfix__guaranisign	GUARANI SIGN
-20B3	needsfix__australsign	AUSTRAL SIGN
-20B4	needsfix__hryvniasign	HRYVNIA SIGN
-20B5	needsfix__cedisign	CEDI SIGN
-20B6	needsfix__livretournoissign	LIVRE TOURNOIS SIGN
-20B7	needsfix__spesmilosign	SPESMILO SIGN
-20B8	needsfix__tengesign	TENGE SIGN
+20A0	needsfix_eurocurrencysign	EURO-CURRENCY SIGN
+20A1	needsfix_colonmonetary	COLON SIGN
+20A2	needsfix_cruzeirosign	CRUZEIRO SIGN
+20A3	needsfix_franc	FRENCH FRANC SIGN
+20A4	needsfix_lira	LIRA SIGN
+20A5	needsfix_millsign	MILL SIGN
+20A6	needsfix_nairasign	NAIRA SIGN
+20A7	needsfix_peseta	PESETA SIGN
+20A8	needsfix_rupeesign	RUPEE SIGN
+20A9	needsfix_wonsign	WON SIGN
+20AA	needsfix_newsheqelsign	NEW SHEQEL SIGN
+20AB	needsfix_dong	DONG SIGN
+20AC	needsfix_Euro	EURO SIGN
+20AD	needsfix_kipsign	KIP SIGN
+20AE	needsfix_tugriksign	TUGRIK SIGN
+20AF	needsfix_drachmasign	DRACHMA SIGN
+20B0	needsfix_germanpennysign	GERMAN PENNY SIGN
+20B1	needsfix_pesosign	PESO SIGN
+20B2	needsfix_guaranisign	GUARANI SIGN
+20B3	needsfix_australsign	AUSTRAL SIGN
+20B4	needsfix_hryvniasign	HRYVNIA SIGN
+20B5	needsfix_cedisign	CEDI SIGN
+20B6	needsfix_livretournoissign	LIVRE TOURNOIS SIGN
+20B7	needsfix_spesmilosign	SPESMILO SIGN
+20B8	needsfix_tengesign	TENGE SIGN

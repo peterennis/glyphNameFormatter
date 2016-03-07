@@ -1,73 +1,73 @@
 # Tamil 0B80 - 0BFF
-0B82	needsfix__tamilsignanusvara	TAMIL SIGN ANUSVARA
-0B83	needsfix__tamilsignvisarga	TAMIL SIGN VISARGA
-0B85	needsfix__tamillettera	TAMIL LETTER A
-0B86	needsfix__tamilletteraa	TAMIL LETTER AA
-0B87	needsfix__tamilletteri	TAMIL LETTER I
-0B88	needsfix__tamilletterii	TAMIL LETTER II
-0B89	needsfix__tamilletteru	TAMIL LETTER U
-0B8A	needsfix__tamilletteruu	TAMIL LETTER UU
-0B8E	needsfix__tamillettere	TAMIL LETTER E
-0B8F	needsfix__tamilletteree	TAMIL LETTER EE
-0B90	needsfix__tamilletterai	TAMIL LETTER AI
-0B92	needsfix__tamillettero	TAMIL LETTER O
-0B93	needsfix__tamilletteroo	TAMIL LETTER OO
-0B94	needsfix__tamilletterau	TAMIL LETTER AU
-0B95	needsfix__tamilletterka	TAMIL LETTER KA
-0B99	needsfix__tamilletternga	TAMIL LETTER NGA
-0B9A	needsfix__tamilletterca	TAMIL LETTER CA
-0B9C	needsfix__tamilletterja	TAMIL LETTER JA
-0B9E	needsfix__tamilletternya	TAMIL LETTER NYA
-0B9F	needsfix__tamillettertta	TAMIL LETTER TTA
-0BA3	needsfix__tamilletternna	TAMIL LETTER NNA
-0BA4	needsfix__tamilletterta	TAMIL LETTER TA
-0BA8	needsfix__tamilletterna	TAMIL LETTER NA
-0BA9	needsfix__tamilletternnna	TAMIL LETTER NNNA
-0BAA	needsfix__tamilletterpa	TAMIL LETTER PA
-0BAE	needsfix__tamilletterma	TAMIL LETTER MA
-0BAF	needsfix__tamilletterya	TAMIL LETTER YA
-0BB0	needsfix__tamilletterra	TAMIL LETTER RA
-0BB1	needsfix__tamilletterrra	TAMIL LETTER RRA
-0BB2	needsfix__tamilletterla	TAMIL LETTER LA
-0BB3	needsfix__tamilletterlla	TAMIL LETTER LLA
-0BB4	needsfix__tamilletterllla	TAMIL LETTER LLLA
-0BB5	needsfix__tamilletterva	TAMIL LETTER VA
-0BB6	needsfix__tamillettersha	TAMIL LETTER SHA
-0BB7	needsfix__tamilletterssa	TAMIL LETTER SSA
-0BB8	needsfix__tamillettersa	TAMIL LETTER SA
-0BB9	needsfix__tamilletterha	TAMIL LETTER HA
-0BBE	needsfix__tamilvowelsignaa	TAMIL VOWEL SIGN AA
-0BBF	needsfix__tamilvowelsigni	TAMIL VOWEL SIGN I
-0BC0	needsfix__tamilvowelsignii	TAMIL VOWEL SIGN II
-0BC1	needsfix__tamilvowelsignu	TAMIL VOWEL SIGN U
-0BC2	needsfix__tamilvowelsignuu	TAMIL VOWEL SIGN UU
-0BC6	needsfix__tamilvowelsigne	TAMIL VOWEL SIGN E
-0BC7	needsfix__tamilvowelsignee	TAMIL VOWEL SIGN EE
-0BC8	needsfix__tamilvowelsignai	TAMIL VOWEL SIGN AI
-0BCA	needsfix__tamilvowelsigno	TAMIL VOWEL SIGN O
-0BCB	needsfix__tamilvowelsignoo	TAMIL VOWEL SIGN OO
-0BCC	needsfix__tamilvowelsignau	TAMIL VOWEL SIGN AU
-0BCD	needsfix__tamilsignvirama	TAMIL SIGN VIRAMA
-0BD0	needsfix__tamilom	TAMIL OM
-0BD7	needsfix__tamilaulengthmark	TAMIL AU LENGTH MARK
-0BE6	needsfix__tamildigitzero	TAMIL DIGIT ZERO
-0BE7	needsfix__tamildigitone	TAMIL DIGIT ONE
-0BE8	needsfix__tamildigittwo	TAMIL DIGIT TWO
-0BE9	needsfix__tamildigitthree	TAMIL DIGIT THREE
-0BEA	needsfix__tamildigitfour	TAMIL DIGIT FOUR
-0BEB	needsfix__tamildigitfive	TAMIL DIGIT FIVE
-0BEC	needsfix__tamildigitsix	TAMIL DIGIT SIX
-0BED	needsfix__tamildigitseven	TAMIL DIGIT SEVEN
-0BEE	needsfix__tamildigiteight	TAMIL DIGIT EIGHT
-0BEF	needsfix__tamildigitnine	TAMIL DIGIT NINE
-0BF0	needsfix__tamilnumberten	TAMIL NUMBER TEN
-0BF1	needsfix__tamilnumberonehundred	TAMIL NUMBER ONE HUNDRED
-0BF2	needsfix__tamilnumberonethousand	TAMIL NUMBER ONE THOUSAND
-0BF3	needsfix__tamildaysign	TAMIL DAY SIGN
-0BF4	needsfix__tamilmonthsign	TAMIL MONTH SIGN
-0BF5	needsfix__tamilyearsign	TAMIL YEAR SIGN
-0BF6	needsfix__tamildebitsign	TAMIL DEBIT SIGN
-0BF7	needsfix__tamilcreditsign	TAMIL CREDIT SIGN
-0BF8	needsfix__tamilasabovesign	TAMIL AS ABOVE SIGN
-0BF9	needsfix__tamilrupeesign	TAMIL RUPEE SIGN
-0BFA	needsfix__tamilnumbersign	TAMIL NUMBER SIGN
+0B82	needsfix_tamilsignanusvara	TAMIL SIGN ANUSVARA
+0B83	needsfix_tamilsignvisarga	TAMIL SIGN VISARGA
+0B85	needsfix_tamillettera	TAMIL LETTER A
+0B86	needsfix_tamilletteraa	TAMIL LETTER AA
+0B87	needsfix_tamilletteri	TAMIL LETTER I
+0B88	needsfix_tamilletterii	TAMIL LETTER II
+0B89	needsfix_tamilletteru	TAMIL LETTER U
+0B8A	needsfix_tamilletteruu	TAMIL LETTER UU
+0B8E	needsfix_tamillettere	TAMIL LETTER E
+0B8F	needsfix_tamilletteree	TAMIL LETTER EE
+0B90	needsfix_tamilletterai	TAMIL LETTER AI
+0B92	needsfix_tamillettero	TAMIL LETTER O
+0B93	needsfix_tamilletteroo	TAMIL LETTER OO
+0B94	needsfix_tamilletterau	TAMIL LETTER AU
+0B95	needsfix_tamilletterka	TAMIL LETTER KA
+0B99	needsfix_tamilletternga	TAMIL LETTER NGA
+0B9A	needsfix_tamilletterca	TAMIL LETTER CA
+0B9C	needsfix_tamilletterja	TAMIL LETTER JA
+0B9E	needsfix_tamilletternya	TAMIL LETTER NYA
+0B9F	needsfix_tamillettertta	TAMIL LETTER TTA
+0BA3	needsfix_tamilletternna	TAMIL LETTER NNA
+0BA4	needsfix_tamilletterta	TAMIL LETTER TA
+0BA8	needsfix_tamilletterna	TAMIL LETTER NA
+0BA9	needsfix_tamilletternnna	TAMIL LETTER NNNA
+0BAA	needsfix_tamilletterpa	TAMIL LETTER PA
+0BAE	needsfix_tamilletterma	TAMIL LETTER MA
+0BAF	needsfix_tamilletterya	TAMIL LETTER YA
+0BB0	needsfix_tamilletterra	TAMIL LETTER RA
+0BB1	needsfix_tamilletterrra	TAMIL LETTER RRA
+0BB2	needsfix_tamilletterla	TAMIL LETTER LA
+0BB3	needsfix_tamilletterlla	TAMIL LETTER LLA
+0BB4	needsfix_tamilletterllla	TAMIL LETTER LLLA
+0BB5	needsfix_tamilletterva	TAMIL LETTER VA
+0BB6	needsfix_tamillettersha	TAMIL LETTER SHA
+0BB7	needsfix_tamilletterssa	TAMIL LETTER SSA
+0BB8	needsfix_tamillettersa	TAMIL LETTER SA
+0BB9	needsfix_tamilletterha	TAMIL LETTER HA
+0BBE	needsfix_tamilvowelsignaa	TAMIL VOWEL SIGN AA
+0BBF	needsfix_tamilvowelsigni	TAMIL VOWEL SIGN I
+0BC0	needsfix_tamilvowelsignii	TAMIL VOWEL SIGN II
+0BC1	needsfix_tamilvowelsignu	TAMIL VOWEL SIGN U
+0BC2	needsfix_tamilvowelsignuu	TAMIL VOWEL SIGN UU
+0BC6	needsfix_tamilvowelsigne	TAMIL VOWEL SIGN E
+0BC7	needsfix_tamilvowelsignee	TAMIL VOWEL SIGN EE
+0BC8	needsfix_tamilvowelsignai	TAMIL VOWEL SIGN AI
+0BCA	needsfix_tamilvowelsigno	TAMIL VOWEL SIGN O
+0BCB	needsfix_tamilvowelsignoo	TAMIL VOWEL SIGN OO
+0BCC	needsfix_tamilvowelsignau	TAMIL VOWEL SIGN AU
+0BCD	needsfix_tamilsignvirama	TAMIL SIGN VIRAMA
+0BD0	needsfix_tamilom	TAMIL OM
+0BD7	needsfix_tamilaulengthmark	TAMIL AU LENGTH MARK
+0BE6	needsfix_tamildigitzero	TAMIL DIGIT ZERO
+0BE7	needsfix_tamildigitone	TAMIL DIGIT ONE
+0BE8	needsfix_tamildigittwo	TAMIL DIGIT TWO
+0BE9	needsfix_tamildigitthree	TAMIL DIGIT THREE
+0BEA	needsfix_tamildigitfour	TAMIL DIGIT FOUR
+0BEB	needsfix_tamildigitfive	TAMIL DIGIT FIVE
+0BEC	needsfix_tamildigitsix	TAMIL DIGIT SIX
+0BED	needsfix_tamildigitseven	TAMIL DIGIT SEVEN
+0BEE	needsfix_tamildigiteight	TAMIL DIGIT EIGHT
+0BEF	needsfix_tamildigitnine	TAMIL DIGIT NINE
+0BF0	needsfix_tamilnumberten	TAMIL NUMBER TEN
+0BF1	needsfix_tamilnumberonehundred	TAMIL NUMBER ONE HUNDRED
+0BF2	needsfix_tamilnumberonethousand	TAMIL NUMBER ONE THOUSAND
+0BF3	needsfix_tamildaysign	TAMIL DAY SIGN
+0BF4	needsfix_tamilmonthsign	TAMIL MONTH SIGN
+0BF5	needsfix_tamilyearsign	TAMIL YEAR SIGN
+0BF6	needsfix_tamildebitsign	TAMIL DEBIT SIGN
+0BF7	needsfix_tamilcreditsign	TAMIL CREDIT SIGN
+0BF8	needsfix_tamilasabovesign	TAMIL AS ABOVE SIGN
+0BF9	needsfix_tamilrupeesign	TAMIL RUPEE SIGN
+0BFA	needsfix_tamilnumbersign	TAMIL NUMBER SIGN

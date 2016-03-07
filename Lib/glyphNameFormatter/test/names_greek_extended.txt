@@ -1,234 +1,234 @@
 # Greek Extended 1F00 - 1FFF
-1F00	needsfix__greeksmallletteralphawithpsili	GREEK SMALL LETTER ALPHA WITH PSILI
-1F01	needsfix__greeksmallletteralphawithdasia	GREEK SMALL LETTER ALPHA WITH DASIA
-1F02	needsfix__greeksmallletteralphawithpsiliandvaria	GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA
-1F03	needsfix__greeksmallletteralphawithdasiaandvaria	GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA
-1F04	needsfix__greeksmallletteralphawithpsiliandoxia	GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA
-1F05	needsfix__greeksmallletteralphawithdasiaandoxia	GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA
-1F06	needsfix__greeksmallletteralphawithpsiliandperispomeni	GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI
-1F07	needsfix__greeksmallletteralphawithdasiaandperispomeni	GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI
-1F08	needsfix__greekcapitalletteralphawithpsili	GREEK CAPITAL LETTER ALPHA WITH PSILI
-1F09	needsfix__greekcapitalletteralphawithdasia	GREEK CAPITAL LETTER ALPHA WITH DASIA
-1F0A	needsfix__greekcapitalletteralphawithpsiliandvaria	GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA
-1F0B	needsfix__greekcapitalletteralphawithdasiaandvaria	GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA
-1F0C	needsfix__greekcapitalletteralphawithpsiliandoxia	GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
-1F0D	needsfix__greekcapitalletteralphawithdasiaandoxia	GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA
-1F0E	needsfix__greekcapitalletteralphawithpsiliandperispomeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI
-1F0F	needsfix__greekcapitalletteralphawithdasiaandperispomeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI
-1F10	needsfix__greeksmallletterepsilonwithpsili	GREEK SMALL LETTER EPSILON WITH PSILI
-1F11	needsfix__greeksmallletterepsilonwithdasia	GREEK SMALL LETTER EPSILON WITH DASIA
-1F12	needsfix__greeksmallletterepsilonwithpsiliandvaria	GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA
-1F13	needsfix__greeksmallletterepsilonwithdasiaandvaria	GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA
-1F14	needsfix__greeksmallletterepsilonwithpsiliandoxia	GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA
-1F15	needsfix__greeksmallletterepsilonwithdasiaandoxia	GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA
-1F18	needsfix__greekcapitalletterepsilonwithpsili	GREEK CAPITAL LETTER EPSILON WITH PSILI
-1F19	needsfix__greekcapitalletterepsilonwithdasia	GREEK CAPITAL LETTER EPSILON WITH DASIA
-1F1A	needsfix__greekcapitalletterepsilonwithpsiliandvaria	GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA
-1F1B	needsfix__greekcapitalletterepsilonwithdasiaandvaria	GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA
-1F1C	needsfix__greekcapitalletterepsilonwithpsiliandoxia	GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA
-1F1D	needsfix__greekcapitalletterepsilonwithdasiaandoxia	GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA
-1F20	needsfix__greeksmallletteretawithpsili	GREEK SMALL LETTER ETA WITH PSILI
-1F21	needsfix__greeksmallletteretawithdasia	GREEK SMALL LETTER ETA WITH DASIA
-1F22	needsfix__greeksmallletteretawithpsiliandvaria	GREEK SMALL LETTER ETA WITH PSILI AND VARIA
-1F23	needsfix__greeksmallletteretawithdasiaandvaria	GREEK SMALL LETTER ETA WITH DASIA AND VARIA
-1F24	needsfix__greeksmallletteretawithpsiliandoxia	GREEK SMALL LETTER ETA WITH PSILI AND OXIA
-1F25	needsfix__greeksmallletteretawithdasiaandoxia	GREEK SMALL LETTER ETA WITH DASIA AND OXIA
-1F26	needsfix__greeksmallletteretawithpsiliandperispomeni	GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI
-1F27	needsfix__greeksmallletteretawithdasiaandperispomeni	GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI
-1F28	needsfix__greekcapitalletteretawithpsili	GREEK CAPITAL LETTER ETA WITH PSILI
-1F29	needsfix__greekcapitalletteretawithdasia	GREEK CAPITAL LETTER ETA WITH DASIA
-1F2A	needsfix__greekcapitalletteretawithpsiliandvaria	GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA
-1F2B	needsfix__greekcapitalletteretawithdasiaandvaria	GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA
-1F2C	needsfix__greekcapitalletteretawithpsiliandoxia	GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA
-1F2D	needsfix__greekcapitalletteretawithdasiaandoxia	GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA
-1F2E	needsfix__greekcapitalletteretawithpsiliandperispomeni	GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI
-1F2F	needsfix__greekcapitalletteretawithdasiaandperispomeni	GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI
-1F30	needsfix__greeksmallletteriotawithpsili	GREEK SMALL LETTER IOTA WITH PSILI
-1F31	needsfix__greeksmallletteriotawithdasia	GREEK SMALL LETTER IOTA WITH DASIA
-1F32	needsfix__greeksmallletteriotawithpsiliandvaria	GREEK SMALL LETTER IOTA WITH PSILI AND VARIA
-1F33	needsfix__greeksmallletteriotawithdasiaandvaria	GREEK SMALL LETTER IOTA WITH DASIA AND VARIA
-1F34	needsfix__greeksmallletteriotawithpsiliandoxia	GREEK SMALL LETTER IOTA WITH PSILI AND OXIA
-1F35	needsfix__greeksmallletteriotawithdasiaandoxia	GREEK SMALL LETTER IOTA WITH DASIA AND OXIA
-1F36	needsfix__greeksmallletteriotawithpsiliandperispomeni	GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI
-1F37	needsfix__greeksmallletteriotawithdasiaandperispomeni	GREEK SMALL LETTER IOTA WITH DASIA AND PERISPOMENI
-1F38	needsfix__greekcapitalletteriotawithpsili	GREEK CAPITAL LETTER IOTA WITH PSILI
-1F39	needsfix__greekcapitalletteriotawithdasia	GREEK CAPITAL LETTER IOTA WITH DASIA
-1F3A	needsfix__greekcapitalletteriotawithpsiliandvaria	GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA
-1F3B	needsfix__greekcapitalletteriotawithdasiaandvaria	GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA
-1F3C	needsfix__greekcapitalletteriotawithpsiliandoxia	GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA
-1F3D	needsfix__greekcapitalletteriotawithdasiaandoxia	GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA
-1F3E	needsfix__greekcapitalletteriotawithpsiliandperispomeni	GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI
-1F3F	needsfix__greekcapitalletteriotawithdasiaandperispomeni	GREEK CAPITAL LETTER IOTA WITH DASIA AND PERISPOMENI
-1F40	needsfix__greeksmallletteromicronwithpsili	GREEK SMALL LETTER OMICRON WITH PSILI
-1F41	needsfix__greeksmallletteromicronwithdasia	GREEK SMALL LETTER OMICRON WITH DASIA
-1F42	needsfix__greeksmallletteromicronwithpsiliandvaria	GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA
-1F43	needsfix__greeksmallletteromicronwithdasiaandvaria	GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA
-1F44	needsfix__greeksmallletteromicronwithpsiliandoxia	GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
-1F45	needsfix__greeksmallletteromicronwithdasiaandoxia	GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
-1F48	needsfix__greekcapitalletteromicronwithpsili	GREEK CAPITAL LETTER OMICRON WITH PSILI
-1F49	needsfix__greekcapitalletteromicronwithdasia	GREEK CAPITAL LETTER OMICRON WITH DASIA
-1F4A	needsfix__greekcapitalletteromicronwithpsiliandvaria	GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA
-1F4B	needsfix__greekcapitalletteromicronwithdasiaandvaria	GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA
-1F4C	needsfix__greekcapitalletteromicronwithpsiliandoxia	GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA
-1F4D	needsfix__greekcapitalletteromicronwithdasiaandoxia	GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA
-1F50	needsfix__greeksmallletterupsilonwithpsili	GREEK SMALL LETTER UPSILON WITH PSILI
-1F51	needsfix__greeksmallletterupsilonwithdasia	GREEK SMALL LETTER UPSILON WITH DASIA
-1F52	needsfix__greeksmallletterupsilonwithpsiliandvaria	GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA
-1F53	needsfix__greeksmallletterupsilonwithdasiaandvaria	GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA
-1F54	needsfix__greeksmallletterupsilonwithpsiliandoxia	GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
-1F55	needsfix__greeksmallletterupsilonwithdasiaandoxia	GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA
-1F56	needsfix__greeksmallletterupsilonwithpsiliandperispomeni	GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI
-1F57	needsfix__greeksmallletterupsilonwithdasiaandperispomeni	GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI
-1F59	needsfix__greekcapitalletterupsilonwithdasia	GREEK CAPITAL LETTER UPSILON WITH DASIA
-1F5B	needsfix__greekcapitalletterupsilonwithdasiaandvaria	GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA
-1F5D	needsfix__greekcapitalletterupsilonwithdasiaandoxia	GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA
-1F5F	needsfix__greekcapitalletterupsilonwithdasiaandperispomeni	GREEK CAPITAL LETTER UPSILON WITH DASIA AND PERISPOMENI
-1F60	needsfix__greeksmallletteromegawithpsili	GREEK SMALL LETTER OMEGA WITH PSILI
-1F61	needsfix__greeksmallletteromegawithdasia	GREEK SMALL LETTER OMEGA WITH DASIA
-1F62	needsfix__greeksmallletteromegawithpsiliandvaria	GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA
-1F63	needsfix__greeksmallletteromegawithdasiaandvaria	GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA
-1F64	needsfix__greeksmallletteromegawithpsiliandoxia	GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA
-1F65	needsfix__greeksmallletteromegawithdasiaandoxia	GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA
-1F66	needsfix__greeksmallletteromegawithpsiliandperispomeni	GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI
-1F67	needsfix__greeksmallletteromegawithdasiaandperispomeni	GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI
-1F68	needsfix__greekcapitalletteromegawithpsili	GREEK CAPITAL LETTER OMEGA WITH PSILI
-1F69	needsfix__greekcapitalletteromegawithdasia	GREEK CAPITAL LETTER OMEGA WITH DASIA
-1F6A	needsfix__greekcapitalletteromegawithpsiliandvaria	GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA
-1F6B	needsfix__greekcapitalletteromegawithdasiaandvaria	GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA
-1F6C	needsfix__greekcapitalletteromegawithpsiliandoxia	GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA
-1F6D	needsfix__greekcapitalletteromegawithdasiaandoxia	GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA
-1F6E	needsfix__greekcapitalletteromegawithpsiliandperispomeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI
-1F6F	needsfix__greekcapitalletteromegawithdasiaandperispomeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI
-1F70	needsfix__greeksmallletteralphawithvaria	GREEK SMALL LETTER ALPHA WITH VARIA
-1F71	needsfix__greeksmallletteralphawithoxia	GREEK SMALL LETTER ALPHA WITH OXIA
-1F72	needsfix__greeksmallletterepsilonwithvaria	GREEK SMALL LETTER EPSILON WITH VARIA
-1F73	needsfix__greeksmallletterepsilonwithoxia	GREEK SMALL LETTER EPSILON WITH OXIA
-1F74	needsfix__greeksmallletteretawithvaria	GREEK SMALL LETTER ETA WITH VARIA
-1F75	needsfix__greeksmallletteretawithoxia	GREEK SMALL LETTER ETA WITH OXIA
-1F76	needsfix__greeksmallletteriotawithvaria	GREEK SMALL LETTER IOTA WITH VARIA
-1F77	needsfix__greeksmallletteriotawithoxia	GREEK SMALL LETTER IOTA WITH OXIA
-1F78	needsfix__greeksmallletteromicronwithvaria	GREEK SMALL LETTER OMICRON WITH VARIA
-1F79	needsfix__greeksmallletteromicronwithoxia	GREEK SMALL LETTER OMICRON WITH OXIA
-1F7A	needsfix__greeksmallletterupsilonwithvaria	GREEK SMALL LETTER UPSILON WITH VARIA
-1F7B	needsfix__greeksmallletterupsilonwithoxia	GREEK SMALL LETTER UPSILON WITH OXIA
-1F7C	needsfix__greeksmallletteromegawithvaria	GREEK SMALL LETTER OMEGA WITH VARIA
-1F7D	needsfix__greeksmallletteromegawithoxia	GREEK SMALL LETTER OMEGA WITH OXIA
-1F80	needsfix__greeksmallletteralphawithpsiliandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI
-1F81	needsfix__greeksmallletteralphawithdasiaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI
-1F82	needsfix__greeksmallletteralphawithpsiliandvariaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI
-1F83	needsfix__greeksmallletteralphawithdasiaandvariaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI
-1F84	needsfix__greeksmallletteralphawithpsiliandoxiaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI
-1F85	needsfix__greeksmallletteralphawithdasiaandoxiaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI
-1F86	needsfix__greeksmallletteralphawithpsiliandperispomeniandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
-1F87	needsfix__greeksmallletteralphawithdasiaandperispomeniandypogegrammeni	GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
-1F88	needsfix__greekcapitalletteralphawithpsiliandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI
-1F89	needsfix__greekcapitalletteralphawithdasiaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI
-1F8A	needsfix__greekcapitalletteralphawithpsiliandvariaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI
-1F8B	needsfix__greekcapitalletteralphawithdasiaandvariaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI
-1F8C	needsfix__greekcapitalletteralphawithpsiliandoxiaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI
-1F8D	needsfix__greekcapitalletteralphawithdasiaandoxiaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI
-1F8E	needsfix__greekcapitalletteralphawithpsiliandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
-1F8F	needsfix__greekcapitalletteralphawithdasiaandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
-1F90	needsfix__greeksmallletteretawithpsiliandypogegrammeni	GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI
-1F91	needsfix__greeksmallletteretawithdasiaandypogegrammeni	GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI
-1F92	needsfix__greeksmallletteretawithpsiliandvariaandypogegrammeni	GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI
-1F93	needsfix__greeksmallletteretawithdasiaandvariaandypogegrammeni	GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI
-1F94	needsfix__greeksmallletteretawithpsiliandoxiaandypogegrammeni	GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI
-1F95	needsfix__greeksmallletteretawithdasiaandoxiaandypogegrammeni	GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI
-1F96	needsfix__greeksmallletteretawithpsiliandperispomeniandypogegrammeni	GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
-1F97	needsfix__greeksmallletteretawithdasiaandperispomeniandypogegrammeni	GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
-1F98	needsfix__greekcapitalletteretawithpsiliandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI
-1F99	needsfix__greekcapitalletteretawithdasiaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI
-1F9A	needsfix__greekcapitalletteretawithpsiliandvariaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI
-1F9B	needsfix__greekcapitalletteretawithdasiaandvariaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI
-1F9C	needsfix__greekcapitalletteretawithpsiliandoxiaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI
-1F9D	needsfix__greekcapitalletteretawithdasiaandoxiaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI
-1F9E	needsfix__greekcapitalletteretawithpsiliandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
-1F9F	needsfix__greekcapitalletteretawithdasiaandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
-1FA0	needsfix__greeksmallletteromegawithpsiliandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI
-1FA1	needsfix__greeksmallletteromegawithdasiaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI
-1FA2	needsfix__greeksmallletteromegawithpsiliandvariaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI
-1FA3	needsfix__greeksmallletteromegawithdasiaandvariaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA AND YPOGEGRAMMENI
-1FA4	needsfix__greeksmallletteromegawithpsiliandoxiaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA AND YPOGEGRAMMENI
-1FA5	needsfix__greeksmallletteromegawithdasiaandoxiaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA AND YPOGEGRAMMENI
-1FA6	needsfix__greeksmallletteromegawithpsiliandperispomeniandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
-1FA7	needsfix__greeksmallletteromegawithdasiaandperispomeniandypogegrammeni	GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
-1FA8	needsfix__greekcapitalletteromegawithpsiliandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI
-1FA9	needsfix__greekcapitalletteromegawithdasiaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI
-1FAA	needsfix__greekcapitalletteromegawithpsiliandvariaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI
-1FAB	needsfix__greekcapitalletteromegawithdasiaandvariaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI
-1FAC	needsfix__greekcapitalletteromegawithpsiliandoxiaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI
-1FAD	needsfix__greekcapitalletteromegawithdasiaandoxiaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI
-1FAE	needsfix__greekcapitalletteromegawithpsiliandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
-1FAF	needsfix__greekcapitalletteromegawithdasiaandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
-1FB0	needsfix__greeksmallletteralphawithvrachy	GREEK SMALL LETTER ALPHA WITH VRACHY
-1FB1	needsfix__greeksmallletteralphawithmacron	GREEK SMALL LETTER ALPHA WITH MACRON
-1FB2	needsfix__greeksmallletteralphawithvariaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI
-1FB3	needsfix__greeksmallletteralphawithypogegrammeni	GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI
-1FB4	needsfix__greeksmallletteralphawithoxiaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI
-1FB6	needsfix__greeksmallletteralphawithperispomeni	GREEK SMALL LETTER ALPHA WITH PERISPOMENI
-1FB7	needsfix__greeksmallletteralphawithperispomeniandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI
-1FB8	needsfix__greekcapitalletteralphawithvrachy	GREEK CAPITAL LETTER ALPHA WITH VRACHY
-1FB9	needsfix__greekcapitalletteralphawithmacron	GREEK CAPITAL LETTER ALPHA WITH MACRON
-1FBA	needsfix__greekcapitalletteralphawithvaria	GREEK CAPITAL LETTER ALPHA WITH VARIA
-1FBB	needsfix__greekcapitalletteralphawithoxia	GREEK CAPITAL LETTER ALPHA WITH OXIA
-1FBC	needsfix__greekcapitalletteralphawithprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI
-1FBD	needsfix__greekkoronis	GREEK KORONIS
-1FBE	needsfix__greekprosgegrammeni	GREEK PROSGEGRAMMENI
-1FBF	needsfix__greekpsili	GREEK PSILI
-1FC0	needsfix__greekperispomeni	GREEK PERISPOMENI
-1FC1	needsfix__greekdialytikaandperispomeni	GREEK DIALYTIKA AND PERISPOMENI
-1FC2	needsfix__greeksmallletteretawithvariaandypogegrammeni	GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI
-1FC3	needsfix__greeksmallletteretawithypogegrammeni	GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI
-1FC4	needsfix__greeksmallletteretawithoxiaandypogegrammeni	GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI
-1FC6	needsfix__greeksmallletteretawithperispomeni	GREEK SMALL LETTER ETA WITH PERISPOMENI
-1FC7	needsfix__greeksmallletteretawithperispomeniandypogegrammeni	GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI
-1FC8	needsfix__greekcapitalletterepsilonwithvaria	GREEK CAPITAL LETTER EPSILON WITH VARIA
-1FC9	needsfix__greekcapitalletterepsilonwithoxia	GREEK CAPITAL LETTER EPSILON WITH OXIA
-1FCA	needsfix__greekcapitalletteretawithvaria	GREEK CAPITAL LETTER ETA WITH VARIA
-1FCB	needsfix__greekcapitalletteretawithoxia	GREEK CAPITAL LETTER ETA WITH OXIA
-1FCC	needsfix__greekcapitalletteretawithprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI
-1FCD	needsfix__greekpsiliandvaria	GREEK PSILI AND VARIA
-1FCE	needsfix__greekpsiliandoxia	GREEK PSILI AND OXIA
-1FCF	needsfix__greekpsiliandperispomeni	GREEK PSILI AND PERISPOMENI
-1FD0	needsfix__greeksmallletteriotawithvrachy	GREEK SMALL LETTER IOTA WITH VRACHY
-1FD1	needsfix__greeksmallletteriotawithmacron	GREEK SMALL LETTER IOTA WITH MACRON
-1FD2	needsfix__greeksmallletteriotawithdialytikaandvaria	GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA
-1FD3	needsfix__greeksmallletteriotawithdialytikaandoxia	GREEK SMALL LETTER IOTA WITH DIALYTIKA AND OXIA
-1FD6	needsfix__greeksmallletteriotawithperispomeni	GREEK SMALL LETTER IOTA WITH PERISPOMENI
-1FD7	needsfix__greeksmallletteriotawithdialytikaandperispomeni	GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
-1FD8	needsfix__greekcapitalletteriotawithvrachy	GREEK CAPITAL LETTER IOTA WITH VRACHY
-1FD9	needsfix__greekcapitalletteriotawithmacron	GREEK CAPITAL LETTER IOTA WITH MACRON
-1FDA	needsfix__greekcapitalletteriotawithvaria	GREEK CAPITAL LETTER IOTA WITH VARIA
-1FDB	needsfix__greekcapitalletteriotawithoxia	GREEK CAPITAL LETTER IOTA WITH OXIA
-1FDD	needsfix__greekdasiaandvaria	GREEK DASIA AND VARIA
-1FDE	needsfix__greekdasiaandoxia	GREEK DASIA AND OXIA
-1FDF	needsfix__greekdasiaandperispomeni	GREEK DASIA AND PERISPOMENI
-1FE0	needsfix__greeksmallletterupsilonwithvrachy	GREEK SMALL LETTER UPSILON WITH VRACHY
-1FE1	needsfix__greeksmallletterupsilonwithmacron	GREEK SMALL LETTER UPSILON WITH MACRON
-1FE2	needsfix__greeksmallletterupsilonwithdialytikaandvaria	GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA
-1FE3	needsfix__greeksmallletterupsilonwithdialytikaandoxia	GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND OXIA
-1FE4	needsfix__greeksmallletterrhowithpsili	GREEK SMALL LETTER RHO WITH PSILI
-1FE5	needsfix__greeksmallletterrhowithdasia	GREEK SMALL LETTER RHO WITH DASIA
-1FE6	needsfix__greeksmallletterupsilonwithperispomeni	GREEK SMALL LETTER UPSILON WITH PERISPOMENI
-1FE7	needsfix__greeksmallletterupsilonwithdialytikaandperispomeni	GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
-1FE8	needsfix__greekcapitalletterupsilonwithvrachy	GREEK CAPITAL LETTER UPSILON WITH VRACHY
-1FE9	needsfix__greekcapitalletterupsilonwithmacron	GREEK CAPITAL LETTER UPSILON WITH MACRON
-1FEA	needsfix__greekcapitalletterupsilonwithvaria	GREEK CAPITAL LETTER UPSILON WITH VARIA
-1FEB	needsfix__greekcapitalletterupsilonwithoxia	GREEK CAPITAL LETTER UPSILON WITH OXIA
-1FEC	needsfix__greekcapitalletterrhowithdasia	GREEK CAPITAL LETTER RHO WITH DASIA
-1FED	needsfix__greekdialytikaandvaria	GREEK DIALYTIKA AND VARIA
-1FEE	needsfix__greekdialytikaandoxia	GREEK DIALYTIKA AND OXIA
-1FEF	needsfix__greekvaria	GREEK VARIA
-1FF2	needsfix__greeksmallletteromegawithvariaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI
-1FF3	needsfix__greeksmallletteromegawithypogegrammeni	GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI
-1FF4	needsfix__greeksmallletteromegawithoxiaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI
-1FF6	needsfix__greeksmallletteromegawithperispomeni	GREEK SMALL LETTER OMEGA WITH PERISPOMENI
-1FF7	needsfix__greeksmallletteromegawithperispomeniandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI
-1FF8	needsfix__greekcapitalletteromicronwithvaria	GREEK CAPITAL LETTER OMICRON WITH VARIA
-1FF9	needsfix__greekcapitalletteromicronwithoxia	GREEK CAPITAL LETTER OMICRON WITH OXIA
-1FFA	needsfix__greekcapitalletteromegawithvaria	GREEK CAPITAL LETTER OMEGA WITH VARIA
-1FFB	needsfix__greekcapitalletteromegawithoxia	GREEK CAPITAL LETTER OMEGA WITH OXIA
-1FFC	needsfix__greekcapitalletteromegawithprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI
-1FFD	needsfix__greekoxia	GREEK OXIA
-1FFE	needsfix__greekdasia	GREEK DASIA
+1F00	needsfix_greeksmallletteralphawithpsili	GREEK SMALL LETTER ALPHA WITH PSILI
+1F01	needsfix_greeksmallletteralphawithdasia	GREEK SMALL LETTER ALPHA WITH DASIA
+1F02	needsfix_greeksmallletteralphawithpsiliandvaria	GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA
+1F03	needsfix_greeksmallletteralphawithdasiaandvaria	GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA
+1F04	needsfix_greeksmallletteralphawithpsiliandoxia	GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA
+1F05	needsfix_greeksmallletteralphawithdasiaandoxia	GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA
+1F06	needsfix_greeksmallletteralphawithpsiliandperispomeni	GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI
+1F07	needsfix_greeksmallletteralphawithdasiaandperispomeni	GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI
+1F08	needsfix_greekcapitalletteralphawithpsili	GREEK CAPITAL LETTER ALPHA WITH PSILI
+1F09	needsfix_greekcapitalletteralphawithdasia	GREEK CAPITAL LETTER ALPHA WITH DASIA
+1F0A	needsfix_greekcapitalletteralphawithpsiliandvaria	GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA
+1F0B	needsfix_greekcapitalletteralphawithdasiaandvaria	GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA
+1F0C	needsfix_greekcapitalletteralphawithpsiliandoxia	GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
+1F0D	needsfix_greekcapitalletteralphawithdasiaandoxia	GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA
+1F0E	needsfix_greekcapitalletteralphawithpsiliandperispomeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI
+1F0F	needsfix_greekcapitalletteralphawithdasiaandperispomeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI
+1F10	needsfix_greeksmallletterepsilonwithpsili	GREEK SMALL LETTER EPSILON WITH PSILI
+1F11	needsfix_greeksmallletterepsilonwithdasia	GREEK SMALL LETTER EPSILON WITH DASIA
+1F12	needsfix_greeksmallletterepsilonwithpsiliandvaria	GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA
+1F13	needsfix_greeksmallletterepsilonwithdasiaandvaria	GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA
+1F14	needsfix_greeksmallletterepsilonwithpsiliandoxia	GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA
+1F15	needsfix_greeksmallletterepsilonwithdasiaandoxia	GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA
+1F18	needsfix_greekcapitalletterepsilonwithpsili	GREEK CAPITAL LETTER EPSILON WITH PSILI
+1F19	needsfix_greekcapitalletterepsilonwithdasia	GREEK CAPITAL LETTER EPSILON WITH DASIA
+1F1A	needsfix_greekcapitalletterepsilonwithpsiliandvaria	GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA
+1F1B	needsfix_greekcapitalletterepsilonwithdasiaandvaria	GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA
+1F1C	needsfix_greekcapitalletterepsilonwithpsiliandoxia	GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA
+1F1D	needsfix_greekcapitalletterepsilonwithdasiaandoxia	GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA
+1F20	needsfix_greeksmallletteretawithpsili	GREEK SMALL LETTER ETA WITH PSILI
+1F21	needsfix_greeksmallletteretawithdasia	GREEK SMALL LETTER ETA WITH DASIA
+1F22	needsfix_greeksmallletteretawithpsiliandvaria	GREEK SMALL LETTER ETA WITH PSILI AND VARIA
+1F23	needsfix_greeksmallletteretawithdasiaandvaria	GREEK SMALL LETTER ETA WITH DASIA AND VARIA
+1F24	needsfix_greeksmallletteretawithpsiliandoxia	GREEK SMALL LETTER ETA WITH PSILI AND OXIA
+1F25	needsfix_greeksmallletteretawithdasiaandoxia	GREEK SMALL LETTER ETA WITH DASIA AND OXIA
+1F26	needsfix_greeksmallletteretawithpsiliandperispomeni	GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI
+1F27	needsfix_greeksmallletteretawithdasiaandperispomeni	GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI
+1F28	needsfix_greekcapitalletteretawithpsili	GREEK CAPITAL LETTER ETA WITH PSILI
+1F29	needsfix_greekcapitalletteretawithdasia	GREEK CAPITAL LETTER ETA WITH DASIA
+1F2A	needsfix_greekcapitalletteretawithpsiliandvaria	GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA
+1F2B	needsfix_greekcapitalletteretawithdasiaandvaria	GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA
+1F2C	needsfix_greekcapitalletteretawithpsiliandoxia	GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA
+1F2D	needsfix_greekcapitalletteretawithdasiaandoxia	GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA
+1F2E	needsfix_greekcapitalletteretawithpsiliandperispomeni	GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI
+1F2F	needsfix_greekcapitalletteretawithdasiaandperispomeni	GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI
+1F30	needsfix_greeksmallletteriotawithpsili	GREEK SMALL LETTER IOTA WITH PSILI
+1F31	needsfix_greeksmallletteriotawithdasia	GREEK SMALL LETTER IOTA WITH DASIA
+1F32	needsfix_greeksmallletteriotawithpsiliandvaria	GREEK SMALL LETTER IOTA WITH PSILI AND VARIA
+1F33	needsfix_greeksmallletteriotawithdasiaandvaria	GREEK SMALL LETTER IOTA WITH DASIA AND VARIA
+1F34	needsfix_greeksmallletteriotawithpsiliandoxia	GREEK SMALL LETTER IOTA WITH PSILI AND OXIA
+1F35	needsfix_greeksmallletteriotawithdasiaandoxia	GREEK SMALL LETTER IOTA WITH DASIA AND OXIA
+1F36	needsfix_greeksmallletteriotawithpsiliandperispomeni	GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI
+1F37	needsfix_greeksmallletteriotawithdasiaandperispomeni	GREEK SMALL LETTER IOTA WITH DASIA AND PERISPOMENI
+1F38	needsfix_greekcapitalletteriotawithpsili	GREEK CAPITAL LETTER IOTA WITH PSILI
+1F39	needsfix_greekcapitalletteriotawithdasia	GREEK CAPITAL LETTER IOTA WITH DASIA
+1F3A	needsfix_greekcapitalletteriotawithpsiliandvaria	GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA
+1F3B	needsfix_greekcapitalletteriotawithdasiaandvaria	GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA
+1F3C	needsfix_greekcapitalletteriotawithpsiliandoxia	GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA
+1F3D	needsfix_greekcapitalletteriotawithdasiaandoxia	GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA
+1F3E	needsfix_greekcapitalletteriotawithpsiliandperispomeni	GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI
+1F3F	needsfix_greekcapitalletteriotawithdasiaandperispomeni	GREEK CAPITAL LETTER IOTA WITH DASIA AND PERISPOMENI
+1F40	needsfix_greeksmallletteromicronwithpsili	GREEK SMALL LETTER OMICRON WITH PSILI
+1F41	needsfix_greeksmallletteromicronwithdasia	GREEK SMALL LETTER OMICRON WITH DASIA
+1F42	needsfix_greeksmallletteromicronwithpsiliandvaria	GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA
+1F43	needsfix_greeksmallletteromicronwithdasiaandvaria	GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA
+1F44	needsfix_greeksmallletteromicronwithpsiliandoxia	GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
+1F45	needsfix_greeksmallletteromicronwithdasiaandoxia	GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
+1F48	needsfix_greekcapitalletteromicronwithpsili	GREEK CAPITAL LETTER OMICRON WITH PSILI
+1F49	needsfix_greekcapitalletteromicronwithdasia	GREEK CAPITAL LETTER OMICRON WITH DASIA
+1F4A	needsfix_greekcapitalletteromicronwithpsiliandvaria	GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA
+1F4B	needsfix_greekcapitalletteromicronwithdasiaandvaria	GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA
+1F4C	needsfix_greekcapitalletteromicronwithpsiliandoxia	GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA
+1F4D	needsfix_greekcapitalletteromicronwithdasiaandoxia	GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA
+1F50	needsfix_greeksmallletterupsilonwithpsili	GREEK SMALL LETTER UPSILON WITH PSILI
+1F51	needsfix_greeksmallletterupsilonwithdasia	GREEK SMALL LETTER UPSILON WITH DASIA
+1F52	needsfix_greeksmallletterupsilonwithpsiliandvaria	GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA
+1F53	needsfix_greeksmallletterupsilonwithdasiaandvaria	GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA
+1F54	needsfix_greeksmallletterupsilonwithpsiliandoxia	GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
+1F55	needsfix_greeksmallletterupsilonwithdasiaandoxia	GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA
+1F56	needsfix_greeksmallletterupsilonwithpsiliandperispomeni	GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI
+1F57	needsfix_greeksmallletterupsilonwithdasiaandperispomeni	GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI
+1F59	needsfix_greekcapitalletterupsilonwithdasia	GREEK CAPITAL LETTER UPSILON WITH DASIA
+1F5B	needsfix_greekcapitalletterupsilonwithdasiaandvaria	GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA
+1F5D	needsfix_greekcapitalletterupsilonwithdasiaandoxia	GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA
+1F5F	needsfix_greekcapitalletterupsilonwithdasiaandperispomeni	GREEK CAPITAL LETTER UPSILON WITH DASIA AND PERISPOMENI
+1F60	needsfix_greeksmallletteromegawithpsili	GREEK SMALL LETTER OMEGA WITH PSILI
+1F61	needsfix_greeksmallletteromegawithdasia	GREEK SMALL LETTER OMEGA WITH DASIA
+1F62	needsfix_greeksmallletteromegawithpsiliandvaria	GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA
+1F63	needsfix_greeksmallletteromegawithdasiaandvaria	GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA
+1F64	needsfix_greeksmallletteromegawithpsiliandoxia	GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA
+1F65	needsfix_greeksmallletteromegawithdasiaandoxia	GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA
+1F66	needsfix_greeksmallletteromegawithpsiliandperispomeni	GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI
+1F67	needsfix_greeksmallletteromegawithdasiaandperispomeni	GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI
+1F68	needsfix_greekcapitalletteromegawithpsili	GREEK CAPITAL LETTER OMEGA WITH PSILI
+1F69	needsfix_greekcapitalletteromegawithdasia	GREEK CAPITAL LETTER OMEGA WITH DASIA
+1F6A	needsfix_greekcapitalletteromegawithpsiliandvaria	GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA
+1F6B	needsfix_greekcapitalletteromegawithdasiaandvaria	GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA
+1F6C	needsfix_greekcapitalletteromegawithpsiliandoxia	GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA
+1F6D	needsfix_greekcapitalletteromegawithdasiaandoxia	GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA
+1F6E	needsfix_greekcapitalletteromegawithpsiliandperispomeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI
+1F6F	needsfix_greekcapitalletteromegawithdasiaandperispomeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI
+1F70	needsfix_greeksmallletteralphawithvaria	GREEK SMALL LETTER ALPHA WITH VARIA
+1F71	needsfix_greeksmallletteralphawithoxia	GREEK SMALL LETTER ALPHA WITH OXIA
+1F72	needsfix_greeksmallletterepsilonwithvaria	GREEK SMALL LETTER EPSILON WITH VARIA
+1F73	needsfix_greeksmallletterepsilonwithoxia	GREEK SMALL LETTER EPSILON WITH OXIA
+1F74	needsfix_greeksmallletteretawithvaria	GREEK SMALL LETTER ETA WITH VARIA
+1F75	needsfix_greeksmallletteretawithoxia	GREEK SMALL LETTER ETA WITH OXIA
+1F76	needsfix_greeksmallletteriotawithvaria	GREEK SMALL LETTER IOTA WITH VARIA
+1F77	needsfix_greeksmallletteriotawithoxia	GREEK SMALL LETTER IOTA WITH OXIA
+1F78	needsfix_greeksmallletteromicronwithvaria	GREEK SMALL LETTER OMICRON WITH VARIA
+1F79	needsfix_greeksmallletteromicronwithoxia	GREEK SMALL LETTER OMICRON WITH OXIA
+1F7A	needsfix_greeksmallletterupsilonwithvaria	GREEK SMALL LETTER UPSILON WITH VARIA
+1F7B	needsfix_greeksmallletterupsilonwithoxia	GREEK SMALL LETTER UPSILON WITH OXIA
+1F7C	needsfix_greeksmallletteromegawithvaria	GREEK SMALL LETTER OMEGA WITH VARIA
+1F7D	needsfix_greeksmallletteromegawithoxia	GREEK SMALL LETTER OMEGA WITH OXIA
+1F80	needsfix_greeksmallletteralphawithpsiliandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI
+1F81	needsfix_greeksmallletteralphawithdasiaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI
+1F82	needsfix_greeksmallletteralphawithpsiliandvariaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+1F83	needsfix_greeksmallletteralphawithdasiaandvariaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+1F84	needsfix_greeksmallletteralphawithpsiliandoxiaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+1F85	needsfix_greeksmallletteralphawithdasiaandoxiaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+1F86	needsfix_greeksmallletteralphawithpsiliandperispomeniandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+1F87	needsfix_greeksmallletteralphawithdasiaandperispomeniandypogegrammeni	GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+1F88	needsfix_greekcapitalletteralphawithpsiliandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI
+1F89	needsfix_greekcapitalletteralphawithdasiaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI
+1F8A	needsfix_greekcapitalletteralphawithpsiliandvariaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+1F8B	needsfix_greekcapitalletteralphawithdasiaandvariaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+1F8C	needsfix_greekcapitalletteralphawithpsiliandoxiaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+1F8D	needsfix_greekcapitalletteralphawithdasiaandoxiaandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+1F8E	needsfix_greekcapitalletteralphawithpsiliandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+1F8F	needsfix_greekcapitalletteralphawithdasiaandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+1F90	needsfix_greeksmallletteretawithpsiliandypogegrammeni	GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI
+1F91	needsfix_greeksmallletteretawithdasiaandypogegrammeni	GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI
+1F92	needsfix_greeksmallletteretawithpsiliandvariaandypogegrammeni	GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+1F93	needsfix_greeksmallletteretawithdasiaandvariaandypogegrammeni	GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+1F94	needsfix_greeksmallletteretawithpsiliandoxiaandypogegrammeni	GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+1F95	needsfix_greeksmallletteretawithdasiaandoxiaandypogegrammeni	GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+1F96	needsfix_greeksmallletteretawithpsiliandperispomeniandypogegrammeni	GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+1F97	needsfix_greeksmallletteretawithdasiaandperispomeniandypogegrammeni	GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+1F98	needsfix_greekcapitalletteretawithpsiliandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI
+1F99	needsfix_greekcapitalletteretawithdasiaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI
+1F9A	needsfix_greekcapitalletteretawithpsiliandvariaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+1F9B	needsfix_greekcapitalletteretawithdasiaandvariaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+1F9C	needsfix_greekcapitalletteretawithpsiliandoxiaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+1F9D	needsfix_greekcapitalletteretawithdasiaandoxiaandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+1F9E	needsfix_greekcapitalletteretawithpsiliandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+1F9F	needsfix_greekcapitalletteretawithdasiaandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+1FA0	needsfix_greeksmallletteromegawithpsiliandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI
+1FA1	needsfix_greeksmallletteromegawithdasiaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI
+1FA2	needsfix_greeksmallletteromegawithpsiliandvariaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+1FA3	needsfix_greeksmallletteromegawithdasiaandvariaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+1FA4	needsfix_greeksmallletteromegawithpsiliandoxiaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+1FA5	needsfix_greeksmallletteromegawithdasiaandoxiaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+1FA6	needsfix_greeksmallletteromegawithpsiliandperispomeniandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+1FA7	needsfix_greeksmallletteromegawithdasiaandperispomeniandypogegrammeni	GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+1FA8	needsfix_greekcapitalletteromegawithpsiliandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI
+1FA9	needsfix_greekcapitalletteromegawithdasiaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI
+1FAA	needsfix_greekcapitalletteromegawithpsiliandvariaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+1FAB	needsfix_greekcapitalletteromegawithdasiaandvariaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+1FAC	needsfix_greekcapitalletteromegawithpsiliandoxiaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+1FAD	needsfix_greekcapitalletteromegawithdasiaandoxiaandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+1FAE	needsfix_greekcapitalletteromegawithpsiliandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+1FAF	needsfix_greekcapitalletteromegawithdasiaandperispomeniandprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+1FB0	needsfix_greeksmallletteralphawithvrachy	GREEK SMALL LETTER ALPHA WITH VRACHY
+1FB1	needsfix_greeksmallletteralphawithmacron	GREEK SMALL LETTER ALPHA WITH MACRON
+1FB2	needsfix_greeksmallletteralphawithvariaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI
+1FB3	needsfix_greeksmallletteralphawithypogegrammeni	GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI
+1FB4	needsfix_greeksmallletteralphawithoxiaandypogegrammeni	GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI
+1FB6	needsfix_greeksmallletteralphawithperispomeni	GREEK SMALL LETTER ALPHA WITH PERISPOMENI
+1FB7	needsfix_greeksmallletteralphawithperispomeniandypogegrammeni	GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI
+1FB8	needsfix_greekcapitalletteralphawithvrachy	GREEK CAPITAL LETTER ALPHA WITH VRACHY
+1FB9	needsfix_greekcapitalletteralphawithmacron	GREEK CAPITAL LETTER ALPHA WITH MACRON
+1FBA	needsfix_greekcapitalletteralphawithvaria	GREEK CAPITAL LETTER ALPHA WITH VARIA
+1FBB	needsfix_greekcapitalletteralphawithoxia	GREEK CAPITAL LETTER ALPHA WITH OXIA
+1FBC	needsfix_greekcapitalletteralphawithprosgegrammeni	GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI
+1FBD	needsfix_greekkoronis	GREEK KORONIS
+1FBE	needsfix_greekprosgegrammeni	GREEK PROSGEGRAMMENI
+1FBF	needsfix_greekpsili	GREEK PSILI
+1FC0	needsfix_greekperispomeni	GREEK PERISPOMENI
+1FC1	needsfix_greekdialytikaandperispomeni	GREEK DIALYTIKA AND PERISPOMENI
+1FC2	needsfix_greeksmallletteretawithvariaandypogegrammeni	GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI
+1FC3	needsfix_greeksmallletteretawithypogegrammeni	GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI
+1FC4	needsfix_greeksmallletteretawithoxiaandypogegrammeni	GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI
+1FC6	needsfix_greeksmallletteretawithperispomeni	GREEK SMALL LETTER ETA WITH PERISPOMENI
+1FC7	needsfix_greeksmallletteretawithperispomeniandypogegrammeni	GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI
+1FC8	needsfix_greekcapitalletterepsilonwithvaria	GREEK CAPITAL LETTER EPSILON WITH VARIA
+1FC9	needsfix_greekcapitalletterepsilonwithoxia	GREEK CAPITAL LETTER EPSILON WITH OXIA
+1FCA	needsfix_greekcapitalletteretawithvaria	GREEK CAPITAL LETTER ETA WITH VARIA
+1FCB	needsfix_greekcapitalletteretawithoxia	GREEK CAPITAL LETTER ETA WITH OXIA
+1FCC	needsfix_greekcapitalletteretawithprosgegrammeni	GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI
+1FCD	needsfix_greekpsiliandvaria	GREEK PSILI AND VARIA
+1FCE	needsfix_greekpsiliandoxia	GREEK PSILI AND OXIA
+1FCF	needsfix_greekpsiliandperispomeni	GREEK PSILI AND PERISPOMENI
+1FD0	needsfix_greeksmallletteriotawithvrachy	GREEK SMALL LETTER IOTA WITH VRACHY
+1FD1	needsfix_greeksmallletteriotawithmacron	GREEK SMALL LETTER IOTA WITH MACRON
+1FD2	needsfix_greeksmallletteriotawithdialytikaandvaria	GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA
+1FD3	needsfix_greeksmallletteriotawithdialytikaandoxia	GREEK SMALL LETTER IOTA WITH DIALYTIKA AND OXIA
+1FD6	needsfix_greeksmallletteriotawithperispomeni	GREEK SMALL LETTER IOTA WITH PERISPOMENI
+1FD7	needsfix_greeksmallletteriotawithdialytikaandperispomeni	GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
+1FD8	needsfix_greekcapitalletteriotawithvrachy	GREEK CAPITAL LETTER IOTA WITH VRACHY
+1FD9	needsfix_greekcapitalletteriotawithmacron	GREEK CAPITAL LETTER IOTA WITH MACRON
+1FDA	needsfix_greekcapitalletteriotawithvaria	GREEK CAPITAL LETTER IOTA WITH VARIA
+1FDB	needsfix_greekcapitalletteriotawithoxia	GREEK CAPITAL LETTER IOTA WITH OXIA
+1FDD	needsfix_greekdasiaandvaria	GREEK DASIA AND VARIA
+1FDE	needsfix_greekdasiaandoxia	GREEK DASIA AND OXIA
+1FDF	needsfix_greekdasiaandperispomeni	GREEK DASIA AND PERISPOMENI
+1FE0	needsfix_greeksmallletterupsilonwithvrachy	GREEK SMALL LETTER UPSILON WITH VRACHY
+1FE1	needsfix_greeksmallletterupsilonwithmacron	GREEK SMALL LETTER UPSILON WITH MACRON
+1FE2	needsfix_greeksmallletterupsilonwithdialytikaandvaria	GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA
+1FE3	needsfix_greeksmallletterupsilonwithdialytikaandoxia	GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND OXIA
+1FE4	needsfix_greeksmallletterrhowithpsili	GREEK SMALL LETTER RHO WITH PSILI
+1FE5	needsfix_greeksmallletterrhowithdasia	GREEK SMALL LETTER RHO WITH DASIA
+1FE6	needsfix_greeksmallletterupsilonwithperispomeni	GREEK SMALL LETTER UPSILON WITH PERISPOMENI
+1FE7	needsfix_greeksmallletterupsilonwithdialytikaandperispomeni	GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
+1FE8	needsfix_greekcapitalletterupsilonwithvrachy	GREEK CAPITAL LETTER UPSILON WITH VRACHY
+1FE9	needsfix_greekcapitalletterupsilonwithmacron	GREEK CAPITAL LETTER UPSILON WITH MACRON
+1FEA	needsfix_greekcapitalletterupsilonwithvaria	GREEK CAPITAL LETTER UPSILON WITH VARIA
+1FEB	needsfix_greekcapitalletterupsilonwithoxia	GREEK CAPITAL LETTER UPSILON WITH OXIA
+1FEC	needsfix_greekcapitalletterrhowithdasia	GREEK CAPITAL LETTER RHO WITH DASIA
+1FED	needsfix_greekdialytikaandvaria	GREEK DIALYTIKA AND VARIA
+1FEE	needsfix_greekdialytikaandoxia	GREEK DIALYTIKA AND OXIA
+1FEF	needsfix_greekvaria	GREEK VARIA
+1FF2	needsfix_greeksmallletteromegawithvariaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI
+1FF3	needsfix_greeksmallletteromegawithypogegrammeni	GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI
+1FF4	needsfix_greeksmallletteromegawithoxiaandypogegrammeni	GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI
+1FF6	needsfix_greeksmallletteromegawithperispomeni	GREEK SMALL LETTER OMEGA WITH PERISPOMENI
+1FF7	needsfix_greeksmallletteromegawithperispomeniandypogegrammeni	GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI
+1FF8	needsfix_greekcapitalletteromicronwithvaria	GREEK CAPITAL LETTER OMICRON WITH VARIA
+1FF9	needsfix_greekcapitalletteromicronwithoxia	GREEK CAPITAL LETTER OMICRON WITH OXIA
+1FFA	needsfix_greekcapitalletteromegawithvaria	GREEK CAPITAL LETTER OMEGA WITH VARIA
+1FFB	needsfix_greekcapitalletteromegawithoxia	GREEK CAPITAL LETTER OMEGA WITH OXIA
+1FFC	needsfix_greekcapitalletteromegawithprosgegrammeni	GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI
+1FFD	needsfix_greekoxia	GREEK OXIA
+1FFE	needsfix_greekdasia	GREEK DASIA

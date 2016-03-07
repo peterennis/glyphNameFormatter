@@ -1,67 +1,67 @@
 # Limbu 1900 - 194F
-1900	needsfix__limbuvowelcarrierletter	LIMBU VOWEL-CARRIER LETTER
-1901	needsfix__limbuletterka	LIMBU LETTER KA
-1902	needsfix__limbuletterkha	LIMBU LETTER KHA
-1903	needsfix__limbuletterga	LIMBU LETTER GA
-1904	needsfix__limbulettergha	LIMBU LETTER GHA
-1905	needsfix__limbuletternga	LIMBU LETTER NGA
-1906	needsfix__limbuletterca	LIMBU LETTER CA
-1907	needsfix__limbulettercha	LIMBU LETTER CHA
-1908	needsfix__limbuletterja	LIMBU LETTER JA
-1909	needsfix__limbuletterjha	LIMBU LETTER JHA
-190A	needsfix__limbuletteryan	LIMBU LETTER YAN
-190B	needsfix__limbuletterta	LIMBU LETTER TA
-190C	needsfix__limbulettertha	LIMBU LETTER THA
-190D	needsfix__limbuletterda	LIMBU LETTER DA
-190E	needsfix__limbuletterdha	LIMBU LETTER DHA
-190F	needsfix__limbuletterna	LIMBU LETTER NA
-1910	needsfix__limbuletterpa	LIMBU LETTER PA
-1911	needsfix__limbuletterpha	LIMBU LETTER PHA
-1912	needsfix__limbuletterba	LIMBU LETTER BA
-1913	needsfix__limbuletterbha	LIMBU LETTER BHA
-1914	needsfix__limbuletterma	LIMBU LETTER MA
-1915	needsfix__limbuletterya	LIMBU LETTER YA
-1916	needsfix__limbuletterra	LIMBU LETTER RA
-1917	needsfix__limbuletterla	LIMBU LETTER LA
-1918	needsfix__limbuletterwa	LIMBU LETTER WA
-1919	needsfix__limbulettersha	LIMBU LETTER SHA
-191A	needsfix__limbuletterssa	LIMBU LETTER SSA
-191B	needsfix__limbulettersa	LIMBU LETTER SA
-191C	needsfix__limbuletterha	LIMBU LETTER HA
-1920	needsfix__limbuvowelsigna	LIMBU VOWEL SIGN A
-1921	needsfix__limbuvowelsigni	LIMBU VOWEL SIGN I
-1922	needsfix__limbuvowelsignu	LIMBU VOWEL SIGN U
-1923	needsfix__limbuvowelsignee	LIMBU VOWEL SIGN EE
-1924	needsfix__limbuvowelsignai	LIMBU VOWEL SIGN AI
-1925	needsfix__limbuvowelsignoo	LIMBU VOWEL SIGN OO
-1926	needsfix__limbuvowelsignau	LIMBU VOWEL SIGN AU
-1927	needsfix__limbuvowelsigne	LIMBU VOWEL SIGN E
-1928	needsfix__limbuvowelsigno	LIMBU VOWEL SIGN O
-1929	needsfix__limbusubjoinedletterya	LIMBU SUBJOINED LETTER YA
-192A	needsfix__limbusubjoinedletterra	LIMBU SUBJOINED LETTER RA
-192B	needsfix__limbusubjoinedletterwa	LIMBU SUBJOINED LETTER WA
-1930	needsfix__limbusmallletterka	LIMBU SMALL LETTER KA
-1931	needsfix__limbusmallletternga	LIMBU SMALL LETTER NGA
-1932	needsfix__limbusmallletteranusvara	LIMBU SMALL LETTER ANUSVARA
-1933	needsfix__limbusmallletterta	LIMBU SMALL LETTER TA
-1934	needsfix__limbusmallletterna	LIMBU SMALL LETTER NA
-1935	needsfix__limbusmallletterpa	LIMBU SMALL LETTER PA
-1936	needsfix__limbusmallletterma	LIMBU SMALL LETTER MA
-1937	needsfix__limbusmallletterra	LIMBU SMALL LETTER RA
-1938	needsfix__limbusmallletterla	LIMBU SMALL LETTER LA
-1939	needsfix__limbusignmukphreng	LIMBU SIGN MUKPHRENG
-193A	needsfix__limbusignkemphreng	LIMBU SIGN KEMPHRENG
-193B	needsfix__limbusignsai	LIMBU SIGN SA-I
-1940	needsfix__limbusignloo	LIMBU SIGN LOO
-1944	needsfix__limbuexclamationmark	LIMBU EXCLAMATION MARK
-1945	needsfix__limbuquestionmark	LIMBU QUESTION MARK
-1946	needsfix__limbudigitzero	LIMBU DIGIT ZERO
-1947	needsfix__limbudigitone	LIMBU DIGIT ONE
-1948	needsfix__limbudigittwo	LIMBU DIGIT TWO
-1949	needsfix__limbudigitthree	LIMBU DIGIT THREE
-194A	needsfix__limbudigitfour	LIMBU DIGIT FOUR
-194B	needsfix__limbudigitfive	LIMBU DIGIT FIVE
-194C	needsfix__limbudigitsix	LIMBU DIGIT SIX
-194D	needsfix__limbudigitseven	LIMBU DIGIT SEVEN
-194E	needsfix__limbudigiteight	LIMBU DIGIT EIGHT
-194F	needsfix__limbudigitnine	LIMBU DIGIT NINE
+1900	needsfix_limbuvowelcarrierletter	LIMBU VOWEL-CARRIER LETTER
+1901	needsfix_limbuletterka	LIMBU LETTER KA
+1902	needsfix_limbuletterkha	LIMBU LETTER KHA
+1903	needsfix_limbuletterga	LIMBU LETTER GA
+1904	needsfix_limbulettergha	LIMBU LETTER GHA
+1905	needsfix_limbuletternga	LIMBU LETTER NGA
+1906	needsfix_limbuletterca	LIMBU LETTER CA
+1907	needsfix_limbulettercha	LIMBU LETTER CHA
+1908	needsfix_limbuletterja	LIMBU LETTER JA
+1909	needsfix_limbuletterjha	LIMBU LETTER JHA
+190A	needsfix_limbuletteryan	LIMBU LETTER YAN
+190B	needsfix_limbuletterta	LIMBU LETTER TA
+190C	needsfix_limbulettertha	LIMBU LETTER THA
+190D	needsfix_limbuletterda	LIMBU LETTER DA
+190E	needsfix_limbuletterdha	LIMBU LETTER DHA
+190F	needsfix_limbuletterna	LIMBU LETTER NA
+1910	needsfix_limbuletterpa	LIMBU LETTER PA
+1911	needsfix_limbuletterpha	LIMBU LETTER PHA
+1912	needsfix_limbuletterba	LIMBU LETTER BA
+1913	needsfix_limbuletterbha	LIMBU LETTER BHA
+1914	needsfix_limbuletterma	LIMBU LETTER MA
+1915	needsfix_limbuletterya	LIMBU LETTER YA
+1916	needsfix_limbuletterra	LIMBU LETTER RA
+1917	needsfix_limbuletterla	LIMBU LETTER LA
+1918	needsfix_limbuletterwa	LIMBU LETTER WA
+1919	needsfix_limbulettersha	LIMBU LETTER SHA
+191A	needsfix_limbuletterssa	LIMBU LETTER SSA
+191B	needsfix_limbulettersa	LIMBU LETTER SA
+191C	needsfix_limbuletterha	LIMBU LETTER HA
+1920	needsfix_limbuvowelsigna	LIMBU VOWEL SIGN A
+1921	needsfix_limbuvowelsigni	LIMBU VOWEL SIGN I
+1922	needsfix_limbuvowelsignu	LIMBU VOWEL SIGN U
+1923	needsfix_limbuvowelsignee	LIMBU VOWEL SIGN EE
+1924	needsfix_limbuvowelsignai	LIMBU VOWEL SIGN AI
+1925	needsfix_limbuvowelsignoo	LIMBU VOWEL SIGN OO
+1926	needsfix_limbuvowelsignau	LIMBU VOWEL SIGN AU
+1927	needsfix_limbuvowelsigne	LIMBU VOWEL SIGN E
+1928	needsfix_limbuvowelsigno	LIMBU VOWEL SIGN O
+1929	needsfix_limbusubjoinedletterya	LIMBU SUBJOINED LETTER YA
+192A	needsfix_limbusubjoinedletterra	LIMBU SUBJOINED LETTER RA
+192B	needsfix_limbusubjoinedletterwa	LIMBU SUBJOINED LETTER WA
+1930	needsfix_limbusmallletterka	LIMBU SMALL LETTER KA
+1931	needsfix_limbusmallletternga	LIMBU SMALL LETTER NGA
+1932	needsfix_limbusmallletteranusvara	LIMBU SMALL LETTER ANUSVARA
+1933	needsfix_limbusmallletterta	LIMBU SMALL LETTER TA
+1934	needsfix_limbusmallletterna	LIMBU SMALL LETTER NA
+1935	needsfix_limbusmallletterpa	LIMBU SMALL LETTER PA
+1936	needsfix_limbusmallletterma	LIMBU SMALL LETTER MA
+1937	needsfix_limbusmallletterra	LIMBU SMALL LETTER RA
+1938	needsfix_limbusmallletterla	LIMBU SMALL LETTER LA
+1939	needsfix_limbusignmukphreng	LIMBU SIGN MUKPHRENG
+193A	needsfix_limbusignkemphreng	LIMBU SIGN KEMPHRENG
+193B	needsfix_limbusignsai	LIMBU SIGN SA-I
+1940	needsfix_limbusignloo	LIMBU SIGN LOO
+1944	needsfix_limbuexclamationmark	LIMBU EXCLAMATION MARK
+1945	needsfix_limbuquestionmark	LIMBU QUESTION MARK
+1946	needsfix_limbudigitzero	LIMBU DIGIT ZERO
+1947	needsfix_limbudigitone	LIMBU DIGIT ONE
+1948	needsfix_limbudigittwo	LIMBU DIGIT TWO
+1949	needsfix_limbudigitthree	LIMBU DIGIT THREE
+194A	needsfix_limbudigitfour	LIMBU DIGIT FOUR
+194B	needsfix_limbudigitfive	LIMBU DIGIT FIVE
+194C	needsfix_limbudigitsix	LIMBU DIGIT SIX
+194D	needsfix_limbudigitseven	LIMBU DIGIT SEVEN
+194E	needsfix_limbudigiteight	LIMBU DIGIT EIGHT
+194F	needsfix_limbudigitnine	LIMBU DIGIT NINE

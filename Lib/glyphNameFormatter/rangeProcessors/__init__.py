@@ -2,7 +2,6 @@
 # default, final, catchall handler
 
 def process(self):
-    print "default processor"
     self.condense(self.uniName)
-    self.uniNameProcessed = "needsfix__" + self.uniNameProcessed
+    self.uniNameProcessed = "needsfix_" + self.uniNameProcessed
     return False

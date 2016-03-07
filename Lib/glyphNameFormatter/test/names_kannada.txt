@@ -1,87 +1,87 @@
 # Kannada 0C80 - 0CFF
-0C82	needsfix__kannadasignanusvara	KANNADA SIGN ANUSVARA
-0C83	needsfix__kannadasignvisarga	KANNADA SIGN VISARGA
-0C85	needsfix__kannadalettera	KANNADA LETTER A
-0C86	needsfix__kannadaletteraa	KANNADA LETTER AA
-0C87	needsfix__kannadaletteri	KANNADA LETTER I
-0C88	needsfix__kannadaletterii	KANNADA LETTER II
-0C89	needsfix__kannadaletteru	KANNADA LETTER U
-0C8A	needsfix__kannadaletteruu	KANNADA LETTER UU
-0C8B	needsfix__kannadalettervocalicr	KANNADA LETTER VOCALIC R
-0C8C	needsfix__kannadalettervocalicl	KANNADA LETTER VOCALIC L
-0C8E	needsfix__kannadalettere	KANNADA LETTER E
-0C8F	needsfix__kannadaletteree	KANNADA LETTER EE
-0C90	needsfix__kannadaletterai	KANNADA LETTER AI
-0C92	needsfix__kannadalettero	KANNADA LETTER O
-0C93	needsfix__kannadaletteroo	KANNADA LETTER OO
-0C94	needsfix__kannadaletterau	KANNADA LETTER AU
-0C95	needsfix__kannadaletterka	KANNADA LETTER KA
-0C96	needsfix__kannadaletterkha	KANNADA LETTER KHA
-0C97	needsfix__kannadaletterga	KANNADA LETTER GA
-0C98	needsfix__kannadalettergha	KANNADA LETTER GHA
-0C99	needsfix__kannadaletternga	KANNADA LETTER NGA
-0C9A	needsfix__kannadaletterca	KANNADA LETTER CA
-0C9B	needsfix__kannadalettercha	KANNADA LETTER CHA
-0C9C	needsfix__kannadaletterja	KANNADA LETTER JA
-0C9D	needsfix__kannadaletterjha	KANNADA LETTER JHA
-0C9E	needsfix__kannadaletternya	KANNADA LETTER NYA
-0C9F	needsfix__kannadalettertta	KANNADA LETTER TTA
-0CA0	needsfix__kannadaletterttha	KANNADA LETTER TTHA
-0CA1	needsfix__kannadaletterdda	KANNADA LETTER DDA
-0CA2	needsfix__kannadaletterddha	KANNADA LETTER DDHA
-0CA3	needsfix__kannadaletternna	KANNADA LETTER NNA
-0CA4	needsfix__kannadaletterta	KANNADA LETTER TA
-0CA5	needsfix__kannadalettertha	KANNADA LETTER THA
-0CA6	needsfix__kannadaletterda	KANNADA LETTER DA
-0CA7	needsfix__kannadaletterdha	KANNADA LETTER DHA
-0CA8	needsfix__kannadaletterna	KANNADA LETTER NA
-0CAA	needsfix__kannadaletterpa	KANNADA LETTER PA
-0CAB	needsfix__kannadaletterpha	KANNADA LETTER PHA
-0CAC	needsfix__kannadaletterba	KANNADA LETTER BA
-0CAD	needsfix__kannadaletterbha	KANNADA LETTER BHA
-0CAE	needsfix__kannadaletterma	KANNADA LETTER MA
-0CAF	needsfix__kannadaletterya	KANNADA LETTER YA
-0CB0	needsfix__kannadaletterra	KANNADA LETTER RA
-0CB1	needsfix__kannadaletterrra	KANNADA LETTER RRA
-0CB2	needsfix__kannadaletterla	KANNADA LETTER LA
-0CB3	needsfix__kannadaletterlla	KANNADA LETTER LLA
-0CB5	needsfix__kannadaletterva	KANNADA LETTER VA
-0CB6	needsfix__kannadalettersha	KANNADA LETTER SHA
-0CB7	needsfix__kannadaletterssa	KANNADA LETTER SSA
-0CB8	needsfix__kannadalettersa	KANNADA LETTER SA
-0CB9	needsfix__kannadaletterha	KANNADA LETTER HA
-0CBC	needsfix__kannadasignnukta	KANNADA SIGN NUKTA
-0CBD	needsfix__kannadasignavagraha	KANNADA SIGN AVAGRAHA
-0CBE	needsfix__kannadavowelsignaa	KANNADA VOWEL SIGN AA
-0CBF	needsfix__kannadavowelsigni	KANNADA VOWEL SIGN I
-0CC0	needsfix__kannadavowelsignii	KANNADA VOWEL SIGN II
-0CC1	needsfix__kannadavowelsignu	KANNADA VOWEL SIGN U
-0CC2	needsfix__kannadavowelsignuu	KANNADA VOWEL SIGN UU
-0CC3	needsfix__kannadavowelsignvocalicr	KANNADA VOWEL SIGN VOCALIC R
-0CC4	needsfix__kannadavowelsignvocalicrr	KANNADA VOWEL SIGN VOCALIC RR
-0CC6	needsfix__kannadavowelsigne	KANNADA VOWEL SIGN E
-0CC7	needsfix__kannadavowelsignee	KANNADA VOWEL SIGN EE
-0CC8	needsfix__kannadavowelsignai	KANNADA VOWEL SIGN AI
-0CCA	needsfix__kannadavowelsigno	KANNADA VOWEL SIGN O
-0CCB	needsfix__kannadavowelsignoo	KANNADA VOWEL SIGN OO
-0CCC	needsfix__kannadavowelsignau	KANNADA VOWEL SIGN AU
-0CCD	needsfix__kannadasignvirama	KANNADA SIGN VIRAMA
-0CD5	needsfix__kannadalengthmark	KANNADA LENGTH MARK
-0CD6	needsfix__kannadaailengthmark	KANNADA AI LENGTH MARK
-0CDE	needsfix__kannadaletterfa	KANNADA LETTER FA
-0CE0	needsfix__kannadalettervocalicrr	KANNADA LETTER VOCALIC RR
-0CE1	needsfix__kannadalettervocalicll	KANNADA LETTER VOCALIC LL
-0CE2	needsfix__kannadavowelsignvocalicl	KANNADA VOWEL SIGN VOCALIC L
-0CE3	needsfix__kannadavowelsignvocalicll	KANNADA VOWEL SIGN VOCALIC LL
-0CE6	needsfix__kannadadigitzero	KANNADA DIGIT ZERO
-0CE7	needsfix__kannadadigitone	KANNADA DIGIT ONE
-0CE8	needsfix__kannadadigittwo	KANNADA DIGIT TWO
-0CE9	needsfix__kannadadigitthree	KANNADA DIGIT THREE
-0CEA	needsfix__kannadadigitfour	KANNADA DIGIT FOUR
-0CEB	needsfix__kannadadigitfive	KANNADA DIGIT FIVE
-0CEC	needsfix__kannadadigitsix	KANNADA DIGIT SIX
-0CED	needsfix__kannadadigitseven	KANNADA DIGIT SEVEN
-0CEE	needsfix__kannadadigiteight	KANNADA DIGIT EIGHT
-0CEF	needsfix__kannadadigitnine	KANNADA DIGIT NINE
-0CF1	needsfix__kannadasignjihvamuliya	KANNADA SIGN JIHVAMULIYA
-0CF2	needsfix__kannadasignupadhmaniya	KANNADA SIGN UPADHMANIYA
+0C82	needsfix_kannadasignanusvara	KANNADA SIGN ANUSVARA
+0C83	needsfix_kannadasignvisarga	KANNADA SIGN VISARGA
+0C85	needsfix_kannadalettera	KANNADA LETTER A
+0C86	needsfix_kannadaletteraa	KANNADA LETTER AA
+0C87	needsfix_kannadaletteri	KANNADA LETTER I
+0C88	needsfix_kannadaletterii	KANNADA LETTER II
+0C89	needsfix_kannadaletteru	KANNADA LETTER U
+0C8A	needsfix_kannadaletteruu	KANNADA LETTER UU
+0C8B	needsfix_kannadalettervocalicr	KANNADA LETTER VOCALIC R
+0C8C	needsfix_kannadalettervocalicl	KANNADA LETTER VOCALIC L
+0C8E	needsfix_kannadalettere	KANNADA LETTER E
+0C8F	needsfix_kannadaletteree	KANNADA LETTER EE
+0C90	needsfix_kannadaletterai	KANNADA LETTER AI
+0C92	needsfix_kannadalettero	KANNADA LETTER O
+0C93	needsfix_kannadaletteroo	KANNADA LETTER OO
+0C94	needsfix_kannadaletterau	KANNADA LETTER AU
+0C95	needsfix_kannadaletterka	KANNADA LETTER KA
+0C96	needsfix_kannadaletterkha	KANNADA LETTER KHA
+0C97	needsfix_kannadaletterga	KANNADA LETTER GA
+0C98	needsfix_kannadalettergha	KANNADA LETTER GHA
+0C99	needsfix_kannadaletternga	KANNADA LETTER NGA
+0C9A	needsfix_kannadaletterca	KANNADA LETTER CA
+0C9B	needsfix_kannadalettercha	KANNADA LETTER CHA
+0C9C	needsfix_kannadaletterja	KANNADA LETTER JA
+0C9D	needsfix_kannadaletterjha	KANNADA LETTER JHA
+0C9E	needsfix_kannadaletternya	KANNADA LETTER NYA
+0C9F	needsfix_kannadalettertta	KANNADA LETTER TTA
+0CA0	needsfix_kannadaletterttha	KANNADA LETTER TTHA
+0CA1	needsfix_kannadaletterdda	KANNADA LETTER DDA
+0CA2	needsfix_kannadaletterddha	KANNADA LETTER DDHA
+0CA3	needsfix_kannadaletternna	KANNADA LETTER NNA
+0CA4	needsfix_kannadaletterta	KANNADA LETTER TA
+0CA5	needsfix_kannadalettertha	KANNADA LETTER THA
+0CA6	needsfix_kannadaletterda	KANNADA LETTER DA
+0CA7	needsfix_kannadaletterdha	KANNADA LETTER DHA
+0CA8	needsfix_kannadaletterna	KANNADA LETTER NA
+0CAA	needsfix_kannadaletterpa	KANNADA LETTER PA
+0CAB	needsfix_kannadaletterpha	KANNADA LETTER PHA
+0CAC	needsfix_kannadaletterba	KANNADA LETTER BA
+0CAD	needsfix_kannadaletterbha	KANNADA LETTER BHA
+0CAE	needsfix_kannadaletterma	KANNADA LETTER MA
+0CAF	needsfix_kannadaletterya	KANNADA LETTER YA
+0CB0	needsfix_kannadaletterra	KANNADA LETTER RA
+0CB1	needsfix_kannadaletterrra	KANNADA LETTER RRA
+0CB2	needsfix_kannadaletterla	KANNADA LETTER LA
+0CB3	needsfix_kannadaletterlla	KANNADA LETTER LLA
+0CB5	needsfix_kannadaletterva	KANNADA LETTER VA
+0CB6	needsfix_kannadalettersha	KANNADA LETTER SHA
+0CB7	needsfix_kannadaletterssa	KANNADA LETTER SSA
+0CB8	needsfix_kannadalettersa	KANNADA LETTER SA
+0CB9	needsfix_kannadaletterha	KANNADA LETTER HA
+0CBC	needsfix_kannadasignnukta	KANNADA SIGN NUKTA
+0CBD	needsfix_kannadasignavagraha	KANNADA SIGN AVAGRAHA
+0CBE	needsfix_kannadavowelsignaa	KANNADA VOWEL SIGN AA
+0CBF	needsfix_kannadavowelsigni	KANNADA VOWEL SIGN I
+0CC0	needsfix_kannadavowelsignii	KANNADA VOWEL SIGN II
+0CC1	needsfix_kannadavowelsignu	KANNADA VOWEL SIGN U
+0CC2	needsfix_kannadavowelsignuu	KANNADA VOWEL SIGN UU
+0CC3	needsfix_kannadavowelsignvocalicr	KANNADA VOWEL SIGN VOCALIC R
+0CC4	needsfix_kannadavowelsignvocalicrr	KANNADA VOWEL SIGN VOCALIC RR
+0CC6	needsfix_kannadavowelsigne	KANNADA VOWEL SIGN E
+0CC7	needsfix_kannadavowelsignee	KANNADA VOWEL SIGN EE
+0CC8	needsfix_kannadavowelsignai	KANNADA VOWEL SIGN AI
+0CCA	needsfix_kannadavowelsigno	KANNADA VOWEL SIGN O
+0CCB	needsfix_kannadavowelsignoo	KANNADA VOWEL SIGN OO
+0CCC	needsfix_kannadavowelsignau	KANNADA VOWEL SIGN AU
+0CCD	needsfix_kannadasignvirama	KANNADA SIGN VIRAMA
+0CD5	needsfix_kannadalengthmark	KANNADA LENGTH MARK
+0CD6	needsfix_kannadaailengthmark	KANNADA AI LENGTH MARK
+0CDE	needsfix_kannadaletterfa	KANNADA LETTER FA
+0CE0	needsfix_kannadalettervocalicrr	KANNADA LETTER VOCALIC RR
+0CE1	needsfix_kannadalettervocalicll	KANNADA LETTER VOCALIC LL
+0CE2	needsfix_kannadavowelsignvocalicl	KANNADA VOWEL SIGN VOCALIC L
+0CE3	needsfix_kannadavowelsignvocalicll	KANNADA VOWEL SIGN VOCALIC LL
+0CE6	needsfix_kannadadigitzero	KANNADA DIGIT ZERO
+0CE7	needsfix_kannadadigitone	KANNADA DIGIT ONE
+0CE8	needsfix_kannadadigittwo	KANNADA DIGIT TWO
+0CE9	needsfix_kannadadigitthree	KANNADA DIGIT THREE
+0CEA	needsfix_kannadadigitfour	KANNADA DIGIT FOUR
+0CEB	needsfix_kannadadigitfive	KANNADA DIGIT FIVE
+0CEC	needsfix_kannadadigitsix	KANNADA DIGIT SIX
+0CED	needsfix_kannadadigitseven	KANNADA DIGIT SEVEN
+0CEE	needsfix_kannadadigiteight	KANNADA DIGIT EIGHT
+0CEF	needsfix_kannadadigitnine	KANNADA DIGIT NINE
+0CF1	needsfix_kannadasignjihvamuliya	KANNADA SIGN JIHVAMULIYA
+0CF2	needsfix_kannadasignupadhmaniya	KANNADA SIGN UPADHMANIYA

@@ -46,7 +46,11 @@ class GlyphName(object):
         # look up all the external references we need.
         if self.uniNumber is None:
             return
-        self.uniLetter = unichr(self.uniNumber)
+        try:
+            self.uniLetter = unichr(self.uniNumber)
+        except ValueError:
+            print "GlyphName valueerror for %04X"%self.uniNumber
+            return
         try:
             self.uniName = unicodedata.name(self.uniLetter)
             self.uniNameProcessed = self.uniName

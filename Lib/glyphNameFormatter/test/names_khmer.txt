@@ -1,115 +1,115 @@
 # Khmer 1780 - 17FF
-1780	needsfix__khmerletterka	KHMER LETTER KA
-1781	needsfix__khmerletterkha	KHMER LETTER KHA
-1782	needsfix__khmerletterko	KHMER LETTER KO
-1783	needsfix__khmerletterkho	KHMER LETTER KHO
-1784	needsfix__khmerletterngo	KHMER LETTER NGO
-1785	needsfix__khmerletterca	KHMER LETTER CA
-1786	needsfix__khmerlettercha	KHMER LETTER CHA
-1787	needsfix__khmerletterco	KHMER LETTER CO
-1788	needsfix__khmerlettercho	KHMER LETTER CHO
-1789	needsfix__khmerletternyo	KHMER LETTER NYO
-178A	needsfix__khmerletterda	KHMER LETTER DA
-178B	needsfix__khmerletterttha	KHMER LETTER TTHA
-178C	needsfix__khmerletterdo	KHMER LETTER DO
-178D	needsfix__khmerletterttho	KHMER LETTER TTHO
-178E	needsfix__khmerletternno	KHMER LETTER NNO
-178F	needsfix__khmerletterta	KHMER LETTER TA
-1790	needsfix__khmerlettertha	KHMER LETTER THA
-1791	needsfix__khmerletterto	KHMER LETTER TO
-1792	needsfix__khmerlettertho	KHMER LETTER THO
-1793	needsfix__khmerletterno	KHMER LETTER NO
-1794	needsfix__khmerletterba	KHMER LETTER BA
-1795	needsfix__khmerletterpha	KHMER LETTER PHA
-1796	needsfix__khmerletterpo	KHMER LETTER PO
-1797	needsfix__khmerletterpho	KHMER LETTER PHO
-1798	needsfix__khmerlettermo	KHMER LETTER MO
-1799	needsfix__khmerletteryo	KHMER LETTER YO
-179A	needsfix__khmerletterro	KHMER LETTER RO
-179B	needsfix__khmerletterlo	KHMER LETTER LO
-179C	needsfix__khmerlettervo	KHMER LETTER VO
-179D	needsfix__khmerlettersha	KHMER LETTER SHA
-179E	needsfix__khmerlettersso	KHMER LETTER SSO
-179F	needsfix__khmerlettersa	KHMER LETTER SA
-17A0	needsfix__khmerletterha	KHMER LETTER HA
-17A1	needsfix__khmerletterla	KHMER LETTER LA
-17A2	needsfix__khmerletterqa	KHMER LETTER QA
-17A3	needsfix__khmerindependentvowelqaq	KHMER INDEPENDENT VOWEL QAQ
-17A4	needsfix__khmerindependentvowelqaa	KHMER INDEPENDENT VOWEL QAA
-17A5	needsfix__khmerindependentvowelqi	KHMER INDEPENDENT VOWEL QI
-17A6	needsfix__khmerindependentvowelqii	KHMER INDEPENDENT VOWEL QII
-17A7	needsfix__khmerindependentvowelqu	KHMER INDEPENDENT VOWEL QU
-17A8	needsfix__khmerindependentvowelquk	KHMER INDEPENDENT VOWEL QUK
-17A9	needsfix__khmerindependentvowelquu	KHMER INDEPENDENT VOWEL QUU
-17AA	needsfix__khmerindependentvowelquuv	KHMER INDEPENDENT VOWEL QUUV
-17AB	needsfix__khmerindependentvowelry	KHMER INDEPENDENT VOWEL RY
-17AC	needsfix__khmerindependentvowelryy	KHMER INDEPENDENT VOWEL RYY
-17AD	needsfix__khmerindependentvowelly	KHMER INDEPENDENT VOWEL LY
-17AE	needsfix__khmerindependentvowellyy	KHMER INDEPENDENT VOWEL LYY
-17AF	needsfix__khmerindependentvowelqe	KHMER INDEPENDENT VOWEL QE
-17B0	needsfix__khmerindependentvowelqai	KHMER INDEPENDENT VOWEL QAI
-17B1	needsfix__khmerindependentvowelqootypeone	KHMER INDEPENDENT VOWEL QOO TYPE ONE
-17B2	needsfix__khmerindependentvowelqootypetwo	KHMER INDEPENDENT VOWEL QOO TYPE TWO
-17B3	needsfix__khmerindependentvowelqau	KHMER INDEPENDENT VOWEL QAU
-17B4	needsfix__khmervowelinherentaq	KHMER VOWEL INHERENT AQ
-17B5	needsfix__khmervowelinherentaa	KHMER VOWEL INHERENT AA
-17B6	needsfix__khmervowelsignaa	KHMER VOWEL SIGN AA
-17B7	needsfix__khmervowelsigni	KHMER VOWEL SIGN I
-17B8	needsfix__khmervowelsignii	KHMER VOWEL SIGN II
-17B9	needsfix__khmervowelsigny	KHMER VOWEL SIGN Y
-17BA	needsfix__khmervowelsignyy	KHMER VOWEL SIGN YY
-17BB	needsfix__khmervowelsignu	KHMER VOWEL SIGN U
-17BC	needsfix__khmervowelsignuu	KHMER VOWEL SIGN UU
-17BD	needsfix__khmervowelsignua	KHMER VOWEL SIGN UA
-17BE	needsfix__khmervowelsignoe	KHMER VOWEL SIGN OE
-17BF	needsfix__khmervowelsignya	KHMER VOWEL SIGN YA
-17C0	needsfix__khmervowelsignie	KHMER VOWEL SIGN IE
-17C1	needsfix__khmervowelsigne	KHMER VOWEL SIGN E
-17C2	needsfix__khmervowelsignae	KHMER VOWEL SIGN AE
-17C3	needsfix__khmervowelsignai	KHMER VOWEL SIGN AI
-17C4	needsfix__khmervowelsignoo	KHMER VOWEL SIGN OO
-17C5	needsfix__khmervowelsignau	KHMER VOWEL SIGN AU
-17C6	needsfix__khmersignnikahit	KHMER SIGN NIKAHIT
-17C7	needsfix__khmersignreahmuk	KHMER SIGN REAHMUK
-17C8	needsfix__khmersignyuukaleapintu	KHMER SIGN YUUKALEAPINTU
-17C9	needsfix__khmersignmuusikatoan	KHMER SIGN MUUSIKATOAN
-17CA	needsfix__khmersigntriisap	KHMER SIGN TRIISAP
-17CB	needsfix__khmersignbantoc	KHMER SIGN BANTOC
-17CC	needsfix__khmersignrobat	KHMER SIGN ROBAT
-17CD	needsfix__khmersigntoandakhiat	KHMER SIGN TOANDAKHIAT
-17CE	needsfix__khmersignkakabat	KHMER SIGN KAKABAT
-17CF	needsfix__khmersignahsda	KHMER SIGN AHSDA
-17D0	needsfix__khmersignsamyoksannya	KHMER SIGN SAMYOK SANNYA
-17D1	needsfix__khmersignviriam	KHMER SIGN VIRIAM
-17D2	needsfix__khmersigncoeng	KHMER SIGN COENG
-17D3	needsfix__khmersignbathamasat	KHMER SIGN BATHAMASAT
-17D4	needsfix__khmersignkhan	KHMER SIGN KHAN
-17D5	needsfix__khmersignbariyoosan	KHMER SIGN BARIYOOSAN
-17D6	needsfix__khmersigncamnucpiikuuh	KHMER SIGN CAMNUC PII KUUH
-17D7	needsfix__khmersignlektoo	KHMER SIGN LEK TOO
-17D8	needsfix__khmersignbeyyal	KHMER SIGN BEYYAL
-17D9	needsfix__khmersignphnaekmuan	KHMER SIGN PHNAEK MUAN
-17DA	needsfix__khmersignkoomuut	KHMER SIGN KOOMUUT
-17DB	needsfix__khmercurrencysymbolriel	KHMER CURRENCY SYMBOL RIEL
-17DC	needsfix__khmersignavakrahasanya	KHMER SIGN AVAKRAHASANYA
-17DD	needsfix__khmersignatthacan	KHMER SIGN ATTHACAN
-17E0	needsfix__khmerdigitzero	KHMER DIGIT ZERO
-17E1	needsfix__khmerdigitone	KHMER DIGIT ONE
-17E2	needsfix__khmerdigittwo	KHMER DIGIT TWO
-17E3	needsfix__khmerdigitthree	KHMER DIGIT THREE
-17E4	needsfix__khmerdigitfour	KHMER DIGIT FOUR
-17E5	needsfix__khmerdigitfive	KHMER DIGIT FIVE
-17E6	needsfix__khmerdigitsix	KHMER DIGIT SIX
-17E7	needsfix__khmerdigitseven	KHMER DIGIT SEVEN
-17E8	needsfix__khmerdigiteight	KHMER DIGIT EIGHT
-17E9	needsfix__khmerdigitnine	KHMER DIGIT NINE
-17F0	needsfix__khmersymbollekattakson	KHMER SYMBOL LEK ATTAK SON
-17F1	needsfix__khmersymbollekattakmuoy	KHMER SYMBOL LEK ATTAK MUOY
-17F2	needsfix__khmersymbollekattakpii	KHMER SYMBOL LEK ATTAK PII
-17F3	needsfix__khmersymbollekattakbei	KHMER SYMBOL LEK ATTAK BEI
-17F4	needsfix__khmersymbollekattakbuon	KHMER SYMBOL LEK ATTAK BUON
-17F5	needsfix__khmersymbollekattakpram	KHMER SYMBOL LEK ATTAK PRAM
-17F6	needsfix__khmersymbollekattakprammuoy	KHMER SYMBOL LEK ATTAK PRAM-MUOY
-17F7	needsfix__khmersymbollekattakprampii	KHMER SYMBOL LEK ATTAK PRAM-PII
-17F8	needsfix__khmersymbollekattakprambei	KHMER SYMBOL LEK ATTAK PRAM-BEI
-17F9	needsfix__khmersymbollekattakprambuon	KHMER SYMBOL LEK ATTAK PRAM-BUON
+1780	needsfix_khmerletterka	KHMER LETTER KA
+1781	needsfix_khmerletterkha	KHMER LETTER KHA
+1782	needsfix_khmerletterko	KHMER LETTER KO
+1783	needsfix_khmerletterkho	KHMER LETTER KHO
+1784	needsfix_khmerletterngo	KHMER LETTER NGO
+1785	needsfix_khmerletterca	KHMER LETTER CA
+1786	needsfix_khmerlettercha	KHMER LETTER CHA
+1787	needsfix_khmerletterco	KHMER LETTER CO
+1788	needsfix_khmerlettercho	KHMER LETTER CHO
+1789	needsfix_khmerletternyo	KHMER LETTER NYO
+178A	needsfix_khmerletterda	KHMER LETTER DA
+178B	needsfix_khmerletterttha	KHMER LETTER TTHA
+178C	needsfix_khmerletterdo	KHMER LETTER DO
+178D	needsfix_khmerletterttho	KHMER LETTER TTHO
+178E	needsfix_khmerletternno	KHMER LETTER NNO
+178F	needsfix_khmerletterta	KHMER LETTER TA
+1790	needsfix_khmerlettertha	KHMER LETTER THA
+1791	needsfix_khmerletterto	KHMER LETTER TO
+1792	needsfix_khmerlettertho	KHMER LETTER THO
+1793	needsfix_khmerletterno	KHMER LETTER NO
+1794	needsfix_khmerletterba	KHMER LETTER BA
+1795	needsfix_khmerletterpha	KHMER LETTER PHA
+1796	needsfix_khmerletterpo	KHMER LETTER PO
+1797	needsfix_khmerletterpho	KHMER LETTER PHO
+1798	needsfix_khmerlettermo	KHMER LETTER MO
+1799	needsfix_khmerletteryo	KHMER LETTER YO
+179A	needsfix_khmerletterro	KHMER LETTER RO
+179B	needsfix_khmerletterlo	KHMER LETTER LO
+179C	needsfix_khmerlettervo	KHMER LETTER VO
+179D	needsfix_khmerlettersha	KHMER LETTER SHA
+179E	needsfix_khmerlettersso	KHMER LETTER SSO
+179F	needsfix_khmerlettersa	KHMER LETTER SA
+17A0	needsfix_khmerletterha	KHMER LETTER HA
+17A1	needsfix_khmerletterla	KHMER LETTER LA
+17A2	needsfix_khmerletterqa	KHMER LETTER QA
+17A3	needsfix_khmerindependentvowelqaq	KHMER INDEPENDENT VOWEL QAQ
+17A4	needsfix_khmerindependentvowelqaa	KHMER INDEPENDENT VOWEL QAA
+17A5	needsfix_khmerindependentvowelqi	KHMER INDEPENDENT VOWEL QI
+17A6	needsfix_khmerindependentvowelqii	KHMER INDEPENDENT VOWEL QII
+17A7	needsfix_khmerindependentvowelqu	KHMER INDEPENDENT VOWEL QU
+17A8	needsfix_khmerindependentvowelquk	KHMER INDEPENDENT VOWEL QUK
+17A9	needsfix_khmerindependentvowelquu	KHMER INDEPENDENT VOWEL QUU
+17AA	needsfix_khmerindependentvowelquuv	KHMER INDEPENDENT VOWEL QUUV
+17AB	needsfix_khmerindependentvowelry	KHMER INDEPENDENT VOWEL RY
+17AC	needsfix_khmerindependentvowelryy	KHMER INDEPENDENT VOWEL RYY
+17AD	needsfix_khmerindependentvowelly	KHMER INDEPENDENT VOWEL LY
+17AE	needsfix_khmerindependentvowellyy	KHMER INDEPENDENT VOWEL LYY
+17AF	needsfix_khmerindependentvowelqe	KHMER INDEPENDENT VOWEL QE
+17B0	needsfix_khmerindependentvowelqai	KHMER INDEPENDENT VOWEL QAI
+17B1	needsfix_khmerindependentvowelqootypeone	KHMER INDEPENDENT VOWEL QOO TYPE ONE
+17B2	needsfix_khmerindependentvowelqootypetwo	KHMER INDEPENDENT VOWEL QOO TYPE TWO
+17B3	needsfix_khmerindependentvowelqau	KHMER INDEPENDENT VOWEL QAU
+17B4	needsfix_khmervowelinherentaq	KHMER VOWEL INHERENT AQ
+17B5	needsfix_khmervowelinherentaa	KHMER VOWEL INHERENT AA
+17B6	needsfix_khmervowelsignaa	KHMER VOWEL SIGN AA
+17B7	needsfix_khmervowelsigni	KHMER VOWEL SIGN I
+17B8	needsfix_khmervowelsignii	KHMER VOWEL SIGN II
+17B9	needsfix_khmervowelsigny	KHMER VOWEL SIGN Y
+17BA	needsfix_khmervowelsignyy	KHMER VOWEL SIGN YY
+17BB	needsfix_khmervowelsignu	KHMER VOWEL SIGN U
+17BC	needsfix_khmervowelsignuu	KHMER VOWEL SIGN UU
+17BD	needsfix_khmervowelsignua	KHMER VOWEL SIGN UA
+17BE	needsfix_khmervowelsignoe	KHMER VOWEL SIGN OE
+17BF	needsfix_khmervowelsignya	KHMER VOWEL SIGN YA
+17C0	needsfix_khmervowelsignie	KHMER VOWEL SIGN IE
+17C1	needsfix_khmervowelsigne	KHMER VOWEL SIGN E
+17C2	needsfix_khmervowelsignae	KHMER VOWEL SIGN AE
+17C3	needsfix_khmervowelsignai	KHMER VOWEL SIGN AI
+17C4	needsfix_khmervowelsignoo	KHMER VOWEL SIGN OO
+17C5	needsfix_khmervowelsignau	KHMER VOWEL SIGN AU
+17C6	needsfix_khmersignnikahit	KHMER SIGN NIKAHIT
+17C7	needsfix_khmersignreahmuk	KHMER SIGN REAHMUK
+17C8	needsfix_khmersignyuukaleapintu	KHMER SIGN YUUKALEAPINTU
+17C9	needsfix_khmersignmuusikatoan	KHMER SIGN MUUSIKATOAN
+17CA	needsfix_khmersigntriisap	KHMER SIGN TRIISAP
+17CB	needsfix_khmersignbantoc	KHMER SIGN BANTOC
+17CC	needsfix_khmersignrobat	KHMER SIGN ROBAT
+17CD	needsfix_khmersigntoandakhiat	KHMER SIGN TOANDAKHIAT
+17CE	needsfix_khmersignkakabat	KHMER SIGN KAKABAT
+17CF	needsfix_khmersignahsda	KHMER SIGN AHSDA
+17D0	needsfix_khmersignsamyoksannya	KHMER SIGN SAMYOK SANNYA
+17D1	needsfix_khmersignviriam	KHMER SIGN VIRIAM
+17D2	needsfix_khmersigncoeng	KHMER SIGN COENG
+17D3	needsfix_khmersignbathamasat	KHMER SIGN BATHAMASAT
+17D4	needsfix_khmersignkhan	KHMER SIGN KHAN
+17D5	needsfix_khmersignbariyoosan	KHMER SIGN BARIYOOSAN
+17D6	needsfix_khmersigncamnucpiikuuh	KHMER SIGN CAMNUC PII KUUH
+17D7	needsfix_khmersignlektoo	KHMER SIGN LEK TOO
+17D8	needsfix_khmersignbeyyal	KHMER SIGN BEYYAL
+17D9	needsfix_khmersignphnaekmuan	KHMER SIGN PHNAEK MUAN
+17DA	needsfix_khmersignkoomuut	KHMER SIGN KOOMUUT
+17DB	needsfix_khmercurrencysymbolriel	KHMER CURRENCY SYMBOL RIEL
+17DC	needsfix_khmersignavakrahasanya	KHMER SIGN AVAKRAHASANYA
+17DD	needsfix_khmersignatthacan	KHMER SIGN ATTHACAN
+17E0	needsfix_khmerdigitzero	KHMER DIGIT ZERO
+17E1	needsfix_khmerdigitone	KHMER DIGIT ONE
+17E2	needsfix_khmerdigittwo	KHMER DIGIT TWO
+17E3	needsfix_khmerdigitthree	KHMER DIGIT THREE
+17E4	needsfix_khmerdigitfour	KHMER DIGIT FOUR
+17E5	needsfix_khmerdigitfive	KHMER DIGIT FIVE
+17E6	needsfix_khmerdigitsix	KHMER DIGIT SIX
+17E7	needsfix_khmerdigitseven	KHMER DIGIT SEVEN
+17E8	needsfix_khmerdigiteight	KHMER DIGIT EIGHT
+17E9	needsfix_khmerdigitnine	KHMER DIGIT NINE
+17F0	needsfix_khmersymbollekattakson	KHMER SYMBOL LEK ATTAK SON
+17F1	needsfix_khmersymbollekattakmuoy	KHMER SYMBOL LEK ATTAK MUOY
+17F2	needsfix_khmersymbollekattakpii	KHMER SYMBOL LEK ATTAK PII
+17F3	needsfix_khmersymbollekattakbei	KHMER SYMBOL LEK ATTAK BEI
+17F4	needsfix_khmersymbollekattakbuon	KHMER SYMBOL LEK ATTAK BUON
+17F5	needsfix_khmersymbollekattakpram	KHMER SYMBOL LEK ATTAK PRAM
+17F6	needsfix_khmersymbollekattakprammuoy	KHMER SYMBOL LEK ATTAK PRAM-MUOY
+17F7	needsfix_khmersymbollekattakprampii	KHMER SYMBOL LEK ATTAK PRAM-PII
+17F8	needsfix_khmersymbollekattakprambei	KHMER SYMBOL LEK ATTAK PRAM-BEI
+17F9	needsfix_khmersymbollekattakprambuon	KHMER SYMBOL LEK ATTAK PRAM-BUON

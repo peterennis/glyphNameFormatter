@@ -1,142 +1,142 @@
 # Arabic Presentation Forms-B FE70 - FEFF
-FE70	needsfix__arabicfathatanisolatedform	ARABIC FATHATAN ISOLATED FORM
-FE71	needsfix__arabictatweelwithfathatanabove	ARABIC TATWEEL WITH FATHATAN ABOVE
-FE72	needsfix__arabicdammatanisolatedform	ARABIC DAMMATAN ISOLATED FORM
-FE73	needsfix__arabictailfragment	ARABIC TAIL FRAGMENT
-FE74	needsfix__arabickasratanisolatedform	ARABIC KASRATAN ISOLATED FORM
-FE76	needsfix__arabicfathaisolatedform	ARABIC FATHA ISOLATED FORM
-FE77	needsfix__arabicfathamedialform	ARABIC FATHA MEDIAL FORM
-FE78	needsfix__arabicdammaisolatedform	ARABIC DAMMA ISOLATED FORM
-FE79	needsfix__arabicdammamedialform	ARABIC DAMMA MEDIAL FORM
-FE7A	needsfix__arabickasraisolatedform	ARABIC KASRA ISOLATED FORM
-FE7B	needsfix__arabickasramedialform	ARABIC KASRA MEDIAL FORM
-FE7C	needsfix__arabicshaddaisolatedform	ARABIC SHADDA ISOLATED FORM
-FE7D	needsfix__arabicshaddamedialform	ARABIC SHADDA MEDIAL FORM
-FE7E	needsfix__arabicsukunisolatedform	ARABIC SUKUN ISOLATED FORM
-FE7F	needsfix__arabicsukunmedialform	ARABIC SUKUN MEDIAL FORM
-FE80	needsfix__arabicletterhamzaisolatedform	ARABIC LETTER HAMZA ISOLATED FORM
-FE81	needsfix__arabicletteralefwithmaddaaboveisolatedform	ARABIC LETTER ALEF WITH MADDA ABOVE ISOLATED FORM
-FE82	needsfix__arabicletteralefwithmaddaabovefinalform	ARABIC LETTER ALEF WITH MADDA ABOVE FINAL FORM
-FE83	needsfix__arabicletteralefwithhamzaaboveisolatedform	ARABIC LETTER ALEF WITH HAMZA ABOVE ISOLATED FORM
-FE84	needsfix__arabicletteralefwithhamzaabovefinalform	ARABIC LETTER ALEF WITH HAMZA ABOVE FINAL FORM
-FE85	needsfix__arabicletterwawwithhamzaaboveisolatedform	ARABIC LETTER WAW WITH HAMZA ABOVE ISOLATED FORM
-FE86	needsfix__arabicletterwawwithhamzaabovefinalform	ARABIC LETTER WAW WITH HAMZA ABOVE FINAL FORM
-FE87	needsfix__arabicletteralefwithhamzabelowisolatedform	ARABIC LETTER ALEF WITH HAMZA BELOW ISOLATED FORM
-FE88	needsfix__arabicletteralefwithhamzabelowfinalform	ARABIC LETTER ALEF WITH HAMZA BELOW FINAL FORM
-FE89	needsfix__arabicletteryehwithhamzaaboveisolatedform	ARABIC LETTER YEH WITH HAMZA ABOVE ISOLATED FORM
-FE8A	needsfix__arabicletteryehwithhamzaabovefinalform	ARABIC LETTER YEH WITH HAMZA ABOVE FINAL FORM
-FE8B	needsfix__arabicletteryehwithhamzaaboveinitialform	ARABIC LETTER YEH WITH HAMZA ABOVE INITIAL FORM
-FE8C	needsfix__arabicletteryehwithhamzaabovemedialform	ARABIC LETTER YEH WITH HAMZA ABOVE MEDIAL FORM
-FE8D	needsfix__arabicletteralefisolatedform	ARABIC LETTER ALEF ISOLATED FORM
-FE8E	needsfix__arabicletteraleffinalform	ARABIC LETTER ALEF FINAL FORM
-FE8F	needsfix__arabicletterbehisolatedform	ARABIC LETTER BEH ISOLATED FORM
-FE90	needsfix__arabicletterbehfinalform	ARABIC LETTER BEH FINAL FORM
-FE91	needsfix__arabicletterbehinitialform	ARABIC LETTER BEH INITIAL FORM
-FE92	needsfix__arabicletterbehmedialform	ARABIC LETTER BEH MEDIAL FORM
-FE93	needsfix__arabiclettertehmarbutaisolatedform	ARABIC LETTER TEH MARBUTA ISOLATED FORM
-FE94	needsfix__arabiclettertehmarbutafinalform	ARABIC LETTER TEH MARBUTA FINAL FORM
-FE95	needsfix__arabiclettertehisolatedform	ARABIC LETTER TEH ISOLATED FORM
-FE96	needsfix__arabiclettertehfinalform	ARABIC LETTER TEH FINAL FORM
-FE97	needsfix__arabiclettertehinitialform	ARABIC LETTER TEH INITIAL FORM
-FE98	needsfix__arabiclettertehmedialform	ARABIC LETTER TEH MEDIAL FORM
-FE99	needsfix__arabicletterthehisolatedform	ARABIC LETTER THEH ISOLATED FORM
-FE9A	needsfix__arabicletterthehfinalform	ARABIC LETTER THEH FINAL FORM
-FE9B	needsfix__arabicletterthehinitialform	ARABIC LETTER THEH INITIAL FORM
-FE9C	needsfix__arabicletterthehmedialform	ARABIC LETTER THEH MEDIAL FORM
-FE9D	needsfix__arabicletterjeemisolatedform	ARABIC LETTER JEEM ISOLATED FORM
-FE9E	needsfix__arabicletterjeemfinalform	ARABIC LETTER JEEM FINAL FORM
-FE9F	needsfix__arabicletterjeeminitialform	ARABIC LETTER JEEM INITIAL FORM
-FEA0	needsfix__arabicletterjeemmedialform	ARABIC LETTER JEEM MEDIAL FORM
-FEA1	needsfix__arabicletterhahisolatedform	ARABIC LETTER HAH ISOLATED FORM
-FEA2	needsfix__arabicletterhahfinalform	ARABIC LETTER HAH FINAL FORM
-FEA3	needsfix__arabicletterhahinitialform	ARABIC LETTER HAH INITIAL FORM
-FEA4	needsfix__arabicletterhahmedialform	ARABIC LETTER HAH MEDIAL FORM
-FEA5	needsfix__arabicletterkhahisolatedform	ARABIC LETTER KHAH ISOLATED FORM
-FEA6	needsfix__arabicletterkhahfinalform	ARABIC LETTER KHAH FINAL FORM
-FEA7	needsfix__arabicletterkhahinitialform	ARABIC LETTER KHAH INITIAL FORM
-FEA8	needsfix__arabicletterkhahmedialform	ARABIC LETTER KHAH MEDIAL FORM
-FEA9	needsfix__arabicletterdalisolatedform	ARABIC LETTER DAL ISOLATED FORM
-FEAA	needsfix__arabicletterdalfinalform	ARABIC LETTER DAL FINAL FORM
-FEAB	needsfix__arabicletterthalisolatedform	ARABIC LETTER THAL ISOLATED FORM
-FEAC	needsfix__arabicletterthalfinalform	ARABIC LETTER THAL FINAL FORM
-FEAD	needsfix__arabicletterrehisolatedform	ARABIC LETTER REH ISOLATED FORM
-FEAE	needsfix__arabicletterrehfinalform	ARABIC LETTER REH FINAL FORM
-FEAF	needsfix__arabicletterzainisolatedform	ARABIC LETTER ZAIN ISOLATED FORM
-FEB0	needsfix__arabicletterzainfinalform	ARABIC LETTER ZAIN FINAL FORM
-FEB1	needsfix__arabicletterseenisolatedform	ARABIC LETTER SEEN ISOLATED FORM
-FEB2	needsfix__arabicletterseenfinalform	ARABIC LETTER SEEN FINAL FORM
-FEB3	needsfix__arabicletterseeninitialform	ARABIC LETTER SEEN INITIAL FORM
-FEB4	needsfix__arabicletterseenmedialform	ARABIC LETTER SEEN MEDIAL FORM
-FEB5	needsfix__arabiclettersheenisolatedform	ARABIC LETTER SHEEN ISOLATED FORM
-FEB6	needsfix__arabiclettersheenfinalform	ARABIC LETTER SHEEN FINAL FORM
-FEB7	needsfix__arabiclettersheeninitialform	ARABIC LETTER SHEEN INITIAL FORM
-FEB8	needsfix__arabiclettersheenmedialform	ARABIC LETTER SHEEN MEDIAL FORM
-FEB9	needsfix__arabiclettersadisolatedform	ARABIC LETTER SAD ISOLATED FORM
-FEBA	needsfix__arabiclettersadfinalform	ARABIC LETTER SAD FINAL FORM
-FEBB	needsfix__arabiclettersadinitialform	ARABIC LETTER SAD INITIAL FORM
-FEBC	needsfix__arabiclettersadmedialform	ARABIC LETTER SAD MEDIAL FORM
-FEBD	needsfix__arabicletterdadisolatedform	ARABIC LETTER DAD ISOLATED FORM
-FEBE	needsfix__arabicletterdadfinalform	ARABIC LETTER DAD FINAL FORM
-FEBF	needsfix__arabicletterdadinitialform	ARABIC LETTER DAD INITIAL FORM
-FEC0	needsfix__arabicletterdadmedialform	ARABIC LETTER DAD MEDIAL FORM
-FEC1	needsfix__arabiclettertahisolatedform	ARABIC LETTER TAH ISOLATED FORM
-FEC2	needsfix__arabiclettertahfinalform	ARABIC LETTER TAH FINAL FORM
-FEC3	needsfix__arabiclettertahinitialform	ARABIC LETTER TAH INITIAL FORM
-FEC4	needsfix__arabiclettertahmedialform	ARABIC LETTER TAH MEDIAL FORM
-FEC5	needsfix__arabicletterzahisolatedform	ARABIC LETTER ZAH ISOLATED FORM
-FEC6	needsfix__arabicletterzahfinalform	ARABIC LETTER ZAH FINAL FORM
-FEC7	needsfix__arabicletterzahinitialform	ARABIC LETTER ZAH INITIAL FORM
-FEC8	needsfix__arabicletterzahmedialform	ARABIC LETTER ZAH MEDIAL FORM
-FEC9	needsfix__arabicletterainisolatedform	ARABIC LETTER AIN ISOLATED FORM
-FECA	needsfix__arabicletterainfinalform	ARABIC LETTER AIN FINAL FORM
-FECB	needsfix__arabicletteraininitialform	ARABIC LETTER AIN INITIAL FORM
-FECC	needsfix__arabicletterainmedialform	ARABIC LETTER AIN MEDIAL FORM
-FECD	needsfix__arabicletterghainisolatedform	ARABIC LETTER GHAIN ISOLATED FORM
-FECE	needsfix__arabicletterghainfinalform	ARABIC LETTER GHAIN FINAL FORM
-FECF	needsfix__arabicletterghaininitialform	ARABIC LETTER GHAIN INITIAL FORM
-FED0	needsfix__arabicletterghainmedialform	ARABIC LETTER GHAIN MEDIAL FORM
-FED1	needsfix__arabicletterfehisolatedform	ARABIC LETTER FEH ISOLATED FORM
-FED2	needsfix__arabicletterfehfinalform	ARABIC LETTER FEH FINAL FORM
-FED3	needsfix__arabicletterfehinitialform	ARABIC LETTER FEH INITIAL FORM
-FED4	needsfix__arabicletterfehmedialform	ARABIC LETTER FEH MEDIAL FORM
-FED5	needsfix__arabicletterqafisolatedform	ARABIC LETTER QAF ISOLATED FORM
-FED6	needsfix__arabicletterqaffinalform	ARABIC LETTER QAF FINAL FORM
-FED7	needsfix__arabicletterqafinitialform	ARABIC LETTER QAF INITIAL FORM
-FED8	needsfix__arabicletterqafmedialform	ARABIC LETTER QAF MEDIAL FORM
-FED9	needsfix__arabicletterkafisolatedform	ARABIC LETTER KAF ISOLATED FORM
-FEDA	needsfix__arabicletterkaffinalform	ARABIC LETTER KAF FINAL FORM
-FEDB	needsfix__arabicletterkafinitialform	ARABIC LETTER KAF INITIAL FORM
-FEDC	needsfix__arabicletterkafmedialform	ARABIC LETTER KAF MEDIAL FORM
-FEDD	needsfix__arabicletterlamisolatedform	ARABIC LETTER LAM ISOLATED FORM
-FEDE	needsfix__arabicletterlamfinalform	ARABIC LETTER LAM FINAL FORM
-FEDF	needsfix__arabicletterlaminitialform	ARABIC LETTER LAM INITIAL FORM
-FEE0	needsfix__arabicletterlammedialform	ARABIC LETTER LAM MEDIAL FORM
-FEE1	needsfix__arabiclettermeemisolatedform	ARABIC LETTER MEEM ISOLATED FORM
-FEE2	needsfix__arabiclettermeemfinalform	ARABIC LETTER MEEM FINAL FORM
-FEE3	needsfix__arabiclettermeeminitialform	ARABIC LETTER MEEM INITIAL FORM
-FEE4	needsfix__arabiclettermeemmedialform	ARABIC LETTER MEEM MEDIAL FORM
-FEE5	needsfix__arabicletternoonisolatedform	ARABIC LETTER NOON ISOLATED FORM
-FEE6	needsfix__arabicletternoonfinalform	ARABIC LETTER NOON FINAL FORM
-FEE7	needsfix__arabicletternooninitialform	ARABIC LETTER NOON INITIAL FORM
-FEE8	needsfix__arabicletternoonmedialform	ARABIC LETTER NOON MEDIAL FORM
-FEE9	needsfix__arabicletterhehisolatedform	ARABIC LETTER HEH ISOLATED FORM
-FEEA	needsfix__arabicletterhehfinalform	ARABIC LETTER HEH FINAL FORM
-FEEB	needsfix__arabicletterhehinitialform	ARABIC LETTER HEH INITIAL FORM
-FEEC	needsfix__arabicletterhehmedialform	ARABIC LETTER HEH MEDIAL FORM
-FEED	needsfix__arabicletterwawisolatedform	ARABIC LETTER WAW ISOLATED FORM
-FEEE	needsfix__arabicletterwawfinalform	ARABIC LETTER WAW FINAL FORM
-FEEF	needsfix__arabicletteralefmaksuraisolatedform	ARABIC LETTER ALEF MAKSURA ISOLATED FORM
-FEF0	needsfix__arabicletteralefmaksurafinalform	ARABIC LETTER ALEF MAKSURA FINAL FORM
-FEF1	needsfix__arabicletteryehisolatedform	ARABIC LETTER YEH ISOLATED FORM
-FEF2	needsfix__arabicletteryehfinalform	ARABIC LETTER YEH FINAL FORM
-FEF3	needsfix__arabicletteryehinitialform	ARABIC LETTER YEH INITIAL FORM
-FEF4	needsfix__arabicletteryehmedialform	ARABIC LETTER YEH MEDIAL FORM
-FEF5	needsfix__arabicligaturelamwithalefwithmaddaaboveisolatedform	ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE ISOLATED FORM
-FEF6	needsfix__arabicligaturelamwithalefwithmaddaabovefinalform	ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE FINAL FORM
-FEF7	needsfix__arabicligaturelamwithalefwithhamzaaboveisolatedform	ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE ISOLATED FORM
-FEF8	needsfix__arabicligaturelamwithalefwithhamzaabovefinalform	ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE FINAL FORM
-FEF9	needsfix__arabicligaturelamwithalefwithhamzabelowisolatedform	ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW ISOLATED FORM
-FEFA	needsfix__arabicligaturelamwithalefwithhamzabelowfinalform	ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW FINAL FORM
-FEFB	needsfix__arabicligaturelamwithalefisolatedform	ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM
-FEFC	needsfix__arabicligaturelamwithaleffinalform	ARABIC LIGATURE LAM WITH ALEF FINAL FORM
-FEFF	needsfix__zerowidthnobreakspace	ZERO WIDTH NO-BREAK SPACE
+FE70	needsfix_arabicfathatanisolatedform	ARABIC FATHATAN ISOLATED FORM
+FE71	needsfix_arabictatweelwithfathatanabove	ARABIC TATWEEL WITH FATHATAN ABOVE
+FE72	needsfix_arabicdammatanisolatedform	ARABIC DAMMATAN ISOLATED FORM
+FE73	needsfix_arabictailfragment	ARABIC TAIL FRAGMENT
+FE74	needsfix_arabickasratanisolatedform	ARABIC KASRATAN ISOLATED FORM
+FE76	needsfix_arabicfathaisolatedform	ARABIC FATHA ISOLATED FORM
+FE77	needsfix_arabicfathamedialform	ARABIC FATHA MEDIAL FORM
+FE78	needsfix_arabicdammaisolatedform	ARABIC DAMMA ISOLATED FORM
+FE79	needsfix_arabicdammamedialform	ARABIC DAMMA MEDIAL FORM
+FE7A	needsfix_arabickasraisolatedform	ARABIC KASRA ISOLATED FORM
+FE7B	needsfix_arabickasramedialform	ARABIC KASRA MEDIAL FORM
+FE7C	needsfix_arabicshaddaisolatedform	ARABIC SHADDA ISOLATED FORM
+FE7D	needsfix_arabicshaddamedialform	ARABIC SHADDA MEDIAL FORM
+FE7E	needsfix_arabicsukunisolatedform	ARABIC SUKUN ISOLATED FORM
+FE7F	needsfix_arabicsukunmedialform	ARABIC SUKUN MEDIAL FORM
+FE80	needsfix_arabicletterhamzaisolatedform	ARABIC LETTER HAMZA ISOLATED FORM
+FE81	needsfix_arabicletteralefwithmaddaaboveisolatedform	ARABIC LETTER ALEF WITH MADDA ABOVE ISOLATED FORM
+FE82	needsfix_arabicletteralefwithmaddaabovefinalform	ARABIC LETTER ALEF WITH MADDA ABOVE FINAL FORM
+FE83	needsfix_arabicletteralefwithhamzaaboveisolatedform	ARABIC LETTER ALEF WITH HAMZA ABOVE ISOLATED FORM
+FE84	needsfix_arabicletteralefwithhamzaabovefinalform	ARABIC LETTER ALEF WITH HAMZA ABOVE FINAL FORM
+FE85	needsfix_arabicletterwawwithhamzaaboveisolatedform	ARABIC LETTER WAW WITH HAMZA ABOVE ISOLATED FORM
+FE86	needsfix_arabicletterwawwithhamzaabovefinalform	ARABIC LETTER WAW WITH HAMZA ABOVE FINAL FORM
+FE87	needsfix_arabicletteralefwithhamzabelowisolatedform	ARABIC LETTER ALEF WITH HAMZA BELOW ISOLATED FORM
+FE88	needsfix_arabicletteralefwithhamzabelowfinalform	ARABIC LETTER ALEF WITH HAMZA BELOW FINAL FORM
+FE89	needsfix_arabicletteryehwithhamzaaboveisolatedform	ARABIC LETTER YEH WITH HAMZA ABOVE ISOLATED FORM
+FE8A	needsfix_arabicletteryehwithhamzaabovefinalform	ARABIC LETTER YEH WITH HAMZA ABOVE FINAL FORM
+FE8B	needsfix_arabicletteryehwithhamzaaboveinitialform	ARABIC LETTER YEH WITH HAMZA ABOVE INITIAL FORM
+FE8C	needsfix_arabicletteryehwithhamzaabovemedialform	ARABIC LETTER YEH WITH HAMZA ABOVE MEDIAL FORM
+FE8D	needsfix_arabicletteralefisolatedform	ARABIC LETTER ALEF ISOLATED FORM
+FE8E	needsfix_arabicletteraleffinalform	ARABIC LETTER ALEF FINAL FORM
+FE8F	needsfix_arabicletterbehisolatedform	ARABIC LETTER BEH ISOLATED FORM
+FE90	needsfix_arabicletterbehfinalform	ARABIC LETTER BEH FINAL FORM
+FE91	needsfix_arabicletterbehinitialform	ARABIC LETTER BEH INITIAL FORM
+FE92	needsfix_arabicletterbehmedialform	ARABIC LETTER BEH MEDIAL FORM
+FE93	needsfix_arabiclettertehmarbutaisolatedform	ARABIC LETTER TEH MARBUTA ISOLATED FORM
+FE94	needsfix_arabiclettertehmarbutafinalform	ARABIC LETTER TEH MARBUTA FINAL FORM
+FE95	needsfix_arabiclettertehisolatedform	ARABIC LETTER TEH ISOLATED FORM
+FE96	needsfix_arabiclettertehfinalform	ARABIC LETTER TEH FINAL FORM
+FE97	needsfix_arabiclettertehinitialform	ARABIC LETTER TEH INITIAL FORM
+FE98	needsfix_arabiclettertehmedialform	ARABIC LETTER TEH MEDIAL FORM
+FE99	needsfix_arabicletterthehisolatedform	ARABIC LETTER THEH ISOLATED FORM
+FE9A	needsfix_arabicletterthehfinalform	ARABIC LETTER THEH FINAL FORM
+FE9B	needsfix_arabicletterthehinitialform	ARABIC LETTER THEH INITIAL FORM
+FE9C	needsfix_arabicletterthehmedialform	ARABIC LETTER THEH MEDIAL FORM
+FE9D	needsfix_arabicletterjeemisolatedform	ARABIC LETTER JEEM ISOLATED FORM
+FE9E	needsfix_arabicletterjeemfinalform	ARABIC LETTER JEEM FINAL FORM
+FE9F	needsfix_arabicletterjeeminitialform	ARABIC LETTER JEEM INITIAL FORM
+FEA0	needsfix_arabicletterjeemmedialform	ARABIC LETTER JEEM MEDIAL FORM
+FEA1	needsfix_arabicletterhahisolatedform	ARABIC LETTER HAH ISOLATED FORM
+FEA2	needsfix_arabicletterhahfinalform	ARABIC LETTER HAH FINAL FORM
+FEA3	needsfix_arabicletterhahinitialform	ARABIC LETTER HAH INITIAL FORM
+FEA4	needsfix_arabicletterhahmedialform	ARABIC LETTER HAH MEDIAL FORM
+FEA5	needsfix_arabicletterkhahisolatedform	ARABIC LETTER KHAH ISOLATED FORM
+FEA6	needsfix_arabicletterkhahfinalform	ARABIC LETTER KHAH FINAL FORM
+FEA7	needsfix_arabicletterkhahinitialform	ARABIC LETTER KHAH INITIAL FORM
+FEA8	needsfix_arabicletterkhahmedialform	ARABIC LETTER KHAH MEDIAL FORM
+FEA9	needsfix_arabicletterdalisolatedform	ARABIC LETTER DAL ISOLATED FORM
+FEAA	needsfix_arabicletterdalfinalform	ARABIC LETTER DAL FINAL FORM
+FEAB	needsfix_arabicletterthalisolatedform	ARABIC LETTER THAL ISOLATED FORM
+FEAC	needsfix_arabicletterthalfinalform	ARABIC LETTER THAL FINAL FORM
+FEAD	needsfix_arabicletterrehisolatedform	ARABIC LETTER REH ISOLATED FORM
+FEAE	needsfix_arabicletterrehfinalform	ARABIC LETTER REH FINAL FORM
+FEAF	needsfix_arabicletterzainisolatedform	ARABIC LETTER ZAIN ISOLATED FORM
+FEB0	needsfix_arabicletterzainfinalform	ARABIC LETTER ZAIN FINAL FORM
+FEB1	needsfix_arabicletterseenisolatedform	ARABIC LETTER SEEN ISOLATED FORM
+FEB2	needsfix_arabicletterseenfinalform	ARABIC LETTER SEEN FINAL FORM
+FEB3	needsfix_arabicletterseeninitialform	ARABIC LETTER SEEN INITIAL FORM
+FEB4	needsfix_arabicletterseenmedialform	ARABIC LETTER SEEN MEDIAL FORM
+FEB5	needsfix_arabiclettersheenisolatedform	ARABIC LETTER SHEEN ISOLATED FORM
+FEB6	needsfix_arabiclettersheenfinalform	ARABIC LETTER SHEEN FINAL FORM
+FEB7	needsfix_arabiclettersheeninitialform	ARABIC LETTER SHEEN INITIAL FORM
+FEB8	needsfix_arabiclettersheenmedialform	ARABIC LETTER SHEEN MEDIAL FORM
+FEB9	needsfix_arabiclettersadisolatedform	ARABIC LETTER SAD ISOLATED FORM
+FEBA	needsfix_arabiclettersadfinalform	ARABIC LETTER SAD FINAL FORM
+FEBB	needsfix_arabiclettersadinitialform	ARABIC LETTER SAD INITIAL FORM
+FEBC	needsfix_arabiclettersadmedialform	ARABIC LETTER SAD MEDIAL FORM
+FEBD	needsfix_arabicletterdadisolatedform	ARABIC LETTER DAD ISOLATED FORM
+FEBE	needsfix_arabicletterdadfinalform	ARABIC LETTER DAD FINAL FORM
+FEBF	needsfix_arabicletterdadinitialform	ARABIC LETTER DAD INITIAL FORM
+FEC0	needsfix_arabicletterdadmedialform	ARABIC LETTER DAD MEDIAL FORM
+FEC1	needsfix_arabiclettertahisolatedform	ARABIC LETTER TAH ISOLATED FORM
+FEC2	needsfix_arabiclettertahfinalform	ARABIC LETTER TAH FINAL FORM
+FEC3	needsfix_arabiclettertahinitialform	ARABIC LETTER TAH INITIAL FORM
+FEC4	needsfix_arabiclettertahmedialform	ARABIC LETTER TAH MEDIAL FORM
+FEC5	needsfix_arabicletterzahisolatedform	ARABIC LETTER ZAH ISOLATED FORM
+FEC6	needsfix_arabicletterzahfinalform	ARABIC LETTER ZAH FINAL FORM
+FEC7	needsfix_arabicletterzahinitialform	ARABIC LETTER ZAH INITIAL FORM
+FEC8	needsfix_arabicletterzahmedialform	ARABIC LETTER ZAH MEDIAL FORM
+FEC9	needsfix_arabicletterainisolatedform	ARABIC LETTER AIN ISOLATED FORM
+FECA	needsfix_arabicletterainfinalform	ARABIC LETTER AIN FINAL FORM
+FECB	needsfix_arabicletteraininitialform	ARABIC LETTER AIN INITIAL FORM
+FECC	needsfix_arabicletterainmedialform	ARABIC LETTER AIN MEDIAL FORM
+FECD	needsfix_arabicletterghainisolatedform	ARABIC LETTER GHAIN ISOLATED FORM
+FECE	needsfix_arabicletterghainfinalform	ARABIC LETTER GHAIN FINAL FORM
+FECF	needsfix_arabicletterghaininitialform	ARABIC LETTER GHAIN INITIAL FORM
+FED0	needsfix_arabicletterghainmedialform	ARABIC LETTER GHAIN MEDIAL FORM
+FED1	needsfix_arabicletterfehisolatedform	ARABIC LETTER FEH ISOLATED FORM
+FED2	needsfix_arabicletterfehfinalform	ARABIC LETTER FEH FINAL FORM
+FED3	needsfix_arabicletterfehinitialform	ARABIC LETTER FEH INITIAL FORM
+FED4	needsfix_arabicletterfehmedialform	ARABIC LETTER FEH MEDIAL FORM
+FED5	needsfix_arabicletterqafisolatedform	ARABIC LETTER QAF ISOLATED FORM
+FED6	needsfix_arabicletterqaffinalform	ARABIC LETTER QAF FINAL FORM
+FED7	needsfix_arabicletterqafinitialform	ARABIC LETTER QAF INITIAL FORM
+FED8	needsfix_arabicletterqafmedialform	ARABIC LETTER QAF MEDIAL FORM
+FED9	needsfix_arabicletterkafisolatedform	ARABIC LETTER KAF ISOLATED FORM
+FEDA	needsfix_arabicletterkaffinalform	ARABIC LETTER KAF FINAL FORM
+FEDB	needsfix_arabicletterkafinitialform	ARABIC LETTER KAF INITIAL FORM
+FEDC	needsfix_arabicletterkafmedialform	ARABIC LETTER KAF MEDIAL FORM
+FEDD	needsfix_arabicletterlamisolatedform	ARABIC LETTER LAM ISOLATED FORM
+FEDE	needsfix_arabicletterlamfinalform	ARABIC LETTER LAM FINAL FORM
+FEDF	needsfix_arabicletterlaminitialform	ARABIC LETTER LAM INITIAL FORM
+FEE0	needsfix_arabicletterlammedialform	ARABIC LETTER LAM MEDIAL FORM
+FEE1	needsfix_arabiclettermeemisolatedform	ARABIC LETTER MEEM ISOLATED FORM
+FEE2	needsfix_arabiclettermeemfinalform	ARABIC LETTER MEEM FINAL FORM
+FEE3	needsfix_arabiclettermeeminitialform	ARABIC LETTER MEEM INITIAL FORM
+FEE4	needsfix_arabiclettermeemmedialform	ARABIC LETTER MEEM MEDIAL FORM
+FEE5	needsfix_arabicletternoonisolatedform	ARABIC LETTER NOON ISOLATED FORM
+FEE6	needsfix_arabicletternoonfinalform	ARABIC LETTER NOON FINAL FORM
+FEE7	needsfix_arabicletternooninitialform	ARABIC LETTER NOON INITIAL FORM
+FEE8	needsfix_arabicletternoonmedialform	ARABIC LETTER NOON MEDIAL FORM
+FEE9	needsfix_arabicletterhehisolatedform	ARABIC LETTER HEH ISOLATED FORM
+FEEA	needsfix_arabicletterhehfinalform	ARABIC LETTER HEH FINAL FORM
+FEEB	needsfix_arabicletterhehinitialform	ARABIC LETTER HEH INITIAL FORM
+FEEC	needsfix_arabicletterhehmedialform	ARABIC LETTER HEH MEDIAL FORM
+FEED	needsfix_arabicletterwawisolatedform	ARABIC LETTER WAW ISOLATED FORM
+FEEE	needsfix_arabicletterwawfinalform	ARABIC LETTER WAW FINAL FORM
+FEEF	needsfix_arabicletteralefmaksuraisolatedform	ARABIC LETTER ALEF MAKSURA ISOLATED FORM
+FEF0	needsfix_arabicletteralefmaksurafinalform	ARABIC LETTER ALEF MAKSURA FINAL FORM
+FEF1	needsfix_arabicletteryehisolatedform	ARABIC LETTER YEH ISOLATED FORM
+FEF2	needsfix_arabicletteryehfinalform	ARABIC LETTER YEH FINAL FORM
+FEF3	needsfix_arabicletteryehinitialform	ARABIC LETTER YEH INITIAL FORM
+FEF4	needsfix_arabicletteryehmedialform	ARABIC LETTER YEH MEDIAL FORM
+FEF5	needsfix_arabicligaturelamwithalefwithmaddaaboveisolatedform	ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE ISOLATED FORM
+FEF6	needsfix_arabicligaturelamwithalefwithmaddaabovefinalform	ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE FINAL FORM
+FEF7	needsfix_arabicligaturelamwithalefwithhamzaaboveisolatedform	ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE ISOLATED FORM
+FEF8	needsfix_arabicligaturelamwithalefwithhamzaabovefinalform	ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE FINAL FORM
+FEF9	needsfix_arabicligaturelamwithalefwithhamzabelowisolatedform	ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW ISOLATED FORM
+FEFA	needsfix_arabicligaturelamwithalefwithhamzabelowfinalform	ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW FINAL FORM
+FEFB	needsfix_arabicligaturelamwithalefisolatedform	ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM
+FEFC	needsfix_arabicligaturelamwithaleffinalform	ARABIC LIGATURE LAM WITH ALEF FINAL FORM
+FEFF	needsfix_zerowidthnobreakspace	ZERO WIDTH NO-BREAK SPACE

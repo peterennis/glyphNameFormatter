@@ -1,81 +1,81 @@
 # Letterlike Symbols 2100 - 214F
-2100	needsfix__accountof	ACCOUNT OF
-2101	needsfix__addressedtothesubject	ADDRESSED TO THE SUBJECT
-2102	needsfix__doublestruckcapitalc	DOUBLE-STRUCK CAPITAL C
-2103	needsfix__degreecelsius	DEGREE CELSIUS
-2104	needsfix__centrelinesymbol	CENTRE LINE SYMBOL
-2105	needsfix__careof	CARE OF
-2106	needsfix__cadauna	CADA UNA
-2107	needsfix__eulerconstant	EULER CONSTANT
-2108	needsfix__scruple	SCRUPLE
-2109	needsfix__degreefahrenheit	DEGREE FAHRENHEIT
-210A	needsfix__scriptsmallg	SCRIPT SMALL G
-210B	needsfix__scriptcapitalh	SCRIPT CAPITAL H
-210C	needsfix__blacklettercapitalh	BLACK-LETTER CAPITAL H
-210D	needsfix__doublestruckcapitalh	DOUBLE-STRUCK CAPITAL H
-210E	needsfix__planckconstant	PLANCK CONSTANT
-210F	needsfix__planckconstantovertwopi	PLANCK CONSTANT OVER TWO PI
-2110	needsfix__scriptcapitali	SCRIPT CAPITAL I
-2111	needsfix__Ifraktur	BLACK-LETTER CAPITAL I
-2112	needsfix__scriptcapitall	SCRIPT CAPITAL L
-2113	needsfix__scriptsmalll	SCRIPT SMALL L
-2114	needsfix__lbbarsymbol	L B BAR SYMBOL
-2115	needsfix__doublestruckcapitaln	DOUBLE-STRUCK CAPITAL N
-2116	needsfix__numerosign	NUMERO SIGN
-2117	needsfix__soundrecordingcopyright	SOUND RECORDING COPYRIGHT
-2118	needsfix__weierstrass	SCRIPT CAPITAL P
-2119	needsfix__doublestruckcapitalp	DOUBLE-STRUCK CAPITAL P
-211A	needsfix__doublestruckcapitalq	DOUBLE-STRUCK CAPITAL Q
-211B	needsfix__scriptcapitalr	SCRIPT CAPITAL R
-211C	needsfix__Rfraktur	BLACK-LETTER CAPITAL R
-211D	needsfix__doublestruckcapitalr	DOUBLE-STRUCK CAPITAL R
-211E	needsfix__prescription	PRESCRIPTION TAKE
-211F	needsfix__response	RESPONSE
-2120	needsfix__servicemark	SERVICE MARK
-2121	needsfix__telephonesign	TELEPHONE SIGN
-2122	needsfix__trademark	TRADE MARK SIGN
-2123	needsfix__versicle	VERSICLE
-2124	needsfix__doublestruckcapitalz	DOUBLE-STRUCK CAPITAL Z
-2125	needsfix__ouncesign	OUNCE SIGN
-2126	needsfix__ohmsign	OHM SIGN
-2127	needsfix__invertedohmsign	INVERTED OHM SIGN
-2128	needsfix__blacklettercapitalz	BLACK-LETTER CAPITAL Z
-2129	needsfix__turnedgreeksmallletteriota	TURNED GREEK SMALL LETTER IOTA
-212A	needsfix__kelvinsign	KELVIN SIGN
-212B	needsfix__angstromsign	ANGSTROM SIGN
-212C	needsfix__scriptcapitalb	SCRIPT CAPITAL B
-212D	needsfix__blacklettercapitalc	BLACK-LETTER CAPITAL C
-212E	needsfix__estimated	ESTIMATED SYMBOL
-212F	needsfix__scriptsmalle	SCRIPT SMALL E
-2130	needsfix__scriptcapitale	SCRIPT CAPITAL E
-2131	needsfix__scriptcapitalf	SCRIPT CAPITAL F
-2132	needsfix__turnedcapitalf	TURNED CAPITAL F
-2133	needsfix__scriptcapitalm	SCRIPT CAPITAL M
-2134	needsfix__scriptsmallo	SCRIPT SMALL O
-2135	needsfix__aleph	ALEF SYMBOL
-2136	needsfix__betsymbol	BET SYMBOL
-2137	needsfix__gimelsymbol	GIMEL SYMBOL
-2138	needsfix__daletsymbol	DALET SYMBOL
-2139	needsfix__informationsource	INFORMATION SOURCE
-213A	needsfix__rotatedcapitalq	ROTATED CAPITAL Q
-213B	needsfix__facsimilesign	FACSIMILE SIGN
-213C	needsfix__doublestrucksmallpi	DOUBLE-STRUCK SMALL PI
-213D	needsfix__doublestrucksmallgamma	DOUBLE-STRUCK SMALL GAMMA
-213E	needsfix__doublestruckcapitalgamma	DOUBLE-STRUCK CAPITAL GAMMA
-213F	needsfix__doublestruckcapitalpi	DOUBLE-STRUCK CAPITAL PI
-2140	needsfix__doublestrucknarysummation	DOUBLE-STRUCK N-ARY SUMMATION
-2141	needsfix__turnedsansserifcapitalg	TURNED SANS-SERIF CAPITAL G
-2142	needsfix__turnedsansserifcapitall	TURNED SANS-SERIF CAPITAL L
-2143	needsfix__reversedsansserifcapitall	REVERSED SANS-SERIF CAPITAL L
-2144	needsfix__turnedsansserifcapitaly	TURNED SANS-SERIF CAPITAL Y
-2145	needsfix__doublestruckitaliccapitald	DOUBLE-STRUCK ITALIC CAPITAL D
-2146	needsfix__doublestruckitalicsmalld	DOUBLE-STRUCK ITALIC SMALL D
-2147	needsfix__doublestruckitalicsmalle	DOUBLE-STRUCK ITALIC SMALL E
-2148	needsfix__doublestruckitalicsmalli	DOUBLE-STRUCK ITALIC SMALL I
-2149	needsfix__doublestruckitalicsmallj	DOUBLE-STRUCK ITALIC SMALL J
-214A	needsfix__propertyline	PROPERTY LINE
-214B	needsfix__turnedampersand	TURNED AMPERSAND
-214C	needsfix__persign	PER SIGN
-214D	needsfix__aktieselskab	AKTIESELSKAB
-214E	needsfix__turnedsmallf	TURNED SMALL F
-214F	needsfix__symbolforsamaritansource	SYMBOL FOR SAMARITAN SOURCE
+2100	needsfix_accountof	ACCOUNT OF
+2101	needsfix_addressedtothesubject	ADDRESSED TO THE SUBJECT
+2102	needsfix_doublestruckcapitalc	DOUBLE-STRUCK CAPITAL C
+2103	needsfix_degreecelsius	DEGREE CELSIUS
+2104	needsfix_centrelinesymbol	CENTRE LINE SYMBOL
+2105	needsfix_careof	CARE OF
+2106	needsfix_cadauna	CADA UNA
+2107	needsfix_eulerconstant	EULER CONSTANT
+2108	needsfix_scruple	SCRUPLE
+2109	needsfix_degreefahrenheit	DEGREE FAHRENHEIT
+210A	needsfix_scriptsmallg	SCRIPT SMALL G
+210B	needsfix_scriptcapitalh	SCRIPT CAPITAL H
+210C	needsfix_blacklettercapitalh	BLACK-LETTER CAPITAL H
+210D	needsfix_doublestruckcapitalh	DOUBLE-STRUCK CAPITAL H
+210E	needsfix_planckconstant	PLANCK CONSTANT
+210F	needsfix_planckconstantovertwopi	PLANCK CONSTANT OVER TWO PI
+2110	needsfix_scriptcapitali	SCRIPT CAPITAL I
+2111	needsfix_Ifraktur	BLACK-LETTER CAPITAL I
+2112	needsfix_scriptcapitall	SCRIPT CAPITAL L
+2113	needsfix_scriptsmalll	SCRIPT SMALL L
+2114	needsfix_lbbarsymbol	L B BAR SYMBOL
+2115	needsfix_doublestruckcapitaln	DOUBLE-STRUCK CAPITAL N
+2116	needsfix_numerosign	NUMERO SIGN
+2117	needsfix_soundrecordingcopyright	SOUND RECORDING COPYRIGHT
+2118	needsfix_weierstrass	SCRIPT CAPITAL P
+2119	needsfix_doublestruckcapitalp	DOUBLE-STRUCK CAPITAL P
+211A	needsfix_doublestruckcapitalq	DOUBLE-STRUCK CAPITAL Q
+211B	needsfix_scriptcapitalr	SCRIPT CAPITAL R
+211C	needsfix_Rfraktur	BLACK-LETTER CAPITAL R
+211D	needsfix_doublestruckcapitalr	DOUBLE-STRUCK CAPITAL R
+211E	needsfix_prescription	PRESCRIPTION TAKE
+211F	needsfix_response	RESPONSE
+2120	needsfix_servicemark	SERVICE MARK
+2121	needsfix_telephonesign	TELEPHONE SIGN
+2122	needsfix_trademark	TRADE MARK SIGN
+2123	needsfix_versicle	VERSICLE
+2124	needsfix_doublestruckcapitalz	DOUBLE-STRUCK CAPITAL Z
+2125	needsfix_ouncesign	OUNCE SIGN
+2126	needsfix_ohmsign	OHM SIGN
+2127	needsfix_invertedohmsign	INVERTED OHM SIGN
+2128	needsfix_blacklettercapitalz	BLACK-LETTER CAPITAL Z
+2129	needsfix_turnedgreeksmallletteriota	TURNED GREEK SMALL LETTER IOTA
+212A	needsfix_kelvinsign	KELVIN SIGN
+212B	needsfix_angstromsign	ANGSTROM SIGN
+212C	needsfix_scriptcapitalb	SCRIPT CAPITAL B
+212D	needsfix_blacklettercapitalc	BLACK-LETTER CAPITAL C
+212E	needsfix_estimated	ESTIMATED SYMBOL
+212F	needsfix_scriptsmalle	SCRIPT SMALL E
+2130	needsfix_scriptcapitale	SCRIPT CAPITAL E
+2131	needsfix_scriptcapitalf	SCRIPT CAPITAL F
+2132	needsfix_turnedcapitalf	TURNED CAPITAL F
+2133	needsfix_scriptcapitalm	SCRIPT CAPITAL M
+2134	needsfix_scriptsmallo	SCRIPT SMALL O
+2135	needsfix_aleph	ALEF SYMBOL
+2136	needsfix_betsymbol	BET SYMBOL
+2137	needsfix_gimelsymbol	GIMEL SYMBOL
+2138	needsfix_daletsymbol	DALET SYMBOL
+2139	needsfix_informationsource	INFORMATION SOURCE
+213A	needsfix_rotatedcapitalq	ROTATED CAPITAL Q
+213B	needsfix_facsimilesign	FACSIMILE SIGN
+213C	needsfix_doublestrucksmallpi	DOUBLE-STRUCK SMALL PI
+213D	needsfix_doublestrucksmallgamma	DOUBLE-STRUCK SMALL GAMMA
+213E	needsfix_doublestruckcapitalgamma	DOUBLE-STRUCK CAPITAL GAMMA
+213F	needsfix_doublestruckcapitalpi	DOUBLE-STRUCK CAPITAL PI
+2140	needsfix_doublestrucknarysummation	DOUBLE-STRUCK N-ARY SUMMATION
+2141	needsfix_turnedsansserifcapitalg	TURNED SANS-SERIF CAPITAL G
+2142	needsfix_turnedsansserifcapitall	TURNED SANS-SERIF CAPITAL L
+2143	needsfix_reversedsansserifcapitall	REVERSED SANS-SERIF CAPITAL L
+2144	needsfix_turnedsansserifcapitaly	TURNED SANS-SERIF CAPITAL Y
+2145	needsfix_doublestruckitaliccapitald	DOUBLE-STRUCK ITALIC CAPITAL D
+2146	needsfix_doublestruckitalicsmalld	DOUBLE-STRUCK ITALIC SMALL D
+2147	needsfix_doublestruckitalicsmalle	DOUBLE-STRUCK ITALIC SMALL E
+2148	needsfix_doublestruckitalicsmalli	DOUBLE-STRUCK ITALIC SMALL I
+2149	needsfix_doublestruckitalicsmallj	DOUBLE-STRUCK ITALIC SMALL J
+214A	needsfix_propertyline	PROPERTY LINE
+214B	needsfix_turnedampersand	TURNED AMPERSAND
+214C	needsfix_persign	PER SIGN
+214D	needsfix_aktieselskab	AKTIESELSKAB
+214E	needsfix_turnedsmallf	TURNED SMALL F
+214F	needsfix_symbolforsamaritansource	SYMBOL FOR SAMARITAN SOURCE

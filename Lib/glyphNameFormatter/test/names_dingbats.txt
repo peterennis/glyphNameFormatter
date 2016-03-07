@@ -1,176 +1,176 @@
 # Dingbats 2700 - 27BF
-2701	needsfix__upperbladescissors	UPPER BLADE SCISSORS
-2702	needsfix__blackscissors	BLACK SCISSORS
-2703	needsfix__lowerbladescissors	LOWER BLADE SCISSORS
-2704	needsfix__whitescissors	WHITE SCISSORS
-2706	needsfix__telephonelocationsign	TELEPHONE LOCATION SIGN
-2707	needsfix__tapedrive	TAPE DRIVE
-2708	needsfix__airplane	AIRPLANE
-2709	needsfix__envelope	ENVELOPE
-270C	needsfix__victoryhand	VICTORY HAND
-270D	needsfix__writinghand	WRITING HAND
-270E	needsfix__lowerrightpencil	LOWER RIGHT PENCIL
-270F	needsfix__pencil	PENCIL
-2710	needsfix__upperrightpencil	UPPER RIGHT PENCIL
-2711	needsfix__whitenib	WHITE NIB
-2712	needsfix__blacknib	BLACK NIB
-2713	needsfix__checkmark	CHECK MARK
-2714	needsfix__heavycheckmark	HEAVY CHECK MARK
-2715	needsfix__multiplicationx	MULTIPLICATION X
-2716	needsfix__heavymultiplicationx	HEAVY MULTIPLICATION X
-2717	needsfix__ballotx	BALLOT X
-2718	needsfix__heavyballotx	HEAVY BALLOT X
-2719	needsfix__outlinedgreekcross	OUTLINED GREEK CROSS
-271A	needsfix__heavygreekcross	HEAVY GREEK CROSS
-271B	needsfix__opencentrecross	OPEN CENTRE CROSS
-271C	needsfix__heavyopencentrecross	HEAVY OPEN CENTRE CROSS
-271D	needsfix__latincross	LATIN CROSS
-271E	needsfix__shadowedwhitelatincross	SHADOWED WHITE LATIN CROSS
-271F	needsfix__outlinedlatincross	OUTLINED LATIN CROSS
-2720	needsfix__maltesecross	MALTESE CROSS
-2721	needsfix__starofdavid	STAR OF DAVID
-2722	needsfix__fourteardropspokedasterisk	FOUR TEARDROP-SPOKED ASTERISK
-2723	needsfix__fourballoonspokedasterisk	FOUR BALLOON-SPOKED ASTERISK
-2724	needsfix__heavyfourballoonspokedasterisk	HEAVY FOUR BALLOON-SPOKED ASTERISK
-2725	needsfix__fourclubspokedasterisk	FOUR CLUB-SPOKED ASTERISK
-2726	needsfix__blackfourpointedstar	BLACK FOUR POINTED STAR
-2727	needsfix__whitefourpointedstar	WHITE FOUR POINTED STAR
-2729	needsfix__stressoutlinedwhitestar	STRESS OUTLINED WHITE STAR
-272A	needsfix__circledwhitestar	CIRCLED WHITE STAR
-272B	needsfix__opencentreblackstar	OPEN CENTRE BLACK STAR
-272C	needsfix__blackcentrewhitestar	BLACK CENTRE WHITE STAR
-272D	needsfix__outlinedblackstar	OUTLINED BLACK STAR
-272E	needsfix__heavyoutlinedblackstar	HEAVY OUTLINED BLACK STAR
-272F	needsfix__pinwheelstar	PINWHEEL STAR
-2730	needsfix__shadowedwhitestar	SHADOWED WHITE STAR
-2731	needsfix__heavyasterisk	HEAVY ASTERISK
-2732	needsfix__opencentreasterisk	OPEN CENTRE ASTERISK
-2733	needsfix__eightspokedasterisk	EIGHT SPOKED ASTERISK
-2734	needsfix__eightpointedblackstar	EIGHT POINTED BLACK STAR
-2735	needsfix__eightpointedpinwheelstar	EIGHT POINTED PINWHEEL STAR
-2736	needsfix__sixpointedblackstar	SIX POINTED BLACK STAR
-2737	needsfix__eightpointedrectilinearblackstar	EIGHT POINTED RECTILINEAR BLACK STAR
-2738	needsfix__heavyeightpointedrectilinearblackstar	HEAVY EIGHT POINTED RECTILINEAR BLACK STAR
-2739	needsfix__twelvepointedblackstar	TWELVE POINTED BLACK STAR
-273A	needsfix__sixteenpointedasterisk	SIXTEEN POINTED ASTERISK
-273B	needsfix__teardropspokedasterisk	TEARDROP-SPOKED ASTERISK
-273C	needsfix__opencentreteardropspokedasterisk	OPEN CENTRE TEARDROP-SPOKED ASTERISK
-273D	needsfix__heavyteardropspokedasterisk	HEAVY TEARDROP-SPOKED ASTERISK
-273E	needsfix__sixpetalledblackandwhiteflorette	SIX PETALLED BLACK AND WHITE FLORETTE
-273F	needsfix__blackflorette	BLACK FLORETTE
-2740	needsfix__whiteflorette	WHITE FLORETTE
-2741	needsfix__eightpetalledoutlinedblackflorette	EIGHT PETALLED OUTLINED BLACK FLORETTE
-2742	needsfix__circledopencentreeightpointedstar	CIRCLED OPEN CENTRE EIGHT POINTED STAR
-2743	needsfix__heavyteardropspokedpinwheelasterisk	HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK
-2744	needsfix__snowflake	SNOWFLAKE
-2745	needsfix__tighttrifoliatesnowflake	TIGHT TRIFOLIATE SNOWFLAKE
-2746	needsfix__heavychevronsnowflake	HEAVY CHEVRON SNOWFLAKE
-2747	needsfix__sparkle	SPARKLE
-2748	needsfix__heavysparkle	HEAVY SPARKLE
-2749	needsfix__balloonspokedasterisk	BALLOON-SPOKED ASTERISK
-274A	needsfix__eightteardropspokedpropellerasterisk	EIGHT TEARDROP-SPOKED PROPELLER ASTERISK
-274B	needsfix__heavyeightteardropspokedpropellerasterisk	HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK
-274D	needsfix__shadowedwhitecircle	SHADOWED WHITE CIRCLE
-274F	needsfix__lowerrightdropshadowedwhitesquare	LOWER RIGHT DROP-SHADOWED WHITE SQUARE
-2750	needsfix__upperrightdropshadowedwhitesquare	UPPER RIGHT DROP-SHADOWED WHITE SQUARE
-2751	needsfix__lowerrightshadowedwhitesquare	LOWER RIGHT SHADOWED WHITE SQUARE
-2752	needsfix__upperrightshadowedwhitesquare	UPPER RIGHT SHADOWED WHITE SQUARE
-2756	needsfix__blackdiamondminuswhitex	BLACK DIAMOND MINUS WHITE X
-2757	needsfix__heavyexclamationmarksymbol	HEAVY EXCLAMATION MARK SYMBOL
-2758	needsfix__lightverticalbar	LIGHT VERTICAL BAR
-2759	needsfix__mediumverticalbar	MEDIUM VERTICAL BAR
-275A	needsfix__heavyverticalbar	HEAVY VERTICAL BAR
-275B	needsfix__heavysingleturnedcommaquotationmarkornament	HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT
-275C	needsfix__heavysinglecommaquotationmarkornament	HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT
-275D	needsfix__heavydoubleturnedcommaquotationmarkornament	HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT
-275E	needsfix__heavydoublecommaquotationmarkornament	HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT
-2761	needsfix__curvedstemparagraphsignornament	CURVED STEM PARAGRAPH SIGN ORNAMENT
-2762	needsfix__heavyexclamationmarkornament	HEAVY EXCLAMATION MARK ORNAMENT
-2763	needsfix__heavyheartexclamationmarkornament	HEAVY HEART EXCLAMATION MARK ORNAMENT
-2764	needsfix__heavyblackheart	HEAVY BLACK HEART
-2765	needsfix__rotatedheavyblackheartbullet	ROTATED HEAVY BLACK HEART BULLET
-2766	needsfix__floralheart	FLORAL HEART
-2767	needsfix__rotatedfloralheartbullet	ROTATED FLORAL HEART BULLET
-2768	needsfix__mediumleftparenthesisornament	MEDIUM LEFT PARENTHESIS ORNAMENT
-2769	needsfix__mediumrightparenthesisornament	MEDIUM RIGHT PARENTHESIS ORNAMENT
-276A	needsfix__mediumflattenedleftparenthesisornament	MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT
-276B	needsfix__mediumflattenedrightparenthesisornament	MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT
-276C	needsfix__mediumleftpointinganglebracketornament	MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT
-276D	needsfix__mediumrightpointinganglebracketornament	MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT
-276E	needsfix__heavyleftpointinganglequotationmarkornament	HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT
-276F	needsfix__heavyrightpointinganglequotationmarkornament	HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT
-2770	needsfix__heavyleftpointinganglebracketornament	HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT
-2771	needsfix__heavyrightpointinganglebracketornament	HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT
-2772	needsfix__lightlefttortoiseshellbracketornament	LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT
-2773	needsfix__lightrighttortoiseshellbracketornament	LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT
-2774	needsfix__mediumleftcurlybracketornament	MEDIUM LEFT CURLY BRACKET ORNAMENT
-2775	needsfix__mediumrightcurlybracketornament	MEDIUM RIGHT CURLY BRACKET ORNAMENT
-2776	needsfix__dingbatnegativecircleddigitone	DINGBAT NEGATIVE CIRCLED DIGIT ONE
-2777	needsfix__dingbatnegativecircleddigittwo	DINGBAT NEGATIVE CIRCLED DIGIT TWO
-2778	needsfix__dingbatnegativecircleddigitthree	DINGBAT NEGATIVE CIRCLED DIGIT THREE
-2779	needsfix__dingbatnegativecircleddigitfour	DINGBAT NEGATIVE CIRCLED DIGIT FOUR
-277A	needsfix__dingbatnegativecircleddigitfive	DINGBAT NEGATIVE CIRCLED DIGIT FIVE
-277B	needsfix__dingbatnegativecircleddigitsix	DINGBAT NEGATIVE CIRCLED DIGIT SIX
-277C	needsfix__dingbatnegativecircleddigitseven	DINGBAT NEGATIVE CIRCLED DIGIT SEVEN
-277D	needsfix__dingbatnegativecircleddigiteight	DINGBAT NEGATIVE CIRCLED DIGIT EIGHT
-277E	needsfix__dingbatnegativecircleddigitnine	DINGBAT NEGATIVE CIRCLED DIGIT NINE
-277F	needsfix__dingbatnegativecirclednumberten	DINGBAT NEGATIVE CIRCLED NUMBER TEN
-2780	needsfix__dingbatcircledsansserifdigitone	DINGBAT CIRCLED SANS-SERIF DIGIT ONE
-2781	needsfix__dingbatcircledsansserifdigittwo	DINGBAT CIRCLED SANS-SERIF DIGIT TWO
-2782	needsfix__dingbatcircledsansserifdigitthree	DINGBAT CIRCLED SANS-SERIF DIGIT THREE
-2783	needsfix__dingbatcircledsansserifdigitfour	DINGBAT CIRCLED SANS-SERIF DIGIT FOUR
-2784	needsfix__dingbatcircledsansserifdigitfive	DINGBAT CIRCLED SANS-SERIF DIGIT FIVE
-2785	needsfix__dingbatcircledsansserifdigitsix	DINGBAT CIRCLED SANS-SERIF DIGIT SIX
-2786	needsfix__dingbatcircledsansserifdigitseven	DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN
-2787	needsfix__dingbatcircledsansserifdigiteight	DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT
-2788	needsfix__dingbatcircledsansserifdigitnine	DINGBAT CIRCLED SANS-SERIF DIGIT NINE
-2789	needsfix__dingbatcircledsansserifnumberten	DINGBAT CIRCLED SANS-SERIF NUMBER TEN
-278A	needsfix__dingbatnegativecircledsansserifdigitone	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE
-278B	needsfix__dingbatnegativecircledsansserifdigittwo	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO
-278C	needsfix__dingbatnegativecircledsansserifdigitthree	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE
-278D	needsfix__dingbatnegativecircledsansserifdigitfour	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR
-278E	needsfix__dingbatnegativecircledsansserifdigitfive	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE
-278F	needsfix__dingbatnegativecircledsansserifdigitsix	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX
-2790	needsfix__dingbatnegativecircledsansserifdigitseven	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN
-2791	needsfix__dingbatnegativecircledsansserifdigiteight	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT
-2792	needsfix__dingbatnegativecircledsansserifdigitnine	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE
-2793	needsfix__dingbatnegativecircledsansserifnumberten	DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN
-2794	needsfix__heavywideheadedrightwardsarrow	HEAVY WIDE-HEADED RIGHTWARDS ARROW
-2798	needsfix__heavysoutheastarrow	HEAVY SOUTH EAST ARROW
-2799	needsfix__heavyrightwardsarrow	HEAVY RIGHTWARDS ARROW
-279A	needsfix__heavynortheastarrow	HEAVY NORTH EAST ARROW
-279B	needsfix__draftingpointrightwardsarrow	DRAFTING POINT RIGHTWARDS ARROW
-279C	needsfix__heavyroundtippedrightwardsarrow	HEAVY ROUND-TIPPED RIGHTWARDS ARROW
-279D	needsfix__triangleheadedrightwardsarrow	TRIANGLE-HEADED RIGHTWARDS ARROW
-279E	needsfix__heavytriangleheadedrightwardsarrow	HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW
-279F	needsfix__dashedtriangleheadedrightwardsarrow	DASHED TRIANGLE-HEADED RIGHTWARDS ARROW
-27A0	needsfix__heavydashedtriangleheadedrightwardsarrow	HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW
-27A1	needsfix__blackrightwardsarrow	BLACK RIGHTWARDS ARROW
-27A2	needsfix__threedtoplightedrightwardsarrowhead	THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD
-27A3	needsfix__threedbottomlightedrightwardsarrowhead	THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD
-27A4	needsfix__blackrightwardsarrowhead	BLACK RIGHTWARDS ARROWHEAD
-27A5	needsfix__heavyblackcurveddownwardsandrightwardsarrow	HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW
-27A6	needsfix__heavyblackcurvedupwardsandrightwardsarrow	HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW
-27A7	needsfix__squatblackrightwardsarrow	SQUAT BLACK RIGHTWARDS ARROW
-27A8	needsfix__heavyconcavepointedblackrightwardsarrow	HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW
-27A9	needsfix__rightshadedwhiterightwardsarrow	RIGHT-SHADED WHITE RIGHTWARDS ARROW
-27AA	needsfix__leftshadedwhiterightwardsarrow	LEFT-SHADED WHITE RIGHTWARDS ARROW
-27AB	needsfix__backtiltedshadowedwhiterightwardsarrow	BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW
-27AC	needsfix__fronttiltedshadowedwhiterightwardsarrow	FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW
-27AD	needsfix__heavylowerrightshadowedwhiterightwardsarrow	HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
-27AE	needsfix__heavyupperrightshadowedwhiterightwardsarrow	HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
-27AF	needsfix__notchedlowerrightshadowedwhiterightwardsarrow	NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
-27B1	needsfix__notchedupperrightshadowedwhiterightwardsarrow	NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
-27B2	needsfix__circledheavywhiterightwardsarrow	CIRCLED HEAVY WHITE RIGHTWARDS ARROW
-27B3	needsfix__whitefeatheredrightwardsarrow	WHITE-FEATHERED RIGHTWARDS ARROW
-27B4	needsfix__blackfeatheredsoutheastarrow	BLACK-FEATHERED SOUTH EAST ARROW
-27B5	needsfix__blackfeatheredrightwardsarrow	BLACK-FEATHERED RIGHTWARDS ARROW
-27B6	needsfix__blackfeatherednortheastarrow	BLACK-FEATHERED NORTH EAST ARROW
-27B7	needsfix__heavyblackfeatheredsoutheastarrow	HEAVY BLACK-FEATHERED SOUTH EAST ARROW
-27B8	needsfix__heavyblackfeatheredrightwardsarrow	HEAVY BLACK-FEATHERED RIGHTWARDS ARROW
-27B9	needsfix__heavyblackfeatherednortheastarrow	HEAVY BLACK-FEATHERED NORTH EAST ARROW
-27BA	needsfix__teardropbarbedrightwardsarrow	TEARDROP-BARBED RIGHTWARDS ARROW
-27BB	needsfix__heavyteardropshankedrightwardsarrow	HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW
-27BC	needsfix__wedgetailedrightwardsarrow	WEDGE-TAILED RIGHTWARDS ARROW
-27BD	needsfix__heavywedgetailedrightwardsarrow	HEAVY WEDGE-TAILED RIGHTWARDS ARROW
-27BE	needsfix__openoutlinedrightwardsarrow	OPEN-OUTLINED RIGHTWARDS ARROW
+2701	needsfix_upperbladescissors	UPPER BLADE SCISSORS
+2702	needsfix_blackscissors	BLACK SCISSORS
+2703	needsfix_lowerbladescissors	LOWER BLADE SCISSORS
+2704	needsfix_whitescissors	WHITE SCISSORS
+2706	needsfix_telephonelocationsign	TELEPHONE LOCATION SIGN
+2707	needsfix_tapedrive	TAPE DRIVE
+2708	needsfix_airplane	AIRPLANE
+2709	needsfix_envelope	ENVELOPE
+270C	needsfix_victoryhand	VICTORY HAND
+270D	needsfix_writinghand	WRITING HAND
+270E	needsfix_lowerrightpencil	LOWER RIGHT PENCIL
+270F	needsfix_pencil	PENCIL
+2710	needsfix_upperrightpencil	UPPER RIGHT PENCIL
+2711	needsfix_whitenib	WHITE NIB
+2712	needsfix_blacknib	BLACK NIB
+2713	needsfix_checkmark	CHECK MARK
+2714	needsfix_heavycheckmark	HEAVY CHECK MARK
+2715	needsfix_multiplicationx	MULTIPLICATION X
+2716	needsfix_heavymultiplicationx	HEAVY MULTIPLICATION X
+2717	needsfix_ballotx	BALLOT X
+2718	needsfix_heavyballotx	HEAVY BALLOT X
+2719	needsfix_outlinedgreekcross	OUTLINED GREEK CROSS
+271A	needsfix_heavygreekcross	HEAVY GREEK CROSS
+271B	needsfix_opencentrecross	OPEN CENTRE CROSS
+271C	needsfix_heavyopencentrecross	HEAVY OPEN CENTRE CROSS
+271D	needsfix_latincross	LATIN CROSS
+271E	needsfix_shadowedwhitelatincross	SHADOWED WHITE LATIN CROSS
+271F	needsfix_outlinedlatincross	OUTLINED LATIN CROSS
+2720	needsfix_maltesecross	MALTESE CROSS
+2721	needsfix_starofdavid	STAR OF DAVID
+2722	needsfix_fourteardropspokedasterisk	FOUR TEARDROP-SPOKED ASTERISK
+2723	needsfix_fourballoonspokedasterisk	FOUR BALLOON-SPOKED ASTERISK
+2724	needsfix_heavyfourballoonspokedasterisk	HEAVY FOUR BALLOON-SPOKED ASTERISK
+2725	needsfix_fourclubspokedasterisk	FOUR CLUB-SPOKED ASTERISK
+2726	needsfix_blackfourpointedstar	BLACK FOUR POINTED STAR
+2727	needsfix_whitefourpointedstar	WHITE FOUR POINTED STAR
+2729	needsfix_stressoutlinedwhitestar	STRESS OUTLINED WHITE STAR
+272A	needsfix_circledwhitestar	CIRCLED WHITE STAR
+272B	needsfix_opencentreblackstar	OPEN CENTRE BLACK STAR
+272C	needsfix_blackcentrewhitestar	BLACK CENTRE WHITE STAR
+272D	needsfix_outlinedblackstar	OUTLINED BLACK STAR
+272E	needsfix_heavyoutlinedblackstar	HEAVY OUTLINED BLACK STAR
+272F	needsfix_pinwheelstar	PINWHEEL STAR
+2730	needsfix_shadowedwhitestar	SHADOWED WHITE STAR
+2731	needsfix_heavyasterisk	HEAVY ASTERISK
+2732	needsfix_opencentreasterisk	OPEN CENTRE ASTERISK
+2733	needsfix_eightspokedasterisk	EIGHT SPOKED ASTERISK
+2734	needsfix_eightpointedblackstar	EIGHT POINTED BLACK STAR
+2735	needsfix_eightpointedpinwheelstar	EIGHT POINTED PINWHEEL STAR
+2736	needsfix_sixpointedblackstar	SIX POINTED BLACK STAR
+2737	needsfix_eightpointedrectilinearblackstar	EIGHT POINTED RECTILINEAR BLACK STAR
+2738	needsfix_heavyeightpointedrectilinearblackstar	HEAVY EIGHT POINTED RECTILINEAR BLACK STAR
+2739	needsfix_twelvepointedblackstar	TWELVE POINTED BLACK STAR
+273A	needsfix_sixteenpointedasterisk	SIXTEEN POINTED ASTERISK
+273B	needsfix_teardropspokedasterisk	TEARDROP-SPOKED ASTERISK
+273C	needsfix_opencentreteardropspokedasterisk	OPEN CENTRE TEARDROP-SPOKED ASTERISK
+273D	needsfix_heavyteardropspokedasterisk	HEAVY TEARDROP-SPOKED ASTERISK
+273E	needsfix_sixpetalledblackandwhiteflorette	SIX PETALLED BLACK AND WHITE FLORETTE
+273F	needsfix_blackflorette	BLACK FLORETTE
+2740	needsfix_whiteflorette	WHITE FLORETTE
+2741	needsfix_eightpetalledoutlinedblackflorette	EIGHT PETALLED OUTLINED BLACK FLORETTE
+2742	needsfix_circledopencentreeightpointedstar	CIRCLED OPEN CENTRE EIGHT POINTED STAR
+2743	needsfix_heavyteardropspokedpinwheelasterisk	HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK
+2744	needsfix_snowflake	SNOWFLAKE
+2745	needsfix_tighttrifoliatesnowflake	TIGHT TRIFOLIATE SNOWFLAKE
+2746	needsfix_heavychevronsnowflake	HEAVY CHEVRON SNOWFLAKE
+2747	needsfix_sparkle	SPARKLE
+2748	needsfix_heavysparkle	HEAVY SPARKLE
+2749	needsfix_balloonspokedasterisk	BALLOON-SPOKED ASTERISK
+274A	needsfix_eightteardropspokedpropellerasterisk	EIGHT TEARDROP-SPOKED PROPELLER ASTERISK
+274B	needsfix_heavyeightteardropspokedpropellerasterisk	HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK
+274D	needsfix_shadowedwhitecircle	SHADOWED WHITE CIRCLE
+274F	needsfix_lowerrightdropshadowedwhitesquare	LOWER RIGHT DROP-SHADOWED WHITE SQUARE
+2750	needsfix_upperrightdropshadowedwhitesquare	UPPER RIGHT DROP-SHADOWED WHITE SQUARE
+2751	needsfix_lowerrightshadowedwhitesquare	LOWER RIGHT SHADOWED WHITE SQUARE
+2752	needsfix_upperrightshadowedwhitesquare	UPPER RIGHT SHADOWED WHITE SQUARE
+2756	needsfix_blackdiamondminuswhitex	BLACK DIAMOND MINUS WHITE X
+2757	needsfix_heavyexclamationmarksymbol	HEAVY EXCLAMATION MARK SYMBOL
+2758	needsfix_lightverticalbar	LIGHT VERTICAL BAR
+2759	needsfix_mediumverticalbar	MEDIUM VERTICAL BAR
+275A	needsfix_heavyverticalbar	HEAVY VERTICAL BAR
+275B	needsfix_heavysingleturnedcommaquotationmarkornament	HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT
+275C	needsfix_heavysinglecommaquotationmarkornament	HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT
+275D	needsfix_heavydoubleturnedcommaquotationmarkornament	HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT
+275E	needsfix_heavydoublecommaquotationmarkornament	HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT
+2761	needsfix_curvedstemparagraphsignornament	CURVED STEM PARAGRAPH SIGN ORNAMENT
+2762	needsfix_heavyexclamationmarkornament	HEAVY EXCLAMATION MARK ORNAMENT
+2763	needsfix_heavyheartexclamationmarkornament	HEAVY HEART EXCLAMATION MARK ORNAMENT
+2764	needsfix_heavyblackheart	HEAVY BLACK HEART
+2765	needsfix_rotatedheavyblackheartbullet	ROTATED HEAVY BLACK HEART BULLET
+2766	needsfix_floralheart	FLORAL HEART
+2767	needsfix_rotatedfloralheartbullet	ROTATED FLORAL HEART BULLET
+2768	needsfix_mediumleftparenthesisornament	MEDIUM LEFT PARENTHESIS ORNAMENT
+2769	needsfix_mediumrightparenthesisornament	MEDIUM RIGHT PARENTHESIS ORNAMENT
+276A	needsfix_mediumflattenedleftparenthesisornament	MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT
+276B	needsfix_mediumflattenedrightparenthesisornament	MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT
+276C	needsfix_mediumleftpointinganglebracketornament	MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT
+276D	needsfix_mediumrightpointinganglebracketornament	MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT
+276E	needsfix_heavyleftpointinganglequotationmarkornament	HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT
+276F	needsfix_heavyrightpointinganglequotationmarkornament	HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT
+2770	needsfix_heavyleftpointinganglebracketornament	HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT
+2771	needsfix_heavyrightpointinganglebracketornament	HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT
+2772	needsfix_lightlefttortoiseshellbracketornament	LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT
+2773	needsfix_lightrighttortoiseshellbracketornament	LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT
+2774	needsfix_mediumleftcurlybracketornament	MEDIUM LEFT CURLY BRACKET ORNAMENT
+2775	needsfix_mediumrightcurlybracketornament	MEDIUM RIGHT CURLY BRACKET ORNAMENT
+2776	needsfix_dingbatnegativecircleddigitone	DINGBAT NEGATIVE CIRCLED DIGIT ONE
+2777	needsfix_dingbatnegativecircleddigittwo	DINGBAT NEGATIVE CIRCLED DIGIT TWO
+2778	needsfix_dingbatnegativecircleddigitthree	DINGBAT NEGATIVE CIRCLED DIGIT THREE
+2779	needsfix_dingbatnegativecircleddigitfour	DINGBAT NEGATIVE CIRCLED DIGIT FOUR
+277A	needsfix_dingbatnegativecircleddigitfive	DINGBAT NEGATIVE CIRCLED DIGIT FIVE
+277B	needsfix_dingbatnegativecircleddigitsix	DINGBAT NEGATIVE CIRCLED DIGIT SIX
+277C	needsfix_dingbatnegativecircleddigitseven	DINGBAT NEGATIVE CIRCLED DIGIT SEVEN
+277D	needsfix_dingbatnegativecircleddigiteight	DINGBAT NEGATIVE CIRCLED DIGIT EIGHT
+277E	needsfix_dingbatnegativecircleddigitnine	DINGBAT NEGATIVE CIRCLED DIGIT NINE
+277F	needsfix_dingbatnegativecirclednumberten	DINGBAT NEGATIVE CIRCLED NUMBER TEN
+2780	needsfix_dingbatcircledsansserifdigitone	DINGBAT CIRCLED SANS-SERIF DIGIT ONE
+2781	needsfix_dingbatcircledsansserifdigittwo	DINGBAT CIRCLED SANS-SERIF DIGIT TWO
+2782	needsfix_dingbatcircledsansserifdigitthree	DINGBAT CIRCLED SANS-SERIF DIGIT THREE
+2783	needsfix_dingbatcircledsansserifdigitfour	DINGBAT CIRCLED SANS-SERIF DIGIT FOUR
+2784	needsfix_dingbatcircledsansserifdigitfive	DINGBAT CIRCLED SANS-SERIF DIGIT FIVE
+2785	needsfix_dingbatcircledsansserifdigitsix	DINGBAT CIRCLED SANS-SERIF DIGIT SIX
+2786	needsfix_dingbatcircledsansserifdigitseven	DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN
+2787	needsfix_dingbatcircledsansserifdigiteight	DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT
+2788	needsfix_dingbatcircledsansserifdigitnine	DINGBAT CIRCLED SANS-SERIF DIGIT NINE
+2789	needsfix_dingbatcircledsansserifnumberten	DINGBAT CIRCLED SANS-SERIF NUMBER TEN
+278A	needsfix_dingbatnegativecircledsansserifdigitone	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE
+278B	needsfix_dingbatnegativecircledsansserifdigittwo	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO
+278C	needsfix_dingbatnegativecircledsansserifdigitthree	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE
+278D	needsfix_dingbatnegativecircledsansserifdigitfour	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR
+278E	needsfix_dingbatnegativecircledsansserifdigitfive	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE
+278F	needsfix_dingbatnegativecircledsansserifdigitsix	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX
+2790	needsfix_dingbatnegativecircledsansserifdigitseven	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN
+2791	needsfix_dingbatnegativecircledsansserifdigiteight	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT
+2792	needsfix_dingbatnegativecircledsansserifdigitnine	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE
+2793	needsfix_dingbatnegativecircledsansserifnumberten	DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN
+2794	needsfix_heavywideheadedrightwardsarrow	HEAVY WIDE-HEADED RIGHTWARDS ARROW
+2798	needsfix_heavysoutheastarrow	HEAVY SOUTH EAST ARROW
+2799	needsfix_heavyrightwardsarrow	HEAVY RIGHTWARDS ARROW
+279A	needsfix_heavynortheastarrow	HEAVY NORTH EAST ARROW
+279B	needsfix_draftingpointrightwardsarrow	DRAFTING POINT RIGHTWARDS ARROW
+279C	needsfix_heavyroundtippedrightwardsarrow	HEAVY ROUND-TIPPED RIGHTWARDS ARROW
+279D	needsfix_triangleheadedrightwardsarrow	TRIANGLE-HEADED RIGHTWARDS ARROW
+279E	needsfix_heavytriangleheadedrightwardsarrow	HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW
+279F	needsfix_dashedtriangleheadedrightwardsarrow	DASHED TRIANGLE-HEADED RIGHTWARDS ARROW
+27A0	needsfix_heavydashedtriangleheadedrightwardsarrow	HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW
+27A1	needsfix_blackrightwardsarrow	BLACK RIGHTWARDS ARROW
+27A2	needsfix_threedtoplightedrightwardsarrowhead	THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD
+27A3	needsfix_threedbottomlightedrightwardsarrowhead	THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD
+27A4	needsfix_blackrightwardsarrowhead	BLACK RIGHTWARDS ARROWHEAD
+27A5	needsfix_heavyblackcurveddownwardsandrightwardsarrow	HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW
+27A6	needsfix_heavyblackcurvedupwardsandrightwardsarrow	HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW
+27A7	needsfix_squatblackrightwardsarrow	SQUAT BLACK RIGHTWARDS ARROW
+27A8	needsfix_heavyconcavepointedblackrightwardsarrow	HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW
+27A9	needsfix_rightshadedwhiterightwardsarrow	RIGHT-SHADED WHITE RIGHTWARDS ARROW
+27AA	needsfix_leftshadedwhiterightwardsarrow	LEFT-SHADED WHITE RIGHTWARDS ARROW
+27AB	needsfix_backtiltedshadowedwhiterightwardsarrow	BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW
+27AC	needsfix_fronttiltedshadowedwhiterightwardsarrow	FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW
+27AD	needsfix_heavylowerrightshadowedwhiterightwardsarrow	HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
+27AE	needsfix_heavyupperrightshadowedwhiterightwardsarrow	HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
+27AF	needsfix_notchedlowerrightshadowedwhiterightwardsarrow	NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
+27B1	needsfix_notchedupperrightshadowedwhiterightwardsarrow	NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
+27B2	needsfix_circledheavywhiterightwardsarrow	CIRCLED HEAVY WHITE RIGHTWARDS ARROW
+27B3	needsfix_whitefeatheredrightwardsarrow	WHITE-FEATHERED RIGHTWARDS ARROW
+27B4	needsfix_blackfeatheredsoutheastarrow	BLACK-FEATHERED SOUTH EAST ARROW
+27B5	needsfix_blackfeatheredrightwardsarrow	BLACK-FEATHERED RIGHTWARDS ARROW
+27B6	needsfix_blackfeatherednortheastarrow	BLACK-FEATHERED NORTH EAST ARROW
+27B7	needsfix_heavyblackfeatheredsoutheastarrow	HEAVY BLACK-FEATHERED SOUTH EAST ARROW
+27B8	needsfix_heavyblackfeatheredrightwardsarrow	HEAVY BLACK-FEATHERED RIGHTWARDS ARROW
+27B9	needsfix_heavyblackfeatherednortheastarrow	HEAVY BLACK-FEATHERED NORTH EAST ARROW
+27BA	needsfix_teardropbarbedrightwardsarrow	TEARDROP-BARBED RIGHTWARDS ARROW
+27BB	needsfix_heavyteardropshankedrightwardsarrow	HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW
+27BC	needsfix_wedgetailedrightwardsarrow	WEDGE-TAILED RIGHTWARDS ARROW
+27BD	needsfix_heavywedgetailedrightwardsarrow	HEAVY WEDGE-TAILED RIGHTWARDS ARROW
+27BE	needsfix_openoutlinedrightwardsarrow	OPEN-OUTLINED RIGHTWARDS ARROW

@@ -1,21 +1,21 @@
 # Buhid 1740 - 175F
-1740	needsfix__buhidlettera	BUHID LETTER A
-1741	needsfix__buhidletteri	BUHID LETTER I
-1742	needsfix__buhidletteru	BUHID LETTER U
-1743	needsfix__buhidletterka	BUHID LETTER KA
-1744	needsfix__buhidletterga	BUHID LETTER GA
-1745	needsfix__buhidletternga	BUHID LETTER NGA
-1746	needsfix__buhidletterta	BUHID LETTER TA
-1747	needsfix__buhidletterda	BUHID LETTER DA
-1748	needsfix__buhidletterna	BUHID LETTER NA
-1749	needsfix__buhidletterpa	BUHID LETTER PA
-174A	needsfix__buhidletterba	BUHID LETTER BA
-174B	needsfix__buhidletterma	BUHID LETTER MA
-174C	needsfix__buhidletterya	BUHID LETTER YA
-174D	needsfix__buhidletterra	BUHID LETTER RA
-174E	needsfix__buhidletterla	BUHID LETTER LA
-174F	needsfix__buhidletterwa	BUHID LETTER WA
-1750	needsfix__buhidlettersa	BUHID LETTER SA
-1751	needsfix__buhidletterha	BUHID LETTER HA
-1752	needsfix__buhidvowelsigni	BUHID VOWEL SIGN I
-1753	needsfix__buhidvowelsignu	BUHID VOWEL SIGN U
+1740	needsfix_buhidlettera	BUHID LETTER A
+1741	needsfix_buhidletteri	BUHID LETTER I
+1742	needsfix_buhidletteru	BUHID LETTER U
+1743	needsfix_buhidletterka	BUHID LETTER KA
+1744	needsfix_buhidletterga	BUHID LETTER GA
+1745	needsfix_buhidletternga	BUHID LETTER NGA
+1746	needsfix_buhidletterta	BUHID LETTER TA
+1747	needsfix_buhidletterda	BUHID LETTER DA
+1748	needsfix_buhidletterna	BUHID LETTER NA
+1749	needsfix_buhidletterpa	BUHID LETTER PA
+174A	needsfix_buhidletterba	BUHID LETTER BA
+174B	needsfix_buhidletterma	BUHID LETTER MA
+174C	needsfix_buhidletterya	BUHID LETTER YA
+174D	needsfix_buhidletterra	BUHID LETTER RA
+174E	needsfix_buhidletterla	BUHID LETTER LA
+174F	needsfix_buhidletterwa	BUHID LETTER WA
+1750	needsfix_buhidlettersa	BUHID LETTER SA
+1751	needsfix_buhidletterha	BUHID LETTER HA
+1752	needsfix_buhidvowelsigni	BUHID VOWEL SIGN I
+1753	needsfix_buhidvowelsignu	BUHID VOWEL SIGN U

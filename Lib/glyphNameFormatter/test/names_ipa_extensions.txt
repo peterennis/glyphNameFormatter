@@ -1,97 +1,97 @@
 # IPA Extensions 0250 - 02AF
-0250	needsfix__latinsmallletterturneda	LATIN SMALL LETTER TURNED A
-0251	needsfix__latinsmallletteralpha	LATIN SMALL LETTER ALPHA
-0252	needsfix__latinsmallletterturnedalpha	LATIN SMALL LETTER TURNED ALPHA
-0253	needsfix__latinsmallletterbwithhook	LATIN SMALL LETTER B WITH HOOK
-0254	needsfix__latinsmallletteropeno	LATIN SMALL LETTER OPEN O
-0255	needsfix__latinsmalllettercwithcurl	LATIN SMALL LETTER C WITH CURL
-0256	needsfix__latinsmallletterdwithtail	LATIN SMALL LETTER D WITH TAIL
-0257	needsfix__latinsmallletterdwithhook	LATIN SMALL LETTER D WITH HOOK
-0258	needsfix__latinsmallletterreversede	LATIN SMALL LETTER REVERSED E
-0259	needsfix__latinsmallletterschwa	LATIN SMALL LETTER SCHWA
-025A	needsfix__latinsmallletterschwawithhook	LATIN SMALL LETTER SCHWA WITH HOOK
-025B	needsfix__latinsmallletteropene	LATIN SMALL LETTER OPEN E
-025C	needsfix__latinsmallletterreversedopene	LATIN SMALL LETTER REVERSED OPEN E
-025D	needsfix__latinsmallletterreversedopenewithhook	LATIN SMALL LETTER REVERSED OPEN E WITH HOOK
-025E	needsfix__latinsmallletterclosedreversedopene	LATIN SMALL LETTER CLOSED REVERSED OPEN E
-025F	needsfix__latinsmallletterdotlessjwithstroke	LATIN SMALL LETTER DOTLESS J WITH STROKE
-0260	needsfix__latinsmalllettergwithhook	LATIN SMALL LETTER G WITH HOOK
-0261	needsfix__latinsmallletterscriptg	LATIN SMALL LETTER SCRIPT G
-0262	needsfix__latinlettersmallcapitalg	LATIN LETTER SMALL CAPITAL G
-0263	needsfix__latinsmalllettergamma	LATIN SMALL LETTER GAMMA
-0264	needsfix__latinsmallletterramshorn	LATIN SMALL LETTER RAMS HORN
-0265	needsfix__latinsmallletterturnedh	LATIN SMALL LETTER TURNED H
-0266	needsfix__latinsmallletterhwithhook	LATIN SMALL LETTER H WITH HOOK
-0267	needsfix__latinsmallletterhengwithhook	LATIN SMALL LETTER HENG WITH HOOK
-0268	needsfix__latinsmallletteriwithstroke	LATIN SMALL LETTER I WITH STROKE
-0269	needsfix__latinsmallletteriota	LATIN SMALL LETTER IOTA
-026A	needsfix__latinlettersmallcapitali	LATIN LETTER SMALL CAPITAL I
-026B	needsfix__latinsmallletterlwithmiddletilde	LATIN SMALL LETTER L WITH MIDDLE TILDE
-026C	needsfix__latinsmallletterlwithbelt	LATIN SMALL LETTER L WITH BELT
-026D	needsfix__latinsmallletterlwithretroflexhook	LATIN SMALL LETTER L WITH RETROFLEX HOOK
-026E	needsfix__latinsmallletterlezh	LATIN SMALL LETTER LEZH
-026F	needsfix__latinsmallletterturnedm	LATIN SMALL LETTER TURNED M
-0270	needsfix__latinsmallletterturnedmwithlongleg	LATIN SMALL LETTER TURNED M WITH LONG LEG
-0271	needsfix__latinsmalllettermwithhook	LATIN SMALL LETTER M WITH HOOK
-0272	needsfix__latinsmallletternwithlefthook	LATIN SMALL LETTER N WITH LEFT HOOK
-0273	needsfix__latinsmallletternwithretroflexhook	LATIN SMALL LETTER N WITH RETROFLEX HOOK
-0274	needsfix__latinlettersmallcapitaln	LATIN LETTER SMALL CAPITAL N
-0275	needsfix__latinsmallletterbarredo	LATIN SMALL LETTER BARRED O
-0276	needsfix__latinlettersmallcapitaloe	LATIN LETTER SMALL CAPITAL OE
-0277	needsfix__latinsmallletterclosedomega	LATIN SMALL LETTER CLOSED OMEGA
-0278	needsfix__latinsmallletterphi	LATIN SMALL LETTER PHI
-0279	needsfix__latinsmallletterturnedr	LATIN SMALL LETTER TURNED R
-027A	needsfix__latinsmallletterturnedrwithlongleg	LATIN SMALL LETTER TURNED R WITH LONG LEG
-027B	needsfix__latinsmallletterturnedrwithhook	LATIN SMALL LETTER TURNED R WITH HOOK
-027C	needsfix__latinsmallletterrwithlongleg	LATIN SMALL LETTER R WITH LONG LEG
-027D	needsfix__latinsmallletterrwithtail	LATIN SMALL LETTER R WITH TAIL
-027E	needsfix__latinsmallletterrwithfishhook	LATIN SMALL LETTER R WITH FISHHOOK
-027F	needsfix__latinsmallletterreversedrwithfishhook	LATIN SMALL LETTER REVERSED R WITH FISHHOOK
-0280	needsfix__latinlettersmallcapitalr	LATIN LETTER SMALL CAPITAL R
-0281	needsfix__latinlettersmallcapitalinvertedr	LATIN LETTER SMALL CAPITAL INVERTED R
-0282	needsfix__latinsmallletterswithhook	LATIN SMALL LETTER S WITH HOOK
-0283	needsfix__latinsmallletteresh	LATIN SMALL LETTER ESH
-0284	needsfix__latinsmallletterdotlessjwithstrokeandhook	LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
-0285	needsfix__latinsmalllettersquatreversedesh	LATIN SMALL LETTER SQUAT REVERSED ESH
-0286	needsfix__latinsmalllettereshwithcurl	LATIN SMALL LETTER ESH WITH CURL
-0287	needsfix__latinsmallletterturnedt	LATIN SMALL LETTER TURNED T
-0288	needsfix__latinsmalllettertwithretroflexhook	LATIN SMALL LETTER T WITH RETROFLEX HOOK
-0289	needsfix__latinsmallletterubar	LATIN SMALL LETTER U BAR
-028A	needsfix__latinsmallletterupsilon	LATIN SMALL LETTER UPSILON
-028B	needsfix__latinsmalllettervwithhook	LATIN SMALL LETTER V WITH HOOK
-028C	needsfix__latinsmallletterturnedv	LATIN SMALL LETTER TURNED V
-028D	needsfix__latinsmallletterturnedw	LATIN SMALL LETTER TURNED W
-028E	needsfix__latinsmallletterturnedy	LATIN SMALL LETTER TURNED Y
-028F	needsfix__latinlettersmallcapitaly	LATIN LETTER SMALL CAPITAL Y
-0290	needsfix__latinsmallletterzwithretroflexhook	LATIN SMALL LETTER Z WITH RETROFLEX HOOK
-0291	needsfix__latinsmallletterzwithcurl	LATIN SMALL LETTER Z WITH CURL
-0292	needsfix__latinsmallletterezh	LATIN SMALL LETTER EZH
-0293	needsfix__latinsmallletterezhwithcurl	LATIN SMALL LETTER EZH WITH CURL
-0294	needsfix__latinletterglottalstop	LATIN LETTER GLOTTAL STOP
-0295	needsfix__latinletterpharyngealvoicedfricative	LATIN LETTER PHARYNGEAL VOICED FRICATIVE
-0296	needsfix__latinletterinvertedglottalstop	LATIN LETTER INVERTED GLOTTAL STOP
-0297	needsfix__latinletterstretchedc	LATIN LETTER STRETCHED C
-0298	needsfix__latinletterbilabialclick	LATIN LETTER BILABIAL CLICK
-0299	needsfix__latinlettersmallcapitalb	LATIN LETTER SMALL CAPITAL B
-029A	needsfix__latinsmallletterclosedopene	LATIN SMALL LETTER CLOSED OPEN E
-029B	needsfix__latinlettersmallcapitalgwithhook	LATIN LETTER SMALL CAPITAL G WITH HOOK
-029C	needsfix__latinlettersmallcapitalh	LATIN LETTER SMALL CAPITAL H
-029D	needsfix__latinsmallletterjwithcrossedtail	LATIN SMALL LETTER J WITH CROSSED-TAIL
-029E	needsfix__latinsmallletterturnedk	LATIN SMALL LETTER TURNED K
-029F	needsfix__latinlettersmallcapitall	LATIN LETTER SMALL CAPITAL L
-02A0	needsfix__latinsmallletterqwithhook	LATIN SMALL LETTER Q WITH HOOK
-02A1	needsfix__latinletterglottalstopwithstroke	LATIN LETTER GLOTTAL STOP WITH STROKE
-02A2	needsfix__latinletterreversedglottalstopwithstroke	LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
-02A3	needsfix__latinsmallletterdzdigraph	LATIN SMALL LETTER DZ DIGRAPH
-02A4	needsfix__latinsmallletterdezhdigraph	LATIN SMALL LETTER DEZH DIGRAPH
-02A5	needsfix__latinsmallletterdzdigraphwithcurl	LATIN SMALL LETTER DZ DIGRAPH WITH CURL
-02A6	needsfix__latinsmalllettertsdigraph	LATIN SMALL LETTER TS DIGRAPH
-02A7	needsfix__latinsmallletterteshdigraph	LATIN SMALL LETTER TESH DIGRAPH
-02A8	needsfix__latinsmalllettertcdigraphwithcurl	LATIN SMALL LETTER TC DIGRAPH WITH CURL
-02A9	needsfix__latinsmallletterfengdigraph	LATIN SMALL LETTER FENG DIGRAPH
-02AA	needsfix__latinsmallletterlsdigraph	LATIN SMALL LETTER LS DIGRAPH
-02AB	needsfix__latinsmallletterlzdigraph	LATIN SMALL LETTER LZ DIGRAPH
-02AC	needsfix__latinletterbilabialpercussive	LATIN LETTER BILABIAL PERCUSSIVE
-02AD	needsfix__latinletterbidentalpercussive	LATIN LETTER BIDENTAL PERCUSSIVE
-02AE	needsfix__latinsmallletterturnedhwithfishhook	LATIN SMALL LETTER TURNED H WITH FISHHOOK
-02AF	needsfix__latinsmallletterturnedhwithfishhookandtail	LATIN SMALL LETTER TURNED H WITH FISHHOOK AND TAIL
+0250	needsfix_latinsmallletterturneda	LATIN SMALL LETTER TURNED A
+0251	needsfix_latinsmallletteralpha	LATIN SMALL LETTER ALPHA
+0252	needsfix_latinsmallletterturnedalpha	LATIN SMALL LETTER TURNED ALPHA
+0253	needsfix_latinsmallletterbwithhook	LATIN SMALL LETTER B WITH HOOK
+0254	needsfix_latinsmallletteropeno	LATIN SMALL LETTER OPEN O
+0255	needsfix_latinsmalllettercwithcurl	LATIN SMALL LETTER C WITH CURL
+0256	needsfix_latinsmallletterdwithtail	LATIN SMALL LETTER D WITH TAIL
+0257	needsfix_latinsmallletterdwithhook	LATIN SMALL LETTER D WITH HOOK
+0258	needsfix_latinsmallletterreversede	LATIN SMALL LETTER REVERSED E
+0259	needsfix_latinsmallletterschwa	LATIN SMALL LETTER SCHWA
+025A	needsfix_latinsmallletterschwawithhook	LATIN SMALL LETTER SCHWA WITH HOOK
+025B	needsfix_latinsmallletteropene	LATIN SMALL LETTER OPEN E
+025C	needsfix_latinsmallletterreversedopene	LATIN SMALL LETTER REVERSED OPEN E
+025D	needsfix_latinsmallletterreversedopenewithhook	LATIN SMALL LETTER REVERSED OPEN E WITH HOOK
+025E	needsfix_latinsmallletterclosedreversedopene	LATIN SMALL LETTER CLOSED REVERSED OPEN E
+025F	needsfix_latinsmallletterdotlessjwithstroke	LATIN SMALL LETTER DOTLESS J WITH STROKE
+0260	needsfix_latinsmalllettergwithhook	LATIN SMALL LETTER G WITH HOOK
+0261	needsfix_latinsmallletterscriptg	LATIN SMALL LETTER SCRIPT G
+0262	needsfix_latinlettersmallcapitalg	LATIN LETTER SMALL CAPITAL G
+0263	needsfix_latinsmalllettergamma	LATIN SMALL LETTER GAMMA
+0264	needsfix_latinsmallletterramshorn	LATIN SMALL LETTER RAMS HORN
+0265	needsfix_latinsmallletterturnedh	LATIN SMALL LETTER TURNED H
+0266	needsfix_latinsmallletterhwithhook	LATIN SMALL LETTER H WITH HOOK
+0267	needsfix_latinsmallletterhengwithhook	LATIN SMALL LETTER HENG WITH HOOK
+0268	needsfix_latinsmallletteriwithstroke	LATIN SMALL LETTER I WITH STROKE
+0269	needsfix_latinsmallletteriota	LATIN SMALL LETTER IOTA
+026A	needsfix_latinlettersmallcapitali	LATIN LETTER SMALL CAPITAL I
+026B	needsfix_latinsmallletterlwithmiddletilde	LATIN SMALL LETTER L WITH MIDDLE TILDE
+026C	needsfix_latinsmallletterlwithbelt	LATIN SMALL LETTER L WITH BELT
+026D	needsfix_latinsmallletterlwithretroflexhook	LATIN SMALL LETTER L WITH RETROFLEX HOOK
+026E	needsfix_latinsmallletterlezh	LATIN SMALL LETTER LEZH
+026F	needsfix_latinsmallletterturnedm	LATIN SMALL LETTER TURNED M
+0270	needsfix_latinsmallletterturnedmwithlongleg	LATIN SMALL LETTER TURNED M WITH LONG LEG
+0271	needsfix_latinsmalllettermwithhook	LATIN SMALL LETTER M WITH HOOK
+0272	needsfix_latinsmallletternwithlefthook	LATIN SMALL LETTER N WITH LEFT HOOK
+0273	needsfix_latinsmallletternwithretroflexhook	LATIN SMALL LETTER N WITH RETROFLEX HOOK
+0274	needsfix_latinlettersmallcapitaln	LATIN LETTER SMALL CAPITAL N
+0275	needsfix_latinsmallletterbarredo	LATIN SMALL LETTER BARRED O
+0276	needsfix_latinlettersmallcapitaloe	LATIN LETTER SMALL CAPITAL OE
+0277	needsfix_latinsmallletterclosedomega	LATIN SMALL LETTER CLOSED OMEGA
+0278	needsfix_latinsmallletterphi	LATIN SMALL LETTER PHI
+0279	needsfix_latinsmallletterturnedr	LATIN SMALL LETTER TURNED R
+027A	needsfix_latinsmallletterturnedrwithlongleg	LATIN SMALL LETTER TURNED R WITH LONG LEG
+027B	needsfix_latinsmallletterturnedrwithhook	LATIN SMALL LETTER TURNED R WITH HOOK
+027C	needsfix_latinsmallletterrwithlongleg	LATIN SMALL LETTER R WITH LONG LEG
+027D	needsfix_latinsmallletterrwithtail	LATIN SMALL LETTER R WITH TAIL
+027E	needsfix_latinsmallletterrwithfishhook	LATIN SMALL LETTER R WITH FISHHOOK
+027F	needsfix_latinsmallletterreversedrwithfishhook	LATIN SMALL LETTER REVERSED R WITH FISHHOOK
+0280	needsfix_latinlettersmallcapitalr	LATIN LETTER SMALL CAPITAL R
+0281	needsfix_latinlettersmallcapitalinvertedr	LATIN LETTER SMALL CAPITAL INVERTED R
+0282	needsfix_latinsmallletterswithhook	LATIN SMALL LETTER S WITH HOOK
+0283	needsfix_latinsmallletteresh	LATIN SMALL LETTER ESH
+0284	needsfix_latinsmallletterdotlessjwithstrokeandhook	LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK
+0285	needsfix_latinsmalllettersquatreversedesh	LATIN SMALL LETTER SQUAT REVERSED ESH
+0286	needsfix_latinsmalllettereshwithcurl	LATIN SMALL LETTER ESH WITH CURL
+0287	needsfix_latinsmallletterturnedt	LATIN SMALL LETTER TURNED T
+0288	needsfix_latinsmalllettertwithretroflexhook	LATIN SMALL LETTER T WITH RETROFLEX HOOK
+0289	needsfix_latinsmallletterubar	LATIN SMALL LETTER U BAR
+028A	needsfix_latinsmallletterupsilon	LATIN SMALL LETTER UPSILON
+028B	needsfix_latinsmalllettervwithhook	LATIN SMALL LETTER V WITH HOOK
+028C	needsfix_latinsmallletterturnedv	LATIN SMALL LETTER TURNED V
+028D	needsfix_latinsmallletterturnedw	LATIN SMALL LETTER TURNED W
+028E	needsfix_latinsmallletterturnedy	LATIN SMALL LETTER TURNED Y
+028F	needsfix_latinlettersmallcapitaly	LATIN LETTER SMALL CAPITAL Y
+0290	needsfix_latinsmallletterzwithretroflexhook	LATIN SMALL LETTER Z WITH RETROFLEX HOOK
+0291	needsfix_latinsmallletterzwithcurl	LATIN SMALL LETTER Z WITH CURL
+0292	needsfix_latinsmallletterezh	LATIN SMALL LETTER EZH
+0293	needsfix_latinsmallletterezhwithcurl	LATIN SMALL LETTER EZH WITH CURL
+0294	needsfix_latinletterglottalstop	LATIN LETTER GLOTTAL STOP
+0295	needsfix_latinletterpharyngealvoicedfricative	LATIN LETTER PHARYNGEAL VOICED FRICATIVE
+0296	needsfix_latinletterinvertedglottalstop	LATIN LETTER INVERTED GLOTTAL STOP
+0297	needsfix_latinletterstretchedc	LATIN LETTER STRETCHED C
+0298	needsfix_latinletterbilabialclick	LATIN LETTER BILABIAL CLICK
+0299	needsfix_latinlettersmallcapitalb	LATIN LETTER SMALL CAPITAL B
+029A	needsfix_latinsmallletterclosedopene	LATIN SMALL LETTER CLOSED OPEN E
+029B	needsfix_latinlettersmallcapitalgwithhook	LATIN LETTER SMALL CAPITAL G WITH HOOK
+029C	needsfix_latinlettersmallcapitalh	LATIN LETTER SMALL CAPITAL H
+029D	needsfix_latinsmallletterjwithcrossedtail	LATIN SMALL LETTER J WITH CROSSED-TAIL
+029E	needsfix_latinsmallletterturnedk	LATIN SMALL LETTER TURNED K
+029F	needsfix_latinlettersmallcapitall	LATIN LETTER SMALL CAPITAL L
+02A0	needsfix_latinsmallletterqwithhook	LATIN SMALL LETTER Q WITH HOOK
+02A1	needsfix_latinletterglottalstopwithstroke	LATIN LETTER GLOTTAL STOP WITH STROKE
+02A2	needsfix_latinletterreversedglottalstopwithstroke	LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE
+02A3	needsfix_latinsmallletterdzdigraph	LATIN SMALL LETTER DZ DIGRAPH
+02A4	needsfix_latinsmallletterdezhdigraph	LATIN SMALL LETTER DEZH DIGRAPH
+02A5	needsfix_latinsmallletterdzdigraphwithcurl	LATIN SMALL LETTER DZ DIGRAPH WITH CURL
+02A6	needsfix_latinsmalllettertsdigraph	LATIN SMALL LETTER TS DIGRAPH
+02A7	needsfix_latinsmallletterteshdigraph	LATIN SMALL LETTER TESH DIGRAPH
+02A8	needsfix_latinsmalllettertcdigraphwithcurl	LATIN SMALL LETTER TC DIGRAPH WITH CURL
+02A9	needsfix_latinsmallletterfengdigraph	LATIN SMALL LETTER FENG DIGRAPH
+02AA	needsfix_latinsmallletterlsdigraph	LATIN SMALL LETTER LS DIGRAPH
+02AB	needsfix_latinsmallletterlzdigraph	LATIN SMALL LETTER LZ DIGRAPH
+02AC	needsfix_latinletterbilabialpercussive	LATIN LETTER BILABIAL PERCUSSIVE
+02AD	needsfix_latinletterbidentalpercussive	LATIN LETTER BIDENTAL PERCUSSIVE
+02AE	needsfix_latinsmallletterturnedhwithfishhook	LATIN SMALL LETTER TURNED H WITH FISHHOOK
+02AF	needsfix_latinsmallletterturnedhwithfishhookandtail	LATIN SMALL LETTER TURNED H WITH FISHHOOK AND TAIL
