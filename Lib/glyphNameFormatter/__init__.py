@@ -164,7 +164,7 @@ class GlyphName(GlyphNameProcessor):
             # print "processor", processor
             processor(self)
             # make the final name
-            self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "-".join(self.finalParts)
+            self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "".join(self.finalParts)
 
     def edit(self, pattern, *suffix):
         # look for pattern
@@ -192,6 +192,11 @@ class GlyphName(GlyphNameProcessor):
         # add a suffix part
         if namePart not in self.suffixParts:
             self.suffixParts.append(namePart)
+
+    def final(self, namePart):
+        # add a final part, for things that have the really last, like name extensions
+        if namePart not in self.finalParts:
+            self.finalParts.append(namePart)
 
     def editSuffix(self, lookFor, replaceWith):
         for n, i in enumerate(self.suffixParts):

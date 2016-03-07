@@ -1,107 +1,147 @@
 from glyphNameFormatter.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    if self.verbose:
-        print "processArabic"
     self.scriptTag = scriptPrefixes['arabic']
-
-    # AGD compatible
-    self.edit("ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA", "qam_lamalefabove")
-    self.edit("ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA", "sad_lamalefabove")
-    self.edit("ARABIC SIGN SAFHA", "Safha")
-    self.edit("ARABIC DATE SEPARATOR", "Date")
-    self.edit("ARABIC POETIC VERSE SIGN", "Poetic")
-    self.edit("ARABIC SIGN MISRA", "Misra")
-    self.edit("ARABIC LETTER DAL WITH INVERTED V", "dalinvertedv")
-    self.edit("ARABIC LETTER REH WITH INVERTED V", "rehinvertedv")
-    self.edit("ARABIC SMALL WAW", "wawsmall")
-    self.edit("ARABIC SMALL YEH", "yehsmall")
-    self.edit("WITH DOT BELOW AND DOT ABOVE", "dotbelowdotabove")
-    self.edit("WITH DOT MOVED BELOW", 'dotbelowright')
-    self.edit("WITH DOT ABOVE", "dotabove")
-    self.edit("WITH TWO DOTS ABOVE", 'twoabove')
-    self.edit("WITH TWO DOTS BELOW", 'twobelow')
-    self.edit("WITH THREE DOTS BELOW AND THREE DOTS ABOVE", 'threebelowthreeabove')
-    self.edit("WITH THREE DOTS BELOW", 'threebelow')
-    self.edit("WITH THREE DOTS ABOVE", 'threeabove')
-    self.edit("HIGH THREE DOTS", "threeabove")
-    self.edit("HIGH HAMZA", "highhamza")
-    self.edit("ARABIC SMALL HIGH LAM ALEF", "lamalefabove")
-    self.edit("ARABIC SMALL HIGH MEEM INITIAL FORM", "meemabove.init")
-    self.edit("WITH HAMZA ABOVE", "hamza")
-    self.edit("WITH YEH ABOVE", 'yehabove')
-    self.edit("ARABIC MADDAH ABOVE", "maddah")
-    self.edit("ARABIC SUBSCRIPT ALEF", "alefbelow")
-    self.edit("ARABIC VOWEL SIGN DOT BELOW", "dotbelow")
-    self.edit("ARABIC REVERSED DAMMA", "dammareversed")
-    self.edit("ARABIC FATHA WITH TWO DOTS", "fathadotted")
-    self.edit("ARABIC LETTER ALEF WITH MADDA ABOVE", "alefmadda")
-    self.edit("ARABIC LETTER ALEF WITH HAMZA ABOVE", "alefhamza")
-    self.edit("ARABIC LETTER WAW WITH HAMZA ABOVE", "wawhamza")
-    self.edit("ARABIC LETTER ALEF WITH HAMZA BELOW", "alefhamzabelow")
-    self.edit("ARABIC-INDIC DIGIT")
-    self.edit("ARABIC PERCENT SIGN", "percent")
-    self.edit("ARABIC DECIMAL SEPARATOR", "Decimal")
-    self.edit("ARABIC THOUSANDS SEPARATOR", "Thousands")
-    self.edit("ARABIC LETTER DOTLESS BEH", 'behdotless')
-    self.edit("ARABIC LETTER DOTLESS QAF", 'qafdotless')
-    self.edit("ARABIC SIGN SINDHI AMPERSAND", "ampersand","sindhi")
-    self.edit("ARABIC SIGN SINDHI POSTPOSITION MEN", "Men", "post" ,"sindhi" )
-    self.edit("WITH RING", "ring")
-    self.edit("WITH TAIL", "tail")
-    self.edit("ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS", 'tehthreedownabove')
-    self.edit("ARABIC LETTER HAH WITH TWO DOTS VERTICAL ABOVE", "hahtwodotsverticalabove")
-    self.edit("ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO", 'zerosquareabove')
-    self.edit("WITH DOT BELOW", "dotbelow")
-    self.edit("WITH FOUR DOTS ABOVE", 'fourdotsabove')
-    self.edit("END OF AYAH", "ayahend")
-    self.edit("ARABIC START OF RUB EL HIZB", "rubElHizbstart")
-    self.edit("LOW SEEN", "seenlow")
-    self.edit("PLACE OF SAJDAH", 'Sajdah')
-    self.edit("EMPTY CENTRE LOW STOP", "stopbelow")
-    self.edit("EMPTY CENTRE HIGH STOP", "stopabove")
-    self.edit("ROUNDED HIGH STOP WITH FILLED CENTRE", 'stopblackabove')
-    self.edit("ARABIC SMALL HIGH DOTLESS HEAD OF KHAH", "khahdotlessabove")
-    self.edit("ARABIC SMALL LOW MEEM", "meembelow")
-    self.edit("MARK NOON GHUNNA", "noonghunnamark")
-    self.edit("WITH INVERTED V", "vinverted")
-    self.edit("INVERTED", 'inverted')
-    self.edit("SUPERSCRIPT", "above")
-
-    self.edit("EXTENDED", "Far")
-    self.replace("ARABIC")
-
     lowercaseOk = True
-    self.replace("ZERO WIDTH NO-BREAK SPACE", "zerowidthnbspace")
-    self.edit("AFGHANI SIGN", "afghani")
+
+    # note: these categories are practical
+    # but it is always possible to have one
+    # edit outside its category just to make it work    self.edit("ARABIC LETTER HAMZA", 'hamza')
+    self.edit("ARABIC LETTER ALEF", "alef")
+ 
+    # digits
+    self.edit("EXTENDED ARABIC-INDIC DIGIT", "far")
+    self.edit("ARABIC-INDIC CUBE", 'cube')
+    self.edit("ARABIC-INDIC FOURTH", 'fourth')
+    self.edit("ROOT", 'root')
+    self.edit("ARABIC-INDIC DIGIT")
+
+    self.edit("AFGHANI", "afghani")
     self.edit("UIGHUR", "uighur")
     self.edit("KAZAKH", "kazakh")
     self.edit("KIRGHIZ", "kirghiz")
     self.edit("FARSI", "farsi")
 
-    self.edit("SMALL HIGH", "small", "above")
-    if self.has("LETTER"):
-        self.replace("LETTER")
-    if self.has('LIGATURE'):
-        self.replace("LIGATURE")
+    # ligatures
+    self.edit("ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA", "sad_lam_alefmaksuraabove")
+    self.edit("ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA", "qaf_lam_alefmaksuraabove")
+    self.edit("ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH", "alef_lam_yehabove")
+
+    # letters
+    self.edit("ARABIC LETTER HAMZA", 'hamza')
+    self.edit("ARABIC LETTER ALEF", "alef")
+    self.edit("MAKSURA", "maksura")
+    self.edit("ARABIC LETTER WAW", 'waw')
+    self.edit("WASLA", 'wasla')
+    self.edit("ARABIC PLACE OF SAJDAH", "Sajdah")
+    self.edit('ARABIC END OF AYAH', "Ayahend")
+    self.edit("ARABIC VOWEL SIGN", "vowel")
+
+    # letter with letter above
+    self.edit("WITH MADDA ABOVE", "madda")
+    self.edit("MADDAH ABOVE", "madda")
+    self.edit("WITH HAMZA BELOW", 'hamzabelow')
+    self.edit("GOAL", "goal")   # needs to preceed hamza above
+    self.edit("WITH HAMZA ABOVE", "hamza")
+    self.edit("WITH YEH ABOVE", "yeh")
+    self.edit("WITH TAIL", "tail")
+    self.edit("WITH INVERTED V", "invertedV")
+    self.edit("INVERTED V", "invertedV")
+    self.edit("INVERTED SMALL V ABOVE", "invertedVabove")
+    self.edit("WITH SMALL V BELOW", "Vbelow")
+    self.edit("WITH SMALL V", "Vabove")
+    self.edit("SMALL V ABOVE", "Vabove")
+    self.edit("ARABIC SMALL LOW MEEM", "meembelow")
+    self.edit("WITH WAVY HAMZA ABOVE", "wavyhamza")
+    self.edit("WITH WAVY HAMZA BELOW", "wavyhamzabelow")
+    self.edit("ARABIC SMALL LOW SEEN", "seenlow")
+
+    # signs, markers
+    self.edit("ARABIC POETIC VERSE SIGN", "poeticverse")
+    self.edit("ARABIC EMPTY CENTRE LOW STOP", 'stopbelow')
+    self.edit("ARABIC EMPTY CENTRE HIGH STOP", "stopabove")
+    self.edit("ARABIC ROUNDED HIGH STOP WITH FILLED CENTRE", "filledstopabove")
+    self.edit("ARABIC SIGN SAFHA", "Safha")
+    self.edit("ARABIC SIGN SANAH", "Sanah")
+    self.edit("ARABIC FOOTNOTE MARKER", "footnote")
+    self.edit("ARABIC SIGN MISRA", "misra")
+    self.edit("ARABIC SIGN TAKHALLUS", "takhallus")
+    self.edit("ARABIC START OF RUB EL HIZB", "RubElHizbstart")
+    self.edit("ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM", "HonSAW")
+    self.edit("ARABIC SIGN ALAYHE ASSALLAM", "HonAA")
+    self.edit("ARABIC SIGN RAHMATULLAH ALAYHE", "HonRA")
+    self.edit("RABIC SIGN RADI ALLAHOU ANHU", "HonRAA")
+    self.edit("ARABIC SMALL HIGH DOTLESS HEAD OF KHAH", "khahdotlessabove")
+    self.edit("TATWEEL", "kashida")
+    self.edit("RAY", 'ray')
+    self.edit("ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO", 'zerosquareabove')
+
+    # punctuation
+    self.edit("ARABIC PERCENT SIGN", "percent")
+    self.edit("ARABIC NUMBER SIGN", "numbersign")
+    self.edit("ARABIC COMMA", "comma")
+    self.edit("ARABIC FULL STOP", "period")
+    self.edit("ARABIC QUESTION MARK", "question")
+    self.edit("ARABIC DECIMAL SEPARATOR", "decimal")
+    self.edit("ARABIC THOUSANDS SEPARATOR", "thousands")
+    self.edit("ARABIC-INDIC PER MILLE SIGN", "permille")
+    self.edit("ARABIC-INDIC PER TEN THOUSAND SIGN", 'perthousand')
+    self.edit("ARABIC DATE SEPARATOR", "date")
+    self.edit("ARABIC SEMICOLON", "semicolon")
+    self.edit("ARABIC TRIPLE DOT PUNCTUATION MARK", 'tripledot')
+    self.edit("POSTPOSITION MEN", "menpost")
+    self.edit("ARABIC SIGN SINDHI", "Sindhi")
+
+    # marks
+    self.edit("WITH RING", "ring")
+    self.edit("WITH TAIL", "tail")
+    self.edit("SWASH", "swash")
+    self.edit("DOTLESS", "dotless")
+
+    # dots
+    self.edit("WITH DOT BELOW AND DOT ABOVE", "dotbelowdotabove")
+    self.edit("WITH DOT MOVED BELOW", 'dotbelowright')
+    self.edit("WITH DOT ABOVE", "dotabove")
+    self.edit("WITH DOT BELOW", "dotbelow")
+    self.edit("DOT BELOW", "dotbelow")
+    self.edit("WITH TWO DOTS ABOVE", 'twoabove')
+    self.edit("WITH TWO DOTS VERTICAL ABOVE", "twodotsvertical")
+    self.edit("WITH TWO DOTS BELOW", 'twobelow')
+    self.edit("WITH TWO DOTS", "dotted")
+    self.edit("WITH THREE DOTS BELOW", 'threebelow')
+    self.edit("DOWNWARDS", "down")
+    self.edit("AND THREE DOTS ABOVE", 'threeabove')
+    self.edit("WITH THREE DOTS ABOVE", 'threeabove')
+    self.edit("THREE DOTS", "threeabove")
+    self.edit("WITH FOUR DOTS ABOVE", 'fourdotsabove')
+    self.edit("HIGH HAMZA", "highhamza")
+    self.edit("ARABIC LETTER SUPERSCRIPT ALEF", "alefabove")
+    self.edit("AND SMALL TAH", "tahsmall")  # needs to follow dotbelow
+    self.edit("ARABIC SMALL HIGH", 'above') # needs to be after all the dots
+    self.edit("SMALL", 'small')
+    self.edit("REVERSED", "reversed")
+
+    # positions
     self.edit('INITIAL FORM', ".init")
-    self.edit('MEDIAL FORM', ".medi")
-    self.edit('FINAL FORM', ".fina")
+    # self.edit('MEDIAL FORM', ".medi")
+    # self.edit('FINAL FORM', ".fina")
     self.edit('ISOLATED FORM', ".isol")
-    self.replace("QUESTION MARK", "question")
-    self.edit("SIGN SANAH", "Sanah")
-    self.edit("FOOTNOTE MARKER", "Footnote")
-    if self.has("LIGATURE"):
-        self.replace("WITH", "_")
-    else:
-        self.replace("WITH", "")
+
+
+    if self.uniName is not None:
+        if "ARABIC LETTER" in self.uniName:
+            lowercaseOk = True
+        elif "ARABIC-INDIC DIGIT" in self.uniName:
+            lowercaseOk = True
+
+    # cleanup
+    self.replace("ARABIC")
+    self.replace("SIGN")
+    self.replace("LETTER")
     if self.has("-"):
         self.replace('-')
-    self.replace("SALLALLAHOU ALAYHE WASALLAM", "sallallahou_alayhe_wasallam")
-    if self.replace("BISMILLAH AR-RAHMAN AR-RAHEEM", "bismillah_arRahman_arRaheem"):
-        lowercaseOk = False
     if lowercaseOk:
-        self.lower()
+       self.lower()
     self.compress()
 
 if __name__ == "__main__":
