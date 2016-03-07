@@ -8,6 +8,7 @@ from preferredAGLNames import preferredAGLNames
 from scriptPrefixes import scriptPrefixes
 from rangeProcessors import GlyphNameProcessor
 
+from tools import unicodeToChar
 
 def debug(uniNumber):
     # trace the processing of a specific number
@@ -50,7 +51,7 @@ class GlyphName(GlyphNameProcessor):
         if self.uniNumber is None:
             return
         try:
-            self.uniLetter = unichr(self.uniNumber)
+            self.uniLetter = unicodeToChar(self.uniNumber)
         except ValueError:
             print "GlyphName valueerror for %04X" % self.uniNumber
             return
