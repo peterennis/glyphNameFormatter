@@ -1,0 +1,17 @@
+# Supplemental Arrows-A 27F0 - 27FF
+27F0	needsfix__upwardsquadruplearrow	UPWARDS QUADRUPLE ARROW
+27F1	needsfix__downwardsquadruplearrow	DOWNWARDS QUADRUPLE ARROW
+27F2	needsfix__anticlockwisegappedcirclearrow	ANTICLOCKWISE GAPPED CIRCLE ARROW
+27F3	needsfix__clockwisegappedcirclearrow	CLOCKWISE GAPPED CIRCLE ARROW
+27F4	needsfix__rightarrowwithcircledplus	RIGHT ARROW WITH CIRCLED PLUS
+27F5	needsfix__longleftwardsarrow	LONG LEFTWARDS ARROW
+27F6	needsfix__longrightwardsarrow	LONG RIGHTWARDS ARROW
+27F7	needsfix__longleftrightarrow	LONG LEFT RIGHT ARROW
+27F8	needsfix__longleftwardsdoublearrow	LONG LEFTWARDS DOUBLE ARROW
+27F9	needsfix__longrightwardsdoublearrow	LONG RIGHTWARDS DOUBLE ARROW
+27FA	needsfix__longleftrightdoublearrow	LONG LEFT RIGHT DOUBLE ARROW
+27FB	needsfix__longleftwardsarrowfrombar	LONG LEFTWARDS ARROW FROM BAR
+27FC	needsfix__longrightwardsarrowfrombar	LONG RIGHTWARDS ARROW FROM BAR
+27FD	needsfix__longleftwardsdoublearrowfrombar	LONG LEFTWARDS DOUBLE ARROW FROM BAR
+27FE	needsfix__longrightwardsdoublearrowfrombar	LONG RIGHTWARDS DOUBLE ARROW FROM BAR
+27FF	needsfix__longrightwardssquigglearrow	LONG RIGHTWARDS SQUIGGLE ARROW

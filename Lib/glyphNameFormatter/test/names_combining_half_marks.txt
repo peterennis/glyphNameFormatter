@@ -1,0 +1,8 @@
+# Combining Half Marks FE20 - FE2F
+FE20	needsfix__combiningligaturelefthalf	COMBINING LIGATURE LEFT HALF
+FE21	needsfix__combiningligaturerighthalf	COMBINING LIGATURE RIGHT HALF
+FE22	needsfix__combiningdoubletildelefthalf	COMBINING DOUBLE TILDE LEFT HALF
+FE23	needsfix__combiningdoubletilderighthalf	COMBINING DOUBLE TILDE RIGHT HALF
+FE24	needsfix__combiningmacronlefthalf	COMBINING MACRON LEFT HALF
+FE25	needsfix__combiningmacronrighthalf	COMBINING MACRON RIGHT HALF
+FE26	needsfix__combiningconjoiningmacron	COMBINING CONJOINING MACRON

@@ -1,0 +1,88 @@
+# Hebrew 0590 - 05FF
+0591	needsfix__hebrewaccentetnahta	HEBREW ACCENT ETNAHTA
+0592	needsfix__hebrewaccentsegol	HEBREW ACCENT SEGOL
+0593	needsfix__hebrewaccentshalshelet	HEBREW ACCENT SHALSHELET
+0594	needsfix__hebrewaccentzaqefqatan	HEBREW ACCENT ZAQEF QATAN
+0595	needsfix__hebrewaccentzaqefgadol	HEBREW ACCENT ZAQEF GADOL
+0596	needsfix__hebrewaccenttipeha	HEBREW ACCENT TIPEHA
+0597	needsfix__hebrewaccentrevia	HEBREW ACCENT REVIA
+0598	needsfix__hebrewaccentzarqa	HEBREW ACCENT ZARQA
+0599	needsfix__hebrewaccentpashta	HEBREW ACCENT PASHTA
+059A	needsfix__hebrewaccentyetiv	HEBREW ACCENT YETIV
+059B	needsfix__hebrewaccenttevir	HEBREW ACCENT TEVIR
+059C	needsfix__hebrewaccentgeresh	HEBREW ACCENT GERESH
+059D	needsfix__hebrewaccentgereshmuqdam	HEBREW ACCENT GERESH MUQDAM
+059E	needsfix__hebrewaccentgershayim	HEBREW ACCENT GERSHAYIM
+059F	needsfix__hebrewaccentqarneypara	HEBREW ACCENT QARNEY PARA
+05A0	needsfix__hebrewaccenttelishagedola	HEBREW ACCENT TELISHA GEDOLA
+05A1	needsfix__hebrewaccentpazer	HEBREW ACCENT PAZER
+05A2	needsfix__hebrewaccentatnahhafukh	HEBREW ACCENT ATNAH HAFUKH
+05A3	needsfix__hebrewaccentmunah	HEBREW ACCENT MUNAH
+05A4	needsfix__hebrewaccentmahapakh	HEBREW ACCENT MAHAPAKH
+05A5	needsfix__hebrewaccentmerkha	HEBREW ACCENT MERKHA
+05A6	needsfix__hebrewaccentmerkhakefula	HEBREW ACCENT MERKHA KEFULA
+05A7	needsfix__hebrewaccentdarga	HEBREW ACCENT DARGA
+05A8	needsfix__hebrewaccentqadma	HEBREW ACCENT QADMA
+05A9	needsfix__hebrewaccenttelishaqetana	HEBREW ACCENT TELISHA QETANA
+05AA	needsfix__hebrewaccentyerahbenyomo	HEBREW ACCENT YERAH BEN YOMO
+05AB	needsfix__hebrewaccentole	HEBREW ACCENT OLE
+05AC	needsfix__hebrewaccentiluy	HEBREW ACCENT ILUY
+05AD	needsfix__hebrewaccentdehi	HEBREW ACCENT DEHI
+05AE	needsfix__hebrewaccentzinor	HEBREW ACCENT ZINOR
+05AF	needsfix__hebrewmarkmasoracircle	HEBREW MARK MASORA CIRCLE
+05B0	needsfix__hebrewpointsheva	HEBREW POINT SHEVA
+05B1	needsfix__hebrewpointhatafsegol	HEBREW POINT HATAF SEGOL
+05B2	needsfix__hebrewpointhatafpatah	HEBREW POINT HATAF PATAH
+05B3	needsfix__hebrewpointhatafqamats	HEBREW POINT HATAF QAMATS
+05B4	needsfix__hebrewpointhiriq	HEBREW POINT HIRIQ
+05B5	needsfix__hebrewpointtsere	HEBREW POINT TSERE
+05B6	needsfix__hebrewpointsegol	HEBREW POINT SEGOL
+05B7	needsfix__hebrewpointpatah	HEBREW POINT PATAH
+05B8	needsfix__hebrewpointqamats	HEBREW POINT QAMATS
+05B9	needsfix__hebrewpointholam	HEBREW POINT HOLAM
+05BA	needsfix__hebrewpointholamhaserforvav	HEBREW POINT HOLAM HASER FOR VAV
+05BB	needsfix__hebrewpointqubuts	HEBREW POINT QUBUTS
+05BC	needsfix__hebrewpointdageshormapiq	HEBREW POINT DAGESH OR MAPIQ
+05BD	needsfix__hebrewpointmeteg	HEBREW POINT METEG
+05BE	needsfix__hebrewpunctuationmaqaf	HEBREW PUNCTUATION MAQAF
+05BF	needsfix__hebrewpointrafe	HEBREW POINT RAFE
+05C0	needsfix__hebrewpunctuationpaseq	HEBREW PUNCTUATION PASEQ
+05C1	needsfix__hebrewpointshindot	HEBREW POINT SHIN DOT
+05C2	needsfix__hebrewpointsindot	HEBREW POINT SIN DOT
+05C3	needsfix__hebrewpunctuationsofpasuq	HEBREW PUNCTUATION SOF PASUQ
+05C4	needsfix__hebrewmarkupperdot	HEBREW MARK UPPER DOT
+05C5	needsfix__hebrewmarklowerdot	HEBREW MARK LOWER DOT
+05C6	needsfix__hebrewpunctuationnunhafukha	HEBREW PUNCTUATION NUN HAFUKHA
+05C7	needsfix__hebrewpointqamatsqatan	HEBREW POINT QAMATS QATAN
+05D0	needsfix__hebrewletteralef	HEBREW LETTER ALEF
+05D1	needsfix__hebrewletterbet	HEBREW LETTER BET
+05D2	needsfix__hebrewlettergimel	HEBREW LETTER GIMEL
+05D3	needsfix__hebrewletterdalet	HEBREW LETTER DALET
+05D4	needsfix__hebrewletterhe	HEBREW LETTER HE
+05D5	needsfix__hebrewlettervav	HEBREW LETTER VAV
+05D6	needsfix__hebrewletterzayin	HEBREW LETTER ZAYIN
+05D7	needsfix__hebrewletterhet	HEBREW LETTER HET
+05D8	needsfix__hebrewlettertet	HEBREW LETTER TET
+05D9	needsfix__hebrewletteryod	HEBREW LETTER YOD
+05DA	needsfix__hebrewletterfinalkaf	HEBREW LETTER FINAL KAF
+05DB	needsfix__hebrewletterkaf	HEBREW LETTER KAF
+05DC	needsfix__hebrewletterlamed	HEBREW LETTER LAMED
+05DD	needsfix__hebrewletterfinalmem	HEBREW LETTER FINAL MEM
+05DE	needsfix__hebrewlettermem	HEBREW LETTER MEM
+05DF	needsfix__hebrewletterfinalnun	HEBREW LETTER FINAL NUN
+05E0	needsfix__hebrewletternun	HEBREW LETTER NUN
+05E1	needsfix__hebrewlettersamekh	HEBREW LETTER SAMEKH
+05E2	needsfix__hebrewletterayin	HEBREW LETTER AYIN
+05E3	needsfix__hebrewletterfinalpe	HEBREW LETTER FINAL PE
+05E4	needsfix__hebrewletterpe	HEBREW LETTER PE
+05E5	needsfix__hebrewletterfinaltsadi	HEBREW LETTER FINAL TSADI
+05E6	needsfix__hebrewlettertsadi	HEBREW LETTER TSADI
+05E7	needsfix__hebrewletterqof	HEBREW LETTER QOF
+05E8	needsfix__hebrewletterresh	HEBREW LETTER RESH
+05E9	needsfix__hebrewlettershin	HEBREW LETTER SHIN
+05EA	needsfix__hebrewlettertav	HEBREW LETTER TAV
+05F0	needsfix__hebrewligatureyiddishdoublevav	HEBREW LIGATURE YIDDISH DOUBLE VAV
+05F1	needsfix__hebrewligatureyiddishvavyod	HEBREW LIGATURE YIDDISH VAV YOD
+05F2	needsfix__hebrewligatureyiddishdoubleyod	HEBREW LIGATURE YIDDISH DOUBLE YOD
+05F3	needsfix__hebrewpunctuationgeresh	HEBREW PUNCTUATION GERESH
+05F4	needsfix__hebrewpunctuationgershayim	HEBREW PUNCTUATION GERSHAYIM

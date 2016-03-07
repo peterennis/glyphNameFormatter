@@ -1,0 +1,65 @@
+# Yijing Hexagram Symbols 4DC0 - 4DFF
+4DC0	needsfix__hexagramforthecreativeheaven	HEXAGRAM FOR THE CREATIVE HEAVEN
+4DC1	needsfix__hexagramforthereceptiveearth	HEXAGRAM FOR THE RECEPTIVE EARTH
+4DC2	needsfix__hexagramfordifficultyatthebeginning	HEXAGRAM FOR DIFFICULTY AT THE BEGINNING
+4DC3	needsfix__hexagramforyouthfulfolly	HEXAGRAM FOR YOUTHFUL FOLLY
+4DC4	needsfix__hexagramforwaiting	HEXAGRAM FOR WAITING
+4DC5	needsfix__hexagramforconflict	HEXAGRAM FOR CONFLICT
+4DC6	needsfix__hexagramforthearmy	HEXAGRAM FOR THE ARMY
+4DC7	needsfix__hexagramforholdingtogether	HEXAGRAM FOR HOLDING TOGETHER
+4DC8	needsfix__hexagramforsmalltaming	HEXAGRAM FOR SMALL TAMING
+4DC9	needsfix__hexagramfortreading	HEXAGRAM FOR TREADING
+4DCA	needsfix__hexagramforpeace	HEXAGRAM FOR PEACE
+4DCB	needsfix__hexagramforstandstill	HEXAGRAM FOR STANDSTILL
+4DCC	needsfix__hexagramforfellowship	HEXAGRAM FOR FELLOWSHIP
+4DCD	needsfix__hexagramforgreatpossession	HEXAGRAM FOR GREAT POSSESSION
+4DCE	needsfix__hexagramformodesty	HEXAGRAM FOR MODESTY
+4DCF	needsfix__hexagramforenthusiasm	HEXAGRAM FOR ENTHUSIASM
+4DD0	needsfix__hexagramforfollowing	HEXAGRAM FOR FOLLOWING
+4DD1	needsfix__hexagramforworkonthedecayed	HEXAGRAM FOR WORK ON THE DECAYED
+4DD2	needsfix__hexagramforapproach	HEXAGRAM FOR APPROACH
+4DD3	needsfix__hexagramforcontemplation	HEXAGRAM FOR CONTEMPLATION
+4DD4	needsfix__hexagramforbitingthrough	HEXAGRAM FOR BITING THROUGH
+4DD5	needsfix__hexagramforgrace	HEXAGRAM FOR GRACE
+4DD6	needsfix__hexagramforsplittingapart	HEXAGRAM FOR SPLITTING APART
+4DD7	needsfix__hexagramforreturn	HEXAGRAM FOR RETURN
+4DD8	needsfix__hexagramforinnocence	HEXAGRAM FOR INNOCENCE
+4DD9	needsfix__hexagramforgreattaming	HEXAGRAM FOR GREAT TAMING
+4DDA	needsfix__hexagramformouthcorners	HEXAGRAM FOR MOUTH CORNERS
+4DDB	needsfix__hexagramforgreatpreponderance	HEXAGRAM FOR GREAT PREPONDERANCE
+4DDC	needsfix__hexagramfortheabysmalwater	HEXAGRAM FOR THE ABYSMAL WATER
+4DDD	needsfix__hexagramfortheclingingfire	HEXAGRAM FOR THE CLINGING FIRE
+4DDE	needsfix__hexagramforinfluence	HEXAGRAM FOR INFLUENCE
+4DDF	needsfix__hexagramforduration	HEXAGRAM FOR DURATION
+4DE0	needsfix__hexagramforretreat	HEXAGRAM FOR RETREAT
+4DE1	needsfix__hexagramforgreatpower	HEXAGRAM FOR GREAT POWER
+4DE2	needsfix__hexagramforprogress	HEXAGRAM FOR PROGRESS
+4DE3	needsfix__hexagramfordarkeningofthelight	HEXAGRAM FOR DARKENING OF THE LIGHT
+4DE4	needsfix__hexagramforthefamily	HEXAGRAM FOR THE FAMILY
+4DE5	needsfix__hexagramforopposition	HEXAGRAM FOR OPPOSITION
+4DE6	needsfix__hexagramforobstruction	HEXAGRAM FOR OBSTRUCTION
+4DE7	needsfix__hexagramfordeliverance	HEXAGRAM FOR DELIVERANCE
+4DE8	needsfix__hexagramfordecrease	HEXAGRAM FOR DECREASE
+4DE9	needsfix__hexagramforincrease	HEXAGRAM FOR INCREASE
+4DEA	needsfix__hexagramforbreakthrough	HEXAGRAM FOR BREAKTHROUGH
+4DEB	needsfix__hexagramforcomingtomeet	HEXAGRAM FOR COMING TO MEET
+4DEC	needsfix__hexagramforgatheringtogether	HEXAGRAM FOR GATHERING TOGETHER
+4DED	needsfix__hexagramforpushingupward	HEXAGRAM FOR PUSHING UPWARD
+4DEE	needsfix__hexagramforoppression	HEXAGRAM FOR OPPRESSION
+4DEF	needsfix__hexagramforthewell	HEXAGRAM FOR THE WELL
+4DF0	needsfix__hexagramforrevolution	HEXAGRAM FOR REVOLUTION
+4DF1	needsfix__hexagramforthecauldron	HEXAGRAM FOR THE CAULDRON
+4DF2	needsfix__hexagramforthearousingthunder	HEXAGRAM FOR THE AROUSING THUNDER
+4DF3	needsfix__hexagramforthekeepingstillmountain	HEXAGRAM FOR THE KEEPING STILL MOUNTAIN
+4DF4	needsfix__hexagramfordevelopment	HEXAGRAM FOR DEVELOPMENT
+4DF5	needsfix__hexagramforthemarryingmaiden	HEXAGRAM FOR THE MARRYING MAIDEN
+4DF6	needsfix__hexagramforabundance	HEXAGRAM FOR ABUNDANCE
+4DF7	needsfix__hexagramforthewanderer	HEXAGRAM FOR THE WANDERER
+4DF8	needsfix__hexagramforthegentlewind	HEXAGRAM FOR THE GENTLE WIND
+4DF9	needsfix__hexagramforthejoyouslake	HEXAGRAM FOR THE JOYOUS LAKE
+4DFA	needsfix__hexagramfordispersion	HEXAGRAM FOR DISPERSION
+4DFB	needsfix__hexagramforlimitation	HEXAGRAM FOR LIMITATION
+4DFC	needsfix__hexagramforinnertruth	HEXAGRAM FOR INNER TRUTH
+4DFD	needsfix__hexagramforsmallpreponderance	HEXAGRAM FOR SMALL PREPONDERANCE
+4DFE	needsfix__hexagramforaftercompletion	HEXAGRAM FOR AFTER COMPLETION
+4DFF	needsfix__hexagramforbeforecompletion	HEXAGRAM FOR BEFORE COMPLETION

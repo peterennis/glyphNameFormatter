@@ -1,0 +1,6 @@
+# Specials FFF0 - FFFF
+FFF9	needsfix__interlinearannotationanchor	INTERLINEAR ANNOTATION ANCHOR
+FFFA	needsfix__interlinearannotationseparator	INTERLINEAR ANNOTATION SEPARATOR
+FFFB	needsfix__interlinearannotationterminator	INTERLINEAR ANNOTATION TERMINATOR
+FFFC	needsfix__objectreplacementcharacter	OBJECT REPLACEMENT CHARACTER
+FFFD	needsfix__replacementcharacter	REPLACEMENT CHARACTER

@@ -1,0 +1,84 @@
+# Georgian 10A0 - 10FF
+10A0	needsfix__georgiancapitalletteran	GEORGIAN CAPITAL LETTER AN
+10A1	needsfix__georgiancapitalletterban	GEORGIAN CAPITAL LETTER BAN
+10A2	needsfix__georgiancapitallettergan	GEORGIAN CAPITAL LETTER GAN
+10A3	needsfix__georgiancapitalletterdon	GEORGIAN CAPITAL LETTER DON
+10A4	needsfix__georgiancapitalletteren	GEORGIAN CAPITAL LETTER EN
+10A5	needsfix__georgiancapitallettervin	GEORGIAN CAPITAL LETTER VIN
+10A6	needsfix__georgiancapitalletterzen	GEORGIAN CAPITAL LETTER ZEN
+10A7	needsfix__georgiancapitallettertan	GEORGIAN CAPITAL LETTER TAN
+10A8	needsfix__georgiancapitalletterin	GEORGIAN CAPITAL LETTER IN
+10A9	needsfix__georgiancapitalletterkan	GEORGIAN CAPITAL LETTER KAN
+10AA	needsfix__georgiancapitalletterlas	GEORGIAN CAPITAL LETTER LAS
+10AB	needsfix__georgiancapitalletterman	GEORGIAN CAPITAL LETTER MAN
+10AC	needsfix__georgiancapitalletternar	GEORGIAN CAPITAL LETTER NAR
+10AD	needsfix__georgiancapitalletteron	GEORGIAN CAPITAL LETTER ON
+10AE	needsfix__georgiancapitalletterpar	GEORGIAN CAPITAL LETTER PAR
+10AF	needsfix__georgiancapitalletterzhar	GEORGIAN CAPITAL LETTER ZHAR
+10B0	needsfix__georgiancapitalletterrae	GEORGIAN CAPITAL LETTER RAE
+10B1	needsfix__georgiancapitallettersan	GEORGIAN CAPITAL LETTER SAN
+10B2	needsfix__georgiancapitallettertar	GEORGIAN CAPITAL LETTER TAR
+10B3	needsfix__georgiancapitalletterun	GEORGIAN CAPITAL LETTER UN
+10B4	needsfix__georgiancapitalletterphar	GEORGIAN CAPITAL LETTER PHAR
+10B5	needsfix__georgiancapitalletterkhar	GEORGIAN CAPITAL LETTER KHAR
+10B6	needsfix__georgiancapitalletterghan	GEORGIAN CAPITAL LETTER GHAN
+10B7	needsfix__georgiancapitalletterqar	GEORGIAN CAPITAL LETTER QAR
+10B8	needsfix__georgiancapitallettershin	GEORGIAN CAPITAL LETTER SHIN
+10B9	needsfix__georgiancapitalletterchin	GEORGIAN CAPITAL LETTER CHIN
+10BA	needsfix__georgiancapitallettercan	GEORGIAN CAPITAL LETTER CAN
+10BB	needsfix__georgiancapitalletterjil	GEORGIAN CAPITAL LETTER JIL
+10BC	needsfix__georgiancapitallettercil	GEORGIAN CAPITAL LETTER CIL
+10BD	needsfix__georgiancapitalletterchar	GEORGIAN CAPITAL LETTER CHAR
+10BE	needsfix__georgiancapitalletterxan	GEORGIAN CAPITAL LETTER XAN
+10BF	needsfix__georgiancapitalletterjhan	GEORGIAN CAPITAL LETTER JHAN
+10C0	needsfix__georgiancapitalletterhae	GEORGIAN CAPITAL LETTER HAE
+10C1	needsfix__georgiancapitalletterhe	GEORGIAN CAPITAL LETTER HE
+10C2	needsfix__georgiancapitalletterhie	GEORGIAN CAPITAL LETTER HIE
+10C3	needsfix__georgiancapitalletterwe	GEORGIAN CAPITAL LETTER WE
+10C4	needsfix__georgiancapitalletterhar	GEORGIAN CAPITAL LETTER HAR
+10C5	needsfix__georgiancapitalletterhoe	GEORGIAN CAPITAL LETTER HOE
+10D0	needsfix__georgianletteran	GEORGIAN LETTER AN
+10D1	needsfix__georgianletterban	GEORGIAN LETTER BAN
+10D2	needsfix__georgianlettergan	GEORGIAN LETTER GAN
+10D3	needsfix__georgianletterdon	GEORGIAN LETTER DON
+10D4	needsfix__georgianletteren	GEORGIAN LETTER EN
+10D5	needsfix__georgianlettervin	GEORGIAN LETTER VIN
+10D6	needsfix__georgianletterzen	GEORGIAN LETTER ZEN
+10D7	needsfix__georgianlettertan	GEORGIAN LETTER TAN
+10D8	needsfix__georgianletterin	GEORGIAN LETTER IN
+10D9	needsfix__georgianletterkan	GEORGIAN LETTER KAN
+10DA	needsfix__georgianletterlas	GEORGIAN LETTER LAS
+10DB	needsfix__georgianletterman	GEORGIAN LETTER MAN
+10DC	needsfix__georgianletternar	GEORGIAN LETTER NAR
+10DD	needsfix__georgianletteron	GEORGIAN LETTER ON
+10DE	needsfix__georgianletterpar	GEORGIAN LETTER PAR
+10DF	needsfix__georgianletterzhar	GEORGIAN LETTER ZHAR
+10E0	needsfix__georgianletterrae	GEORGIAN LETTER RAE
+10E1	needsfix__georgianlettersan	GEORGIAN LETTER SAN
+10E2	needsfix__georgianlettertar	GEORGIAN LETTER TAR
+10E3	needsfix__georgianletterun	GEORGIAN LETTER UN
+10E4	needsfix__georgianletterphar	GEORGIAN LETTER PHAR
+10E5	needsfix__georgianletterkhar	GEORGIAN LETTER KHAR
+10E6	needsfix__georgianletterghan	GEORGIAN LETTER GHAN
+10E7	needsfix__georgianletterqar	GEORGIAN LETTER QAR
+10E8	needsfix__georgianlettershin	GEORGIAN LETTER SHIN
+10E9	needsfix__georgianletterchin	GEORGIAN LETTER CHIN
+10EA	needsfix__georgianlettercan	GEORGIAN LETTER CAN
+10EB	needsfix__georgianletterjil	GEORGIAN LETTER JIL
+10EC	needsfix__georgianlettercil	GEORGIAN LETTER CIL
+10ED	needsfix__georgianletterchar	GEORGIAN LETTER CHAR
+10EE	needsfix__georgianletterxan	GEORGIAN LETTER XAN
+10EF	needsfix__georgianletterjhan	GEORGIAN LETTER JHAN
+10F0	needsfix__georgianletterhae	GEORGIAN LETTER HAE
+10F1	needsfix__georgianletterhe	GEORGIAN LETTER HE
+10F2	needsfix__georgianletterhie	GEORGIAN LETTER HIE
+10F3	needsfix__georgianletterwe	GEORGIAN LETTER WE
+10F4	needsfix__georgianletterhar	GEORGIAN LETTER HAR
+10F5	needsfix__georgianletterhoe	GEORGIAN LETTER HOE
+10F6	needsfix__georgianletterfi	GEORGIAN LETTER FI
+10F7	needsfix__georgianletteryn	GEORGIAN LETTER YN
+10F8	needsfix__georgianletterelifi	GEORGIAN LETTER ELIFI
+10F9	needsfix__georgianletterturnedgan	GEORGIAN LETTER TURNED GAN
+10FA	needsfix__georgianletterain	GEORGIAN LETTER AIN
+10FB	needsfix__georgianparagraphseparator	GEORGIAN PARAGRAPH SEPARATOR
+10FC	needsfix__modifierlettergeorgiannar	MODIFIER LETTER GEORGIAN NAR

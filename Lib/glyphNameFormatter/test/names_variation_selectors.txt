@@ -1,0 +1,17 @@
+# Variation Selectors FE00 - FE0F
+FE00	needsfix__variationselector1	VARIATION SELECTOR-1
+FE01	needsfix__variationselector2	VARIATION SELECTOR-2
+FE02	needsfix__variationselector3	VARIATION SELECTOR-3
+FE03	needsfix__variationselector4	VARIATION SELECTOR-4
+FE04	needsfix__variationselector5	VARIATION SELECTOR-5
+FE05	needsfix__variationselector6	VARIATION SELECTOR-6
+FE06	needsfix__variationselector7	VARIATION SELECTOR-7
+FE07	needsfix__variationselector8	VARIATION SELECTOR-8
+FE08	needsfix__variationselector9	VARIATION SELECTOR-9
+FE09	needsfix__variationselector10	VARIATION SELECTOR-10
+FE0A	needsfix__variationselector11	VARIATION SELECTOR-11
+FE0B	needsfix__variationselector12	VARIATION SELECTOR-12
+FE0C	needsfix__variationselector13	VARIATION SELECTOR-13
+FE0D	needsfix__variationselector14	VARIATION SELECTOR-14
+FE0E	needsfix__variationselector15	VARIATION SELECTOR-15
+FE0F	needsfix__variationselector16	VARIATION SELECTOR-16

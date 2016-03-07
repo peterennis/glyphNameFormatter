@@ -1,0 +1,33 @@
+# Khmer Symbols 19E0 - 19FF
+19E0	needsfix__khmersymbolpathamasat	KHMER SYMBOL PATHAMASAT
+19E1	needsfix__khmersymbolmuoykoet	KHMER SYMBOL MUOY KOET
+19E2	needsfix__khmersymbolpiikoet	KHMER SYMBOL PII KOET
+19E3	needsfix__khmersymbolbeikoet	KHMER SYMBOL BEI KOET
+19E4	needsfix__khmersymbolbuonkoet	KHMER SYMBOL BUON KOET
+19E5	needsfix__khmersymbolpramkoet	KHMER SYMBOL PRAM KOET
+19E6	needsfix__khmersymbolprammuoykoet	KHMER SYMBOL PRAM-MUOY KOET
+19E7	needsfix__khmersymbolprampiikoet	KHMER SYMBOL PRAM-PII KOET
+19E8	needsfix__khmersymbolprambeikoet	KHMER SYMBOL PRAM-BEI KOET
+19E9	needsfix__khmersymbolprambuonkoet	KHMER SYMBOL PRAM-BUON KOET
+19EA	needsfix__khmersymboldapkoet	KHMER SYMBOL DAP KOET
+19EB	needsfix__khmersymboldapmuoykoet	KHMER SYMBOL DAP-MUOY KOET
+19EC	needsfix__khmersymboldappiikoet	KHMER SYMBOL DAP-PII KOET
+19ED	needsfix__khmersymboldapbeikoet	KHMER SYMBOL DAP-BEI KOET
+19EE	needsfix__khmersymboldapbuonkoet	KHMER SYMBOL DAP-BUON KOET
+19EF	needsfix__khmersymboldappramkoet	KHMER SYMBOL DAP-PRAM KOET
+19F0	needsfix__khmersymboltuteyasat	KHMER SYMBOL TUTEYASAT
+19F1	needsfix__khmersymbolmuoyroc	KHMER SYMBOL MUOY ROC
+19F2	needsfix__khmersymbolpiiroc	KHMER SYMBOL PII ROC
+19F3	needsfix__khmersymbolbeiroc	KHMER SYMBOL BEI ROC
+19F4	needsfix__khmersymbolbuonroc	KHMER SYMBOL BUON ROC
+19F5	needsfix__khmersymbolpramroc	KHMER SYMBOL PRAM ROC
+19F6	needsfix__khmersymbolprammuoyroc	KHMER SYMBOL PRAM-MUOY ROC
+19F7	needsfix__khmersymbolprampiiroc	KHMER SYMBOL PRAM-PII ROC
+19F8	needsfix__khmersymbolprambeiroc	KHMER SYMBOL PRAM-BEI ROC
+19F9	needsfix__khmersymbolprambuonroc	KHMER SYMBOL PRAM-BUON ROC
+19FA	needsfix__khmersymboldaproc	KHMER SYMBOL DAP ROC
+19FB	needsfix__khmersymboldapmuoyroc	KHMER SYMBOL DAP-MUOY ROC
+19FC	needsfix__khmersymboldappiiroc	KHMER SYMBOL DAP-PII ROC
+19FD	needsfix__khmersymboldapbeiroc	KHMER SYMBOL DAP-BEI ROC
+19FE	needsfix__khmersymboldapbuonroc	KHMER SYMBOL DAP-BUON ROC
+19FF	needsfix__khmersymboldappramroc	KHMER SYMBOL DAP-PRAM ROC

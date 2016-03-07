@@ -1,0 +1,88 @@
+# Thai 0E00 - 0E7F
+0E01	needsfix__thaicharacterkokai	THAI CHARACTER KO KAI
+0E02	needsfix__thaicharacterkhokhai	THAI CHARACTER KHO KHAI
+0E03	needsfix__thaicharacterkhokhuat	THAI CHARACTER KHO KHUAT
+0E04	needsfix__thaicharacterkhokhwai	THAI CHARACTER KHO KHWAI
+0E05	needsfix__thaicharacterkhokhon	THAI CHARACTER KHO KHON
+0E06	needsfix__thaicharacterkhorakhang	THAI CHARACTER KHO RAKHANG
+0E07	needsfix__thaicharacterngongu	THAI CHARACTER NGO NGU
+0E08	needsfix__thaicharacterchochan	THAI CHARACTER CHO CHAN
+0E09	needsfix__thaicharacterchoching	THAI CHARACTER CHO CHING
+0E0A	needsfix__thaicharacterchochang	THAI CHARACTER CHO CHANG
+0E0B	needsfix__thaicharactersoso	THAI CHARACTER SO SO
+0E0C	needsfix__thaicharacterchochoe	THAI CHARACTER CHO CHOE
+0E0D	needsfix__thaicharacteryoying	THAI CHARACTER YO YING
+0E0E	needsfix__thaicharacterdochada	THAI CHARACTER DO CHADA
+0E0F	needsfix__thaicharactertopatak	THAI CHARACTER TO PATAK
+0E10	needsfix__thaicharacterthothan	THAI CHARACTER THO THAN
+0E11	needsfix__thaicharacterthonangmontho	THAI CHARACTER THO NANGMONTHO
+0E12	needsfix__thaicharacterthophuthao	THAI CHARACTER THO PHUTHAO
+0E13	needsfix__thaicharacternonen	THAI CHARACTER NO NEN
+0E14	needsfix__thaicharacterdodek	THAI CHARACTER DO DEK
+0E15	needsfix__thaicharactertotao	THAI CHARACTER TO TAO
+0E16	needsfix__thaicharacterthothung	THAI CHARACTER THO THUNG
+0E17	needsfix__thaicharacterthothahan	THAI CHARACTER THO THAHAN
+0E18	needsfix__thaicharacterthothong	THAI CHARACTER THO THONG
+0E19	needsfix__thaicharacternonu	THAI CHARACTER NO NU
+0E1A	needsfix__thaicharacterbobaimai	THAI CHARACTER BO BAIMAI
+0E1B	needsfix__thaicharacterpopla	THAI CHARACTER PO PLA
+0E1C	needsfix__thaicharacterphophung	THAI CHARACTER PHO PHUNG
+0E1D	needsfix__thaicharacterfofa	THAI CHARACTER FO FA
+0E1E	needsfix__thaicharacterphophan	THAI CHARACTER PHO PHAN
+0E1F	needsfix__thaicharacterfofan	THAI CHARACTER FO FAN
+0E20	needsfix__thaicharacterphosamphao	THAI CHARACTER PHO SAMPHAO
+0E21	needsfix__thaicharactermoma	THAI CHARACTER MO MA
+0E22	needsfix__thaicharacteryoyak	THAI CHARACTER YO YAK
+0E23	needsfix__thaicharacterrorua	THAI CHARACTER RO RUA
+0E24	needsfix__thaicharacterru	THAI CHARACTER RU
+0E25	needsfix__thaicharacterloling	THAI CHARACTER LO LING
+0E26	needsfix__thaicharacterlu	THAI CHARACTER LU
+0E27	needsfix__thaicharacterwowaen	THAI CHARACTER WO WAEN
+0E28	needsfix__thaicharactersosala	THAI CHARACTER SO SALA
+0E29	needsfix__thaicharactersorusi	THAI CHARACTER SO RUSI
+0E2A	needsfix__thaicharactersosua	THAI CHARACTER SO SUA
+0E2B	needsfix__thaicharacterhohip	THAI CHARACTER HO HIP
+0E2C	needsfix__thaicharacterlochula	THAI CHARACTER LO CHULA
+0E2D	needsfix__thaicharacteroang	THAI CHARACTER O ANG
+0E2E	needsfix__thaicharacterhonokhuk	THAI CHARACTER HO NOKHUK
+0E2F	needsfix__thaicharacterpaiyannoi	THAI CHARACTER PAIYANNOI
+0E30	needsfix__thaicharactersaraa	THAI CHARACTER SARA A
+0E31	needsfix__thaicharactermaihanakat	THAI CHARACTER MAI HAN-AKAT
+0E32	needsfix__thaicharactersaraaa	THAI CHARACTER SARA AA
+0E33	needsfix__thaicharactersaraam	THAI CHARACTER SARA AM
+0E34	needsfix__thaicharactersarai	THAI CHARACTER SARA I
+0E35	needsfix__thaicharactersaraii	THAI CHARACTER SARA II
+0E36	needsfix__thaicharactersaraue	THAI CHARACTER SARA UE
+0E37	needsfix__thaicharactersarauee	THAI CHARACTER SARA UEE
+0E38	needsfix__thaicharactersarau	THAI CHARACTER SARA U
+0E39	needsfix__thaicharactersarauu	THAI CHARACTER SARA UU
+0E3A	needsfix__thaicharacterphinthu	THAI CHARACTER PHINTHU
+0E3F	needsfix__thaicurrencysymbolbaht	THAI CURRENCY SYMBOL BAHT
+0E40	needsfix__thaicharactersarae	THAI CHARACTER SARA E
+0E41	needsfix__thaicharactersaraae	THAI CHARACTER SARA AE
+0E42	needsfix__thaicharactersarao	THAI CHARACTER SARA O
+0E43	needsfix__thaicharactersaraaimaimuan	THAI CHARACTER SARA AI MAIMUAN
+0E44	needsfix__thaicharactersaraaimaimalai	THAI CHARACTER SARA AI MAIMALAI
+0E45	needsfix__thaicharacterlakkhangyao	THAI CHARACTER LAKKHANGYAO
+0E46	needsfix__thaicharactermaiyamok	THAI CHARACTER MAIYAMOK
+0E47	needsfix__thaicharactermaitaikhu	THAI CHARACTER MAITAIKHU
+0E48	needsfix__thaicharactermaiek	THAI CHARACTER MAI EK
+0E49	needsfix__thaicharactermaitho	THAI CHARACTER MAI THO
+0E4A	needsfix__thaicharactermaitri	THAI CHARACTER MAI TRI
+0E4B	needsfix__thaicharactermaichattawa	THAI CHARACTER MAI CHATTAWA
+0E4C	needsfix__thaicharacterthanthakhat	THAI CHARACTER THANTHAKHAT
+0E4D	needsfix__thaicharacternikhahit	THAI CHARACTER NIKHAHIT
+0E4E	needsfix__thaicharacteryamakkan	THAI CHARACTER YAMAKKAN
+0E4F	needsfix__thaicharacterfongman	THAI CHARACTER FONGMAN
+0E50	needsfix__thaidigitzero	THAI DIGIT ZERO
+0E51	needsfix__thaidigitone	THAI DIGIT ONE
+0E52	needsfix__thaidigittwo	THAI DIGIT TWO
+0E53	needsfix__thaidigitthree	THAI DIGIT THREE
+0E54	needsfix__thaidigitfour	THAI DIGIT FOUR
+0E55	needsfix__thaidigitfive	THAI DIGIT FIVE
+0E56	needsfix__thaidigitsix	THAI DIGIT SIX
+0E57	needsfix__thaidigitseven	THAI DIGIT SEVEN
+0E58	needsfix__thaidigiteight	THAI DIGIT EIGHT
+0E59	needsfix__thaidigitnine	THAI DIGIT NINE
+0E5A	needsfix__thaicharacterangkhankhu	THAI CHARACTER ANGKHANKHU
+0E5B	needsfix__thaicharacterkhomut	THAI CHARACTER KHOMUT

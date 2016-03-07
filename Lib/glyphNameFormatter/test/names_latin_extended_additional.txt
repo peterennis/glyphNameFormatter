@@ -1,0 +1,257 @@
+# Latin Extended Additional 1E00 - 1EFF
+1E00	needsfix__latincapitalletterawithringbelow	LATIN CAPITAL LETTER A WITH RING BELOW
+1E01	needsfix__latinsmallletterawithringbelow	LATIN SMALL LETTER A WITH RING BELOW
+1E02	needsfix__latincapitalletterbwithdotabove	LATIN CAPITAL LETTER B WITH DOT ABOVE
+1E03	needsfix__latinsmallletterbwithdotabove	LATIN SMALL LETTER B WITH DOT ABOVE
+1E04	needsfix__latincapitalletterbwithdotbelow	LATIN CAPITAL LETTER B WITH DOT BELOW
+1E05	needsfix__latinsmallletterbwithdotbelow	LATIN SMALL LETTER B WITH DOT BELOW
+1E06	needsfix__latincapitalletterbwithlinebelow	LATIN CAPITAL LETTER B WITH LINE BELOW
+1E07	needsfix__latinsmallletterbwithlinebelow	LATIN SMALL LETTER B WITH LINE BELOW
+1E08	needsfix__latincapitallettercwithcedillaandacute	LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE
+1E09	needsfix__latinsmalllettercwithcedillaandacute	LATIN SMALL LETTER C WITH CEDILLA AND ACUTE
+1E0A	needsfix__latincapitalletterdwithdotabove	LATIN CAPITAL LETTER D WITH DOT ABOVE
+1E0B	needsfix__latinsmallletterdwithdotabove	LATIN SMALL LETTER D WITH DOT ABOVE
+1E0C	needsfix__latincapitalletterdwithdotbelow	LATIN CAPITAL LETTER D WITH DOT BELOW
+1E0D	needsfix__latinsmallletterdwithdotbelow	LATIN SMALL LETTER D WITH DOT BELOW
+1E0E	needsfix__latincapitalletterdwithlinebelow	LATIN CAPITAL LETTER D WITH LINE BELOW
+1E0F	needsfix__latinsmallletterdwithlinebelow	LATIN SMALL LETTER D WITH LINE BELOW
+1E10	needsfix__latincapitalletterdwithcedilla	LATIN CAPITAL LETTER D WITH CEDILLA
+1E11	needsfix__latinsmallletterdwithcedilla	LATIN SMALL LETTER D WITH CEDILLA
+1E12	needsfix__latincapitalletterdwithcircumflexbelow	LATIN CAPITAL LETTER D WITH CIRCUMFLEX BELOW
+1E13	needsfix__latinsmallletterdwithcircumflexbelow	LATIN SMALL LETTER D WITH CIRCUMFLEX BELOW
+1E14	needsfix__latincapitalletterewithmacronandgrave	LATIN CAPITAL LETTER E WITH MACRON AND GRAVE
+1E15	needsfix__latinsmallletterewithmacronandgrave	LATIN SMALL LETTER E WITH MACRON AND GRAVE
+1E16	needsfix__latincapitalletterewithmacronandacute	LATIN CAPITAL LETTER E WITH MACRON AND ACUTE
+1E17	needsfix__latinsmallletterewithmacronandacute	LATIN SMALL LETTER E WITH MACRON AND ACUTE
+1E18	needsfix__latincapitalletterewithcircumflexbelow	LATIN CAPITAL LETTER E WITH CIRCUMFLEX BELOW
+1E19	needsfix__latinsmallletterewithcircumflexbelow	LATIN SMALL LETTER E WITH CIRCUMFLEX BELOW
+1E1A	needsfix__latincapitalletterewithtildebelow	LATIN CAPITAL LETTER E WITH TILDE BELOW
+1E1B	needsfix__latinsmallletterewithtildebelow	LATIN SMALL LETTER E WITH TILDE BELOW
+1E1C	needsfix__latincapitalletterewithcedillaandbreve	LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+1E1D	needsfix__latinsmallletterewithcedillaandbreve	LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+1E1E	needsfix__latincapitalletterfwithdotabove	LATIN CAPITAL LETTER F WITH DOT ABOVE
+1E1F	needsfix__latinsmallletterfwithdotabove	LATIN SMALL LETTER F WITH DOT ABOVE
+1E20	needsfix__latincapitallettergwithmacron	LATIN CAPITAL LETTER G WITH MACRON
+1E21	needsfix__latinsmalllettergwithmacron	LATIN SMALL LETTER G WITH MACRON
+1E22	needsfix__latincapitalletterhwithdotabove	LATIN CAPITAL LETTER H WITH DOT ABOVE
+1E23	needsfix__latinsmallletterhwithdotabove	LATIN SMALL LETTER H WITH DOT ABOVE
+1E24	needsfix__latincapitalletterhwithdotbelow	LATIN CAPITAL LETTER H WITH DOT BELOW
+1E25	needsfix__latinsmallletterhwithdotbelow	LATIN SMALL LETTER H WITH DOT BELOW
+1E26	needsfix__latincapitalletterhwithdiaeresis	LATIN CAPITAL LETTER H WITH DIAERESIS
+1E27	needsfix__latinsmallletterhwithdiaeresis	LATIN SMALL LETTER H WITH DIAERESIS
+1E28	needsfix__latincapitalletterhwithcedilla	LATIN CAPITAL LETTER H WITH CEDILLA
+1E29	needsfix__latinsmallletterhwithcedilla	LATIN SMALL LETTER H WITH CEDILLA
+1E2A	needsfix__latincapitalletterhwithbrevebelow	LATIN CAPITAL LETTER H WITH BREVE BELOW
+1E2B	needsfix__latinsmallletterhwithbrevebelow	LATIN SMALL LETTER H WITH BREVE BELOW
+1E2C	needsfix__latincapitalletteriwithtildebelow	LATIN CAPITAL LETTER I WITH TILDE BELOW
+1E2D	needsfix__latinsmallletteriwithtildebelow	LATIN SMALL LETTER I WITH TILDE BELOW
+1E2E	needsfix__latincapitalletteriwithdiaeresisandacute	LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE
+1E2F	needsfix__latinsmallletteriwithdiaeresisandacute	LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE
+1E30	needsfix__latincapitalletterkwithacute	LATIN CAPITAL LETTER K WITH ACUTE
+1E31	needsfix__latinsmallletterkwithacute	LATIN SMALL LETTER K WITH ACUTE
+1E32	needsfix__latincapitalletterkwithdotbelow	LATIN CAPITAL LETTER K WITH DOT BELOW
+1E33	needsfix__latinsmallletterkwithdotbelow	LATIN SMALL LETTER K WITH DOT BELOW
+1E34	needsfix__latincapitalletterkwithlinebelow	LATIN CAPITAL LETTER K WITH LINE BELOW
+1E35	needsfix__latinsmallletterkwithlinebelow	LATIN SMALL LETTER K WITH LINE BELOW
+1E36	needsfix__latincapitalletterlwithdotbelow	LATIN CAPITAL LETTER L WITH DOT BELOW
+1E37	needsfix__latinsmallletterlwithdotbelow	LATIN SMALL LETTER L WITH DOT BELOW
+1E38	needsfix__latincapitalletterlwithdotbelowandmacron	LATIN CAPITAL LETTER L WITH DOT BELOW AND MACRON
+1E39	needsfix__latinsmallletterlwithdotbelowandmacron	LATIN SMALL LETTER L WITH DOT BELOW AND MACRON
+1E3A	needsfix__latincapitalletterlwithlinebelow	LATIN CAPITAL LETTER L WITH LINE BELOW
+1E3B	needsfix__latinsmallletterlwithlinebelow	LATIN SMALL LETTER L WITH LINE BELOW
+1E3C	needsfix__latincapitalletterlwithcircumflexbelow	LATIN CAPITAL LETTER L WITH CIRCUMFLEX BELOW
+1E3D	needsfix__latinsmallletterlwithcircumflexbelow	LATIN SMALL LETTER L WITH CIRCUMFLEX BELOW
+1E3E	needsfix__latincapitallettermwithacute	LATIN CAPITAL LETTER M WITH ACUTE
+1E3F	needsfix__latinsmalllettermwithacute	LATIN SMALL LETTER M WITH ACUTE
+1E40	needsfix__latincapitallettermwithdotabove	LATIN CAPITAL LETTER M WITH DOT ABOVE
+1E41	needsfix__latinsmalllettermwithdotabove	LATIN SMALL LETTER M WITH DOT ABOVE
+1E42	needsfix__latincapitallettermwithdotbelow	LATIN CAPITAL LETTER M WITH DOT BELOW
+1E43	needsfix__latinsmalllettermwithdotbelow	LATIN SMALL LETTER M WITH DOT BELOW
+1E44	needsfix__latincapitalletternwithdotabove	LATIN CAPITAL LETTER N WITH DOT ABOVE
+1E45	needsfix__latinsmallletternwithdotabove	LATIN SMALL LETTER N WITH DOT ABOVE
+1E46	needsfix__latincapitalletternwithdotbelow	LATIN CAPITAL LETTER N WITH DOT BELOW
+1E47	needsfix__latinsmallletternwithdotbelow	LATIN SMALL LETTER N WITH DOT BELOW
+1E48	needsfix__latincapitalletternwithlinebelow	LATIN CAPITAL LETTER N WITH LINE BELOW
+1E49	needsfix__latinsmallletternwithlinebelow	LATIN SMALL LETTER N WITH LINE BELOW
+1E4A	needsfix__latincapitalletternwithcircumflexbelow	LATIN CAPITAL LETTER N WITH CIRCUMFLEX BELOW
+1E4B	needsfix__latinsmallletternwithcircumflexbelow	LATIN SMALL LETTER N WITH CIRCUMFLEX BELOW
+1E4C	needsfix__latincapitalletterowithtildeandacute	LATIN CAPITAL LETTER O WITH TILDE AND ACUTE
+1E4D	needsfix__latinsmallletterowithtildeandacute	LATIN SMALL LETTER O WITH TILDE AND ACUTE
+1E4E	needsfix__latincapitalletterowithtildeanddiaeresis	LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS
+1E4F	needsfix__latinsmallletterowithtildeanddiaeresis	LATIN SMALL LETTER O WITH TILDE AND DIAERESIS
+1E50	needsfix__latincapitalletterowithmacronandgrave	LATIN CAPITAL LETTER O WITH MACRON AND GRAVE
+1E51	needsfix__latinsmallletterowithmacronandgrave	LATIN SMALL LETTER O WITH MACRON AND GRAVE
+1E52	needsfix__latincapitalletterowithmacronandacute	LATIN CAPITAL LETTER O WITH MACRON AND ACUTE
+1E53	needsfix__latinsmallletterowithmacronandacute	LATIN SMALL LETTER O WITH MACRON AND ACUTE
+1E54	needsfix__latincapitalletterpwithacute	LATIN CAPITAL LETTER P WITH ACUTE
+1E55	needsfix__latinsmallletterpwithacute	LATIN SMALL LETTER P WITH ACUTE
+1E56	needsfix__latincapitalletterpwithdotabove	LATIN CAPITAL LETTER P WITH DOT ABOVE
+1E57	needsfix__latinsmallletterpwithdotabove	LATIN SMALL LETTER P WITH DOT ABOVE
+1E58	needsfix__latincapitalletterrwithdotabove	LATIN CAPITAL LETTER R WITH DOT ABOVE
+1E59	needsfix__latinsmallletterrwithdotabove	LATIN SMALL LETTER R WITH DOT ABOVE
+1E5A	needsfix__latincapitalletterrwithdotbelow	LATIN CAPITAL LETTER R WITH DOT BELOW
+1E5B	needsfix__latinsmallletterrwithdotbelow	LATIN SMALL LETTER R WITH DOT BELOW
+1E5C	needsfix__latincapitalletterrwithdotbelowandmacron	LATIN CAPITAL LETTER R WITH DOT BELOW AND MACRON
+1E5D	needsfix__latinsmallletterrwithdotbelowandmacron	LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+1E5E	needsfix__latincapitalletterrwithlinebelow	LATIN CAPITAL LETTER R WITH LINE BELOW
+1E5F	needsfix__latinsmallletterrwithlinebelow	LATIN SMALL LETTER R WITH LINE BELOW
+1E60	needsfix__latincapitalletterswithdotabove	LATIN CAPITAL LETTER S WITH DOT ABOVE
+1E61	needsfix__latinsmallletterswithdotabove	LATIN SMALL LETTER S WITH DOT ABOVE
+1E62	needsfix__latincapitalletterswithdotbelow	LATIN CAPITAL LETTER S WITH DOT BELOW
+1E63	needsfix__latinsmallletterswithdotbelow	LATIN SMALL LETTER S WITH DOT BELOW
+1E64	needsfix__latincapitalletterswithacuteanddotabove	LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE
+1E65	needsfix__latinsmallletterswithacuteanddotabove	LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE
+1E66	needsfix__latincapitalletterswithcaronanddotabove	LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE
+1E67	needsfix__latinsmallletterswithcaronanddotabove	LATIN SMALL LETTER S WITH CARON AND DOT ABOVE
+1E68	needsfix__latincapitalletterswithdotbelowanddotabove	LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE
+1E69	needsfix__latinsmallletterswithdotbelowanddotabove	LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE
+1E6A	needsfix__latincapitallettertwithdotabove	LATIN CAPITAL LETTER T WITH DOT ABOVE
+1E6B	needsfix__latinsmalllettertwithdotabove	LATIN SMALL LETTER T WITH DOT ABOVE
+1E6C	needsfix__latincapitallettertwithdotbelow	LATIN CAPITAL LETTER T WITH DOT BELOW
+1E6D	needsfix__latinsmalllettertwithdotbelow	LATIN SMALL LETTER T WITH DOT BELOW
+1E6E	needsfix__latincapitallettertwithlinebelow	LATIN CAPITAL LETTER T WITH LINE BELOW
+1E6F	needsfix__latinsmalllettertwithlinebelow	LATIN SMALL LETTER T WITH LINE BELOW
+1E70	needsfix__latincapitallettertwithcircumflexbelow	LATIN CAPITAL LETTER T WITH CIRCUMFLEX BELOW
+1E71	needsfix__latinsmalllettertwithcircumflexbelow	LATIN SMALL LETTER T WITH CIRCUMFLEX BELOW
+1E72	needsfix__latincapitalletteruwithdiaeresisbelow	LATIN CAPITAL LETTER U WITH DIAERESIS BELOW
+1E73	needsfix__latinsmallletteruwithdiaeresisbelow	LATIN SMALL LETTER U WITH DIAERESIS BELOW
+1E74	needsfix__latincapitalletteruwithtildebelow	LATIN CAPITAL LETTER U WITH TILDE BELOW
+1E75	needsfix__latinsmallletteruwithtildebelow	LATIN SMALL LETTER U WITH TILDE BELOW
+1E76	needsfix__latincapitalletteruwithcircumflexbelow	LATIN CAPITAL LETTER U WITH CIRCUMFLEX BELOW
+1E77	needsfix__latinsmallletteruwithcircumflexbelow	LATIN SMALL LETTER U WITH CIRCUMFLEX BELOW
+1E78	needsfix__latincapitalletteruwithtildeandacute	LATIN CAPITAL LETTER U WITH TILDE AND ACUTE
+1E79	needsfix__latinsmallletteruwithtildeandacute	LATIN SMALL LETTER U WITH TILDE AND ACUTE
+1E7A	needsfix__latincapitalletteruwithmacronanddiaeresis	LATIN CAPITAL LETTER U WITH MACRON AND DIAERESIS
+1E7B	needsfix__latinsmallletteruwithmacronanddiaeresis	LATIN SMALL LETTER U WITH MACRON AND DIAERESIS
+1E7C	needsfix__latincapitallettervwithtilde	LATIN CAPITAL LETTER V WITH TILDE
+1E7D	needsfix__latinsmalllettervwithtilde	LATIN SMALL LETTER V WITH TILDE
+1E7E	needsfix__latincapitallettervwithdotbelow	LATIN CAPITAL LETTER V WITH DOT BELOW
+1E7F	needsfix__latinsmalllettervwithdotbelow	LATIN SMALL LETTER V WITH DOT BELOW
+1E80	needsfix__latincapitalletterwwithgrave	LATIN CAPITAL LETTER W WITH GRAVE
+1E81	needsfix__latinsmallletterwwithgrave	LATIN SMALL LETTER W WITH GRAVE
+1E82	needsfix__latincapitalletterwwithacute	LATIN CAPITAL LETTER W WITH ACUTE
+1E83	needsfix__latinsmallletterwwithacute	LATIN SMALL LETTER W WITH ACUTE
+1E84	needsfix__latincapitalletterwwithdiaeresis	LATIN CAPITAL LETTER W WITH DIAERESIS
+1E85	needsfix__latinsmallletterwwithdiaeresis	LATIN SMALL LETTER W WITH DIAERESIS
+1E86	needsfix__latincapitalletterwwithdotabove	LATIN CAPITAL LETTER W WITH DOT ABOVE
+1E87	needsfix__latinsmallletterwwithdotabove	LATIN SMALL LETTER W WITH DOT ABOVE
+1E88	needsfix__latincapitalletterwwithdotbelow	LATIN CAPITAL LETTER W WITH DOT BELOW
+1E89	needsfix__latinsmallletterwwithdotbelow	LATIN SMALL LETTER W WITH DOT BELOW
+1E8A	needsfix__latincapitalletterxwithdotabove	LATIN CAPITAL LETTER X WITH DOT ABOVE
+1E8B	needsfix__latinsmallletterxwithdotabove	LATIN SMALL LETTER X WITH DOT ABOVE
+1E8C	needsfix__latincapitalletterxwithdiaeresis	LATIN CAPITAL LETTER X WITH DIAERESIS
+1E8D	needsfix__latinsmallletterxwithdiaeresis	LATIN SMALL LETTER X WITH DIAERESIS
+1E8E	needsfix__latincapitalletterywithdotabove	LATIN CAPITAL LETTER Y WITH DOT ABOVE
+1E8F	needsfix__latinsmallletterywithdotabove	LATIN SMALL LETTER Y WITH DOT ABOVE
+1E90	needsfix__latincapitalletterzwithcircumflex	LATIN CAPITAL LETTER Z WITH CIRCUMFLEX
+1E91	needsfix__latinsmallletterzwithcircumflex	LATIN SMALL LETTER Z WITH CIRCUMFLEX
+1E92	needsfix__latincapitalletterzwithdotbelow	LATIN CAPITAL LETTER Z WITH DOT BELOW
+1E93	needsfix__latinsmallletterzwithdotbelow	LATIN SMALL LETTER Z WITH DOT BELOW
+1E94	needsfix__latincapitalletterzwithlinebelow	LATIN CAPITAL LETTER Z WITH LINE BELOW
+1E95	needsfix__latinsmallletterzwithlinebelow	LATIN SMALL LETTER Z WITH LINE BELOW
+1E96	needsfix__latinsmallletterhwithlinebelow	LATIN SMALL LETTER H WITH LINE BELOW
+1E97	needsfix__latinsmalllettertwithdiaeresis	LATIN SMALL LETTER T WITH DIAERESIS
+1E98	needsfix__latinsmallletterwwithringabove	LATIN SMALL LETTER W WITH RING ABOVE
+1E99	needsfix__latinsmallletterywithringabove	LATIN SMALL LETTER Y WITH RING ABOVE
+1E9A	needsfix__latinsmallletterawithrighthalfring	LATIN SMALL LETTER A WITH RIGHT HALF RING
+1E9B	needsfix__latinsmallletterlongswithdotabove	LATIN SMALL LETTER LONG S WITH DOT ABOVE
+1E9C	needsfix__latinsmallletterlongswithdiagonalstroke	LATIN SMALL LETTER LONG S WITH DIAGONAL STROKE
+1E9D	needsfix__latinsmallletterlongswithhighstroke	LATIN SMALL LETTER LONG S WITH HIGH STROKE
+1E9E	needsfix__latincapitallettersharps	LATIN CAPITAL LETTER SHARP S
+1E9F	needsfix__latinsmallletterdelta	LATIN SMALL LETTER DELTA
+1EA0	needsfix__latincapitalletterawithdotbelow	LATIN CAPITAL LETTER A WITH DOT BELOW
+1EA1	needsfix__latinsmallletterawithdotbelow	LATIN SMALL LETTER A WITH DOT BELOW
+1EA2	needsfix__latincapitalletterawithhookabove	LATIN CAPITAL LETTER A WITH HOOK ABOVE
+1EA3	needsfix__latinsmallletterawithhookabove	LATIN SMALL LETTER A WITH HOOK ABOVE
+1EA4	needsfix__latincapitalletterawithcircumflexandacute	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE
+1EA5	needsfix__latinsmallletterawithcircumflexandacute	LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE
+1EA6	needsfix__latincapitalletterawithcircumflexandgrave	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE
+1EA7	needsfix__latinsmallletterawithcircumflexandgrave	LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE
+1EA8	needsfix__latincapitalletterawithcircumflexandhookabove	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+1EA9	needsfix__latinsmallletterawithcircumflexandhookabove	LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+1EAA	needsfix__latincapitalletterawithcircumflexandtilde	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE
+1EAB	needsfix__latinsmallletterawithcircumflexandtilde	LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE
+1EAC	needsfix__latincapitalletterawithcircumflexanddotbelow	LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+1EAD	needsfix__latinsmallletterawithcircumflexanddotbelow	LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+1EAE	needsfix__latincapitalletterawithbreveandacute	LATIN CAPITAL LETTER A WITH BREVE AND ACUTE
+1EAF	needsfix__latinsmallletterawithbreveandacute	LATIN SMALL LETTER A WITH BREVE AND ACUTE
+1EB0	needsfix__latincapitalletterawithbreveandgrave	LATIN CAPITAL LETTER A WITH BREVE AND GRAVE
+1EB1	needsfix__latinsmallletterawithbreveandgrave	LATIN SMALL LETTER A WITH BREVE AND GRAVE
+1EB2	needsfix__latincapitalletterawithbreveandhookabove	LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE
+1EB3	needsfix__latinsmallletterawithbreveandhookabove	LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE
+1EB4	needsfix__latincapitalletterawithbreveandtilde	LATIN CAPITAL LETTER A WITH BREVE AND TILDE
+1EB5	needsfix__latinsmallletterawithbreveandtilde	LATIN SMALL LETTER A WITH BREVE AND TILDE
+1EB6	needsfix__latincapitalletterawithbreveanddotbelow	LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW
+1EB7	needsfix__latinsmallletterawithbreveanddotbelow	LATIN SMALL LETTER A WITH BREVE AND DOT BELOW
+1EB8	needsfix__latincapitalletterewithdotbelow	LATIN CAPITAL LETTER E WITH DOT BELOW
+1EB9	needsfix__latinsmallletterewithdotbelow	LATIN SMALL LETTER E WITH DOT BELOW
+1EBA	needsfix__latincapitalletterewithhookabove	LATIN CAPITAL LETTER E WITH HOOK ABOVE
+1EBB	needsfix__latinsmallletterewithhookabove	LATIN SMALL LETTER E WITH HOOK ABOVE
+1EBC	needsfix__latincapitalletterewithtilde	LATIN CAPITAL LETTER E WITH TILDE
+1EBD	needsfix__latinsmallletterewithtilde	LATIN SMALL LETTER E WITH TILDE
+1EBE	needsfix__latincapitalletterewithcircumflexandacute	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE
+1EBF	needsfix__latinsmallletterewithcircumflexandacute	LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE
+1EC0	needsfix__latincapitalletterewithcircumflexandgrave	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE
+1EC1	needsfix__latinsmallletterewithcircumflexandgrave	LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE
+1EC2	needsfix__latincapitalletterewithcircumflexandhookabove	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+1EC3	needsfix__latinsmallletterewithcircumflexandhookabove	LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+1EC4	needsfix__latincapitalletterewithcircumflexandtilde	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE
+1EC5	needsfix__latinsmallletterewithcircumflexandtilde	LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE
+1EC6	needsfix__latincapitalletterewithcircumflexanddotbelow	LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+1EC7	needsfix__latinsmallletterewithcircumflexanddotbelow	LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+1EC8	needsfix__latincapitalletteriwithhookabove	LATIN CAPITAL LETTER I WITH HOOK ABOVE
+1EC9	needsfix__latinsmallletteriwithhookabove	LATIN SMALL LETTER I WITH HOOK ABOVE
+1ECA	needsfix__latincapitalletteriwithdotbelow	LATIN CAPITAL LETTER I WITH DOT BELOW
+1ECB	needsfix__latinsmallletteriwithdotbelow	LATIN SMALL LETTER I WITH DOT BELOW
+1ECC	needsfix__latincapitalletterowithdotbelow	LATIN CAPITAL LETTER O WITH DOT BELOW
+1ECD	needsfix__latinsmallletterowithdotbelow	LATIN SMALL LETTER O WITH DOT BELOW
+1ECE	needsfix__latincapitalletterowithhookabove	LATIN CAPITAL LETTER O WITH HOOK ABOVE
+1ECF	needsfix__latinsmallletterowithhookabove	LATIN SMALL LETTER O WITH HOOK ABOVE
+1ED0	needsfix__latincapitalletterowithcircumflexandacute	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE
+1ED1	needsfix__latinsmallletterowithcircumflexandacute	LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE
+1ED2	needsfix__latincapitalletterowithcircumflexandgrave	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE
+1ED3	needsfix__latinsmallletterowithcircumflexandgrave	LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE
+1ED4	needsfix__latincapitalletterowithcircumflexandhookabove	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+1ED5	needsfix__latinsmallletterowithcircumflexandhookabove	LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+1ED6	needsfix__latincapitalletterowithcircumflexandtilde	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE
+1ED7	needsfix__latinsmallletterowithcircumflexandtilde	LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE
+1ED8	needsfix__latincapitalletterowithcircumflexanddotbelow	LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+1ED9	needsfix__latinsmallletterowithcircumflexanddotbelow	LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+1EDA	needsfix__latincapitalletterowithhornandacute	LATIN CAPITAL LETTER O WITH HORN AND ACUTE
+1EDB	needsfix__latinsmallletterowithhornandacute	LATIN SMALL LETTER O WITH HORN AND ACUTE
+1EDC	needsfix__latincapitalletterowithhornandgrave	LATIN CAPITAL LETTER O WITH HORN AND GRAVE
+1EDD	needsfix__latinsmallletterowithhornandgrave	LATIN SMALL LETTER O WITH HORN AND GRAVE
+1EDE	needsfix__latincapitalletterowithhornandhookabove	LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE
+1EDF	needsfix__latinsmallletterowithhornandhookabove	LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE
+1EE0	needsfix__latincapitalletterowithhornandtilde	LATIN CAPITAL LETTER O WITH HORN AND TILDE
+1EE1	needsfix__latinsmallletterowithhornandtilde	LATIN SMALL LETTER O WITH HORN AND TILDE
+1EE2	needsfix__latincapitalletterowithhornanddotbelow	LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW
+1EE3	needsfix__latinsmallletterowithhornanddotbelow	LATIN SMALL LETTER O WITH HORN AND DOT BELOW
+1EE4	needsfix__latincapitalletteruwithdotbelow	LATIN CAPITAL LETTER U WITH DOT BELOW
+1EE5	needsfix__latinsmallletteruwithdotbelow	LATIN SMALL LETTER U WITH DOT BELOW
+1EE6	needsfix__latincapitalletteruwithhookabove	LATIN CAPITAL LETTER U WITH HOOK ABOVE
+1EE7	needsfix__latinsmallletteruwithhookabove	LATIN SMALL LETTER U WITH HOOK ABOVE
+1EE8	needsfix__latincapitalletteruwithhornandacute	LATIN CAPITAL LETTER U WITH HORN AND ACUTE
+1EE9	needsfix__latinsmallletteruwithhornandacute	LATIN SMALL LETTER U WITH HORN AND ACUTE
+1EEA	needsfix__latincapitalletteruwithhornandgrave	LATIN CAPITAL LETTER U WITH HORN AND GRAVE
+1EEB	needsfix__latinsmallletteruwithhornandgrave	LATIN SMALL LETTER U WITH HORN AND GRAVE
+1EEC	needsfix__latincapitalletteruwithhornandhookabove	LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE
+1EED	needsfix__latinsmallletteruwithhornandhookabove	LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE
+1EEE	needsfix__latincapitalletteruwithhornandtilde	LATIN CAPITAL LETTER U WITH HORN AND TILDE
+1EEF	needsfix__latinsmallletteruwithhornandtilde	LATIN SMALL LETTER U WITH HORN AND TILDE
+1EF0	needsfix__latincapitalletteruwithhornanddotbelow	LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW
+1EF1	needsfix__latinsmallletteruwithhornanddotbelow	LATIN SMALL LETTER U WITH HORN AND DOT BELOW
+1EF2	needsfix__latincapitalletterywithgrave	LATIN CAPITAL LETTER Y WITH GRAVE
+1EF3	needsfix__latinsmallletterywithgrave	LATIN SMALL LETTER Y WITH GRAVE
+1EF4	needsfix__latincapitalletterywithdotbelow	LATIN CAPITAL LETTER Y WITH DOT BELOW
+1EF5	needsfix__latinsmallletterywithdotbelow	LATIN SMALL LETTER Y WITH DOT BELOW
+1EF6	needsfix__latincapitalletterywithhookabove	LATIN CAPITAL LETTER Y WITH HOOK ABOVE
+1EF7	needsfix__latinsmallletterywithhookabove	LATIN SMALL LETTER Y WITH HOOK ABOVE
+1EF8	needsfix__latincapitalletterywithtilde	LATIN CAPITAL LETTER Y WITH TILDE
+1EF9	needsfix__latinsmallletterywithtilde	LATIN SMALL LETTER Y WITH TILDE
+1EFA	needsfix__latincapitallettermiddlewelshll	LATIN CAPITAL LETTER MIDDLE-WELSH LL
+1EFB	needsfix__latinsmalllettermiddlewelshll	LATIN SMALL LETTER MIDDLE-WELSH LL
+1EFC	needsfix__latincapitallettermiddlewelshv	LATIN CAPITAL LETTER MIDDLE-WELSH V
+1EFD	needsfix__latinsmalllettermiddlewelshv	LATIN SMALL LETTER MIDDLE-WELSH V
+1EFE	needsfix__latincapitalletterywithloop	LATIN CAPITAL LETTER Y WITH LOOP
+1EFF	needsfix__latinsmallletterywithloop	LATIN SMALL LETTER Y WITH LOOP

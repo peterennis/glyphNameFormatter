@@ -1,0 +1,17 @@
+# Katakana Phonetic Extensions 31F0 - 31FF
+31F0	needsfix__katakanalettersmallku	KATAKANA LETTER SMALL KU
+31F1	needsfix__katakanalettersmallsi	KATAKANA LETTER SMALL SI
+31F2	needsfix__katakanalettersmallsu	KATAKANA LETTER SMALL SU
+31F3	needsfix__katakanalettersmallto	KATAKANA LETTER SMALL TO
+31F4	needsfix__katakanalettersmallnu	KATAKANA LETTER SMALL NU
+31F5	needsfix__katakanalettersmallha	KATAKANA LETTER SMALL HA
+31F6	needsfix__katakanalettersmallhi	KATAKANA LETTER SMALL HI
+31F7	needsfix__katakanalettersmallhu	KATAKANA LETTER SMALL HU
+31F8	needsfix__katakanalettersmallhe	KATAKANA LETTER SMALL HE
+31F9	needsfix__katakanalettersmallho	KATAKANA LETTER SMALL HO
+31FA	needsfix__katakanalettersmallmu	KATAKANA LETTER SMALL MU
+31FB	needsfix__katakanalettersmallra	KATAKANA LETTER SMALL RA
+31FC	needsfix__katakanalettersmallri	KATAKANA LETTER SMALL RI
+31FD	needsfix__katakanalettersmallru	KATAKANA LETTER SMALL RU
+31FE	needsfix__katakanalettersmallre	KATAKANA LETTER SMALL RE
+31FF	needsfix__katakanalettersmallro	KATAKANA LETTER SMALL RO

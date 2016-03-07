@@ -1,0 +1,82 @@
+# Runic 16A0 - 16FF
+16A0	needsfix__runicletterfehufeohfef	RUNIC LETTER FEHU FEOH FE F
+16A1	needsfix__runicletterv	RUNIC LETTER V
+16A2	needsfix__runicletteruruzuru	RUNIC LETTER URUZ UR U
+16A3	needsfix__runicletteryr	RUNIC LETTER YR
+16A4	needsfix__runiclettery	RUNIC LETTER Y
+16A5	needsfix__runicletterw	RUNIC LETTER W
+16A6	needsfix__runicletterthurisazthursthorn	RUNIC LETTER THURISAZ THURS THORN
+16A7	needsfix__runiclettereth	RUNIC LETTER ETH
+16A8	needsfix__runicletteransuza	RUNIC LETTER ANSUZ A
+16A9	needsfix__runicletteroso	RUNIC LETTER OS O
+16AA	needsfix__runicletteraca	RUNIC LETTER AC A
+16AB	needsfix__runicletteraesc	RUNIC LETTER AESC
+16AC	needsfix__runicletterlongbranchosso	RUNIC LETTER LONG-BRANCH-OSS O
+16AD	needsfix__runiclettershorttwigosso	RUNIC LETTER SHORT-TWIG-OSS O
+16AE	needsfix__runiclettero	RUNIC LETTER O
+16AF	needsfix__runicletteroe	RUNIC LETTER OE
+16B0	needsfix__runicletteron	RUNIC LETTER ON
+16B1	needsfix__runicletterraidoradreidr	RUNIC LETTER RAIDO RAD REID R
+16B2	needsfix__runicletterkauna	RUNIC LETTER KAUNA
+16B3	needsfix__runiclettercen	RUNIC LETTER CEN
+16B4	needsfix__runicletterkaunk	RUNIC LETTER KAUN K
+16B5	needsfix__runicletterg	RUNIC LETTER G
+16B6	needsfix__runiclettereng	RUNIC LETTER ENG
+16B7	needsfix__runiclettergebogyfug	RUNIC LETTER GEBO GYFU G
+16B8	needsfix__runiclettergar	RUNIC LETTER GAR
+16B9	needsfix__runicletterwunjowynnw	RUNIC LETTER WUNJO WYNN W
+16BA	needsfix__runicletterhaglazh	RUNIC LETTER HAGLAZ H
+16BB	needsfix__runicletterhaeglh	RUNIC LETTER HAEGL H
+16BC	needsfix__runicletterlongbranchhagallh	RUNIC LETTER LONG-BRANCH-HAGALL H
+16BD	needsfix__runiclettershorttwighagallh	RUNIC LETTER SHORT-TWIG-HAGALL H
+16BE	needsfix__runicletternaudiznydnaudn	RUNIC LETTER NAUDIZ NYD NAUD N
+16BF	needsfix__runiclettershorttwignaudn	RUNIC LETTER SHORT-TWIG-NAUD N
+16C0	needsfix__runicletterdottedn	RUNIC LETTER DOTTED-N
+16C1	needsfix__runicletterisazisissi	RUNIC LETTER ISAZ IS ISS I
+16C2	needsfix__runiclettere	RUNIC LETTER E
+16C3	needsfix__runicletterjeranj	RUNIC LETTER JERAN J
+16C4	needsfix__runicletterger	RUNIC LETTER GER
+16C5	needsfix__runicletterlongbrancharae	RUNIC LETTER LONG-BRANCH-AR AE
+16C6	needsfix__runiclettershorttwigara	RUNIC LETTER SHORT-TWIG-AR A
+16C7	needsfix__runicletteriwazeoh	RUNIC LETTER IWAZ EOH
+16C8	needsfix__runicletterperthopeorthp	RUNIC LETTER PERTHO PEORTH P
+16C9	needsfix__runicletteralgizeolhx	RUNIC LETTER ALGIZ EOLHX
+16CA	needsfix__runiclettersowilos	RUNIC LETTER SOWILO S
+16CB	needsfix__runiclettersigellongbranchsols	RUNIC LETTER SIGEL LONG-BRANCH-SOL S
+16CC	needsfix__runiclettershorttwigsols	RUNIC LETTER SHORT-TWIG-SOL S
+16CD	needsfix__runicletterc	RUNIC LETTER C
+16CE	needsfix__runicletterz	RUNIC LETTER Z
+16CF	needsfix__runiclettertiwaztirtyrt	RUNIC LETTER TIWAZ TIR TYR T
+16D0	needsfix__runiclettershorttwigtyrt	RUNIC LETTER SHORT-TWIG-TYR T
+16D1	needsfix__runicletterd	RUNIC LETTER D
+16D2	needsfix__runicletterberkananbeorcbjarkanb	RUNIC LETTER BERKANAN BEORC BJARKAN B
+16D3	needsfix__runiclettershorttwigbjarkanb	RUNIC LETTER SHORT-TWIG-BJARKAN B
+16D4	needsfix__runicletterdottedp	RUNIC LETTER DOTTED-P
+16D5	needsfix__runicletteropenp	RUNIC LETTER OPEN-P
+16D6	needsfix__runicletterehwazehe	RUNIC LETTER EHWAZ EH E
+16D7	needsfix__runiclettermannazmanm	RUNIC LETTER MANNAZ MAN M
+16D8	needsfix__runicletterlongbranchmadrm	RUNIC LETTER LONG-BRANCH-MADR M
+16D9	needsfix__runiclettershorttwigmadrm	RUNIC LETTER SHORT-TWIG-MADR M
+16DA	needsfix__runicletterlaukazlagulogrl	RUNIC LETTER LAUKAZ LAGU LOGR L
+16DB	needsfix__runicletterdottedl	RUNIC LETTER DOTTED-L
+16DC	needsfix__runicletteringwaz	RUNIC LETTER INGWAZ
+16DD	needsfix__runiclettering	RUNIC LETTER ING
+16DE	needsfix__runicletterdagazdaegd	RUNIC LETTER DAGAZ DAEG D
+16DF	needsfix__runicletterothalanethelo	RUNIC LETTER OTHALAN ETHEL O
+16E0	needsfix__runicletterear	RUNIC LETTER EAR
+16E1	needsfix__runicletterior	RUNIC LETTER IOR
+16E2	needsfix__runiclettercweorth	RUNIC LETTER CWEORTH
+16E3	needsfix__runiclettercalc	RUNIC LETTER CALC
+16E4	needsfix__runiclettercealc	RUNIC LETTER CEALC
+16E5	needsfix__runicletterstan	RUNIC LETTER STAN
+16E6	needsfix__runicletterlongbranchyr	RUNIC LETTER LONG-BRANCH-YR
+16E7	needsfix__runiclettershorttwigyr	RUNIC LETTER SHORT-TWIG-YR
+16E8	needsfix__runiclettericelandicyr	RUNIC LETTER ICELANDIC-YR
+16E9	needsfix__runicletterq	RUNIC LETTER Q
+16EA	needsfix__runicletterx	RUNIC LETTER X
+16EB	needsfix__runicsinglepunctuation	RUNIC SINGLE PUNCTUATION
+16EC	needsfix__runicmultiplepunctuation	RUNIC MULTIPLE PUNCTUATION
+16ED	needsfix__runiccrosspunctuation	RUNIC CROSS PUNCTUATION
+16EE	needsfix__runicarlaugsymbol	RUNIC ARLAUG SYMBOL
+16EF	needsfix__runictvimadursymbol	RUNIC TVIMADUR SYMBOL
+16F0	needsfix__runicbelgthorsymbol	RUNIC BELGTHOR SYMBOL

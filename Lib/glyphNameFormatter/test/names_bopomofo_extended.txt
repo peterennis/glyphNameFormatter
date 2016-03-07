@@ -1,0 +1,25 @@
+# Bopomofo Extended 31A0 - 31BF
+31A0	needsfix__bopomofoletterbu	BOPOMOFO LETTER BU
+31A1	needsfix__bopomofoletterzi	BOPOMOFO LETTER ZI
+31A2	needsfix__bopomofoletterji	BOPOMOFO LETTER JI
+31A3	needsfix__bopomofolettergu	BOPOMOFO LETTER GU
+31A4	needsfix__bopomofoletteree	BOPOMOFO LETTER EE
+31A5	needsfix__bopomofoletterenn	BOPOMOFO LETTER ENN
+31A6	needsfix__bopomofoletteroo	BOPOMOFO LETTER OO
+31A7	needsfix__bopomofoletteronn	BOPOMOFO LETTER ONN
+31A8	needsfix__bopomofoletterir	BOPOMOFO LETTER IR
+31A9	needsfix__bopomofoletterann	BOPOMOFO LETTER ANN
+31AA	needsfix__bopomofoletterinn	BOPOMOFO LETTER INN
+31AB	needsfix__bopomofoletterunn	BOPOMOFO LETTER UNN
+31AC	needsfix__bopomofoletterim	BOPOMOFO LETTER IM
+31AD	needsfix__bopomofoletterngg	BOPOMOFO LETTER NGG
+31AE	needsfix__bopomofoletterainn	BOPOMOFO LETTER AINN
+31AF	needsfix__bopomofoletteraunn	BOPOMOFO LETTER AUNN
+31B0	needsfix__bopomofoletteram	BOPOMOFO LETTER AM
+31B1	needsfix__bopomofoletterom	BOPOMOFO LETTER OM
+31B2	needsfix__bopomofoletterong	BOPOMOFO LETTER ONG
+31B3	needsfix__bopomofoletterinnn	BOPOMOFO LETTER INNN
+31B4	needsfix__bopomofofinalletterp	BOPOMOFO FINAL LETTER P
+31B5	needsfix__bopomofofinallettert	BOPOMOFO FINAL LETTER T
+31B6	needsfix__bopomofofinalletterk	BOPOMOFO FINAL LETTER K
+31B7	needsfix__bopomofofinalletterh	BOPOMOFO FINAL LETTER H

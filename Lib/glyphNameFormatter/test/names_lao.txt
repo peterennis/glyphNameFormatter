@@ -1,0 +1,66 @@
+# Lao 0E80 - 0EFF
+0E81	needsfix__laoletterko	LAO LETTER KO
+0E82	needsfix__laoletterkhosung	LAO LETTER KHO SUNG
+0E84	needsfix__laoletterkhotam	LAO LETTER KHO TAM
+0E87	needsfix__laoletterngo	LAO LETTER NGO
+0E88	needsfix__laoletterco	LAO LETTER CO
+0E8A	needsfix__laolettersotam	LAO LETTER SO TAM
+0E8D	needsfix__laoletternyo	LAO LETTER NYO
+0E94	needsfix__laoletterdo	LAO LETTER DO
+0E95	needsfix__laoletterto	LAO LETTER TO
+0E96	needsfix__laoletterthosung	LAO LETTER THO SUNG
+0E97	needsfix__laoletterthotam	LAO LETTER THO TAM
+0E99	needsfix__laoletterno	LAO LETTER NO
+0E9A	needsfix__laoletterbo	LAO LETTER BO
+0E9B	needsfix__laoletterpo	LAO LETTER PO
+0E9C	needsfix__laoletterphosung	LAO LETTER PHO SUNG
+0E9D	needsfix__laoletterfotam	LAO LETTER FO TAM
+0E9E	needsfix__laoletterphotam	LAO LETTER PHO TAM
+0E9F	needsfix__laoletterfosung	LAO LETTER FO SUNG
+0EA1	needsfix__laolettermo	LAO LETTER MO
+0EA2	needsfix__laoletteryo	LAO LETTER YO
+0EA3	needsfix__laoletterloling	LAO LETTER LO LING
+0EA5	needsfix__laoletterloloot	LAO LETTER LO LOOT
+0EA7	needsfix__laoletterwo	LAO LETTER WO
+0EAA	needsfix__laolettersosung	LAO LETTER SO SUNG
+0EAB	needsfix__laoletterhosung	LAO LETTER HO SUNG
+0EAD	needsfix__laolettero	LAO LETTER O
+0EAE	needsfix__laoletterhotam	LAO LETTER HO TAM
+0EAF	needsfix__laoellipsis	LAO ELLIPSIS
+0EB0	needsfix__laovowelsigna	LAO VOWEL SIGN A
+0EB1	needsfix__laovowelsignmaikan	LAO VOWEL SIGN MAI KAN
+0EB2	needsfix__laovowelsignaa	LAO VOWEL SIGN AA
+0EB3	needsfix__laovowelsignam	LAO VOWEL SIGN AM
+0EB4	needsfix__laovowelsigni	LAO VOWEL SIGN I
+0EB5	needsfix__laovowelsignii	LAO VOWEL SIGN II
+0EB6	needsfix__laovowelsigny	LAO VOWEL SIGN Y
+0EB7	needsfix__laovowelsignyy	LAO VOWEL SIGN YY
+0EB8	needsfix__laovowelsignu	LAO VOWEL SIGN U
+0EB9	needsfix__laovowelsignuu	LAO VOWEL SIGN UU
+0EBB	needsfix__laovowelsignmaikon	LAO VOWEL SIGN MAI KON
+0EBC	needsfix__laosemivowelsignlo	LAO SEMIVOWEL SIGN LO
+0EBD	needsfix__laosemivowelsignnyo	LAO SEMIVOWEL SIGN NYO
+0EC0	needsfix__laovowelsigne	LAO VOWEL SIGN E
+0EC1	needsfix__laovowelsignei	LAO VOWEL SIGN EI
+0EC2	needsfix__laovowelsigno	LAO VOWEL SIGN O
+0EC3	needsfix__laovowelsignay	LAO VOWEL SIGN AY
+0EC4	needsfix__laovowelsignai	LAO VOWEL SIGN AI
+0EC6	needsfix__laokola	LAO KO LA
+0EC8	needsfix__laotonemaiek	LAO TONE MAI EK
+0EC9	needsfix__laotonemaitho	LAO TONE MAI THO
+0ECA	needsfix__laotonemaiti	LAO TONE MAI TI
+0ECB	needsfix__laotonemaicatawa	LAO TONE MAI CATAWA
+0ECC	needsfix__laocancellationmark	LAO CANCELLATION MARK
+0ECD	needsfix__laoniggahita	LAO NIGGAHITA
+0ED0	needsfix__laodigitzero	LAO DIGIT ZERO
+0ED1	needsfix__laodigitone	LAO DIGIT ONE
+0ED2	needsfix__laodigittwo	LAO DIGIT TWO
+0ED3	needsfix__laodigitthree	LAO DIGIT THREE
+0ED4	needsfix__laodigitfour	LAO DIGIT FOUR
+0ED5	needsfix__laodigitfive	LAO DIGIT FIVE
+0ED6	needsfix__laodigitsix	LAO DIGIT SIX
+0ED7	needsfix__laodigitseven	LAO DIGIT SEVEN
+0ED8	needsfix__laodigiteight	LAO DIGIT EIGHT
+0ED9	needsfix__laodigitnine	LAO DIGIT NINE
+0EDC	needsfix__laohono	LAO HO NO
+0EDD	needsfix__laohomo	LAO HO MO

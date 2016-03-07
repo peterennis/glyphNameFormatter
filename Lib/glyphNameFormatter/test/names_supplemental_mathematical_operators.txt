@@ -1,0 +1,257 @@
+# Supplemental Mathematical Operators 2A00 - 2AFF
+2A00	needsfix__narycircleddotoperator	N-ARY CIRCLED DOT OPERATOR
+2A01	needsfix__narycircledplusoperator	N-ARY CIRCLED PLUS OPERATOR
+2A02	needsfix__narycircledtimesoperator	N-ARY CIRCLED TIMES OPERATOR
+2A03	needsfix__naryunionoperatorwithdot	N-ARY UNION OPERATOR WITH DOT
+2A04	needsfix__naryunionoperatorwithplus	N-ARY UNION OPERATOR WITH PLUS
+2A05	needsfix__narysquareintersectionoperator	N-ARY SQUARE INTERSECTION OPERATOR
+2A06	needsfix__narysquareunionoperator	N-ARY SQUARE UNION OPERATOR
+2A07	needsfix__twologicalandoperator	TWO LOGICAL AND OPERATOR
+2A08	needsfix__twologicaloroperator	TWO LOGICAL OR OPERATOR
+2A09	needsfix__narytimesoperator	N-ARY TIMES OPERATOR
+2A0A	needsfix__modulotwosum	MODULO TWO SUM
+2A0B	needsfix__summationwithintegral	SUMMATION WITH INTEGRAL
+2A0C	needsfix__quadrupleintegraloperator	QUADRUPLE INTEGRAL OPERATOR
+2A0D	needsfix__finitepartintegral	FINITE PART INTEGRAL
+2A0E	needsfix__integralwithdoublestroke	INTEGRAL WITH DOUBLE STROKE
+2A0F	needsfix__integralaveragewithslash	INTEGRAL AVERAGE WITH SLASH
+2A10	needsfix__circulationfunction	CIRCULATION FUNCTION
+2A11	needsfix__anticlockwiseintegration	ANTICLOCKWISE INTEGRATION
+2A12	needsfix__lineintegrationwithrectangularpatharoundpole	LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE
+2A13	needsfix__lineintegrationwithsemicircularpatharoundpole	LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE
+2A14	needsfix__lineintegrationnotincludingthepole	LINE INTEGRATION NOT INCLUDING THE POLE
+2A15	needsfix__integralaroundapointoperator	INTEGRAL AROUND A POINT OPERATOR
+2A16	needsfix__quaternionintegraloperator	QUATERNION INTEGRAL OPERATOR
+2A17	needsfix__integralwithleftwardsarrowwithhook	INTEGRAL WITH LEFTWARDS ARROW WITH HOOK
+2A18	needsfix__integralwithtimessign	INTEGRAL WITH TIMES SIGN
+2A19	needsfix__integralwithintersection	INTEGRAL WITH INTERSECTION
+2A1A	needsfix__integralwithunion	INTEGRAL WITH UNION
+2A1B	needsfix__integralwithoverbar	INTEGRAL WITH OVERBAR
+2A1C	needsfix__integralwithunderbar	INTEGRAL WITH UNDERBAR
+2A1D	needsfix__join	JOIN
+2A1E	needsfix__largelefttriangleoperator	LARGE LEFT TRIANGLE OPERATOR
+2A1F	needsfix__znotationschemacomposition	Z NOTATION SCHEMA COMPOSITION
+2A20	needsfix__znotationschemapiping	Z NOTATION SCHEMA PIPING
+2A21	needsfix__znotationschemaprojection	Z NOTATION SCHEMA PROJECTION
+2A22	needsfix__plussignwithsmallcircleabove	PLUS SIGN WITH SMALL CIRCLE ABOVE
+2A23	needsfix__plussignwithcircumflexaccentabove	PLUS SIGN WITH CIRCUMFLEX ACCENT ABOVE
+2A24	needsfix__plussignwithtildeabove	PLUS SIGN WITH TILDE ABOVE
+2A25	needsfix__plussignwithdotbelow	PLUS SIGN WITH DOT BELOW
+2A26	needsfix__plussignwithtildebelow	PLUS SIGN WITH TILDE BELOW
+2A27	needsfix__plussignwithsubscripttwo	PLUS SIGN WITH SUBSCRIPT TWO
+2A28	needsfix__plussignwithblacktriangle	PLUS SIGN WITH BLACK TRIANGLE
+2A29	needsfix__minussignwithcommaabove	MINUS SIGN WITH COMMA ABOVE
+2A2A	needsfix__minussignwithdotbelow	MINUS SIGN WITH DOT BELOW
+2A2B	needsfix__minussignwithfallingdots	MINUS SIGN WITH FALLING DOTS
+2A2C	needsfix__minussignwithrisingdots	MINUS SIGN WITH RISING DOTS
+2A2D	needsfix__plussigninlefthalfcircle	PLUS SIGN IN LEFT HALF CIRCLE
+2A2E	needsfix__plussigninrighthalfcircle	PLUS SIGN IN RIGHT HALF CIRCLE
+2A2F	needsfix__vectororcrossproduct	VECTOR OR CROSS PRODUCT
+2A30	needsfix__multiplicationsignwithdotabove	MULTIPLICATION SIGN WITH DOT ABOVE
+2A31	needsfix__multiplicationsignwithunderbar	MULTIPLICATION SIGN WITH UNDERBAR
+2A32	needsfix__semidirectproductwithbottomclosed	SEMIDIRECT PRODUCT WITH BOTTOM CLOSED
+2A33	needsfix__smashproduct	SMASH PRODUCT
+2A34	needsfix__multiplicationsigninlefthalfcircle	MULTIPLICATION SIGN IN LEFT HALF CIRCLE
+2A35	needsfix__multiplicationsigninrighthalfcircle	MULTIPLICATION SIGN IN RIGHT HALF CIRCLE
+2A36	needsfix__circledmultiplicationsignwithcircumflexaccent	CIRCLED MULTIPLICATION SIGN WITH CIRCUMFLEX ACCENT
+2A37	needsfix__multiplicationsignindoublecircle	MULTIPLICATION SIGN IN DOUBLE CIRCLE
+2A38	needsfix__circleddivisionsign	CIRCLED DIVISION SIGN
+2A39	needsfix__plussignintriangle	PLUS SIGN IN TRIANGLE
+2A3A	needsfix__minussignintriangle	MINUS SIGN IN TRIANGLE
+2A3B	needsfix__multiplicationsignintriangle	MULTIPLICATION SIGN IN TRIANGLE
+2A3C	needsfix__interiorproduct	INTERIOR PRODUCT
+2A3D	needsfix__righthandinteriorproduct	RIGHTHAND INTERIOR PRODUCT
+2A3E	needsfix__znotationrelationalcomposition	Z NOTATION RELATIONAL COMPOSITION
+2A3F	needsfix__amalgamationorcoproduct	AMALGAMATION OR COPRODUCT
+2A40	needsfix__intersectionwithdot	INTERSECTION WITH DOT
+2A41	needsfix__unionwithminussign	UNION WITH MINUS SIGN
+2A42	needsfix__unionwithoverbar	UNION WITH OVERBAR
+2A43	needsfix__intersectionwithoverbar	INTERSECTION WITH OVERBAR
+2A44	needsfix__intersectionwithlogicaland	INTERSECTION WITH LOGICAL AND
+2A45	needsfix__unionwithlogicalor	UNION WITH LOGICAL OR
+2A46	needsfix__unionaboveintersection	UNION ABOVE INTERSECTION
+2A47	needsfix__intersectionaboveunion	INTERSECTION ABOVE UNION
+2A48	needsfix__unionabovebaraboveintersection	UNION ABOVE BAR ABOVE INTERSECTION
+2A49	needsfix__intersectionabovebaraboveunion	INTERSECTION ABOVE BAR ABOVE UNION
+2A4A	needsfix__unionbesideandjoinedwithunion	UNION BESIDE AND JOINED WITH UNION
+2A4B	needsfix__intersectionbesideandjoinedwithintersection	INTERSECTION BESIDE AND JOINED WITH INTERSECTION
+2A4C	needsfix__closedunionwithserifs	CLOSED UNION WITH SERIFS
+2A4D	needsfix__closedintersectionwithserifs	CLOSED INTERSECTION WITH SERIFS
+2A4E	needsfix__doublesquareintersection	DOUBLE SQUARE INTERSECTION
+2A4F	needsfix__doublesquareunion	DOUBLE SQUARE UNION
+2A50	needsfix__closedunionwithserifsandsmashproduct	CLOSED UNION WITH SERIFS AND SMASH PRODUCT
+2A51	needsfix__logicalandwithdotabove	LOGICAL AND WITH DOT ABOVE
+2A52	needsfix__logicalorwithdotabove	LOGICAL OR WITH DOT ABOVE
+2A53	needsfix__doublelogicaland	DOUBLE LOGICAL AND
+2A54	needsfix__doublelogicalor	DOUBLE LOGICAL OR
+2A55	needsfix__twointersectinglogicaland	TWO INTERSECTING LOGICAL AND
+2A56	needsfix__twointersectinglogicalor	TWO INTERSECTING LOGICAL OR
+2A57	needsfix__slopinglargeor	SLOPING LARGE OR
+2A58	needsfix__slopinglargeand	SLOPING LARGE AND
+2A59	needsfix__logicaloroverlappinglogicaland	LOGICAL OR OVERLAPPING LOGICAL AND
+2A5A	needsfix__logicalandwithmiddlestem	LOGICAL AND WITH MIDDLE STEM
+2A5B	needsfix__logicalorwithmiddlestem	LOGICAL OR WITH MIDDLE STEM
+2A5C	needsfix__logicalandwithhorizontaldash	LOGICAL AND WITH HORIZONTAL DASH
+2A5D	needsfix__logicalorwithhorizontaldash	LOGICAL OR WITH HORIZONTAL DASH
+2A5E	needsfix__logicalandwithdoubleoverbar	LOGICAL AND WITH DOUBLE OVERBAR
+2A5F	needsfix__logicalandwithunderbar	LOGICAL AND WITH UNDERBAR
+2A60	needsfix__logicalandwithdoubleunderbar	LOGICAL AND WITH DOUBLE UNDERBAR
+2A61	needsfix__smallveewithunderbar	SMALL VEE WITH UNDERBAR
+2A62	needsfix__logicalorwithdoubleoverbar	LOGICAL OR WITH DOUBLE OVERBAR
+2A63	needsfix__logicalorwithdoubleunderbar	LOGICAL OR WITH DOUBLE UNDERBAR
+2A64	needsfix__znotationdomainantirestriction	Z NOTATION DOMAIN ANTIRESTRICTION
+2A65	needsfix__znotationrangeantirestriction	Z NOTATION RANGE ANTIRESTRICTION
+2A66	needsfix__equalssignwithdotbelow	EQUALS SIGN WITH DOT BELOW
+2A67	needsfix__identicalwithdotabove	IDENTICAL WITH DOT ABOVE
+2A68	needsfix__triplehorizontalbarwithdoubleverticalstroke	TRIPLE HORIZONTAL BAR WITH DOUBLE VERTICAL STROKE
+2A69	needsfix__triplehorizontalbarwithtripleverticalstroke	TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE
+2A6A	needsfix__tildeoperatorwithdotabove	TILDE OPERATOR WITH DOT ABOVE
+2A6B	needsfix__tildeoperatorwithrisingdots	TILDE OPERATOR WITH RISING DOTS
+2A6C	needsfix__similarminussimilar	SIMILAR MINUS SIMILAR
+2A6D	needsfix__congruentwithdotabove	CONGRUENT WITH DOT ABOVE
+2A6E	needsfix__equalswithasterisk	EQUALS WITH ASTERISK
+2A6F	needsfix__almostequaltowithcircumflexaccent	ALMOST EQUAL TO WITH CIRCUMFLEX ACCENT
+2A70	needsfix__approximatelyequalorequalto	APPROXIMATELY EQUAL OR EQUAL TO
+2A71	needsfix__equalssignaboveplussign	EQUALS SIGN ABOVE PLUS SIGN
+2A72	needsfix__plussignaboveequalssign	PLUS SIGN ABOVE EQUALS SIGN
+2A73	needsfix__equalssignabovetildeoperator	EQUALS SIGN ABOVE TILDE OPERATOR
+2A74	needsfix__doublecolonequal	DOUBLE COLON EQUAL
+2A75	needsfix__twoconsecutiveequalssigns	TWO CONSECUTIVE EQUALS SIGNS
+2A76	needsfix__threeconsecutiveequalssigns	THREE CONSECUTIVE EQUALS SIGNS
+2A77	needsfix__equalssignwithtwodotsaboveandtwodotsbelow	EQUALS SIGN WITH TWO DOTS ABOVE AND TWO DOTS BELOW
+2A78	needsfix__equivalentwithfourdotsabove	EQUIVALENT WITH FOUR DOTS ABOVE
+2A79	needsfix__lessthanwithcircleinside	LESS-THAN WITH CIRCLE INSIDE
+2A7A	needsfix__greaterthanwithcircleinside	GREATER-THAN WITH CIRCLE INSIDE
+2A7B	needsfix__lessthanwithquestionmarkabove	LESS-THAN WITH QUESTION MARK ABOVE
+2A7C	needsfix__greaterthanwithquestionmarkabove	GREATER-THAN WITH QUESTION MARK ABOVE
+2A7D	needsfix__lessthanorslantedequalto	LESS-THAN OR SLANTED EQUAL TO
+2A7E	needsfix__greaterthanorslantedequalto	GREATER-THAN OR SLANTED EQUAL TO
+2A7F	needsfix__lessthanorslantedequaltowithdotinside	LESS-THAN OR SLANTED EQUAL TO WITH DOT INSIDE
+2A80	needsfix__greaterthanorslantedequaltowithdotinside	GREATER-THAN OR SLANTED EQUAL TO WITH DOT INSIDE
+2A81	needsfix__lessthanorslantedequaltowithdotabove	LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE
+2A82	needsfix__greaterthanorslantedequaltowithdotabove	GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE
+2A83	needsfix__lessthanorslantedequaltowithdotaboveright	LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE RIGHT
+2A84	needsfix__greaterthanorslantedequaltowithdotaboveleft	GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE LEFT
+2A85	needsfix__lessthanorapproximate	LESS-THAN OR APPROXIMATE
+2A86	needsfix__greaterthanorapproximate	GREATER-THAN OR APPROXIMATE
+2A87	needsfix__lessthanandsinglelinenotequalto	LESS-THAN AND SINGLE-LINE NOT EQUAL TO
+2A88	needsfix__greaterthanandsinglelinenotequalto	GREATER-THAN AND SINGLE-LINE NOT EQUAL TO
+2A89	needsfix__lessthanandnotapproximate	LESS-THAN AND NOT APPROXIMATE
+2A8A	needsfix__greaterthanandnotapproximate	GREATER-THAN AND NOT APPROXIMATE
+2A8B	needsfix__lessthanabovedoublelineequalabovegreaterthan	LESS-THAN ABOVE DOUBLE-LINE EQUAL ABOVE GREATER-THAN
+2A8C	needsfix__greaterthanabovedoublelineequalabovelessthan	GREATER-THAN ABOVE DOUBLE-LINE EQUAL ABOVE LESS-THAN
+2A8D	needsfix__lessthanabovesimilarorequal	LESS-THAN ABOVE SIMILAR OR EQUAL
+2A8E	needsfix__greaterthanabovesimilarorequal	GREATER-THAN ABOVE SIMILAR OR EQUAL
+2A8F	needsfix__lessthanabovesimilarabovegreaterthan	LESS-THAN ABOVE SIMILAR ABOVE GREATER-THAN
+2A90	needsfix__greaterthanabovesimilarabovelessthan	GREATER-THAN ABOVE SIMILAR ABOVE LESS-THAN
+2A91	needsfix__lessthanabovegreaterthanabovedoublelineequal	LESS-THAN ABOVE GREATER-THAN ABOVE DOUBLE-LINE EQUAL
+2A92	needsfix__greaterthanabovelessthanabovedoublelineequal	GREATER-THAN ABOVE LESS-THAN ABOVE DOUBLE-LINE EQUAL
+2A93	needsfix__lessthanaboveslantedequalabovegreaterthanaboveslantedequal	LESS-THAN ABOVE SLANTED EQUAL ABOVE GREATER-THAN ABOVE SLANTED EQUAL
+2A94	needsfix__greaterthanaboveslantedequalabovelessthanaboveslantedequal	GREATER-THAN ABOVE SLANTED EQUAL ABOVE LESS-THAN ABOVE SLANTED EQUAL
+2A95	needsfix__slantedequaltoorlessthan	SLANTED EQUAL TO OR LESS-THAN
+2A96	needsfix__slantedequaltoorgreaterthan	SLANTED EQUAL TO OR GREATER-THAN
+2A97	needsfix__slantedequaltoorlessthanwithdotinside	SLANTED EQUAL TO OR LESS-THAN WITH DOT INSIDE
+2A98	needsfix__slantedequaltoorgreaterthanwithdotinside	SLANTED EQUAL TO OR GREATER-THAN WITH DOT INSIDE
+2A99	needsfix__doublelineequaltoorlessthan	DOUBLE-LINE EQUAL TO OR LESS-THAN
+2A9A	needsfix__doublelineequaltoorgreaterthan	DOUBLE-LINE EQUAL TO OR GREATER-THAN
+2A9B	needsfix__doublelineslantedequaltoorlessthan	DOUBLE-LINE SLANTED EQUAL TO OR LESS-THAN
+2A9C	needsfix__doublelineslantedequaltoorgreaterthan	DOUBLE-LINE SLANTED EQUAL TO OR GREATER-THAN
+2A9D	needsfix__similarorlessthan	SIMILAR OR LESS-THAN
+2A9E	needsfix__similarorgreaterthan	SIMILAR OR GREATER-THAN
+2A9F	needsfix__similarabovelessthanaboveequalssign	SIMILAR ABOVE LESS-THAN ABOVE EQUALS SIGN
+2AA0	needsfix__similarabovegreaterthanaboveequalssign	SIMILAR ABOVE GREATER-THAN ABOVE EQUALS SIGN
+2AA1	needsfix__doublenestedlessthan	DOUBLE NESTED LESS-THAN
+2AA2	needsfix__doublenestedgreaterthan	DOUBLE NESTED GREATER-THAN
+2AA3	needsfix__doublenestedlessthanwithunderbar	DOUBLE NESTED LESS-THAN WITH UNDERBAR
+2AA4	needsfix__greaterthanoverlappinglessthan	GREATER-THAN OVERLAPPING LESS-THAN
+2AA5	needsfix__greaterthanbesidelessthan	GREATER-THAN BESIDE LESS-THAN
+2AA6	needsfix__lessthanclosedbycurve	LESS-THAN CLOSED BY CURVE
+2AA7	needsfix__greaterthanclosedbycurve	GREATER-THAN CLOSED BY CURVE
+2AA8	needsfix__lessthanclosedbycurveaboveslantedequal	LESS-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL
+2AA9	needsfix__greaterthanclosedbycurveaboveslantedequal	GREATER-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL
+2AAA	needsfix__smallerthan	SMALLER THAN
+2AAB	needsfix__largerthan	LARGER THAN
+2AAC	needsfix__smallerthanorequalto	SMALLER THAN OR EQUAL TO
+2AAD	needsfix__largerthanorequalto	LARGER THAN OR EQUAL TO
+2AAE	needsfix__equalssignwithbumpyabove	EQUALS SIGN WITH BUMPY ABOVE
+2AAF	needsfix__precedesabovesinglelineequalssign	PRECEDES ABOVE SINGLE-LINE EQUALS SIGN
+2AB0	needsfix__succeedsabovesinglelineequalssign	SUCCEEDS ABOVE SINGLE-LINE EQUALS SIGN
+2AB1	needsfix__precedesabovesinglelinenotequalto	PRECEDES ABOVE SINGLE-LINE NOT EQUAL TO
+2AB2	needsfix__succeedsabovesinglelinenotequalto	SUCCEEDS ABOVE SINGLE-LINE NOT EQUAL TO
+2AB3	needsfix__precedesaboveequalssign	PRECEDES ABOVE EQUALS SIGN
+2AB4	needsfix__succeedsaboveequalssign	SUCCEEDS ABOVE EQUALS SIGN
+2AB5	needsfix__precedesabovenotequalto	PRECEDES ABOVE NOT EQUAL TO
+2AB6	needsfix__succeedsabovenotequalto	SUCCEEDS ABOVE NOT EQUAL TO
+2AB7	needsfix__precedesabovealmostequalto	PRECEDES ABOVE ALMOST EQUAL TO
+2AB8	needsfix__succeedsabovealmostequalto	SUCCEEDS ABOVE ALMOST EQUAL TO
+2AB9	needsfix__precedesabovenotalmostequalto	PRECEDES ABOVE NOT ALMOST EQUAL TO
+2ABA	needsfix__succeedsabovenotalmostequalto	SUCCEEDS ABOVE NOT ALMOST EQUAL TO
+2ABB	needsfix__doubleprecedes	DOUBLE PRECEDES
+2ABC	needsfix__doublesucceeds	DOUBLE SUCCEEDS
+2ABD	needsfix__subsetwithdot	SUBSET WITH DOT
+2ABE	needsfix__supersetwithdot	SUPERSET WITH DOT
+2ABF	needsfix__subsetwithplussignbelow	SUBSET WITH PLUS SIGN BELOW
+2AC0	needsfix__supersetwithplussignbelow	SUPERSET WITH PLUS SIGN BELOW
+2AC1	needsfix__subsetwithmultiplicationsignbelow	SUBSET WITH MULTIPLICATION SIGN BELOW
+2AC2	needsfix__supersetwithmultiplicationsignbelow	SUPERSET WITH MULTIPLICATION SIGN BELOW
+2AC3	needsfix__subsetoforequaltowithdotabove	SUBSET OF OR EQUAL TO WITH DOT ABOVE
+2AC4	needsfix__supersetoforequaltowithdotabove	SUPERSET OF OR EQUAL TO WITH DOT ABOVE
+2AC5	needsfix__subsetofaboveequalssign	SUBSET OF ABOVE EQUALS SIGN
+2AC6	needsfix__supersetofaboveequalssign	SUPERSET OF ABOVE EQUALS SIGN
+2AC7	needsfix__subsetofabovetildeoperator	SUBSET OF ABOVE TILDE OPERATOR
+2AC8	needsfix__supersetofabovetildeoperator	SUPERSET OF ABOVE TILDE OPERATOR
+2AC9	needsfix__subsetofabovealmostequalto	SUBSET OF ABOVE ALMOST EQUAL TO
+2ACA	needsfix__supersetofabovealmostequalto	SUPERSET OF ABOVE ALMOST EQUAL TO
+2ACB	needsfix__subsetofabovenotequalto	SUBSET OF ABOVE NOT EQUAL TO
+2ACC	needsfix__supersetofabovenotequalto	SUPERSET OF ABOVE NOT EQUAL TO
+2ACD	needsfix__squareleftopenboxoperator	SQUARE LEFT OPEN BOX OPERATOR
+2ACE	needsfix__squarerightopenboxoperator	SQUARE RIGHT OPEN BOX OPERATOR
+2ACF	needsfix__closedsubset	CLOSED SUBSET
+2AD0	needsfix__closedsuperset	CLOSED SUPERSET
+2AD1	needsfix__closedsubsetorequalto	CLOSED SUBSET OR EQUAL TO
+2AD2	needsfix__closedsupersetorequalto	CLOSED SUPERSET OR EQUAL TO
+2AD3	needsfix__subsetabovesuperset	SUBSET ABOVE SUPERSET
+2AD4	needsfix__supersetabovesubset	SUPERSET ABOVE SUBSET
+2AD5	needsfix__subsetabovesubset	SUBSET ABOVE SUBSET
+2AD6	needsfix__supersetabovesuperset	SUPERSET ABOVE SUPERSET
+2AD7	needsfix__supersetbesidesubset	SUPERSET BESIDE SUBSET
+2AD8	needsfix__supersetbesideandjoinedbydashwithsubset	SUPERSET BESIDE AND JOINED BY DASH WITH SUBSET
+2AD9	needsfix__elementofopeningdownwards	ELEMENT OF OPENING DOWNWARDS
+2ADA	needsfix__pitchforkwithteetop	PITCHFORK WITH TEE TOP
+2ADB	needsfix__transversalintersection	TRANSVERSAL INTERSECTION
+2ADC	needsfix__forking	FORKING
+2ADD	needsfix__nonforking	NONFORKING
+2ADE	needsfix__shortlefttack	SHORT LEFT TACK
+2ADF	needsfix__shortdowntack	SHORT DOWN TACK
+2AE0	needsfix__shortuptack	SHORT UP TACK
+2AE1	needsfix__perpendicularwiths	PERPENDICULAR WITH S
+2AE2	needsfix__verticalbartriplerightturnstile	VERTICAL BAR TRIPLE RIGHT TURNSTILE
+2AE3	needsfix__doubleverticalbarleftturnstile	DOUBLE VERTICAL BAR LEFT TURNSTILE
+2AE4	needsfix__verticalbardoubleleftturnstile	VERTICAL BAR DOUBLE LEFT TURNSTILE
+2AE5	needsfix__doubleverticalbardoubleleftturnstile	DOUBLE VERTICAL BAR DOUBLE LEFT TURNSTILE
+2AE6	needsfix__longdashfromleftmemberofdoublevertical	LONG DASH FROM LEFT MEMBER OF DOUBLE VERTICAL
+2AE7	needsfix__shortdowntackwithoverbar	SHORT DOWN TACK WITH OVERBAR
+2AE8	needsfix__shortuptackwithunderbar	SHORT UP TACK WITH UNDERBAR
+2AE9	needsfix__shortuptackaboveshortdowntack	SHORT UP TACK ABOVE SHORT DOWN TACK
+2AEA	needsfix__doubledowntack	DOUBLE DOWN TACK
+2AEB	needsfix__doubleuptack	DOUBLE UP TACK
+2AEC	needsfix__doublestrokenotsign	DOUBLE STROKE NOT SIGN
+2AED	needsfix__reverseddoublestrokenotsign	REVERSED DOUBLE STROKE NOT SIGN
+2AEE	needsfix__doesnotdividewithreversednegationslash	DOES NOT DIVIDE WITH REVERSED NEGATION SLASH
+2AEF	needsfix__verticallinewithcircleabove	VERTICAL LINE WITH CIRCLE ABOVE
+2AF0	needsfix__verticallinewithcirclebelow	VERTICAL LINE WITH CIRCLE BELOW
+2AF1	needsfix__downtackwithcirclebelow	DOWN TACK WITH CIRCLE BELOW
+2AF2	needsfix__parallelwithhorizontalstroke	PARALLEL WITH HORIZONTAL STROKE
+2AF3	needsfix__parallelwithtildeoperator	PARALLEL WITH TILDE OPERATOR
+2AF4	needsfix__tripleverticalbarbinaryrelation	TRIPLE VERTICAL BAR BINARY RELATION
+2AF5	needsfix__tripleverticalbarwithhorizontalstroke	TRIPLE VERTICAL BAR WITH HORIZONTAL STROKE
+2AF6	needsfix__triplecolonoperator	TRIPLE COLON OPERATOR
+2AF7	needsfix__triplenestedlessthan	TRIPLE NESTED LESS-THAN
+2AF8	needsfix__triplenestedgreaterthan	TRIPLE NESTED GREATER-THAN
+2AF9	needsfix__doublelineslantedlessthanorequalto	DOUBLE-LINE SLANTED LESS-THAN OR EQUAL TO
+2AFA	needsfix__doublelineslantedgreaterthanorequalto	DOUBLE-LINE SLANTED GREATER-THAN OR EQUAL TO
+2AFB	needsfix__triplesolidusbinaryrelation	TRIPLE SOLIDUS BINARY RELATION
+2AFC	needsfix__largetripleverticalbaroperator	LARGE TRIPLE VERTICAL BAR OPERATOR
+2AFD	needsfix__doublesolidusoperator	DOUBLE SOLIDUS OPERATOR
+2AFE	needsfix__whiteverticalbar	WHITE VERTICAL BAR
+2AFF	needsfix__narywhiteverticalbar	N-ARY WHITE VERTICAL BAR

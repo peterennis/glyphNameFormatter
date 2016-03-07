@@ -1,0 +1,21 @@
+# Tagalog 1700 - 171F
+1700	needsfix__tagaloglettera	TAGALOG LETTER A
+1701	needsfix__tagalogletteri	TAGALOG LETTER I
+1702	needsfix__tagalogletteru	TAGALOG LETTER U
+1703	needsfix__tagalogletterka	TAGALOG LETTER KA
+1704	needsfix__tagalogletterga	TAGALOG LETTER GA
+1705	needsfix__tagalogletternga	TAGALOG LETTER NGA
+1706	needsfix__tagalogletterta	TAGALOG LETTER TA
+1707	needsfix__tagalogletterda	TAGALOG LETTER DA
+1708	needsfix__tagalogletterna	TAGALOG LETTER NA
+1709	needsfix__tagalogletterpa	TAGALOG LETTER PA
+170A	needsfix__tagalogletterba	TAGALOG LETTER BA
+170B	needsfix__tagalogletterma	TAGALOG LETTER MA
+170C	needsfix__tagalogletterya	TAGALOG LETTER YA
+170E	needsfix__tagalogletterla	TAGALOG LETTER LA
+170F	needsfix__tagalogletterwa	TAGALOG LETTER WA
+1710	needsfix__tagaloglettersa	TAGALOG LETTER SA
+1711	needsfix__tagalogletterha	TAGALOG LETTER HA
+1712	needsfix__tagalogvowelsigni	TAGALOG VOWEL SIGN I
+1713	needsfix__tagalogvowelsignu	TAGALOG VOWEL SIGN U
+1714	needsfix__tagalogsignvirama	TAGALOG SIGN VIRAMA

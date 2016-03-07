@@ -20,8 +20,7 @@ class GlyphName(object):
 
     prefSpelling_dieresis = "dieresis"
 
-    def __init__(self, niceName=None, uniNumber=None, verbose=False, includeCJK=False):
-        self.niceName = niceName
+    def __init__(self, uniNumber=None, verbose=False, includeCJK=False):
         self.uniNumber = uniNumber
         self.uniLetter = None
         self.uniName = ""
@@ -150,6 +149,8 @@ class GlyphName(object):
         if processor:
             # print "processor", processor
             processor(self)
+            # make the final name
+            self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "-".join(self.finalParts)
 
     # edit tools
     def edit(self, pattern, *suffix):
@@ -160,9 +161,8 @@ class GlyphName(object):
                 self.suffix("suffix")
                 self.suffix("suffix")
         """
-        if self.has(pattern):
-            if self.replace(pattern):
-                [self.suffix(s) for s in suffix]
+        if self.replace(pattern):
+            [self.suffix(s) for s in suffix]
 
     def compress(self):
         # remove the spaces from the name
@@ -205,4 +205,41 @@ class GlyphName(object):
 
 
 if __name__ == "__main__":
-    debug(0x0440)
+
+    import doctest
+
+    def _testGlyphName():
+        # basic tests for the GlyphName object
+        """
+        >>> g = GlyphName(uniNumber=0x020)
+        >>> assert g.uniName == "SPACE"
+        >>> g.edit("SPACE", "space")
+        >>> g.suffixParts
+        ['space']
+        >>> g.uniNameProcessed
+        'space'
+        >>> g.getName()
+        'space'
+
+        >>> g = GlyphName(uniNumber=0x021)
+        >>> g.uniName
+        'EXCLAMATION MARK'
+        >>> g.getName()
+        "exclam"
+
+        >>> g = GlyphName(uniNumber=0x041)
+        >>> g.uniName
+        'LATIN CAPITAL LETTER A'
+        >>> g.handleCase()
+        >>> g.getName()
+        'A'
+        >>> g = GlyphName(uniNumber=0x061)
+        >>> g.uniName
+        'LATIN SMALL LETTER A'
+        >>> g.handleCase()
+        >>> g.getName()
+        'a'
+
+        """
+    
+    doctest.testmod()

@@ -1,0 +1,129 @@
+# Supplemental Arrows-B 2900 - 297F
+2900	needsfix__rightwardstwoheadedarrowwithverticalstroke	RIGHTWARDS TWO-HEADED ARROW WITH VERTICAL STROKE
+2901	needsfix__rightwardstwoheadedarrowwithdoubleverticalstroke	RIGHTWARDS TWO-HEADED ARROW WITH DOUBLE VERTICAL STROKE
+2902	needsfix__leftwardsdoublearrowwithverticalstroke	LEFTWARDS DOUBLE ARROW WITH VERTICAL STROKE
+2903	needsfix__rightwardsdoublearrowwithverticalstroke	RIGHTWARDS DOUBLE ARROW WITH VERTICAL STROKE
+2904	needsfix__leftrightdoublearrowwithverticalstroke	LEFT RIGHT DOUBLE ARROW WITH VERTICAL STROKE
+2905	needsfix__rightwardstwoheadedarrowfrombar	RIGHTWARDS TWO-HEADED ARROW FROM BAR
+2906	needsfix__leftwardsdoublearrowfrombar	LEFTWARDS DOUBLE ARROW FROM BAR
+2907	needsfix__rightwardsdoublearrowfrombar	RIGHTWARDS DOUBLE ARROW FROM BAR
+2908	needsfix__downwardsarrowwithhorizontalstroke	DOWNWARDS ARROW WITH HORIZONTAL STROKE
+2909	needsfix__upwardsarrowwithhorizontalstroke	UPWARDS ARROW WITH HORIZONTAL STROKE
+290A	needsfix__upwardstriplearrow	UPWARDS TRIPLE ARROW
+290B	needsfix__downwardstriplearrow	DOWNWARDS TRIPLE ARROW
+290C	needsfix__leftwardsdoubledasharrow	LEFTWARDS DOUBLE DASH ARROW
+290D	needsfix__rightwardsdoubledasharrow	RIGHTWARDS DOUBLE DASH ARROW
+290E	needsfix__leftwardstripledasharrow	LEFTWARDS TRIPLE DASH ARROW
+290F	needsfix__rightwardstripledasharrow	RIGHTWARDS TRIPLE DASH ARROW
+2910	needsfix__rightwardstwoheadedtripledasharrow	RIGHTWARDS TWO-HEADED TRIPLE DASH ARROW
+2911	needsfix__rightwardsarrowwithdottedstem	RIGHTWARDS ARROW WITH DOTTED STEM
+2912	needsfix__upwardsarrowtobar	UPWARDS ARROW TO BAR
+2913	needsfix__downwardsarrowtobar	DOWNWARDS ARROW TO BAR
+2914	needsfix__rightwardsarrowwithtailwithverticalstroke	RIGHTWARDS ARROW WITH TAIL WITH VERTICAL STROKE
+2915	needsfix__rightwardsarrowwithtailwithdoubleverticalstroke	RIGHTWARDS ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE
+2916	needsfix__rightwardstwoheadedarrowwithtail	RIGHTWARDS TWO-HEADED ARROW WITH TAIL
+2917	needsfix__rightwardstwoheadedarrowwithtailwithverticalstroke	RIGHTWARDS TWO-HEADED ARROW WITH TAIL WITH VERTICAL STROKE
+2918	needsfix__rightwardstwoheadedarrowwithtailwithdoubleverticalstroke	RIGHTWARDS TWO-HEADED ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE
+2919	needsfix__leftwardsarrowtail	LEFTWARDS ARROW-TAIL
+291A	needsfix__rightwardsarrowtail	RIGHTWARDS ARROW-TAIL
+291B	needsfix__leftwardsdoublearrowtail	LEFTWARDS DOUBLE ARROW-TAIL
+291C	needsfix__rightwardsdoublearrowtail	RIGHTWARDS DOUBLE ARROW-TAIL
+291D	needsfix__leftwardsarrowtoblackdiamond	LEFTWARDS ARROW TO BLACK DIAMOND
+291E	needsfix__rightwardsarrowtoblackdiamond	RIGHTWARDS ARROW TO BLACK DIAMOND
+291F	needsfix__leftwardsarrowfrombartoblackdiamond	LEFTWARDS ARROW FROM BAR TO BLACK DIAMOND
+2920	needsfix__rightwardsarrowfrombartoblackdiamond	RIGHTWARDS ARROW FROM BAR TO BLACK DIAMOND
+2921	needsfix__northwestandsoutheastarrow	NORTH WEST AND SOUTH EAST ARROW
+2922	needsfix__northeastandsouthwestarrow	NORTH EAST AND SOUTH WEST ARROW
+2923	needsfix__northwestarrowwithhook	NORTH WEST ARROW WITH HOOK
+2924	needsfix__northeastarrowwithhook	NORTH EAST ARROW WITH HOOK
+2925	needsfix__southeastarrowwithhook	SOUTH EAST ARROW WITH HOOK
+2926	needsfix__southwestarrowwithhook	SOUTH WEST ARROW WITH HOOK
+2927	needsfix__northwestarrowandnortheastarrow	NORTH WEST ARROW AND NORTH EAST ARROW
+2928	needsfix__northeastarrowandsoutheastarrow	NORTH EAST ARROW AND SOUTH EAST ARROW
+2929	needsfix__southeastarrowandsouthwestarrow	SOUTH EAST ARROW AND SOUTH WEST ARROW
+292A	needsfix__southwestarrowandnorthwestarrow	SOUTH WEST ARROW AND NORTH WEST ARROW
+292B	needsfix__risingdiagonalcrossingfallingdiagonal	RISING DIAGONAL CROSSING FALLING DIAGONAL
+292C	needsfix__fallingdiagonalcrossingrisingdiagonal	FALLING DIAGONAL CROSSING RISING DIAGONAL
+292D	needsfix__southeastarrowcrossingnortheastarrow	SOUTH EAST ARROW CROSSING NORTH EAST ARROW
+292E	needsfix__northeastarrowcrossingsoutheastarrow	NORTH EAST ARROW CROSSING SOUTH EAST ARROW
+292F	needsfix__fallingdiagonalcrossingnortheastarrow	FALLING DIAGONAL CROSSING NORTH EAST ARROW
+2930	needsfix__risingdiagonalcrossingsoutheastarrow	RISING DIAGONAL CROSSING SOUTH EAST ARROW
+2931	needsfix__northeastarrowcrossingnorthwestarrow	NORTH EAST ARROW CROSSING NORTH WEST ARROW
+2932	needsfix__northwestarrowcrossingnortheastarrow	NORTH WEST ARROW CROSSING NORTH EAST ARROW
+2933	needsfix__wavearrowpointingdirectlyright	WAVE ARROW POINTING DIRECTLY RIGHT
+2934	needsfix__arrowpointingrightwardsthencurvingupwards	ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS
+2935	needsfix__arrowpointingrightwardsthencurvingdownwards	ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS
+2936	needsfix__arrowpointingdownwardsthencurvingleftwards	ARROW POINTING DOWNWARDS THEN CURVING LEFTWARDS
+2937	needsfix__arrowpointingdownwardsthencurvingrightwards	ARROW POINTING DOWNWARDS THEN CURVING RIGHTWARDS
+2938	needsfix__rightsidearcclockwisearrow	RIGHT-SIDE ARC CLOCKWISE ARROW
+2939	needsfix__leftsidearcanticlockwisearrow	LEFT-SIDE ARC ANTICLOCKWISE ARROW
+293A	needsfix__toparcanticlockwisearrow	TOP ARC ANTICLOCKWISE ARROW
+293B	needsfix__bottomarcanticlockwisearrow	BOTTOM ARC ANTICLOCKWISE ARROW
+293C	needsfix__toparcclockwisearrowwithminus	TOP ARC CLOCKWISE ARROW WITH MINUS
+293D	needsfix__toparcanticlockwisearrowwithplus	TOP ARC ANTICLOCKWISE ARROW WITH PLUS
+293E	needsfix__lowerrightsemicircularclockwisearrow	LOWER RIGHT SEMICIRCULAR CLOCKWISE ARROW
+293F	needsfix__lowerleftsemicircularanticlockwisearrow	LOWER LEFT SEMICIRCULAR ANTICLOCKWISE ARROW
+2940	needsfix__anticlockwiseclosedcirclearrow	ANTICLOCKWISE CLOSED CIRCLE ARROW
+2941	needsfix__clockwiseclosedcirclearrow	CLOCKWISE CLOSED CIRCLE ARROW
+2942	needsfix__rightwardsarrowaboveshortleftwardsarrow	RIGHTWARDS ARROW ABOVE SHORT LEFTWARDS ARROW
+2943	needsfix__leftwardsarrowaboveshortrightwardsarrow	LEFTWARDS ARROW ABOVE SHORT RIGHTWARDS ARROW
+2944	needsfix__shortrightwardsarrowaboveleftwardsarrow	SHORT RIGHTWARDS ARROW ABOVE LEFTWARDS ARROW
+2945	needsfix__rightwardsarrowwithplusbelow	RIGHTWARDS ARROW WITH PLUS BELOW
+2946	needsfix__leftwardsarrowwithplusbelow	LEFTWARDS ARROW WITH PLUS BELOW
+2947	needsfix__rightwardsarrowthroughx	RIGHTWARDS ARROW THROUGH X
+2948	needsfix__leftrightarrowthroughsmallcircle	LEFT RIGHT ARROW THROUGH SMALL CIRCLE
+2949	needsfix__upwardstwoheadedarrowfromsmallcircle	UPWARDS TWO-HEADED ARROW FROM SMALL CIRCLE
+294A	needsfix__leftbarbuprightbarbdownharpoon	LEFT BARB UP RIGHT BARB DOWN HARPOON
+294B	needsfix__leftbarbdownrightbarbupharpoon	LEFT BARB DOWN RIGHT BARB UP HARPOON
+294C	needsfix__upbarbrightdownbarbleftharpoon	UP BARB RIGHT DOWN BARB LEFT HARPOON
+294D	needsfix__upbarbleftdownbarbrightharpoon	UP BARB LEFT DOWN BARB RIGHT HARPOON
+294E	needsfix__leftbarbuprightbarbupharpoon	LEFT BARB UP RIGHT BARB UP HARPOON
+294F	needsfix__upbarbrightdownbarbrightharpoon	UP BARB RIGHT DOWN BARB RIGHT HARPOON
+2950	needsfix__leftbarbdownrightbarbdownharpoon	LEFT BARB DOWN RIGHT BARB DOWN HARPOON
+2951	needsfix__upbarbleftdownbarbleftharpoon	UP BARB LEFT DOWN BARB LEFT HARPOON
+2952	needsfix__leftwardsharpoonwithbarbuptobar	LEFTWARDS HARPOON WITH BARB UP TO BAR
+2953	needsfix__rightwardsharpoonwithbarbuptobar	RIGHTWARDS HARPOON WITH BARB UP TO BAR
+2954	needsfix__upwardsharpoonwithbarbrighttobar	UPWARDS HARPOON WITH BARB RIGHT TO BAR
+2955	needsfix__downwardsharpoonwithbarbrighttobar	DOWNWARDS HARPOON WITH BARB RIGHT TO BAR
+2956	needsfix__leftwardsharpoonwithbarbdowntobar	LEFTWARDS HARPOON WITH BARB DOWN TO BAR
+2957	needsfix__rightwardsharpoonwithbarbdowntobar	RIGHTWARDS HARPOON WITH BARB DOWN TO BAR
+2958	needsfix__upwardsharpoonwithbarblefttobar	UPWARDS HARPOON WITH BARB LEFT TO BAR
+2959	needsfix__downwardsharpoonwithbarblefttobar	DOWNWARDS HARPOON WITH BARB LEFT TO BAR
+295A	needsfix__leftwardsharpoonwithbarbupfrombar	LEFTWARDS HARPOON WITH BARB UP FROM BAR
+295B	needsfix__rightwardsharpoonwithbarbupfrombar	RIGHTWARDS HARPOON WITH BARB UP FROM BAR
+295C	needsfix__upwardsharpoonwithbarbrightfrombar	UPWARDS HARPOON WITH BARB RIGHT FROM BAR
+295D	needsfix__downwardsharpoonwithbarbrightfrombar	DOWNWARDS HARPOON WITH BARB RIGHT FROM BAR
+295E	needsfix__leftwardsharpoonwithbarbdownfrombar	LEFTWARDS HARPOON WITH BARB DOWN FROM BAR
+295F	needsfix__rightwardsharpoonwithbarbdownfrombar	RIGHTWARDS HARPOON WITH BARB DOWN FROM BAR
+2960	needsfix__upwardsharpoonwithbarbleftfrombar	UPWARDS HARPOON WITH BARB LEFT FROM BAR
+2961	needsfix__downwardsharpoonwithbarbleftfrombar	DOWNWARDS HARPOON WITH BARB LEFT FROM BAR
+2962	needsfix__leftwardsharpoonwithbarbupaboveleftwardsharpoonwithbarbdown	LEFTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB DOWN
+2963	needsfix__upwardsharpoonwithbarbleftbesideupwardsharpoonwithbarbright	UPWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT
+2964	needsfix__rightwardsharpoonwithbarbupaboverightwardsharpoonwithbarbdown	RIGHTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB DOWN
+2965	needsfix__downwardsharpoonwithbarbleftbesidedownwardsharpoonwithbarbright	DOWNWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT
+2966	needsfix__leftwardsharpoonwithbarbupaboverightwardsharpoonwithbarbup	LEFTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB UP
+2967	needsfix__leftwardsharpoonwithbarbdownaboverightwardsharpoonwithbarbdown	LEFTWARDS HARPOON WITH BARB DOWN ABOVE RIGHTWARDS HARPOON WITH BARB DOWN
+2968	needsfix__rightwardsharpoonwithbarbupaboveleftwardsharpoonwithbarbup	RIGHTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB UP
+2969	needsfix__rightwardsharpoonwithbarbdownaboveleftwardsharpoonwithbarbdown	RIGHTWARDS HARPOON WITH BARB DOWN ABOVE LEFTWARDS HARPOON WITH BARB DOWN
+296A	needsfix__leftwardsharpoonwithbarbupabovelongdash	LEFTWARDS HARPOON WITH BARB UP ABOVE LONG DASH
+296B	needsfix__leftwardsharpoonwithbarbdownbelowlongdash	LEFTWARDS HARPOON WITH BARB DOWN BELOW LONG DASH
+296C	needsfix__rightwardsharpoonwithbarbupabovelongdash	RIGHTWARDS HARPOON WITH BARB UP ABOVE LONG DASH
+296D	needsfix__rightwardsharpoonwithbarbdownbelowlongdash	RIGHTWARDS HARPOON WITH BARB DOWN BELOW LONG DASH
+296E	needsfix__upwardsharpoonwithbarbleftbesidedownwardsharpoonwithbarbright	UPWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT
+296F	needsfix__downwardsharpoonwithbarbleftbesideupwardsharpoonwithbarbright	DOWNWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT
+2970	needsfix__rightdoublearrowwithroundedhead	RIGHT DOUBLE ARROW WITH ROUNDED HEAD
+2971	needsfix__equalssignaboverightwardsarrow	EQUALS SIGN ABOVE RIGHTWARDS ARROW
+2972	needsfix__tildeoperatoraboverightwardsarrow	TILDE OPERATOR ABOVE RIGHTWARDS ARROW
+2973	needsfix__leftwardsarrowabovetildeoperator	LEFTWARDS ARROW ABOVE TILDE OPERATOR
+2974	needsfix__rightwardsarrowabovetildeoperator	RIGHTWARDS ARROW ABOVE TILDE OPERATOR
+2975	needsfix__rightwardsarrowabovealmostequalto	RIGHTWARDS ARROW ABOVE ALMOST EQUAL TO
+2976	needsfix__lessthanaboveleftwardsarrow	LESS-THAN ABOVE LEFTWARDS ARROW
+2977	needsfix__leftwardsarrowthroughlessthan	LEFTWARDS ARROW THROUGH LESS-THAN
+2978	needsfix__greaterthanaboverightwardsarrow	GREATER-THAN ABOVE RIGHTWARDS ARROW
+2979	needsfix__subsetaboverightwardsarrow	SUBSET ABOVE RIGHTWARDS ARROW
+297A	needsfix__leftwardsarrowthroughsubset	LEFTWARDS ARROW THROUGH SUBSET
+297B	needsfix__supersetaboveleftwardsarrow	SUPERSET ABOVE LEFTWARDS ARROW
+297C	needsfix__leftfishtail	LEFT FISH TAIL
+297D	needsfix__rightfishtail	RIGHT FISH TAIL
+297E	needsfix__upfishtail	UP FISH TAIL
+297F	needsfix__downfishtail	DOWN FISH TAIL

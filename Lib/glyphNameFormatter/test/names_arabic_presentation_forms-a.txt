@@ -1,0 +1,596 @@
+# Arabic Presentation Forms-A FB50 - FDFF
+FB50	needsfix__arabicletteralefwaslaisolatedform	ARABIC LETTER ALEF WASLA ISOLATED FORM
+FB51	needsfix__arabicletteralefwaslafinalform	ARABIC LETTER ALEF WASLA FINAL FORM
+FB52	needsfix__arabicletterbeehisolatedform	ARABIC LETTER BEEH ISOLATED FORM
+FB53	needsfix__arabicletterbeehfinalform	ARABIC LETTER BEEH FINAL FORM
+FB54	needsfix__arabicletterbeehinitialform	ARABIC LETTER BEEH INITIAL FORM
+FB55	needsfix__arabicletterbeehmedialform	ARABIC LETTER BEEH MEDIAL FORM
+FB56	needsfix__arabicletterpehisolatedform	ARABIC LETTER PEH ISOLATED FORM
+FB57	needsfix__arabicletterpehfinalform	ARABIC LETTER PEH FINAL FORM
+FB58	needsfix__arabicletterpehinitialform	ARABIC LETTER PEH INITIAL FORM
+FB59	needsfix__arabicletterpehmedialform	ARABIC LETTER PEH MEDIAL FORM
+FB5A	needsfix__arabicletterbehehisolatedform	ARABIC LETTER BEHEH ISOLATED FORM
+FB5B	needsfix__arabicletterbehehfinalform	ARABIC LETTER BEHEH FINAL FORM
+FB5C	needsfix__arabicletterbehehinitialform	ARABIC LETTER BEHEH INITIAL FORM
+FB5D	needsfix__arabicletterbehehmedialform	ARABIC LETTER BEHEH MEDIAL FORM
+FB5E	needsfix__arabicletterttehehisolatedform	ARABIC LETTER TTEHEH ISOLATED FORM
+FB5F	needsfix__arabicletterttehehfinalform	ARABIC LETTER TTEHEH FINAL FORM
+FB60	needsfix__arabicletterttehehinitialform	ARABIC LETTER TTEHEH INITIAL FORM
+FB61	needsfix__arabicletterttehehmedialform	ARABIC LETTER TTEHEH MEDIAL FORM
+FB62	needsfix__arabiclettertehehisolatedform	ARABIC LETTER TEHEH ISOLATED FORM
+FB63	needsfix__arabiclettertehehfinalform	ARABIC LETTER TEHEH FINAL FORM
+FB64	needsfix__arabiclettertehehinitialform	ARABIC LETTER TEHEH INITIAL FORM
+FB65	needsfix__arabiclettertehehmedialform	ARABIC LETTER TEHEH MEDIAL FORM
+FB66	needsfix__arabicletterttehisolatedform	ARABIC LETTER TTEH ISOLATED FORM
+FB67	needsfix__arabicletterttehfinalform	ARABIC LETTER TTEH FINAL FORM
+FB68	needsfix__arabicletterttehinitialform	ARABIC LETTER TTEH INITIAL FORM
+FB69	needsfix__arabicletterttehmedialform	ARABIC LETTER TTEH MEDIAL FORM
+FB6A	needsfix__arabiclettervehisolatedform	ARABIC LETTER VEH ISOLATED FORM
+FB6B	needsfix__arabiclettervehfinalform	ARABIC LETTER VEH FINAL FORM
+FB6C	needsfix__arabiclettervehinitialform	ARABIC LETTER VEH INITIAL FORM
+FB6D	needsfix__arabiclettervehmedialform	ARABIC LETTER VEH MEDIAL FORM
+FB6E	needsfix__arabicletterpehehisolatedform	ARABIC LETTER PEHEH ISOLATED FORM
+FB6F	needsfix__arabicletterpehehfinalform	ARABIC LETTER PEHEH FINAL FORM
+FB70	needsfix__arabicletterpehehinitialform	ARABIC LETTER PEHEH INITIAL FORM
+FB71	needsfix__arabicletterpehehmedialform	ARABIC LETTER PEHEH MEDIAL FORM
+FB72	needsfix__arabicletterdyehisolatedform	ARABIC LETTER DYEH ISOLATED FORM
+FB73	needsfix__arabicletterdyehfinalform	ARABIC LETTER DYEH FINAL FORM
+FB74	needsfix__arabicletterdyehinitialform	ARABIC LETTER DYEH INITIAL FORM
+FB75	needsfix__arabicletterdyehmedialform	ARABIC LETTER DYEH MEDIAL FORM
+FB76	needsfix__arabicletternyehisolatedform	ARABIC LETTER NYEH ISOLATED FORM
+FB77	needsfix__arabicletternyehfinalform	ARABIC LETTER NYEH FINAL FORM
+FB78	needsfix__arabicletternyehinitialform	ARABIC LETTER NYEH INITIAL FORM
+FB79	needsfix__arabicletternyehmedialform	ARABIC LETTER NYEH MEDIAL FORM
+FB7A	needsfix__arabiclettertchehisolatedform	ARABIC LETTER TCHEH ISOLATED FORM
+FB7B	needsfix__arabiclettertchehfinalform	ARABIC LETTER TCHEH FINAL FORM
+FB7C	needsfix__arabiclettertchehinitialform	ARABIC LETTER TCHEH INITIAL FORM
+FB7D	needsfix__arabiclettertchehmedialform	ARABIC LETTER TCHEH MEDIAL FORM
+FB7E	needsfix__arabiclettertchehehisolatedform	ARABIC LETTER TCHEHEH ISOLATED FORM
+FB7F	needsfix__arabiclettertchehehfinalform	ARABIC LETTER TCHEHEH FINAL FORM
+FB80	needsfix__arabiclettertchehehinitialform	ARABIC LETTER TCHEHEH INITIAL FORM
+FB81	needsfix__arabiclettertchehehmedialform	ARABIC LETTER TCHEHEH MEDIAL FORM
+FB82	needsfix__arabicletterddahalisolatedform	ARABIC LETTER DDAHAL ISOLATED FORM
+FB83	needsfix__arabicletterddahalfinalform	ARABIC LETTER DDAHAL FINAL FORM
+FB84	needsfix__arabicletterdahalisolatedform	ARABIC LETTER DAHAL ISOLATED FORM
+FB85	needsfix__arabicletterdahalfinalform	ARABIC LETTER DAHAL FINAL FORM
+FB86	needsfix__arabicletterdulisolatedform	ARABIC LETTER DUL ISOLATED FORM
+FB87	needsfix__arabicletterdulfinalform	ARABIC LETTER DUL FINAL FORM
+FB88	needsfix__arabicletterddalisolatedform	ARABIC LETTER DDAL ISOLATED FORM
+FB89	needsfix__arabicletterddalfinalform	ARABIC LETTER DDAL FINAL FORM
+FB8A	needsfix__arabicletterjehisolatedform	ARABIC LETTER JEH ISOLATED FORM
+FB8B	needsfix__arabicletterjehfinalform	ARABIC LETTER JEH FINAL FORM
+FB8C	needsfix__arabicletterrrehisolatedform	ARABIC LETTER RREH ISOLATED FORM
+FB8D	needsfix__arabicletterrrehfinalform	ARABIC LETTER RREH FINAL FORM
+FB8E	needsfix__arabicletterkehehisolatedform	ARABIC LETTER KEHEH ISOLATED FORM
+FB8F	needsfix__arabicletterkehehfinalform	ARABIC LETTER KEHEH FINAL FORM
+FB90	needsfix__arabicletterkehehinitialform	ARABIC LETTER KEHEH INITIAL FORM
+FB91	needsfix__arabicletterkehehmedialform	ARABIC LETTER KEHEH MEDIAL FORM
+FB92	needsfix__arabiclettergafisolatedform	ARABIC LETTER GAF ISOLATED FORM
+FB93	needsfix__arabiclettergaffinalform	ARABIC LETTER GAF FINAL FORM
+FB94	needsfix__arabiclettergafinitialform	ARABIC LETTER GAF INITIAL FORM
+FB95	needsfix__arabiclettergafmedialform	ARABIC LETTER GAF MEDIAL FORM
+FB96	needsfix__arabicletterguehisolatedform	ARABIC LETTER GUEH ISOLATED FORM
+FB97	needsfix__arabicletterguehfinalform	ARABIC LETTER GUEH FINAL FORM
+FB98	needsfix__arabicletterguehinitialform	ARABIC LETTER GUEH INITIAL FORM
+FB99	needsfix__arabicletterguehmedialform	ARABIC LETTER GUEH MEDIAL FORM
+FB9A	needsfix__arabicletterngoehisolatedform	ARABIC LETTER NGOEH ISOLATED FORM
+FB9B	needsfix__arabicletterngoehfinalform	ARABIC LETTER NGOEH FINAL FORM
+FB9C	needsfix__arabicletterngoehinitialform	ARABIC LETTER NGOEH INITIAL FORM
+FB9D	needsfix__arabicletterngoehmedialform	ARABIC LETTER NGOEH MEDIAL FORM
+FB9E	needsfix__arabicletternoonghunnaisolatedform	ARABIC LETTER NOON GHUNNA ISOLATED FORM
+FB9F	needsfix__arabicletternoonghunnafinalform	ARABIC LETTER NOON GHUNNA FINAL FORM
+FBA0	needsfix__arabicletterrnoonisolatedform	ARABIC LETTER RNOON ISOLATED FORM
+FBA1	needsfix__arabicletterrnoonfinalform	ARABIC LETTER RNOON FINAL FORM
+FBA2	needsfix__arabicletterrnooninitialform	ARABIC LETTER RNOON INITIAL FORM
+FBA3	needsfix__arabicletterrnoonmedialform	ARABIC LETTER RNOON MEDIAL FORM
+FBA4	needsfix__arabicletterhehwithyehaboveisolatedform	ARABIC LETTER HEH WITH YEH ABOVE ISOLATED FORM
+FBA5	needsfix__arabicletterhehwithyehabovefinalform	ARABIC LETTER HEH WITH YEH ABOVE FINAL FORM
+FBA6	needsfix__arabicletterhehgoalisolatedform	ARABIC LETTER HEH GOAL ISOLATED FORM
+FBA7	needsfix__arabicletterhehgoalfinalform	ARABIC LETTER HEH GOAL FINAL FORM
+FBA8	needsfix__arabicletterhehgoalinitialform	ARABIC LETTER HEH GOAL INITIAL FORM
+FBA9	needsfix__arabicletterhehgoalmedialform	ARABIC LETTER HEH GOAL MEDIAL FORM
+FBAA	needsfix__arabicletterhehdoachashmeeisolatedform	ARABIC LETTER HEH DOACHASHMEE ISOLATED FORM
+FBAB	needsfix__arabicletterhehdoachashmeefinalform	ARABIC LETTER HEH DOACHASHMEE FINAL FORM
+FBAC	needsfix__arabicletterhehdoachashmeeinitialform	ARABIC LETTER HEH DOACHASHMEE INITIAL FORM
+FBAD	needsfix__arabicletterhehdoachashmeemedialform	ARABIC LETTER HEH DOACHASHMEE MEDIAL FORM
+FBAE	needsfix__arabicletteryehbarreeisolatedform	ARABIC LETTER YEH BARREE ISOLATED FORM
+FBAF	needsfix__arabicletteryehbarreefinalform	ARABIC LETTER YEH BARREE FINAL FORM
+FBB0	needsfix__arabicletteryehbarreewithhamzaaboveisolatedform	ARABIC LETTER YEH BARREE WITH HAMZA ABOVE ISOLATED FORM
+FBB1	needsfix__arabicletteryehbarreewithhamzaabovefinalform	ARABIC LETTER YEH BARREE WITH HAMZA ABOVE FINAL FORM
+FBD3	needsfix__arabicletterngisolatedform	ARABIC LETTER NG ISOLATED FORM
+FBD4	needsfix__arabicletterngfinalform	ARABIC LETTER NG FINAL FORM
+FBD5	needsfix__arabicletternginitialform	ARABIC LETTER NG INITIAL FORM
+FBD6	needsfix__arabicletterngmedialform	ARABIC LETTER NG MEDIAL FORM
+FBD7	needsfix__arabicletteruisolatedform	ARABIC LETTER U ISOLATED FORM
+FBD8	needsfix__arabicletterufinalform	ARABIC LETTER U FINAL FORM
+FBD9	needsfix__arabicletteroeisolatedform	ARABIC LETTER OE ISOLATED FORM
+FBDA	needsfix__arabicletteroefinalform	ARABIC LETTER OE FINAL FORM
+FBDB	needsfix__arabicletteryuisolatedform	ARABIC LETTER YU ISOLATED FORM
+FBDC	needsfix__arabicletteryufinalform	ARABIC LETTER YU FINAL FORM
+FBDD	needsfix__arabicletteruwithhamzaaboveisolatedform	ARABIC LETTER U WITH HAMZA ABOVE ISOLATED FORM
+FBDE	needsfix__arabicletterveisolatedform	ARABIC LETTER VE ISOLATED FORM
+FBDF	needsfix__arabiclettervefinalform	ARABIC LETTER VE FINAL FORM
+FBE0	needsfix__arabicletterkirghizoeisolatedform	ARABIC LETTER KIRGHIZ OE ISOLATED FORM
+FBE1	needsfix__arabicletterkirghizoefinalform	ARABIC LETTER KIRGHIZ OE FINAL FORM
+FBE2	needsfix__arabicletterkirghizyuisolatedform	ARABIC LETTER KIRGHIZ YU ISOLATED FORM
+FBE3	needsfix__arabicletterkirghizyufinalform	ARABIC LETTER KIRGHIZ YU FINAL FORM
+FBE4	needsfix__arabiclettereisolatedform	ARABIC LETTER E ISOLATED FORM
+FBE5	needsfix__arabicletterefinalform	ARABIC LETTER E FINAL FORM
+FBE6	needsfix__arabiclettereinitialform	ARABIC LETTER E INITIAL FORM
+FBE7	needsfix__arabicletteremedialform	ARABIC LETTER E MEDIAL FORM
+FBE8	needsfix__arabicletteruighurkazakhkirghizalefmaksurainitialform	ARABIC LETTER UIGHUR KAZAKH KIRGHIZ ALEF MAKSURA INITIAL FORM
+FBE9	needsfix__arabicletteruighurkazakhkirghizalefmaksuramedialform	ARABIC LETTER UIGHUR KAZAKH KIRGHIZ ALEF MAKSURA MEDIAL FORM
+FBEA	needsfix__arabicligatureyehwithhamzaabovewithalefisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH ALEF ISOLATED FORM
+FBEB	needsfix__arabicligatureyehwithhamzaabovewithaleffinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH ALEF FINAL FORM
+FBEC	needsfix__arabicligatureyehwithhamzaabovewithaeisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH AE ISOLATED FORM
+FBED	needsfix__arabicligatureyehwithhamzaabovewithaefinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH AE FINAL FORM
+FBEE	needsfix__arabicligatureyehwithhamzaabovewithwawisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH WAW ISOLATED FORM
+FBEF	needsfix__arabicligatureyehwithhamzaabovewithwawfinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH WAW FINAL FORM
+FBF0	needsfix__arabicligatureyehwithhamzaabovewithuisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH U ISOLATED FORM
+FBF1	needsfix__arabicligatureyehwithhamzaabovewithufinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH U FINAL FORM
+FBF2	needsfix__arabicligatureyehwithhamzaabovewithoeisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH OE ISOLATED FORM
+FBF3	needsfix__arabicligatureyehwithhamzaabovewithoefinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH OE FINAL FORM
+FBF4	needsfix__arabicligatureyehwithhamzaabovewithyuisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH YU ISOLATED FORM
+FBF5	needsfix__arabicligatureyehwithhamzaabovewithyufinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH YU FINAL FORM
+FBF6	needsfix__arabicligatureyehwithhamzaabovewitheisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH E ISOLATED FORM
+FBF7	needsfix__arabicligatureyehwithhamzaabovewithefinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH E FINAL FORM
+FBF8	needsfix__arabicligatureyehwithhamzaabovewitheinitialform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH E INITIAL FORM
+FBF9	needsfix__arabicligatureuighurkirghizyehwithhamzaabovewithalefmaksuraisolatedform	ARABIC LIGATURE UIGHUR KIRGHIZ YEH WITH HAMZA ABOVE WITH ALEF MAKSURA ISOLATED FORM
+FBFA	needsfix__arabicligatureuighurkirghizyehwithhamzaabovewithalefmaksurafinalform	ARABIC LIGATURE UIGHUR KIRGHIZ YEH WITH HAMZA ABOVE WITH ALEF MAKSURA FINAL FORM
+FBFB	needsfix__arabicligatureuighurkirghizyehwithhamzaabovewithalefmaksurainitialform	ARABIC LIGATURE UIGHUR KIRGHIZ YEH WITH HAMZA ABOVE WITH ALEF MAKSURA INITIAL FORM
+FBFC	needsfix__arabicletterfarsiyehisolatedform	ARABIC LETTER FARSI YEH ISOLATED FORM
+FBFD	needsfix__arabicletterfarsiyehfinalform	ARABIC LETTER FARSI YEH FINAL FORM
+FBFE	needsfix__arabicletterfarsiyehinitialform	ARABIC LETTER FARSI YEH INITIAL FORM
+FBFF	needsfix__arabicletterfarsiyehmedialform	ARABIC LETTER FARSI YEH MEDIAL FORM
+FC00	needsfix__arabicligatureyehwithhamzaabovewithjeemisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH JEEM ISOLATED FORM
+FC01	needsfix__arabicligatureyehwithhamzaabovewithhahisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH HAH ISOLATED FORM
+FC02	needsfix__arabicligatureyehwithhamzaabovewithmeemisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH MEEM ISOLATED FORM
+FC03	needsfix__arabicligatureyehwithhamzaabovewithalefmaksuraisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH ALEF MAKSURA ISOLATED FORM
+FC04	needsfix__arabicligatureyehwithhamzaabovewithyehisolatedform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH YEH ISOLATED FORM
+FC05	needsfix__arabicligaturebehwithjeemisolatedform	ARABIC LIGATURE BEH WITH JEEM ISOLATED FORM
+FC06	needsfix__arabicligaturebehwithhahisolatedform	ARABIC LIGATURE BEH WITH HAH ISOLATED FORM
+FC07	needsfix__arabicligaturebehwithkhahisolatedform	ARABIC LIGATURE BEH WITH KHAH ISOLATED FORM
+FC08	needsfix__arabicligaturebehwithmeemisolatedform	ARABIC LIGATURE BEH WITH MEEM ISOLATED FORM
+FC09	needsfix__arabicligaturebehwithalefmaksuraisolatedform	ARABIC LIGATURE BEH WITH ALEF MAKSURA ISOLATED FORM
+FC0A	needsfix__arabicligaturebehwithyehisolatedform	ARABIC LIGATURE BEH WITH YEH ISOLATED FORM
+FC0B	needsfix__arabicligaturetehwithjeemisolatedform	ARABIC LIGATURE TEH WITH JEEM ISOLATED FORM
+FC0C	needsfix__arabicligaturetehwithhahisolatedform	ARABIC LIGATURE TEH WITH HAH ISOLATED FORM
+FC0D	needsfix__arabicligaturetehwithkhahisolatedform	ARABIC LIGATURE TEH WITH KHAH ISOLATED FORM
+FC0E	needsfix__arabicligaturetehwithmeemisolatedform	ARABIC LIGATURE TEH WITH MEEM ISOLATED FORM
+FC0F	needsfix__arabicligaturetehwithalefmaksuraisolatedform	ARABIC LIGATURE TEH WITH ALEF MAKSURA ISOLATED FORM
+FC10	needsfix__arabicligaturetehwithyehisolatedform	ARABIC LIGATURE TEH WITH YEH ISOLATED FORM
+FC11	needsfix__arabicligaturethehwithjeemisolatedform	ARABIC LIGATURE THEH WITH JEEM ISOLATED FORM
+FC12	needsfix__arabicligaturethehwithmeemisolatedform	ARABIC LIGATURE THEH WITH MEEM ISOLATED FORM
+FC13	needsfix__arabicligaturethehwithalefmaksuraisolatedform	ARABIC LIGATURE THEH WITH ALEF MAKSURA ISOLATED FORM
+FC14	needsfix__arabicligaturethehwithyehisolatedform	ARABIC LIGATURE THEH WITH YEH ISOLATED FORM
+FC15	needsfix__arabicligaturejeemwithhahisolatedform	ARABIC LIGATURE JEEM WITH HAH ISOLATED FORM
+FC16	needsfix__arabicligaturejeemwithmeemisolatedform	ARABIC LIGATURE JEEM WITH MEEM ISOLATED FORM
+FC17	needsfix__arabicligaturehahwithjeemisolatedform	ARABIC LIGATURE HAH WITH JEEM ISOLATED FORM
+FC18	needsfix__arabicligaturehahwithmeemisolatedform	ARABIC LIGATURE HAH WITH MEEM ISOLATED FORM
+FC19	needsfix__arabicligaturekhahwithjeemisolatedform	ARABIC LIGATURE KHAH WITH JEEM ISOLATED FORM
+FC1A	needsfix__arabicligaturekhahwithhahisolatedform	ARABIC LIGATURE KHAH WITH HAH ISOLATED FORM
+FC1B	needsfix__arabicligaturekhahwithmeemisolatedform	ARABIC LIGATURE KHAH WITH MEEM ISOLATED FORM
+FC1C	needsfix__arabicligatureseenwithjeemisolatedform	ARABIC LIGATURE SEEN WITH JEEM ISOLATED FORM
+FC1D	needsfix__arabicligatureseenwithhahisolatedform	ARABIC LIGATURE SEEN WITH HAH ISOLATED FORM
+FC1E	needsfix__arabicligatureseenwithkhahisolatedform	ARABIC LIGATURE SEEN WITH KHAH ISOLATED FORM
+FC1F	needsfix__arabicligatureseenwithmeemisolatedform	ARABIC LIGATURE SEEN WITH MEEM ISOLATED FORM
+FC20	needsfix__arabicligaturesadwithhahisolatedform	ARABIC LIGATURE SAD WITH HAH ISOLATED FORM
+FC21	needsfix__arabicligaturesadwithmeemisolatedform	ARABIC LIGATURE SAD WITH MEEM ISOLATED FORM
+FC22	needsfix__arabicligaturedadwithjeemisolatedform	ARABIC LIGATURE DAD WITH JEEM ISOLATED FORM
+FC23	needsfix__arabicligaturedadwithhahisolatedform	ARABIC LIGATURE DAD WITH HAH ISOLATED FORM
+FC24	needsfix__arabicligaturedadwithkhahisolatedform	ARABIC LIGATURE DAD WITH KHAH ISOLATED FORM
+FC25	needsfix__arabicligaturedadwithmeemisolatedform	ARABIC LIGATURE DAD WITH MEEM ISOLATED FORM
+FC26	needsfix__arabicligaturetahwithhahisolatedform	ARABIC LIGATURE TAH WITH HAH ISOLATED FORM
+FC27	needsfix__arabicligaturetahwithmeemisolatedform	ARABIC LIGATURE TAH WITH MEEM ISOLATED FORM
+FC28	needsfix__arabicligaturezahwithmeemisolatedform	ARABIC LIGATURE ZAH WITH MEEM ISOLATED FORM
+FC29	needsfix__arabicligatureainwithjeemisolatedform	ARABIC LIGATURE AIN WITH JEEM ISOLATED FORM
+FC2A	needsfix__arabicligatureainwithmeemisolatedform	ARABIC LIGATURE AIN WITH MEEM ISOLATED FORM
+FC2B	needsfix__arabicligatureghainwithjeemisolatedform	ARABIC LIGATURE GHAIN WITH JEEM ISOLATED FORM
+FC2C	needsfix__arabicligatureghainwithmeemisolatedform	ARABIC LIGATURE GHAIN WITH MEEM ISOLATED FORM
+FC2D	needsfix__arabicligaturefehwithjeemisolatedform	ARABIC LIGATURE FEH WITH JEEM ISOLATED FORM
+FC2E	needsfix__arabicligaturefehwithhahisolatedform	ARABIC LIGATURE FEH WITH HAH ISOLATED FORM
+FC2F	needsfix__arabicligaturefehwithkhahisolatedform	ARABIC LIGATURE FEH WITH KHAH ISOLATED FORM
+FC30	needsfix__arabicligaturefehwithmeemisolatedform	ARABIC LIGATURE FEH WITH MEEM ISOLATED FORM
+FC31	needsfix__arabicligaturefehwithalefmaksuraisolatedform	ARABIC LIGATURE FEH WITH ALEF MAKSURA ISOLATED FORM
+FC32	needsfix__arabicligaturefehwithyehisolatedform	ARABIC LIGATURE FEH WITH YEH ISOLATED FORM
+FC33	needsfix__arabicligatureqafwithhahisolatedform	ARABIC LIGATURE QAF WITH HAH ISOLATED FORM
+FC34	needsfix__arabicligatureqafwithmeemisolatedform	ARABIC LIGATURE QAF WITH MEEM ISOLATED FORM
+FC35	needsfix__arabicligatureqafwithalefmaksuraisolatedform	ARABIC LIGATURE QAF WITH ALEF MAKSURA ISOLATED FORM
+FC36	needsfix__arabicligatureqafwithyehisolatedform	ARABIC LIGATURE QAF WITH YEH ISOLATED FORM
+FC37	needsfix__arabicligaturekafwithalefisolatedform	ARABIC LIGATURE KAF WITH ALEF ISOLATED FORM
+FC38	needsfix__arabicligaturekafwithjeemisolatedform	ARABIC LIGATURE KAF WITH JEEM ISOLATED FORM
+FC39	needsfix__arabicligaturekafwithhahisolatedform	ARABIC LIGATURE KAF WITH HAH ISOLATED FORM
+FC3A	needsfix__arabicligaturekafwithkhahisolatedform	ARABIC LIGATURE KAF WITH KHAH ISOLATED FORM
+FC3B	needsfix__arabicligaturekafwithlamisolatedform	ARABIC LIGATURE KAF WITH LAM ISOLATED FORM
+FC3C	needsfix__arabicligaturekafwithmeemisolatedform	ARABIC LIGATURE KAF WITH MEEM ISOLATED FORM
+FC3D	needsfix__arabicligaturekafwithalefmaksuraisolatedform	ARABIC LIGATURE KAF WITH ALEF MAKSURA ISOLATED FORM
+FC3E	needsfix__arabicligaturekafwithyehisolatedform	ARABIC LIGATURE KAF WITH YEH ISOLATED FORM
+FC3F	needsfix__arabicligaturelamwithjeemisolatedform	ARABIC LIGATURE LAM WITH JEEM ISOLATED FORM
+FC40	needsfix__arabicligaturelamwithhahisolatedform	ARABIC LIGATURE LAM WITH HAH ISOLATED FORM
+FC41	needsfix__arabicligaturelamwithkhahisolatedform	ARABIC LIGATURE LAM WITH KHAH ISOLATED FORM
+FC42	needsfix__arabicligaturelamwithmeemisolatedform	ARABIC LIGATURE LAM WITH MEEM ISOLATED FORM
+FC43	needsfix__arabicligaturelamwithalefmaksuraisolatedform	ARABIC LIGATURE LAM WITH ALEF MAKSURA ISOLATED FORM
+FC44	needsfix__arabicligaturelamwithyehisolatedform	ARABIC LIGATURE LAM WITH YEH ISOLATED FORM
+FC45	needsfix__arabicligaturemeemwithjeemisolatedform	ARABIC LIGATURE MEEM WITH JEEM ISOLATED FORM
+FC46	needsfix__arabicligaturemeemwithhahisolatedform	ARABIC LIGATURE MEEM WITH HAH ISOLATED FORM
+FC47	needsfix__arabicligaturemeemwithkhahisolatedform	ARABIC LIGATURE MEEM WITH KHAH ISOLATED FORM
+FC48	needsfix__arabicligaturemeemwithmeemisolatedform	ARABIC LIGATURE MEEM WITH MEEM ISOLATED FORM
+FC49	needsfix__arabicligaturemeemwithalefmaksuraisolatedform	ARABIC LIGATURE MEEM WITH ALEF MAKSURA ISOLATED FORM
+FC4A	needsfix__arabicligaturemeemwithyehisolatedform	ARABIC LIGATURE MEEM WITH YEH ISOLATED FORM
+FC4B	needsfix__arabicligaturenoonwithjeemisolatedform	ARABIC LIGATURE NOON WITH JEEM ISOLATED FORM
+FC4C	needsfix__arabicligaturenoonwithhahisolatedform	ARABIC LIGATURE NOON WITH HAH ISOLATED FORM
+FC4D	needsfix__arabicligaturenoonwithkhahisolatedform	ARABIC LIGATURE NOON WITH KHAH ISOLATED FORM
+FC4E	needsfix__arabicligaturenoonwithmeemisolatedform	ARABIC LIGATURE NOON WITH MEEM ISOLATED FORM
+FC4F	needsfix__arabicligaturenoonwithalefmaksuraisolatedform	ARABIC LIGATURE NOON WITH ALEF MAKSURA ISOLATED FORM
+FC50	needsfix__arabicligaturenoonwithyehisolatedform	ARABIC LIGATURE NOON WITH YEH ISOLATED FORM
+FC51	needsfix__arabicligaturehehwithjeemisolatedform	ARABIC LIGATURE HEH WITH JEEM ISOLATED FORM
+FC52	needsfix__arabicligaturehehwithmeemisolatedform	ARABIC LIGATURE HEH WITH MEEM ISOLATED FORM
+FC53	needsfix__arabicligaturehehwithalefmaksuraisolatedform	ARABIC LIGATURE HEH WITH ALEF MAKSURA ISOLATED FORM
+FC54	needsfix__arabicligaturehehwithyehisolatedform	ARABIC LIGATURE HEH WITH YEH ISOLATED FORM
+FC55	needsfix__arabicligatureyehwithjeemisolatedform	ARABIC LIGATURE YEH WITH JEEM ISOLATED FORM
+FC56	needsfix__arabicligatureyehwithhahisolatedform	ARABIC LIGATURE YEH WITH HAH ISOLATED FORM
+FC57	needsfix__arabicligatureyehwithkhahisolatedform	ARABIC LIGATURE YEH WITH KHAH ISOLATED FORM
+FC58	needsfix__arabicligatureyehwithmeemisolatedform	ARABIC LIGATURE YEH WITH MEEM ISOLATED FORM
+FC59	needsfix__arabicligatureyehwithalefmaksuraisolatedform	ARABIC LIGATURE YEH WITH ALEF MAKSURA ISOLATED FORM
+FC5A	needsfix__arabicligatureyehwithyehisolatedform	ARABIC LIGATURE YEH WITH YEH ISOLATED FORM
+FC5B	needsfix__arabicligaturethalwithsuperscriptalefisolatedform	ARABIC LIGATURE THAL WITH SUPERSCRIPT ALEF ISOLATED FORM
+FC5C	needsfix__arabicligaturerehwithsuperscriptalefisolatedform	ARABIC LIGATURE REH WITH SUPERSCRIPT ALEF ISOLATED FORM
+FC5D	needsfix__arabicligaturealefmaksurawithsuperscriptalefisolatedform	ARABIC LIGATURE ALEF MAKSURA WITH SUPERSCRIPT ALEF ISOLATED FORM
+FC5E	needsfix__arabicligatureshaddawithdammatanisolatedform	ARABIC LIGATURE SHADDA WITH DAMMATAN ISOLATED FORM
+FC5F	needsfix__arabicligatureshaddawithkasratanisolatedform	ARABIC LIGATURE SHADDA WITH KASRATAN ISOLATED FORM
+FC60	needsfix__arabicligatureshaddawithfathaisolatedform	ARABIC LIGATURE SHADDA WITH FATHA ISOLATED FORM
+FC61	needsfix__arabicligatureshaddawithdammaisolatedform	ARABIC LIGATURE SHADDA WITH DAMMA ISOLATED FORM
+FC62	needsfix__arabicligatureshaddawithkasraisolatedform	ARABIC LIGATURE SHADDA WITH KASRA ISOLATED FORM
+FC63	needsfix__arabicligatureshaddawithsuperscriptalefisolatedform	ARABIC LIGATURE SHADDA WITH SUPERSCRIPT ALEF ISOLATED FORM
+FC64	needsfix__arabicligatureyehwithhamzaabovewithrehfinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH REH FINAL FORM
+FC65	needsfix__arabicligatureyehwithhamzaabovewithzainfinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH ZAIN FINAL FORM
+FC66	needsfix__arabicligatureyehwithhamzaabovewithmeemfinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH MEEM FINAL FORM
+FC67	needsfix__arabicligatureyehwithhamzaabovewithnoonfinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH NOON FINAL FORM
+FC68	needsfix__arabicligatureyehwithhamzaabovewithalefmaksurafinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH ALEF MAKSURA FINAL FORM
+FC69	needsfix__arabicligatureyehwithhamzaabovewithyehfinalform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH YEH FINAL FORM
+FC6A	needsfix__arabicligaturebehwithrehfinalform	ARABIC LIGATURE BEH WITH REH FINAL FORM
+FC6B	needsfix__arabicligaturebehwithzainfinalform	ARABIC LIGATURE BEH WITH ZAIN FINAL FORM
+FC6C	needsfix__arabicligaturebehwithmeemfinalform	ARABIC LIGATURE BEH WITH MEEM FINAL FORM
+FC6D	needsfix__arabicligaturebehwithnoonfinalform	ARABIC LIGATURE BEH WITH NOON FINAL FORM
+FC6E	needsfix__arabicligaturebehwithalefmaksurafinalform	ARABIC LIGATURE BEH WITH ALEF MAKSURA FINAL FORM
+FC6F	needsfix__arabicligaturebehwithyehfinalform	ARABIC LIGATURE BEH WITH YEH FINAL FORM
+FC70	needsfix__arabicligaturetehwithrehfinalform	ARABIC LIGATURE TEH WITH REH FINAL FORM
+FC71	needsfix__arabicligaturetehwithzainfinalform	ARABIC LIGATURE TEH WITH ZAIN FINAL FORM
+FC72	needsfix__arabicligaturetehwithmeemfinalform	ARABIC LIGATURE TEH WITH MEEM FINAL FORM
+FC73	needsfix__arabicligaturetehwithnoonfinalform	ARABIC LIGATURE TEH WITH NOON FINAL FORM
+FC74	needsfix__arabicligaturetehwithalefmaksurafinalform	ARABIC LIGATURE TEH WITH ALEF MAKSURA FINAL FORM
+FC75	needsfix__arabicligaturetehwithyehfinalform	ARABIC LIGATURE TEH WITH YEH FINAL FORM
+FC76	needsfix__arabicligaturethehwithrehfinalform	ARABIC LIGATURE THEH WITH REH FINAL FORM
+FC77	needsfix__arabicligaturethehwithzainfinalform	ARABIC LIGATURE THEH WITH ZAIN FINAL FORM
+FC78	needsfix__arabicligaturethehwithmeemfinalform	ARABIC LIGATURE THEH WITH MEEM FINAL FORM
+FC79	needsfix__arabicligaturethehwithnoonfinalform	ARABIC LIGATURE THEH WITH NOON FINAL FORM
+FC7A	needsfix__arabicligaturethehwithalefmaksurafinalform	ARABIC LIGATURE THEH WITH ALEF MAKSURA FINAL FORM
+FC7B	needsfix__arabicligaturethehwithyehfinalform	ARABIC LIGATURE THEH WITH YEH FINAL FORM
+FC7C	needsfix__arabicligaturefehwithalefmaksurafinalform	ARABIC LIGATURE FEH WITH ALEF MAKSURA FINAL FORM
+FC7D	needsfix__arabicligaturefehwithyehfinalform	ARABIC LIGATURE FEH WITH YEH FINAL FORM
+FC7E	needsfix__arabicligatureqafwithalefmaksurafinalform	ARABIC LIGATURE QAF WITH ALEF MAKSURA FINAL FORM
+FC7F	needsfix__arabicligatureqafwithyehfinalform	ARABIC LIGATURE QAF WITH YEH FINAL FORM
+FC80	needsfix__arabicligaturekafwithaleffinalform	ARABIC LIGATURE KAF WITH ALEF FINAL FORM
+FC81	needsfix__arabicligaturekafwithlamfinalform	ARABIC LIGATURE KAF WITH LAM FINAL FORM
+FC82	needsfix__arabicligaturekafwithmeemfinalform	ARABIC LIGATURE KAF WITH MEEM FINAL FORM
+FC83	needsfix__arabicligaturekafwithalefmaksurafinalform	ARABIC LIGATURE KAF WITH ALEF MAKSURA FINAL FORM
+FC84	needsfix__arabicligaturekafwithyehfinalform	ARABIC LIGATURE KAF WITH YEH FINAL FORM
+FC85	needsfix__arabicligaturelamwithmeemfinalform	ARABIC LIGATURE LAM WITH MEEM FINAL FORM
+FC86	needsfix__arabicligaturelamwithalefmaksurafinalform	ARABIC LIGATURE LAM WITH ALEF MAKSURA FINAL FORM
+FC87	needsfix__arabicligaturelamwithyehfinalform	ARABIC LIGATURE LAM WITH YEH FINAL FORM
+FC88	needsfix__arabicligaturemeemwithaleffinalform	ARABIC LIGATURE MEEM WITH ALEF FINAL FORM
+FC89	needsfix__arabicligaturemeemwithmeemfinalform	ARABIC LIGATURE MEEM WITH MEEM FINAL FORM
+FC8A	needsfix__arabicligaturenoonwithrehfinalform	ARABIC LIGATURE NOON WITH REH FINAL FORM
+FC8B	needsfix__arabicligaturenoonwithzainfinalform	ARABIC LIGATURE NOON WITH ZAIN FINAL FORM
+FC8C	needsfix__arabicligaturenoonwithmeemfinalform	ARABIC LIGATURE NOON WITH MEEM FINAL FORM
+FC8D	needsfix__arabicligaturenoonwithnoonfinalform	ARABIC LIGATURE NOON WITH NOON FINAL FORM
+FC8E	needsfix__arabicligaturenoonwithalefmaksurafinalform	ARABIC LIGATURE NOON WITH ALEF MAKSURA FINAL FORM
+FC8F	needsfix__arabicligaturenoonwithyehfinalform	ARABIC LIGATURE NOON WITH YEH FINAL FORM
+FC90	needsfix__arabicligaturealefmaksurawithsuperscriptaleffinalform	ARABIC LIGATURE ALEF MAKSURA WITH SUPERSCRIPT ALEF FINAL FORM
+FC91	needsfix__arabicligatureyehwithrehfinalform	ARABIC LIGATURE YEH WITH REH FINAL FORM
+FC92	needsfix__arabicligatureyehwithzainfinalform	ARABIC LIGATURE YEH WITH ZAIN FINAL FORM
+FC93	needsfix__arabicligatureyehwithmeemfinalform	ARABIC LIGATURE YEH WITH MEEM FINAL FORM
+FC94	needsfix__arabicligatureyehwithnoonfinalform	ARABIC LIGATURE YEH WITH NOON FINAL FORM
+FC95	needsfix__arabicligatureyehwithalefmaksurafinalform	ARABIC LIGATURE YEH WITH ALEF MAKSURA FINAL FORM
+FC96	needsfix__arabicligatureyehwithyehfinalform	ARABIC LIGATURE YEH WITH YEH FINAL FORM
+FC97	needsfix__arabicligatureyehwithhamzaabovewithjeeminitialform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH JEEM INITIAL FORM
+FC98	needsfix__arabicligatureyehwithhamzaabovewithhahinitialform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH HAH INITIAL FORM
+FC99	needsfix__arabicligatureyehwithhamzaabovewithkhahinitialform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH KHAH INITIAL FORM
+FC9A	needsfix__arabicligatureyehwithhamzaabovewithmeeminitialform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH MEEM INITIAL FORM
+FC9B	needsfix__arabicligatureyehwithhamzaabovewithhehinitialform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH HEH INITIAL FORM
+FC9C	needsfix__arabicligaturebehwithjeeminitialform	ARABIC LIGATURE BEH WITH JEEM INITIAL FORM
+FC9D	needsfix__arabicligaturebehwithhahinitialform	ARABIC LIGATURE BEH WITH HAH INITIAL FORM
+FC9E	needsfix__arabicligaturebehwithkhahinitialform	ARABIC LIGATURE BEH WITH KHAH INITIAL FORM
+FC9F	needsfix__arabicligaturebehwithmeeminitialform	ARABIC LIGATURE BEH WITH MEEM INITIAL FORM
+FCA0	needsfix__arabicligaturebehwithhehinitialform	ARABIC LIGATURE BEH WITH HEH INITIAL FORM
+FCA1	needsfix__arabicligaturetehwithjeeminitialform	ARABIC LIGATURE TEH WITH JEEM INITIAL FORM
+FCA2	needsfix__arabicligaturetehwithhahinitialform	ARABIC LIGATURE TEH WITH HAH INITIAL FORM
+FCA3	needsfix__arabicligaturetehwithkhahinitialform	ARABIC LIGATURE TEH WITH KHAH INITIAL FORM
+FCA4	needsfix__arabicligaturetehwithmeeminitialform	ARABIC LIGATURE TEH WITH MEEM INITIAL FORM
+FCA5	needsfix__arabicligaturetehwithhehinitialform	ARABIC LIGATURE TEH WITH HEH INITIAL FORM
+FCA6	needsfix__arabicligaturethehwithmeeminitialform	ARABIC LIGATURE THEH WITH MEEM INITIAL FORM
+FCA7	needsfix__arabicligaturejeemwithhahinitialform	ARABIC LIGATURE JEEM WITH HAH INITIAL FORM
+FCA8	needsfix__arabicligaturejeemwithmeeminitialform	ARABIC LIGATURE JEEM WITH MEEM INITIAL FORM
+FCA9	needsfix__arabicligaturehahwithjeeminitialform	ARABIC LIGATURE HAH WITH JEEM INITIAL FORM
+FCAA	needsfix__arabicligaturehahwithmeeminitialform	ARABIC LIGATURE HAH WITH MEEM INITIAL FORM
+FCAB	needsfix__arabicligaturekhahwithjeeminitialform	ARABIC LIGATURE KHAH WITH JEEM INITIAL FORM
+FCAC	needsfix__arabicligaturekhahwithmeeminitialform	ARABIC LIGATURE KHAH WITH MEEM INITIAL FORM
+FCAD	needsfix__arabicligatureseenwithjeeminitialform	ARABIC LIGATURE SEEN WITH JEEM INITIAL FORM
+FCAE	needsfix__arabicligatureseenwithhahinitialform	ARABIC LIGATURE SEEN WITH HAH INITIAL FORM
+FCAF	needsfix__arabicligatureseenwithkhahinitialform	ARABIC LIGATURE SEEN WITH KHAH INITIAL FORM
+FCB0	needsfix__arabicligatureseenwithmeeminitialform	ARABIC LIGATURE SEEN WITH MEEM INITIAL FORM
+FCB1	needsfix__arabicligaturesadwithhahinitialform	ARABIC LIGATURE SAD WITH HAH INITIAL FORM
+FCB2	needsfix__arabicligaturesadwithkhahinitialform	ARABIC LIGATURE SAD WITH KHAH INITIAL FORM
+FCB3	needsfix__arabicligaturesadwithmeeminitialform	ARABIC LIGATURE SAD WITH MEEM INITIAL FORM
+FCB4	needsfix__arabicligaturedadwithjeeminitialform	ARABIC LIGATURE DAD WITH JEEM INITIAL FORM
+FCB5	needsfix__arabicligaturedadwithhahinitialform	ARABIC LIGATURE DAD WITH HAH INITIAL FORM
+FCB6	needsfix__arabicligaturedadwithkhahinitialform	ARABIC LIGATURE DAD WITH KHAH INITIAL FORM
+FCB7	needsfix__arabicligaturedadwithmeeminitialform	ARABIC LIGATURE DAD WITH MEEM INITIAL FORM
+FCB8	needsfix__arabicligaturetahwithhahinitialform	ARABIC LIGATURE TAH WITH HAH INITIAL FORM
+FCB9	needsfix__arabicligaturezahwithmeeminitialform	ARABIC LIGATURE ZAH WITH MEEM INITIAL FORM
+FCBA	needsfix__arabicligatureainwithjeeminitialform	ARABIC LIGATURE AIN WITH JEEM INITIAL FORM
+FCBB	needsfix__arabicligatureainwithmeeminitialform	ARABIC LIGATURE AIN WITH MEEM INITIAL FORM
+FCBC	needsfix__arabicligatureghainwithjeeminitialform	ARABIC LIGATURE GHAIN WITH JEEM INITIAL FORM
+FCBD	needsfix__arabicligatureghainwithmeeminitialform	ARABIC LIGATURE GHAIN WITH MEEM INITIAL FORM
+FCBE	needsfix__arabicligaturefehwithjeeminitialform	ARABIC LIGATURE FEH WITH JEEM INITIAL FORM
+FCBF	needsfix__arabicligaturefehwithhahinitialform	ARABIC LIGATURE FEH WITH HAH INITIAL FORM
+FCC0	needsfix__arabicligaturefehwithkhahinitialform	ARABIC LIGATURE FEH WITH KHAH INITIAL FORM
+FCC1	needsfix__arabicligaturefehwithmeeminitialform	ARABIC LIGATURE FEH WITH MEEM INITIAL FORM
+FCC2	needsfix__arabicligatureqafwithhahinitialform	ARABIC LIGATURE QAF WITH HAH INITIAL FORM
+FCC3	needsfix__arabicligatureqafwithmeeminitialform	ARABIC LIGATURE QAF WITH MEEM INITIAL FORM
+FCC4	needsfix__arabicligaturekafwithjeeminitialform	ARABIC LIGATURE KAF WITH JEEM INITIAL FORM
+FCC5	needsfix__arabicligaturekafwithhahinitialform	ARABIC LIGATURE KAF WITH HAH INITIAL FORM
+FCC6	needsfix__arabicligaturekafwithkhahinitialform	ARABIC LIGATURE KAF WITH KHAH INITIAL FORM
+FCC7	needsfix__arabicligaturekafwithlaminitialform	ARABIC LIGATURE KAF WITH LAM INITIAL FORM
+FCC8	needsfix__arabicligaturekafwithmeeminitialform	ARABIC LIGATURE KAF WITH MEEM INITIAL FORM
+FCC9	needsfix__arabicligaturelamwithjeeminitialform	ARABIC LIGATURE LAM WITH JEEM INITIAL FORM
+FCCA	needsfix__arabicligaturelamwithhahinitialform	ARABIC LIGATURE LAM WITH HAH INITIAL FORM
+FCCB	needsfix__arabicligaturelamwithkhahinitialform	ARABIC LIGATURE LAM WITH KHAH INITIAL FORM
+FCCC	needsfix__arabicligaturelamwithmeeminitialform	ARABIC LIGATURE LAM WITH MEEM INITIAL FORM
+FCCD	needsfix__arabicligaturelamwithhehinitialform	ARABIC LIGATURE LAM WITH HEH INITIAL FORM
+FCCE	needsfix__arabicligaturemeemwithjeeminitialform	ARABIC LIGATURE MEEM WITH JEEM INITIAL FORM
+FCCF	needsfix__arabicligaturemeemwithhahinitialform	ARABIC LIGATURE MEEM WITH HAH INITIAL FORM
+FCD0	needsfix__arabicligaturemeemwithkhahinitialform	ARABIC LIGATURE MEEM WITH KHAH INITIAL FORM
+FCD1	needsfix__arabicligaturemeemwithmeeminitialform	ARABIC LIGATURE MEEM WITH MEEM INITIAL FORM
+FCD2	needsfix__arabicligaturenoonwithjeeminitialform	ARABIC LIGATURE NOON WITH JEEM INITIAL FORM
+FCD3	needsfix__arabicligaturenoonwithhahinitialform	ARABIC LIGATURE NOON WITH HAH INITIAL FORM
+FCD4	needsfix__arabicligaturenoonwithkhahinitialform	ARABIC LIGATURE NOON WITH KHAH INITIAL FORM
+FCD5	needsfix__arabicligaturenoonwithmeeminitialform	ARABIC LIGATURE NOON WITH MEEM INITIAL FORM
+FCD6	needsfix__arabicligaturenoonwithhehinitialform	ARABIC LIGATURE NOON WITH HEH INITIAL FORM
+FCD7	needsfix__arabicligaturehehwithjeeminitialform	ARABIC LIGATURE HEH WITH JEEM INITIAL FORM
+FCD8	needsfix__arabicligaturehehwithmeeminitialform	ARABIC LIGATURE HEH WITH MEEM INITIAL FORM
+FCD9	needsfix__arabicligaturehehwithsuperscriptalefinitialform	ARABIC LIGATURE HEH WITH SUPERSCRIPT ALEF INITIAL FORM
+FCDA	needsfix__arabicligatureyehwithjeeminitialform	ARABIC LIGATURE YEH WITH JEEM INITIAL FORM
+FCDB	needsfix__arabicligatureyehwithhahinitialform	ARABIC LIGATURE YEH WITH HAH INITIAL FORM
+FCDC	needsfix__arabicligatureyehwithkhahinitialform	ARABIC LIGATURE YEH WITH KHAH INITIAL FORM
+FCDD	needsfix__arabicligatureyehwithmeeminitialform	ARABIC LIGATURE YEH WITH MEEM INITIAL FORM
+FCDE	needsfix__arabicligatureyehwithhehinitialform	ARABIC LIGATURE YEH WITH HEH INITIAL FORM
+FCDF	needsfix__arabicligatureyehwithhamzaabovewithmeemmedialform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH MEEM MEDIAL FORM
+FCE0	needsfix__arabicligatureyehwithhamzaabovewithhehmedialform	ARABIC LIGATURE YEH WITH HAMZA ABOVE WITH HEH MEDIAL FORM
+FCE1	needsfix__arabicligaturebehwithmeemmedialform	ARABIC LIGATURE BEH WITH MEEM MEDIAL FORM
+FCE2	needsfix__arabicligaturebehwithhehmedialform	ARABIC LIGATURE BEH WITH HEH MEDIAL FORM
+FCE3	needsfix__arabicligaturetehwithmeemmedialform	ARABIC LIGATURE TEH WITH MEEM MEDIAL FORM
+FCE4	needsfix__arabicligaturetehwithhehmedialform	ARABIC LIGATURE TEH WITH HEH MEDIAL FORM
+FCE5	needsfix__arabicligaturethehwithmeemmedialform	ARABIC LIGATURE THEH WITH MEEM MEDIAL FORM
+FCE6	needsfix__arabicligaturethehwithhehmedialform	ARABIC LIGATURE THEH WITH HEH MEDIAL FORM
+FCE7	needsfix__arabicligatureseenwithmeemmedialform	ARABIC LIGATURE SEEN WITH MEEM MEDIAL FORM
+FCE8	needsfix__arabicligatureseenwithhehmedialform	ARABIC LIGATURE SEEN WITH HEH MEDIAL FORM
+FCE9	needsfix__arabicligaturesheenwithmeemmedialform	ARABIC LIGATURE SHEEN WITH MEEM MEDIAL FORM
+FCEA	needsfix__arabicligaturesheenwithhehmedialform	ARABIC LIGATURE SHEEN WITH HEH MEDIAL FORM
+FCEB	needsfix__arabicligaturekafwithlammedialform	ARABIC LIGATURE KAF WITH LAM MEDIAL FORM
+FCEC	needsfix__arabicligaturekafwithmeemmedialform	ARABIC LIGATURE KAF WITH MEEM MEDIAL FORM
+FCED	needsfix__arabicligaturelamwithmeemmedialform	ARABIC LIGATURE LAM WITH MEEM MEDIAL FORM
+FCEE	needsfix__arabicligaturenoonwithmeemmedialform	ARABIC LIGATURE NOON WITH MEEM MEDIAL FORM
+FCEF	needsfix__arabicligaturenoonwithhehmedialform	ARABIC LIGATURE NOON WITH HEH MEDIAL FORM
+FCF0	needsfix__arabicligatureyehwithmeemmedialform	ARABIC LIGATURE YEH WITH MEEM MEDIAL FORM
+FCF1	needsfix__arabicligatureyehwithhehmedialform	ARABIC LIGATURE YEH WITH HEH MEDIAL FORM
+FCF2	needsfix__arabicligatureshaddawithfathamedialform	ARABIC LIGATURE SHADDA WITH FATHA MEDIAL FORM
+FCF3	needsfix__arabicligatureshaddawithdammamedialform	ARABIC LIGATURE SHADDA WITH DAMMA MEDIAL FORM
+FCF4	needsfix__arabicligatureshaddawithkasramedialform	ARABIC LIGATURE SHADDA WITH KASRA MEDIAL FORM
+FCF5	needsfix__arabicligaturetahwithalefmaksuraisolatedform	ARABIC LIGATURE TAH WITH ALEF MAKSURA ISOLATED FORM
+FCF6	needsfix__arabicligaturetahwithyehisolatedform	ARABIC LIGATURE TAH WITH YEH ISOLATED FORM
+FCF7	needsfix__arabicligatureainwithalefmaksuraisolatedform	ARABIC LIGATURE AIN WITH ALEF MAKSURA ISOLATED FORM
+FCF8	needsfix__arabicligatureainwithyehisolatedform	ARABIC LIGATURE AIN WITH YEH ISOLATED FORM
+FCF9	needsfix__arabicligatureghainwithalefmaksuraisolatedform	ARABIC LIGATURE GHAIN WITH ALEF MAKSURA ISOLATED FORM
+FCFA	needsfix__arabicligatureghainwithyehisolatedform	ARABIC LIGATURE GHAIN WITH YEH ISOLATED FORM
+FCFB	needsfix__arabicligatureseenwithalefmaksuraisolatedform	ARABIC LIGATURE SEEN WITH ALEF MAKSURA ISOLATED FORM
+FCFC	needsfix__arabicligatureseenwithyehisolatedform	ARABIC LIGATURE SEEN WITH YEH ISOLATED FORM
+FCFD	needsfix__arabicligaturesheenwithalefmaksuraisolatedform	ARABIC LIGATURE SHEEN WITH ALEF MAKSURA ISOLATED FORM
+FCFE	needsfix__arabicligaturesheenwithyehisolatedform	ARABIC LIGATURE SHEEN WITH YEH ISOLATED FORM
+FCFF	needsfix__arabicligaturehahwithalefmaksuraisolatedform	ARABIC LIGATURE HAH WITH ALEF MAKSURA ISOLATED FORM
+FD00	needsfix__arabicligaturehahwithyehisolatedform	ARABIC LIGATURE HAH WITH YEH ISOLATED FORM
+FD01	needsfix__arabicligaturejeemwithalefmaksuraisolatedform	ARABIC LIGATURE JEEM WITH ALEF MAKSURA ISOLATED FORM
+FD02	needsfix__arabicligaturejeemwithyehisolatedform	ARABIC LIGATURE JEEM WITH YEH ISOLATED FORM
+FD03	needsfix__arabicligaturekhahwithalefmaksuraisolatedform	ARABIC LIGATURE KHAH WITH ALEF MAKSURA ISOLATED FORM
+FD04	needsfix__arabicligaturekhahwithyehisolatedform	ARABIC LIGATURE KHAH WITH YEH ISOLATED FORM
+FD05	needsfix__arabicligaturesadwithalefmaksuraisolatedform	ARABIC LIGATURE SAD WITH ALEF MAKSURA ISOLATED FORM
+FD06	needsfix__arabicligaturesadwithyehisolatedform	ARABIC LIGATURE SAD WITH YEH ISOLATED FORM
+FD07	needsfix__arabicligaturedadwithalefmaksuraisolatedform	ARABIC LIGATURE DAD WITH ALEF MAKSURA ISOLATED FORM
+FD08	needsfix__arabicligaturedadwithyehisolatedform	ARABIC LIGATURE DAD WITH YEH ISOLATED FORM
+FD09	needsfix__arabicligaturesheenwithjeemisolatedform	ARABIC LIGATURE SHEEN WITH JEEM ISOLATED FORM
+FD0A	needsfix__arabicligaturesheenwithhahisolatedform	ARABIC LIGATURE SHEEN WITH HAH ISOLATED FORM
+FD0B	needsfix__arabicligaturesheenwithkhahisolatedform	ARABIC LIGATURE SHEEN WITH KHAH ISOLATED FORM
+FD0C	needsfix__arabicligaturesheenwithmeemisolatedform	ARABIC LIGATURE SHEEN WITH MEEM ISOLATED FORM
+FD0D	needsfix__arabicligaturesheenwithrehisolatedform	ARABIC LIGATURE SHEEN WITH REH ISOLATED FORM
+FD0E	needsfix__arabicligatureseenwithrehisolatedform	ARABIC LIGATURE SEEN WITH REH ISOLATED FORM
+FD0F	needsfix__arabicligaturesadwithrehisolatedform	ARABIC LIGATURE SAD WITH REH ISOLATED FORM
+FD10	needsfix__arabicligaturedadwithrehisolatedform	ARABIC LIGATURE DAD WITH REH ISOLATED FORM
+FD11	needsfix__arabicligaturetahwithalefmaksurafinalform	ARABIC LIGATURE TAH WITH ALEF MAKSURA FINAL FORM
+FD12	needsfix__arabicligaturetahwithyehfinalform	ARABIC LIGATURE TAH WITH YEH FINAL FORM
+FD13	needsfix__arabicligatureainwithalefmaksurafinalform	ARABIC LIGATURE AIN WITH ALEF MAKSURA FINAL FORM
+FD14	needsfix__arabicligatureainwithyehfinalform	ARABIC LIGATURE AIN WITH YEH FINAL FORM
+FD15	needsfix__arabicligatureghainwithalefmaksurafinalform	ARABIC LIGATURE GHAIN WITH ALEF MAKSURA FINAL FORM
+FD16	needsfix__arabicligatureghainwithyehfinalform	ARABIC LIGATURE GHAIN WITH YEH FINAL FORM
+FD17	needsfix__arabicligatureseenwithalefmaksurafinalform	ARABIC LIGATURE SEEN WITH ALEF MAKSURA FINAL FORM
+FD18	needsfix__arabicligatureseenwithyehfinalform	ARABIC LIGATURE SEEN WITH YEH FINAL FORM
+FD19	needsfix__arabicligaturesheenwithalefmaksurafinalform	ARABIC LIGATURE SHEEN WITH ALEF MAKSURA FINAL FORM
+FD1A	needsfix__arabicligaturesheenwithyehfinalform	ARABIC LIGATURE SHEEN WITH YEH FINAL FORM
+FD1B	needsfix__arabicligaturehahwithalefmaksurafinalform	ARABIC LIGATURE HAH WITH ALEF MAKSURA FINAL FORM
+FD1C	needsfix__arabicligaturehahwithyehfinalform	ARABIC LIGATURE HAH WITH YEH FINAL FORM
+FD1D	needsfix__arabicligaturejeemwithalefmaksurafinalform	ARABIC LIGATURE JEEM WITH ALEF MAKSURA FINAL FORM
+FD1E	needsfix__arabicligaturejeemwithyehfinalform	ARABIC LIGATURE JEEM WITH YEH FINAL FORM
+FD1F	needsfix__arabicligaturekhahwithalefmaksurafinalform	ARABIC LIGATURE KHAH WITH ALEF MAKSURA FINAL FORM
+FD20	needsfix__arabicligaturekhahwithyehfinalform	ARABIC LIGATURE KHAH WITH YEH FINAL FORM
+FD21	needsfix__arabicligaturesadwithalefmaksurafinalform	ARABIC LIGATURE SAD WITH ALEF MAKSURA FINAL FORM
+FD22	needsfix__arabicligaturesadwithyehfinalform	ARABIC LIGATURE SAD WITH YEH FINAL FORM
+FD23	needsfix__arabicligaturedadwithalefmaksurafinalform	ARABIC LIGATURE DAD WITH ALEF MAKSURA FINAL FORM
+FD24	needsfix__arabicligaturedadwithyehfinalform	ARABIC LIGATURE DAD WITH YEH FINAL FORM
+FD25	needsfix__arabicligaturesheenwithjeemfinalform	ARABIC LIGATURE SHEEN WITH JEEM FINAL FORM
+FD26	needsfix__arabicligaturesheenwithhahfinalform	ARABIC LIGATURE SHEEN WITH HAH FINAL FORM
+FD27	needsfix__arabicligaturesheenwithkhahfinalform	ARABIC LIGATURE SHEEN WITH KHAH FINAL FORM
+FD28	needsfix__arabicligaturesheenwithmeemfinalform	ARABIC LIGATURE SHEEN WITH MEEM FINAL FORM
+FD29	needsfix__arabicligaturesheenwithrehfinalform	ARABIC LIGATURE SHEEN WITH REH FINAL FORM
+FD2A	needsfix__arabicligatureseenwithrehfinalform	ARABIC LIGATURE SEEN WITH REH FINAL FORM
+FD2B	needsfix__arabicligaturesadwithrehfinalform	ARABIC LIGATURE SAD WITH REH FINAL FORM
+FD2C	needsfix__arabicligaturedadwithrehfinalform	ARABIC LIGATURE DAD WITH REH FINAL FORM
+FD2D	needsfix__arabicligaturesheenwithjeeminitialform	ARABIC LIGATURE SHEEN WITH JEEM INITIAL FORM
+FD2E	needsfix__arabicligaturesheenwithhahinitialform	ARABIC LIGATURE SHEEN WITH HAH INITIAL FORM
+FD2F	needsfix__arabicligaturesheenwithkhahinitialform	ARABIC LIGATURE SHEEN WITH KHAH INITIAL FORM
+FD30	needsfix__arabicligaturesheenwithmeeminitialform	ARABIC LIGATURE SHEEN WITH MEEM INITIAL FORM
+FD31	needsfix__arabicligatureseenwithhehinitialform	ARABIC LIGATURE SEEN WITH HEH INITIAL FORM
+FD32	needsfix__arabicligaturesheenwithhehinitialform	ARABIC LIGATURE SHEEN WITH HEH INITIAL FORM
+FD33	needsfix__arabicligaturetahwithmeeminitialform	ARABIC LIGATURE TAH WITH MEEM INITIAL FORM
+FD34	needsfix__arabicligatureseenwithjeemmedialform	ARABIC LIGATURE SEEN WITH JEEM MEDIAL FORM
+FD35	needsfix__arabicligatureseenwithhahmedialform	ARABIC LIGATURE SEEN WITH HAH MEDIAL FORM
+FD36	needsfix__arabicligatureseenwithkhahmedialform	ARABIC LIGATURE SEEN WITH KHAH MEDIAL FORM
+FD37	needsfix__arabicligaturesheenwithjeemmedialform	ARABIC LIGATURE SHEEN WITH JEEM MEDIAL FORM
+FD38	needsfix__arabicligaturesheenwithhahmedialform	ARABIC LIGATURE SHEEN WITH HAH MEDIAL FORM
+FD39	needsfix__arabicligaturesheenwithkhahmedialform	ARABIC LIGATURE SHEEN WITH KHAH MEDIAL FORM
+FD3A	needsfix__arabicligaturetahwithmeemmedialform	ARABIC LIGATURE TAH WITH MEEM MEDIAL FORM
+FD3B	needsfix__arabicligaturezahwithmeemmedialform	ARABIC LIGATURE ZAH WITH MEEM MEDIAL FORM
+FD3C	needsfix__arabicligaturealefwithfathatanfinalform	ARABIC LIGATURE ALEF WITH FATHATAN FINAL FORM
+FD3D	needsfix__arabicligaturealefwithfathatanisolatedform	ARABIC LIGATURE ALEF WITH FATHATAN ISOLATED FORM
+FD3E	needsfix__ornateleftparenthesis	ORNATE LEFT PARENTHESIS
+FD3F	needsfix__ornaterightparenthesis	ORNATE RIGHT PARENTHESIS
+FD50	needsfix__arabicligaturetehwithjeemwithmeeminitialform	ARABIC LIGATURE TEH WITH JEEM WITH MEEM INITIAL FORM
+FD51	needsfix__arabicligaturetehwithhahwithjeemfinalform	ARABIC LIGATURE TEH WITH HAH WITH JEEM FINAL FORM
+FD52	needsfix__arabicligaturetehwithhahwithjeeminitialform	ARABIC LIGATURE TEH WITH HAH WITH JEEM INITIAL FORM
+FD53	needsfix__arabicligaturetehwithhahwithmeeminitialform	ARABIC LIGATURE TEH WITH HAH WITH MEEM INITIAL FORM
+FD54	needsfix__arabicligaturetehwithkhahwithmeeminitialform	ARABIC LIGATURE TEH WITH KHAH WITH MEEM INITIAL FORM
+FD55	needsfix__arabicligaturetehwithmeemwithjeeminitialform	ARABIC LIGATURE TEH WITH MEEM WITH JEEM INITIAL FORM
+FD56	needsfix__arabicligaturetehwithmeemwithhahinitialform	ARABIC LIGATURE TEH WITH MEEM WITH HAH INITIAL FORM
+FD57	needsfix__arabicligaturetehwithmeemwithkhahinitialform	ARABIC LIGATURE TEH WITH MEEM WITH KHAH INITIAL FORM
+FD58	needsfix__arabicligaturejeemwithmeemwithhahfinalform	ARABIC LIGATURE JEEM WITH MEEM WITH HAH FINAL FORM
+FD59	needsfix__arabicligaturejeemwithmeemwithhahinitialform	ARABIC LIGATURE JEEM WITH MEEM WITH HAH INITIAL FORM
+FD5A	needsfix__arabicligaturehahwithmeemwithyehfinalform	ARABIC LIGATURE HAH WITH MEEM WITH YEH FINAL FORM
+FD5B	needsfix__arabicligaturehahwithmeemwithalefmaksurafinalform	ARABIC LIGATURE HAH WITH MEEM WITH ALEF MAKSURA FINAL FORM
+FD5C	needsfix__arabicligatureseenwithhahwithjeeminitialform	ARABIC LIGATURE SEEN WITH HAH WITH JEEM INITIAL FORM
+FD5D	needsfix__arabicligatureseenwithjeemwithhahinitialform	ARABIC LIGATURE SEEN WITH JEEM WITH HAH INITIAL FORM
+FD5E	needsfix__arabicligatureseenwithjeemwithalefmaksurafinalform	ARABIC LIGATURE SEEN WITH JEEM WITH ALEF MAKSURA FINAL FORM
+FD5F	needsfix__arabicligatureseenwithmeemwithhahfinalform	ARABIC LIGATURE SEEN WITH MEEM WITH HAH FINAL FORM
+FD60	needsfix__arabicligatureseenwithmeemwithhahinitialform	ARABIC LIGATURE SEEN WITH MEEM WITH HAH INITIAL FORM
+FD61	needsfix__arabicligatureseenwithmeemwithjeeminitialform	ARABIC LIGATURE SEEN WITH MEEM WITH JEEM INITIAL FORM
+FD62	needsfix__arabicligatureseenwithmeemwithmeemfinalform	ARABIC LIGATURE SEEN WITH MEEM WITH MEEM FINAL FORM
+FD63	needsfix__arabicligatureseenwithmeemwithmeeminitialform	ARABIC LIGATURE SEEN WITH MEEM WITH MEEM INITIAL FORM
+FD64	needsfix__arabicligaturesadwithhahwithhahfinalform	ARABIC LIGATURE SAD WITH HAH WITH HAH FINAL FORM
+FD65	needsfix__arabicligaturesadwithhahwithhahinitialform	ARABIC LIGATURE SAD WITH HAH WITH HAH INITIAL FORM
+FD66	needsfix__arabicligaturesadwithmeemwithmeemfinalform	ARABIC LIGATURE SAD WITH MEEM WITH MEEM FINAL FORM
+FD67	needsfix__arabicligaturesheenwithhahwithmeemfinalform	ARABIC LIGATURE SHEEN WITH HAH WITH MEEM FINAL FORM
+FD68	needsfix__arabicligaturesheenwithhahwithmeeminitialform	ARABIC LIGATURE SHEEN WITH HAH WITH MEEM INITIAL FORM
+FD69	needsfix__arabicligaturesheenwithjeemwithyehfinalform	ARABIC LIGATURE SHEEN WITH JEEM WITH YEH FINAL FORM
+FD6A	needsfix__arabicligaturesheenwithmeemwithkhahfinalform	ARABIC LIGATURE SHEEN WITH MEEM WITH KHAH FINAL FORM
+FD6B	needsfix__arabicligaturesheenwithmeemwithkhahinitialform	ARABIC LIGATURE SHEEN WITH MEEM WITH KHAH INITIAL FORM
+FD6C	needsfix__arabicligaturesheenwithmeemwithmeemfinalform	ARABIC LIGATURE SHEEN WITH MEEM WITH MEEM FINAL FORM
+FD6D	needsfix__arabicligaturesheenwithmeemwithmeeminitialform	ARABIC LIGATURE SHEEN WITH MEEM WITH MEEM INITIAL FORM
+FD6E	needsfix__arabicligaturedadwithhahwithalefmaksurafinalform	ARABIC LIGATURE DAD WITH HAH WITH ALEF MAKSURA FINAL FORM
+FD6F	needsfix__arabicligaturedadwithkhahwithmeemfinalform	ARABIC LIGATURE DAD WITH KHAH WITH MEEM FINAL FORM
+FD70	needsfix__arabicligaturedadwithkhahwithmeeminitialform	ARABIC LIGATURE DAD WITH KHAH WITH MEEM INITIAL FORM
+FD71	needsfix__arabicligaturetahwithmeemwithhahfinalform	ARABIC LIGATURE TAH WITH MEEM WITH HAH FINAL FORM
+FD72	needsfix__arabicligaturetahwithmeemwithhahinitialform	ARABIC LIGATURE TAH WITH MEEM WITH HAH INITIAL FORM
+FD73	needsfix__arabicligaturetahwithmeemwithmeeminitialform	ARABIC LIGATURE TAH WITH MEEM WITH MEEM INITIAL FORM
+FD74	needsfix__arabicligaturetahwithmeemwithyehfinalform	ARABIC LIGATURE TAH WITH MEEM WITH YEH FINAL FORM
+FD75	needsfix__arabicligatureainwithjeemwithmeemfinalform	ARABIC LIGATURE AIN WITH JEEM WITH MEEM FINAL FORM
+FD76	needsfix__arabicligatureainwithmeemwithmeemfinalform	ARABIC LIGATURE AIN WITH MEEM WITH MEEM FINAL FORM
+FD77	needsfix__arabicligatureainwithmeemwithmeeminitialform	ARABIC LIGATURE AIN WITH MEEM WITH MEEM INITIAL FORM
+FD78	needsfix__arabicligatureainwithmeemwithalefmaksurafinalform	ARABIC LIGATURE AIN WITH MEEM WITH ALEF MAKSURA FINAL FORM
+FD79	needsfix__arabicligatureghainwithmeemwithmeemfinalform	ARABIC LIGATURE GHAIN WITH MEEM WITH MEEM FINAL FORM
+FD7A	needsfix__arabicligatureghainwithmeemwithyehfinalform	ARABIC LIGATURE GHAIN WITH MEEM WITH YEH FINAL FORM
+FD7B	needsfix__arabicligatureghainwithmeemwithalefmaksurafinalform	ARABIC LIGATURE GHAIN WITH MEEM WITH ALEF MAKSURA FINAL FORM
+FD7C	needsfix__arabicligaturefehwithkhahwithmeemfinalform	ARABIC LIGATURE FEH WITH KHAH WITH MEEM FINAL FORM
+FD7D	needsfix__arabicligaturefehwithkhahwithmeeminitialform	ARABIC LIGATURE FEH WITH KHAH WITH MEEM INITIAL FORM
+FD7E	needsfix__arabicligatureqafwithmeemwithhahfinalform	ARABIC LIGATURE QAF WITH MEEM WITH HAH FINAL FORM
+FD7F	needsfix__arabicligatureqafwithmeemwithmeemfinalform	ARABIC LIGATURE QAF WITH MEEM WITH MEEM FINAL FORM
+FD80	needsfix__arabicligaturelamwithhahwithmeemfinalform	ARABIC LIGATURE LAM WITH HAH WITH MEEM FINAL FORM
+FD81	needsfix__arabicligaturelamwithhahwithyehfinalform	ARABIC LIGATURE LAM WITH HAH WITH YEH FINAL FORM
+FD82	needsfix__arabicligaturelamwithhahwithalefmaksurafinalform	ARABIC LIGATURE LAM WITH HAH WITH ALEF MAKSURA FINAL FORM
+FD83	needsfix__arabicligaturelamwithjeemwithjeeminitialform	ARABIC LIGATURE LAM WITH JEEM WITH JEEM INITIAL FORM
+FD84	needsfix__arabicligaturelamwithjeemwithjeemfinalform	ARABIC LIGATURE LAM WITH JEEM WITH JEEM FINAL FORM
+FD85	needsfix__arabicligaturelamwithkhahwithmeemfinalform	ARABIC LIGATURE LAM WITH KHAH WITH MEEM FINAL FORM
+FD86	needsfix__arabicligaturelamwithkhahwithmeeminitialform	ARABIC LIGATURE LAM WITH KHAH WITH MEEM INITIAL FORM
+FD87	needsfix__arabicligaturelamwithmeemwithhahfinalform	ARABIC LIGATURE LAM WITH MEEM WITH HAH FINAL FORM
+FD88	needsfix__arabicligaturelamwithmeemwithhahinitialform	ARABIC LIGATURE LAM WITH MEEM WITH HAH INITIAL FORM
+FD89	needsfix__arabicligaturemeemwithhahwithjeeminitialform	ARABIC LIGATURE MEEM WITH HAH WITH JEEM INITIAL FORM
+FD8A	needsfix__arabicligaturemeemwithhahwithmeeminitialform	ARABIC LIGATURE MEEM WITH HAH WITH MEEM INITIAL FORM
+FD8B	needsfix__arabicligaturemeemwithhahwithyehfinalform	ARABIC LIGATURE MEEM WITH HAH WITH YEH FINAL FORM
+FD8C	needsfix__arabicligaturemeemwithjeemwithhahinitialform	ARABIC LIGATURE MEEM WITH JEEM WITH HAH INITIAL FORM
+FD8D	needsfix__arabicligaturemeemwithjeemwithmeeminitialform	ARABIC LIGATURE MEEM WITH JEEM WITH MEEM INITIAL FORM
+FD8E	needsfix__arabicligaturemeemwithkhahwithjeeminitialform	ARABIC LIGATURE MEEM WITH KHAH WITH JEEM INITIAL FORM
+FD8F	needsfix__arabicligaturemeemwithkhahwithmeeminitialform	ARABIC LIGATURE MEEM WITH KHAH WITH MEEM INITIAL FORM
+FD92	needsfix__arabicligaturemeemwithjeemwithkhahinitialform	ARABIC LIGATURE MEEM WITH JEEM WITH KHAH INITIAL FORM
+FD93	needsfix__arabicligaturehehwithmeemwithjeeminitialform	ARABIC LIGATURE HEH WITH MEEM WITH JEEM INITIAL FORM
+FD94	needsfix__arabicligaturehehwithmeemwithmeeminitialform	ARABIC LIGATURE HEH WITH MEEM WITH MEEM INITIAL FORM
+FD95	needsfix__arabicligaturenoonwithhahwithmeeminitialform	ARABIC LIGATURE NOON WITH HAH WITH MEEM INITIAL FORM
+FD96	needsfix__arabicligaturenoonwithhahwithalefmaksurafinalform	ARABIC LIGATURE NOON WITH HAH WITH ALEF MAKSURA FINAL FORM
+FD97	needsfix__arabicligaturenoonwithjeemwithmeemfinalform	ARABIC LIGATURE NOON WITH JEEM WITH MEEM FINAL FORM
+FD98	needsfix__arabicligaturenoonwithjeemwithmeeminitialform	ARABIC LIGATURE NOON WITH JEEM WITH MEEM INITIAL FORM
+FD99	needsfix__arabicligaturenoonwithjeemwithalefmaksurafinalform	ARABIC LIGATURE NOON WITH JEEM WITH ALEF MAKSURA FINAL FORM
+FD9A	needsfix__arabicligaturenoonwithmeemwithyehfinalform	ARABIC LIGATURE NOON WITH MEEM WITH YEH FINAL FORM
+FD9B	needsfix__arabicligaturenoonwithmeemwithalefmaksurafinalform	ARABIC LIGATURE NOON WITH MEEM WITH ALEF MAKSURA FINAL FORM
+FD9C	needsfix__arabicligatureyehwithmeemwithmeemfinalform	ARABIC LIGATURE YEH WITH MEEM WITH MEEM FINAL FORM
+FD9D	needsfix__arabicligatureyehwithmeemwithmeeminitialform	ARABIC LIGATURE YEH WITH MEEM WITH MEEM INITIAL FORM
+FD9E	needsfix__arabicligaturebehwithkhahwithyehfinalform	ARABIC LIGATURE BEH WITH KHAH WITH YEH FINAL FORM
+FD9F	needsfix__arabicligaturetehwithjeemwithyehfinalform	ARABIC LIGATURE TEH WITH JEEM WITH YEH FINAL FORM
+FDA0	needsfix__arabicligaturetehwithjeemwithalefmaksurafinalform	ARABIC LIGATURE TEH WITH JEEM WITH ALEF MAKSURA FINAL FORM
+FDA1	needsfix__arabicligaturetehwithkhahwithyehfinalform	ARABIC LIGATURE TEH WITH KHAH WITH YEH FINAL FORM
+FDA2	needsfix__arabicligaturetehwithkhahwithalefmaksurafinalform	ARABIC LIGATURE TEH WITH KHAH WITH ALEF MAKSURA FINAL FORM
+FDA3	needsfix__arabicligaturetehwithmeemwithyehfinalform	ARABIC LIGATURE TEH WITH MEEM WITH YEH FINAL FORM
+FDA4	needsfix__arabicligaturetehwithmeemwithalefmaksurafinalform	ARABIC LIGATURE TEH WITH MEEM WITH ALEF MAKSURA FINAL FORM
+FDA5	needsfix__arabicligaturejeemwithmeemwithyehfinalform	ARABIC LIGATURE JEEM WITH MEEM WITH YEH FINAL FORM
+FDA6	needsfix__arabicligaturejeemwithhahwithalefmaksurafinalform	ARABIC LIGATURE JEEM WITH HAH WITH ALEF MAKSURA FINAL FORM
+FDA7	needsfix__arabicligaturejeemwithmeemwithalefmaksurafinalform	ARABIC LIGATURE JEEM WITH MEEM WITH ALEF MAKSURA FINAL FORM
+FDA8	needsfix__arabicligatureseenwithkhahwithalefmaksurafinalform	ARABIC LIGATURE SEEN WITH KHAH WITH ALEF MAKSURA FINAL FORM
+FDA9	needsfix__arabicligaturesadwithhahwithyehfinalform	ARABIC LIGATURE SAD WITH HAH WITH YEH FINAL FORM
+FDAA	needsfix__arabicligaturesheenwithhahwithyehfinalform	ARABIC LIGATURE SHEEN WITH HAH WITH YEH FINAL FORM
+FDAB	needsfix__arabicligaturedadwithhahwithyehfinalform	ARABIC LIGATURE DAD WITH HAH WITH YEH FINAL FORM
+FDAC	needsfix__arabicligaturelamwithjeemwithyehfinalform	ARABIC LIGATURE LAM WITH JEEM WITH YEH FINAL FORM
+FDAD	needsfix__arabicligaturelamwithmeemwithyehfinalform	ARABIC LIGATURE LAM WITH MEEM WITH YEH FINAL FORM
+FDAE	needsfix__arabicligatureyehwithhahwithyehfinalform	ARABIC LIGATURE YEH WITH HAH WITH YEH FINAL FORM
+FDAF	needsfix__arabicligatureyehwithjeemwithyehfinalform	ARABIC LIGATURE YEH WITH JEEM WITH YEH FINAL FORM
+FDB0	needsfix__arabicligatureyehwithmeemwithyehfinalform	ARABIC LIGATURE YEH WITH MEEM WITH YEH FINAL FORM
+FDB1	needsfix__arabicligaturemeemwithmeemwithyehfinalform	ARABIC LIGATURE MEEM WITH MEEM WITH YEH FINAL FORM
+FDB2	needsfix__arabicligatureqafwithmeemwithyehfinalform	ARABIC LIGATURE QAF WITH MEEM WITH YEH FINAL FORM
+FDB3	needsfix__arabicligaturenoonwithhahwithyehfinalform	ARABIC LIGATURE NOON WITH HAH WITH YEH FINAL FORM
+FDB4	needsfix__arabicligatureqafwithmeemwithhahinitialform	ARABIC LIGATURE QAF WITH MEEM WITH HAH INITIAL FORM
+FDB5	needsfix__arabicligaturelamwithhahwithmeeminitialform	ARABIC LIGATURE LAM WITH HAH WITH MEEM INITIAL FORM
+FDB6	needsfix__arabicligatureainwithmeemwithyehfinalform	ARABIC LIGATURE AIN WITH MEEM WITH YEH FINAL FORM
+FDB7	needsfix__arabicligaturekafwithmeemwithyehfinalform	ARABIC LIGATURE KAF WITH MEEM WITH YEH FINAL FORM
+FDB8	needsfix__arabicligaturenoonwithjeemwithhahinitialform	ARABIC LIGATURE NOON WITH JEEM WITH HAH INITIAL FORM
+FDB9	needsfix__arabicligaturemeemwithkhahwithyehfinalform	ARABIC LIGATURE MEEM WITH KHAH WITH YEH FINAL FORM
+FDBA	needsfix__arabicligaturelamwithjeemwithmeeminitialform	ARABIC LIGATURE LAM WITH JEEM WITH MEEM INITIAL FORM
+FDBB	needsfix__arabicligaturekafwithmeemwithmeemfinalform	ARABIC LIGATURE KAF WITH MEEM WITH MEEM FINAL FORM
+FDBC	needsfix__arabicligaturelamwithjeemwithmeemfinalform	ARABIC LIGATURE LAM WITH JEEM WITH MEEM FINAL FORM
+FDBD	needsfix__arabicligaturenoonwithjeemwithhahfinalform	ARABIC LIGATURE NOON WITH JEEM WITH HAH FINAL FORM
+FDBE	needsfix__arabicligaturejeemwithhahwithyehfinalform	ARABIC LIGATURE JEEM WITH HAH WITH YEH FINAL FORM
+FDBF	needsfix__arabicligaturehahwithjeemwithyehfinalform	ARABIC LIGATURE HAH WITH JEEM WITH YEH FINAL FORM
+FDC0	needsfix__arabicligaturemeemwithjeemwithyehfinalform	ARABIC LIGATURE MEEM WITH JEEM WITH YEH FINAL FORM
+FDC1	needsfix__arabicligaturefehwithmeemwithyehfinalform	ARABIC LIGATURE FEH WITH MEEM WITH YEH FINAL FORM
+FDC2	needsfix__arabicligaturebehwithhahwithyehfinalform	ARABIC LIGATURE BEH WITH HAH WITH YEH FINAL FORM
+FDC3	needsfix__arabicligaturekafwithmeemwithmeeminitialform	ARABIC LIGATURE KAF WITH MEEM WITH MEEM INITIAL FORM
+FDC4	needsfix__arabicligatureainwithjeemwithmeeminitialform	ARABIC LIGATURE AIN WITH JEEM WITH MEEM INITIAL FORM
+FDC5	needsfix__arabicligaturesadwithmeemwithmeeminitialform	ARABIC LIGATURE SAD WITH MEEM WITH MEEM INITIAL FORM
+FDC6	needsfix__arabicligatureseenwithkhahwithyehfinalform	ARABIC LIGATURE SEEN WITH KHAH WITH YEH FINAL FORM
+FDC7	needsfix__arabicligaturenoonwithjeemwithyehfinalform	ARABIC LIGATURE NOON WITH JEEM WITH YEH FINAL FORM
+FDF0	needsfix__arabicligaturesallausedaskoranicstopsignisolatedform	ARABIC LIGATURE SALLA USED AS KORANIC STOP SIGN ISOLATED FORM
+FDF1	needsfix__arabicligatureqalausedaskoranicstopsignisolatedform	ARABIC LIGATURE QALA USED AS KORANIC STOP SIGN ISOLATED FORM
+FDF2	needsfix__arabicligatureallahisolatedform	ARABIC LIGATURE ALLAH ISOLATED FORM
+FDF3	needsfix__arabicligatureakbarisolatedform	ARABIC LIGATURE AKBAR ISOLATED FORM
+FDF4	needsfix__arabicligaturemohammadisolatedform	ARABIC LIGATURE MOHAMMAD ISOLATED FORM
+FDF5	needsfix__arabicligaturesalamisolatedform	ARABIC LIGATURE SALAM ISOLATED FORM
+FDF6	needsfix__arabicligaturerasoulisolatedform	ARABIC LIGATURE RASOUL ISOLATED FORM
+FDF7	needsfix__arabicligaturealayheisolatedform	ARABIC LIGATURE ALAYHE ISOLATED FORM
+FDF8	needsfix__arabicligaturewasallamisolatedform	ARABIC LIGATURE WASALLAM ISOLATED FORM
+FDF9	needsfix__arabicligaturesallaisolatedform	ARABIC LIGATURE SALLA ISOLATED FORM
+FDFA	needsfix__arabicligaturesallallahoualayhewasallam	ARABIC LIGATURE SALLALLAHOU ALAYHE WASALLAM
+FDFB	needsfix__arabicligaturejallajalalouhou	ARABIC LIGATURE JALLAJALALOUHOU
+FDFC	needsfix__rialsign	RIAL SIGN
+FDFD	needsfix__arabicligaturebismillaharrahmanarraheem	ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM

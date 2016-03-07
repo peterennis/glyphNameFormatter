@@ -1,0 +1,129 @@
+# Miscellaneous Mathematical Symbols-B 2980 - 29FF
+2980	needsfix__tripleverticalbardelimiter	TRIPLE VERTICAL BAR DELIMITER
+2981	needsfix__znotationspot	Z NOTATION SPOT
+2982	needsfix__znotationtypecolon	Z NOTATION TYPE COLON
+2983	needsfix__leftwhitecurlybracket	LEFT WHITE CURLY BRACKET
+2984	needsfix__rightwhitecurlybracket	RIGHT WHITE CURLY BRACKET
+2985	needsfix__leftwhiteparenthesis	LEFT WHITE PARENTHESIS
+2986	needsfix__rightwhiteparenthesis	RIGHT WHITE PARENTHESIS
+2987	needsfix__znotationleftimagebracket	Z NOTATION LEFT IMAGE BRACKET
+2988	needsfix__znotationrightimagebracket	Z NOTATION RIGHT IMAGE BRACKET
+2989	needsfix__znotationleftbindingbracket	Z NOTATION LEFT BINDING BRACKET
+298A	needsfix__znotationrightbindingbracket	Z NOTATION RIGHT BINDING BRACKET
+298B	needsfix__leftsquarebracketwithunderbar	LEFT SQUARE BRACKET WITH UNDERBAR
+298C	needsfix__rightsquarebracketwithunderbar	RIGHT SQUARE BRACKET WITH UNDERBAR
+298D	needsfix__leftsquarebracketwithtickintopcorner	LEFT SQUARE BRACKET WITH TICK IN TOP CORNER
+298E	needsfix__rightsquarebracketwithtickinbottomcorner	RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER
+298F	needsfix__leftsquarebracketwithtickinbottomcorner	LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER
+2990	needsfix__rightsquarebracketwithtickintopcorner	RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER
+2991	needsfix__leftanglebracketwithdot	LEFT ANGLE BRACKET WITH DOT
+2992	needsfix__rightanglebracketwithdot	RIGHT ANGLE BRACKET WITH DOT
+2993	needsfix__leftarclessthanbracket	LEFT ARC LESS-THAN BRACKET
+2994	needsfix__rightarcgreaterthanbracket	RIGHT ARC GREATER-THAN BRACKET
+2995	needsfix__doubleleftarcgreaterthanbracket	DOUBLE LEFT ARC GREATER-THAN BRACKET
+2996	needsfix__doublerightarclessthanbracket	DOUBLE RIGHT ARC LESS-THAN BRACKET
+2997	needsfix__leftblacktortoiseshellbracket	LEFT BLACK TORTOISE SHELL BRACKET
+2998	needsfix__rightblacktortoiseshellbracket	RIGHT BLACK TORTOISE SHELL BRACKET
+2999	needsfix__dottedfence	DOTTED FENCE
+299A	needsfix__verticalzigzagline	VERTICAL ZIGZAG LINE
+299B	needsfix__measuredangleopeningleft	MEASURED ANGLE OPENING LEFT
+299C	needsfix__rightanglevariantwithsquare	RIGHT ANGLE VARIANT WITH SQUARE
+299D	needsfix__measuredrightanglewithdot	MEASURED RIGHT ANGLE WITH DOT
+299E	needsfix__anglewithsinside	ANGLE WITH S INSIDE
+299F	needsfix__acuteangle	ACUTE ANGLE
+29A0	needsfix__sphericalangleopeningleft	SPHERICAL ANGLE OPENING LEFT
+29A1	needsfix__sphericalangleopeningup	SPHERICAL ANGLE OPENING UP
+29A2	needsfix__turnedangle	TURNED ANGLE
+29A3	needsfix__reversedangle	REVERSED ANGLE
+29A4	needsfix__anglewithunderbar	ANGLE WITH UNDERBAR
+29A5	needsfix__reversedanglewithunderbar	REVERSED ANGLE WITH UNDERBAR
+29A6	needsfix__obliqueangleopeningup	OBLIQUE ANGLE OPENING UP
+29A7	needsfix__obliqueangleopeningdown	OBLIQUE ANGLE OPENING DOWN
+29A8	needsfix__measuredanglewithopenarmendinginarrowpointingupandright	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT
+29A9	needsfix__measuredanglewithopenarmendinginarrowpointingupandleft	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT
+29AA	needsfix__measuredanglewithopenarmendinginarrowpointingdownandright	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT
+29AB	needsfix__measuredanglewithopenarmendinginarrowpointingdownandleft	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT
+29AC	needsfix__measuredanglewithopenarmendinginarrowpointingrightandup	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP
+29AD	needsfix__measuredanglewithopenarmendinginarrowpointingleftandup	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP
+29AE	needsfix__measuredanglewithopenarmendinginarrowpointingrightanddown	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN
+29AF	needsfix__measuredanglewithopenarmendinginarrowpointingleftanddown	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND DOWN
+29B0	needsfix__reversedemptyset	REVERSED EMPTY SET
+29B1	needsfix__emptysetwithoverbar	EMPTY SET WITH OVERBAR
+29B2	needsfix__emptysetwithsmallcircleabove	EMPTY SET WITH SMALL CIRCLE ABOVE
+29B3	needsfix__emptysetwithrightarrowabove	EMPTY SET WITH RIGHT ARROW ABOVE
+29B4	needsfix__emptysetwithleftarrowabove	EMPTY SET WITH LEFT ARROW ABOVE
+29B5	needsfix__circlewithhorizontalbar	CIRCLE WITH HORIZONTAL BAR
+29B6	needsfix__circledverticalbar	CIRCLED VERTICAL BAR
+29B7	needsfix__circledparallel	CIRCLED PARALLEL
+29B8	needsfix__circledreversesolidus	CIRCLED REVERSE SOLIDUS
+29B9	needsfix__circledperpendicular	CIRCLED PERPENDICULAR
+29BA	needsfix__circledividedbyhorizontalbarandtophalfdividedbyverticalbar	CIRCLE DIVIDED BY HORIZONTAL BAR AND TOP HALF DIVIDED BY VERTICAL BAR
+29BB	needsfix__circlewithsuperimposedx	CIRCLE WITH SUPERIMPOSED X
+29BC	needsfix__circledanticlockwiserotateddivisionsign	CIRCLED ANTICLOCKWISE-ROTATED DIVISION SIGN
+29BD	needsfix__uparrowthroughcircle	UP ARROW THROUGH CIRCLE
+29BE	needsfix__circledwhitebullet	CIRCLED WHITE BULLET
+29BF	needsfix__circledbullet	CIRCLED BULLET
+29C0	needsfix__circledlessthan	CIRCLED LESS-THAN
+29C1	needsfix__circledgreaterthan	CIRCLED GREATER-THAN
+29C2	needsfix__circlewithsmallcircletotheright	CIRCLE WITH SMALL CIRCLE TO THE RIGHT
+29C3	needsfix__circlewithtwohorizontalstrokestotheright	CIRCLE WITH TWO HORIZONTAL STROKES TO THE RIGHT
+29C4	needsfix__squaredrisingdiagonalslash	SQUARED RISING DIAGONAL SLASH
+29C5	needsfix__squaredfallingdiagonalslash	SQUARED FALLING DIAGONAL SLASH
+29C6	needsfix__squaredasterisk	SQUARED ASTERISK
+29C7	needsfix__squaredsmallcircle	SQUARED SMALL CIRCLE
+29C8	needsfix__squaredsquare	SQUARED SQUARE
+29C9	needsfix__twojoinedsquares	TWO JOINED SQUARES
+29CA	needsfix__trianglewithdotabove	TRIANGLE WITH DOT ABOVE
+29CB	needsfix__trianglewithunderbar	TRIANGLE WITH UNDERBAR
+29CC	needsfix__sintriangle	S IN TRIANGLE
+29CD	needsfix__trianglewithserifsatbottom	TRIANGLE WITH SERIFS AT BOTTOM
+29CE	needsfix__righttriangleabovelefttriangle	RIGHT TRIANGLE ABOVE LEFT TRIANGLE
+29CF	needsfix__lefttrianglebesideverticalbar	LEFT TRIANGLE BESIDE VERTICAL BAR
+29D0	needsfix__verticalbarbesiderighttriangle	VERTICAL BAR BESIDE RIGHT TRIANGLE
+29D1	needsfix__bowtiewithlefthalfblack	BOWTIE WITH LEFT HALF BLACK
+29D2	needsfix__bowtiewithrighthalfblack	BOWTIE WITH RIGHT HALF BLACK
+29D3	needsfix__blackbowtie	BLACK BOWTIE
+29D4	needsfix__timeswithlefthalfblack	TIMES WITH LEFT HALF BLACK
+29D5	needsfix__timeswithrighthalfblack	TIMES WITH RIGHT HALF BLACK
+29D6	needsfix__whitehourglass	WHITE HOURGLASS
+29D7	needsfix__blackhourglass	BLACK HOURGLASS
+29D8	needsfix__leftwigglyfence	LEFT WIGGLY FENCE
+29D9	needsfix__rightwigglyfence	RIGHT WIGGLY FENCE
+29DA	needsfix__leftdoublewigglyfence	LEFT DOUBLE WIGGLY FENCE
+29DB	needsfix__rightdoublewigglyfence	RIGHT DOUBLE WIGGLY FENCE
+29DC	needsfix__incompleteinfinity	INCOMPLETE INFINITY
+29DD	needsfix__tieoverinfinity	TIE OVER INFINITY
+29DE	needsfix__infinitynegatedwithverticalbar	INFINITY NEGATED WITH VERTICAL BAR
+29DF	needsfix__doubleendedmultimap	DOUBLE-ENDED MULTIMAP
+29E0	needsfix__squarewithcontouredoutline	SQUARE WITH CONTOURED OUTLINE
+29E1	needsfix__increasesas	INCREASES AS
+29E2	needsfix__shuffleproduct	SHUFFLE PRODUCT
+29E3	needsfix__equalssignandslantedparallel	EQUALS SIGN AND SLANTED PARALLEL
+29E4	needsfix__equalssignandslantedparallelwithtildeabove	EQUALS SIGN AND SLANTED PARALLEL WITH TILDE ABOVE
+29E5	needsfix__identicaltoandslantedparallel	IDENTICAL TO AND SLANTED PARALLEL
+29E6	needsfix__gleichstark	GLEICH STARK
+29E7	needsfix__thermodynamic	THERMODYNAMIC
+29E8	needsfix__downpointingtrianglewithlefthalfblack	DOWN-POINTING TRIANGLE WITH LEFT HALF BLACK
+29E9	needsfix__downpointingtrianglewithrighthalfblack	DOWN-POINTING TRIANGLE WITH RIGHT HALF BLACK
+29EA	needsfix__blackdiamondwithdownarrow	BLACK DIAMOND WITH DOWN ARROW
+29EB	needsfix__blacklozenge	BLACK LOZENGE
+29EC	needsfix__whitecirclewithdownarrow	WHITE CIRCLE WITH DOWN ARROW
+29ED	needsfix__blackcirclewithdownarrow	BLACK CIRCLE WITH DOWN ARROW
+29EE	needsfix__errorbarredwhitesquare	ERROR-BARRED WHITE SQUARE
+29EF	needsfix__errorbarredblacksquare	ERROR-BARRED BLACK SQUARE
+29F0	needsfix__errorbarredwhitediamond	ERROR-BARRED WHITE DIAMOND
+29F1	needsfix__errorbarredblackdiamond	ERROR-BARRED BLACK DIAMOND
+29F2	needsfix__errorbarredwhitecircle	ERROR-BARRED WHITE CIRCLE
+29F3	needsfix__errorbarredblackcircle	ERROR-BARRED BLACK CIRCLE
+29F4	needsfix__ruledelayed	RULE-DELAYED
+29F5	needsfix__reversesolidusoperator	REVERSE SOLIDUS OPERATOR
+29F6	needsfix__soliduswithoverbar	SOLIDUS WITH OVERBAR
+29F7	needsfix__reversesoliduswithhorizontalstroke	REVERSE SOLIDUS WITH HORIZONTAL STROKE
+29F8	needsfix__bigsolidus	BIG SOLIDUS
+29F9	needsfix__bigreversesolidus	BIG REVERSE SOLIDUS
+29FA	needsfix__doubleplus	DOUBLE PLUS
+29FB	needsfix__tripleplus	TRIPLE PLUS
+29FC	needsfix__leftpointingcurvedanglebracket	LEFT-POINTING CURVED ANGLE BRACKET
+29FD	needsfix__rightpointingcurvedanglebracket	RIGHT-POINTING CURVED ANGLE BRACKET
+29FE	needsfix__tiny	TINY
+29FF	needsfix__miny	MINY

@@ -1,0 +1,257 @@
+# CJK Compatibility 3300 - 33FF
+3300	needsfix__squareapaato	SQUARE APAATO
+3301	needsfix__squarearuhua	SQUARE ARUHUA
+3302	needsfix__squareanpea	SQUARE ANPEA
+3303	needsfix__squareaaru	SQUARE AARU
+3304	needsfix__squareiningu	SQUARE ININGU
+3305	needsfix__squareinti	SQUARE INTI
+3306	needsfix__squareuon	SQUARE UON
+3307	needsfix__squareesukuudo	SQUARE ESUKUUDO
+3308	needsfix__squareeekaa	SQUARE EEKAA
+3309	needsfix__squareonsu	SQUARE ONSU
+330A	needsfix__squareoomu	SQUARE OOMU
+330B	needsfix__squarekairi	SQUARE KAIRI
+330C	needsfix__squarekaratto	SQUARE KARATTO
+330D	needsfix__squarekarorii	SQUARE KARORII
+330E	needsfix__squaregaron	SQUARE GARON
+330F	needsfix__squareganma	SQUARE GANMA
+3310	needsfix__squaregiga	SQUARE GIGA
+3311	needsfix__squareginii	SQUARE GINII
+3312	needsfix__squarekyurii	SQUARE KYURII
+3313	needsfix__squaregirudaa	SQUARE GIRUDAA
+3314	needsfix__squarekiro	SQUARE KIRO
+3315	needsfix__squarekiroguramu	SQUARE KIROGURAMU
+3316	needsfix__squarekiromeetoru	SQUARE KIROMEETORU
+3317	needsfix__squarekirowatto	SQUARE KIROWATTO
+3318	needsfix__squareguramu	SQUARE GURAMU
+3319	needsfix__squareguramuton	SQUARE GURAMUTON
+331A	needsfix__squarekuruzeiro	SQUARE KURUZEIRO
+331B	needsfix__squarekuroone	SQUARE KUROONE
+331C	needsfix__squarekeesu	SQUARE KEESU
+331D	needsfix__squarekoruna	SQUARE KORUNA
+331E	needsfix__squarekoopo	SQUARE KOOPO
+331F	needsfix__squaresaikuru	SQUARE SAIKURU
+3320	needsfix__squaresantiimu	SQUARE SANTIIMU
+3321	needsfix__squaresiringu	SQUARE SIRINGU
+3322	needsfix__squaresenti	SQUARE SENTI
+3323	needsfix__squaresento	SQUARE SENTO
+3324	needsfix__squaredaasu	SQUARE DAASU
+3325	needsfix__squaredesi	SQUARE DESI
+3326	needsfix__squaredoru	SQUARE DORU
+3327	needsfix__squareton	SQUARE TON
+3328	needsfix__squarenano	SQUARE NANO
+3329	needsfix__squarenotto	SQUARE NOTTO
+332A	needsfix__squarehaitu	SQUARE HAITU
+332B	needsfix__squarepaasento	SQUARE PAASENTO
+332C	needsfix__squarepaatu	SQUARE PAATU
+332D	needsfix__squarebaareru	SQUARE BAARERU
+332E	needsfix__squarepiasutoru	SQUARE PIASUTORU
+332F	needsfix__squarepikuru	SQUARE PIKURU
+3330	needsfix__squarepiko	SQUARE PIKO
+3331	needsfix__squarebiru	SQUARE BIRU
+3332	needsfix__squarehuaraddo	SQUARE HUARADDO
+3333	needsfix__squarehuiito	SQUARE HUIITO
+3334	needsfix__squarebussyeru	SQUARE BUSSYERU
+3335	needsfix__squarehuran	SQUARE HURAN
+3336	needsfix__squarehekutaaru	SQUARE HEKUTAARU
+3337	needsfix__squarepeso	SQUARE PESO
+3338	needsfix__squarepenihi	SQUARE PENIHI
+3339	needsfix__squareherutu	SQUARE HERUTU
+333A	needsfix__squarepensu	SQUARE PENSU
+333B	needsfix__squarepeezi	SQUARE PEEZI
+333C	needsfix__squarebeeta	SQUARE BEETA
+333D	needsfix__squarepointo	SQUARE POINTO
+333E	needsfix__squareboruto	SQUARE BORUTO
+333F	needsfix__squarehon	SQUARE HON
+3340	needsfix__squarepondo	SQUARE PONDO
+3341	needsfix__squarehooru	SQUARE HOORU
+3342	needsfix__squarehoon	SQUARE HOON
+3343	needsfix__squaremaikuro	SQUARE MAIKURO
+3344	needsfix__squaremairu	SQUARE MAIRU
+3345	needsfix__squaremahha	SQUARE MAHHA
+3346	needsfix__squaremaruku	SQUARE MARUKU
+3347	needsfix__squaremansyon	SQUARE MANSYON
+3348	needsfix__squaremikuron	SQUARE MIKURON
+3349	needsfix__squaremiri	SQUARE MIRI
+334A	needsfix__squaremiribaaru	SQUARE MIRIBAARU
+334B	needsfix__squaremega	SQUARE MEGA
+334C	needsfix__squaremegaton	SQUARE MEGATON
+334D	needsfix__squaremeetoru	SQUARE MEETORU
+334E	needsfix__squareyaado	SQUARE YAADO
+334F	needsfix__squareyaaru	SQUARE YAARU
+3350	needsfix__squareyuan	SQUARE YUAN
+3351	needsfix__squarerittoru	SQUARE RITTORU
+3352	needsfix__squarerira	SQUARE RIRA
+3353	needsfix__squarerupii	SQUARE RUPII
+3354	needsfix__squareruuburu	SQUARE RUUBURU
+3355	needsfix__squareremu	SQUARE REMU
+3356	needsfix__squarerentogen	SQUARE RENTOGEN
+3357	needsfix__squarewatto	SQUARE WATTO
+3358	needsfix__ideographictelegraphsymbolforhourzero	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ZERO
+3359	needsfix__ideographictelegraphsymbolforhourone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ONE
+335A	needsfix__ideographictelegraphsymbolforhourtwo	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWO
+335B	needsfix__ideographictelegraphsymbolforhourthree	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THREE
+335C	needsfix__ideographictelegraphsymbolforhourfour	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOUR
+335D	needsfix__ideographictelegraphsymbolforhourfive	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIVE
+335E	needsfix__ideographictelegraphsymbolforhoursix	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIX
+335F	needsfix__ideographictelegraphsymbolforhourseven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVEN
+3360	needsfix__ideographictelegraphsymbolforhoureight	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHT
+3361	needsfix__ideographictelegraphsymbolforhournine	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINE
+3362	needsfix__ideographictelegraphsymbolforhourten	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TEN
+3363	needsfix__ideographictelegraphsymbolforhoureleven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ELEVEN
+3364	needsfix__ideographictelegraphsymbolforhourtwelve	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWELVE
+3365	needsfix__ideographictelegraphsymbolforhourthirteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THIRTEEN
+3366	needsfix__ideographictelegraphsymbolforhourfourteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOURTEEN
+3367	needsfix__ideographictelegraphsymbolforhourfifteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIFTEEN
+3368	needsfix__ideographictelegraphsymbolforhoursixteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIXTEEN
+3369	needsfix__ideographictelegraphsymbolforhourseventeen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVENTEEN
+336A	needsfix__ideographictelegraphsymbolforhoureighteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHTEEN
+336B	needsfix__ideographictelegraphsymbolforhournineteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINETEEN
+336C	needsfix__ideographictelegraphsymbolforhourtwenty	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY
+336D	needsfix__ideographictelegraphsymbolforhourtwentyone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-ONE
+336E	needsfix__ideographictelegraphsymbolforhourtwentytwo	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-TWO
+336F	needsfix__ideographictelegraphsymbolforhourtwentythree	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-THREE
+3370	needsfix__ideographictelegraphsymbolforhourtwentyfour	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-FOUR
+3371	needsfix__squarehpa	SQUARE HPA
+3372	needsfix__squareda	SQUARE DA
+3373	needsfix__squareau	SQUARE AU
+3374	needsfix__squarebar	SQUARE BAR
+3375	needsfix__squareov	SQUARE OV
+3376	needsfix__squarepc	SQUARE PC
+3377	needsfix__squaredm	SQUARE DM
+3378	needsfix__squaredmsquared	SQUARE DM SQUARED
+3379	needsfix__squaredmcubed	SQUARE DM CUBED
+337A	needsfix__squareiu	SQUARE IU
+337B	needsfix__squareeranameheisei	SQUARE ERA NAME HEISEI
+337C	needsfix__squareeranamesyouwa	SQUARE ERA NAME SYOUWA
+337D	needsfix__squareeranametaisyou	SQUARE ERA NAME TAISYOU
+337E	needsfix__squareeranamemeizi	SQUARE ERA NAME MEIZI
+337F	needsfix__squarecorporation	SQUARE CORPORATION
+3380	needsfix__squarepaamps	SQUARE PA AMPS
+3381	needsfix__squarena	SQUARE NA
+3382	needsfix__squaremua	SQUARE MU A
+3383	needsfix__squarema	SQUARE MA
+3384	needsfix__squareka	SQUARE KA
+3385	needsfix__squarekb	SQUARE KB
+3386	needsfix__squaremb	SQUARE MB
+3387	needsfix__squaregb	SQUARE GB
+3388	needsfix__squarecal	SQUARE CAL
+3389	needsfix__squarekcal	SQUARE KCAL
+338A	needsfix__squarepf	SQUARE PF
+338B	needsfix__squarenf	SQUARE NF
+338C	needsfix__squaremuf	SQUARE MU F
+338D	needsfix__squaremug	SQUARE MU G
+338E	needsfix__squaremg	SQUARE MG
+338F	needsfix__squarekg	SQUARE KG
+3390	needsfix__squarehz	SQUARE HZ
+3391	needsfix__squarekhz	SQUARE KHZ
+3392	needsfix__squaremhz	SQUARE MHZ
+3393	needsfix__squareghz	SQUARE GHZ
+3394	needsfix__squarethz	SQUARE THZ
+3395	needsfix__squaremul	SQUARE MU L
+3396	needsfix__squareml	SQUARE ML
+3397	needsfix__squaredl	SQUARE DL
+3398	needsfix__squarekl	SQUARE KL
+3399	needsfix__squarefm	SQUARE FM
+339A	needsfix__squarenm	SQUARE NM
+339B	needsfix__squaremum	SQUARE MU M
+339C	needsfix__squaremm	SQUARE MM
+339D	needsfix__squarecm	SQUARE CM
+339E	needsfix__squarekm	SQUARE KM
+339F	needsfix__squaremmsquared	SQUARE MM SQUARED
+33A0	needsfix__squarecmsquared	SQUARE CM SQUARED
+33A1	needsfix__squaremsquared	SQUARE M SQUARED
+33A2	needsfix__squarekmsquared	SQUARE KM SQUARED
+33A3	needsfix__squaremmcubed	SQUARE MM CUBED
+33A4	needsfix__squarecmcubed	SQUARE CM CUBED
+33A5	needsfix__squaremcubed	SQUARE M CUBED
+33A6	needsfix__squarekmcubed	SQUARE KM CUBED
+33A7	needsfix__squaremovers	SQUARE M OVER S
+33A8	needsfix__squaremoverssquared	SQUARE M OVER S SQUARED
+33A9	needsfix__squarepa	SQUARE PA
+33AA	needsfix__squarekpa	SQUARE KPA
+33AB	needsfix__squarempa	SQUARE MPA
+33AC	needsfix__squaregpa	SQUARE GPA
+33AD	needsfix__squarerad	SQUARE RAD
+33AE	needsfix__squareradovers	SQUARE RAD OVER S
+33AF	needsfix__squareradoverssquared	SQUARE RAD OVER S SQUARED
+33B0	needsfix__squareps	SQUARE PS
+33B1	needsfix__squarens	SQUARE NS
+33B2	needsfix__squaremus	SQUARE MU S
+33B3	needsfix__squarems	SQUARE MS
+33B4	needsfix__squarepv	SQUARE PV
+33B5	needsfix__squarenv	SQUARE NV
+33B6	needsfix__squaremuv	SQUARE MU V
+33B7	needsfix__squaremv	SQUARE MV
+33B8	needsfix__squarekv	SQUARE KV
+33B9	needsfix__squaremvmega	SQUARE MV MEGA
+33BA	needsfix__squarepw	SQUARE PW
+33BB	needsfix__squarenw	SQUARE NW
+33BC	needsfix__squaremuw	SQUARE MU W
+33BD	needsfix__squaremw	SQUARE MW
+33BE	needsfix__squarekw	SQUARE KW
+33BF	needsfix__squaremwmega	SQUARE MW MEGA
+33C0	needsfix__squarekohm	SQUARE K OHM
+33C1	needsfix__squaremohm	SQUARE M OHM
+33C2	needsfix__squaream	SQUARE AM
+33C3	needsfix__squarebq	SQUARE BQ
+33C4	needsfix__squarecc	SQUARE CC
+33C5	needsfix__squarecd	SQUARE CD
+33C6	needsfix__squarecoverkg	SQUARE C OVER KG
+33C7	needsfix__squareco	SQUARE CO
+33C8	needsfix__squaredb	SQUARE DB
+33C9	needsfix__squaregy	SQUARE GY
+33CA	needsfix__squareha	SQUARE HA
+33CB	needsfix__squarehp	SQUARE HP
+33CC	needsfix__squarein	SQUARE IN
+33CD	needsfix__squarekk	SQUARE KK
+33CE	needsfix__squarekmcapital	SQUARE KM CAPITAL
+33CF	needsfix__squarekt	SQUARE KT
+33D0	needsfix__squarelm	SQUARE LM
+33D1	needsfix__squareln	SQUARE LN
+33D2	needsfix__squarelog	SQUARE LOG
+33D3	needsfix__squarelx	SQUARE LX
+33D4	needsfix__squarembsmall	SQUARE MB SMALL
+33D5	needsfix__squaremil	SQUARE MIL
+33D6	needsfix__squaremol	SQUARE MOL
+33D7	needsfix__squareph	SQUARE PH
+33D8	needsfix__squarepm	SQUARE PM
+33D9	needsfix__squareppm	SQUARE PPM
+33DA	needsfix__squarepr	SQUARE PR
+33DB	needsfix__squaresr	SQUARE SR
+33DC	needsfix__squaresv	SQUARE SV
+33DD	needsfix__squarewb	SQUARE WB
+33DE	needsfix__squarevoverm	SQUARE V OVER M
+33DF	needsfix__squareaoverm	SQUARE A OVER M
+33E0	needsfix__ideographictelegraphsymbolfordayone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ONE
+33E1	needsfix__ideographictelegraphsymbolfordaytwo	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWO
+33E2	needsfix__ideographictelegraphsymbolfordaythree	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THREE
+33E3	needsfix__ideographictelegraphsymbolfordayfour	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOUR
+33E4	needsfix__ideographictelegraphsymbolfordayfive	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIVE
+33E5	needsfix__ideographictelegraphsymbolfordaysix	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIX
+33E6	needsfix__ideographictelegraphsymbolfordayseven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVEN
+33E7	needsfix__ideographictelegraphsymbolfordayeight	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHT
+33E8	needsfix__ideographictelegraphsymbolfordaynine	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINE
+33E9	needsfix__ideographictelegraphsymbolfordayten	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TEN
+33EA	needsfix__ideographictelegraphsymbolfordayeleven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ELEVEN
+33EB	needsfix__ideographictelegraphsymbolfordaytwelve	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWELVE
+33EC	needsfix__ideographictelegraphsymbolfordaythirteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTEEN
+33ED	needsfix__ideographictelegraphsymbolfordayfourteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOURTEEN
+33EE	needsfix__ideographictelegraphsymbolfordayfifteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIFTEEN
+33EF	needsfix__ideographictelegraphsymbolfordaysixteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIXTEEN
+33F0	needsfix__ideographictelegraphsymbolfordayseventeen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVENTEEN
+33F1	needsfix__ideographictelegraphsymbolfordayeighteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHTEEN
+33F2	needsfix__ideographictelegraphsymbolfordaynineteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINETEEN
+33F3	needsfix__ideographictelegraphsymbolfordaytwenty	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY
+33F4	needsfix__ideographictelegraphsymbolfordaytwentyone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-ONE
+33F5	needsfix__ideographictelegraphsymbolfordaytwentytwo	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-TWO
+33F6	needsfix__ideographictelegraphsymbolfordaytwentythree	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-THREE
+33F7	needsfix__ideographictelegraphsymbolfordaytwentyfour	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FOUR
+33F8	needsfix__ideographictelegraphsymbolfordaytwentyfive	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FIVE
+33F9	needsfix__ideographictelegraphsymbolfordaytwentysix	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SIX
+33FA	needsfix__ideographictelegraphsymbolfordaytwentyseven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SEVEN
+33FB	needsfix__ideographictelegraphsymbolfordaytwentyeight	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-EIGHT
+33FC	needsfix__ideographictelegraphsymbolfordaytwentynine	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-NINE
+33FD	needsfix__ideographictelegraphsymbolfordaythirty	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY
+33FE	needsfix__ideographictelegraphsymbolfordaythirtyone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE
+33FF	needsfix__squaregal	SQUARE GAL

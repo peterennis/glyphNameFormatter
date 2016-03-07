@@ -1,0 +1,88 @@
+# Miscellaneous Symbols and Arrows 2B00 - 2BFF
+2B00	needsfix__northeastwhitearrow	NORTH EAST WHITE ARROW
+2B01	needsfix__northwestwhitearrow	NORTH WEST WHITE ARROW
+2B02	needsfix__southeastwhitearrow	SOUTH EAST WHITE ARROW
+2B03	needsfix__southwestwhitearrow	SOUTH WEST WHITE ARROW
+2B04	needsfix__leftrightwhitearrow	LEFT RIGHT WHITE ARROW
+2B05	needsfix__leftwardsblackarrow	LEFTWARDS BLACK ARROW
+2B06	needsfix__upwardsblackarrow	UPWARDS BLACK ARROW
+2B07	needsfix__downwardsblackarrow	DOWNWARDS BLACK ARROW
+2B08	needsfix__northeastblackarrow	NORTH EAST BLACK ARROW
+2B09	needsfix__northwestblackarrow	NORTH WEST BLACK ARROW
+2B0A	needsfix__southeastblackarrow	SOUTH EAST BLACK ARROW
+2B0B	needsfix__southwestblackarrow	SOUTH WEST BLACK ARROW
+2B0C	needsfix__leftrightblackarrow	LEFT RIGHT BLACK ARROW
+2B0D	needsfix__updownblackarrow	UP DOWN BLACK ARROW
+2B0E	needsfix__rightwardsarrowwithtipdownwards	RIGHTWARDS ARROW WITH TIP DOWNWARDS
+2B0F	needsfix__rightwardsarrowwithtipupwards	RIGHTWARDS ARROW WITH TIP UPWARDS
+2B10	needsfix__leftwardsarrowwithtipdownwards	LEFTWARDS ARROW WITH TIP DOWNWARDS
+2B11	needsfix__leftwardsarrowwithtipupwards	LEFTWARDS ARROW WITH TIP UPWARDS
+2B12	needsfix__squarewithtophalfblack	SQUARE WITH TOP HALF BLACK
+2B13	needsfix__squarewithbottomhalfblack	SQUARE WITH BOTTOM HALF BLACK
+2B14	needsfix__squarewithupperrightdiagonalhalfblack	SQUARE WITH UPPER RIGHT DIAGONAL HALF BLACK
+2B15	needsfix__squarewithlowerleftdiagonalhalfblack	SQUARE WITH LOWER LEFT DIAGONAL HALF BLACK
+2B16	needsfix__diamondwithlefthalfblack	DIAMOND WITH LEFT HALF BLACK
+2B17	needsfix__diamondwithrighthalfblack	DIAMOND WITH RIGHT HALF BLACK
+2B18	needsfix__diamondwithtophalfblack	DIAMOND WITH TOP HALF BLACK
+2B19	needsfix__diamondwithbottomhalfblack	DIAMOND WITH BOTTOM HALF BLACK
+2B1A	needsfix__dottedsquare	DOTTED SQUARE
+2B1B	needsfix__blacklargesquare	BLACK LARGE SQUARE
+2B1C	needsfix__whitelargesquare	WHITE LARGE SQUARE
+2B1D	needsfix__blackverysmallsquare	BLACK VERY SMALL SQUARE
+2B1E	needsfix__whiteverysmallsquare	WHITE VERY SMALL SQUARE
+2B1F	needsfix__blackpentagon	BLACK PENTAGON
+2B20	needsfix__whitepentagon	WHITE PENTAGON
+2B21	needsfix__whitehexagon	WHITE HEXAGON
+2B22	needsfix__blackhexagon	BLACK HEXAGON
+2B23	needsfix__horizontalblackhexagon	HORIZONTAL BLACK HEXAGON
+2B24	needsfix__blacklargecircle	BLACK LARGE CIRCLE
+2B25	needsfix__blackmediumdiamond	BLACK MEDIUM DIAMOND
+2B26	needsfix__whitemediumdiamond	WHITE MEDIUM DIAMOND
+2B27	needsfix__blackmediumlozenge	BLACK MEDIUM LOZENGE
+2B28	needsfix__whitemediumlozenge	WHITE MEDIUM LOZENGE
+2B29	needsfix__blacksmalldiamond	BLACK SMALL DIAMOND
+2B2A	needsfix__blacksmalllozenge	BLACK SMALL LOZENGE
+2B2B	needsfix__whitesmalllozenge	WHITE SMALL LOZENGE
+2B2C	needsfix__blackhorizontalellipse	BLACK HORIZONTAL ELLIPSE
+2B2D	needsfix__whitehorizontalellipse	WHITE HORIZONTAL ELLIPSE
+2B2E	needsfix__blackverticalellipse	BLACK VERTICAL ELLIPSE
+2B2F	needsfix__whiteverticalellipse	WHITE VERTICAL ELLIPSE
+2B30	needsfix__leftarrowwithsmallcircle	LEFT ARROW WITH SMALL CIRCLE
+2B31	needsfix__threeleftwardsarrows	THREE LEFTWARDS ARROWS
+2B32	needsfix__leftarrowwithcircledplus	LEFT ARROW WITH CIRCLED PLUS
+2B33	needsfix__longleftwardssquigglearrow	LONG LEFTWARDS SQUIGGLE ARROW
+2B34	needsfix__leftwardstwoheadedarrowwithverticalstroke	LEFTWARDS TWO-HEADED ARROW WITH VERTICAL STROKE
+2B35	needsfix__leftwardstwoheadedarrowwithdoubleverticalstroke	LEFTWARDS TWO-HEADED ARROW WITH DOUBLE VERTICAL STROKE
+2B36	needsfix__leftwardstwoheadedarrowfrombar	LEFTWARDS TWO-HEADED ARROW FROM BAR
+2B37	needsfix__leftwardstwoheadedtripledasharrow	LEFTWARDS TWO-HEADED TRIPLE DASH ARROW
+2B38	needsfix__leftwardsarrowwithdottedstem	LEFTWARDS ARROW WITH DOTTED STEM
+2B39	needsfix__leftwardsarrowwithtailwithverticalstroke	LEFTWARDS ARROW WITH TAIL WITH VERTICAL STROKE
+2B3A	needsfix__leftwardsarrowwithtailwithdoubleverticalstroke	LEFTWARDS ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE
+2B3B	needsfix__leftwardstwoheadedarrowwithtail	LEFTWARDS TWO-HEADED ARROW WITH TAIL
+2B3C	needsfix__leftwardstwoheadedarrowwithtailwithverticalstroke	LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH VERTICAL STROKE
+2B3D	needsfix__leftwardstwoheadedarrowwithtailwithdoubleverticalstroke	LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE
+2B3E	needsfix__leftwardsarrowthroughx	LEFTWARDS ARROW THROUGH X
+2B3F	needsfix__wavearrowpointingdirectlyleft	WAVE ARROW POINTING DIRECTLY LEFT
+2B40	needsfix__equalssignaboveleftwardsarrow	EQUALS SIGN ABOVE LEFTWARDS ARROW
+2B41	needsfix__reversetildeoperatoraboveleftwardsarrow	REVERSE TILDE OPERATOR ABOVE LEFTWARDS ARROW
+2B42	needsfix__leftwardsarrowabovereversealmostequalto	LEFTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO
+2B43	needsfix__rightwardsarrowthroughgreaterthan	RIGHTWARDS ARROW THROUGH GREATER-THAN
+2B44	needsfix__rightwardsarrowthroughsuperset	RIGHTWARDS ARROW THROUGH SUPERSET
+2B45	needsfix__leftwardsquadruplearrow	LEFTWARDS QUADRUPLE ARROW
+2B46	needsfix__rightwardsquadruplearrow	RIGHTWARDS QUADRUPLE ARROW
+2B47	needsfix__reversetildeoperatoraboverightwardsarrow	REVERSE TILDE OPERATOR ABOVE RIGHTWARDS ARROW
+2B48	needsfix__rightwardsarrowabovereversealmostequalto	RIGHTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO
+2B49	needsfix__tildeoperatoraboveleftwardsarrow	TILDE OPERATOR ABOVE LEFTWARDS ARROW
+2B4A	needsfix__leftwardsarrowabovealmostequalto	LEFTWARDS ARROW ABOVE ALMOST EQUAL TO
+2B4B	needsfix__leftwardsarrowabovereversetildeoperator	LEFTWARDS ARROW ABOVE REVERSE TILDE OPERATOR
+2B4C	needsfix__rightwardsarrowabovereversetildeoperator	RIGHTWARDS ARROW ABOVE REVERSE TILDE OPERATOR
+2B50	needsfix__whitemediumstar	WHITE MEDIUM STAR
+2B51	needsfix__blacksmallstar	BLACK SMALL STAR
+2B52	needsfix__whitesmallstar	WHITE SMALL STAR
+2B53	needsfix__blackrightpointingpentagon	BLACK RIGHT-POINTING PENTAGON
+2B54	needsfix__whiterightpointingpentagon	WHITE RIGHT-POINTING PENTAGON
+2B55	needsfix__heavylargecircle	HEAVY LARGE CIRCLE
+2B56	needsfix__heavyovalwithovalinside	HEAVY OVAL WITH OVAL INSIDE
+2B57	needsfix__heavycirclewithcircleinside	HEAVY CIRCLE WITH CIRCLE INSIDE
+2B58	needsfix__heavycircle	HEAVY CIRCLE
+2B59	needsfix__heavycircledsaltire	HEAVY CIRCLED SALTIRE

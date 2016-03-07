@@ -1,0 +1,81 @@
+# Spacing Modifier Letters 02B0 - 02FF
+02B0	needsfix__modifierlettersmallh	MODIFIER LETTER SMALL H
+02B1	needsfix__modifierlettersmallhwithhook	MODIFIER LETTER SMALL H WITH HOOK
+02B2	needsfix__modifierlettersmallj	MODIFIER LETTER SMALL J
+02B3	needsfix__modifierlettersmallr	MODIFIER LETTER SMALL R
+02B4	needsfix__modifierlettersmallturnedr	MODIFIER LETTER SMALL TURNED R
+02B5	needsfix__modifierlettersmallturnedrwithhook	MODIFIER LETTER SMALL TURNED R WITH HOOK
+02B6	needsfix__modifierlettersmallcapitalinvertedr	MODIFIER LETTER SMALL CAPITAL INVERTED R
+02B7	needsfix__modifierlettersmallw	MODIFIER LETTER SMALL W
+02B8	needsfix__modifierlettersmally	MODIFIER LETTER SMALL Y
+02B9	needsfix__modifierletterprime	MODIFIER LETTER PRIME
+02BA	needsfix__modifierletterdoubleprime	MODIFIER LETTER DOUBLE PRIME
+02BB	needsfix__modifierletterturnedcomma	MODIFIER LETTER TURNED COMMA
+02BC	needsfix__modifierletterapostrophe	MODIFIER LETTER APOSTROPHE
+02BD	needsfix__modifierletterreversedcomma	MODIFIER LETTER REVERSED COMMA
+02BE	needsfix__modifierletterrighthalfring	MODIFIER LETTER RIGHT HALF RING
+02BF	needsfix__modifierletterlefthalfring	MODIFIER LETTER LEFT HALF RING
+02C0	needsfix__modifierletterglottalstop	MODIFIER LETTER GLOTTAL STOP
+02C1	needsfix__modifierletterreversedglottalstop	MODIFIER LETTER REVERSED GLOTTAL STOP
+02C2	needsfix__modifierletterleftarrowhead	MODIFIER LETTER LEFT ARROWHEAD
+02C3	needsfix__modifierletterrightarrowhead	MODIFIER LETTER RIGHT ARROWHEAD
+02C4	needsfix__modifierletteruparrowhead	MODIFIER LETTER UP ARROWHEAD
+02C5	needsfix__modifierletterdownarrowhead	MODIFIER LETTER DOWN ARROWHEAD
+02C6	needsfix__circumflex	MODIFIER LETTER CIRCUMFLEX ACCENT
+02C7	needsfix__caron	CARON
+02C8	needsfix__modifierletterverticalline	MODIFIER LETTER VERTICAL LINE
+02C9	needsfix__modifierlettermacron	MODIFIER LETTER MACRON
+02CA	needsfix__modifierletteracuteaccent	MODIFIER LETTER ACUTE ACCENT
+02CB	needsfix__modifierlettergraveaccent	MODIFIER LETTER GRAVE ACCENT
+02CC	needsfix__modifierletterlowverticalline	MODIFIER LETTER LOW VERTICAL LINE
+02CD	needsfix__modifierletterlowmacron	MODIFIER LETTER LOW MACRON
+02CE	needsfix__modifierletterlowgraveaccent	MODIFIER LETTER LOW GRAVE ACCENT
+02CF	needsfix__modifierletterlowacuteaccent	MODIFIER LETTER LOW ACUTE ACCENT
+02D0	needsfix__modifierlettertriangularcolon	MODIFIER LETTER TRIANGULAR COLON
+02D1	needsfix__modifierletterhalftriangularcolon	MODIFIER LETTER HALF TRIANGULAR COLON
+02D2	needsfix__modifierlettercentredrighthalfring	MODIFIER LETTER CENTRED RIGHT HALF RING
+02D3	needsfix__modifierlettercentredlefthalfring	MODIFIER LETTER CENTRED LEFT HALF RING
+02D4	needsfix__modifierletteruptack	MODIFIER LETTER UP TACK
+02D5	needsfix__modifierletterdowntack	MODIFIER LETTER DOWN TACK
+02D6	needsfix__modifierletterplussign	MODIFIER LETTER PLUS SIGN
+02D7	needsfix__modifierletterminussign	MODIFIER LETTER MINUS SIGN
+02D8	needsfix__breve	BREVE
+02D9	needsfix__dotaccent	DOT ABOVE
+02DA	needsfix__ring	RING ABOVE
+02DB	needsfix__ogonek	OGONEK
+02DC	needsfix__tilde	SMALL TILDE
+02DD	needsfix__hungarumlaut	DOUBLE ACUTE ACCENT
+02DE	needsfix__modifierletterrhotichook	MODIFIER LETTER RHOTIC HOOK
+02DF	needsfix__modifierlettercrossaccent	MODIFIER LETTER CROSS ACCENT
+02E0	needsfix__modifierlettersmallgamma	MODIFIER LETTER SMALL GAMMA
+02E1	needsfix__modifierlettersmalll	MODIFIER LETTER SMALL L
+02E2	needsfix__modifierlettersmalls	MODIFIER LETTER SMALL S
+02E3	needsfix__modifierlettersmallx	MODIFIER LETTER SMALL X
+02E4	needsfix__modifierlettersmallreversedglottalstop	MODIFIER LETTER SMALL REVERSED GLOTTAL STOP
+02E5	needsfix__modifierletterextrahightonebar	MODIFIER LETTER EXTRA-HIGH TONE BAR
+02E6	needsfix__modifierletterhightonebar	MODIFIER LETTER HIGH TONE BAR
+02E7	needsfix__modifierlettermidtonebar	MODIFIER LETTER MID TONE BAR
+02E8	needsfix__modifierletterlowtonebar	MODIFIER LETTER LOW TONE BAR
+02E9	needsfix__modifierletterextralowtonebar	MODIFIER LETTER EXTRA-LOW TONE BAR
+02EA	needsfix__modifierletteryindepartingtonemark	MODIFIER LETTER YIN DEPARTING TONE MARK
+02EB	needsfix__modifierletteryangdepartingtonemark	MODIFIER LETTER YANG DEPARTING TONE MARK
+02EC	needsfix__modifierlettervoicing	MODIFIER LETTER VOICING
+02ED	needsfix__modifierletterunaspirated	MODIFIER LETTER UNASPIRATED
+02EE	needsfix__modifierletterdoubleapostrophe	MODIFIER LETTER DOUBLE APOSTROPHE
+02EF	needsfix__modifierletterlowdownarrowhead	MODIFIER LETTER LOW DOWN ARROWHEAD
+02F0	needsfix__modifierletterlowuparrowhead	MODIFIER LETTER LOW UP ARROWHEAD
+02F1	needsfix__modifierletterlowleftarrowhead	MODIFIER LETTER LOW LEFT ARROWHEAD
+02F2	needsfix__modifierletterlowrightarrowhead	MODIFIER LETTER LOW RIGHT ARROWHEAD
+02F3	needsfix__modifierletterlowring	MODIFIER LETTER LOW RING
+02F4	needsfix__modifierlettermiddlegraveaccent	MODIFIER LETTER MIDDLE GRAVE ACCENT
+02F5	needsfix__modifierlettermiddledoublegraveaccent	MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT
+02F6	needsfix__modifierlettermiddledoubleacuteaccent	MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT
+02F7	needsfix__modifierletterlowtilde	MODIFIER LETTER LOW TILDE
+02F8	needsfix__modifierletterraisedcolon	MODIFIER LETTER RAISED COLON
+02F9	needsfix__modifierletterbeginhightone	MODIFIER LETTER BEGIN HIGH TONE
+02FA	needsfix__modifierletterendhightone	MODIFIER LETTER END HIGH TONE
+02FB	needsfix__modifierletterbeginlowtone	MODIFIER LETTER BEGIN LOW TONE
+02FC	needsfix__modifierletterendlowtone	MODIFIER LETTER END LOW TONE
+02FD	needsfix__modifierlettershelf	MODIFIER LETTER SHELF
+02FE	needsfix__modifierletteropenshelf	MODIFIER LETTER OPEN SHELF
+02FF	needsfix__modifierletterlowleftarrow	MODIFIER LETTER LOW LEFT ARROW

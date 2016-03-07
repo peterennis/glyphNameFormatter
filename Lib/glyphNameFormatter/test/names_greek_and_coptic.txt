@@ -1,0 +1,135 @@
+# Greek and Coptic 0370 - 03FF
+0370	needsfix__greekcapitalletterheta	GREEK CAPITAL LETTER HETA
+0371	needsfix__greeksmallletterheta	GREEK SMALL LETTER HETA
+0372	needsfix__greekcapitalletterarchaicsampi	GREEK CAPITAL LETTER ARCHAIC SAMPI
+0373	needsfix__greeksmallletterarchaicsampi	GREEK SMALL LETTER ARCHAIC SAMPI
+0374	needsfix__greeknumeralsign	GREEK NUMERAL SIGN
+0375	needsfix__greeklowernumeralsign	GREEK LOWER NUMERAL SIGN
+0376	needsfix__greekcapitalletterpamphyliandigamma	GREEK CAPITAL LETTER PAMPHYLIAN DIGAMMA
+0377	needsfix__greeksmallletterpamphyliandigamma	GREEK SMALL LETTER PAMPHYLIAN DIGAMMA
+037A	needsfix__greekypogegrammeni	GREEK YPOGEGRAMMENI
+037B	needsfix__greeksmallreversedlunatesigmasymbol	GREEK SMALL REVERSED LUNATE SIGMA SYMBOL
+037C	needsfix__greeksmalldottedlunatesigmasymbol	GREEK SMALL DOTTED LUNATE SIGMA SYMBOL
+037D	needsfix__greeksmallreverseddottedlunatesigmasymbol	GREEK SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL
+037E	needsfix__greekquestionmark	GREEK QUESTION MARK
+0384	needsfix__greektonos	GREEK TONOS
+0385	needsfix__greekdialytikatonos	GREEK DIALYTIKA TONOS
+0386	needsfix__greekcapitalletteralphawithtonos	GREEK CAPITAL LETTER ALPHA WITH TONOS
+0387	needsfix__greekanoteleia	GREEK ANO TELEIA
+0388	needsfix__greekcapitalletterepsilonwithtonos	GREEK CAPITAL LETTER EPSILON WITH TONOS
+0389	needsfix__greekcapitalletteretawithtonos	GREEK CAPITAL LETTER ETA WITH TONOS
+038A	needsfix__greekcapitalletteriotawithtonos	GREEK CAPITAL LETTER IOTA WITH TONOS
+038C	needsfix__greekcapitalletteromicronwithtonos	GREEK CAPITAL LETTER OMICRON WITH TONOS
+038E	needsfix__greekcapitalletterupsilonwithtonos	GREEK CAPITAL LETTER UPSILON WITH TONOS
+038F	needsfix__greekcapitalletteromegawithtonos	GREEK CAPITAL LETTER OMEGA WITH TONOS
+0390	needsfix__greeksmallletteriotawithdialytikaandtonos	GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
+0391	needsfix__greekcapitalletteralpha	GREEK CAPITAL LETTER ALPHA
+0392	needsfix__greekcapitalletterbeta	GREEK CAPITAL LETTER BETA
+0393	needsfix__greekcapitallettergamma	GREEK CAPITAL LETTER GAMMA
+0394	needsfix__greekcapitalletterdelta	GREEK CAPITAL LETTER DELTA
+0395	needsfix__greekcapitalletterepsilon	GREEK CAPITAL LETTER EPSILON
+0396	needsfix__greekcapitalletterzeta	GREEK CAPITAL LETTER ZETA
+0397	needsfix__greekcapitallettereta	GREEK CAPITAL LETTER ETA
+0398	needsfix__greekcapitallettertheta	GREEK CAPITAL LETTER THETA
+0399	needsfix__greekcapitalletteriota	GREEK CAPITAL LETTER IOTA
+039A	needsfix__greekcapitalletterkappa	GREEK CAPITAL LETTER KAPPA
+039B	needsfix__greekcapitalletterlamda	GREEK CAPITAL LETTER LAMDA
+039C	needsfix__greekcapitallettermu	GREEK CAPITAL LETTER MU
+039D	needsfix__greekcapitalletternu	GREEK CAPITAL LETTER NU
+039E	needsfix__greekcapitalletterxi	GREEK CAPITAL LETTER XI
+039F	needsfix__greekcapitalletteromicron	GREEK CAPITAL LETTER OMICRON
+03A0	needsfix__greekcapitalletterpi	GREEK CAPITAL LETTER PI
+03A1	needsfix__greekcapitalletterrho	GREEK CAPITAL LETTER RHO
+03A3	needsfix__greekcapitallettersigma	GREEK CAPITAL LETTER SIGMA
+03A4	needsfix__greekcapitallettertau	GREEK CAPITAL LETTER TAU
+03A5	needsfix__greekcapitalletterupsilon	GREEK CAPITAL LETTER UPSILON
+03A6	needsfix__greekcapitalletterphi	GREEK CAPITAL LETTER PHI
+03A7	needsfix__greekcapitalletterchi	GREEK CAPITAL LETTER CHI
+03A8	needsfix__greekcapitalletterpsi	GREEK CAPITAL LETTER PSI
+03A9	needsfix__greekcapitalletteromega	GREEK CAPITAL LETTER OMEGA
+03AA	needsfix__greekcapitalletteriotawithdialytika	GREEK CAPITAL LETTER IOTA WITH DIALYTIKA
+03AB	needsfix__greekcapitalletterupsilonwithdialytika	GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA
+03AC	needsfix__greeksmallletteralphawithtonos	GREEK SMALL LETTER ALPHA WITH TONOS
+03AD	needsfix__greeksmallletterepsilonwithtonos	GREEK SMALL LETTER EPSILON WITH TONOS
+03AE	needsfix__greeksmallletteretawithtonos	GREEK SMALL LETTER ETA WITH TONOS
+03AF	needsfix__greeksmallletteriotawithtonos	GREEK SMALL LETTER IOTA WITH TONOS
+03B0	needsfix__greeksmallletterupsilonwithdialytikaandtonos	GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
+03B1	needsfix__greeksmallletteralpha	GREEK SMALL LETTER ALPHA
+03B2	needsfix__greeksmallletterbeta	GREEK SMALL LETTER BETA
+03B3	needsfix__greeksmalllettergamma	GREEK SMALL LETTER GAMMA
+03B4	needsfix__greeksmallletterdelta	GREEK SMALL LETTER DELTA
+03B5	needsfix__greeksmallletterepsilon	GREEK SMALL LETTER EPSILON
+03B6	needsfix__greeksmallletterzeta	GREEK SMALL LETTER ZETA
+03B7	needsfix__greeksmalllettereta	GREEK SMALL LETTER ETA
+03B8	needsfix__greeksmalllettertheta	GREEK SMALL LETTER THETA
+03B9	needsfix__greeksmallletteriota	GREEK SMALL LETTER IOTA
+03BA	needsfix__greeksmallletterkappa	GREEK SMALL LETTER KAPPA
+03BB	needsfix__greeksmallletterlamda	GREEK SMALL LETTER LAMDA
+03BC	needsfix__greeksmalllettermu	GREEK SMALL LETTER MU
+03BD	needsfix__greeksmallletternu	GREEK SMALL LETTER NU
+03BE	needsfix__greeksmallletterxi	GREEK SMALL LETTER XI
+03BF	needsfix__greeksmallletteromicron	GREEK SMALL LETTER OMICRON
+03C0	needsfix__greeksmallletterpi	GREEK SMALL LETTER PI
+03C1	needsfix__greeksmallletterrho	GREEK SMALL LETTER RHO
+03C2	needsfix__greeksmallletterfinalsigma	GREEK SMALL LETTER FINAL SIGMA
+03C3	needsfix__greeksmalllettersigma	GREEK SMALL LETTER SIGMA
+03C4	needsfix__greeksmalllettertau	GREEK SMALL LETTER TAU
+03C5	needsfix__greeksmallletterupsilon	GREEK SMALL LETTER UPSILON
+03C6	needsfix__greeksmallletterphi	GREEK SMALL LETTER PHI
+03C7	needsfix__greeksmallletterchi	GREEK SMALL LETTER CHI
+03C8	needsfix__greeksmallletterpsi	GREEK SMALL LETTER PSI
+03C9	needsfix__greeksmallletteromega	GREEK SMALL LETTER OMEGA
+03CA	needsfix__greeksmallletteriotawithdialytika	GREEK SMALL LETTER IOTA WITH DIALYTIKA
+03CB	needsfix__greeksmallletterupsilonwithdialytika	GREEK SMALL LETTER UPSILON WITH DIALYTIKA
+03CC	needsfix__greeksmallletteromicronwithtonos	GREEK SMALL LETTER OMICRON WITH TONOS
+03CD	needsfix__greeksmallletterupsilonwithtonos	GREEK SMALL LETTER UPSILON WITH TONOS
+03CE	needsfix__greeksmallletteromegawithtonos	GREEK SMALL LETTER OMEGA WITH TONOS
+03CF	needsfix__greekcapitalkaisymbol	GREEK CAPITAL KAI SYMBOL
+03D0	needsfix__greekbetasymbol	GREEK BETA SYMBOL
+03D1	needsfix__greekthetasymbol	GREEK THETA SYMBOL
+03D2	needsfix__greekupsilonwithhooksymbol	GREEK UPSILON WITH HOOK SYMBOL
+03D3	needsfix__greekupsilonwithacuteandhooksymbol	GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+03D4	needsfix__greekupsilonwithdiaeresisandhooksymbol	GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL
+03D5	needsfix__greekphisymbol	GREEK PHI SYMBOL
+03D6	needsfix__greekpisymbol	GREEK PI SYMBOL
+03D7	needsfix__greekkaisymbol	GREEK KAI SYMBOL
+03D8	needsfix__greekletterarchaickoppa	GREEK LETTER ARCHAIC KOPPA
+03D9	needsfix__greeksmallletterarchaickoppa	GREEK SMALL LETTER ARCHAIC KOPPA
+03DA	needsfix__greekletterstigma	GREEK LETTER STIGMA
+03DB	needsfix__greeksmallletterstigma	GREEK SMALL LETTER STIGMA
+03DC	needsfix__greekletterdigamma	GREEK LETTER DIGAMMA
+03DD	needsfix__greeksmallletterdigamma	GREEK SMALL LETTER DIGAMMA
+03DE	needsfix__greekletterkoppa	GREEK LETTER KOPPA
+03DF	needsfix__greeksmallletterkoppa	GREEK SMALL LETTER KOPPA
+03E0	needsfix__greeklettersampi	GREEK LETTER SAMPI
+03E1	needsfix__greeksmalllettersampi	GREEK SMALL LETTER SAMPI
+03E2	needsfix__copticcapitallettershei	COPTIC CAPITAL LETTER SHEI
+03E3	needsfix__copticsmalllettershei	COPTIC SMALL LETTER SHEI
+03E4	needsfix__copticcapitalletterfei	COPTIC CAPITAL LETTER FEI
+03E5	needsfix__copticsmallletterfei	COPTIC SMALL LETTER FEI
+03E6	needsfix__copticcapitalletterkhei	COPTIC CAPITAL LETTER KHEI
+03E7	needsfix__copticsmallletterkhei	COPTIC SMALL LETTER KHEI
+03E8	needsfix__copticcapitalletterhori	COPTIC CAPITAL LETTER HORI
+03E9	needsfix__copticsmallletterhori	COPTIC SMALL LETTER HORI
+03EA	needsfix__copticcapitallettergangia	COPTIC CAPITAL LETTER GANGIA
+03EB	needsfix__copticsmalllettergangia	COPTIC SMALL LETTER GANGIA
+03EC	needsfix__copticcapitallettershima	COPTIC CAPITAL LETTER SHIMA
+03ED	needsfix__copticsmalllettershima	COPTIC SMALL LETTER SHIMA
+03EE	needsfix__copticcapitalletterdei	COPTIC CAPITAL LETTER DEI
+03EF	needsfix__copticsmallletterdei	COPTIC SMALL LETTER DEI
+03F0	needsfix__greekkappasymbol	GREEK KAPPA SYMBOL
+03F1	needsfix__greekrhosymbol	GREEK RHO SYMBOL
+03F2	needsfix__greeklunatesigmasymbol	GREEK LUNATE SIGMA SYMBOL
+03F3	needsfix__greekletteryot	GREEK LETTER YOT
+03F4	needsfix__greekcapitalthetasymbol	GREEK CAPITAL THETA SYMBOL
+03F5	needsfix__greeklunateepsilonsymbol	GREEK LUNATE EPSILON SYMBOL
+03F6	needsfix__greekreversedlunateepsilonsymbol	GREEK REVERSED LUNATE EPSILON SYMBOL
+03F7	needsfix__greekcapitallettersho	GREEK CAPITAL LETTER SHO
+03F8	needsfix__greeksmalllettersho	GREEK SMALL LETTER SHO
+03F9	needsfix__greekcapitallunatesigmasymbol	GREEK CAPITAL LUNATE SIGMA SYMBOL
+03FA	needsfix__greekcapitallettersan	GREEK CAPITAL LETTER SAN
+03FB	needsfix__greeksmalllettersan	GREEK SMALL LETTER SAN
+03FC	needsfix__greekrhowithstrokesymbol	GREEK RHO WITH STROKE SYMBOL
+03FD	needsfix__greekcapitalreversedlunatesigmasymbol	GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL
+03FE	needsfix__greekcapitaldottedlunatesigmasymbol	GREEK CAPITAL DOTTED LUNATE SIGMA SYMBOL
+03FF	needsfix__greekcapitalreverseddottedlunatesigmasymbol	GREEK CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL

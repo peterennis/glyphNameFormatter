@@ -1,0 +1,40 @@
+# Control Pictures 2400 - 243F
+2400	needsfix__symbolfornull	SYMBOL FOR NULL
+2401	needsfix__symbolforstartofheading	SYMBOL FOR START OF HEADING
+2402	needsfix__symbolforstartoftext	SYMBOL FOR START OF TEXT
+2403	needsfix__symbolforendoftext	SYMBOL FOR END OF TEXT
+2404	needsfix__symbolforendoftransmission	SYMBOL FOR END OF TRANSMISSION
+2405	needsfix__symbolforenquiry	SYMBOL FOR ENQUIRY
+2406	needsfix__symbolforacknowledge	SYMBOL FOR ACKNOWLEDGE
+2407	needsfix__symbolforbell	SYMBOL FOR BELL
+2408	needsfix__symbolforbackspace	SYMBOL FOR BACKSPACE
+2409	needsfix__symbolforhorizontaltabulation	SYMBOL FOR HORIZONTAL TABULATION
+240A	needsfix__symbolforlinefeed	SYMBOL FOR LINE FEED
+240B	needsfix__symbolforverticaltabulation	SYMBOL FOR VERTICAL TABULATION
+240C	needsfix__symbolforformfeed	SYMBOL FOR FORM FEED
+240D	needsfix__symbolforcarriagereturn	SYMBOL FOR CARRIAGE RETURN
+240E	needsfix__symbolforshiftout	SYMBOL FOR SHIFT OUT
+240F	needsfix__symbolforshiftin	SYMBOL FOR SHIFT IN
+2410	needsfix__symbolfordatalinkescape	SYMBOL FOR DATA LINK ESCAPE
+2411	needsfix__symbolfordevicecontrolone	SYMBOL FOR DEVICE CONTROL ONE
+2412	needsfix__symbolfordevicecontroltwo	SYMBOL FOR DEVICE CONTROL TWO
+2413	needsfix__symbolfordevicecontrolthree	SYMBOL FOR DEVICE CONTROL THREE
+2414	needsfix__symbolfordevicecontrolfour	SYMBOL FOR DEVICE CONTROL FOUR
+2415	needsfix__symbolfornegativeacknowledge	SYMBOL FOR NEGATIVE ACKNOWLEDGE
+2416	needsfix__symbolforsynchronousidle	SYMBOL FOR SYNCHRONOUS IDLE
+2417	needsfix__symbolforendoftransmissionblock	SYMBOL FOR END OF TRANSMISSION BLOCK
+2418	needsfix__symbolforcancel	SYMBOL FOR CANCEL
+2419	needsfix__symbolforendofmedium	SYMBOL FOR END OF MEDIUM
+241A	needsfix__symbolforsubstitute	SYMBOL FOR SUBSTITUTE
+241B	needsfix__symbolforescape	SYMBOL FOR ESCAPE
+241C	needsfix__symbolforfileseparator	SYMBOL FOR FILE SEPARATOR
+241D	needsfix__symbolforgroupseparator	SYMBOL FOR GROUP SEPARATOR
+241E	needsfix__symbolforrecordseparator	SYMBOL FOR RECORD SEPARATOR
+241F	needsfix__symbolforunitseparator	SYMBOL FOR UNIT SEPARATOR
+2420	needsfix__symbolforspace	SYMBOL FOR SPACE
+2421	needsfix__symbolfordelete	SYMBOL FOR DELETE
+2422	needsfix__blanksymbol	BLANK SYMBOL
+2423	needsfix__openbox	OPEN BOX
+2424	needsfix__symbolfornewline	SYMBOL FOR NEWLINE
+2425	needsfix__symbolfordeleteformtwo	SYMBOL FOR DELETE FORM TWO
+2426	needsfix__symbolforsubstituteformtwo	SYMBOL FOR SUBSTITUTE FORM TWO

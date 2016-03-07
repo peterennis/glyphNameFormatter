@@ -1,0 +1,27 @@
+# Small Form Variants FE50 - FE6F
+FE50	needsfix__smallcomma	SMALL COMMA
+FE51	needsfix__smallideographiccomma	SMALL IDEOGRAPHIC COMMA
+FE52	needsfix__smallfullstop	SMALL FULL STOP
+FE54	needsfix__smallsemicolon	SMALL SEMICOLON
+FE55	needsfix__smallcolon	SMALL COLON
+FE56	needsfix__smallquestionmark	SMALL QUESTION MARK
+FE57	needsfix__smallexclamationmark	SMALL EXCLAMATION MARK
+FE58	needsfix__smallemdash	SMALL EM DASH
+FE59	needsfix__smallleftparenthesis	SMALL LEFT PARENTHESIS
+FE5A	needsfix__smallrightparenthesis	SMALL RIGHT PARENTHESIS
+FE5B	needsfix__smallleftcurlybracket	SMALL LEFT CURLY BRACKET
+FE5C	needsfix__smallrightcurlybracket	SMALL RIGHT CURLY BRACKET
+FE5D	needsfix__smalllefttortoiseshellbracket	SMALL LEFT TORTOISE SHELL BRACKET
+FE5E	needsfix__smallrighttortoiseshellbracket	SMALL RIGHT TORTOISE SHELL BRACKET
+FE5F	needsfix__smallnumbersign	SMALL NUMBER SIGN
+FE60	needsfix__smallampersand	SMALL AMPERSAND
+FE61	needsfix__smallasterisk	SMALL ASTERISK
+FE62	needsfix__smallplussign	SMALL PLUS SIGN
+FE63	needsfix__smallhyphenminus	SMALL HYPHEN-MINUS
+FE64	needsfix__smalllessthansign	SMALL LESS-THAN SIGN
+FE65	needsfix__smallgreaterthansign	SMALL GREATER-THAN SIGN
+FE66	needsfix__smallequalssign	SMALL EQUALS SIGN
+FE68	needsfix__smallreversesolidus	SMALL REVERSE SOLIDUS
+FE69	needsfix__smalldollarsign	SMALL DOLLAR SIGN
+FE6A	needsfix__smallpercentsign	SMALL PERCENT SIGN
+FE6B	needsfix__smallcommercialat	SMALL COMMERCIAL AT

@@ -1,0 +1,161 @@
+# Myanmar 1000 - 109F
+1000	needsfix__myanmarletterka	MYANMAR LETTER KA
+1001	needsfix__myanmarletterkha	MYANMAR LETTER KHA
+1002	needsfix__myanmarletterga	MYANMAR LETTER GA
+1003	needsfix__myanmarlettergha	MYANMAR LETTER GHA
+1004	needsfix__myanmarletternga	MYANMAR LETTER NGA
+1005	needsfix__myanmarletterca	MYANMAR LETTER CA
+1006	needsfix__myanmarlettercha	MYANMAR LETTER CHA
+1007	needsfix__myanmarletterja	MYANMAR LETTER JA
+1008	needsfix__myanmarletterjha	MYANMAR LETTER JHA
+1009	needsfix__myanmarletternya	MYANMAR LETTER NYA
+100A	needsfix__myanmarletternnya	MYANMAR LETTER NNYA
+100B	needsfix__myanmarlettertta	MYANMAR LETTER TTA
+100C	needsfix__myanmarletterttha	MYANMAR LETTER TTHA
+100D	needsfix__myanmarletterdda	MYANMAR LETTER DDA
+100E	needsfix__myanmarletterddha	MYANMAR LETTER DDHA
+100F	needsfix__myanmarletternna	MYANMAR LETTER NNA
+1010	needsfix__myanmarletterta	MYANMAR LETTER TA
+1011	needsfix__myanmarlettertha	MYANMAR LETTER THA
+1012	needsfix__myanmarletterda	MYANMAR LETTER DA
+1013	needsfix__myanmarletterdha	MYANMAR LETTER DHA
+1014	needsfix__myanmarletterna	MYANMAR LETTER NA
+1015	needsfix__myanmarletterpa	MYANMAR LETTER PA
+1016	needsfix__myanmarletterpha	MYANMAR LETTER PHA
+1017	needsfix__myanmarletterba	MYANMAR LETTER BA
+1018	needsfix__myanmarletterbha	MYANMAR LETTER BHA
+1019	needsfix__myanmarletterma	MYANMAR LETTER MA
+101A	needsfix__myanmarletterya	MYANMAR LETTER YA
+101B	needsfix__myanmarletterra	MYANMAR LETTER RA
+101C	needsfix__myanmarletterla	MYANMAR LETTER LA
+101D	needsfix__myanmarletterwa	MYANMAR LETTER WA
+101E	needsfix__myanmarlettersa	MYANMAR LETTER SA
+101F	needsfix__myanmarletterha	MYANMAR LETTER HA
+1020	needsfix__myanmarletterlla	MYANMAR LETTER LLA
+1021	needsfix__myanmarlettera	MYANMAR LETTER A
+1022	needsfix__myanmarlettershana	MYANMAR LETTER SHAN A
+1023	needsfix__myanmarletteri	MYANMAR LETTER I
+1024	needsfix__myanmarletterii	MYANMAR LETTER II
+1025	needsfix__myanmarletteru	MYANMAR LETTER U
+1026	needsfix__myanmarletteruu	MYANMAR LETTER UU
+1027	needsfix__myanmarlettere	MYANMAR LETTER E
+1028	needsfix__myanmarlettermone	MYANMAR LETTER MON E
+1029	needsfix__myanmarlettero	MYANMAR LETTER O
+102A	needsfix__myanmarletterau	MYANMAR LETTER AU
+102B	needsfix__myanmarvowelsigntallaa	MYANMAR VOWEL SIGN TALL AA
+102C	needsfix__myanmarvowelsignaa	MYANMAR VOWEL SIGN AA
+102D	needsfix__myanmarvowelsigni	MYANMAR VOWEL SIGN I
+102E	needsfix__myanmarvowelsignii	MYANMAR VOWEL SIGN II
+102F	needsfix__myanmarvowelsignu	MYANMAR VOWEL SIGN U
+1030	needsfix__myanmarvowelsignuu	MYANMAR VOWEL SIGN UU
+1031	needsfix__myanmarvowelsigne	MYANMAR VOWEL SIGN E
+1032	needsfix__myanmarvowelsignai	MYANMAR VOWEL SIGN AI
+1033	needsfix__myanmarvowelsignmonii	MYANMAR VOWEL SIGN MON II
+1034	needsfix__myanmarvowelsignmono	MYANMAR VOWEL SIGN MON O
+1035	needsfix__myanmarvowelsigneabove	MYANMAR VOWEL SIGN E ABOVE
+1036	needsfix__myanmarsignanusvara	MYANMAR SIGN ANUSVARA
+1037	needsfix__myanmarsigndotbelow	MYANMAR SIGN DOT BELOW
+1038	needsfix__myanmarsignvisarga	MYANMAR SIGN VISARGA
+1039	needsfix__myanmarsignvirama	MYANMAR SIGN VIRAMA
+103A	needsfix__myanmarsignasat	MYANMAR SIGN ASAT
+103B	needsfix__myanmarconsonantsignmedialya	MYANMAR CONSONANT SIGN MEDIAL YA
+103C	needsfix__myanmarconsonantsignmedialra	MYANMAR CONSONANT SIGN MEDIAL RA
+103D	needsfix__myanmarconsonantsignmedialwa	MYANMAR CONSONANT SIGN MEDIAL WA
+103E	needsfix__myanmarconsonantsignmedialha	MYANMAR CONSONANT SIGN MEDIAL HA
+103F	needsfix__myanmarlettergreatsa	MYANMAR LETTER GREAT SA
+1040	needsfix__myanmardigitzero	MYANMAR DIGIT ZERO
+1041	needsfix__myanmardigitone	MYANMAR DIGIT ONE
+1042	needsfix__myanmardigittwo	MYANMAR DIGIT TWO
+1043	needsfix__myanmardigitthree	MYANMAR DIGIT THREE
+1044	needsfix__myanmardigitfour	MYANMAR DIGIT FOUR
+1045	needsfix__myanmardigitfive	MYANMAR DIGIT FIVE
+1046	needsfix__myanmardigitsix	MYANMAR DIGIT SIX
+1047	needsfix__myanmardigitseven	MYANMAR DIGIT SEVEN
+1048	needsfix__myanmardigiteight	MYANMAR DIGIT EIGHT
+1049	needsfix__myanmardigitnine	MYANMAR DIGIT NINE
+104A	needsfix__myanmarsignlittlesection	MYANMAR SIGN LITTLE SECTION
+104B	needsfix__myanmarsignsection	MYANMAR SIGN SECTION
+104C	needsfix__myanmarsymbollocative	MYANMAR SYMBOL LOCATIVE
+104D	needsfix__myanmarsymbolcompleted	MYANMAR SYMBOL COMPLETED
+104E	needsfix__myanmarsymbolaforementioned	MYANMAR SYMBOL AFOREMENTIONED
+104F	needsfix__myanmarsymbolgenitive	MYANMAR SYMBOL GENITIVE
+1050	needsfix__myanmarlettersha	MYANMAR LETTER SHA
+1051	needsfix__myanmarletterssa	MYANMAR LETTER SSA
+1052	needsfix__myanmarlettervocalicr	MYANMAR LETTER VOCALIC R
+1053	needsfix__myanmarlettervocalicrr	MYANMAR LETTER VOCALIC RR
+1054	needsfix__myanmarlettervocalicl	MYANMAR LETTER VOCALIC L
+1055	needsfix__myanmarlettervocalicll	MYANMAR LETTER VOCALIC LL
+1056	needsfix__myanmarvowelsignvocalicr	MYANMAR VOWEL SIGN VOCALIC R
+1057	needsfix__myanmarvowelsignvocalicrr	MYANMAR VOWEL SIGN VOCALIC RR
+1058	needsfix__myanmarvowelsignvocalicl	MYANMAR VOWEL SIGN VOCALIC L
+1059	needsfix__myanmarvowelsignvocalicll	MYANMAR VOWEL SIGN VOCALIC LL
+105A	needsfix__myanmarlettermonnga	MYANMAR LETTER MON NGA
+105B	needsfix__myanmarlettermonjha	MYANMAR LETTER MON JHA
+105C	needsfix__myanmarlettermonbba	MYANMAR LETTER MON BBA
+105D	needsfix__myanmarlettermonbbe	MYANMAR LETTER MON BBE
+105E	needsfix__myanmarconsonantsignmonmedialna	MYANMAR CONSONANT SIGN MON MEDIAL NA
+105F	needsfix__myanmarconsonantsignmonmedialma	MYANMAR CONSONANT SIGN MON MEDIAL MA
+1060	needsfix__myanmarconsonantsignmonmedialla	MYANMAR CONSONANT SIGN MON MEDIAL LA
+1061	needsfix__myanmarlettersgawkarensha	MYANMAR LETTER SGAW KAREN SHA
+1062	needsfix__myanmarvowelsignsgawkareneu	MYANMAR VOWEL SIGN SGAW KAREN EU
+1063	needsfix__myanmartonemarksgawkarenhathi	MYANMAR TONE MARK SGAW KAREN HATHI
+1064	needsfix__myanmartonemarksgawkarenkepho	MYANMAR TONE MARK SGAW KAREN KE PHO
+1065	needsfix__myanmarletterwesternpwokarentha	MYANMAR LETTER WESTERN PWO KAREN THA
+1066	needsfix__myanmarletterwesternpwokarenpwa	MYANMAR LETTER WESTERN PWO KAREN PWA
+1067	needsfix__myanmarvowelsignwesternpwokareneu	MYANMAR VOWEL SIGN WESTERN PWO KAREN EU
+1068	needsfix__myanmarvowelsignwesternpwokarenue	MYANMAR VOWEL SIGN WESTERN PWO KAREN UE
+1069	needsfix__myanmarsignwesternpwokarentone1	MYANMAR SIGN WESTERN PWO KAREN TONE-1
+106A	needsfix__myanmarsignwesternpwokarentone2	MYANMAR SIGN WESTERN PWO KAREN TONE-2
+106B	needsfix__myanmarsignwesternpwokarentone3	MYANMAR SIGN WESTERN PWO KAREN TONE-3
+106C	needsfix__myanmarsignwesternpwokarentone4	MYANMAR SIGN WESTERN PWO KAREN TONE-4
+106D	needsfix__myanmarsignwesternpwokarentone5	MYANMAR SIGN WESTERN PWO KAREN TONE-5
+106E	needsfix__myanmarlettereasternpwokarennna	MYANMAR LETTER EASTERN PWO KAREN NNA
+106F	needsfix__myanmarlettereasternpwokarenywa	MYANMAR LETTER EASTERN PWO KAREN YWA
+1070	needsfix__myanmarlettereasternpwokarenghwa	MYANMAR LETTER EASTERN PWO KAREN GHWA
+1071	needsfix__myanmarvowelsigngebakareni	MYANMAR VOWEL SIGN GEBA KAREN I
+1072	needsfix__myanmarvowelsignkayahoe	MYANMAR VOWEL SIGN KAYAH OE
+1073	needsfix__myanmarvowelsignkayahu	MYANMAR VOWEL SIGN KAYAH U
+1074	needsfix__myanmarvowelsignkayahee	MYANMAR VOWEL SIGN KAYAH EE
+1075	needsfix__myanmarlettershanka	MYANMAR LETTER SHAN KA
+1076	needsfix__myanmarlettershankha	MYANMAR LETTER SHAN KHA
+1077	needsfix__myanmarlettershanga	MYANMAR LETTER SHAN GA
+1078	needsfix__myanmarlettershanca	MYANMAR LETTER SHAN CA
+1079	needsfix__myanmarlettershanza	MYANMAR LETTER SHAN ZA
+107A	needsfix__myanmarlettershannya	MYANMAR LETTER SHAN NYA
+107B	needsfix__myanmarlettershanda	MYANMAR LETTER SHAN DA
+107C	needsfix__myanmarlettershanna	MYANMAR LETTER SHAN NA
+107D	needsfix__myanmarlettershanpha	MYANMAR LETTER SHAN PHA
+107E	needsfix__myanmarlettershanfa	MYANMAR LETTER SHAN FA
+107F	needsfix__myanmarlettershanba	MYANMAR LETTER SHAN BA
+1080	needsfix__myanmarlettershantha	MYANMAR LETTER SHAN THA
+1081	needsfix__myanmarlettershanha	MYANMAR LETTER SHAN HA
+1082	needsfix__myanmarconsonantsignshanmedialwa	MYANMAR CONSONANT SIGN SHAN MEDIAL WA
+1083	needsfix__myanmarvowelsignshanaa	MYANMAR VOWEL SIGN SHAN AA
+1084	needsfix__myanmarvowelsignshane	MYANMAR VOWEL SIGN SHAN E
+1085	needsfix__myanmarvowelsignshaneabove	MYANMAR VOWEL SIGN SHAN E ABOVE
+1086	needsfix__myanmarvowelsignshanfinaly	MYANMAR VOWEL SIGN SHAN FINAL Y
+1087	needsfix__myanmarsignshantone2	MYANMAR SIGN SHAN TONE-2
+1088	needsfix__myanmarsignshantone3	MYANMAR SIGN SHAN TONE-3
+1089	needsfix__myanmarsignshantone5	MYANMAR SIGN SHAN TONE-5
+108A	needsfix__myanmarsignshantone6	MYANMAR SIGN SHAN TONE-6
+108B	needsfix__myanmarsignshancounciltone2	MYANMAR SIGN SHAN COUNCIL TONE-2
+108C	needsfix__myanmarsignshancounciltone3	MYANMAR SIGN SHAN COUNCIL TONE-3
+108D	needsfix__myanmarsignshancouncilemphatictone	MYANMAR SIGN SHAN COUNCIL EMPHATIC TONE
+108E	needsfix__myanmarletterrumaipalaungfa	MYANMAR LETTER RUMAI PALAUNG FA
+108F	needsfix__myanmarsignrumaipalaungtone5	MYANMAR SIGN RUMAI PALAUNG TONE-5
+1090	needsfix__myanmarshandigitzero	MYANMAR SHAN DIGIT ZERO
+1091	needsfix__myanmarshandigitone	MYANMAR SHAN DIGIT ONE
+1092	needsfix__myanmarshandigittwo	MYANMAR SHAN DIGIT TWO
+1093	needsfix__myanmarshandigitthree	MYANMAR SHAN DIGIT THREE
+1094	needsfix__myanmarshandigitfour	MYANMAR SHAN DIGIT FOUR
+1095	needsfix__myanmarshandigitfive	MYANMAR SHAN DIGIT FIVE
+1096	needsfix__myanmarshandigitsix	MYANMAR SHAN DIGIT SIX
+1097	needsfix__myanmarshandigitseven	MYANMAR SHAN DIGIT SEVEN
+1098	needsfix__myanmarshandigiteight	MYANMAR SHAN DIGIT EIGHT
+1099	needsfix__myanmarshandigitnine	MYANMAR SHAN DIGIT NINE
+109A	needsfix__myanmarsignkhamtitone1	MYANMAR SIGN KHAMTI TONE-1
+109B	needsfix__myanmarsignkhamtitone3	MYANMAR SIGN KHAMTI TONE-3
+109C	needsfix__myanmarvowelsignaitona	MYANMAR VOWEL SIGN AITON A
+109D	needsfix__myanmarvowelsignaitonai	MYANMAR VOWEL SIGN AITON AI
+109E	needsfix__myanmarsymbolshanone	MYANMAR SYMBOL SHAN ONE
+109F	needsfix__myanmarsymbolshanexclamation	MYANMAR SYMBOL SHAN EXCLAMATION

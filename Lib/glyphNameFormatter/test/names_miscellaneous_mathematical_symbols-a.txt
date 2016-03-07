@@ -1,0 +1,45 @@
+# Miscellaneous Mathematical Symbols-A 27C0 - 27EF
+27C0	needsfix__threedimensionalangle	THREE DIMENSIONAL ANGLE
+27C1	needsfix__whitetrianglecontainingsmallwhitetriangle	WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE
+27C2	needsfix__perpendicular	PERPENDICULAR
+27C3	needsfix__opensubset	OPEN SUBSET
+27C4	needsfix__opensuperset	OPEN SUPERSET
+27C5	needsfix__leftsshapedbagdelimiter	LEFT S-SHAPED BAG DELIMITER
+27C6	needsfix__rightsshapedbagdelimiter	RIGHT S-SHAPED BAG DELIMITER
+27C7	needsfix__orwithdotinside	OR WITH DOT INSIDE
+27C8	needsfix__reversesolidusprecedingsubset	REVERSE SOLIDUS PRECEDING SUBSET
+27C9	needsfix__supersetprecedingsolidus	SUPERSET PRECEDING SOLIDUS
+27CA	needsfix__verticalbarwithhorizontalstroke	VERTICAL BAR WITH HORIZONTAL STROKE
+27CC	needsfix__longdivision	LONG DIVISION
+27D0	needsfix__whitediamondwithcentreddot	WHITE DIAMOND WITH CENTRED DOT
+27D1	needsfix__andwithdot	AND WITH DOT
+27D2	needsfix__elementofopeningupwards	ELEMENT OF OPENING UPWARDS
+27D3	needsfix__lowerrightcornerwithdot	LOWER RIGHT CORNER WITH DOT
+27D4	needsfix__upperleftcornerwithdot	UPPER LEFT CORNER WITH DOT
+27D5	needsfix__leftouterjoin	LEFT OUTER JOIN
+27D6	needsfix__rightouterjoin	RIGHT OUTER JOIN
+27D7	needsfix__fullouterjoin	FULL OUTER JOIN
+27D8	needsfix__largeuptack	LARGE UP TACK
+27D9	needsfix__largedowntack	LARGE DOWN TACK
+27DA	needsfix__leftandrightdoubleturnstile	LEFT AND RIGHT DOUBLE TURNSTILE
+27DB	needsfix__leftandrighttack	LEFT AND RIGHT TACK
+27DC	needsfix__leftmultimap	LEFT MULTIMAP
+27DD	needsfix__longrighttack	LONG RIGHT TACK
+27DE	needsfix__longlefttack	LONG LEFT TACK
+27DF	needsfix__uptackwithcircleabove	UP TACK WITH CIRCLE ABOVE
+27E0	needsfix__lozengedividedbyhorizontalrule	LOZENGE DIVIDED BY HORIZONTAL RULE
+27E1	needsfix__whiteconcavesideddiamond	WHITE CONCAVE-SIDED DIAMOND
+27E2	needsfix__whiteconcavesideddiamondwithleftwardstick	WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK
+27E3	needsfix__whiteconcavesideddiamondwithrightwardstick	WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK
+27E4	needsfix__whitesquarewithleftwardstick	WHITE SQUARE WITH LEFTWARDS TICK
+27E5	needsfix__whitesquarewithrightwardstick	WHITE SQUARE WITH RIGHTWARDS TICK
+27E6	needsfix__mathematicalleftwhitesquarebracket	MATHEMATICAL LEFT WHITE SQUARE BRACKET
+27E7	needsfix__mathematicalrightwhitesquarebracket	MATHEMATICAL RIGHT WHITE SQUARE BRACKET
+27E8	needsfix__mathematicalleftanglebracket	MATHEMATICAL LEFT ANGLE BRACKET
+27E9	needsfix__mathematicalrightanglebracket	MATHEMATICAL RIGHT ANGLE BRACKET
+27EA	needsfix__mathematicalleftdoubleanglebracket	MATHEMATICAL LEFT DOUBLE ANGLE BRACKET
+27EB	needsfix__mathematicalrightdoubleanglebracket	MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET
+27EC	needsfix__mathematicalleftwhitetortoiseshellbracket	MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET
+27ED	needsfix__mathematicalrightwhitetortoiseshellbracket	MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET
+27EE	needsfix__mathematicalleftflattenedparenthesis	MATHEMATICAL LEFT FLATTENED PARENTHESIS
+27EF	needsfix__mathematicalrightflattenedparenthesis	MATHEMATICAL RIGHT FLATTENED PARENTHESIS

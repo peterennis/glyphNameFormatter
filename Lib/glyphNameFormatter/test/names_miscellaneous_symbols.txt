@@ -1,0 +1,251 @@
+# Miscellaneous Symbols 2600 - 26FF
+2600	needsfix__blacksunwithrays	BLACK SUN WITH RAYS
+2601	needsfix__cloud	CLOUD
+2602	needsfix__umbrella	UMBRELLA
+2603	needsfix__snowman	SNOWMAN
+2604	needsfix__comet	COMET
+2605	needsfix__blackstar	BLACK STAR
+2606	needsfix__whitestar	WHITE STAR
+2607	needsfix__lightning	LIGHTNING
+2608	needsfix__thunderstorm	THUNDERSTORM
+2609	needsfix__sun	SUN
+260A	needsfix__ascendingnode	ASCENDING NODE
+260B	needsfix__descendingnode	DESCENDING NODE
+260C	needsfix__conjunction	CONJUNCTION
+260D	needsfix__opposition	OPPOSITION
+260E	needsfix__blacktelephone	BLACK TELEPHONE
+260F	needsfix__whitetelephone	WHITE TELEPHONE
+2610	needsfix__ballotbox	BALLOT BOX
+2611	needsfix__ballotboxwithcheck	BALLOT BOX WITH CHECK
+2612	needsfix__ballotboxwithx	BALLOT BOX WITH X
+2613	needsfix__saltire	SALTIRE
+2614	needsfix__umbrellawithraindrops	UMBRELLA WITH RAIN DROPS
+2615	needsfix__hotbeverage	HOT BEVERAGE
+2616	needsfix__whiteshogipiece	WHITE SHOGI PIECE
+2617	needsfix__blackshogipiece	BLACK SHOGI PIECE
+2618	needsfix__shamrock	SHAMROCK
+2619	needsfix__reversedrotatedfloralheartbullet	REVERSED ROTATED FLORAL HEART BULLET
+261A	needsfix__blackleftpointingindex	BLACK LEFT POINTING INDEX
+261B	needsfix__blackrightpointingindex	BLACK RIGHT POINTING INDEX
+261C	needsfix__whiteleftpointingindex	WHITE LEFT POINTING INDEX
+261D	needsfix__whiteuppointingindex	WHITE UP POINTING INDEX
+261E	needsfix__whiterightpointingindex	WHITE RIGHT POINTING INDEX
+261F	needsfix__whitedownpointingindex	WHITE DOWN POINTING INDEX
+2620	needsfix__skullandcrossbones	SKULL AND CROSSBONES
+2621	needsfix__cautionsign	CAUTION SIGN
+2622	needsfix__radioactivesign	RADIOACTIVE SIGN
+2623	needsfix__biohazardsign	BIOHAZARD SIGN
+2624	needsfix__caduceus	CADUCEUS
+2625	needsfix__ankh	ANKH
+2626	needsfix__orthodoxcross	ORTHODOX CROSS
+2627	needsfix__chirho	CHI RHO
+2628	needsfix__crossoflorraine	CROSS OF LORRAINE
+2629	needsfix__crossofjerusalem	CROSS OF JERUSALEM
+262A	needsfix__starandcrescent	STAR AND CRESCENT
+262B	needsfix__farsisymbol	FARSI SYMBOL
+262C	needsfix__adishakti	ADI SHAKTI
+262D	needsfix__hammerandsickle	HAMMER AND SICKLE
+262E	needsfix__peacesymbol	PEACE SYMBOL
+262F	needsfix__yinyang	YIN YANG
+2630	needsfix__trigramforheaven	TRIGRAM FOR HEAVEN
+2631	needsfix__trigramforlake	TRIGRAM FOR LAKE
+2632	needsfix__trigramforfire	TRIGRAM FOR FIRE
+2633	needsfix__trigramforthunder	TRIGRAM FOR THUNDER
+2634	needsfix__trigramforwind	TRIGRAM FOR WIND
+2635	needsfix__trigramforwater	TRIGRAM FOR WATER
+2636	needsfix__trigramformountain	TRIGRAM FOR MOUNTAIN
+2637	needsfix__trigramforearth	TRIGRAM FOR EARTH
+2638	needsfix__wheelofdharma	WHEEL OF DHARMA
+2639	needsfix__whitefrowningface	WHITE FROWNING FACE
+263A	needsfix__smileface	WHITE SMILING FACE
+263B	needsfix__invsmileface	BLACK SMILING FACE
+263C	needsfix__sun	WHITE SUN WITH RAYS
+263D	needsfix__firstquartermoon	FIRST QUARTER MOON
+263E	needsfix__lastquartermoon	LAST QUARTER MOON
+263F	needsfix__mercury	MERCURY
+2640	needsfix__female	FEMALE SIGN
+2641	needsfix__earth	EARTH
+2642	needsfix__male	MALE SIGN
+2643	needsfix__jupiter	JUPITER
+2644	needsfix__saturn	SATURN
+2645	needsfix__uranus	URANUS
+2646	needsfix__neptune	NEPTUNE
+2647	needsfix__pluto	PLUTO
+2648	needsfix__aries	ARIES
+2649	needsfix__taurus	TAURUS
+264A	needsfix__gemini	GEMINI
+264B	needsfix__cancer	CANCER
+264C	needsfix__leo	LEO
+264D	needsfix__virgo	VIRGO
+264E	needsfix__libra	LIBRA
+264F	needsfix__scorpius	SCORPIUS
+2650	needsfix__sagittarius	SAGITTARIUS
+2651	needsfix__capricorn	CAPRICORN
+2652	needsfix__aquarius	AQUARIUS
+2653	needsfix__pisces	PISCES
+2654	needsfix__whitechessking	WHITE CHESS KING
+2655	needsfix__whitechessqueen	WHITE CHESS QUEEN
+2656	needsfix__whitechessrook	WHITE CHESS ROOK
+2657	needsfix__whitechessbishop	WHITE CHESS BISHOP
+2658	needsfix__whitechessknight	WHITE CHESS KNIGHT
+2659	needsfix__whitechesspawn	WHITE CHESS PAWN
+265A	needsfix__blackchessking	BLACK CHESS KING
+265B	needsfix__blackchessqueen	BLACK CHESS QUEEN
+265C	needsfix__blackchessrook	BLACK CHESS ROOK
+265D	needsfix__blackchessbishop	BLACK CHESS BISHOP
+265E	needsfix__blackchessknight	BLACK CHESS KNIGHT
+265F	needsfix__blackchesspawn	BLACK CHESS PAWN
+2660	needsfix__spade	BLACK SPADE SUIT
+2661	needsfix__whiteheartsuit	WHITE HEART SUIT
+2662	needsfix__whitediamondsuit	WHITE DIAMOND SUIT
+2663	needsfix__club	BLACK CLUB SUIT
+2664	needsfix__whitespadesuit	WHITE SPADE SUIT
+2665	needsfix__heart	BLACK HEART SUIT
+2666	needsfix__diamond	BLACK DIAMOND SUIT
+2667	needsfix__whiteclubsuit	WHITE CLUB SUIT
+2668	needsfix__hotsprings	HOT SPRINGS
+2669	needsfix__quarternote	QUARTER NOTE
+266A	needsfix__musicalnote	EIGHTH NOTE
+266B	needsfix__musicalnotedbl	BEAMED EIGHTH NOTES
+266C	needsfix__beamedsixteenthnotes	BEAMED SIXTEENTH NOTES
+266D	needsfix__musicflatsign	MUSIC FLAT SIGN
+266E	needsfix__musicnaturalsign	MUSIC NATURAL SIGN
+266F	needsfix__musicsharpsign	MUSIC SHARP SIGN
+2670	needsfix__westsyriaccross	WEST SYRIAC CROSS
+2671	needsfix__eastsyriaccross	EAST SYRIAC CROSS
+2672	needsfix__universalrecyclingsymbol	UNIVERSAL RECYCLING SYMBOL
+2673	needsfix__recyclingsymbolfortype1plastics	RECYCLING SYMBOL FOR TYPE-1 PLASTICS
+2674	needsfix__recyclingsymbolfortype2plastics	RECYCLING SYMBOL FOR TYPE-2 PLASTICS
+2675	needsfix__recyclingsymbolfortype3plastics	RECYCLING SYMBOL FOR TYPE-3 PLASTICS
+2676	needsfix__recyclingsymbolfortype4plastics	RECYCLING SYMBOL FOR TYPE-4 PLASTICS
+2677	needsfix__recyclingsymbolfortype5plastics	RECYCLING SYMBOL FOR TYPE-5 PLASTICS
+2678	needsfix__recyclingsymbolfortype6plastics	RECYCLING SYMBOL FOR TYPE-6 PLASTICS
+2679	needsfix__recyclingsymbolfortype7plastics	RECYCLING SYMBOL FOR TYPE-7 PLASTICS
+267A	needsfix__recyclingsymbolforgenericmaterials	RECYCLING SYMBOL FOR GENERIC MATERIALS
+267B	needsfix__blackuniversalrecyclingsymbol	BLACK UNIVERSAL RECYCLING SYMBOL
+267C	needsfix__recycledpapersymbol	RECYCLED PAPER SYMBOL
+267D	needsfix__partiallyrecycledpapersymbol	PARTIALLY-RECYCLED PAPER SYMBOL
+267E	needsfix__permanentpapersign	PERMANENT PAPER SIGN
+267F	needsfix__wheelchairsymbol	WHEELCHAIR SYMBOL
+2680	needsfix__dieface1	DIE FACE-1
+2681	needsfix__dieface2	DIE FACE-2
+2682	needsfix__dieface3	DIE FACE-3
+2683	needsfix__dieface4	DIE FACE-4
+2684	needsfix__dieface5	DIE FACE-5
+2685	needsfix__dieface6	DIE FACE-6
+2686	needsfix__whitecirclewithdotright	WHITE CIRCLE WITH DOT RIGHT
+2687	needsfix__whitecirclewithtwodots	WHITE CIRCLE WITH TWO DOTS
+2688	needsfix__blackcirclewithwhitedotright	BLACK CIRCLE WITH WHITE DOT RIGHT
+2689	needsfix__blackcirclewithtwowhitedots	BLACK CIRCLE WITH TWO WHITE DOTS
+268A	needsfix__monogramforyang	MONOGRAM FOR YANG
+268B	needsfix__monogramforyin	MONOGRAM FOR YIN
+268C	needsfix__digramforgreateryang	DIGRAM FOR GREATER YANG
+268D	needsfix__digramforlesseryin	DIGRAM FOR LESSER YIN
+268E	needsfix__digramforlesseryang	DIGRAM FOR LESSER YANG
+268F	needsfix__digramforgreateryin	DIGRAM FOR GREATER YIN
+2690	needsfix__whiteflag	WHITE FLAG
+2691	needsfix__blackflag	BLACK FLAG
+2692	needsfix__hammerandpick	HAMMER AND PICK
+2693	needsfix__anchor	ANCHOR
+2694	needsfix__crossedswords	CROSSED SWORDS
+2695	needsfix__staffofaesculapius	STAFF OF AESCULAPIUS
+2696	needsfix__scales	SCALES
+2697	needsfix__alembic	ALEMBIC
+2698	needsfix__flower	FLOWER
+2699	needsfix__gear	GEAR
+269A	needsfix__staffofhermes	STAFF OF HERMES
+269B	needsfix__atomsymbol	ATOM SYMBOL
+269C	needsfix__fleurdelis	FLEUR-DE-LIS
+269D	needsfix__outlinedwhitestar	OUTLINED WHITE STAR
+269E	needsfix__threelinesconvergingright	THREE LINES CONVERGING RIGHT
+269F	needsfix__threelinesconvergingleft	THREE LINES CONVERGING LEFT
+26A0	needsfix__warningsign	WARNING SIGN
+26A1	needsfix__highvoltagesign	HIGH VOLTAGE SIGN
+26A2	needsfix__doubledfemalesign	DOUBLED FEMALE SIGN
+26A3	needsfix__doubledmalesign	DOUBLED MALE SIGN
+26A4	needsfix__interlockedfemaleandmalesign	INTERLOCKED FEMALE AND MALE SIGN
+26A5	needsfix__maleandfemalesign	MALE AND FEMALE SIGN
+26A6	needsfix__malewithstrokesign	MALE WITH STROKE SIGN
+26A7	needsfix__malewithstrokeandmaleandfemalesign	MALE WITH STROKE AND MALE AND FEMALE SIGN
+26A8	needsfix__verticalmalewithstrokesign	VERTICAL MALE WITH STROKE SIGN
+26A9	needsfix__horizontalmalewithstrokesign	HORIZONTAL MALE WITH STROKE SIGN
+26AA	needsfix__mediumwhitecircle	MEDIUM WHITE CIRCLE
+26AB	needsfix__mediumblackcircle	MEDIUM BLACK CIRCLE
+26AC	needsfix__mediumsmallwhitecircle	MEDIUM SMALL WHITE CIRCLE
+26AD	needsfix__marriagesymbol	MARRIAGE SYMBOL
+26AE	needsfix__divorcesymbol	DIVORCE SYMBOL
+26AF	needsfix__unmarriedpartnershipsymbol	UNMARRIED PARTNERSHIP SYMBOL
+26B0	needsfix__coffin	COFFIN
+26B1	needsfix__funeralurn	FUNERAL URN
+26B2	needsfix__neuter	NEUTER
+26B3	needsfix__ceres	CERES
+26B4	needsfix__pallas	PALLAS
+26B5	needsfix__juno	JUNO
+26B6	needsfix__vesta	VESTA
+26B7	needsfix__chiron	CHIRON
+26B8	needsfix__blackmoonlilith	BLACK MOON LILITH
+26B9	needsfix__sextile	SEXTILE
+26BA	needsfix__semisextile	SEMISEXTILE
+26BB	needsfix__quincunx	QUINCUNX
+26BC	needsfix__sesquiquadrate	SESQUIQUADRATE
+26BD	needsfix__soccerball	SOCCER BALL
+26BE	needsfix__baseball	BASEBALL
+26BF	needsfix__squaredkey	SQUARED KEY
+26C0	needsfix__whitedraughtsman	WHITE DRAUGHTS MAN
+26C1	needsfix__whitedraughtsking	WHITE DRAUGHTS KING
+26C2	needsfix__blackdraughtsman	BLACK DRAUGHTS MAN
+26C3	needsfix__blackdraughtsking	BLACK DRAUGHTS KING
+26C4	needsfix__snowmanwithoutsnow	SNOWMAN WITHOUT SNOW
+26C5	needsfix__sunbehindcloud	SUN BEHIND CLOUD
+26C6	needsfix__rain	RAIN
+26C7	needsfix__blacksnowman	BLACK SNOWMAN
+26C8	needsfix__thundercloudandrain	THUNDER CLOUD AND RAIN
+26C9	needsfix__turnedwhiteshogipiece	TURNED WHITE SHOGI PIECE
+26CA	needsfix__turnedblackshogipiece	TURNED BLACK SHOGI PIECE
+26CB	needsfix__whitediamondinsquare	WHITE DIAMOND IN SQUARE
+26CC	needsfix__crossinglanes	CROSSING LANES
+26CD	needsfix__disabledcar	DISABLED CAR
+26CF	needsfix__pick	PICK
+26D0	needsfix__carsliding	CAR SLIDING
+26D1	needsfix__helmetwithwhitecross	HELMET WITH WHITE CROSS
+26D2	needsfix__circledcrossinglanes	CIRCLED CROSSING LANES
+26D3	needsfix__chains	CHAINS
+26D4	needsfix__noentry	NO ENTRY
+26D5	needsfix__alternateonewayleftwaytraffic	ALTERNATE ONE-WAY LEFT WAY TRAFFIC
+26D6	needsfix__blacktwowayleftwaytraffic	BLACK TWO-WAY LEFT WAY TRAFFIC
+26D7	needsfix__whitetwowayleftwaytraffic	WHITE TWO-WAY LEFT WAY TRAFFIC
+26D8	needsfix__blackleftlanemerge	BLACK LEFT LANE MERGE
+26D9	needsfix__whiteleftlanemerge	WHITE LEFT LANE MERGE
+26DA	needsfix__driveslowsign	DRIVE SLOW SIGN
+26DB	needsfix__heavywhitedownpointingtriangle	HEAVY WHITE DOWN-POINTING TRIANGLE
+26DC	needsfix__leftclosedentry	LEFT CLOSED ENTRY
+26DD	needsfix__squaredsaltire	SQUARED SALTIRE
+26DE	needsfix__fallingdiagonalinwhitecircleinblacksquare	FALLING DIAGONAL IN WHITE CIRCLE IN BLACK SQUARE
+26DF	needsfix__blacktruck	BLACK TRUCK
+26E0	needsfix__restrictedleftentry1	RESTRICTED LEFT ENTRY-1
+26E1	needsfix__restrictedleftentry2	RESTRICTED LEFT ENTRY-2
+26E3	needsfix__heavycirclewithstrokeandtwodotsabove	HEAVY CIRCLE WITH STROKE AND TWO DOTS ABOVE
+26E8	needsfix__blackcrossonshield	BLACK CROSS ON SHIELD
+26E9	needsfix__shintoshrine	SHINTO SHRINE
+26EA	needsfix__church	CHURCH
+26EB	needsfix__castle	CASTLE
+26EC	needsfix__historicsite	HISTORIC SITE
+26ED	needsfix__gearwithouthub	GEAR WITHOUT HUB
+26EE	needsfix__gearwithhandles	GEAR WITH HANDLES
+26EF	needsfix__mapsymbolforlighthouse	MAP SYMBOL FOR LIGHTHOUSE
+26F0	needsfix__mountain	MOUNTAIN
+26F1	needsfix__umbrellaonground	UMBRELLA ON GROUND
+26F2	needsfix__fountain	FOUNTAIN
+26F3	needsfix__flaginhole	FLAG IN HOLE
+26F4	needsfix__ferry	FERRY
+26F5	needsfix__sailboat	SAILBOAT
+26F6	needsfix__squarefourcorners	SQUARE FOUR CORNERS
+26F7	needsfix__skier	SKIER
+26F8	needsfix__iceskate	ICE SKATE
+26F9	needsfix__personwithball	PERSON WITH BALL
+26FA	needsfix__tent	TENT
+26FB	needsfix__japanesebanksymbol	JAPANESE BANK SYMBOL
+26FC	needsfix__headstonegraveyardsymbol	HEADSTONE GRAVEYARD SYMBOL
+26FD	needsfix__fuelpump	FUEL PUMP
+26FE	needsfix__cuponblacksquare	CUP ON BLACK SQUARE
+26FF	needsfix__whiteflagwithhorizontalmiddleblackstripe	WHITE FLAG WITH HORIZONTAL MIDDLE BLACK STRIPE

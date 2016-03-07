@@ -1,0 +1,39 @@
+# Cyrillic Supplementary 0500 - 052F
+0500	needsfix__cyrilliccapitalletterkomide	CYRILLIC CAPITAL LETTER KOMI DE
+0501	needsfix__cyrillicsmallletterkomide	CYRILLIC SMALL LETTER KOMI DE
+0502	needsfix__cyrilliccapitalletterkomidje	CYRILLIC CAPITAL LETTER KOMI DJE
+0503	needsfix__cyrillicsmallletterkomidje	CYRILLIC SMALL LETTER KOMI DJE
+0504	needsfix__cyrilliccapitalletterkomizje	CYRILLIC CAPITAL LETTER KOMI ZJE
+0505	needsfix__cyrillicsmallletterkomizje	CYRILLIC SMALL LETTER KOMI ZJE
+0506	needsfix__cyrilliccapitalletterkomidzje	CYRILLIC CAPITAL LETTER KOMI DZJE
+0507	needsfix__cyrillicsmallletterkomidzje	CYRILLIC SMALL LETTER KOMI DZJE
+0508	needsfix__cyrilliccapitalletterkomilje	CYRILLIC CAPITAL LETTER KOMI LJE
+0509	needsfix__cyrillicsmallletterkomilje	CYRILLIC SMALL LETTER KOMI LJE
+050A	needsfix__cyrilliccapitalletterkominje	CYRILLIC CAPITAL LETTER KOMI NJE
+050B	needsfix__cyrillicsmallletterkominje	CYRILLIC SMALL LETTER KOMI NJE
+050C	needsfix__cyrilliccapitalletterkomisje	CYRILLIC CAPITAL LETTER KOMI SJE
+050D	needsfix__cyrillicsmallletterkomisje	CYRILLIC SMALL LETTER KOMI SJE
+050E	needsfix__cyrilliccapitalletterkomitje	CYRILLIC CAPITAL LETTER KOMI TJE
+050F	needsfix__cyrillicsmallletterkomitje	CYRILLIC SMALL LETTER KOMI TJE
+0510	needsfix__cyrilliccapitalletterreversedze	CYRILLIC CAPITAL LETTER REVERSED ZE
+0511	needsfix__cyrillicsmallletterreversedze	CYRILLIC SMALL LETTER REVERSED ZE
+0512	needsfix__cyrilliccapitalletterelwithhook	CYRILLIC CAPITAL LETTER EL WITH HOOK
+0513	needsfix__cyrillicsmallletterelwithhook	CYRILLIC SMALL LETTER EL WITH HOOK
+0514	needsfix__cyrilliccapitalletterlha	CYRILLIC CAPITAL LETTER LHA
+0515	needsfix__cyrillicsmallletterlha	CYRILLIC SMALL LETTER LHA
+0516	needsfix__cyrilliccapitalletterrha	CYRILLIC CAPITAL LETTER RHA
+0517	needsfix__cyrillicsmallletterrha	CYRILLIC SMALL LETTER RHA
+0518	needsfix__cyrilliccapitalletteryae	CYRILLIC CAPITAL LETTER YAE
+0519	needsfix__cyrillicsmallletteryae	CYRILLIC SMALL LETTER YAE
+051A	needsfix__cyrilliccapitalletterqa	CYRILLIC CAPITAL LETTER QA
+051B	needsfix__cyrillicsmallletterqa	CYRILLIC SMALL LETTER QA
+051C	needsfix__cyrilliccapitalletterwe	CYRILLIC CAPITAL LETTER WE
+051D	needsfix__cyrillicsmallletterwe	CYRILLIC SMALL LETTER WE
+051E	needsfix__cyrilliccapitalletteraleutka	CYRILLIC CAPITAL LETTER ALEUT KA
+051F	needsfix__cyrillicsmallletteraleutka	CYRILLIC SMALL LETTER ALEUT KA
+0520	needsfix__cyrilliccapitalletterelwithmiddlehook	CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
+0521	needsfix__cyrillicsmallletterelwithmiddlehook	CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
+0522	needsfix__cyrilliccapitalletterenwithmiddlehook	CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK
+0523	needsfix__cyrillicsmallletterenwithmiddlehook	CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
+0524	needsfix__cyrilliccapitalletterpewithdescender	CYRILLIC CAPITAL LETTER PE WITH DESCENDER
+0525	needsfix__cyrillicsmallletterpewithdescender	CYRILLIC SMALL LETTER PE WITH DESCENDER

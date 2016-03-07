@@ -1,24 +1,26 @@
 import glyphNameFormatter
 reload(glyphNameFormatter)
-print glyphNameFormatter.__file__
-
+from glyphNameFormatter.unicodeRangeNames import getRangeFromName, getAllRangeNames
 
 skipped = {}
-def generateAll(path, includeCJK=False):
-    # generate all the names in the first plane
+def generateRange(rangeName):
+    # generate all the names in the range
     lines = []
-    uniqueNamesExtension = {}
-    uniqueNamesNoExtension = {}
-    for uniNumber in range(1, 0xff):
-        glyphName = glyphNameFormatter.GlyphName(uniNumber=uniNumber, verbose=False, includeCJK=includeCJK)
+    r = getRangeFromName(rangeName)
+    if r is None:
+        print "unknown range name", rangeName
+        return
+    start, end = r
+    lines.append("# %s %04X - %04X"%(rangeName, start, end))
+    for uniNumber in range(start, end+1):
+        glyphName = glyphNameFormatter.GlyphName(uniNumber)
         if glyphName.hasName():
-            if (not includeCJK) and glyphName.isCJK:
-                continue
-            lines.append("%04X\t%s\t%s"%(uniNumber, glyphName.getName(extension=True), glyphName.uniName))
+            lines.append("%04X\t%s\t%s"%(uniNumber, glyphName.getName(), glyphName.uniName))
+    path = "./names_%s.txt"%rangeName.replace(" ", "_").lower()
     f = open(path, 'w')
     f.write("\n".join(lines))
     f.close()
 
 if __name__ == "__main__":
-	generateAll("./names.txt")
-	print 'done'
+    for rangeName in getAllRangeNames():
+        generateRange(rangeName)

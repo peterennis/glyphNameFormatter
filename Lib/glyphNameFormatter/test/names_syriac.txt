@@ -1,0 +1,78 @@
+# Syriac 0700 - 074F
+0700	needsfix__syriacendofparagraph	SYRIAC END OF PARAGRAPH
+0701	needsfix__syriacsupralinearfullstop	SYRIAC SUPRALINEAR FULL STOP
+0702	needsfix__syriacsublinearfullstop	SYRIAC SUBLINEAR FULL STOP
+0703	needsfix__syriacsupralinearcolon	SYRIAC SUPRALINEAR COLON
+0704	needsfix__syriacsublinearcolon	SYRIAC SUBLINEAR COLON
+0705	needsfix__syriachorizontalcolon	SYRIAC HORIZONTAL COLON
+0706	needsfix__syriaccolonskewedleft	SYRIAC COLON SKEWED LEFT
+0707	needsfix__syriaccolonskewedright	SYRIAC COLON SKEWED RIGHT
+0708	needsfix__syriacsupralinearcolonskewedleft	SYRIAC SUPRALINEAR COLON SKEWED LEFT
+0709	needsfix__syriacsublinearcolonskewedright	SYRIAC SUBLINEAR COLON SKEWED RIGHT
+070A	needsfix__syriaccontraction	SYRIAC CONTRACTION
+070B	needsfix__syriacharkleanobelus	SYRIAC HARKLEAN OBELUS
+070C	needsfix__syriacharkleanmetobelus	SYRIAC HARKLEAN METOBELUS
+070D	needsfix__syriacharkleanasteriscus	SYRIAC HARKLEAN ASTERISCUS
+070F	needsfix__syriacabbreviationmark	SYRIAC ABBREVIATION MARK
+0710	needsfix__syriacletteralaph	SYRIAC LETTER ALAPH
+0711	needsfix__syriaclettersuperscriptalaph	SYRIAC LETTER SUPERSCRIPT ALAPH
+0712	needsfix__syriacletterbeth	SYRIAC LETTER BETH
+0713	needsfix__syriaclettergamal	SYRIAC LETTER GAMAL
+0714	needsfix__syriaclettergamalgarshuni	SYRIAC LETTER GAMAL GARSHUNI
+0715	needsfix__syriacletterdalath	SYRIAC LETTER DALATH
+0716	needsfix__syriacletterdotlessdalathrish	SYRIAC LETTER DOTLESS DALATH RISH
+0717	needsfix__syriacletterhe	SYRIAC LETTER HE
+0718	needsfix__syriacletterwaw	SYRIAC LETTER WAW
+0719	needsfix__syriacletterzain	SYRIAC LETTER ZAIN
+071A	needsfix__syriacletterheth	SYRIAC LETTER HETH
+071B	needsfix__syriacletterteth	SYRIAC LETTER TETH
+071C	needsfix__syriaclettertethgarshuni	SYRIAC LETTER TETH GARSHUNI
+071D	needsfix__syriacletteryudh	SYRIAC LETTER YUDH
+071E	needsfix__syriacletteryudhhe	SYRIAC LETTER YUDH HE
+071F	needsfix__syriacletterkaph	SYRIAC LETTER KAPH
+0720	needsfix__syriacletterlamadh	SYRIAC LETTER LAMADH
+0721	needsfix__syriaclettermim	SYRIAC LETTER MIM
+0722	needsfix__syriacletternun	SYRIAC LETTER NUN
+0723	needsfix__syriaclettersemkath	SYRIAC LETTER SEMKATH
+0724	needsfix__syriacletterfinalsemkath	SYRIAC LETTER FINAL SEMKATH
+0725	needsfix__syriaclettere	SYRIAC LETTER E
+0726	needsfix__syriacletterpe	SYRIAC LETTER PE
+0727	needsfix__syriacletterreversedpe	SYRIAC LETTER REVERSED PE
+0728	needsfix__syriaclettersadhe	SYRIAC LETTER SADHE
+0729	needsfix__syriacletterqaph	SYRIAC LETTER QAPH
+072A	needsfix__syriacletterrish	SYRIAC LETTER RISH
+072B	needsfix__syriaclettershin	SYRIAC LETTER SHIN
+072C	needsfix__syriaclettertaw	SYRIAC LETTER TAW
+072D	needsfix__syriacletterpersianbheth	SYRIAC LETTER PERSIAN BHETH
+072E	needsfix__syriacletterpersianghamal	SYRIAC LETTER PERSIAN GHAMAL
+072F	needsfix__syriacletterpersiandhalath	SYRIAC LETTER PERSIAN DHALATH
+0730	needsfix__syriacpthahaabove	SYRIAC PTHAHA ABOVE
+0731	needsfix__syriacpthahabelow	SYRIAC PTHAHA BELOW
+0732	needsfix__syriacpthahadotted	SYRIAC PTHAHA DOTTED
+0733	needsfix__syriaczqaphaabove	SYRIAC ZQAPHA ABOVE
+0734	needsfix__syriaczqaphabelow	SYRIAC ZQAPHA BELOW
+0735	needsfix__syriaczqaphadotted	SYRIAC ZQAPHA DOTTED
+0736	needsfix__syriacrbasaabove	SYRIAC RBASA ABOVE
+0737	needsfix__syriacrbasabelow	SYRIAC RBASA BELOW
+0738	needsfix__syriacdottedzlamahorizontal	SYRIAC DOTTED ZLAMA HORIZONTAL
+0739	needsfix__syriacdottedzlamaangular	SYRIAC DOTTED ZLAMA ANGULAR
+073A	needsfix__syriachbasaabove	SYRIAC HBASA ABOVE
+073B	needsfix__syriachbasabelow	SYRIAC HBASA BELOW
+073C	needsfix__syriachbasaesasadotted	SYRIAC HBASA-ESASA DOTTED
+073D	needsfix__syriacesasaabove	SYRIAC ESASA ABOVE
+073E	needsfix__syriacesasabelow	SYRIAC ESASA BELOW
+073F	needsfix__syriacrwaha	SYRIAC RWAHA
+0740	needsfix__syriacfemininedot	SYRIAC FEMININE DOT
+0741	needsfix__syriacqushshaya	SYRIAC QUSHSHAYA
+0742	needsfix__syriacrukkakha	SYRIAC RUKKAKHA
+0743	needsfix__syriactwoverticaldotsabove	SYRIAC TWO VERTICAL DOTS ABOVE
+0744	needsfix__syriactwoverticaldotsbelow	SYRIAC TWO VERTICAL DOTS BELOW
+0745	needsfix__syriacthreedotsabove	SYRIAC THREE DOTS ABOVE
+0746	needsfix__syriacthreedotsbelow	SYRIAC THREE DOTS BELOW
+0747	needsfix__syriacobliquelineabove	SYRIAC OBLIQUE LINE ABOVE
+0748	needsfix__syriacobliquelinebelow	SYRIAC OBLIQUE LINE BELOW
+0749	needsfix__syriacmusic	SYRIAC MUSIC
+074A	needsfix__syriacbarrekh	SYRIAC BARREKH
+074D	needsfix__syriaclettersogdianzhain	SYRIAC LETTER SOGDIAN ZHAIN
+074E	needsfix__syriaclettersogdiankhaph	SYRIAC LETTER SOGDIAN KHAPH
+074F	needsfix__syriaclettersogdianfe	SYRIAC LETTER SOGDIAN FE

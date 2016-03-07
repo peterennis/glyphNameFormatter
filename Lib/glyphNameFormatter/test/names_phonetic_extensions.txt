@@ -1,0 +1,129 @@
+# Phonetic Extensions 1D00 - 1D7F
+1D00	needsfix__latinlettersmallcapitala	LATIN LETTER SMALL CAPITAL A
+1D01	needsfix__latinlettersmallcapitalae	LATIN LETTER SMALL CAPITAL AE
+1D02	needsfix__latinsmallletterturnedae	LATIN SMALL LETTER TURNED AE
+1D03	needsfix__latinlettersmallcapitalbarredb	LATIN LETTER SMALL CAPITAL BARRED B
+1D04	needsfix__latinlettersmallcapitalc	LATIN LETTER SMALL CAPITAL C
+1D05	needsfix__latinlettersmallcapitald	LATIN LETTER SMALL CAPITAL D
+1D06	needsfix__latinlettersmallcapitaleth	LATIN LETTER SMALL CAPITAL ETH
+1D07	needsfix__latinlettersmallcapitale	LATIN LETTER SMALL CAPITAL E
+1D08	needsfix__latinsmallletterturnedopene	LATIN SMALL LETTER TURNED OPEN E
+1D09	needsfix__latinsmallletterturnedi	LATIN SMALL LETTER TURNED I
+1D0A	needsfix__latinlettersmallcapitalj	LATIN LETTER SMALL CAPITAL J
+1D0B	needsfix__latinlettersmallcapitalk	LATIN LETTER SMALL CAPITAL K
+1D0C	needsfix__latinlettersmallcapitallwithstroke	LATIN LETTER SMALL CAPITAL L WITH STROKE
+1D0D	needsfix__latinlettersmallcapitalm	LATIN LETTER SMALL CAPITAL M
+1D0E	needsfix__latinlettersmallcapitalreversedn	LATIN LETTER SMALL CAPITAL REVERSED N
+1D0F	needsfix__latinlettersmallcapitalo	LATIN LETTER SMALL CAPITAL O
+1D10	needsfix__latinlettersmallcapitalopeno	LATIN LETTER SMALL CAPITAL OPEN O
+1D11	needsfix__latinsmalllettersidewayso	LATIN SMALL LETTER SIDEWAYS O
+1D12	needsfix__latinsmalllettersidewaysopeno	LATIN SMALL LETTER SIDEWAYS OPEN O
+1D13	needsfix__latinsmalllettersidewaysowithstroke	LATIN SMALL LETTER SIDEWAYS O WITH STROKE
+1D14	needsfix__latinsmallletterturnedoe	LATIN SMALL LETTER TURNED OE
+1D15	needsfix__latinlettersmallcapitalou	LATIN LETTER SMALL CAPITAL OU
+1D16	needsfix__latinsmalllettertophalfo	LATIN SMALL LETTER TOP HALF O
+1D17	needsfix__latinsmallletterbottomhalfo	LATIN SMALL LETTER BOTTOM HALF O
+1D18	needsfix__latinlettersmallcapitalp	LATIN LETTER SMALL CAPITAL P
+1D19	needsfix__latinlettersmallcapitalreversedr	LATIN LETTER SMALL CAPITAL REVERSED R
+1D1A	needsfix__latinlettersmallcapitalturnedr	LATIN LETTER SMALL CAPITAL TURNED R
+1D1B	needsfix__latinlettersmallcapitalt	LATIN LETTER SMALL CAPITAL T
+1D1C	needsfix__latinlettersmallcapitalu	LATIN LETTER SMALL CAPITAL U
+1D1D	needsfix__latinsmalllettersidewaysu	LATIN SMALL LETTER SIDEWAYS U
+1D1E	needsfix__latinsmalllettersidewaysdiaeresizedu	LATIN SMALL LETTER SIDEWAYS DIAERESIZED U
+1D1F	needsfix__latinsmalllettersidewaysturnedm	LATIN SMALL LETTER SIDEWAYS TURNED M
+1D20	needsfix__latinlettersmallcapitalv	LATIN LETTER SMALL CAPITAL V
+1D21	needsfix__latinlettersmallcapitalw	LATIN LETTER SMALL CAPITAL W
+1D22	needsfix__latinlettersmallcapitalz	LATIN LETTER SMALL CAPITAL Z
+1D23	needsfix__latinlettersmallcapitalezh	LATIN LETTER SMALL CAPITAL EZH
+1D24	needsfix__latinlettervoicedlaryngealspirant	LATIN LETTER VOICED LARYNGEAL SPIRANT
+1D25	needsfix__latinletterain	LATIN LETTER AIN
+1D26	needsfix__greeklettersmallcapitalgamma	GREEK LETTER SMALL CAPITAL GAMMA
+1D27	needsfix__greeklettersmallcapitallamda	GREEK LETTER SMALL CAPITAL LAMDA
+1D28	needsfix__greeklettersmallcapitalpi	GREEK LETTER SMALL CAPITAL PI
+1D29	needsfix__greeklettersmallcapitalrho	GREEK LETTER SMALL CAPITAL RHO
+1D2A	needsfix__greeklettersmallcapitalpsi	GREEK LETTER SMALL CAPITAL PSI
+1D2B	needsfix__cyrilliclettersmallcapitalel	CYRILLIC LETTER SMALL CAPITAL EL
+1D2C	needsfix__modifierlettercapitala	MODIFIER LETTER CAPITAL A
+1D2D	needsfix__modifierlettercapitalae	MODIFIER LETTER CAPITAL AE
+1D2E	needsfix__modifierlettercapitalb	MODIFIER LETTER CAPITAL B
+1D2F	needsfix__modifierlettercapitalbarredb	MODIFIER LETTER CAPITAL BARRED B
+1D30	needsfix__modifierlettercapitald	MODIFIER LETTER CAPITAL D
+1D31	needsfix__modifierlettercapitale	MODIFIER LETTER CAPITAL E
+1D32	needsfix__modifierlettercapitalreversede	MODIFIER LETTER CAPITAL REVERSED E
+1D33	needsfix__modifierlettercapitalg	MODIFIER LETTER CAPITAL G
+1D34	needsfix__modifierlettercapitalh	MODIFIER LETTER CAPITAL H
+1D35	needsfix__modifierlettercapitali	MODIFIER LETTER CAPITAL I
+1D36	needsfix__modifierlettercapitalj	MODIFIER LETTER CAPITAL J
+1D37	needsfix__modifierlettercapitalk	MODIFIER LETTER CAPITAL K
+1D38	needsfix__modifierlettercapitall	MODIFIER LETTER CAPITAL L
+1D39	needsfix__modifierlettercapitalm	MODIFIER LETTER CAPITAL M
+1D3A	needsfix__modifierlettercapitaln	MODIFIER LETTER CAPITAL N
+1D3B	needsfix__modifierlettercapitalreversedn	MODIFIER LETTER CAPITAL REVERSED N
+1D3C	needsfix__modifierlettercapitalo	MODIFIER LETTER CAPITAL O
+1D3D	needsfix__modifierlettercapitalou	MODIFIER LETTER CAPITAL OU
+1D3E	needsfix__modifierlettercapitalp	MODIFIER LETTER CAPITAL P
+1D3F	needsfix__modifierlettercapitalr	MODIFIER LETTER CAPITAL R
+1D40	needsfix__modifierlettercapitalt	MODIFIER LETTER CAPITAL T
+1D41	needsfix__modifierlettercapitalu	MODIFIER LETTER CAPITAL U
+1D42	needsfix__modifierlettercapitalw	MODIFIER LETTER CAPITAL W
+1D43	needsfix__modifierlettersmalla	MODIFIER LETTER SMALL A
+1D44	needsfix__modifierlettersmallturneda	MODIFIER LETTER SMALL TURNED A
+1D45	needsfix__modifierlettersmallalpha	MODIFIER LETTER SMALL ALPHA
+1D46	needsfix__modifierlettersmallturnedae	MODIFIER LETTER SMALL TURNED AE
+1D47	needsfix__modifierlettersmallb	MODIFIER LETTER SMALL B
+1D48	needsfix__modifierlettersmalld	MODIFIER LETTER SMALL D
+1D49	needsfix__modifierlettersmalle	MODIFIER LETTER SMALL E
+1D4A	needsfix__modifierlettersmallschwa	MODIFIER LETTER SMALL SCHWA
+1D4B	needsfix__modifierlettersmallopene	MODIFIER LETTER SMALL OPEN E
+1D4C	needsfix__modifierlettersmallturnedopene	MODIFIER LETTER SMALL TURNED OPEN E
+1D4D	needsfix__modifierlettersmallg	MODIFIER LETTER SMALL G
+1D4E	needsfix__modifierlettersmallturnedi	MODIFIER LETTER SMALL TURNED I
+1D4F	needsfix__modifierlettersmallk	MODIFIER LETTER SMALL K
+1D50	needsfix__modifierlettersmallm	MODIFIER LETTER SMALL M
+1D51	needsfix__modifierlettersmalleng	MODIFIER LETTER SMALL ENG
+1D52	needsfix__modifierlettersmallo	MODIFIER LETTER SMALL O
+1D53	needsfix__modifierlettersmallopeno	MODIFIER LETTER SMALL OPEN O
+1D54	needsfix__modifierlettersmalltophalfo	MODIFIER LETTER SMALL TOP HALF O
+1D55	needsfix__modifierlettersmallbottomhalfo	MODIFIER LETTER SMALL BOTTOM HALF O
+1D56	needsfix__modifierlettersmallp	MODIFIER LETTER SMALL P
+1D57	needsfix__modifierlettersmallt	MODIFIER LETTER SMALL T
+1D58	needsfix__modifierlettersmallu	MODIFIER LETTER SMALL U
+1D59	needsfix__modifierlettersmallsidewaysu	MODIFIER LETTER SMALL SIDEWAYS U
+1D5A	needsfix__modifierlettersmallturnedm	MODIFIER LETTER SMALL TURNED M
+1D5B	needsfix__modifierlettersmallv	MODIFIER LETTER SMALL V
+1D5C	needsfix__modifierlettersmallain	MODIFIER LETTER SMALL AIN
+1D5D	needsfix__modifierlettersmallbeta	MODIFIER LETTER SMALL BETA
+1D5E	needsfix__modifierlettersmallgreekgamma	MODIFIER LETTER SMALL GREEK GAMMA
+1D5F	needsfix__modifierlettersmalldelta	MODIFIER LETTER SMALL DELTA
+1D60	needsfix__modifierlettersmallgreekphi	MODIFIER LETTER SMALL GREEK PHI
+1D61	needsfix__modifierlettersmallchi	MODIFIER LETTER SMALL CHI
+1D62	needsfix__latinsubscriptsmallletteri	LATIN SUBSCRIPT SMALL LETTER I
+1D63	needsfix__latinsubscriptsmallletterr	LATIN SUBSCRIPT SMALL LETTER R
+1D64	needsfix__latinsubscriptsmallletteru	LATIN SUBSCRIPT SMALL LETTER U
+1D65	needsfix__latinsubscriptsmallletterv	LATIN SUBSCRIPT SMALL LETTER V
+1D66	needsfix__greeksubscriptsmallletterbeta	GREEK SUBSCRIPT SMALL LETTER BETA
+1D67	needsfix__greeksubscriptsmalllettergamma	GREEK SUBSCRIPT SMALL LETTER GAMMA
+1D68	needsfix__greeksubscriptsmallletterrho	GREEK SUBSCRIPT SMALL LETTER RHO
+1D69	needsfix__greeksubscriptsmallletterphi	GREEK SUBSCRIPT SMALL LETTER PHI
+1D6A	needsfix__greeksubscriptsmallletterchi	GREEK SUBSCRIPT SMALL LETTER CHI
+1D6B	needsfix__latinsmallletterue	LATIN SMALL LETTER UE
+1D6C	needsfix__latinsmallletterbwithmiddletilde	LATIN SMALL LETTER B WITH MIDDLE TILDE
+1D6D	needsfix__latinsmallletterdwithmiddletilde	LATIN SMALL LETTER D WITH MIDDLE TILDE
+1D6E	needsfix__latinsmallletterfwithmiddletilde	LATIN SMALL LETTER F WITH MIDDLE TILDE
+1D6F	needsfix__latinsmalllettermwithmiddletilde	LATIN SMALL LETTER M WITH MIDDLE TILDE
+1D70	needsfix__latinsmallletternwithmiddletilde	LATIN SMALL LETTER N WITH MIDDLE TILDE
+1D71	needsfix__latinsmallletterpwithmiddletilde	LATIN SMALL LETTER P WITH MIDDLE TILDE
+1D72	needsfix__latinsmallletterrwithmiddletilde	LATIN SMALL LETTER R WITH MIDDLE TILDE
+1D73	needsfix__latinsmallletterrwithfishhookandmiddletilde	LATIN SMALL LETTER R WITH FISHHOOK AND MIDDLE TILDE
+1D74	needsfix__latinsmallletterswithmiddletilde	LATIN SMALL LETTER S WITH MIDDLE TILDE
+1D75	needsfix__latinsmalllettertwithmiddletilde	LATIN SMALL LETTER T WITH MIDDLE TILDE
+1D76	needsfix__latinsmallletterzwithmiddletilde	LATIN SMALL LETTER Z WITH MIDDLE TILDE
+1D77	needsfix__latinsmallletterturnedg	LATIN SMALL LETTER TURNED G
+1D78	needsfix__modifierlettercyrillicen	MODIFIER LETTER CYRILLIC EN
+1D79	needsfix__latinsmallletterinsularg	LATIN SMALL LETTER INSULAR G
+1D7A	needsfix__latinsmallletterthwithstrikethrough	LATIN SMALL LETTER TH WITH STRIKETHROUGH
+1D7B	needsfix__latinsmallcapitalletteriwithstroke	LATIN SMALL CAPITAL LETTER I WITH STROKE
+1D7C	needsfix__latinsmallletteriotawithstroke	LATIN SMALL LETTER IOTA WITH STROKE
+1D7D	needsfix__latinsmallletterpwithstroke	LATIN SMALL LETTER P WITH STROKE
+1D7E	needsfix__latinsmallcapitalletteruwithstroke	LATIN SMALL CAPITAL LETTER U WITH STROKE
+1D7F	needsfix__latinsmallletterupsilonwithstroke	LATIN SMALL LETTER UPSILON WITH STROKE
