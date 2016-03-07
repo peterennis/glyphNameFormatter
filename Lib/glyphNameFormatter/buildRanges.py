@@ -16,7 +16,7 @@ def generateRange(rangeName):
         glyphName = glyphNameFormatter.GlyphName(uniNumber)
         if glyphName.hasName():
             lines.append("%04X\t%s\t%s"%(uniNumber, glyphName.getName(), glyphName.uniName))
-    path = "./names_%s.txt"%rangeName.replace(" ", "_").lower()
+    path = "./names/names_%s.txt"%rangeName.replace(" ", "_").lower()
     f = open(path, 'w')
     f.write("\n".join(lines))
     f.close()
