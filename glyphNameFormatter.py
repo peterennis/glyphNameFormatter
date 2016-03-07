@@ -80,6 +80,8 @@ class GlyphName(object):
         'percent'
     ]
     preferredAGLNames = {
+        0x0028: 'parenleft',
+        0x0029: 'parenright',
         0x0040: "at",
         0x00A5: "yen",
         # 0x00B5: "mu",
