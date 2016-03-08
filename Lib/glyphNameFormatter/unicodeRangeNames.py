@@ -191,7 +191,7 @@ def getRangeProcessor(value):
 
 def getRangeProcessorByRangeName(rangeName):
     import importlib
-    moduleName = rangeName.lower().replace(" ", "_")
+    moduleName = rangeName.lower().replace(" ", "_").replace("-", "_")
     module = None
     try:
         module = importlib.import_module('glyphNameFormatter.rangeProcessors.%s' % moduleName)

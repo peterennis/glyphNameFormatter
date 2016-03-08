@@ -42,10 +42,3 @@ def process(self):
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
     printRange("Latin Extended-B")
-    # from glyphNameFormatter import GlyphName
-    # g = GlyphName(uniNumber=0x01FF)
-    # print g.uniNameProcessed
-
-    # print g.suffixParts
-    # print g
-
