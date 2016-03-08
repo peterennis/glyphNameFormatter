@@ -10,6 +10,7 @@ scriptPrefixes = {
     'hebrew': 'hb',
     'hiragana': 'hi',
     'ipa': 'ipa',
+    'kannada': "kn",
     'katakana': 'ka',
     'latin': "lt",
     'mongolian': 'mo',
