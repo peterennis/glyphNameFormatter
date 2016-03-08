@@ -14,11 +14,3 @@ perpendicular
 sun
 	2609	sun	Miscellaneous Symbols
 	263C	sun	Miscellaneous Symbols
-
-tibetanlettera
-	0F60	tibetanlettera	Tibetan
-	0F68	tibetanlettera	Tibetan
-
-tibetansubjoinedlettera
-	0FB0	tibetansubjoinedlettera	Tibetan
-	0FB8	tibetansubjoinedlettera	Tibetan
