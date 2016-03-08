@@ -4,6 +4,7 @@ scriptPrefixes = {
     'armenian': 'am',
     'boxdrawings': 'bxd',
     'cyrillic': 'cy',
+    'devanagari': 'dv',
     'greek': 'gr',
     'hangul': 'ko',
     'hebrew': 'hb',
