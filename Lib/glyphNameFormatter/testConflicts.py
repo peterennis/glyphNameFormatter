@@ -2,7 +2,10 @@ import glyphNameFormatter
 reload(glyphNameFormatter)
 from unicodeRangeNames import getRangeByName, getAllRangeNames
 
-
+#
+#
+#
+#   Find duplicate names for different unicodes
 
 def findConflict():
     names = {}
