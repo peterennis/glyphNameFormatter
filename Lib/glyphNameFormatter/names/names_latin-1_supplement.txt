@@ -1,4 +1,4 @@
-# Latin-1 Supplement 00A0 - 00FF
+# Latin-1 Supplement 0080 - 00FF
 00A0	nbspace	NO-BREAK SPACE
 00A1	exclamdown	INVERTED EXCLAMATION MARK
 00A2	cent	CENT SIGN

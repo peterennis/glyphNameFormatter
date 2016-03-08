@@ -1,0 +1,115 @@
+# Latin Extended-D A720 - A7FF
+A720	modifierletterstressandhightone	MODIFIER LETTER STRESS AND HIGH TONE
+A721	modifierletterstressandlowtone	MODIFIER LETTER STRESS AND LOW TONE
+A722	latincapitalletteregyptologicalalef	LATIN CAPITAL LETTER EGYPTOLOGICAL ALEF
+A723	latinsmallletteregyptologicalalef	LATIN SMALL LETTER EGYPTOLOGICAL ALEF
+A724	latincapitalletteregyptologicalain	LATIN CAPITAL LETTER EGYPTOLOGICAL AIN
+A725	latinsmallletteregyptologicalain	LATIN SMALL LETTER EGYPTOLOGICAL AIN
+A726	latincapitalletterheng	LATIN CAPITAL LETTER HENG
+A727	latinsmallletterheng	LATIN SMALL LETTER HENG
+A728	latincapitallettertz	LATIN CAPITAL LETTER TZ
+A729	latinsmalllettertz	LATIN SMALL LETTER TZ
+A72A	latincapitallettertresillo	LATIN CAPITAL LETTER TRESILLO
+A72B	latinsmalllettertresillo	LATIN SMALL LETTER TRESILLO
+A72C	latincapitallettercuatrillo	LATIN CAPITAL LETTER CUATRILLO
+A72D	latinsmalllettercuatrillo	LATIN SMALL LETTER CUATRILLO
+A72E	latincapitallettercuatrillowithcomma	LATIN CAPITAL LETTER CUATRILLO WITH COMMA
+A72F	latinsmalllettercuatrillowithcomma	LATIN SMALL LETTER CUATRILLO WITH COMMA
+A730	latinlettersmallcapitalf	LATIN LETTER SMALL CAPITAL F
+A731	latinlettersmallcapitals	LATIN LETTER SMALL CAPITAL S
+A732	latincapitalletteraa	LATIN CAPITAL LETTER AA
+A733	latinsmallletteraa	LATIN SMALL LETTER AA
+A734	latincapitalletterao	LATIN CAPITAL LETTER AO
+A735	latinsmallletterao	LATIN SMALL LETTER AO
+A736	latincapitalletterau	LATIN CAPITAL LETTER AU
+A737	latinsmallletterau	LATIN SMALL LETTER AU
+A738	latincapitalletterav	LATIN CAPITAL LETTER AV
+A739	latinsmallletterav	LATIN SMALL LETTER AV
+A73A	latincapitalletteravwithhorizontalbar	LATIN CAPITAL LETTER AV WITH HORIZONTAL BAR
+A73B	latinsmallletteravwithhorizontalbar	LATIN SMALL LETTER AV WITH HORIZONTAL BAR
+A73C	latincapitalletteray	LATIN CAPITAL LETTER AY
+A73D	latinsmallletteray	LATIN SMALL LETTER AY
+A73E	latincapitalletterreversedcwithdot	LATIN CAPITAL LETTER REVERSED C WITH DOT
+A73F	latinsmallletterreversedcwithdot	LATIN SMALL LETTER REVERSED C WITH DOT
+A740	latincapitalletterkwithstroke	LATIN CAPITAL LETTER K WITH STROKE
+A741	latinsmallletterkwithstroke	LATIN SMALL LETTER K WITH STROKE
+A742	latincapitalletterkwithdiagonalstroke	LATIN CAPITAL LETTER K WITH DIAGONAL STROKE
+A743	latinsmallletterkwithdiagonalstroke	LATIN SMALL LETTER K WITH DIAGONAL STROKE
+A744	latincapitalletterkwithstrokeanddiagonalstroke	LATIN CAPITAL LETTER K WITH STROKE AND DIAGONAL STROKE
+A745	latinsmallletterkwithstrokeanddiagonalstroke	LATIN SMALL LETTER K WITH STROKE AND DIAGONAL STROKE
+A746	latincapitalletterbrokenl	LATIN CAPITAL LETTER BROKEN L
+A747	latinsmallletterbrokenl	LATIN SMALL LETTER BROKEN L
+A748	latincapitalletterlwithhighstroke	LATIN CAPITAL LETTER L WITH HIGH STROKE
+A749	latinsmallletterlwithhighstroke	LATIN SMALL LETTER L WITH HIGH STROKE
+A74A	latincapitalletterowithlongstrokeoverlay	LATIN CAPITAL LETTER O WITH LONG STROKE OVERLAY
+A74B	latinsmallletterowithlongstrokeoverlay	LATIN SMALL LETTER O WITH LONG STROKE OVERLAY
+A74C	latincapitalletterowithloop	LATIN CAPITAL LETTER O WITH LOOP
+A74D	latinsmallletterowithloop	LATIN SMALL LETTER O WITH LOOP
+A74E	latincapitalletteroo	LATIN CAPITAL LETTER OO
+A74F	latinsmallletteroo	LATIN SMALL LETTER OO
+A750	latincapitalletterpwithstrokethroughdescender	LATIN CAPITAL LETTER P WITH STROKE THROUGH DESCENDER
+A751	latinsmallletterpwithstrokethroughdescender	LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER
+A752	latincapitalletterpwithflourish	LATIN CAPITAL LETTER P WITH FLOURISH
+A753	latinsmallletterpwithflourish	LATIN SMALL LETTER P WITH FLOURISH
+A754	latincapitalletterpwithsquirreltail	LATIN CAPITAL LETTER P WITH SQUIRREL TAIL
+A755	latinsmallletterpwithsquirreltail	LATIN SMALL LETTER P WITH SQUIRREL TAIL
+A756	latincapitalletterqwithstrokethroughdescender	LATIN CAPITAL LETTER Q WITH STROKE THROUGH DESCENDER
+A757	latinsmallletterqwithstrokethroughdescender	LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER
+A758	latincapitalletterqwithdiagonalstroke	LATIN CAPITAL LETTER Q WITH DIAGONAL STROKE
+A759	latinsmallletterqwithdiagonalstroke	LATIN SMALL LETTER Q WITH DIAGONAL STROKE
+A75A	latincapitalletterrrotunda	LATIN CAPITAL LETTER R ROTUNDA
+A75B	latinsmallletterrrotunda	LATIN SMALL LETTER R ROTUNDA
+A75C	latincapitalletterrumrotunda	LATIN CAPITAL LETTER RUM ROTUNDA
+A75D	latinsmallletterrumrotunda	LATIN SMALL LETTER RUM ROTUNDA
+A75E	latincapitallettervwithdiagonalstroke	LATIN CAPITAL LETTER V WITH DIAGONAL STROKE
+A75F	latinsmalllettervwithdiagonalstroke	LATIN SMALL LETTER V WITH DIAGONAL STROKE
+A760	latincapitallettervy	LATIN CAPITAL LETTER VY
+A761	latinsmalllettervy	LATIN SMALL LETTER VY
+A762	latincapitallettervisigothicz	LATIN CAPITAL LETTER VISIGOTHIC Z
+A763	latinsmalllettervisigothicz	LATIN SMALL LETTER VISIGOTHIC Z
+A764	latincapitalletterthornwithstroke	LATIN CAPITAL LETTER THORN WITH STROKE
+A765	latinsmallletterthornwithstroke	LATIN SMALL LETTER THORN WITH STROKE
+A766	latincapitalletterthornwithstrokethroughdescender	LATIN CAPITAL LETTER THORN WITH STROKE THROUGH DESCENDER
+A767	latinsmallletterthornwithstrokethroughdescender	LATIN SMALL LETTER THORN WITH STROKE THROUGH DESCENDER
+A768	latincapitallettervend	LATIN CAPITAL LETTER VEND
+A769	latinsmalllettervend	LATIN SMALL LETTER VEND
+A76A	latincapitalletteret	LATIN CAPITAL LETTER ET
+A76B	latinsmallletteret	LATIN SMALL LETTER ET
+A76C	latincapitalletteris	LATIN CAPITAL LETTER IS
+A76D	latinsmallletteris	LATIN SMALL LETTER IS
+A76E	latincapitallettercon	LATIN CAPITAL LETTER CON
+A76F	latinsmalllettercon	LATIN SMALL LETTER CON
+A770	modifierletterus	MODIFIER LETTER US
+A771	latinsmallletterdum	LATIN SMALL LETTER DUM
+A772	latinsmallletterlum	LATIN SMALL LETTER LUM
+A773	latinsmalllettermum	LATIN SMALL LETTER MUM
+A774	latinsmallletternum	LATIN SMALL LETTER NUM
+A775	latinsmallletterrum	LATIN SMALL LETTER RUM
+A776	latinlettersmallcapitalrum	LATIN LETTER SMALL CAPITAL RUM
+A777	latinsmalllettertum	LATIN SMALL LETTER TUM
+A778	latinsmallletterum	LATIN SMALL LETTER UM
+A779	latincapitalletterinsulard	LATIN CAPITAL LETTER INSULAR D
+A77A	latinsmallletterinsulard	LATIN SMALL LETTER INSULAR D
+A77B	latincapitalletterinsularf	LATIN CAPITAL LETTER INSULAR F
+A77C	latinsmallletterinsularf	LATIN SMALL LETTER INSULAR F
+A77D	latincapitalletterinsularg	LATIN CAPITAL LETTER INSULAR G
+A77E	latincapitalletterturnedinsularg	LATIN CAPITAL LETTER TURNED INSULAR G
+A77F	latinsmallletterturnedinsularg	LATIN SMALL LETTER TURNED INSULAR G
+A780	latincapitalletterturnedl	LATIN CAPITAL LETTER TURNED L
+A781	latinsmallletterturnedl	LATIN SMALL LETTER TURNED L
+A782	latincapitalletterinsularr	LATIN CAPITAL LETTER INSULAR R
+A783	latinsmallletterinsularr	LATIN SMALL LETTER INSULAR R
+A784	latincapitalletterinsulars	LATIN CAPITAL LETTER INSULAR S
+A785	latinsmallletterinsulars	LATIN SMALL LETTER INSULAR S
+A786	latincapitalletterinsulart	LATIN CAPITAL LETTER INSULAR T
+A787	latinsmallletterinsulart	LATIN SMALL LETTER INSULAR T
+A788	modifierletterlowcircumflexaccent	MODIFIER LETTER LOW CIRCUMFLEX ACCENT
+A789	modifierlettercolon	MODIFIER LETTER COLON
+A78A	modifierlettershortequalssign	MODIFIER LETTER SHORT EQUALS SIGN
+A78B	latincapitallettersaltillo	LATIN CAPITAL LETTER SALTILLO
+A78C	latinsmalllettersaltillo	LATIN SMALL LETTER SALTILLO
+A7FB	latinepigraphicletterreversedf	LATIN EPIGRAPHIC LETTER REVERSED F
+A7FC	latinepigraphicletterreversedp	LATIN EPIGRAPHIC LETTER REVERSED P
+A7FD	latinepigraphicletterinvertedm	LATIN EPIGRAPHIC LETTER INVERTED M
+A7FE	latinepigraphicletterilonga	LATIN EPIGRAPHIC LETTER I LONGA
+A7FF	latinepigraphicletterarchaicm	LATIN EPIGRAPHIC LETTER ARCHAIC M

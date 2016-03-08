@@ -1,4 +1,4 @@
-# Basic Latin 0020 - 007F
+# Basic Latin 0000 - 007F
 0020	space	SPACE
 0021	exclam	EXCLAMATION MARK
 0022	quotedbl	QUOTATION MARK

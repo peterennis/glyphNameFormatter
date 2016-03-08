@@ -1,0 +1,64 @@
+# Enclosed Alphanumeric Supplement 1F100 - 1F1FF
+1F100	digitzerofullstop	DIGIT ZERO FULL STOP
+1F101	digitzerocomma	DIGIT ZERO COMMA
+1F102	digitonecomma	DIGIT ONE COMMA
+1F103	digittwocomma	DIGIT TWO COMMA
+1F104	digitthreecomma	DIGIT THREE COMMA
+1F105	digitfourcomma	DIGIT FOUR COMMA
+1F106	digitfivecomma	DIGIT FIVE COMMA
+1F107	digitsixcomma	DIGIT SIX COMMA
+1F108	digitsevencomma	DIGIT SEVEN COMMA
+1F109	digiteightcomma	DIGIT EIGHT COMMA
+1F10A	digitninecomma	DIGIT NINE COMMA
+1F110	parenthesizedlatincapitallettera	PARENTHESIZED LATIN CAPITAL LETTER A
+1F111	parenthesizedlatincapitalletterb	PARENTHESIZED LATIN CAPITAL LETTER B
+1F112	parenthesizedlatincapitalletterc	PARENTHESIZED LATIN CAPITAL LETTER C
+1F113	parenthesizedlatincapitalletterd	PARENTHESIZED LATIN CAPITAL LETTER D
+1F114	parenthesizedlatincapitallettere	PARENTHESIZED LATIN CAPITAL LETTER E
+1F115	parenthesizedlatincapitalletterf	PARENTHESIZED LATIN CAPITAL LETTER F
+1F116	parenthesizedlatincapitalletterg	PARENTHESIZED LATIN CAPITAL LETTER G
+1F117	parenthesizedlatincapitalletterh	PARENTHESIZED LATIN CAPITAL LETTER H
+1F118	parenthesizedlatincapitalletteri	PARENTHESIZED LATIN CAPITAL LETTER I
+1F119	parenthesizedlatincapitalletterj	PARENTHESIZED LATIN CAPITAL LETTER J
+1F11A	parenthesizedlatincapitalletterk	PARENTHESIZED LATIN CAPITAL LETTER K
+1F11B	parenthesizedlatincapitalletterl	PARENTHESIZED LATIN CAPITAL LETTER L
+1F11C	parenthesizedlatincapitalletterm	PARENTHESIZED LATIN CAPITAL LETTER M
+1F11D	parenthesizedlatincapitallettern	PARENTHESIZED LATIN CAPITAL LETTER N
+1F11E	parenthesizedlatincapitallettero	PARENTHESIZED LATIN CAPITAL LETTER O
+1F11F	parenthesizedlatincapitalletterp	PARENTHESIZED LATIN CAPITAL LETTER P
+1F120	parenthesizedlatincapitalletterq	PARENTHESIZED LATIN CAPITAL LETTER Q
+1F121	parenthesizedlatincapitalletterr	PARENTHESIZED LATIN CAPITAL LETTER R
+1F122	parenthesizedlatincapitalletters	PARENTHESIZED LATIN CAPITAL LETTER S
+1F123	parenthesizedlatincapitallettert	PARENTHESIZED LATIN CAPITAL LETTER T
+1F124	parenthesizedlatincapitalletteru	PARENTHESIZED LATIN CAPITAL LETTER U
+1F125	parenthesizedlatincapitalletterv	PARENTHESIZED LATIN CAPITAL LETTER V
+1F126	parenthesizedlatincapitalletterw	PARENTHESIZED LATIN CAPITAL LETTER W
+1F127	parenthesizedlatincapitalletterx	PARENTHESIZED LATIN CAPITAL LETTER X
+1F128	parenthesizedlatincapitallettery	PARENTHESIZED LATIN CAPITAL LETTER Y
+1F129	parenthesizedlatincapitalletterz	PARENTHESIZED LATIN CAPITAL LETTER Z
+1F12A	tortoiseshellbracketedlatincapitalletters	TORTOISE SHELL BRACKETED LATIN CAPITAL LETTER S
+1F12B	circleditaliclatincapitalletterc	CIRCLED ITALIC LATIN CAPITAL LETTER C
+1F12C	circleditaliclatincapitalletterr	CIRCLED ITALIC LATIN CAPITAL LETTER R
+1F12D	circledcd	CIRCLED CD
+1F12E	circledwz	CIRCLED WZ
+1F131	squaredlatincapitalletterb	SQUARED LATIN CAPITAL LETTER B
+1F13D	squaredlatincapitallettern	SQUARED LATIN CAPITAL LETTER N
+1F13F	squaredlatincapitalletterp	SQUARED LATIN CAPITAL LETTER P
+1F142	squaredlatincapitalletters	SQUARED LATIN CAPITAL LETTER S
+1F146	squaredlatincapitalletterw	SQUARED LATIN CAPITAL LETTER W
+1F14A	squaredhv	SQUARED HV
+1F14B	squaredmv	SQUARED MV
+1F14C	squaredsd	SQUARED SD
+1F14D	squaredss	SQUARED SS
+1F14E	squaredppv	SQUARED PPV
+1F157	negativecircledlatincapitalletterh	NEGATIVE CIRCLED LATIN CAPITAL LETTER H
+1F15F	negativecircledlatincapitalletterp	NEGATIVE CIRCLED LATIN CAPITAL LETTER P
+1F179	negativesquaredlatincapitalletterj	NEGATIVE SQUARED LATIN CAPITAL LETTER J
+1F17B	negativesquaredlatincapitalletterl	NEGATIVE SQUARED LATIN CAPITAL LETTER L
+1F17C	negativesquaredlatincapitalletterm	NEGATIVE SQUARED LATIN CAPITAL LETTER M
+1F17F	negativesquaredlatincapitalletterp	NEGATIVE SQUARED LATIN CAPITAL LETTER P
+1F18A	crossednegativesquaredlatincapitalletterp	CROSSED NEGATIVE SQUARED LATIN CAPITAL LETTER P
+1F18B	negativesquaredic	NEGATIVE SQUARED IC
+1F18C	negativesquaredpa	NEGATIVE SQUARED PA
+1F18D	negativesquaredsa	NEGATIVE SQUARED SA
+1F190	squaredj	SQUARE DJ

@@ -1,0 +1,11 @@
+# Vertical Forms FE10 - FE1F
+FE10	presentationformforverticalcomma	PRESENTATION FORM FOR VERTICAL COMMA
+FE11	presentationformforverticalideographiccomma	PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA
+FE12	presentationformforverticalideographicfullstop	PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP
+FE13	presentationformforverticalcolon	PRESENTATION FORM FOR VERTICAL COLON
+FE14	presentationformforverticalsemicolon	PRESENTATION FORM FOR VERTICAL SEMICOLON
+FE15	presentationformforverticalexclamationmark	PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK
+FE16	presentationformforverticalquestionmark	PRESENTATION FORM FOR VERTICAL QUESTION MARK
+FE17	presentationformforverticalleftwhitelenticularbracket	PRESENTATION FORM FOR VERTICAL LEFT WHITE LENTICULAR BRACKET
+FE18	presentationformforverticalrightwhitelenticularbrakcet	PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRAKCET
+FE19	presentationformforverticalhorizontalellipsis	PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS
