@@ -1,5 +1,6 @@
 from glyphNameFormatter.scriptPrefixes import scriptPrefixes
 
+
 def process(self):
     self.scriptTag = scriptPrefixes['armenian']
     self.edit("ARMENIAN")
@@ -13,6 +14,7 @@ def process(self):
     self.edit("SMALL LIGATURE ECH YIWN", "ech_yiwn")
     self.edit("COMMA", "comma")
     self.edit("FULL STOP", "period")
+    self.edit("HYPHEN", "hyphen")
     self.handleCase()
     self.compress()
 
