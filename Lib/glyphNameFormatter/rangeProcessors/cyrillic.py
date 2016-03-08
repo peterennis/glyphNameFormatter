@@ -4,7 +4,10 @@ def process(self):
     self.scriptTag = scriptPrefixes['cyrillic']
     
     self.edit("CYRILLIC")
-    self.edit("CAPITAL LETTER E", "Ereversed") # unicode is wrong
+    if self.uniNumber == 0x042D:
+        # unicode is wrong
+        self.uniNameProcessed = "Ereversed"
+        return
 
     self.edit("CAPITAL LIGATURE EN GHE", "En_Ghe")
     self.edit("SMALL LIGATURE EN GHE", "en_ghe")
