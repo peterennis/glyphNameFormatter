@@ -1,4 +1,8 @@
 
+gr-iotalenis
+	037A	gr-iotalenis	Greek and Coptic
+	1F30	gr-iotalenis	Greek Extended
+
 hanguljungseongoe
 	116C	hanguljungseongoe	Hangul Jamo
 	1180	hanguljungseongoe	Hangul Jamo
