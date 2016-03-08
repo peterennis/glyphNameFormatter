@@ -1,13 +1,13 @@
 from glyphNameFormatter.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    self.scriptTag = scriptPrefixes['japan']
+    self.scriptTag = scriptPrefixes['katakana']
     self.edit("KATAKANA-HIRAGANA", "kana")
-    self.edit("KATAKANA", "katakana")
     self.edit("SOUND MARK")
     self.edit("MARK")
     self.edit("LETTER")
     self.edit("SMALL", "small")
+    self.editToFinal("KATAKANA", "katakana")
     self.lower()
     self.compress()
 

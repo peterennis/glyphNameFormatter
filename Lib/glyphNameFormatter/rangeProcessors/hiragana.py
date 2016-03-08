@@ -1,7 +1,7 @@
 from glyphNameFormatter.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    self.scriptTag = scriptPrefixes['japan']
+    self.scriptTag = scriptPrefixes['hiragana']
 
     self.edit("LETTER")    
     self.edit("SMALL", "small")
