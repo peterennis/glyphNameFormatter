@@ -212,6 +212,12 @@ class GlyphName(GlyphNameProcessor):
             if i == lookFor:
                 self.suffixParts[n] = replaceWith
 
+    def editToFinal(self, namePart, *finals):
+        # similar to edit(), but the parts are added the finalParts, not suffixParts
+        # if you want to be really sure the parts end up at the end
+        if self.replace(namePart):
+            [self.final(s) for s in finals]
+
     def log(self, lookFor, replaceWith, before, after):
         self._log.append((lookFor, replaceWith, before, after))
 
