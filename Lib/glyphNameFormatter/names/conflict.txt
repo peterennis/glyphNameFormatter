@@ -1,7 +1,19 @@
 
+diamondblack
+	25C6	diamondblack	Geometric Shapes
+	2666	diamondblack	Miscellaneous Symbols
+
+diamondwhite
+	25C7	diamondwhite	Geometric Shapes
+	2662	diamondwhite	Miscellaneous Symbols
+
 gr-iotalenis
 	037A	gr-iotalenis	Greek and Coptic
 	1F30	gr-iotalenis	Greek Extended
+
+gscript
+	0261	gscript	IPA Extensions
+	210A	gscript	Letterlike Symbols
 
 hanguljungseongoe
 	116C	hanguljungseongoe	Hangul Jamo
@@ -14,7 +26,3 @@ hyphen
 perpendicular
 	22A5	perpendicular	Mathematical Operators
 	27C2	perpendicular	Miscellaneous Mathematical Symbols-A
-
-sun
-	2609	sun	Miscellaneous Symbols
-	263C	sun	Miscellaneous Symbols

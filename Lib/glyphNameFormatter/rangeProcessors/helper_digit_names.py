@@ -1,4 +1,4 @@
-from glyphNameFormatter.scriptPrefixes import scriptPrefixes
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
 
@@ -14,7 +14,7 @@ def process(self):
     self.replace("OCTOBER", "october")
     self.replace("NOVEMBER", "november")
     self.replace("DECEMBER", "december")
-    
+
     self.replace("THIRTY SIX", "thirtysix")
     self.replace("THIRTY SEVEN", "thirtyseven")
     self.replace("THIRTY EIGHT", "thirtyeight")

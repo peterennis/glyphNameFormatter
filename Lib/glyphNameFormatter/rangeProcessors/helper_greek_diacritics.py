@@ -1,7 +1,7 @@
-from glyphNameFormatter.scriptPrefixes import scriptPrefixes
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    
+
     parts = {
         'PROSGEGRAMMENI'    :   "iotasub",
         'YPOGEGRAMMENI'     :   "iotasub", # XX really?

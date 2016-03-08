@@ -1,4 +1,4 @@
-from glyphNameFormatter.scriptPrefixes import scriptPrefixes
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
     self.scriptTag = scriptPrefixes['arabic']
@@ -8,7 +8,7 @@ def process(self):
     # but it is always possible to have one
     # edit outside its category just to make it work    self.edit("ARABIC LETTER HAMZA", 'hamza')
     self.edit("ARABIC LETTER ALEF", "alef")
- 
+
     # digits
     self.edit("EXTENDED ARABIC-INDIC DIGIT", "far")
     self.edit("ARABIC-INDIC CUBE", 'cube')

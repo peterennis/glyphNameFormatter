@@ -1,8 +1,9 @@
-from glyphNameFormatter.scriptPrefixes import scriptPrefixes
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
+
 
 def process(self):
     self.scriptTag = scriptPrefixes['cyrillic']
-    
+
     self.edit("CYRILLIC")
     if self.uniNumber == 0x042D:
         # unicode is wrong

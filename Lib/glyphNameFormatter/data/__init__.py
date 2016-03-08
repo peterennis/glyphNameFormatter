@@ -9,7 +9,7 @@ path = os.path.dirname(__file__)
 unicode2name_AGD = {}
 name2unicode_AGD = {}
 
-f = open(os.path.join(path, "AGD_name_uni.txt"), "r")
+f = open(os.path.join(path, "AGD.txt"), "r")
 lines = f.readlines()
 f.close()
 

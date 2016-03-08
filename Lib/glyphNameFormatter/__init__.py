@@ -2,19 +2,21 @@
 
 import unicodedata
 
+from data.scriptConflictNames import scriptConflictNames
+from data.preferredAGLNames import preferredAGLNames
+from data.scriptPrefixes import scriptPrefixes
+
 from unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessorByRangeName
-from scriptConflictNames import scriptConflictNames
-from preferredAGLNames import preferredAGLNames
-from scriptPrefixes import scriptPrefixes
 from rangeProcessors import GlyphNameProcessor
 
 from tools import unicodeToChar
+
 
 def debug(uniNumber):
     # trace the processing of a specific number
     glyphName = GlyphName(uniNumber=uniNumber, verbose=True)
     glyphName.process()
-    print "debug: %04x"%uniNumber
+    print "debug: %04x" % uniNumber
     print "name:", glyphName.getName()
     for step in glyphName._log:
         print "\t", step
@@ -234,7 +236,8 @@ class GlyphName(GlyphNameProcessor):
 
     def condense(self, part, combiner=""):
         # remove spaces, remove hyphens, change to lowercase
-        if part is None: return
+        if part is None:
+            return
         editPart = part.replace(" ", combiner)
         editPart = editPart.replace("-", "")
         editPart = editPart.lower()

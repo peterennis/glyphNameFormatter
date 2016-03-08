@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-from glyphNameFormatter.scriptPrefixes import scriptPrefixes
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 
 def process(self):

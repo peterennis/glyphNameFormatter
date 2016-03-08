@@ -35,6 +35,7 @@ def getRangeByName(rangeName):
             return r
     return None
 
+
 def getAllRangeNames():
     names = []
     ranges = unicodeRangeNames.keys()
@@ -42,6 +43,7 @@ def getAllRangeNames():
     for r in ranges:
         names.append(unicodeRangeNames[r])
     return names
+
 
 def getPlaneName(value):
     for a, b in unicodePlaneNames.keys():

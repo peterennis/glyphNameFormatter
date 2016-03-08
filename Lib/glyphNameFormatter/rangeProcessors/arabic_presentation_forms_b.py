@@ -1,8 +1,8 @@
-from glyphNameFormatter.scriptPrefixes import scriptPrefixes
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
     self.scriptTag = scriptPrefixes['arabic']
-    
+
     self.processAs("Arabic")
     # more specific edits needed
 

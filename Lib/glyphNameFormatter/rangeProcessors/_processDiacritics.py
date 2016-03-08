@@ -97,7 +97,6 @@ def processDiacritics(self):
     self.edit("WITH STROKE", "stroke")
     self.edit("STROKE", "stroke")
 
-
     if self.has("BAR") and not self.has("AKBAR") and not self.has("TOPBAR") and not self.has("BARRED"):
         if self.replace("BAR"):
             self.suffix("bar")

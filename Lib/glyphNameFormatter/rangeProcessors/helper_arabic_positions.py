@@ -1,7 +1,7 @@
-from glyphNameFormatter.scriptPrefixes import scriptPrefixes
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    
+
     # positions
     self.edit('INITIAL FORM', ".init")
     self.edit('MEDIAL FORM', ".medi")
