@@ -11,4 +11,5 @@ scriptPrefixes = {
     'japan': 'jp',
     'latin': "lt",
     'tibetan': 'tb',
+    'mongolian' : 'mo',
 }
