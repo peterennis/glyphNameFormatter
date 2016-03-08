@@ -40,15 +40,21 @@ def testAGDCoverage():
     supported.sort()
     notSupported.sort()
     notNeeded.sort()
+    supportedTotal = 0
+    notSupportedTotal = 0
     print "Available range processors for AGD:"
     for n in supported:
         print "\t%8d\t%s"%(glyphCount[n], n)
+        supportedTotal += glyphCount[n]
     print "\nMissing range processors for AGD:"
     for n in notSupported:
         print "\t%8d\t%s"%(glyphCount[n], n)
+        notSupportedTotal += glyphCount[n]
+    print "Coverage complete: %3.1f%%"%(100.0*supportedTotal/(supportedTotal+notSupportedTotal))
     print "\nRange processors not needed for AGD:"
     for n in notNeeded:
         print "\t", n
+
 
 
 if __name__ == "__main__":
