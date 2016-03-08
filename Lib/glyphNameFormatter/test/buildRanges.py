@@ -1,6 +1,6 @@
 import glyphNameFormatter
 reload(glyphNameFormatter)
-from unicodeRangeNames import getRangeByName, getAllRangeNames
+from glyphNameFormatter.unicodeRangeNames import getRangeByName, getAllRangeNames
 
 
 skipped = {}

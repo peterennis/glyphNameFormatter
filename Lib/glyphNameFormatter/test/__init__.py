@@ -105,7 +105,7 @@ def testGLIFFileName(rangeName, toFile=None):
 
 
 if __name__ == "__main__":
-    from unicodeRangeNames import getAllRangeNames
+    from glyphNameFormatter.unicodeRangeNames import getAllRangeNames
 
     # time test
     import time
@@ -124,5 +124,3 @@ if __name__ == "__main__":
         printRange(rangeName, f)
         f.write("\n\n")
     f.close()
-
-
