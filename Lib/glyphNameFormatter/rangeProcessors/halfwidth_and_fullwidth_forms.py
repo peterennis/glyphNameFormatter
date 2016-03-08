@@ -11,8 +11,11 @@ def process(self):
         self.editToFinal("FULLWIDTH", 'fullwidth')
         self.processAs('Basic Latin')
         self.edit("COMMERCIAL AT", "at")
+    elif 0xFF65 <= self.uniNumber <= 0xFF9F:
+        self.editToFinal("HALFWIDTH", 'halfwidth')
+        self.processAs('Katakana')
 
-    # XXXXX add support for KATAKANA
+    # XXXXX add support for HANGUL
     self.compress()
 
 if __name__ == "__main__":
