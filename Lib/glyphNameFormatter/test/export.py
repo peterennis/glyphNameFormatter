@@ -29,4 +29,5 @@ def generateFlat(path, onlySupported=True):
     f.write("\n".join(data))
     f.close()
 
-generateFlat(path="./../names/glyphNamesToUnicode")
+if __name__ == "__main__":
+    generateFlat(path="./../names/glyphNamesToUnicode")
