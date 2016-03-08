@@ -6,6 +6,9 @@ def process(self):
 
     # edits go here
     self.edit("TIBETAN")
+    if self.has("DIGIT"):
+        self.edit("DIGIT", "")
+        self.lower()
 
     # self.edit("SIGN", 'sign')
     # self.edit("MARK", 'mark')
