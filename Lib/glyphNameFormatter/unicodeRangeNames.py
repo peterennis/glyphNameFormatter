@@ -182,6 +182,10 @@ def getAllPlaneNames():
     return names
 
 
+def rangeNameToModuleName(rangeName):
+    return rangeName.lower().replace(" ", "_").replace("-", "_")
+
+
 def getRangeProcessor(value):
     name = getRangeName(value)
     if name is None:
@@ -191,7 +195,7 @@ def getRangeProcessor(value):
 
 def getRangeProcessorByRangeName(rangeName):
     import importlib
-    moduleName = rangeName.lower().replace(" ", "_").replace("-", "_")
+    moduleName = rangeNameToModuleName(rangeName)
     module = None
     try:
         module = importlib.import_module('glyphNameFormatter.rangeProcessors.%s' % moduleName)
