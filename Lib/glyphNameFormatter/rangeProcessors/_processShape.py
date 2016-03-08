@@ -33,5 +33,7 @@ def processShape(self):
 
     self.edit("REVERSED", "turned")
     self.edit("TURNED", "turned")
+    self.edit("INVERTED", "inverted")
+    self.edit("CENTRED", "centred")
 
     self.edit("LOOP", "loop")

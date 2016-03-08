@@ -1,10 +1,21 @@
 
 def process(self):
+    self.replace("MODIFIER")
+
+    #self.replace("LETTER SMALL CAPITAL INVERTED R", "Rsmallinvertedsupmod")
 
     self.edit("COLON", "colon")
     self.edit("TRIANGULAR", "triangular")
+    self.edit("RING", "ring")
+    self.edit("DEPARTING TONE MARK", "tone")
     self.edit("TONE MARK", "tone")
     self.edit("TONE", "tone")
+    self.edit("DOUBLE", "dbl")
+    self.edit("WITH HOOK", "hook")
+    self.edit("HOOK", "hook")
+    self.edit("TURNED", "turned")
+    self.edit("HALF", "half")
+    self.edit("SMALL", "sup")
     self.edit("BAR", "bar")
     self.edit("HALF", "half")
     self.edit("LEFT", "left")
@@ -18,23 +29,21 @@ def process(self):
     self.edit("EXTRA-HIGH", "extrahigh")
     self.edit("HIGH", "high")
     self.edit("BEGIN", "begin")
-
     self.edit("END", "end")
 
     self.edit("RAISED", "raised")
     self.edit("SHELF", "shelf")
 
-    self.edit("DOUBLE", "dbl")
-
     self.processShape()
-
-    self.edit("MODIFIER", "mod")
 
     self.replace("ACCENT")
     self.replace("LETTER")
 
-    self.lower()
     self.handleCase()
+    if not self.has("CAPITAL"):
+        self.lower()
+    if self.has("MODIFIER"):
+        self.suffix("mod")
     self.compress()
 
 
