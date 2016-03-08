@@ -1,5 +1,6 @@
 from glyphNameFormatter.scriptPrefixes import scriptPrefixes
 
+
 def process(self):
     self.scriptTag = scriptPrefixes['hebrew']
 
@@ -23,6 +24,7 @@ def process(self):
 
     self.lower()
     self.compress()
+
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange

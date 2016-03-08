@@ -1,5 +1,6 @@
 from glyphNameFormatter.scriptPrefixes import scriptPrefixes
 
+
 def process(self):
     self.scriptTag = scriptPrefixes['boxdrawings']
     self.replace("BOX DRAWINGS")

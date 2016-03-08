@@ -58,4 +58,5 @@ def process(self):
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
+
     printRange("Latin-1 Supplement")
