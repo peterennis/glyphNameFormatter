@@ -1,28 +1,30 @@
-from glyphNameFormatter.data import unicode2name_AGD
-
 
 def process(self):
-    if self.uniNumber in unicode2name_AGD:
-        self.replace(self.uniName, unicode2name_AGD[self.uniNumber])
-        return
 
-    # self.edit("TONE", "tone")
-    # self.edit("LOW", "low")
-    # self.edit("HIGH", "high")
-    # self.edit("BEGIN", "begin")
-    # self.edit("MIDDLE", "middle")
-    # self.edit("END", "end")
-    # self.edit("")
-    # self.edit("RAISED", "raised")
-    # self.edit("SHELF", "shelf")
+    self.edit("TONE", "tone")
+    self.edit("HALF", "half")
+    self.edit("LEFT", "left")
+    self.edit("RIGHT", "right")
+    self.edit("UP", "up")
+    self.edit("DOWN", "down")
+    self.edit("EXTRA-LOW", "extralow")
+    self.edit("LOW", "low")
+    self.edit("EXTRA-HIGH", "extrahigh")
+    self.edit("HIGH", "high")
+    self.edit("BEGIN", "begin")
+    self.edit("MIDDLE", "middle")
+    self.edit("END", "end")
 
-    # self.processShape()
+    self.edit("RAISED", "raised")
+    self.edit("SHELF", "shelf")
 
-    # self.edit("MODIFIER", "mod")
+    self.processShape()
 
-    # self.replace("DOUBLE", "dbl")
-    # self.replace("ACCENT")
-    # self.replace("LETTER")
+    self.edit("MODIFIER", "mod")
+
+    self.replace("DOUBLE", "dbl")
+    self.replace("ACCENT")
+    self.replace("LETTER")
 
     self.lower()
     self.handleCase()
