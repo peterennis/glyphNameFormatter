@@ -2,9 +2,11 @@
 
 def process(self):
     self.replace("EURO-CURRENCY", "euroarchaic")
+    self.replace("EURO", "Euro")
     self.replace("SIGN")
     self.compress()
-    self.lower()
+    if not self.has("EURO"):
+        self.lower()
 
 
 if __name__ == "__main__":
