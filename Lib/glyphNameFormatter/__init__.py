@@ -2,7 +2,7 @@
 
 import unicodedata
 
-from unicodeRangeNames import getRangeName, getRangeProcessor
+from unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessorByRangeName
 from scriptConflictNames import scriptConflictNames
 from preferredAGLNames import preferredAGLNames
 from scriptPrefixes import scriptPrefixes
@@ -171,6 +171,9 @@ class GlyphName(GlyphNameProcessor):
             # take disambiguation action
             self.mustAddScript = True
 
+    def processAs(self, rangeName):
+        processor = getRangeProcessorByRangeName(rangeName)
+        processor(self)
 
     def edit(self, pattern, *suffix):
         # look for pattern

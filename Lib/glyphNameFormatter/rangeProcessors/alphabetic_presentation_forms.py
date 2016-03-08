@@ -6,13 +6,11 @@ def process(self):
         self.scriptTag = scriptPrefixes['latin']
     elif self.has("ARMENIAN"):
         self.scriptTag = scriptPrefixes['armenian']
-        from glyphNameFormatter.rangeProcessors.armenian import process as processArmenian
-        processArmenian(self)
+        self.processAs("Armenian")
     elif self.has("HEBREW"):
         self.scriptTag = scriptPrefixes['hebrew']
-        from glyphNameFormatter.rangeProcessors.hebrew import process as processHebrew
-        processHebrew(self)
-    
+        self.processAs("Hebrew")
+
     self.edit("LATIN SMALL LIGATURE FF", "f_f")
     self.edit("LATIN SMALL LIGATURE FI", "fi")
     self.edit("LATIN SMALL LIGATURE FL", "fl")
