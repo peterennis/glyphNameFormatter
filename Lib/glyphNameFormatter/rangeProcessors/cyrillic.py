@@ -3,8 +3,8 @@ from glyphNameFormatter.scriptPrefixes import scriptPrefixes
 def process(self):
     self.scriptTag = scriptPrefixes['cyrillic']
     
-    # edits go here
     self.edit("CYRILLIC")
+    self.edit("CAPITAL LETTER E", "Ereversed") # unicode is wrong
 
     self.edit("CAPITAL LIGATURE EN GHE", "En_Ghe")
     self.edit("SMALL LIGATURE EN GHE", "en_ghe")
