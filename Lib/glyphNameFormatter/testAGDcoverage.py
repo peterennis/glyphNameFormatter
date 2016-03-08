@@ -1,5 +1,5 @@
 from glyphNameFormatter import GlyphName
-from glyphNameFormatter.unicodeRangeNames import getRangeName, getRangeProcessor, getAllRangeNames
+from glyphNameFormatter.unicodeRangeNames import getRangeName, getRangeProcessor, getAllRangeNames, rangeNameToModuleName
 
 from glyphNameFormatter.data import name2unicode_AGD
 import importlib
@@ -28,7 +28,7 @@ def testAGDCoverage():
     notSupported = []
     notNeeded = []
     for name in wantRanges:
-        moduleName = name.lower().replace(" ", "_")
+        moduleName = rangeNameToModuleName(name)
         try:
             module = importlib.import_module('glyphNameFormatter.rangeProcessors.%s' % moduleName)
             supported.append(name)
