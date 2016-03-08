@@ -27,6 +27,7 @@ def process(self):
     self.replace("WHITE DOT RIGHT", "whitedotright")
     self.replace("DOT RIGHT", "dotright")
 
+    self.replace("WAY LEFT WAY", "wayleftway")
     self.edit("DOUBLE", "dbl")
 
     parts = [
