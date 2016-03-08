@@ -1,97 +1,97 @@
 # Katakana 30A0 - 30FF
-30A0	katakanahiraganadoublehyphen	KATAKANA-HIRAGANA DOUBLE HYPHEN
-30A1	katakanalettersmalla	KATAKANA LETTER SMALL A
-30A2	katakanalettera	KATAKANA LETTER A
-30A3	katakanalettersmalli	KATAKANA LETTER SMALL I
-30A4	katakanaletteri	KATAKANA LETTER I
-30A5	katakanalettersmallu	KATAKANA LETTER SMALL U
-30A6	katakanaletteru	KATAKANA LETTER U
-30A7	katakanalettersmalle	KATAKANA LETTER SMALL E
-30A8	katakanalettere	KATAKANA LETTER E
-30A9	katakanalettersmallo	KATAKANA LETTER SMALL O
-30AA	katakanalettero	KATAKANA LETTER O
-30AB	katakanaletterka	KATAKANA LETTER KA
-30AC	katakanaletterga	KATAKANA LETTER GA
-30AD	katakanaletterki	KATAKANA LETTER KI
-30AE	katakanalettergi	KATAKANA LETTER GI
-30AF	katakanaletterku	KATAKANA LETTER KU
-30B0	katakanalettergu	KATAKANA LETTER GU
-30B1	katakanaletterke	KATAKANA LETTER KE
-30B2	katakanaletterge	KATAKANA LETTER GE
-30B3	katakanaletterko	KATAKANA LETTER KO
-30B4	katakanalettergo	KATAKANA LETTER GO
-30B5	katakanalettersa	KATAKANA LETTER SA
-30B6	katakanaletterza	KATAKANA LETTER ZA
-30B7	katakanalettersi	KATAKANA LETTER SI
-30B8	katakanaletterzi	KATAKANA LETTER ZI
-30B9	katakanalettersu	KATAKANA LETTER SU
-30BA	katakanaletterzu	KATAKANA LETTER ZU
-30BB	katakanaletterse	KATAKANA LETTER SE
-30BC	katakanaletterze	KATAKANA LETTER ZE
-30BD	katakanaletterso	KATAKANA LETTER SO
-30BE	katakanaletterzo	KATAKANA LETTER ZO
-30BF	katakanaletterta	KATAKANA LETTER TA
-30C0	katakanaletterda	KATAKANA LETTER DA
-30C1	katakanaletterti	KATAKANA LETTER TI
-30C2	katakanaletterdi	KATAKANA LETTER DI
-30C3	katakanalettersmalltu	KATAKANA LETTER SMALL TU
-30C4	katakanalettertu	KATAKANA LETTER TU
-30C5	katakanaletterdu	KATAKANA LETTER DU
-30C6	katakanaletterte	KATAKANA LETTER TE
-30C7	katakanaletterde	KATAKANA LETTER DE
-30C8	katakanaletterto	KATAKANA LETTER TO
-30C9	katakanaletterdo	KATAKANA LETTER DO
-30CA	katakanaletterna	KATAKANA LETTER NA
-30CB	katakanaletterni	KATAKANA LETTER NI
-30CC	katakanaletternu	KATAKANA LETTER NU
-30CD	katakanaletterne	KATAKANA LETTER NE
-30CE	katakanaletterno	KATAKANA LETTER NO
-30CF	katakanaletterha	KATAKANA LETTER HA
-30D0	katakanaletterba	KATAKANA LETTER BA
-30D1	katakanaletterpa	KATAKANA LETTER PA
-30D2	katakanaletterhi	KATAKANA LETTER HI
-30D3	katakanaletterbi	KATAKANA LETTER BI
-30D4	katakanaletterpi	KATAKANA LETTER PI
-30D5	katakanaletterhu	KATAKANA LETTER HU
-30D6	katakanaletterbu	KATAKANA LETTER BU
-30D7	katakanaletterpu	KATAKANA LETTER PU
-30D8	katakanaletterhe	KATAKANA LETTER HE
-30D9	katakanaletterbe	KATAKANA LETTER BE
-30DA	katakanaletterpe	KATAKANA LETTER PE
-30DB	katakanaletterho	KATAKANA LETTER HO
-30DC	katakanaletterbo	KATAKANA LETTER BO
-30DD	katakanaletterpo	KATAKANA LETTER PO
-30DE	katakanaletterma	KATAKANA LETTER MA
-30DF	katakanalettermi	KATAKANA LETTER MI
-30E0	katakanalettermu	KATAKANA LETTER MU
-30E1	katakanaletterme	KATAKANA LETTER ME
-30E2	katakanalettermo	KATAKANA LETTER MO
-30E3	katakanalettersmallya	KATAKANA LETTER SMALL YA
-30E4	katakanaletterya	KATAKANA LETTER YA
-30E5	katakanalettersmallyu	KATAKANA LETTER SMALL YU
-30E6	katakanaletteryu	KATAKANA LETTER YU
-30E7	katakanalettersmallyo	KATAKANA LETTER SMALL YO
-30E8	katakanaletteryo	KATAKANA LETTER YO
-30E9	katakanaletterra	KATAKANA LETTER RA
-30EA	katakanaletterri	KATAKANA LETTER RI
-30EB	katakanaletterru	KATAKANA LETTER RU
-30EC	katakanaletterre	KATAKANA LETTER RE
-30ED	katakanaletterro	KATAKANA LETTER RO
-30EE	katakanalettersmallwa	KATAKANA LETTER SMALL WA
-30EF	katakanaletterwa	KATAKANA LETTER WA
-30F0	katakanaletterwi	KATAKANA LETTER WI
-30F1	katakanaletterwe	KATAKANA LETTER WE
-30F2	katakanaletterwo	KATAKANA LETTER WO
-30F3	katakanalettern	KATAKANA LETTER N
-30F4	katakanalettervu	KATAKANA LETTER VU
-30F5	katakanalettersmallka	KATAKANA LETTER SMALL KA
-30F6	katakanalettersmallke	KATAKANA LETTER SMALL KE
-30F7	katakanaletterva	KATAKANA LETTER VA
-30F8	katakanalettervi	KATAKANA LETTER VI
-30F9	katakanaletterve	KATAKANA LETTER VE
-30FA	katakanalettervo	KATAKANA LETTER VO
-30FB	katakanamiddledot	KATAKANA MIDDLE DOT
-30FC	katakanahiraganaprolongedsoundmark	KATAKANA-HIRAGANA PROLONGED SOUND MARK
-30FD	katakanaiterationmark	KATAKANA ITERATION MARK
-30FE	katakanavoicediterationmark	KATAKANA VOICED ITERATION MARK
-30FF	katakanadigraphkoto	KATAKANA DIGRAPH KOTO
+30A0	ka-doublehyphenkana	KATAKANA-HIRAGANA DOUBLE HYPHEN
+30A1	ka-asmallkatakana	KATAKANA LETTER SMALL A
+30A2	ka-akatakana	KATAKANA LETTER A
+30A3	ka-ismallkatakana	KATAKANA LETTER SMALL I
+30A4	ka-ikatakana	KATAKANA LETTER I
+30A5	ka-usmallkatakana	KATAKANA LETTER SMALL U
+30A6	ka-ukatakana	KATAKANA LETTER U
+30A7	ka-esmallkatakana	KATAKANA LETTER SMALL E
+30A8	ka-ekatakana	KATAKANA LETTER E
+30A9	ka-osmallkatakana	KATAKANA LETTER SMALL O
+30AA	ka-okatakana	KATAKANA LETTER O
+30AB	ka-kakatakana	KATAKANA LETTER KA
+30AC	ka-gakatakana	KATAKANA LETTER GA
+30AD	ka-kikatakana	KATAKANA LETTER KI
+30AE	ka-gikatakana	KATAKANA LETTER GI
+30AF	ka-kukatakana	KATAKANA LETTER KU
+30B0	ka-gukatakana	KATAKANA LETTER GU
+30B1	ka-kekatakana	KATAKANA LETTER KE
+30B2	ka-gekatakana	KATAKANA LETTER GE
+30B3	ka-kokatakana	KATAKANA LETTER KO
+30B4	ka-gokatakana	KATAKANA LETTER GO
+30B5	ka-sakatakana	KATAKANA LETTER SA
+30B6	ka-zakatakana	KATAKANA LETTER ZA
+30B7	ka-sikatakana	KATAKANA LETTER SI
+30B8	ka-zikatakana	KATAKANA LETTER ZI
+30B9	ka-sukatakana	KATAKANA LETTER SU
+30BA	ka-zukatakana	KATAKANA LETTER ZU
+30BB	ka-sekatakana	KATAKANA LETTER SE
+30BC	ka-zekatakana	KATAKANA LETTER ZE
+30BD	ka-sokatakana	KATAKANA LETTER SO
+30BE	ka-zokatakana	KATAKANA LETTER ZO
+30BF	ka-takatakana	KATAKANA LETTER TA
+30C0	ka-dakatakana	KATAKANA LETTER DA
+30C1	ka-tikatakana	KATAKANA LETTER TI
+30C2	ka-dikatakana	KATAKANA LETTER DI
+30C3	ka-tusmallkatakana	KATAKANA LETTER SMALL TU
+30C4	ka-tukatakana	KATAKANA LETTER TU
+30C5	ka-dukatakana	KATAKANA LETTER DU
+30C6	ka-tekatakana	KATAKANA LETTER TE
+30C7	ka-dekatakana	KATAKANA LETTER DE
+30C8	ka-tokatakana	KATAKANA LETTER TO
+30C9	ka-dokatakana	KATAKANA LETTER DO
+30CA	ka-nakatakana	KATAKANA LETTER NA
+30CB	ka-nikatakana	KATAKANA LETTER NI
+30CC	ka-nukatakana	KATAKANA LETTER NU
+30CD	ka-nekatakana	KATAKANA LETTER NE
+30CE	ka-nokatakana	KATAKANA LETTER NO
+30CF	ka-hakatakana	KATAKANA LETTER HA
+30D0	ka-bakatakana	KATAKANA LETTER BA
+30D1	ka-pakatakana	KATAKANA LETTER PA
+30D2	ka-hikatakana	KATAKANA LETTER HI
+30D3	ka-bikatakana	KATAKANA LETTER BI
+30D4	ka-pikatakana	KATAKANA LETTER PI
+30D5	ka-hukatakana	KATAKANA LETTER HU
+30D6	ka-bukatakana	KATAKANA LETTER BU
+30D7	ka-pukatakana	KATAKANA LETTER PU
+30D8	ka-hekatakana	KATAKANA LETTER HE
+30D9	ka-bekatakana	KATAKANA LETTER BE
+30DA	ka-pekatakana	KATAKANA LETTER PE
+30DB	ka-hokatakana	KATAKANA LETTER HO
+30DC	ka-bokatakana	KATAKANA LETTER BO
+30DD	ka-pokatakana	KATAKANA LETTER PO
+30DE	ka-makatakana	KATAKANA LETTER MA
+30DF	ka-mikatakana	KATAKANA LETTER MI
+30E0	ka-mukatakana	KATAKANA LETTER MU
+30E1	ka-mekatakana	KATAKANA LETTER ME
+30E2	ka-mokatakana	KATAKANA LETTER MO
+30E3	ka-yasmallkatakana	KATAKANA LETTER SMALL YA
+30E4	ka-yakatakana	KATAKANA LETTER YA
+30E5	ka-yusmallkatakana	KATAKANA LETTER SMALL YU
+30E6	ka-yukatakana	KATAKANA LETTER YU
+30E7	ka-yosmallkatakana	KATAKANA LETTER SMALL YO
+30E8	ka-yokatakana	KATAKANA LETTER YO
+30E9	ka-rakatakana	KATAKANA LETTER RA
+30EA	ka-rikatakana	KATAKANA LETTER RI
+30EB	ka-rukatakana	KATAKANA LETTER RU
+30EC	ka-rekatakana	KATAKANA LETTER RE
+30ED	ka-rokatakana	KATAKANA LETTER RO
+30EE	ka-wasmallkatakana	KATAKANA LETTER SMALL WA
+30EF	ka-wakatakana	KATAKANA LETTER WA
+30F0	ka-wikatakana	KATAKANA LETTER WI
+30F1	ka-wekatakana	KATAKANA LETTER WE
+30F2	ka-wokatakana	KATAKANA LETTER WO
+30F3	ka-nkatakana	KATAKANA LETTER N
+30F4	ka-vukatakana	KATAKANA LETTER VU
+30F5	ka-kasmallkatakana	KATAKANA LETTER SMALL KA
+30F6	ka-kesmallkatakana	KATAKANA LETTER SMALL KE
+30F7	ka-vakatakana	KATAKANA LETTER VA
+30F8	ka-vikatakana	KATAKANA LETTER VI
+30F9	ka-vekatakana	KATAKANA LETTER VE
+30FA	ka-vokatakana	KATAKANA LETTER VO
+30FB	ka-middledotkatakana	KATAKANA MIDDLE DOT
+30FC	ka-prolongedkana	KATAKANA-HIRAGANA PROLONGED SOUND MARK
+30FD	ka-iterationkatakana	KATAKANA ITERATION MARK
+30FE	ka-voicediterationkatakana	KATAKANA VOICED ITERATION MARK
+30FF	ka-digraphkotokatakana	KATAKANA DIGRAPH KOTO
