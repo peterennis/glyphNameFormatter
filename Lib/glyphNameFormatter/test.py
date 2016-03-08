@@ -107,6 +107,16 @@ def testGLIFFileName(rangeName, toFile=None):
 if __name__ == "__main__":
     from unicodeRangeNames import getAllRangeNames
 
+    # time test
+    import time
+    t = time.time()
+    for rangeName in getAllRangeNames():
+        r = _rangeNameToRange(rangeName)
+        for u in range(*r):
+            g = GlyphName(uniNumber=u)
+            name = g.getName()
+    print time.time() - t
+
     path = "./names/all.txt"
     f = open(path, "w")
     for rangeName in getAllRangeNames():
@@ -114,3 +124,5 @@ if __name__ == "__main__":
         printRange(rangeName, f)
         f.write("\n\n")
     f.close()
+
+
