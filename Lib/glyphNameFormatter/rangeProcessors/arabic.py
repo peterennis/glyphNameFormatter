@@ -121,12 +121,7 @@ def process(self):
     self.edit("SMALL", 'small')
     self.edit("REVERSED", "reversed")
 
-    # positions
-    self.edit('INITIAL FORM', ".init")
-    # self.edit('MEDIAL FORM', ".medi")
-    # self.edit('FINAL FORM', ".fina")
-    self.edit('ISOLATED FORM', ".isol")
-
+    self.processAs("Helper Arabic Positions")
 
     if self.uniName is not None:
         if "ARABIC LETTER" in self.uniName:
