@@ -15,6 +15,9 @@ def process(self):
     self.edit("CAPITAL LETTER HARD SIGN", "Hard")
     self.edit("CAPITAL LETTER SOFT SIGN", "Soft")
 
+    self.edit("SMALL LETTER PALOCHKA", "palochka")
+    self.edit("LETTER PALOCHKA", "Palochka")
+
     self.edit("BIG", "big")			# Yus
     self.edit("LITTLE", "little")	# yus
     self.edit("BARRED", "bar")
@@ -22,6 +25,7 @@ def process(self):
     self.edit("SHORT", "short")
     self.edit("IOTIFIED", "iotified")
     self.edit("WITH TITLO", 'titlo')
+    self.edit("TITLO", 'titlo')
     self.edit("WITH UPTURN", "up")
     self.edit("WITH DESCENDER", "descender")
     self.edit("WITH VERTICAL STROKE", "verticalstroke")
@@ -32,7 +36,6 @@ def process(self):
     self.edit("SOFT SIGN", "soft")
 
     self.edit("ROUND", "round")
-    self.edit("PALOCHKA", "Palochka")
     self.edit("KOMI", 'komi')
     self.edit("BYELORUSSIAN-UKRAINIAN", "ukran")
     self.edit("UKRAINIAN", "ukran")
@@ -40,6 +43,16 @@ def process(self):
     self.edit("BASHKIR", "bashkir")
     self.edit("KHAKASSIAN", "khakas")
     self.edit("ALEUT", "aleut")
+
+    self.edit("HUNDRED THOUSANDS SIGN", "hundredthousands")
+    self.edit("MILLIONS SIGN", "millions")
+    self.edit("THOUSANDS SIGN", "thousands")
+    self.edit("POKRYTIE", "pokrytie")
+    self.edit("PALATALIZATION", "palatalization")
+    self.edit("DASIA PNEUMATA", "dasia", "pneumata")
+    self.edit("PSILI PNEUMATA", "psili", "pneumata")
+
+    self.edit("COMBINING", "cmb")
 
     self.processDiacritics()
     self.handleCase()
