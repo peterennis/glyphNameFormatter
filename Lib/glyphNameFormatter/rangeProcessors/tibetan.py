@@ -1,8 +1,9 @@
 from glyphNameFormatter.scriptPrefixes import scriptPrefixes
 
+
 def process(self):
     self.scriptTag = scriptPrefixes['tibetan']
-    
+
     # edits go here
     self.edit("TIBETAN")
 
@@ -24,7 +25,7 @@ def process(self):
     self.edit("RIGHT-FACING SVASTI SIGN", "svastiright")
     self.edit("LEFT-FACING SVASTI SIGN", "svastileft")
 
-    self.edit("-")
+    self.edit("-A", "AA")  # Old name TIBETAN LETTER AA
     self.edit("LETTER")
     self.compress()
 
