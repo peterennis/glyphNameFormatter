@@ -10,7 +10,8 @@ def _rangeNameToRange(rangeName):
     return getRangeByName(rangeName)
 
 
-def printRange(rangeName):
+def printRange(rangeName, toFile=None):
+    out = []
     for u in range(*_rangeNameToRange(rangeName)):
         g = GlyphName(uniNumber=u)
         name = g.getName()
@@ -19,14 +20,24 @@ def printRange(rangeName):
         AGDName = unicode2name_AGD.get(g.uniNumber, "")
         if AGDName is None or AGDName == name:
             AGDName = ""
+        txt = name.ljust(50)
+        txt += AGDName.ljust(30)
+        txt += "%04X" % g.uniNumber
+        txt += "\t" + g.uniLetter.encode("utf-8")
+        txt += "\t" + g.uniName
 
-        print name.ljust(50), AGDName.ljust(30), "%04X" % g.uniNumber, "\t", g.uniLetter.encode("utf-8"), "\t", g.uniName
+        out.append(txt)
 
-    testDoubles(rangeName)
-    testGLIFFileName(rangeName)
+    out = "\n".join(out)
+    if toFile:
+        toFile.write(out)
+    else:
+        print out
+    testDoubles(rangeName, toFile)
+    testGLIFFileName(rangeName, toFile)
 
 
-def testDoubles(rangeName):
+def testDoubles(rangeName, toFile=None):
     """
     test if there are doubles
     """
@@ -45,10 +56,14 @@ def testDoubles(rangeName):
             names.add(name)
     if doubles:
         rangeText = "%04X - %04X" % (r[0], r[1])
-        print "\ndouble names for range %s:\n\t%s" % (rangeText, "\n\t".join(sorted(doubles)))
+        txt = "\n\ndouble names for range %s:\n\t%s" % (rangeText, "\n\t".join(sorted(doubles)))
+        if toFile:
+            toFile.write(txt)
+        else:
+            print txt
 
 
-def testGLIFFileName(rangeName):
+def testGLIFFileName(rangeName, toFile=None):
     """
     test on glif file name
     """
@@ -81,10 +96,21 @@ def testGLIFFileName(rangeName):
             existing.add(glifFileName)
     if doubles:
         rangeText = "%04X - %04X" % (r[0], r[1])
-        print "\ndouble glif file names for range %s:\n\t%s" % (rangeText, "\n\t".join(sorted(doubles)))
+        txt = "\n\ndouble glif file names for range %s:\n\t%s" % (rangeText, "\n\t".join(sorted(doubles)))
 
+        if toFile:
+            toFile.write(txt)
+        else:
+            print txt
 
 
 if __name__ == "__main__":
-    printRange((0x0000, 0xFFFF))
+    from unicodeRangeNames import getAllRangeNames
 
+    path = "./names/all.txt"
+    f = open(path, "w")
+    for rangeName in getAllRangeNames():
+        f.write("\n#%s\n\n" % rangeName)
+        printRange(rangeName, f)
+        f.write("\n\n")
+    f.close()
