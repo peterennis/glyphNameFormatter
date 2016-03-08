@@ -1,10 +1,7 @@
 import glyphNameFormatter
 reload(glyphNameFormatter)
-from unicodeRangeNames import getRangeByName, getAllRangeNames
+from glyphNameFormatter.unicodeRangeNames import getRangeByName, getAllRangeNames
 
-#
-#
-#
 #   Find duplicate names for different unicodes
 
 def findConflict():
@@ -24,12 +21,11 @@ def findConflict():
     n.sort()
     for name in n:
         if len(names[name]) > 1:
-            lines.append("\n%s"%(name))
+            lines.append("\n%s" % (name))
             for g in names[name]:
                 lines.append("\t%04X\t%s\t%s"%(g[0], name, g[1]))
 
-
-    path = "./names/conflict.txt"
+    path = "./../names/conflict.txt"
     f = open(path, 'w')
     f.write("\n".join(lines))
     f.close()
