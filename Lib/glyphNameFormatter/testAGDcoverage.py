@@ -12,9 +12,13 @@ import importlib
 
 def testAGDCoverage():
     wantRanges = []
+    glyphCount = {}
     for name in name2unicode_AGD:
         uniNumber = name2unicode_AGD[name]
         thisRange = getRangeName(uniNumber)
+        if not thisRange in glyphCount:
+            glyphCount[thisRange] = 0
+        glyphCount[thisRange] += 1
         if thisRange is None:
             #print name, "no range"
             continue
@@ -38,10 +42,10 @@ def testAGDCoverage():
     notNeeded.sort()
     print "Available range processors for AGD:"
     for n in supported:
-        print "\t", n
+        print "\t%8d\t%s"%(glyphCount[n], n)
     print "\nMissing range processors for AGD:"
     for n in notSupported:
-        print "\t", n
+        print "\t%8d\t%s"%(glyphCount[n], n)
     print "\nRange processors not needed for AGD:"
     for n in notNeeded:
         print "\t", n
