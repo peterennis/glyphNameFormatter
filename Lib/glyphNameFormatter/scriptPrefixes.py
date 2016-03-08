@@ -10,4 +10,5 @@ scriptPrefixes = {
     'ipa': 'ipa',
     'japan': 'jp',
     'latin': "lt",
+    'tibetan': 'tb',
 }
