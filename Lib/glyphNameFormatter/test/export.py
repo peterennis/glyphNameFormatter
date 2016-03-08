@@ -14,7 +14,7 @@ for rangeName in getAllRangeNames():
             continue
         data.append("%s %04X" % (name, u))
 
-path = "./names/glyphNamesToUnicode"
+path = "./../names/glyphNamesToUnicode"
 
 f = open(path, "w")
 f.write("\n".join(data))

@@ -117,7 +117,7 @@ if __name__ == "__main__":
             name = g.getName()
     print time.time() - t
 
-    path = "./names/all.txt"
+    path = "./../names/all.txt"
     f = open(path, "w")
     for rangeName in getAllRangeNames():
         f.write("\n#%s\n\n" % rangeName)
