@@ -1,176 +1,176 @@
 # Dingbats 2700 - 27BF
-2701	upperbladescissors	UPPER BLADE SCISSORS
-2702	blackscissors	BLACK SCISSORS
-2703	lowerbladescissors	LOWER BLADE SCISSORS
-2704	whitescissors	WHITE SCISSORS
+2701	scissorsupperblade	UPPER BLADE SCISSORS
+2702	scissorsblack	BLACK SCISSORS
+2703	scissorslowerblade	LOWER BLADE SCISSORS
+2704	scissorswhite	WHITE SCISSORS
 2706	telephonelocationsign	TELEPHONE LOCATION SIGN
 2707	tapedrive	TAPE DRIVE
 2708	airplane	AIRPLANE
 2709	envelope	ENVELOPE
-270C	victoryhand	VICTORY HAND
-270D	writinghand	WRITING HAND
-270E	lowerrightpencil	LOWER RIGHT PENCIL
+270C	hvictory	VICTORY HAND
+270D	hwriting	WRITING HAND
+270E	pencillowerright	LOWER RIGHT PENCIL
 270F	pencil	PENCIL
-2710	upperrightpencil	UPPER RIGHT PENCIL
-2711	whitenib	WHITE NIB
-2712	blacknib	BLACK NIB
-2713	checkmark	CHECK MARK
-2714	heavycheckmark	HEAVY CHECK MARK
+2710	pencilupperright	UPPER RIGHT PENCIL
+2711	nibwhite	WHITE NIB
+2712	nibblack	BLACK NIB
+2713	check	CHECK MARK
+2714	checkheavy	HEAVY CHECK MARK
 2715	multiplicationx	MULTIPLICATION X
-2716	heavymultiplicationx	HEAVY MULTIPLICATION X
+2716	multiplicationxheavy	HEAVY MULTIPLICATION X
 2717	ballotx	BALLOT X
-2718	heavyballotx	HEAVY BALLOT X
-2719	outlinedgreekcross	OUTLINED GREEK CROSS
-271A	heavygreekcross	HEAVY GREEK CROSS
-271B	opencentrecross	OPEN CENTRE CROSS
-271C	heavyopencentrecross	HEAVY OPEN CENTRE CROSS
+2718	ballotxheavy	HEAVY BALLOT X
+2719	greekcrossoutlined	OUTLINED GREEK CROSS
+271A	greekcrossheavy	HEAVY GREEK CROSS
+271B	crosscentreopen	OPEN CENTRE CROSS
+271C	crosscentreopenheavy	HEAVY OPEN CENTRE CROSS
 271D	latincross	LATIN CROSS
-271E	shadowedwhitelatincross	SHADOWED WHITE LATIN CROSS
-271F	outlinedlatincross	OUTLINED LATIN CROSS
+271E	latincrossshadowedwhite	SHADOWED WHITE LATIN CROSS
+271F	latincrossoutlined	OUTLINED LATIN CROSS
 2720	maltesecross	MALTESE CROSS
 2721	starofdavid	STAR OF DAVID
-2722	fourteardropspokedasterisk	FOUR TEARDROP-SPOKED ASTERISK
-2723	fourballoonspokedasterisk	FOUR BALLOON-SPOKED ASTERISK
-2724	heavyfourballoonspokedasterisk	HEAVY FOUR BALLOON-SPOKED ASTERISK
-2725	fourclubspokedasterisk	FOUR CLUB-SPOKED ASTERISK
-2726	blackfourpointedstar	BLACK FOUR POINTED STAR
-2727	whitefourpointedstar	WHITE FOUR POINTED STAR
-2729	stressoutlinedwhitestar	STRESS OUTLINED WHITE STAR
-272A	circledwhitestar	CIRCLED WHITE STAR
-272B	opencentreblackstar	OPEN CENTRE BLACK STAR
-272C	blackcentrewhitestar	BLACK CENTRE WHITE STAR
-272D	outlinedblackstar	OUTLINED BLACK STAR
-272E	heavyoutlinedblackstar	HEAVY OUTLINED BLACK STAR
-272F	pinwheelstar	PINWHEEL STAR
-2730	shadowedwhitestar	SHADOWED WHITE STAR
-2731	heavyasterisk	HEAVY ASTERISK
-2732	opencentreasterisk	OPEN CENTRE ASTERISK
-2733	eightspokedasterisk	EIGHT SPOKED ASTERISK
-2734	eightpointedblackstar	EIGHT POINTED BLACK STAR
-2735	eightpointedpinwheelstar	EIGHT POINTED PINWHEEL STAR
-2736	sixpointedblackstar	SIX POINTED BLACK STAR
-2737	eightpointedrectilinearblackstar	EIGHT POINTED RECTILINEAR BLACK STAR
-2738	heavyeightpointedrectilinearblackstar	HEAVY EIGHT POINTED RECTILINEAR BLACK STAR
-2739	twelvepointedblackstar	TWELVE POINTED BLACK STAR
-273A	sixteenpointedasterisk	SIXTEEN POINTED ASTERISK
-273B	teardropspokedasterisk	TEARDROP-SPOKED ASTERISK
-273C	opencentreteardropspokedasterisk	OPEN CENTRE TEARDROP-SPOKED ASTERISK
-273D	heavyteardropspokedasterisk	HEAVY TEARDROP-SPOKED ASTERISK
-273E	sixpetalledblackandwhiteflorette	SIX PETALLED BLACK AND WHITE FLORETTE
-273F	blackflorette	BLACK FLORETTE
-2740	whiteflorette	WHITE FLORETTE
-2741	eightpetalledoutlinedblackflorette	EIGHT PETALLED OUTLINED BLACK FLORETTE
-2742	circledopencentreeightpointedstar	CIRCLED OPEN CENTRE EIGHT POINTED STAR
-2743	heavyteardropspokedpinwheelasterisk	HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK
+2722	asteriskteardropfour	FOUR TEARDROP-SPOKED ASTERISK
+2723	asteriskballoonfour	FOUR BALLOON-SPOKED ASTERISK
+2724	asteriskballoonheavyfour	HEAVY FOUR BALLOON-SPOKED ASTERISK
+2725	asteriskclubfour	FOUR CLUB-SPOKED ASTERISK
+2726	starpointedblackfour	BLACK FOUR POINTED STAR
+2727	starpointedwhitefour	WHITE FOUR POINTED STAR
+2729	staroutlinedstresswhite	STRESS OUTLINED WHITE STAR
+272A	starcircledwhite	CIRCLED WHITE STAR
+272B	starcentreopenblack	OPEN CENTRE BLACK STAR
+272C	starcentreblackwhite	BLACK CENTRE WHITE STAR
+272D	staroutlinedblack	OUTLINED BLACK STAR
+272E	staroutlinedblackheavy	HEAVY OUTLINED BLACK STAR
+272F	starpinwheel	PINWHEEL STAR
+2730	starshadowedwhite	SHADOWED WHITE STAR
+2731	asteriskheavy	HEAVY ASTERISK
+2732	asteriskcentreopen	OPEN CENTRE ASTERISK
+2733	spokedasteriskeight	EIGHT SPOKED ASTERISK
+2734	starpointedblackeight	EIGHT POINTED BLACK STAR
+2735	starpointedpinwheeleight	EIGHT POINTED PINWHEEL STAR
+2736	starpointedblacksix	SIX POINTED BLACK STAR
+2737	compasstarpointedblackeight	EIGHT POINTED RECTILINEAR BLACK STAR
+2738	compasstarpointedblackheavyeight	HEAVY EIGHT POINTED RECTILINEAR BLACK STAR
+2739	starpointedblacktwelve	TWELVE POINTED BLACK STAR
+273A	asteriskpointedsixteen	SIXTEEN POINTED ASTERISK
+273B	asteriskteardrop	TEARDROP-SPOKED ASTERISK
+273C	asteriskteardropcentreopen	OPEN CENTRE TEARDROP-SPOKED ASTERISK
+273D	asteriskteardropheavy	HEAVY TEARDROP-SPOKED ASTERISK
+273E	florettepetalledblackwhitesix	SIX PETALLED BLACK AND WHITE FLORETTE
+273F	floretteblack	BLACK FLORETTE
+2740	florettewhite	WHITE FLORETTE
+2741	floretteoutlinedpetalledblackeight	EIGHT PETALLED OUTLINED BLACK FLORETTE
+2742	starcentreopenpointedcircledeight	CIRCLED OPEN CENTRE EIGHT POINTED STAR
+2743	asteriskteardroppinwheelheavy	HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK
 2744	snowflake	SNOWFLAKE
-2745	tighttrifoliatesnowflake	TIGHT TRIFOLIATE SNOWFLAKE
-2746	heavychevronsnowflake	HEAVY CHEVRON SNOWFLAKE
+2745	snowflaketight	TIGHT TRIFOLIATE SNOWFLAKE
+2746	chevronsnowflakeheavy	HEAVY CHEVRON SNOWFLAKE
 2747	sparkle	SPARKLE
-2748	heavysparkle	HEAVY SPARKLE
-2749	balloonspokedasterisk	BALLOON-SPOKED ASTERISK
-274A	eightteardropspokedpropellerasterisk	EIGHT TEARDROP-SPOKED PROPELLER ASTERISK
-274B	heavyeightteardropspokedpropellerasterisk	HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK
-274D	shadowedwhitecircle	SHADOWED WHITE CIRCLE
-274F	lowerrightdropshadowedwhitesquare	LOWER RIGHT DROP-SHADOWED WHITE SQUARE
-2750	upperrightdropshadowedwhitesquare	UPPER RIGHT DROP-SHADOWED WHITE SQUARE
-2751	lowerrightshadowedwhitesquare	LOWER RIGHT SHADOWED WHITE SQUARE
-2752	upperrightshadowedwhitesquare	UPPER RIGHT SHADOWED WHITE SQUARE
-2756	blackdiamondminuswhitex	BLACK DIAMOND MINUS WHITE X
-2757	heavyexclamationmarksymbol	HEAVY EXCLAMATION MARK SYMBOL
-2758	lightverticalbar	LIGHT VERTICAL BAR
-2759	mediumverticalbar	MEDIUM VERTICAL BAR
-275A	heavyverticalbar	HEAVY VERTICAL BAR
-275B	heavysingleturnedcommaquotationmarkornament	HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT
-275C	heavysinglecommaquotationmarkornament	HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT
-275D	heavydoubleturnedcommaquotationmarkornament	HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT
-275E	heavydoublecommaquotationmarkornament	HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT
+2748	sparkleheavy	HEAVY SPARKLE
+2749	asteriskballoon	BALLOON-SPOKED ASTERISK
+274A	asteriskteardroppropellereight	EIGHT TEARDROP-SPOKED PROPELLER ASTERISK
+274B	asteriskteardroppropellerheavyeight	HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK
+274D	circleshadowedwhite	SHADOWED WHITE CIRCLE
+274F	squareshadowlowerrightwhite	LOWER RIGHT DROP-SHADOWED WHITE SQUARE
+2750	squareshadowupperrightwhite	UPPER RIGHT DROP-SHADOWED WHITE SQUARE
+2751	squarelowerrightshadowedwhite	LOWER RIGHT SHADOWED WHITE SQUARE
+2752	squareupperrightshadowedwhite	UPPER RIGHT SHADOWED WHITE SQUARE
+2756	diamondminusxblackwhite	BLACK DIAMOND MINUS WHITE X
+2757	exclamationheavy	HEAVY EXCLAMATION MARK SYMBOL
+2758	verticalbarlight	LIGHT VERTICAL BAR
+2759	verticalbarmedium	MEDIUM VERTICAL BAR
+275A	verticalbarheavy	HEAVY VERTICAL BAR
+275B	commaheavyturnedornament	HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT
+275C	commaheavyornament	HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT
+275D	commaheavydoubleturnedornament	HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT
+275E	commaheavydoubleornament	HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT
 2761	curvedstemparagraphsignornament	CURVED STEM PARAGRAPH SIGN ORNAMENT
-2762	heavyexclamationmarkornament	HEAVY EXCLAMATION MARK ORNAMENT
-2763	heavyheartexclamationmarkornament	HEAVY HEART EXCLAMATION MARK ORNAMENT
-2764	heavyblackheart	HEAVY BLACK HEART
-2765	rotatedheavyblackheartbullet	ROTATED HEAVY BLACK HEART BULLET
+2762	exclamationheavyornament	HEAVY EXCLAMATION MARK ORNAMENT
+2763	heartexclamationheavyornament	HEAVY HEART EXCLAMATION MARK ORNAMENT
+2764	heartblackheavy	HEAVY BLACK HEART
+2765	heartbulletrotatedblackheavy	ROTATED HEAVY BLACK HEART BULLET
 2766	floralheart	FLORAL HEART
-2767	rotatedfloralheartbullet	ROTATED FLORAL HEART BULLET
-2768	mediumleftparenthesisornament	MEDIUM LEFT PARENTHESIS ORNAMENT
-2769	mediumrightparenthesisornament	MEDIUM RIGHT PARENTHESIS ORNAMENT
-276A	mediumflattenedleftparenthesisornament	MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT
-276B	mediumflattenedrightparenthesisornament	MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT
-276C	mediumleftpointinganglebracketornament	MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT
-276D	mediumrightpointinganglebracketornament	MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT
-276E	heavyleftpointinganglequotationmarkornament	HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT
-276F	heavyrightpointinganglequotationmarkornament	HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT
-2770	heavyleftpointinganglebracketornament	HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT
-2771	heavyrightpointinganglebracketornament	HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT
-2772	lightlefttortoiseshellbracketornament	LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT
-2773	lightrighttortoiseshellbracketornament	LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT
-2774	mediumleftcurlybracketornament	MEDIUM LEFT CURLY BRACKET ORNAMENT
-2775	mediumrightcurlybracketornament	MEDIUM RIGHT CURLY BRACKET ORNAMENT
-2776	dingbatnegativecircleddigitone	DINGBAT NEGATIVE CIRCLED DIGIT ONE
-2777	dingbatnegativecircleddigittwo	DINGBAT NEGATIVE CIRCLED DIGIT TWO
-2778	dingbatnegativecircleddigitthree	DINGBAT NEGATIVE CIRCLED DIGIT THREE
-2779	dingbatnegativecircleddigitfour	DINGBAT NEGATIVE CIRCLED DIGIT FOUR
-277A	dingbatnegativecircleddigitfive	DINGBAT NEGATIVE CIRCLED DIGIT FIVE
-277B	dingbatnegativecircleddigitsix	DINGBAT NEGATIVE CIRCLED DIGIT SIX
-277C	dingbatnegativecircleddigitseven	DINGBAT NEGATIVE CIRCLED DIGIT SEVEN
-277D	dingbatnegativecircleddigiteight	DINGBAT NEGATIVE CIRCLED DIGIT EIGHT
-277E	dingbatnegativecircleddigitnine	DINGBAT NEGATIVE CIRCLED DIGIT NINE
-277F	dingbatnegativecirclednumberten	DINGBAT NEGATIVE CIRCLED NUMBER TEN
-2780	dingbatcircledsansserifdigitone	DINGBAT CIRCLED SANS-SERIF DIGIT ONE
-2781	dingbatcircledsansserifdigittwo	DINGBAT CIRCLED SANS-SERIF DIGIT TWO
-2782	dingbatcircledsansserifdigitthree	DINGBAT CIRCLED SANS-SERIF DIGIT THREE
-2783	dingbatcircledsansserifdigitfour	DINGBAT CIRCLED SANS-SERIF DIGIT FOUR
-2784	dingbatcircledsansserifdigitfive	DINGBAT CIRCLED SANS-SERIF DIGIT FIVE
-2785	dingbatcircledsansserifdigitsix	DINGBAT CIRCLED SANS-SERIF DIGIT SIX
-2786	dingbatcircledsansserifdigitseven	DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN
-2787	dingbatcircledsansserifdigiteight	DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT
-2788	dingbatcircledsansserifdigitnine	DINGBAT CIRCLED SANS-SERIF DIGIT NINE
-2789	dingbatcircledsansserifnumberten	DINGBAT CIRCLED SANS-SERIF NUMBER TEN
-278A	dingbatnegativecircledsansserifdigitone	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE
-278B	dingbatnegativecircledsansserifdigittwo	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO
-278C	dingbatnegativecircledsansserifdigitthree	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE
-278D	dingbatnegativecircledsansserifdigitfour	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR
-278E	dingbatnegativecircledsansserifdigitfive	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE
-278F	dingbatnegativecircledsansserifdigitsix	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX
-2790	dingbatnegativecircledsansserifdigitseven	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN
-2791	dingbatnegativecircledsansserifdigiteight	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT
-2792	dingbatnegativecircledsansserifdigitnine	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE
-2793	dingbatnegativecircledsansserifnumberten	DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN
-2794	heavywideheadedrightwardsarrow	HEAVY WIDE-HEADED RIGHTWARDS ARROW
-2798	heavysoutheastarrow	HEAVY SOUTH EAST ARROW
-2799	heavyrightwardsarrow	HEAVY RIGHTWARDS ARROW
-279A	heavynortheastarrow	HEAVY NORTH EAST ARROW
-279B	draftingpointrightwardsarrow	DRAFTING POINT RIGHTWARDS ARROW
-279C	heavyroundtippedrightwardsarrow	HEAVY ROUND-TIPPED RIGHTWARDS ARROW
-279D	triangleheadedrightwardsarrow	TRIANGLE-HEADED RIGHTWARDS ARROW
-279E	heavytriangleheadedrightwardsarrow	HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW
-279F	dashedtriangleheadedrightwardsarrow	DASHED TRIANGLE-HEADED RIGHTWARDS ARROW
-27A0	heavydashedtriangleheadedrightwardsarrow	HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW
-27A1	blackrightwardsarrow	BLACK RIGHTWARDS ARROW
-27A2	threedtoplightedrightwardsarrowhead	THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD
-27A3	threedbottomlightedrightwardsarrowhead	THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD
-27A4	blackrightwardsarrowhead	BLACK RIGHTWARDS ARROWHEAD
-27A5	heavyblackcurveddownwardsandrightwardsarrow	HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW
-27A6	heavyblackcurvedupwardsandrightwardsarrow	HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW
-27A7	squatblackrightwardsarrow	SQUAT BLACK RIGHTWARDS ARROW
-27A8	heavyconcavepointedblackrightwardsarrow	HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW
-27A9	rightshadedwhiterightwardsarrow	RIGHT-SHADED WHITE RIGHTWARDS ARROW
-27AA	leftshadedwhiterightwardsarrow	LEFT-SHADED WHITE RIGHTWARDS ARROW
-27AB	backtiltedshadowedwhiterightwardsarrow	BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW
-27AC	fronttiltedshadowedwhiterightwardsarrow	FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW
-27AD	heavylowerrightshadowedwhiterightwardsarrow	HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
-27AE	heavyupperrightshadowedwhiterightwardsarrow	HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
-27AF	notchedlowerrightshadowedwhiterightwardsarrow	NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
-27B1	notchedupperrightshadowedwhiterightwardsarrow	NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
-27B2	circledheavywhiterightwardsarrow	CIRCLED HEAVY WHITE RIGHTWARDS ARROW
-27B3	whitefeatheredrightwardsarrow	WHITE-FEATHERED RIGHTWARDS ARROW
-27B4	blackfeatheredsoutheastarrow	BLACK-FEATHERED SOUTH EAST ARROW
-27B5	blackfeatheredrightwardsarrow	BLACK-FEATHERED RIGHTWARDS ARROW
-27B6	blackfeatherednortheastarrow	BLACK-FEATHERED NORTH EAST ARROW
-27B7	heavyblackfeatheredsoutheastarrow	HEAVY BLACK-FEATHERED SOUTH EAST ARROW
-27B8	heavyblackfeatheredrightwardsarrow	HEAVY BLACK-FEATHERED RIGHTWARDS ARROW
-27B9	heavyblackfeatherednortheastarrow	HEAVY BLACK-FEATHERED NORTH EAST ARROW
-27BA	teardropbarbedrightwardsarrow	TEARDROP-BARBED RIGHTWARDS ARROW
-27BB	heavyteardropshankedrightwardsarrow	HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW
-27BC	wedgetailedrightwardsarrow	WEDGE-TAILED RIGHTWARDS ARROW
-27BD	heavywedgetailedrightwardsarrow	HEAVY WEDGE-TAILED RIGHTWARDS ARROW
-27BE	openoutlinedrightwardsarrow	OPEN-OUTLINED RIGHTWARDS ARROW
+2767	floralheartbulletrotated	ROTATED FLORAL HEART BULLET
+2768	parenthesisleftmediumornament	MEDIUM LEFT PARENTHESIS ORNAMENT
+2769	parenthesisrightmediumornament	MEDIUM RIGHT PARENTHESIS ORNAMENT
+276A	parenthesisleftflattenedmediumornament	MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT
+276B	parenthesisrightflattenedmediumornament	MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT
+276C	bracketleftpointedanglemediumornament	MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT
+276D	bracketrightpointedanglemediumornament	MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT
+276E	quotationleftpointedangleheavyornament	HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT
+276F	quotationrightpointedangleheavyornament	HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT
+2770	bracketleftpointedangleheavyornament	HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT
+2771	bracketrightpointedangleheavyornament	HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT
+2772	bracketshellleftlightornament	LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT
+2773	bracketshellrightlightornament	LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT
+2774	curlybracketleftmediumornament	MEDIUM LEFT CURLY BRACKET ORNAMENT
+2775	curlybracketrightmediumornament	MEDIUM RIGHT CURLY BRACKET ORNAMENT
+2776	onenegativecircled	DINGBAT NEGATIVE CIRCLED DIGIT ONE
+2777	twonegativecircled	DINGBAT NEGATIVE CIRCLED DIGIT TWO
+2778	threenegativecircled	DINGBAT NEGATIVE CIRCLED DIGIT THREE
+2779	fournegativecircled	DINGBAT NEGATIVE CIRCLED DIGIT FOUR
+277A	fivenegativecircled	DINGBAT NEGATIVE CIRCLED DIGIT FIVE
+277B	sixnegativecircled	DINGBAT NEGATIVE CIRCLED DIGIT SIX
+277C	sevennegativecircled	DINGBAT NEGATIVE CIRCLED DIGIT SEVEN
+277D	eightnegativecircled	DINGBAT NEGATIVE CIRCLED DIGIT EIGHT
+277E	ninenegativecircled	DINGBAT NEGATIVE CIRCLED DIGIT NINE
+277F	tennegativecircled	DINGBAT NEGATIVE CIRCLED NUMBER TEN
+2780	onesanscircled	DINGBAT CIRCLED SANS-SERIF DIGIT ONE
+2781	twosanscircled	DINGBAT CIRCLED SANS-SERIF DIGIT TWO
+2782	threesanscircled	DINGBAT CIRCLED SANS-SERIF DIGIT THREE
+2783	foursanscircled	DINGBAT CIRCLED SANS-SERIF DIGIT FOUR
+2784	fivesanscircled	DINGBAT CIRCLED SANS-SERIF DIGIT FIVE
+2785	sixsanscircled	DINGBAT CIRCLED SANS-SERIF DIGIT SIX
+2786	sevensanscircled	DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN
+2787	eightsanscircled	DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT
+2788	ninesanscircled	DINGBAT CIRCLED SANS-SERIF DIGIT NINE
+2789	tensanscircled	DINGBAT CIRCLED SANS-SERIF NUMBER TEN
+278A	onesansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE
+278B	twosansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO
+278C	threesansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE
+278D	foursansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR
+278E	fivesansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE
+278F	sixsansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX
+2790	sevensansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN
+2791	eightsansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT
+2792	ninesansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE
+2793	tensansnegativecircled	DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN
+2794	arrowrightwideheavy	HEAVY WIDE-HEADED RIGHTWARDS ARROW
+2798	arrowheavySE	HEAVY SOUTH EAST ARROW
+2799	arrowrightheavy	HEAVY RIGHTWARDS ARROW
+279A	arrowheavyNE	HEAVY NORTH EAST ARROW
+279B	arrowrightpointed	DRAFTING POINT RIGHTWARDS ARROW
+279C	arrowrightroundheavy	HEAVY ROUND-TIPPED RIGHTWARDS ARROW
+279D	arrowrighttriangle	TRIANGLE-HEADED RIGHTWARDS ARROW
+279E	arrowrighttriangleheavy	HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW
+279F	arrowrighttriangledashed	DASHED TRIANGLE-HEADED RIGHTWARDS ARROW
+27A0	arrowrighttriangledashedheavy	HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW
+27A1	arrowrightblack	BLACK RIGHTWARDS ARROW
+27A2	arrowheadrightthreeDtoplight	THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD
+27A3	arrowheadrightthreeDbottomlight	THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD
+27A4	arrowheadrightblack	BLACK RIGHTWARDS ARROWHEAD
+27A5	arrowrightcurvedownblackheavy	HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW
+27A6	arrowrightcurveupblackheavy	HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW
+27A7	arrowrightsquatblack	SQUAT BLACK RIGHTWARDS ARROW
+27A8	arrowrightpointedblackheavy	HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW
+27A9	arrowrightrightshadedwhite	RIGHT-SHADED WHITE RIGHTWARDS ARROW
+27AA	arrowrightleftshadedwhite	LEFT-SHADED WHITE RIGHTWARDS ARROW
+27AB	arrowrightbacktiltedshadowedwhite	BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW
+27AC	arrowrightfronttiltedshadowedwhite	FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW
+27AD	arrowshadowrightlowerwhiteheavy	HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
+27AE	arrowshadowrightupperwhiteheavy	HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
+27AF	arrowshadowrightnotchedlowerwhite	NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
+27B1	arrowshadowrightnotchedupperwhite	NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW
+27B2	arrowrightcircledwhiteheavy	CIRCLED HEAVY WHITE RIGHTWARDS ARROW
+27B3	arrowrightfeatheredwhite	WHITE-FEATHERED RIGHTWARDS ARROW
+27B4	arrowfeatheredblackSE	BLACK-FEATHERED SOUTH EAST ARROW
+27B5	arrowrightfeatheredblack	BLACK-FEATHERED RIGHTWARDS ARROW
+27B6	arrowfeatheredblackNE	BLACK-FEATHERED NORTH EAST ARROW
+27B7	arrowfeatheredblackheavySE	HEAVY BLACK-FEATHERED SOUTH EAST ARROW
+27B8	arrowrightfeatheredblackheavy	HEAVY BLACK-FEATHERED RIGHTWARDS ARROW
+27B9	arrowfeatheredblackheavyNE	HEAVY BLACK-FEATHERED NORTH EAST ARROW
+27BA	arrowteardropright	TEARDROP-BARBED RIGHTWARDS ARROW
+27BB	arrowteardroprightheavy	HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW
+27BC	arrowrightwedge	WEDGE-TAILED RIGHTWARDS ARROW
+27BD	arrowrightwedgeheavy	HEAVY WEDGE-TAILED RIGHTWARDS ARROW
+27BE	arrowrightoutlinedopen	OPEN-OUTLINED RIGHTWARDS ARROW

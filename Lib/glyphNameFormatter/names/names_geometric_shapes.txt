@@ -1,5 +1,5 @@
 # Geometric Shapes 25A0 - 25FF
-25A0	filledbox	BLACK SQUARE
+25A0	blacksquare	BLACK SQUARE
 25A1	whitesquare	WHITE SQUARE
 25A2	whitesquarewithroundedcorners	WHITE SQUARE WITH ROUNDED CORNERS
 25A3	whitesquarecontainingblacksmallsquare	WHITE SQUARE CONTAINING BLACK SMALL SQUARE
