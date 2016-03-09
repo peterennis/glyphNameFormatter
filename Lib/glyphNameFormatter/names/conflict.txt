@@ -209,6 +209,7 @@ abreve
 acute
         00B4               acute               acute                      Latin-1 Supplement
         0954               acute             dvAcute                              Devanagari
+        1FFD               acute                oxia                          Greek Extended
 
 adieresis
         00E4           adieresis           adieresis                      Latin-1 Supplement
@@ -394,6 +395,7 @@ glottalstop
 grave
         0060               grave               grave                             Basic Latin
         0953               grave             dvGrave                              Devanagari
+        1FEF               grave               varia                          Greek Extended
 
 gscript
         0261             gscript             gscript                          IPA Extensions
@@ -442,6 +444,10 @@ imacron
 iota
         0269                iota           iotalatin                          IPA Extensions
         03B9                iota                iota                        Greek and Coptic
+
+iotalenis
+        037A           iotalenis       iotasubscript                        Greek and Coptic
+        1F30           iotalenis           iotalenis                          Greek Extended
 
 isign
         093F               isign             dvIsign                              Devanagari
@@ -696,6 +702,10 @@ three
         0CE9               three             knThree                                 Kannada
         0F23               three                   -                                 Tibetan
 
+tilde
+        02DC               tilde               tilde                Spacing Modifier Letters
+        1FC0               tilde         perispomeni                          Greek Extended
+
 tta
         091F                 tta               dvTta                              Devanagari
         0C9F                 tta               knTta                                 Kannada
@@ -785,4 +795,4 @@ zero
 zhe
         0436                 zhe                 zhe                                Cyrillic
         056A                 zhe         zhearmenian                                Armenian
-# 181 names with conflicts, affecting 425 unicodes
+# 183 names with conflicts, affecting 431 unicodes

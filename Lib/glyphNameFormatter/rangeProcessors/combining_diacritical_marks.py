@@ -19,6 +19,7 @@ def process(self):
     self.edit("SHORT SOLIDUS", "solidusshort")
 
     self.edit("HOOK ABOVE", "hoi")
+    self.edit("DOUBLE ACUTE ACCENT", "hungarumlaut")
     self.edit("PALATALIZED HOOK", "palatalizedhook")
     self.edit("RETROFLEX HOOK", "retroflexhook")
     self.edit("LEFT ANGLE", "leftangle")
