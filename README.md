@@ -36,6 +36,8 @@ Given the rather large task of handling thousands of exceptions and tweaks, the 
 
 The `GlyphName` class is initialised with a single unicode number. It then finds the unicode name. Based on the range name it tries to find a module with a corresponding name in `rangeProcessors/`. If it finds such a module it will run the `process()` function and apply it. The `process()` function will try to transform the unicode name by editing or replacing parts of the name.
 
+Each range processor has a handy debugginh print function that will show an overview of the unicode value, the generated name, a comparison with the AGD name and the unicode names.
+
 ### On the internals
 
 * `GlyphName.uniNumber` integer, the unicode number we're working on.
