@@ -24,9 +24,9 @@ Experimental system for generating glyph name lists from unicode data.
 Run `test/buildRanges.py` to make all the name lists. They will be deposited in `names/ranges`. There will be other methods and other lists, but for now this is the place to make things.
 You can also run each of the range scripts in `rangeProcessors/` and they will print a nice readable table with the processed name, unicode value, original name. There is also a column for names from the Adobe AGL if it has a different name for that entry. 
 
-Run `test/analyseConflicts.py` to get an overview of all name clashes and how they are addressed. The results are in a text file in `names/conflict.txt`.
+Run `test/analyseConflicts.py` to get an overview of all name clashes and how they are addressed. The results are in a text file in [names/conflict.txt](https://github.com/LettError/glyphNameFormatter/blob/master/Lib/glyphNameFormatter/names/conflict.txt)
 
-Run `test/export.py` to generate a text file with <name> <unicode> pairs. The result is in `names/glyphNamesToUnicode.txt`.
+Run `test/export.py` to generate a text file with <name> <unicode> pairs, exclusively with the available range processors. The results are in [names/glyphNamesToUnicode.txt](https://github.com/LettError/glyphNameFormatter/blob/master/Lib/glyphNameFormatter/names/glyphNamesToUnicode.txt)
 
 Run `testAGDcoverage.py` to generate an overview of all glyphranges that are needed to match the Adobe Glyph Dictionary. It also calculates how far we are along.
 
