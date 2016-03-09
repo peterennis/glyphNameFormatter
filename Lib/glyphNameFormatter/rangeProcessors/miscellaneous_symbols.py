@@ -16,13 +16,7 @@ def process(self):
     self.replace("FOR")
     self.replace("AND")
 
-    self.replace("1", "one")
-    self.replace("2", "two")
-    self.replace("3", "three")
-    self.replace("4", "four")
-    self.replace("5", "five")
-    self.replace("6", "six")
-    self.replace("7", "seven")
+    self.processAs("helper_numbers")
 
     self.replace("WHITE DOT RIGHT", "whitedotright")
     self.replace("DOT RIGHT", "dotright")
