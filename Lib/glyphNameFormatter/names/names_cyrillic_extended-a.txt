@@ -1,33 +1,33 @@
 # Cyrillic Extended-A 2DE0 - 2DFF
-2DE0	combiningcyrillicletterbecyr	COMBINING CYRILLIC LETTER BE
-2DE1	combiningcyrilliclettervecyr	COMBINING CYRILLIC LETTER VE
-2DE2	combiningcyrillicletterghecyr	COMBINING CYRILLIC LETTER GHE
-2DE3	combiningcyrillicletterdecyr	COMBINING CYRILLIC LETTER DE
-2DE4	combiningcyrillicletterzhecyr	COMBINING CYRILLIC LETTER ZHE
-2DE5	combiningcyrillicletterzecyr	COMBINING CYRILLIC LETTER ZE
-2DE6	combiningcyrillicletterkacyr	COMBINING CYRILLIC LETTER KA
-2DE7	combiningcyrillicletterelcyr	COMBINING CYRILLIC LETTER EL
-2DE8	combiningcyrillicletteremcyr	COMBINING CYRILLIC LETTER EM
-2DE9	combiningcyrillicletterencyr	COMBINING CYRILLIC LETTER EN
-2DEA	combiningcyrillicletterocyr	COMBINING CYRILLIC LETTER O
-2DEB	combiningcyrillicletterpecyr	COMBINING CYRILLIC LETTER PE
-2DEC	combiningcyrillicletterercyr	COMBINING CYRILLIC LETTER ER
-2DED	combiningcyrillicletterescyr	COMBINING CYRILLIC LETTER ES
-2DEE	combiningcyrilliclettertecyr	COMBINING CYRILLIC LETTER TE
-2DEF	combiningcyrillicletterhacyr	COMBINING CYRILLIC LETTER HA
-2DF0	combiningcyrilliclettertsecyr	COMBINING CYRILLIC LETTER TSE
-2DF1	combiningcyrillicletterchecyr	COMBINING CYRILLIC LETTER CHE
-2DF2	combiningcyrilliclettershacyr	COMBINING CYRILLIC LETTER SHA
-2DF3	combiningcyrilliclettershchacyr	COMBINING CYRILLIC LETTER SHCHA
-2DF4	combiningcyrillicletterfitacyr	COMBINING CYRILLIC LETTER FITA
-2DF5	combiningcyrillicletterestecyr	COMBINING CYRILLIC LETTER ES-TE
-2DF6	combiningcyrillicletteracyr	COMBINING CYRILLIC LETTER A
-2DF7	combiningcyrillicletteriecyr	COMBINING CYRILLIC LETTER IE
-2DF8	combiningcyrillicletterdjervcyr	COMBINING CYRILLIC LETTER DJERV
-2DF9	combiningcyrilliclettermonographukcyr	COMBINING CYRILLIC LETTER MONOGRAPH UK
-2DFA	combiningcyrillicletteryatcyr	COMBINING CYRILLIC LETTER YAT
-2DFB	combiningcyrillicletteryucyr	COMBINING CYRILLIC LETTER YU
-2DFC	combiningcyrillicletteriotifiedacyr	COMBINING CYRILLIC LETTER IOTIFIED A
-2DFD	combiningcyrillicletterlittleyuscyr	COMBINING CYRILLIC LETTER LITTLE YUS
-2DFE	combiningcyrillicletterbigyuscyr	COMBINING CYRILLIC LETTER BIG YUS
-2DFF	combiningcyrillicletteriotifiedbigyuscyr	COMBINING CYRILLIC LETTER IOTIFIED BIG YUS
+2DE0	combiningcyrillicletterbe	COMBINING CYRILLIC LETTER BE
+2DE1	combiningcyrillicletterve	COMBINING CYRILLIC LETTER VE
+2DE2	combiningcyrillicletterghe	COMBINING CYRILLIC LETTER GHE
+2DE3	combiningcyrillicletterde	COMBINING CYRILLIC LETTER DE
+2DE4	combiningcyrillicletterzhe	COMBINING CYRILLIC LETTER ZHE
+2DE5	combiningcyrillicletterze	COMBINING CYRILLIC LETTER ZE
+2DE6	combiningcyrillicletterka	COMBINING CYRILLIC LETTER KA
+2DE7	combiningcyrillicletterel	COMBINING CYRILLIC LETTER EL
+2DE8	combiningcyrillicletterem	COMBINING CYRILLIC LETTER EM
+2DE9	combiningcyrillicletteren	COMBINING CYRILLIC LETTER EN
+2DEA	combiningcyrilliclettero	COMBINING CYRILLIC LETTER O
+2DEB	combiningcyrillicletterpe	COMBINING CYRILLIC LETTER PE
+2DEC	combiningcyrillicletterer	COMBINING CYRILLIC LETTER ER
+2DED	combiningcyrillicletteres	COMBINING CYRILLIC LETTER ES
+2DEE	combiningcyrillicletterte	COMBINING CYRILLIC LETTER TE
+2DEF	combiningcyrillicletterha	COMBINING CYRILLIC LETTER HA
+2DF0	combiningcyrilliclettertse	COMBINING CYRILLIC LETTER TSE
+2DF1	combiningcyrillicletterche	COMBINING CYRILLIC LETTER CHE
+2DF2	combiningcyrilliclettersha	COMBINING CYRILLIC LETTER SHA
+2DF3	combiningcyrilliclettershcha	COMBINING CYRILLIC LETTER SHCHA
+2DF4	combiningcyrillicletterfita	COMBINING CYRILLIC LETTER FITA
+2DF5	combiningcyrilliclettereste	COMBINING CYRILLIC LETTER ES-TE
+2DF6	combiningcyrilliclettera	COMBINING CYRILLIC LETTER A
+2DF7	combiningcyrillicletterie	COMBINING CYRILLIC LETTER IE
+2DF8	combiningcyrillicletterdjerv	COMBINING CYRILLIC LETTER DJERV
+2DF9	combiningcyrilliclettermonographuk	COMBINING CYRILLIC LETTER MONOGRAPH UK
+2DFA	combiningcyrillicletteryat	COMBINING CYRILLIC LETTER YAT
+2DFB	combiningcyrillicletteryu	COMBINING CYRILLIC LETTER YU
+2DFC	combiningcyrillicletteriotifieda	COMBINING CYRILLIC LETTER IOTIFIED A
+2DFD	combiningcyrillicletterlittleyus	COMBINING CYRILLIC LETTER LITTLE YUS
+2DFE	combiningcyrillicletterbigyus	COMBINING CYRILLIC LETTER BIG YUS
+2DFF	combiningcyrillicletteriotifiedbigyus	COMBINING CYRILLIC LETTER IOTIFIED BIG YUS

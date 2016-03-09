@@ -1,84 +1,84 @@
 # Gujarati 0A80 - 0AFF
-0A81	gjrt-gujaratisigncandrabindu	GUJARATI SIGN CANDRABINDU
-0A82	gjrt-gujaratisignanusvara	GUJARATI SIGN ANUSVARA
-0A83	gjrt-gujaratisignvisarga	GUJARATI SIGN VISARGA
-0A85	gjrt-gujaratilettera	GUJARATI LETTER A
-0A86	gjrt-gujaratiletteraa	GUJARATI LETTER AA
-0A87	gjrt-gujaratiletteri	GUJARATI LETTER I
-0A88	gjrt-gujaratiletterii	GUJARATI LETTER II
-0A89	gjrt-gujaratiletteru	GUJARATI LETTER U
-0A8A	gjrt-gujaratiletteruu	GUJARATI LETTER UU
-0A8B	gjrt-gujaratilettervocalicr	GUJARATI LETTER VOCALIC R
-0A8C	gjrt-gujaratilettervocalicl	GUJARATI LETTER VOCALIC L
-0A8D	gjrt-gujarativowelcandrae	GUJARATI VOWEL CANDRA E
-0A8F	gjrt-gujaratilettere	GUJARATI LETTER E
-0A90	gjrt-gujaratiletterai	GUJARATI LETTER AI
-0A91	gjrt-gujarativowelcandrao	GUJARATI VOWEL CANDRA O
-0A93	gjrt-gujaratilettero	GUJARATI LETTER O
-0A94	gjrt-gujaratiletterau	GUJARATI LETTER AU
-0A95	gjrt-gujaratiletterka	GUJARATI LETTER KA
-0A96	gjrt-gujaratiletterkha	GUJARATI LETTER KHA
-0A97	gjrt-gujaratiletterga	GUJARATI LETTER GA
-0A98	gjrt-gujaratilettergha	GUJARATI LETTER GHA
-0A99	gjrt-gujaratiletternga	GUJARATI LETTER NGA
-0A9A	gjrt-gujaratiletterca	GUJARATI LETTER CA
-0A9B	gjrt-gujaratilettercha	GUJARATI LETTER CHA
-0A9C	gjrt-gujaratiletterja	GUJARATI LETTER JA
-0A9D	gjrt-gujaratiletterjha	GUJARATI LETTER JHA
-0A9E	gjrt-gujaratiletternya	GUJARATI LETTER NYA
-0A9F	gjrt-gujaratilettertta	GUJARATI LETTER TTA
-0AA0	gjrt-gujaratiletterttha	GUJARATI LETTER TTHA
-0AA1	gjrt-gujaratiletterdda	GUJARATI LETTER DDA
-0AA2	gjrt-gujaratiletterddha	GUJARATI LETTER DDHA
-0AA3	gjrt-gujaratiletternna	GUJARATI LETTER NNA
-0AA4	gjrt-gujaratiletterta	GUJARATI LETTER TA
-0AA5	gjrt-gujaratilettertha	GUJARATI LETTER THA
-0AA6	gjrt-gujaratiletterda	GUJARATI LETTER DA
-0AA7	gjrt-gujaratiletterdha	GUJARATI LETTER DHA
-0AA8	gjrt-gujaratiletterna	GUJARATI LETTER NA
-0AAA	gjrt-gujaratiletterpa	GUJARATI LETTER PA
-0AAB	gjrt-gujaratiletterpha	GUJARATI LETTER PHA
-0AAC	gjrt-gujaratiletterba	GUJARATI LETTER BA
-0AAD	gjrt-gujaratiletterbha	GUJARATI LETTER BHA
-0AAE	gjrt-gujaratiletterma	GUJARATI LETTER MA
-0AAF	gjrt-gujaratiletterya	GUJARATI LETTER YA
-0AB0	gjrt-gujaratiletterra	GUJARATI LETTER RA
-0AB2	gjrt-gujaratiletterla	GUJARATI LETTER LA
-0AB3	gjrt-gujaratiletterlla	GUJARATI LETTER LLA
-0AB5	gjrt-gujaratiletterva	GUJARATI LETTER VA
-0AB6	gjrt-gujaratilettersha	GUJARATI LETTER SHA
-0AB7	gjrt-gujaratiletterssa	GUJARATI LETTER SSA
-0AB8	gjrt-gujaratilettersa	GUJARATI LETTER SA
-0AB9	gjrt-gujaratiletterha	GUJARATI LETTER HA
-0ABC	gjrt-gujaratisignnukta	GUJARATI SIGN NUKTA
-0ABD	gjrt-gujaratisignavagraha	GUJARATI SIGN AVAGRAHA
-0ABE	gjrt-gujarativowelsignaa	GUJARATI VOWEL SIGN AA
-0ABF	gjrt-gujarativowelsigni	GUJARATI VOWEL SIGN I
-0AC0	gjrt-gujarativowelsignii	GUJARATI VOWEL SIGN II
-0AC1	gjrt-gujarativowelsignu	GUJARATI VOWEL SIGN U
-0AC2	gjrt-gujarativowelsignuu	GUJARATI VOWEL SIGN UU
-0AC3	gjrt-gujarativowelsignvocalicr	GUJARATI VOWEL SIGN VOCALIC R
-0AC4	gjrt-gujarativowelsignvocalicrr	GUJARATI VOWEL SIGN VOCALIC RR
-0AC5	gjrt-gujarativowelsigncandrae	GUJARATI VOWEL SIGN CANDRA E
-0AC7	gjrt-gujarativowelsigne	GUJARATI VOWEL SIGN E
-0AC8	gjrt-gujarativowelsignai	GUJARATI VOWEL SIGN AI
-0AC9	gjrt-gujarativowelsigncandrao	GUJARATI VOWEL SIGN CANDRA O
-0ACB	gjrt-gujarativowelsigno	GUJARATI VOWEL SIGN O
-0ACC	gjrt-gujarativowelsignau	GUJARATI VOWEL SIGN AU
-0ACD	gjrt-gujaratisignvirama	GUJARATI SIGN VIRAMA
-0AD0	gjrt-gujaratiom	GUJARATI OM
-0AE0	gjrt-gujaratilettervocalicrr	GUJARATI LETTER VOCALIC RR
-0AE1	gjrt-gujaratilettervocalicll	GUJARATI LETTER VOCALIC LL
-0AE2	gjrt-gujarativowelsignvocalicl	GUJARATI VOWEL SIGN VOCALIC L
-0AE3	gjrt-gujarativowelsignvocalicll	GUJARATI VOWEL SIGN VOCALIC LL
-0AE6	gjrt-gujaratidigitzero	GUJARATI DIGIT ZERO
-0AE7	gjrt-gujaratidigitone	GUJARATI DIGIT ONE
-0AE8	gjrt-gujaratidigittwo	GUJARATI DIGIT TWO
-0AE9	gjrt-gujaratidigitthree	GUJARATI DIGIT THREE
-0AEA	gjrt-gujaratidigitfour	GUJARATI DIGIT FOUR
-0AEB	gjrt-gujaratidigitfive	GUJARATI DIGIT FIVE
-0AEC	gjrt-gujaratidigitsix	GUJARATI DIGIT SIX
-0AED	gjrt-gujaratidigitseven	GUJARATI DIGIT SEVEN
-0AEE	gjrt-gujaratidigiteight	GUJARATI DIGIT EIGHT
-0AEF	gjrt-gujaratidigitnine	GUJARATI DIGIT NINE
-0AF1	gjrt-gujaratirupeesign	GUJARATI RUPEE SIGN
+0A81	gujaratisigncandrabindu	GUJARATI SIGN CANDRABINDU
+0A82	gujaratisignanusvara	GUJARATI SIGN ANUSVARA
+0A83	gujaratisignvisarga	GUJARATI SIGN VISARGA
+0A85	gujaratilettera	GUJARATI LETTER A
+0A86	gujaratiletteraa	GUJARATI LETTER AA
+0A87	gujaratiletteri	GUJARATI LETTER I
+0A88	gujaratiletterii	GUJARATI LETTER II
+0A89	gujaratiletteru	GUJARATI LETTER U
+0A8A	gujaratiletteruu	GUJARATI LETTER UU
+0A8B	gujaratilettervocalicr	GUJARATI LETTER VOCALIC R
+0A8C	gujaratilettervocalicl	GUJARATI LETTER VOCALIC L
+0A8D	gujarativowelcandrae	GUJARATI VOWEL CANDRA E
+0A8F	gujaratilettere	GUJARATI LETTER E
+0A90	gujaratiletterai	GUJARATI LETTER AI
+0A91	gujarativowelcandrao	GUJARATI VOWEL CANDRA O
+0A93	gujaratilettero	GUJARATI LETTER O
+0A94	gujaratiletterau	GUJARATI LETTER AU
+0A95	gujaratiletterka	GUJARATI LETTER KA
+0A96	gujaratiletterkha	GUJARATI LETTER KHA
+0A97	gujaratiletterga	GUJARATI LETTER GA
+0A98	gujaratilettergha	GUJARATI LETTER GHA
+0A99	gujaratiletternga	GUJARATI LETTER NGA
+0A9A	gujaratiletterca	GUJARATI LETTER CA
+0A9B	gujaratilettercha	GUJARATI LETTER CHA
+0A9C	gujaratiletterja	GUJARATI LETTER JA
+0A9D	gujaratiletterjha	GUJARATI LETTER JHA
+0A9E	gujaratiletternya	GUJARATI LETTER NYA
+0A9F	gujaratilettertta	GUJARATI LETTER TTA
+0AA0	gujaratiletterttha	GUJARATI LETTER TTHA
+0AA1	gujaratiletterdda	GUJARATI LETTER DDA
+0AA2	gujaratiletterddha	GUJARATI LETTER DDHA
+0AA3	gujaratiletternna	GUJARATI LETTER NNA
+0AA4	gujaratiletterta	GUJARATI LETTER TA
+0AA5	gujaratilettertha	GUJARATI LETTER THA
+0AA6	gujaratiletterda	GUJARATI LETTER DA
+0AA7	gujaratiletterdha	GUJARATI LETTER DHA
+0AA8	gujaratiletterna	GUJARATI LETTER NA
+0AAA	gujaratiletterpa	GUJARATI LETTER PA
+0AAB	gujaratiletterpha	GUJARATI LETTER PHA
+0AAC	gujaratiletterba	GUJARATI LETTER BA
+0AAD	gujaratiletterbha	GUJARATI LETTER BHA
+0AAE	gujaratiletterma	GUJARATI LETTER MA
+0AAF	gujaratiletterya	GUJARATI LETTER YA
+0AB0	gujaratiletterra	GUJARATI LETTER RA
+0AB2	gujaratiletterla	GUJARATI LETTER LA
+0AB3	gujaratiletterlla	GUJARATI LETTER LLA
+0AB5	gujaratiletterva	GUJARATI LETTER VA
+0AB6	gujaratilettersha	GUJARATI LETTER SHA
+0AB7	gujaratiletterssa	GUJARATI LETTER SSA
+0AB8	gujaratilettersa	GUJARATI LETTER SA
+0AB9	gujaratiletterha	GUJARATI LETTER HA
+0ABC	gujaratisignnukta	GUJARATI SIGN NUKTA
+0ABD	gujaratisignavagraha	GUJARATI SIGN AVAGRAHA
+0ABE	gujarativowelsignaa	GUJARATI VOWEL SIGN AA
+0ABF	gujarativowelsigni	GUJARATI VOWEL SIGN I
+0AC0	gujarativowelsignii	GUJARATI VOWEL SIGN II
+0AC1	gujarativowelsignu	GUJARATI VOWEL SIGN U
+0AC2	gujarativowelsignuu	GUJARATI VOWEL SIGN UU
+0AC3	gujarativowelsignvocalicr	GUJARATI VOWEL SIGN VOCALIC R
+0AC4	gujarativowelsignvocalicrr	GUJARATI VOWEL SIGN VOCALIC RR
+0AC5	gujarativowelsigncandrae	GUJARATI VOWEL SIGN CANDRA E
+0AC7	gujarativowelsigne	GUJARATI VOWEL SIGN E
+0AC8	gujarativowelsignai	GUJARATI VOWEL SIGN AI
+0AC9	gujarativowelsigncandrao	GUJARATI VOWEL SIGN CANDRA O
+0ACB	gujarativowelsigno	GUJARATI VOWEL SIGN O
+0ACC	gujarativowelsignau	GUJARATI VOWEL SIGN AU
+0ACD	gujaratisignvirama	GUJARATI SIGN VIRAMA
+0AD0	gujaratiom	GUJARATI OM
+0AE0	gujaratilettervocalicrr	GUJARATI LETTER VOCALIC RR
+0AE1	gujaratilettervocalicll	GUJARATI LETTER VOCALIC LL
+0AE2	gujarativowelsignvocalicl	GUJARATI VOWEL SIGN VOCALIC L
+0AE3	gujarativowelsignvocalicll	GUJARATI VOWEL SIGN VOCALIC LL
+0AE6	gujaratidigitzero	GUJARATI DIGIT ZERO
+0AE7	gujaratidigitone	GUJARATI DIGIT ONE
+0AE8	gujaratidigittwo	GUJARATI DIGIT TWO
+0AE9	gujaratidigitthree	GUJARATI DIGIT THREE
+0AEA	gujaratidigitfour	GUJARATI DIGIT FOUR
+0AEB	gujaratidigitfive	GUJARATI DIGIT FIVE
+0AEC	gujaratidigitsix	GUJARATI DIGIT SIX
+0AED	gujaratidigitseven	GUJARATI DIGIT SEVEN
+0AEE	gujaratidigiteight	GUJARATI DIGIT EIGHT
+0AEF	gujaratidigitnine	GUJARATI DIGIT NINE
+0AF1	gujaratirupeesign	GUJARATI RUPEE SIGN

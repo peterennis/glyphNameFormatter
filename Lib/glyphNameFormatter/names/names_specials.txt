@@ -1,6 +1,6 @@
 # Specials FFF0 - FFFF
-FFF9	spcl-interlinearannotationanchor	INTERLINEAR ANNOTATION ANCHOR
-FFFA	spcl-interlinearannotationseparator	INTERLINEAR ANNOTATION SEPARATOR
-FFFB	spcl-interlinearannotationterminator	INTERLINEAR ANNOTATION TERMINATOR
-FFFC	spcl-objectreplacementcharacter	OBJECT REPLACEMENT CHARACTER
-FFFD	spcl-replacementcharacter	REPLACEMENT CHARACTER
+FFF9	interlinearannotationanchor	INTERLINEAR ANNOTATION ANCHOR
+FFFA	interlinearannotationseparator	INTERLINEAR ANNOTATION SEPARATOR
+FFFB	interlinearannotationterminator	INTERLINEAR ANNOTATION TERMINATOR
+FFFC	objectreplacementcharacter	OBJECT REPLACEMENT CHARACTER
+FFFD	replacementcharacter	REPLACEMENT CHARACTER

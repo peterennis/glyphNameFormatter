@@ -1,58 +1,58 @@
 # Aegean Numbers 10100 - 1013F
-10100	gnnm-aegeanwordseparatorline	AEGEAN WORD SEPARATOR LINE
-10101	gnnm-aegeanwordseparatordot	AEGEAN WORD SEPARATOR DOT
-10102	gnnm-aegeancheckmark	AEGEAN CHECK MARK
-10107	gnnm-aegeannumberone	AEGEAN NUMBER ONE
-10108	gnnm-aegeannumbertwo	AEGEAN NUMBER TWO
-10109	gnnm-aegeannumberthree	AEGEAN NUMBER THREE
-1010A	gnnm-aegeannumberfour	AEGEAN NUMBER FOUR
-1010B	gnnm-aegeannumberfive	AEGEAN NUMBER FIVE
-1010C	gnnm-aegeannumbersix	AEGEAN NUMBER SIX
-1010D	gnnm-aegeannumberseven	AEGEAN NUMBER SEVEN
-1010E	gnnm-aegeannumbereight	AEGEAN NUMBER EIGHT
-1010F	gnnm-aegeannumbernine	AEGEAN NUMBER NINE
-10110	gnnm-aegeannumberten	AEGEAN NUMBER TEN
-10111	gnnm-aegeannumbertwenty	AEGEAN NUMBER TWENTY
-10112	gnnm-aegeannumberthirty	AEGEAN NUMBER THIRTY
-10113	gnnm-aegeannumberforty	AEGEAN NUMBER FORTY
-10114	gnnm-aegeannumberfifty	AEGEAN NUMBER FIFTY
-10115	gnnm-aegeannumbersixty	AEGEAN NUMBER SIXTY
-10116	gnnm-aegeannumberseventy	AEGEAN NUMBER SEVENTY
-10117	gnnm-aegeannumbereighty	AEGEAN NUMBER EIGHTY
-10118	gnnm-aegeannumberninety	AEGEAN NUMBER NINETY
-10119	gnnm-aegeannumberonehundred	AEGEAN NUMBER ONE HUNDRED
-1011A	gnnm-aegeannumbertwohundred	AEGEAN NUMBER TWO HUNDRED
-1011B	gnnm-aegeannumberthreehundred	AEGEAN NUMBER THREE HUNDRED
-1011C	gnnm-aegeannumberfourhundred	AEGEAN NUMBER FOUR HUNDRED
-1011D	gnnm-aegeannumberfivehundred	AEGEAN NUMBER FIVE HUNDRED
-1011E	gnnm-aegeannumbersixhundred	AEGEAN NUMBER SIX HUNDRED
-1011F	gnnm-aegeannumbersevenhundred	AEGEAN NUMBER SEVEN HUNDRED
-10120	gnnm-aegeannumbereighthundred	AEGEAN NUMBER EIGHT HUNDRED
-10121	gnnm-aegeannumberninehundred	AEGEAN NUMBER NINE HUNDRED
-10122	gnnm-aegeannumberonethousand	AEGEAN NUMBER ONE THOUSAND
-10123	gnnm-aegeannumbertwothousand	AEGEAN NUMBER TWO THOUSAND
-10124	gnnm-aegeannumberthreethousand	AEGEAN NUMBER THREE THOUSAND
-10125	gnnm-aegeannumberfourthousand	AEGEAN NUMBER FOUR THOUSAND
-10126	gnnm-aegeannumberfivethousand	AEGEAN NUMBER FIVE THOUSAND
-10127	gnnm-aegeannumbersixthousand	AEGEAN NUMBER SIX THOUSAND
-10128	gnnm-aegeannumberseventhousand	AEGEAN NUMBER SEVEN THOUSAND
-10129	gnnm-aegeannumbereightthousand	AEGEAN NUMBER EIGHT THOUSAND
-1012A	gnnm-aegeannumberninethousand	AEGEAN NUMBER NINE THOUSAND
-1012B	gnnm-aegeannumbertenthousand	AEGEAN NUMBER TEN THOUSAND
-1012C	gnnm-aegeannumbertwentythousand	AEGEAN NUMBER TWENTY THOUSAND
-1012D	gnnm-aegeannumberthirtythousand	AEGEAN NUMBER THIRTY THOUSAND
-1012E	gnnm-aegeannumberfortythousand	AEGEAN NUMBER FORTY THOUSAND
-1012F	gnnm-aegeannumberfiftythousand	AEGEAN NUMBER FIFTY THOUSAND
-10130	gnnm-aegeannumbersixtythousand	AEGEAN NUMBER SIXTY THOUSAND
-10131	gnnm-aegeannumberseventythousand	AEGEAN NUMBER SEVENTY THOUSAND
-10132	gnnm-aegeannumbereightythousand	AEGEAN NUMBER EIGHTY THOUSAND
-10133	gnnm-aegeannumberninetythousand	AEGEAN NUMBER NINETY THOUSAND
-10137	gnnm-aegeanweightbaseunit	AEGEAN WEIGHT BASE UNIT
-10138	gnnm-aegeanweightfirstsubunit	AEGEAN WEIGHT FIRST SUBUNIT
-10139	gnnm-aegeanweightsecondsubunit	AEGEAN WEIGHT SECOND SUBUNIT
-1013A	gnnm-aegeanweightthirdsubunit	AEGEAN WEIGHT THIRD SUBUNIT
-1013B	gnnm-aegeanweightfourthsubunit	AEGEAN WEIGHT FOURTH SUBUNIT
-1013C	gnnm-aegeandrymeasurefirstsubunit	AEGEAN DRY MEASURE FIRST SUBUNIT
-1013D	gnnm-aegeanliquidmeasurefirstsubunit	AEGEAN LIQUID MEASURE FIRST SUBUNIT
-1013E	gnnm-aegeanmeasuresecondsubunit	AEGEAN MEASURE SECOND SUBUNIT
-1013F	gnnm-aegeanmeasurethirdsubunit	AEGEAN MEASURE THIRD SUBUNIT
+10100	aegeanwordseparatorline	AEGEAN WORD SEPARATOR LINE
+10101	aegeanwordseparatordot	AEGEAN WORD SEPARATOR DOT
+10102	aegeancheckmark	AEGEAN CHECK MARK
+10107	aegeannumberone	AEGEAN NUMBER ONE
+10108	aegeannumbertwo	AEGEAN NUMBER TWO
+10109	aegeannumberthree	AEGEAN NUMBER THREE
+1010A	aegeannumberfour	AEGEAN NUMBER FOUR
+1010B	aegeannumberfive	AEGEAN NUMBER FIVE
+1010C	aegeannumbersix	AEGEAN NUMBER SIX
+1010D	aegeannumberseven	AEGEAN NUMBER SEVEN
+1010E	aegeannumbereight	AEGEAN NUMBER EIGHT
+1010F	aegeannumbernine	AEGEAN NUMBER NINE
+10110	aegeannumberten	AEGEAN NUMBER TEN
+10111	aegeannumbertwenty	AEGEAN NUMBER TWENTY
+10112	aegeannumberthirty	AEGEAN NUMBER THIRTY
+10113	aegeannumberforty	AEGEAN NUMBER FORTY
+10114	aegeannumberfifty	AEGEAN NUMBER FIFTY
+10115	aegeannumbersixty	AEGEAN NUMBER SIXTY
+10116	aegeannumberseventy	AEGEAN NUMBER SEVENTY
+10117	aegeannumbereighty	AEGEAN NUMBER EIGHTY
+10118	aegeannumberninety	AEGEAN NUMBER NINETY
+10119	aegeannumberonehundred	AEGEAN NUMBER ONE HUNDRED
+1011A	aegeannumbertwohundred	AEGEAN NUMBER TWO HUNDRED
+1011B	aegeannumberthreehundred	AEGEAN NUMBER THREE HUNDRED
+1011C	aegeannumberfourhundred	AEGEAN NUMBER FOUR HUNDRED
+1011D	aegeannumberfivehundred	AEGEAN NUMBER FIVE HUNDRED
+1011E	aegeannumbersixhundred	AEGEAN NUMBER SIX HUNDRED
+1011F	aegeannumbersevenhundred	AEGEAN NUMBER SEVEN HUNDRED
+10120	aegeannumbereighthundred	AEGEAN NUMBER EIGHT HUNDRED
+10121	aegeannumberninehundred	AEGEAN NUMBER NINE HUNDRED
+10122	aegeannumberonethousand	AEGEAN NUMBER ONE THOUSAND
+10123	aegeannumbertwothousand	AEGEAN NUMBER TWO THOUSAND
+10124	aegeannumberthreethousand	AEGEAN NUMBER THREE THOUSAND
+10125	aegeannumberfourthousand	AEGEAN NUMBER FOUR THOUSAND
+10126	aegeannumberfivethousand	AEGEAN NUMBER FIVE THOUSAND
+10127	aegeannumbersixthousand	AEGEAN NUMBER SIX THOUSAND
+10128	aegeannumberseventhousand	AEGEAN NUMBER SEVEN THOUSAND
+10129	aegeannumbereightthousand	AEGEAN NUMBER EIGHT THOUSAND
+1012A	aegeannumberninethousand	AEGEAN NUMBER NINE THOUSAND
+1012B	aegeannumbertenthousand	AEGEAN NUMBER TEN THOUSAND
+1012C	aegeannumbertwentythousand	AEGEAN NUMBER TWENTY THOUSAND
+1012D	aegeannumberthirtythousand	AEGEAN NUMBER THIRTY THOUSAND
+1012E	aegeannumberfortythousand	AEGEAN NUMBER FORTY THOUSAND
+1012F	aegeannumberfiftythousand	AEGEAN NUMBER FIFTY THOUSAND
+10130	aegeannumbersixtythousand	AEGEAN NUMBER SIXTY THOUSAND
+10131	aegeannumberseventythousand	AEGEAN NUMBER SEVENTY THOUSAND
+10132	aegeannumbereightythousand	AEGEAN NUMBER EIGHTY THOUSAND
+10133	aegeannumberninetythousand	AEGEAN NUMBER NINETY THOUSAND
+10137	aegeanweightbaseunit	AEGEAN WEIGHT BASE UNIT
+10138	aegeanweightfirstsubunit	AEGEAN WEIGHT FIRST SUBUNIT
+10139	aegeanweightsecondsubunit	AEGEAN WEIGHT SECOND SUBUNIT
+1013A	aegeanweightthirdsubunit	AEGEAN WEIGHT THIRD SUBUNIT
+1013B	aegeanweightfourthsubunit	AEGEAN WEIGHT FOURTH SUBUNIT
+1013C	aegeandrymeasurefirstsubunit	AEGEAN DRY MEASURE FIRST SUBUNIT
+1013D	aegeanliquidmeasurefirstsubunit	AEGEAN LIQUID MEASURE FIRST SUBUNIT
+1013E	aegeanmeasuresecondsubunit	AEGEAN MEASURE SECOND SUBUNIT
+1013F	aegeanmeasurethirdsubunit	AEGEAN MEASURE THIRD SUBUNIT

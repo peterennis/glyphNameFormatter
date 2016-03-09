@@ -1,129 +1,129 @@
 # Miscellaneous Mathematical Symbols-B 2980 - 29FF
-2980	mscl-tripleverticalbardelimiter	TRIPLE VERTICAL BAR DELIMITER
-2981	mscl-znotationspot	Z NOTATION SPOT
-2982	mscl-znotationtypecolon	Z NOTATION TYPE COLON
-2983	mscl-leftwhitecurlybracket	LEFT WHITE CURLY BRACKET
-2984	mscl-rightwhitecurlybracket	RIGHT WHITE CURLY BRACKET
-2985	mscl-leftwhiteparenthesis	LEFT WHITE PARENTHESIS
-2986	mscl-rightwhiteparenthesis	RIGHT WHITE PARENTHESIS
-2987	mscl-znotationleftimagebracket	Z NOTATION LEFT IMAGE BRACKET
-2988	mscl-znotationrightimagebracket	Z NOTATION RIGHT IMAGE BRACKET
-2989	mscl-znotationleftbindingbracket	Z NOTATION LEFT BINDING BRACKET
-298A	mscl-znotationrightbindingbracket	Z NOTATION RIGHT BINDING BRACKET
-298B	mscl-leftsquarebracketwithunderbar	LEFT SQUARE BRACKET WITH UNDERBAR
-298C	mscl-rightsquarebracketwithunderbar	RIGHT SQUARE BRACKET WITH UNDERBAR
-298D	mscl-leftsquarebracketwithtickintopcorner	LEFT SQUARE BRACKET WITH TICK IN TOP CORNER
-298E	mscl-rightsquarebracketwithtickinbottomcorner	RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER
-298F	mscl-leftsquarebracketwithtickinbottomcorner	LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER
-2990	mscl-rightsquarebracketwithtickintopcorner	RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER
-2991	mscl-leftanglebracketwithdot	LEFT ANGLE BRACKET WITH DOT
-2992	mscl-rightanglebracketwithdot	RIGHT ANGLE BRACKET WITH DOT
-2993	mscl-leftarclessthanbracket	LEFT ARC LESS-THAN BRACKET
-2994	mscl-rightarcgreaterthanbracket	RIGHT ARC GREATER-THAN BRACKET
-2995	mscl-doubleleftarcgreaterthanbracket	DOUBLE LEFT ARC GREATER-THAN BRACKET
-2996	mscl-doublerightarclessthanbracket	DOUBLE RIGHT ARC LESS-THAN BRACKET
-2997	mscl-leftblacktortoiseshellbracket	LEFT BLACK TORTOISE SHELL BRACKET
-2998	mscl-rightblacktortoiseshellbracket	RIGHT BLACK TORTOISE SHELL BRACKET
-2999	mscl-dottedfence	DOTTED FENCE
-299A	mscl-verticalzigzagline	VERTICAL ZIGZAG LINE
-299B	mscl-measuredangleopeningleft	MEASURED ANGLE OPENING LEFT
-299C	mscl-rightanglevariantwithsquare	RIGHT ANGLE VARIANT WITH SQUARE
-299D	mscl-measuredrightanglewithdot	MEASURED RIGHT ANGLE WITH DOT
-299E	mscl-anglewithsinside	ANGLE WITH S INSIDE
-299F	mscl-acuteangle	ACUTE ANGLE
-29A0	mscl-sphericalangleopeningleft	SPHERICAL ANGLE OPENING LEFT
-29A1	mscl-sphericalangleopeningup	SPHERICAL ANGLE OPENING UP
-29A2	mscl-turnedangle	TURNED ANGLE
-29A3	mscl-reversedangle	REVERSED ANGLE
-29A4	mscl-anglewithunderbar	ANGLE WITH UNDERBAR
-29A5	mscl-reversedanglewithunderbar	REVERSED ANGLE WITH UNDERBAR
-29A6	mscl-obliqueangleopeningup	OBLIQUE ANGLE OPENING UP
-29A7	mscl-obliqueangleopeningdown	OBLIQUE ANGLE OPENING DOWN
-29A8	mscl-measuredanglewithopenarmendinginarrowpointingupandright	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT
-29A9	mscl-measuredanglewithopenarmendinginarrowpointingupandleft	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT
-29AA	mscl-measuredanglewithopenarmendinginarrowpointingdownandright	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT
-29AB	mscl-measuredanglewithopenarmendinginarrowpointingdownandleft	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT
-29AC	mscl-measuredanglewithopenarmendinginarrowpointingrightandup	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP
-29AD	mscl-measuredanglewithopenarmendinginarrowpointingleftandup	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP
-29AE	mscl-measuredanglewithopenarmendinginarrowpointingrightanddown	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN
-29AF	mscl-measuredanglewithopenarmendinginarrowpointingleftanddown	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND DOWN
-29B0	mscl-reversedemptyset	REVERSED EMPTY SET
-29B1	mscl-emptysetwithoverbar	EMPTY SET WITH OVERBAR
-29B2	mscl-emptysetwithsmallcircleabove	EMPTY SET WITH SMALL CIRCLE ABOVE
-29B3	mscl-emptysetwithrightarrowabove	EMPTY SET WITH RIGHT ARROW ABOVE
-29B4	mscl-emptysetwithleftarrowabove	EMPTY SET WITH LEFT ARROW ABOVE
-29B5	mscl-circlewithhorizontalbar	CIRCLE WITH HORIZONTAL BAR
-29B6	mscl-circledverticalbar	CIRCLED VERTICAL BAR
-29B7	mscl-circledparallel	CIRCLED PARALLEL
-29B8	mscl-circledreversesolidus	CIRCLED REVERSE SOLIDUS
-29B9	mscl-circledperpendicular	CIRCLED PERPENDICULAR
-29BA	mscl-circledividedbyhorizontalbarandtophalfdividedbyverticalbar	CIRCLE DIVIDED BY HORIZONTAL BAR AND TOP HALF DIVIDED BY VERTICAL BAR
-29BB	mscl-circlewithsuperimposedx	CIRCLE WITH SUPERIMPOSED X
-29BC	mscl-circledanticlockwiserotateddivisionsign	CIRCLED ANTICLOCKWISE-ROTATED DIVISION SIGN
-29BD	mscl-uparrowthroughcircle	UP ARROW THROUGH CIRCLE
-29BE	mscl-circledwhitebullet	CIRCLED WHITE BULLET
-29BF	mscl-circledbullet	CIRCLED BULLET
-29C0	mscl-circledlessthan	CIRCLED LESS-THAN
-29C1	mscl-circledgreaterthan	CIRCLED GREATER-THAN
-29C2	mscl-circlewithsmallcircletotheright	CIRCLE WITH SMALL CIRCLE TO THE RIGHT
-29C3	mscl-circlewithtwohorizontalstrokestotheright	CIRCLE WITH TWO HORIZONTAL STROKES TO THE RIGHT
-29C4	mscl-squaredrisingdiagonalslash	SQUARED RISING DIAGONAL SLASH
-29C5	mscl-squaredfallingdiagonalslash	SQUARED FALLING DIAGONAL SLASH
-29C6	mscl-squaredasterisk	SQUARED ASTERISK
-29C7	mscl-squaredsmallcircle	SQUARED SMALL CIRCLE
-29C8	mscl-squaredsquare	SQUARED SQUARE
-29C9	mscl-twojoinedsquares	TWO JOINED SQUARES
-29CA	mscl-trianglewithdotabove	TRIANGLE WITH DOT ABOVE
-29CB	mscl-trianglewithunderbar	TRIANGLE WITH UNDERBAR
-29CC	mscl-sintriangle	S IN TRIANGLE
-29CD	mscl-trianglewithserifsatbottom	TRIANGLE WITH SERIFS AT BOTTOM
-29CE	mscl-righttriangleabovelefttriangle	RIGHT TRIANGLE ABOVE LEFT TRIANGLE
-29CF	mscl-lefttrianglebesideverticalbar	LEFT TRIANGLE BESIDE VERTICAL BAR
-29D0	mscl-verticalbarbesiderighttriangle	VERTICAL BAR BESIDE RIGHT TRIANGLE
-29D1	mscl-bowtiewithlefthalfblack	BOWTIE WITH LEFT HALF BLACK
-29D2	mscl-bowtiewithrighthalfblack	BOWTIE WITH RIGHT HALF BLACK
-29D3	mscl-blackbowtie	BLACK BOWTIE
-29D4	mscl-timeswithlefthalfblack	TIMES WITH LEFT HALF BLACK
-29D5	mscl-timeswithrighthalfblack	TIMES WITH RIGHT HALF BLACK
-29D6	mscl-whitehourglass	WHITE HOURGLASS
-29D7	mscl-blackhourglass	BLACK HOURGLASS
-29D8	mscl-leftwigglyfence	LEFT WIGGLY FENCE
-29D9	mscl-rightwigglyfence	RIGHT WIGGLY FENCE
-29DA	mscl-leftdoublewigglyfence	LEFT DOUBLE WIGGLY FENCE
-29DB	mscl-rightdoublewigglyfence	RIGHT DOUBLE WIGGLY FENCE
-29DC	mscl-incompleteinfinity	INCOMPLETE INFINITY
-29DD	mscl-tieoverinfinity	TIE OVER INFINITY
-29DE	mscl-infinitynegatedwithverticalbar	INFINITY NEGATED WITH VERTICAL BAR
-29DF	mscl-doubleendedmultimap	DOUBLE-ENDED MULTIMAP
-29E0	mscl-squarewithcontouredoutline	SQUARE WITH CONTOURED OUTLINE
-29E1	mscl-increasesas	INCREASES AS
-29E2	mscl-shuffleproduct	SHUFFLE PRODUCT
-29E3	mscl-equalssignandslantedparallel	EQUALS SIGN AND SLANTED PARALLEL
-29E4	mscl-equalssignandslantedparallelwithtildeabove	EQUALS SIGN AND SLANTED PARALLEL WITH TILDE ABOVE
-29E5	mscl-identicaltoandslantedparallel	IDENTICAL TO AND SLANTED PARALLEL
-29E6	mscl-gleichstark	GLEICH STARK
-29E7	mscl-thermodynamic	THERMODYNAMIC
-29E8	mscl-downpointingtrianglewithlefthalfblack	DOWN-POINTING TRIANGLE WITH LEFT HALF BLACK
-29E9	mscl-downpointingtrianglewithrighthalfblack	DOWN-POINTING TRIANGLE WITH RIGHT HALF BLACK
-29EA	mscl-blackdiamondwithdownarrow	BLACK DIAMOND WITH DOWN ARROW
-29EB	mscl-blacklozenge	BLACK LOZENGE
-29EC	mscl-whitecirclewithdownarrow	WHITE CIRCLE WITH DOWN ARROW
-29ED	mscl-blackcirclewithdownarrow	BLACK CIRCLE WITH DOWN ARROW
-29EE	mscl-errorbarredwhitesquare	ERROR-BARRED WHITE SQUARE
-29EF	mscl-errorbarredblacksquare	ERROR-BARRED BLACK SQUARE
-29F0	mscl-errorbarredwhitediamond	ERROR-BARRED WHITE DIAMOND
-29F1	mscl-errorbarredblackdiamond	ERROR-BARRED BLACK DIAMOND
-29F2	mscl-errorbarredwhitecircle	ERROR-BARRED WHITE CIRCLE
-29F3	mscl-errorbarredblackcircle	ERROR-BARRED BLACK CIRCLE
-29F4	mscl-ruledelayed	RULE-DELAYED
-29F5	mscl-reversesolidusoperator	REVERSE SOLIDUS OPERATOR
-29F6	mscl-soliduswithoverbar	SOLIDUS WITH OVERBAR
-29F7	mscl-reversesoliduswithhorizontalstroke	REVERSE SOLIDUS WITH HORIZONTAL STROKE
-29F8	mscl-bigsolidus	BIG SOLIDUS
-29F9	mscl-bigreversesolidus	BIG REVERSE SOLIDUS
-29FA	mscl-doubleplus	DOUBLE PLUS
-29FB	mscl-tripleplus	TRIPLE PLUS
-29FC	mscl-leftpointingcurvedanglebracket	LEFT-POINTING CURVED ANGLE BRACKET
-29FD	mscl-rightpointingcurvedanglebracket	RIGHT-POINTING CURVED ANGLE BRACKET
-29FE	mscl-tiny	TINY
-29FF	mscl-miny	MINY
+2980	tripleverticalbardelimiter	TRIPLE VERTICAL BAR DELIMITER
+2981	znotationspot	Z NOTATION SPOT
+2982	znotationtypecolon	Z NOTATION TYPE COLON
+2983	leftwhitecurlybracket	LEFT WHITE CURLY BRACKET
+2984	rightwhitecurlybracket	RIGHT WHITE CURLY BRACKET
+2985	leftwhiteparenthesis	LEFT WHITE PARENTHESIS
+2986	rightwhiteparenthesis	RIGHT WHITE PARENTHESIS
+2987	znotationleftimagebracket	Z NOTATION LEFT IMAGE BRACKET
+2988	znotationrightimagebracket	Z NOTATION RIGHT IMAGE BRACKET
+2989	znotationleftbindingbracket	Z NOTATION LEFT BINDING BRACKET
+298A	znotationrightbindingbracket	Z NOTATION RIGHT BINDING BRACKET
+298B	leftsquarebracketwithunderbar	LEFT SQUARE BRACKET WITH UNDERBAR
+298C	rightsquarebracketwithunderbar	RIGHT SQUARE BRACKET WITH UNDERBAR
+298D	leftsquarebracketwithtickintopcorner	LEFT SQUARE BRACKET WITH TICK IN TOP CORNER
+298E	rightsquarebracketwithtickinbottomcorner	RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER
+298F	leftsquarebracketwithtickinbottomcorner	LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER
+2990	rightsquarebracketwithtickintopcorner	RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER
+2991	leftanglebracketwithdot	LEFT ANGLE BRACKET WITH DOT
+2992	rightanglebracketwithdot	RIGHT ANGLE BRACKET WITH DOT
+2993	leftarclessthanbracket	LEFT ARC LESS-THAN BRACKET
+2994	rightarcgreaterthanbracket	RIGHT ARC GREATER-THAN BRACKET
+2995	doubleleftarcgreaterthanbracket	DOUBLE LEFT ARC GREATER-THAN BRACKET
+2996	doublerightarclessthanbracket	DOUBLE RIGHT ARC LESS-THAN BRACKET
+2997	leftblacktortoiseshellbracket	LEFT BLACK TORTOISE SHELL BRACKET
+2998	rightblacktortoiseshellbracket	RIGHT BLACK TORTOISE SHELL BRACKET
+2999	dottedfence	DOTTED FENCE
+299A	verticalzigzagline	VERTICAL ZIGZAG LINE
+299B	measuredangleopeningleft	MEASURED ANGLE OPENING LEFT
+299C	rightanglevariantwithsquare	RIGHT ANGLE VARIANT WITH SQUARE
+299D	measuredrightanglewithdot	MEASURED RIGHT ANGLE WITH DOT
+299E	anglewithsinside	ANGLE WITH S INSIDE
+299F	acuteangle	ACUTE ANGLE
+29A0	sphericalangleopeningleft	SPHERICAL ANGLE OPENING LEFT
+29A1	sphericalangleopeningup	SPHERICAL ANGLE OPENING UP
+29A2	turnedangle	TURNED ANGLE
+29A3	reversedangle	REVERSED ANGLE
+29A4	anglewithunderbar	ANGLE WITH UNDERBAR
+29A5	reversedanglewithunderbar	REVERSED ANGLE WITH UNDERBAR
+29A6	obliqueangleopeningup	OBLIQUE ANGLE OPENING UP
+29A7	obliqueangleopeningdown	OBLIQUE ANGLE OPENING DOWN
+29A8	measuredanglewithopenarmendinginarrowpointingupandright	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT
+29A9	measuredanglewithopenarmendinginarrowpointingupandleft	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT
+29AA	measuredanglewithopenarmendinginarrowpointingdownandright	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT
+29AB	measuredanglewithopenarmendinginarrowpointingdownandleft	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT
+29AC	measuredanglewithopenarmendinginarrowpointingrightandup	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP
+29AD	measuredanglewithopenarmendinginarrowpointingleftandup	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP
+29AE	measuredanglewithopenarmendinginarrowpointingrightanddown	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN
+29AF	measuredanglewithopenarmendinginarrowpointingleftanddown	MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND DOWN
+29B0	reversedemptyset	REVERSED EMPTY SET
+29B1	emptysetwithoverbar	EMPTY SET WITH OVERBAR
+29B2	emptysetwithsmallcircleabove	EMPTY SET WITH SMALL CIRCLE ABOVE
+29B3	emptysetwithrightarrowabove	EMPTY SET WITH RIGHT ARROW ABOVE
+29B4	emptysetwithleftarrowabove	EMPTY SET WITH LEFT ARROW ABOVE
+29B5	circlewithhorizontalbar	CIRCLE WITH HORIZONTAL BAR
+29B6	circledverticalbar	CIRCLED VERTICAL BAR
+29B7	circledparallel	CIRCLED PARALLEL
+29B8	circledreversesolidus	CIRCLED REVERSE SOLIDUS
+29B9	circledperpendicular	CIRCLED PERPENDICULAR
+29BA	circledividedbyhorizontalbarandtophalfdividedbyverticalbar	CIRCLE DIVIDED BY HORIZONTAL BAR AND TOP HALF DIVIDED BY VERTICAL BAR
+29BB	circlewithsuperimposedx	CIRCLE WITH SUPERIMPOSED X
+29BC	circledanticlockwiserotateddivisionsign	CIRCLED ANTICLOCKWISE-ROTATED DIVISION SIGN
+29BD	uparrowthroughcircle	UP ARROW THROUGH CIRCLE
+29BE	circledwhitebullet	CIRCLED WHITE BULLET
+29BF	circledbullet	CIRCLED BULLET
+29C0	circledlessthan	CIRCLED LESS-THAN
+29C1	circledgreaterthan	CIRCLED GREATER-THAN
+29C2	circlewithsmallcircletotheright	CIRCLE WITH SMALL CIRCLE TO THE RIGHT
+29C3	circlewithtwohorizontalstrokestotheright	CIRCLE WITH TWO HORIZONTAL STROKES TO THE RIGHT
+29C4	squaredrisingdiagonalslash	SQUARED RISING DIAGONAL SLASH
+29C5	squaredfallingdiagonalslash	SQUARED FALLING DIAGONAL SLASH
+29C6	squaredasterisk	SQUARED ASTERISK
+29C7	squaredsmallcircle	SQUARED SMALL CIRCLE
+29C8	squaredsquare	SQUARED SQUARE
+29C9	twojoinedsquares	TWO JOINED SQUARES
+29CA	trianglewithdotabove	TRIANGLE WITH DOT ABOVE
+29CB	trianglewithunderbar	TRIANGLE WITH UNDERBAR
+29CC	sintriangle	S IN TRIANGLE
+29CD	trianglewithserifsatbottom	TRIANGLE WITH SERIFS AT BOTTOM
+29CE	righttriangleabovelefttriangle	RIGHT TRIANGLE ABOVE LEFT TRIANGLE
+29CF	lefttrianglebesideverticalbar	LEFT TRIANGLE BESIDE VERTICAL BAR
+29D0	verticalbarbesiderighttriangle	VERTICAL BAR BESIDE RIGHT TRIANGLE
+29D1	bowtiewithlefthalfblack	BOWTIE WITH LEFT HALF BLACK
+29D2	bowtiewithrighthalfblack	BOWTIE WITH RIGHT HALF BLACK
+29D3	blackbowtie	BLACK BOWTIE
+29D4	timeswithlefthalfblack	TIMES WITH LEFT HALF BLACK
+29D5	timeswithrighthalfblack	TIMES WITH RIGHT HALF BLACK
+29D6	whitehourglass	WHITE HOURGLASS
+29D7	blackhourglass	BLACK HOURGLASS
+29D8	leftwigglyfence	LEFT WIGGLY FENCE
+29D9	rightwigglyfence	RIGHT WIGGLY FENCE
+29DA	leftdoublewigglyfence	LEFT DOUBLE WIGGLY FENCE
+29DB	rightdoublewigglyfence	RIGHT DOUBLE WIGGLY FENCE
+29DC	incompleteinfinity	INCOMPLETE INFINITY
+29DD	tieoverinfinity	TIE OVER INFINITY
+29DE	infinitynegatedwithverticalbar	INFINITY NEGATED WITH VERTICAL BAR
+29DF	doubleendedmultimap	DOUBLE-ENDED MULTIMAP
+29E0	squarewithcontouredoutline	SQUARE WITH CONTOURED OUTLINE
+29E1	increasesas	INCREASES AS
+29E2	shuffleproduct	SHUFFLE PRODUCT
+29E3	equalssignandslantedparallel	EQUALS SIGN AND SLANTED PARALLEL
+29E4	equalssignandslantedparallelwithtildeabove	EQUALS SIGN AND SLANTED PARALLEL WITH TILDE ABOVE
+29E5	identicaltoandslantedparallel	IDENTICAL TO AND SLANTED PARALLEL
+29E6	gleichstark	GLEICH STARK
+29E7	thermodynamic	THERMODYNAMIC
+29E8	downpointingtrianglewithlefthalfblack	DOWN-POINTING TRIANGLE WITH LEFT HALF BLACK
+29E9	downpointingtrianglewithrighthalfblack	DOWN-POINTING TRIANGLE WITH RIGHT HALF BLACK
+29EA	blackdiamondwithdownarrow	BLACK DIAMOND WITH DOWN ARROW
+29EB	blacklozenge	BLACK LOZENGE
+29EC	whitecirclewithdownarrow	WHITE CIRCLE WITH DOWN ARROW
+29ED	blackcirclewithdownarrow	BLACK CIRCLE WITH DOWN ARROW
+29EE	errorbarredwhitesquare	ERROR-BARRED WHITE SQUARE
+29EF	errorbarredblacksquare	ERROR-BARRED BLACK SQUARE
+29F0	errorbarredwhitediamond	ERROR-BARRED WHITE DIAMOND
+29F1	errorbarredblackdiamond	ERROR-BARRED BLACK DIAMOND
+29F2	errorbarredwhitecircle	ERROR-BARRED WHITE CIRCLE
+29F3	errorbarredblackcircle	ERROR-BARRED BLACK CIRCLE
+29F4	ruledelayed	RULE-DELAYED
+29F5	reversesolidusoperator	REVERSE SOLIDUS OPERATOR
+29F6	soliduswithoverbar	SOLIDUS WITH OVERBAR
+29F7	reversesoliduswithhorizontalstroke	REVERSE SOLIDUS WITH HORIZONTAL STROKE
+29F8	bigsolidus	BIG SOLIDUS
+29F9	bigreversesolidus	BIG REVERSE SOLIDUS
+29FA	doubleplus	DOUBLE PLUS
+29FB	tripleplus	TRIPLE PLUS
+29FC	leftpointingcurvedanglebracket	LEFT-POINTING CURVED ANGLE BRACKET
+29FD	rightpointingcurvedanglebracket	RIGHT-POINTING CURVED ANGLE BRACKET
+29FE	tiny	TINY
+29FF	miny	MINY

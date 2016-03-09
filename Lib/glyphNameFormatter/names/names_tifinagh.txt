@@ -1,56 +1,56 @@
 # Tifinagh 2D30 - 2D7F
-2D30	tfng-tifinaghletterya	TIFINAGH LETTER YA
-2D31	tfng-tifinaghletteryab	TIFINAGH LETTER YAB
-2D32	tfng-tifinaghletteryabh	TIFINAGH LETTER YABH
-2D33	tfng-tifinaghletteryag	TIFINAGH LETTER YAG
-2D34	tfng-tifinaghletteryaghh	TIFINAGH LETTER YAGHH
-2D35	tfng-tifinaghletterberberacademyyaj	TIFINAGH LETTER BERBER ACADEMY YAJ
-2D36	tfng-tifinaghletteryaj	TIFINAGH LETTER YAJ
-2D37	tfng-tifinaghletteryad	TIFINAGH LETTER YAD
-2D38	tfng-tifinaghletteryadh	TIFINAGH LETTER YADH
-2D39	tfng-tifinaghletteryadd	TIFINAGH LETTER YADD
-2D3A	tfng-tifinaghletteryaddh	TIFINAGH LETTER YADDH
-2D3B	tfng-tifinaghletteryey	TIFINAGH LETTER YEY
-2D3C	tfng-tifinaghletteryaf	TIFINAGH LETTER YAF
-2D3D	tfng-tifinaghletteryak	TIFINAGH LETTER YAK
-2D3E	tfng-tifinaghlettertuaregyak	TIFINAGH LETTER TUAREG YAK
-2D3F	tfng-tifinaghletteryakhh	TIFINAGH LETTER YAKHH
-2D40	tfng-tifinaghletteryah	TIFINAGH LETTER YAH
-2D41	tfng-tifinaghletterberberacademyyah	TIFINAGH LETTER BERBER ACADEMY YAH
-2D42	tfng-tifinaghlettertuaregyah	TIFINAGH LETTER TUAREG YAH
-2D43	tfng-tifinaghletteryahh	TIFINAGH LETTER YAHH
-2D44	tfng-tifinaghletteryaa	TIFINAGH LETTER YAA
-2D45	tfng-tifinaghletteryakh	TIFINAGH LETTER YAKH
-2D46	tfng-tifinaghlettertuaregyakh	TIFINAGH LETTER TUAREG YAKH
-2D47	tfng-tifinaghletteryaq	TIFINAGH LETTER YAQ
-2D48	tfng-tifinaghlettertuaregyaq	TIFINAGH LETTER TUAREG YAQ
-2D49	tfng-tifinaghletteryi	TIFINAGH LETTER YI
-2D4A	tfng-tifinaghletteryazh	TIFINAGH LETTER YAZH
-2D4B	tfng-tifinaghletterahaggaryazh	TIFINAGH LETTER AHAGGAR YAZH
-2D4C	tfng-tifinaghlettertuaregyazh	TIFINAGH LETTER TUAREG YAZH
-2D4D	tfng-tifinaghletteryal	TIFINAGH LETTER YAL
-2D4E	tfng-tifinaghletteryam	TIFINAGH LETTER YAM
-2D4F	tfng-tifinaghletteryan	TIFINAGH LETTER YAN
-2D50	tfng-tifinaghlettertuaregyagn	TIFINAGH LETTER TUAREG YAGN
-2D51	tfng-tifinaghlettertuaregyang	TIFINAGH LETTER TUAREG YANG
-2D52	tfng-tifinaghletteryap	TIFINAGH LETTER YAP
-2D53	tfng-tifinaghletteryu	TIFINAGH LETTER YU
-2D54	tfng-tifinaghletteryar	TIFINAGH LETTER YAR
-2D55	tfng-tifinaghletteryarr	TIFINAGH LETTER YARR
-2D56	tfng-tifinaghletteryagh	TIFINAGH LETTER YAGH
-2D57	tfng-tifinaghlettertuaregyagh	TIFINAGH LETTER TUAREG YAGH
-2D58	tfng-tifinaghletterayeryagh	TIFINAGH LETTER AYER YAGH
-2D59	tfng-tifinaghletteryas	TIFINAGH LETTER YAS
-2D5A	tfng-tifinaghletteryass	TIFINAGH LETTER YASS
-2D5B	tfng-tifinaghletteryash	TIFINAGH LETTER YASH
-2D5C	tfng-tifinaghletteryat	TIFINAGH LETTER YAT
-2D5D	tfng-tifinaghletteryath	TIFINAGH LETTER YATH
-2D5E	tfng-tifinaghletteryach	TIFINAGH LETTER YACH
-2D5F	tfng-tifinaghletteryatt	TIFINAGH LETTER YATT
-2D60	tfng-tifinaghletteryav	TIFINAGH LETTER YAV
-2D61	tfng-tifinaghletteryaw	TIFINAGH LETTER YAW
-2D62	tfng-tifinaghletteryay	TIFINAGH LETTER YAY
-2D63	tfng-tifinaghletteryaz	TIFINAGH LETTER YAZ
-2D64	tfng-tifinaghlettertawellemetyaz	TIFINAGH LETTER TAWELLEMET YAZ
-2D65	tfng-tifinaghletteryazz	TIFINAGH LETTER YAZZ
-2D6F	tfng-tifinaghmodifierletterlabializationmark	TIFINAGH MODIFIER LETTER LABIALIZATION MARK
+2D30	tifinaghletterya	TIFINAGH LETTER YA
+2D31	tifinaghletteryab	TIFINAGH LETTER YAB
+2D32	tifinaghletteryabh	TIFINAGH LETTER YABH
+2D33	tifinaghletteryag	TIFINAGH LETTER YAG
+2D34	tifinaghletteryaghh	TIFINAGH LETTER YAGHH
+2D35	tifinaghletterberberacademyyaj	TIFINAGH LETTER BERBER ACADEMY YAJ
+2D36	tifinaghletteryaj	TIFINAGH LETTER YAJ
+2D37	tifinaghletteryad	TIFINAGH LETTER YAD
+2D38	tifinaghletteryadh	TIFINAGH LETTER YADH
+2D39	tifinaghletteryadd	TIFINAGH LETTER YADD
+2D3A	tifinaghletteryaddh	TIFINAGH LETTER YADDH
+2D3B	tifinaghletteryey	TIFINAGH LETTER YEY
+2D3C	tifinaghletteryaf	TIFINAGH LETTER YAF
+2D3D	tifinaghletteryak	TIFINAGH LETTER YAK
+2D3E	tifinaghlettertuaregyak	TIFINAGH LETTER TUAREG YAK
+2D3F	tifinaghletteryakhh	TIFINAGH LETTER YAKHH
+2D40	tifinaghletteryah	TIFINAGH LETTER YAH
+2D41	tifinaghletterberberacademyyah	TIFINAGH LETTER BERBER ACADEMY YAH
+2D42	tifinaghlettertuaregyah	TIFINAGH LETTER TUAREG YAH
+2D43	tifinaghletteryahh	TIFINAGH LETTER YAHH
+2D44	tifinaghletteryaa	TIFINAGH LETTER YAA
+2D45	tifinaghletteryakh	TIFINAGH LETTER YAKH
+2D46	tifinaghlettertuaregyakh	TIFINAGH LETTER TUAREG YAKH
+2D47	tifinaghletteryaq	TIFINAGH LETTER YAQ
+2D48	tifinaghlettertuaregyaq	TIFINAGH LETTER TUAREG YAQ
+2D49	tifinaghletteryi	TIFINAGH LETTER YI
+2D4A	tifinaghletteryazh	TIFINAGH LETTER YAZH
+2D4B	tifinaghletterahaggaryazh	TIFINAGH LETTER AHAGGAR YAZH
+2D4C	tifinaghlettertuaregyazh	TIFINAGH LETTER TUAREG YAZH
+2D4D	tifinaghletteryal	TIFINAGH LETTER YAL
+2D4E	tifinaghletteryam	TIFINAGH LETTER YAM
+2D4F	tifinaghletteryan	TIFINAGH LETTER YAN
+2D50	tifinaghlettertuaregyagn	TIFINAGH LETTER TUAREG YAGN
+2D51	tifinaghlettertuaregyang	TIFINAGH LETTER TUAREG YANG
+2D52	tifinaghletteryap	TIFINAGH LETTER YAP
+2D53	tifinaghletteryu	TIFINAGH LETTER YU
+2D54	tifinaghletteryar	TIFINAGH LETTER YAR
+2D55	tifinaghletteryarr	TIFINAGH LETTER YARR
+2D56	tifinaghletteryagh	TIFINAGH LETTER YAGH
+2D57	tifinaghlettertuaregyagh	TIFINAGH LETTER TUAREG YAGH
+2D58	tifinaghletterayeryagh	TIFINAGH LETTER AYER YAGH
+2D59	tifinaghletteryas	TIFINAGH LETTER YAS
+2D5A	tifinaghletteryass	TIFINAGH LETTER YASS
+2D5B	tifinaghletteryash	TIFINAGH LETTER YASH
+2D5C	tifinaghletteryat	TIFINAGH LETTER YAT
+2D5D	tifinaghletteryath	TIFINAGH LETTER YATH
+2D5E	tifinaghletteryach	TIFINAGH LETTER YACH
+2D5F	tifinaghletteryatt	TIFINAGH LETTER YATT
+2D60	tifinaghletteryav	TIFINAGH LETTER YAV
+2D61	tifinaghletteryaw	TIFINAGH LETTER YAW
+2D62	tifinaghletteryay	TIFINAGH LETTER YAY
+2D63	tifinaghletteryaz	TIFINAGH LETTER YAZ
+2D64	tifinaghlettertawellemetyaz	TIFINAGH LETTER TAWELLEMET YAZ
+2D65	tifinaghletteryazz	TIFINAGH LETTER YAZZ
+2D6F	tifinaghmodifierletterlabializationmark	TIFINAGH MODIFIER LETTER LABIALIZATION MARK

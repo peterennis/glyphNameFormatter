@@ -1,66 +1,66 @@
 # Lao 0E80 - 0EFF
-0E81	l-laoletterko	LAO LETTER KO
-0E82	l-laoletterkhosung	LAO LETTER KHO SUNG
-0E84	l-laoletterkhotam	LAO LETTER KHO TAM
-0E87	l-laoletterngo	LAO LETTER NGO
-0E88	l-laoletterco	LAO LETTER CO
-0E8A	l-laolettersotam	LAO LETTER SO TAM
-0E8D	l-laoletternyo	LAO LETTER NYO
-0E94	l-laoletterdo	LAO LETTER DO
-0E95	l-laoletterto	LAO LETTER TO
-0E96	l-laoletterthosung	LAO LETTER THO SUNG
-0E97	l-laoletterthotam	LAO LETTER THO TAM
-0E99	l-laoletterno	LAO LETTER NO
-0E9A	l-laoletterbo	LAO LETTER BO
-0E9B	l-laoletterpo	LAO LETTER PO
-0E9C	l-laoletterphosung	LAO LETTER PHO SUNG
-0E9D	l-laoletterfotam	LAO LETTER FO TAM
-0E9E	l-laoletterphotam	LAO LETTER PHO TAM
-0E9F	l-laoletterfosung	LAO LETTER FO SUNG
-0EA1	l-laolettermo	LAO LETTER MO
-0EA2	l-laoletteryo	LAO LETTER YO
-0EA3	l-laoletterloling	LAO LETTER LO LING
-0EA5	l-laoletterloloot	LAO LETTER LO LOOT
-0EA7	l-laoletterwo	LAO LETTER WO
-0EAA	l-laolettersosung	LAO LETTER SO SUNG
-0EAB	l-laoletterhosung	LAO LETTER HO SUNG
-0EAD	l-laolettero	LAO LETTER O
-0EAE	l-laoletterhotam	LAO LETTER HO TAM
-0EAF	l-laoellipsis	LAO ELLIPSIS
-0EB0	l-laovowelsigna	LAO VOWEL SIGN A
-0EB1	l-laovowelsignmaikan	LAO VOWEL SIGN MAI KAN
-0EB2	l-laovowelsignaa	LAO VOWEL SIGN AA
-0EB3	l-laovowelsignam	LAO VOWEL SIGN AM
-0EB4	l-laovowelsigni	LAO VOWEL SIGN I
-0EB5	l-laovowelsignii	LAO VOWEL SIGN II
-0EB6	l-laovowelsigny	LAO VOWEL SIGN Y
-0EB7	l-laovowelsignyy	LAO VOWEL SIGN YY
-0EB8	l-laovowelsignu	LAO VOWEL SIGN U
-0EB9	l-laovowelsignuu	LAO VOWEL SIGN UU
-0EBB	l-laovowelsignmaikon	LAO VOWEL SIGN MAI KON
-0EBC	l-laosemivowelsignlo	LAO SEMIVOWEL SIGN LO
-0EBD	l-laosemivowelsignnyo	LAO SEMIVOWEL SIGN NYO
-0EC0	l-laovowelsigne	LAO VOWEL SIGN E
-0EC1	l-laovowelsignei	LAO VOWEL SIGN EI
-0EC2	l-laovowelsigno	LAO VOWEL SIGN O
-0EC3	l-laovowelsignay	LAO VOWEL SIGN AY
-0EC4	l-laovowelsignai	LAO VOWEL SIGN AI
-0EC6	l-laokola	LAO KO LA
-0EC8	l-laotonemaiek	LAO TONE MAI EK
-0EC9	l-laotonemaitho	LAO TONE MAI THO
-0ECA	l-laotonemaiti	LAO TONE MAI TI
-0ECB	l-laotonemaicatawa	LAO TONE MAI CATAWA
-0ECC	l-laocancellationmark	LAO CANCELLATION MARK
-0ECD	l-laoniggahita	LAO NIGGAHITA
-0ED0	l-laodigitzero	LAO DIGIT ZERO
-0ED1	l-laodigitone	LAO DIGIT ONE
-0ED2	l-laodigittwo	LAO DIGIT TWO
-0ED3	l-laodigitthree	LAO DIGIT THREE
-0ED4	l-laodigitfour	LAO DIGIT FOUR
-0ED5	l-laodigitfive	LAO DIGIT FIVE
-0ED6	l-laodigitsix	LAO DIGIT SIX
-0ED7	l-laodigitseven	LAO DIGIT SEVEN
-0ED8	l-laodigiteight	LAO DIGIT EIGHT
-0ED9	l-laodigitnine	LAO DIGIT NINE
-0EDC	l-laohono	LAO HO NO
-0EDD	l-laohomo	LAO HO MO
+0E81	laoletterko	LAO LETTER KO
+0E82	laoletterkhosung	LAO LETTER KHO SUNG
+0E84	laoletterkhotam	LAO LETTER KHO TAM
+0E87	laoletterngo	LAO LETTER NGO
+0E88	laoletterco	LAO LETTER CO
+0E8A	laolettersotam	LAO LETTER SO TAM
+0E8D	laoletternyo	LAO LETTER NYO
+0E94	laoletterdo	LAO LETTER DO
+0E95	laoletterto	LAO LETTER TO
+0E96	laoletterthosung	LAO LETTER THO SUNG
+0E97	laoletterthotam	LAO LETTER THO TAM
+0E99	laoletterno	LAO LETTER NO
+0E9A	laoletterbo	LAO LETTER BO
+0E9B	laoletterpo	LAO LETTER PO
+0E9C	laoletterphosung	LAO LETTER PHO SUNG
+0E9D	laoletterfotam	LAO LETTER FO TAM
+0E9E	laoletterphotam	LAO LETTER PHO TAM
+0E9F	laoletterfosung	LAO LETTER FO SUNG
+0EA1	laolettermo	LAO LETTER MO
+0EA2	laoletteryo	LAO LETTER YO
+0EA3	laoletterloling	LAO LETTER LO LING
+0EA5	laoletterloloot	LAO LETTER LO LOOT
+0EA7	laoletterwo	LAO LETTER WO
+0EAA	laolettersosung	LAO LETTER SO SUNG
+0EAB	laoletterhosung	LAO LETTER HO SUNG
+0EAD	laolettero	LAO LETTER O
+0EAE	laoletterhotam	LAO LETTER HO TAM
+0EAF	laoellipsis	LAO ELLIPSIS
+0EB0	laovowelsigna	LAO VOWEL SIGN A
+0EB1	laovowelsignmaikan	LAO VOWEL SIGN MAI KAN
+0EB2	laovowelsignaa	LAO VOWEL SIGN AA
+0EB3	laovowelsignam	LAO VOWEL SIGN AM
+0EB4	laovowelsigni	LAO VOWEL SIGN I
+0EB5	laovowelsignii	LAO VOWEL SIGN II
+0EB6	laovowelsigny	LAO VOWEL SIGN Y
+0EB7	laovowelsignyy	LAO VOWEL SIGN YY
+0EB8	laovowelsignu	LAO VOWEL SIGN U
+0EB9	laovowelsignuu	LAO VOWEL SIGN UU
+0EBB	laovowelsignmaikon	LAO VOWEL SIGN MAI KON
+0EBC	laosemivowelsignlo	LAO SEMIVOWEL SIGN LO
+0EBD	laosemivowelsignnyo	LAO SEMIVOWEL SIGN NYO
+0EC0	laovowelsigne	LAO VOWEL SIGN E
+0EC1	laovowelsignei	LAO VOWEL SIGN EI
+0EC2	laovowelsigno	LAO VOWEL SIGN O
+0EC3	laovowelsignay	LAO VOWEL SIGN AY
+0EC4	laovowelsignai	LAO VOWEL SIGN AI
+0EC6	laokola	LAO KO LA
+0EC8	laotonemaiek	LAO TONE MAI EK
+0EC9	laotonemaitho	LAO TONE MAI THO
+0ECA	laotonemaiti	LAO TONE MAI TI
+0ECB	laotonemaicatawa	LAO TONE MAI CATAWA
+0ECC	laocancellationmark	LAO CANCELLATION MARK
+0ECD	laoniggahita	LAO NIGGAHITA
+0ED0	laodigitzero	LAO DIGIT ZERO
+0ED1	laodigitone	LAO DIGIT ONE
+0ED2	laodigittwo	LAO DIGIT TWO
+0ED3	laodigitthree	LAO DIGIT THREE
+0ED4	laodigitfour	LAO DIGIT FOUR
+0ED5	laodigitfive	LAO DIGIT FIVE
+0ED6	laodigitsix	LAO DIGIT SIX
+0ED7	laodigitseven	LAO DIGIT SEVEN
+0ED8	laodigiteight	LAO DIGIT EIGHT
+0ED9	laodigitnine	LAO DIGIT NINE
+0EDC	laohono	LAO HO NO
+0EDD	laohomo	LAO HO MO

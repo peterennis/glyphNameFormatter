@@ -1,32 +1,32 @@
 # Imperial Aramaic 10840 - 1085F
-10840	mprl-imperialaramaicletteraleph	IMPERIAL ARAMAIC LETTER ALEPH
-10841	mprl-imperialaramaicletterbeth	IMPERIAL ARAMAIC LETTER BETH
-10842	mprl-imperialaramaiclettergimel	IMPERIAL ARAMAIC LETTER GIMEL
-10843	mprl-imperialaramaicletterdaleth	IMPERIAL ARAMAIC LETTER DALETH
-10844	mprl-imperialaramaicletterhe	IMPERIAL ARAMAIC LETTER HE
-10845	mprl-imperialaramaicletterwaw	IMPERIAL ARAMAIC LETTER WAW
-10846	mprl-imperialaramaicletterzayin	IMPERIAL ARAMAIC LETTER ZAYIN
-10847	mprl-imperialaramaicletterheth	IMPERIAL ARAMAIC LETTER HETH
-10848	mprl-imperialaramaicletterteth	IMPERIAL ARAMAIC LETTER TETH
-10849	mprl-imperialaramaicletteryodh	IMPERIAL ARAMAIC LETTER YODH
-1084A	mprl-imperialaramaicletterkaph	IMPERIAL ARAMAIC LETTER KAPH
-1084B	mprl-imperialaramaicletterlamedh	IMPERIAL ARAMAIC LETTER LAMEDH
-1084C	mprl-imperialaramaiclettermem	IMPERIAL ARAMAIC LETTER MEM
-1084D	mprl-imperialaramaicletternun	IMPERIAL ARAMAIC LETTER NUN
-1084E	mprl-imperialaramaiclettersamekh	IMPERIAL ARAMAIC LETTER SAMEKH
-1084F	mprl-imperialaramaicletterayin	IMPERIAL ARAMAIC LETTER AYIN
-10850	mprl-imperialaramaicletterpe	IMPERIAL ARAMAIC LETTER PE
-10851	mprl-imperialaramaiclettersadhe	IMPERIAL ARAMAIC LETTER SADHE
-10852	mprl-imperialaramaicletterqoph	IMPERIAL ARAMAIC LETTER QOPH
-10853	mprl-imperialaramaicletterresh	IMPERIAL ARAMAIC LETTER RESH
-10854	mprl-imperialaramaiclettershin	IMPERIAL ARAMAIC LETTER SHIN
-10855	mprl-imperialaramaiclettertaw	IMPERIAL ARAMAIC LETTER TAW
-10857	mprl-imperialaramaicsectionsign	IMPERIAL ARAMAIC SECTION SIGN
-10858	mprl-imperialaramaicnumberone	IMPERIAL ARAMAIC NUMBER ONE
-10859	mprl-imperialaramaicnumbertwo	IMPERIAL ARAMAIC NUMBER TWO
-1085A	mprl-imperialaramaicnumberthree	IMPERIAL ARAMAIC NUMBER THREE
-1085B	mprl-imperialaramaicnumberten	IMPERIAL ARAMAIC NUMBER TEN
-1085C	mprl-imperialaramaicnumbertwenty	IMPERIAL ARAMAIC NUMBER TWENTY
-1085D	mprl-imperialaramaicnumberonehundred	IMPERIAL ARAMAIC NUMBER ONE HUNDRED
-1085E	mprl-imperialaramaicnumberonethousand	IMPERIAL ARAMAIC NUMBER ONE THOUSAND
-1085F	mprl-imperialaramaicnumbertenthousand	IMPERIAL ARAMAIC NUMBER TEN THOUSAND
+10840	imperialaramaicletteraleph	IMPERIAL ARAMAIC LETTER ALEPH
+10841	imperialaramaicletterbeth	IMPERIAL ARAMAIC LETTER BETH
+10842	imperialaramaiclettergimel	IMPERIAL ARAMAIC LETTER GIMEL
+10843	imperialaramaicletterdaleth	IMPERIAL ARAMAIC LETTER DALETH
+10844	imperialaramaicletterhe	IMPERIAL ARAMAIC LETTER HE
+10845	imperialaramaicletterwaw	IMPERIAL ARAMAIC LETTER WAW
+10846	imperialaramaicletterzayin	IMPERIAL ARAMAIC LETTER ZAYIN
+10847	imperialaramaicletterheth	IMPERIAL ARAMAIC LETTER HETH
+10848	imperialaramaicletterteth	IMPERIAL ARAMAIC LETTER TETH
+10849	imperialaramaicletteryodh	IMPERIAL ARAMAIC LETTER YODH
+1084A	imperialaramaicletterkaph	IMPERIAL ARAMAIC LETTER KAPH
+1084B	imperialaramaicletterlamedh	IMPERIAL ARAMAIC LETTER LAMEDH
+1084C	imperialaramaiclettermem	IMPERIAL ARAMAIC LETTER MEM
+1084D	imperialaramaicletternun	IMPERIAL ARAMAIC LETTER NUN
+1084E	imperialaramaiclettersamekh	IMPERIAL ARAMAIC LETTER SAMEKH
+1084F	imperialaramaicletterayin	IMPERIAL ARAMAIC LETTER AYIN
+10850	imperialaramaicletterpe	IMPERIAL ARAMAIC LETTER PE
+10851	imperialaramaiclettersadhe	IMPERIAL ARAMAIC LETTER SADHE
+10852	imperialaramaicletterqoph	IMPERIAL ARAMAIC LETTER QOPH
+10853	imperialaramaicletterresh	IMPERIAL ARAMAIC LETTER RESH
+10854	imperialaramaiclettershin	IMPERIAL ARAMAIC LETTER SHIN
+10855	imperialaramaiclettertaw	IMPERIAL ARAMAIC LETTER TAW
+10857	imperialaramaicsectionsign	IMPERIAL ARAMAIC SECTION SIGN
+10858	imperialaramaicnumberone	IMPERIAL ARAMAIC NUMBER ONE
+10859	imperialaramaicnumbertwo	IMPERIAL ARAMAIC NUMBER TWO
+1085A	imperialaramaicnumberthree	IMPERIAL ARAMAIC NUMBER THREE
+1085B	imperialaramaicnumberten	IMPERIAL ARAMAIC NUMBER TEN
+1085C	imperialaramaicnumbertwenty	IMPERIAL ARAMAIC NUMBER TWENTY
+1085D	imperialaramaicnumberonehundred	IMPERIAL ARAMAIC NUMBER ONE HUNDRED
+1085E	imperialaramaicnumberonethousand	IMPERIAL ARAMAIC NUMBER ONE THOUSAND
+1085F	imperialaramaicnumbertenthousand	IMPERIAL ARAMAIC NUMBER TEN THOUSAND

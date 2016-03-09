@@ -1,73 +1,73 @@
 # Tamil 0B80 - 0BFF
-0B82	tml-tamilsignanusvara	TAMIL SIGN ANUSVARA
-0B83	tml-tamilsignvisarga	TAMIL SIGN VISARGA
-0B85	tml-tamillettera	TAMIL LETTER A
-0B86	tml-tamilletteraa	TAMIL LETTER AA
-0B87	tml-tamilletteri	TAMIL LETTER I
-0B88	tml-tamilletterii	TAMIL LETTER II
-0B89	tml-tamilletteru	TAMIL LETTER U
-0B8A	tml-tamilletteruu	TAMIL LETTER UU
-0B8E	tml-tamillettere	TAMIL LETTER E
-0B8F	tml-tamilletteree	TAMIL LETTER EE
-0B90	tml-tamilletterai	TAMIL LETTER AI
-0B92	tml-tamillettero	TAMIL LETTER O
-0B93	tml-tamilletteroo	TAMIL LETTER OO
-0B94	tml-tamilletterau	TAMIL LETTER AU
-0B95	tml-tamilletterka	TAMIL LETTER KA
-0B99	tml-tamilletternga	TAMIL LETTER NGA
-0B9A	tml-tamilletterca	TAMIL LETTER CA
-0B9C	tml-tamilletterja	TAMIL LETTER JA
-0B9E	tml-tamilletternya	TAMIL LETTER NYA
-0B9F	tml-tamillettertta	TAMIL LETTER TTA
-0BA3	tml-tamilletternna	TAMIL LETTER NNA
-0BA4	tml-tamilletterta	TAMIL LETTER TA
-0BA8	tml-tamilletterna	TAMIL LETTER NA
-0BA9	tml-tamilletternnna	TAMIL LETTER NNNA
-0BAA	tml-tamilletterpa	TAMIL LETTER PA
-0BAE	tml-tamilletterma	TAMIL LETTER MA
-0BAF	tml-tamilletterya	TAMIL LETTER YA
-0BB0	tml-tamilletterra	TAMIL LETTER RA
-0BB1	tml-tamilletterrra	TAMIL LETTER RRA
-0BB2	tml-tamilletterla	TAMIL LETTER LA
-0BB3	tml-tamilletterlla	TAMIL LETTER LLA
-0BB4	tml-tamilletterllla	TAMIL LETTER LLLA
-0BB5	tml-tamilletterva	TAMIL LETTER VA
-0BB6	tml-tamillettersha	TAMIL LETTER SHA
-0BB7	tml-tamilletterssa	TAMIL LETTER SSA
-0BB8	tml-tamillettersa	TAMIL LETTER SA
-0BB9	tml-tamilletterha	TAMIL LETTER HA
-0BBE	tml-tamilvowelsignaa	TAMIL VOWEL SIGN AA
-0BBF	tml-tamilvowelsigni	TAMIL VOWEL SIGN I
-0BC0	tml-tamilvowelsignii	TAMIL VOWEL SIGN II
-0BC1	tml-tamilvowelsignu	TAMIL VOWEL SIGN U
-0BC2	tml-tamilvowelsignuu	TAMIL VOWEL SIGN UU
-0BC6	tml-tamilvowelsigne	TAMIL VOWEL SIGN E
-0BC7	tml-tamilvowelsignee	TAMIL VOWEL SIGN EE
-0BC8	tml-tamilvowelsignai	TAMIL VOWEL SIGN AI
-0BCA	tml-tamilvowelsigno	TAMIL VOWEL SIGN O
-0BCB	tml-tamilvowelsignoo	TAMIL VOWEL SIGN OO
-0BCC	tml-tamilvowelsignau	TAMIL VOWEL SIGN AU
-0BCD	tml-tamilsignvirama	TAMIL SIGN VIRAMA
-0BD0	tml-tamilom	TAMIL OM
-0BD7	tml-tamilaulengthmark	TAMIL AU LENGTH MARK
-0BE6	tml-tamildigitzero	TAMIL DIGIT ZERO
-0BE7	tml-tamildigitone	TAMIL DIGIT ONE
-0BE8	tml-tamildigittwo	TAMIL DIGIT TWO
-0BE9	tml-tamildigitthree	TAMIL DIGIT THREE
-0BEA	tml-tamildigitfour	TAMIL DIGIT FOUR
-0BEB	tml-tamildigitfive	TAMIL DIGIT FIVE
-0BEC	tml-tamildigitsix	TAMIL DIGIT SIX
-0BED	tml-tamildigitseven	TAMIL DIGIT SEVEN
-0BEE	tml-tamildigiteight	TAMIL DIGIT EIGHT
-0BEF	tml-tamildigitnine	TAMIL DIGIT NINE
-0BF0	tml-tamilnumberten	TAMIL NUMBER TEN
-0BF1	tml-tamilnumberonehundred	TAMIL NUMBER ONE HUNDRED
-0BF2	tml-tamilnumberonethousand	TAMIL NUMBER ONE THOUSAND
-0BF3	tml-tamildaysign	TAMIL DAY SIGN
-0BF4	tml-tamilmonthsign	TAMIL MONTH SIGN
-0BF5	tml-tamilyearsign	TAMIL YEAR SIGN
-0BF6	tml-tamildebitsign	TAMIL DEBIT SIGN
-0BF7	tml-tamilcreditsign	TAMIL CREDIT SIGN
-0BF8	tml-tamilasabovesign	TAMIL AS ABOVE SIGN
-0BF9	tml-tamilrupeesign	TAMIL RUPEE SIGN
-0BFA	tml-tamilnumbersign	TAMIL NUMBER SIGN
+0B82	tamilsignanusvara	TAMIL SIGN ANUSVARA
+0B83	tamilsignvisarga	TAMIL SIGN VISARGA
+0B85	tamillettera	TAMIL LETTER A
+0B86	tamilletteraa	TAMIL LETTER AA
+0B87	tamilletteri	TAMIL LETTER I
+0B88	tamilletterii	TAMIL LETTER II
+0B89	tamilletteru	TAMIL LETTER U
+0B8A	tamilletteruu	TAMIL LETTER UU
+0B8E	tamillettere	TAMIL LETTER E
+0B8F	tamilletteree	TAMIL LETTER EE
+0B90	tamilletterai	TAMIL LETTER AI
+0B92	tamillettero	TAMIL LETTER O
+0B93	tamilletteroo	TAMIL LETTER OO
+0B94	tamilletterau	TAMIL LETTER AU
+0B95	tamilletterka	TAMIL LETTER KA
+0B99	tamilletternga	TAMIL LETTER NGA
+0B9A	tamilletterca	TAMIL LETTER CA
+0B9C	tamilletterja	TAMIL LETTER JA
+0B9E	tamilletternya	TAMIL LETTER NYA
+0B9F	tamillettertta	TAMIL LETTER TTA
+0BA3	tamilletternna	TAMIL LETTER NNA
+0BA4	tamilletterta	TAMIL LETTER TA
+0BA8	tamilletterna	TAMIL LETTER NA
+0BA9	tamilletternnna	TAMIL LETTER NNNA
+0BAA	tamilletterpa	TAMIL LETTER PA
+0BAE	tamilletterma	TAMIL LETTER MA
+0BAF	tamilletterya	TAMIL LETTER YA
+0BB0	tamilletterra	TAMIL LETTER RA
+0BB1	tamilletterrra	TAMIL LETTER RRA
+0BB2	tamilletterla	TAMIL LETTER LA
+0BB3	tamilletterlla	TAMIL LETTER LLA
+0BB4	tamilletterllla	TAMIL LETTER LLLA
+0BB5	tamilletterva	TAMIL LETTER VA
+0BB6	tamillettersha	TAMIL LETTER SHA
+0BB7	tamilletterssa	TAMIL LETTER SSA
+0BB8	tamillettersa	TAMIL LETTER SA
+0BB9	tamilletterha	TAMIL LETTER HA
+0BBE	tamilvowelsignaa	TAMIL VOWEL SIGN AA
+0BBF	tamilvowelsigni	TAMIL VOWEL SIGN I
+0BC0	tamilvowelsignii	TAMIL VOWEL SIGN II
+0BC1	tamilvowelsignu	TAMIL VOWEL SIGN U
+0BC2	tamilvowelsignuu	TAMIL VOWEL SIGN UU
+0BC6	tamilvowelsigne	TAMIL VOWEL SIGN E
+0BC7	tamilvowelsignee	TAMIL VOWEL SIGN EE
+0BC8	tamilvowelsignai	TAMIL VOWEL SIGN AI
+0BCA	tamilvowelsigno	TAMIL VOWEL SIGN O
+0BCB	tamilvowelsignoo	TAMIL VOWEL SIGN OO
+0BCC	tamilvowelsignau	TAMIL VOWEL SIGN AU
+0BCD	tamilsignvirama	TAMIL SIGN VIRAMA
+0BD0	tamilom	TAMIL OM
+0BD7	tamilaulengthmark	TAMIL AU LENGTH MARK
+0BE6	tamildigitzero	TAMIL DIGIT ZERO
+0BE7	tamildigitone	TAMIL DIGIT ONE
+0BE8	tamildigittwo	TAMIL DIGIT TWO
+0BE9	tamildigitthree	TAMIL DIGIT THREE
+0BEA	tamildigitfour	TAMIL DIGIT FOUR
+0BEB	tamildigitfive	TAMIL DIGIT FIVE
+0BEC	tamildigitsix	TAMIL DIGIT SIX
+0BED	tamildigitseven	TAMIL DIGIT SEVEN
+0BEE	tamildigiteight	TAMIL DIGIT EIGHT
+0BEF	tamildigitnine	TAMIL DIGIT NINE
+0BF0	tamilnumberten	TAMIL NUMBER TEN
+0BF1	tamilnumberonehundred	TAMIL NUMBER ONE HUNDRED
+0BF2	tamilnumberonethousand	TAMIL NUMBER ONE THOUSAND
+0BF3	tamildaysign	TAMIL DAY SIGN
+0BF4	tamilmonthsign	TAMIL MONTH SIGN
+0BF5	tamilyearsign	TAMIL YEAR SIGN
+0BF6	tamildebitsign	TAMIL DEBIT SIGN
+0BF7	tamilcreditsign	TAMIL CREDIT SIGN
+0BF8	tamilasabovesign	TAMIL AS ABOVE SIGN
+0BF9	tamilrupeesign	TAMIL RUPEE SIGN
+0BFA	tamilnumbersign	TAMIL NUMBER SIGN

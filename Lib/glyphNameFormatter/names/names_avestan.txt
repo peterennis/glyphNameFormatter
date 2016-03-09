@@ -1,62 +1,62 @@
 # Avestan 10B00 - 10B3F
-10B00	vstn-avestanlettera	AVESTAN LETTER A
-10B01	vstn-avestanletteraa	AVESTAN LETTER AA
-10B02	vstn-avestanletterao	AVESTAN LETTER AO
-10B03	vstn-avestanletteraao	AVESTAN LETTER AAO
-10B04	vstn-avestanletteran	AVESTAN LETTER AN
-10B05	vstn-avestanletteraan	AVESTAN LETTER AAN
-10B06	vstn-avestanletterae	AVESTAN LETTER AE
-10B07	vstn-avestanletteraee	AVESTAN LETTER AEE
-10B08	vstn-avestanlettere	AVESTAN LETTER E
-10B09	vstn-avestanletteree	AVESTAN LETTER EE
-10B0A	vstn-avestanlettero	AVESTAN LETTER O
-10B0B	vstn-avestanletteroo	AVESTAN LETTER OO
-10B0C	vstn-avestanletteri	AVESTAN LETTER I
-10B0D	vstn-avestanletterii	AVESTAN LETTER II
-10B0E	vstn-avestanletteru	AVESTAN LETTER U
-10B0F	vstn-avestanletteruu	AVESTAN LETTER UU
-10B10	vstn-avestanletterke	AVESTAN LETTER KE
-10B11	vstn-avestanletterxe	AVESTAN LETTER XE
-10B12	vstn-avestanletterxye	AVESTAN LETTER XYE
-10B13	vstn-avestanletterxve	AVESTAN LETTER XVE
-10B14	vstn-avestanletterge	AVESTAN LETTER GE
-10B15	vstn-avestanlettergge	AVESTAN LETTER GGE
-10B16	vstn-avestanletterghe	AVESTAN LETTER GHE
-10B17	vstn-avestanletterce	AVESTAN LETTER CE
-10B18	vstn-avestanletterje	AVESTAN LETTER JE
-10B19	vstn-avestanletterte	AVESTAN LETTER TE
-10B1A	vstn-avestanletterthe	AVESTAN LETTER THE
-10B1B	vstn-avestanletterde	AVESTAN LETTER DE
-10B1C	vstn-avestanletterdhe	AVESTAN LETTER DHE
-10B1D	vstn-avestanlettertte	AVESTAN LETTER TTE
-10B1E	vstn-avestanletterpe	AVESTAN LETTER PE
-10B1F	vstn-avestanletterfe	AVESTAN LETTER FE
-10B20	vstn-avestanletterbe	AVESTAN LETTER BE
-10B21	vstn-avestanletterbhe	AVESTAN LETTER BHE
-10B22	vstn-avestanletternge	AVESTAN LETTER NGE
-10B23	vstn-avestanletterngye	AVESTAN LETTER NGYE
-10B24	vstn-avestanletterngve	AVESTAN LETTER NGVE
-10B25	vstn-avestanletterne	AVESTAN LETTER NE
-10B26	vstn-avestanletternye	AVESTAN LETTER NYE
-10B27	vstn-avestanletternne	AVESTAN LETTER NNE
-10B28	vstn-avestanletterme	AVESTAN LETTER ME
-10B29	vstn-avestanletterhme	AVESTAN LETTER HME
-10B2A	vstn-avestanletteryye	AVESTAN LETTER YYE
-10B2B	vstn-avestanletterye	AVESTAN LETTER YE
-10B2C	vstn-avestanletterve	AVESTAN LETTER VE
-10B2D	vstn-avestanletterre	AVESTAN LETTER RE
-10B2E	vstn-avestanletterle	AVESTAN LETTER LE
-10B2F	vstn-avestanletterse	AVESTAN LETTER SE
-10B30	vstn-avestanletterze	AVESTAN LETTER ZE
-10B31	vstn-avestanlettershe	AVESTAN LETTER SHE
-10B32	vstn-avestanletterzhe	AVESTAN LETTER ZHE
-10B33	vstn-avestanlettershye	AVESTAN LETTER SHYE
-10B34	vstn-avestanlettersshe	AVESTAN LETTER SSHE
-10B35	vstn-avestanletterhe	AVESTAN LETTER HE
-10B39	vstn-avestanabbreviationmark	AVESTAN ABBREVIATION MARK
-10B3A	vstn-tinytwodotsoveronedotpunctuation	TINY TWO DOTS OVER ONE DOT PUNCTUATION
-10B3B	vstn-smalltwodotsoveronedotpunctuation	SMALL TWO DOTS OVER ONE DOT PUNCTUATION
-10B3C	vstn-largetwodotsoveronedotpunctuation	LARGE TWO DOTS OVER ONE DOT PUNCTUATION
-10B3D	vstn-largeonedotovertwodotspunctuation	LARGE ONE DOT OVER TWO DOTS PUNCTUATION
-10B3E	vstn-largetworingsoveroneringpunctuation	LARGE TWO RINGS OVER ONE RING PUNCTUATION
-10B3F	vstn-largeoneringovertworingspunctuation	LARGE ONE RING OVER TWO RINGS PUNCTUATION
+10B00	avestanlettera	AVESTAN LETTER A
+10B01	avestanletteraa	AVESTAN LETTER AA
+10B02	avestanletterao	AVESTAN LETTER AO
+10B03	avestanletteraao	AVESTAN LETTER AAO
+10B04	avestanletteran	AVESTAN LETTER AN
+10B05	avestanletteraan	AVESTAN LETTER AAN
+10B06	avestanletterae	AVESTAN LETTER AE
+10B07	avestanletteraee	AVESTAN LETTER AEE
+10B08	avestanlettere	AVESTAN LETTER E
+10B09	avestanletteree	AVESTAN LETTER EE
+10B0A	avestanlettero	AVESTAN LETTER O
+10B0B	avestanletteroo	AVESTAN LETTER OO
+10B0C	avestanletteri	AVESTAN LETTER I
+10B0D	avestanletterii	AVESTAN LETTER II
+10B0E	avestanletteru	AVESTAN LETTER U
+10B0F	avestanletteruu	AVESTAN LETTER UU
+10B10	avestanletterke	AVESTAN LETTER KE
+10B11	avestanletterxe	AVESTAN LETTER XE
+10B12	avestanletterxye	AVESTAN LETTER XYE
+10B13	avestanletterxve	AVESTAN LETTER XVE
+10B14	avestanletterge	AVESTAN LETTER GE
+10B15	avestanlettergge	AVESTAN LETTER GGE
+10B16	avestanletterghe	AVESTAN LETTER GHE
+10B17	avestanletterce	AVESTAN LETTER CE
+10B18	avestanletterje	AVESTAN LETTER JE
+10B19	avestanletterte	AVESTAN LETTER TE
+10B1A	avestanletterthe	AVESTAN LETTER THE
+10B1B	avestanletterde	AVESTAN LETTER DE
+10B1C	avestanletterdhe	AVESTAN LETTER DHE
+10B1D	avestanlettertte	AVESTAN LETTER TTE
+10B1E	avestanletterpe	AVESTAN LETTER PE
+10B1F	avestanletterfe	AVESTAN LETTER FE
+10B20	avestanletterbe	AVESTAN LETTER BE
+10B21	avestanletterbhe	AVESTAN LETTER BHE
+10B22	avestanletternge	AVESTAN LETTER NGE
+10B23	avestanletterngye	AVESTAN LETTER NGYE
+10B24	avestanletterngve	AVESTAN LETTER NGVE
+10B25	avestanletterne	AVESTAN LETTER NE
+10B26	avestanletternye	AVESTAN LETTER NYE
+10B27	avestanletternne	AVESTAN LETTER NNE
+10B28	avestanletterme	AVESTAN LETTER ME
+10B29	avestanletterhme	AVESTAN LETTER HME
+10B2A	avestanletteryye	AVESTAN LETTER YYE
+10B2B	avestanletterye	AVESTAN LETTER YE
+10B2C	avestanletterve	AVESTAN LETTER VE
+10B2D	avestanletterre	AVESTAN LETTER RE
+10B2E	avestanletterle	AVESTAN LETTER LE
+10B2F	avestanletterse	AVESTAN LETTER SE
+10B30	avestanletterze	AVESTAN LETTER ZE
+10B31	avestanlettershe	AVESTAN LETTER SHE
+10B32	avestanletterzhe	AVESTAN LETTER ZHE
+10B33	avestanlettershye	AVESTAN LETTER SHYE
+10B34	avestanlettersshe	AVESTAN LETTER SSHE
+10B35	avestanletterhe	AVESTAN LETTER HE
+10B39	avestanabbreviationmark	AVESTAN ABBREVIATION MARK
+10B3A	tinytwodotsoveronedotpunctuation	TINY TWO DOTS OVER ONE DOT PUNCTUATION
+10B3B	smalltwodotsoveronedotpunctuation	SMALL TWO DOTS OVER ONE DOT PUNCTUATION
+10B3C	largetwodotsoveronedotpunctuation	LARGE TWO DOTS OVER ONE DOT PUNCTUATION
+10B3D	largeonedotovertwodotspunctuation	LARGE ONE DOT OVER TWO DOTS PUNCTUATION
+10B3E	largetworingsoveroneringpunctuation	LARGE TWO RINGS OVER ONE RING PUNCTUATION
+10B3F	largeoneringovertworingspunctuation	LARGE ONE RING OVER TWO RINGS PUNCTUATION

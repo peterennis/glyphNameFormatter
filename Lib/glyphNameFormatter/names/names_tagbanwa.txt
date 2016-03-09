@@ -1,19 +1,19 @@
 # Tagbanwa 1760 - 177F
-1760	tgbn-tagbanwalettera	TAGBANWA LETTER A
-1761	tgbn-tagbanwaletteri	TAGBANWA LETTER I
-1762	tgbn-tagbanwaletteru	TAGBANWA LETTER U
-1763	tgbn-tagbanwaletterka	TAGBANWA LETTER KA
-1764	tgbn-tagbanwaletterga	TAGBANWA LETTER GA
-1765	tgbn-tagbanwaletternga	TAGBANWA LETTER NGA
-1766	tgbn-tagbanwaletterta	TAGBANWA LETTER TA
-1767	tgbn-tagbanwaletterda	TAGBANWA LETTER DA
-1768	tgbn-tagbanwaletterna	TAGBANWA LETTER NA
-1769	tgbn-tagbanwaletterpa	TAGBANWA LETTER PA
-176A	tgbn-tagbanwaletterba	TAGBANWA LETTER BA
-176B	tgbn-tagbanwaletterma	TAGBANWA LETTER MA
-176C	tgbn-tagbanwaletterya	TAGBANWA LETTER YA
-176E	tgbn-tagbanwaletterla	TAGBANWA LETTER LA
-176F	tgbn-tagbanwaletterwa	TAGBANWA LETTER WA
-1770	tgbn-tagbanwalettersa	TAGBANWA LETTER SA
-1772	tgbn-tagbanwavowelsigni	TAGBANWA VOWEL SIGN I
-1773	tgbn-tagbanwavowelsignu	TAGBANWA VOWEL SIGN U
+1760	tagbanwalettera	TAGBANWA LETTER A
+1761	tagbanwaletteri	TAGBANWA LETTER I
+1762	tagbanwaletteru	TAGBANWA LETTER U
+1763	tagbanwaletterka	TAGBANWA LETTER KA
+1764	tagbanwaletterga	TAGBANWA LETTER GA
+1765	tagbanwaletternga	TAGBANWA LETTER NGA
+1766	tagbanwaletterta	TAGBANWA LETTER TA
+1767	tagbanwaletterda	TAGBANWA LETTER DA
+1768	tagbanwaletterna	TAGBANWA LETTER NA
+1769	tagbanwaletterpa	TAGBANWA LETTER PA
+176A	tagbanwaletterba	TAGBANWA LETTER BA
+176B	tagbanwaletterma	TAGBANWA LETTER MA
+176C	tagbanwaletterya	TAGBANWA LETTER YA
+176E	tagbanwaletterla	TAGBANWA LETTER LA
+176F	tagbanwaletterwa	TAGBANWA LETTER WA
+1770	tagbanwalettersa	TAGBANWA LETTER SA
+1772	tagbanwavowelsigni	TAGBANWA VOWEL SIGN I
+1773	tagbanwavowelsignu	TAGBANWA VOWEL SIGN U
