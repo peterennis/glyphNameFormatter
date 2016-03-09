@@ -30,4 +30,4 @@ def generateFlat(path, onlySupported=True):
     f.close()
 
 if __name__ == "__main__":
-    generateFlat(path="./../names/glyphNamesToUnicode")
+    generateFlat(path="./../names/glyphNamesToUnicode.txt")
