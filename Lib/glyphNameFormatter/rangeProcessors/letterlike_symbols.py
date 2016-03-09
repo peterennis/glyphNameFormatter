@@ -1,5 +1,4 @@
 
-
 def process(self):
     self.replace("CONSTANT")
     self.replace("TO THE")

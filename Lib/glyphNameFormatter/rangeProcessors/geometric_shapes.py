@@ -1,5 +1,4 @@
 
-
 def process(self):
 
     self.replace("SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL", "squareupperlefttolowerrightfill")

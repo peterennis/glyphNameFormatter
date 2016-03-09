@@ -1,8 +1,5 @@
-from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
-
 
 def process(self):
-    # self.scriptTag = scriptPrefixes['armenian']
     self.edit("ARMENIAN")
 
     self.edit("APOSTROPHE", "apostrophe")

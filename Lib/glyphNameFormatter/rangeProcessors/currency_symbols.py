@@ -1,5 +1,4 @@
 
-
 def process(self):
     self.replace("EURO-CURRENCY", "euroarchaic")
     self.replace("EURO", "Euro")

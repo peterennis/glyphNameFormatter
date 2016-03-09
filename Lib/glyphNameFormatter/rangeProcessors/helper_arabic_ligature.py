@@ -1,5 +1,6 @@
 from glyphNameFormatter.tools import camelCase
 
+
 def process(self):
     # interpret an arabic ligature from the parts
 
@@ -27,7 +28,7 @@ def process(self):
         ligatureType = "isolated"
         lastNameIndex=-2
     ligatureMarkIndex = parts.index("LIGATURE")
-    
+
     # next, find out how many ligating parts we have in this name
     # assume all parts are connected with "WITH"*
     # (there are other ligatures that we can not reconstruct.)
@@ -63,7 +64,7 @@ def process(self):
     if len(ligatureParts)==1:
         # logotypes and so on
         # camel case
-        self.uniNameProcessed = "".join([camelCase(p) for p in ligatureParts[0]])        
+        self.uniNameProcessed = "".join([camelCase(p) for p in ligatureParts[0]])
     elif len(ligatureParts)>=2:
         if ligatureType == "initial":
             # Initial ligature: FIRST component is INIT and the REST are MEDI
@@ -105,4 +106,3 @@ if __name__ == "__main__":
     assert GlyphName(uniNumber=0xFC5D).getName() == "alefmaksura.init_superscriptalef.fina"
     assert GlyphName(uniNumber=0xFC40).getName() == "lam.init_hah.fina"
     assert GlyphName(uniNumber=0xFBFC).getName() == "yehfarsi.isol"
-

@@ -26,7 +26,7 @@ class GlyphName(GlyphNameProcessor):
 
     prefSpelling_dieresis = "dieresis"
 
-    def __init__(self, uniNumber=None, verbose=False, includeCJK=False):
+    def __init__(self, uniNumber=None, verbose=False, includeCJK=False, includeScriptPrefix=False):
         self.uniNumber = uniNumber
         self.uniLetter = None
         self.uniName = ""
@@ -44,6 +44,8 @@ class GlyphName(GlyphNameProcessor):
         self.verbose = verbose
         self.includeCJK = includeCJK
         self.isCJK = False
+
+        self.includeScriptPrefix = includeScriptPrefix
 
         self.lookup()
         self.process()
@@ -149,11 +151,10 @@ class GlyphName(GlyphNameProcessor):
             else:
                 # hope for the best then
                 return self.uniNameProcessed
+        elif self.includeScriptPrefix and self.scriptTag:
+            return "%s-%s" % (self.scriptTag, self.uniNameProcessed)
         else:
-            if self.scriptTag:
-                return "%s-%s" % (self.scriptTag, self.uniNameProcessed)
-            else:
-                return self.uniNameProcessed
+            return self.uniNameProcessed
 
     def __repr__(self):
         return "%s\t\t%05x\t\t%s" % (self.getName(extension=False), self.uniNumber, self.uniName)
@@ -162,9 +163,11 @@ class GlyphName(GlyphNameProcessor):
         # try to find appropriate formatters and
         if self.uniNumber in preferredAGLNames:
             self.uniNameProcessed = preferredAGLNames[self.uniNumber]
+        # get the processor
         processor = getRangeProcessor(self.uniNumber)
         if processor:
-            # print "processor", processor
+            # set the script
+            self.scriptTag = scriptPrefixes[getRangeName(self.uniNumber)]
             processor(self)
             # make the final name
             self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "".join(self.finalParts)
@@ -279,7 +282,6 @@ if __name__ == "__main__":
         >>> g.handleCase()
         >>> g.getName()
         'a'
-
         """
 
     doctest.testmod()

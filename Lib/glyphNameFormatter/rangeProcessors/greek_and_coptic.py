@@ -1,8 +1,6 @@
-from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
     self.replace("GREEK")
-
 
     self.edit("COPTIC", "coptic")
 
@@ -49,7 +47,7 @@ def process(self):
     # with
     self.edit("UPSILON WITH HOOK SYMBOL", "Upsilonhooksymbol")
     self.edit("UPSILON WITH ACUTE AND HOOK SYMBOL", "Upsilonacutehooksymbol")
-    self.edit("UPSILON WITH DIAERESIS AND HOOK SYMBOL", "Upsilona%shooksymbol"%self.prefSpelling_dieresis)
+    self.edit("UPSILON WITH DIAERESIS AND HOOK SYMBOL", "Upsilona%shooksymbol" % self.prefSpelling_dieresis)
     self.edit("TONOS", "tonos")
 
     self.processAs("Helper Greek Diacritics")

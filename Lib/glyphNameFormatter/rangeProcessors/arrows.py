@@ -1,5 +1,4 @@
 
-
 def process(self):
     self.edit("RIGHT-SIDE ARC CLOCKWISE ARROW", "rightsidearcclockwisearrow")
     self.edit("LEFT-SIDE ARC ANTICLOCKWISE ARROW", "leftsidearcanticlockarrow")

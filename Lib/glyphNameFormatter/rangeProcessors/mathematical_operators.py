@@ -1,5 +1,4 @@
 
-
 def process(self):
     self.replace("THERE DOES NOT EXIST", "notexistential")
     self.replace("DOES NOT CONTAIN AS MEMBER", "notcontains")

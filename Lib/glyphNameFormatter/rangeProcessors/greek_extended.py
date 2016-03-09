@@ -1,10 +1,6 @@
-from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    self.scriptTag = scriptPrefixes['greek']
-
     self.processAs("Greek and Coptic")
-
     self.compress()
 
 if __name__ == "__main__":

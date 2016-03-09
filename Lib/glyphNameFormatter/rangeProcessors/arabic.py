@@ -1,7 +1,5 @@
-from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    # self.scriptTag = scriptPrefixes['arabic']
     lowercaseOk = True
 
     # note: these categories are practical

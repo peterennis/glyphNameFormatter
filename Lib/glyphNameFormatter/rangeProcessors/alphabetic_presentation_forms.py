@@ -1,5 +1,3 @@
-from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
-
 
 def process(self):
     # if self.has("LATIN"):

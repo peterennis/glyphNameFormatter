@@ -1,9 +1,5 @@
-from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
-
 
 def process(self):
-    #self.scriptTag = scriptPrefixes['arabic']
-
     # If the Arabic ligature names comes with any of these terms then these rules apply on components:
 
     # Initial ligature: FIRST component is INIT and the REST are MEDI

@@ -1,5 +1,3 @@
-from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
-
 
 def process(self):
     self.replace("HEBREW LIGATURE YIDDISH DOUBLE VAV", "vav_vav")   # yiddish ?

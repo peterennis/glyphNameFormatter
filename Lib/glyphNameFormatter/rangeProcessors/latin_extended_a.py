@@ -1,6 +1,3 @@
-# -*- coding: UTF-8 -*-
-from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
-
 
 def process(self):
     self.edit("LATIN")
