@@ -10,10 +10,11 @@ def process(self):
     self.edit("SHORT", "short")
     self.edit("DOUBLE", "dbl")
 
-    self.processAs("Helper Indic")
-
     self.edit("SIGN CANDRABINDU", "candrabindu")
     self.edit("SIGN INVERTED CANDRABINDU", "candrabinduinverted")
+
+    self.processAs("Helper Indic")
+
     self.edit("DANDA", "danda")
     self.edit("GRAVE ACCENT", "grave")
     self.edit("ACUTE ACCENT", "acute")
