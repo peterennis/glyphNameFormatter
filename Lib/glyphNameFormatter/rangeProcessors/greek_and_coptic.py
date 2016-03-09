@@ -52,6 +52,13 @@ def process(self):
 
     self.processAs("Helper Greek Diacritics")
 
+    greekFirstUnicodes = [
+        0x03A9,  # Omega
+        ]
+
+    if self.uniNumber in greekFirstUnicodes:
+        self.scriptTag = ""
+
     self.handleCase()
     self.compress()
 
