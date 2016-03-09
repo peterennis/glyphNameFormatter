@@ -1,13 +1,4 @@
-
-def camelCase(pattern):
-    if len(pattern)==0:
-        return ""
-    if "-" in pattern:
-        t = ""
-        for p in pattern.split("-"):
-            t += camelCase(p)
-        return t
-    return pattern[0].upper()+pattern[1:].lower()
+from glyphNameFormatter.tools import camelCase
 
 def process(self):
     # interpret an arabic ligature from the parts
@@ -114,10 +105,4 @@ if __name__ == "__main__":
     assert GlyphName(uniNumber=0xFC5D).getName() == "alefmaksura.init_superscriptalef.fina"
     assert GlyphName(uniNumber=0xFC40).getName() == "lam.init_hah.fina"
     assert GlyphName(uniNumber=0xFBFC).getName() == "yehfarsi.isol"
-    assert camelCase("aaaa") == "Aaaa"
-    assert camelCase("aaaA") == "Aaaa"
-    assert camelCase("aaaa-aaaa") == "AaaaAaaa"
-    assert camelCase("aaaa-") == "Aaaa"
-    assert camelCase("-") == ""
-    assert camelCase("") == ""
 
