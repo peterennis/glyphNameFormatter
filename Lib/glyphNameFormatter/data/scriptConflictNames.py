@@ -97,6 +97,7 @@ scriptConflictNames = [
     "iota",
     "iotalenis",
     "isign",
+    "isshar",
     "ja",
     "jha",
     "ka",
