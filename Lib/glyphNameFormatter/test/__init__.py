@@ -4,8 +4,6 @@ from glyphNameFormatter import GlyphName
 
 from glyphNameFormatter.data import unicode2name_AGD
 
-includeScriptPrefix = False
-
 
 def _rangeNameToRange(rangeName):
     if isinstance(rangeName, tuple):
@@ -16,7 +14,7 @@ def _rangeNameToRange(rangeName):
 def printRange(rangeName, toFile=None):
     out = []
     for u in range(*_rangeNameToRange(rangeName)):
-        g = GlyphName(uniNumber=u, includeScriptPrefix=includeScriptPrefix)
+        g = GlyphName(uniNumber=u)
         name = g.getName()
         if name is None:
             continue
@@ -49,7 +47,7 @@ def testDoubles(rangeName, toFile=None):
     doubles = set()
     r = _rangeNameToRange(rangeName)
     for u in range(*r):
-        g = GlyphName(uniNumber=u, includeScriptPrefix=includeScriptPrefix)
+        g = GlyphName(uniNumber=u)
         name = g.getName()
         if name is None:
             # ignore
@@ -88,7 +86,7 @@ def testGLIFFileName(rangeName, toFile=None):
     doubles = set()
     r = _rangeNameToRange(rangeName)
     for u in range(*r):
-        g = GlyphName(uniNumber=u, includeScriptPrefix=includeScriptPrefix)
+        g = GlyphName(uniNumber=u)
         name = g.getName()
         if name is None:
             # ignore
@@ -117,7 +115,7 @@ if __name__ == "__main__":
     for rangeName in getAllRangeNames():
         r = _rangeNameToRange(rangeName)
         for u in range(*r):
-            g = GlyphName(uniNumber=u, includeScriptPrefix=includeScriptPrefix)
+            g = GlyphName(uniNumber=u)
             name = g.getName()
     print time.time() - t
 

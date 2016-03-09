@@ -12,7 +12,7 @@ def findConflict():
     for rangeName in getAllRangeNames():
         start, end = getRangeByName(rangeName)
         for uniNumber in range(start, end+1):
-            glyphName = glyphNameFormatter.GlyphName(uniNumber, includeScriptPrefix=False)
+            glyphName = glyphNameFormatter.GlyphName(uniNumber)
             if glyphName.hasName():
                 # lines.append("%04X\t%s\t%s" % (uniNumber, glyphName.getName(), glyphName.uniName))
                 name = glyphName.getName(extension=False)
