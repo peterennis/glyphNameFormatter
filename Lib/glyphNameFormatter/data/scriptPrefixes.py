@@ -25,7 +25,7 @@ class ScriptPrefixesDict(dict):
                 return dict.__getitem__(self, existingKey)
         # fallback
         # remove all vowels
-        key = [c for c in key if c not in "aeiou"]
+        key = [c for c in key if c not in "aeiou -"]
         # return the first four values
         return "".join(key[:4])
 
@@ -70,3 +70,18 @@ if __name__ == "__main__":
         """
 
     doctest.testmod()
+
+
+    def testAllPrefixes():
+        # let's not just assume all prefixes that end up the same
+        # will also be able to disambiguate names.
+        from glyphNameFormatter.unicodeRangeNames import getAllRangeNames
+        prefixes = {}
+        for n in getAllRangeNames():
+            pf = scriptPrefixes[n]
+            if not pf in prefixes:
+                prefixes[pf] = []
+            prefixes[pf].append(n)
+        from pprint import pprint
+        pprint(prefixes)
+    testAllPrefixes()
