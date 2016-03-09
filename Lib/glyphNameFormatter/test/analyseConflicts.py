@@ -57,6 +57,7 @@ def findConflict():
     lines.append("Conflicts by rangename")
     k.sort()
     for rangeName in k:
+        lines.append("\n%s"%rangeName)
         for line in conflictsPerRange[rangeName]:
             #print "line", line
             lines.append(line)

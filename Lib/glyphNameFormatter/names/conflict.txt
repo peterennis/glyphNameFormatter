@@ -4,6 +4,10 @@ A
         0041                   A                   A                   A                             Basic Latin
         0410                   A                Acyr                Acyr                                Cyrillic
 
+AA
+        0F60                  AA                   -               tb-AA                                 Tibetan
+        A732                  AA                   -                  AA                        Latin Extended-D
+
 Abreve
         0102              Abreve              Abreve              Abreve                        Latin Extended-A
         04D0              Abreve           Abrevecyr           Abrevecyr                                Cyrillic
@@ -12,13 +16,13 @@ Adieresis
         00C4           Adieresis           Adieresis           Adieresis                      Latin-1 Supplement
         04D2           Adieresis        Adieresiscyr        Adieresiscyr                                Cyrillic
 
-Edieresis
-        00CB           Edieresis           Edieresis           Edieresis                      Latin-1 Supplement
-        04EC           Edieresis                   -        Edieresiscyr                                Cyrillic
-
 Ereversed
         018E           Ereversed             Eturned           Ereversed                        Latin Extended-B
         042D           Ereversed                Ecyr        Ereversedcyr                                Cyrillic
+
+Et
+        0538                  Et          Etarmenian               am-Et                                Armenian
+        A76A                  Et                   -                  Et                        Latin Extended-D
 
 I
         0049                   I                   I                   I                             Basic Latin
@@ -56,10 +60,6 @@ Omega
         03A9               Omega               Omega               Omega                        Greek and Coptic
         0460               Omega       Omegacyrillic            Omegacyr                                Cyrillic
 
-Psi
-        03A8                 Psi                 Psi                 Psi                        Greek and Coptic
-        0470                 Psi         Psicyrillic              Psicyr                                Cyrillic
-
 Schwa
         018F               Schwa               Schwa               Schwa                        Latin Extended-B
         04D8               Schwa            Schwacyr            Schwacyr                                Cyrillic
@@ -80,10 +80,6 @@ Umacron
         016A             Umacron             Umacron             Umacron                        Latin Extended-A
         04EE             Umacron          Umacroncyr          Umacroncyr                                Cyrillic
 
-Yi
-        0407                  Yi                  Yi               Yicyr                                Cyrillic
-        0545                  Yi          Yiarmenian               am-Yi                                Armenian
-
 Zhe
         0416                 Zhe                 Zhe              Zhecyr                                Cyrillic
         053A                 Zhe         Zhearmenian              am-Zhe                                Armenian
@@ -99,6 +95,7 @@ a
 aa
         0906                  aa                dvAa               dv-aa                              Devanagari
         0C86                  aa                knAa               kn-aa                                 Kannada
+        A733                  aa                   -                  aa                        Latin Extended-D
 
 aasign
         093E              aasign            dvAasign           dv-aasign                              Devanagari
@@ -144,6 +141,7 @@ anusvara
 au
         0914                  au                dvAu               dv-au                              Devanagari
         0C94                  au                knAu               kn-au                                 Kannada
+        A737                  au                   -                  au                        Latin Extended-D
 
 ausign
         094C              ausign            dvAusign           dv-ausign                              Devanagari
@@ -158,6 +156,10 @@ ba
         0CAC                  ba                knBa               kn-ba                                 Kannada
         0F56                  ba                   -               tb-ba                                 Tibetan
         182A                  ba                   -               mo-ba                               Mongolian
+
+barfullwidth
+        3374        barfullwidth        barfullwidth    cjk-barfullwidth                       CJK Compatibility
+        FF5C        barfullwidth   linevertfullwidth   hlfw-barfullwidth           Halfwidth and Fullwidth Forms
 
 bet
         05D1                 bet               heBet              hb-bet                                  Hebrew
@@ -235,15 +237,10 @@ diamondwhite
 
 e
         0065                   e                   e                   e                             Basic Latin
-        044D                   e                ecyr                ecyr                                Cyrillic
         06D0                   e                 arE                ar-e                                  Arabic
         090F                   e                 dvE                dv-e                              Devanagari
         0C8E                   e                 knE                kn-e                                 Kannada
         1821                   e                   -                mo-e                               Mongolian
-
-edieresis
-        00EB           edieresis           edieresis           edieresis                      Latin-1 Supplement
-        04ED           edieresis                   -        edieresiscyr                                Cyrillic
 
 ee
         0C8F                  ee                knEe               kn-ee                                 Kannada
@@ -261,9 +258,17 @@ ellipsis
         1801            ellipsis                   -         mo-ellipsis                               Mongolian
         2026            ellipsis            ellipsis       gnrl-ellipsis                     General Punctuation
 
+ereversed
+        0258           ereversed           ereversed       ipa-ereversed                          IPA Extensions
+        044D           ereversed                ecyr        ereversedcyr                                Cyrillic
+
 esign
         0947               esign             dvEsign            dv-esign                              Devanagari
         0CC6               esign             knEsign            kn-esign                                 Kannada
+
+et
+        0568                  et          etarmenian               am-et                                Armenian
+        A76B                  et                   -                  et                        Latin Extended-D
 
 exclam
         0021              exclam              exclam              exclam                             Basic Latin
@@ -518,6 +523,10 @@ one
         0F21                 one                   -              tb-one                                 Tibetan
         1811                 one                   -              mo-one                               Mongolian
 
+oo
+        0C93                  oo                knOo               kn-oo                                 Kannada
+        A74F                  oo                   -                  oo                        Latin Extended-D
+
 osign
         094B               osign             dvOsign            dv-osign                              Devanagari
         0CCA               osign             knOsign            kn-osign                                 Kannada
@@ -562,10 +571,6 @@ pha
 phi
         0278                 phi            philatin             ipa-phi                          IPA Extensions
         03C6                 phi                 phi                 phi                        Greek and Coptic
-
-psi
-        03C8                 psi                 psi                 psi                        Greek and Coptic
-        0471                 psi         psicyrillic              psicyr                                Cyrillic
 
 qa
         0958                  qa                dvQa               dv-qa                              Devanagari
@@ -760,10 +765,6 @@ ya
         0F61                  ya                   -               tb-ya                                 Tibetan
         1836                  ya                   -               mo-ya                               Mongolian
 
-yi
-        0457                  yi                  yi               yicyr                                Cyrillic
-        0575                  yi          yiarmenian               am-yi                                Armenian
-
 yu
         044E                  yu                  yu               yucyr                                Cyrillic
         06C8                  yu                arYu               ar-yu                                  Arabic
@@ -789,10 +790,12 @@ zha
 zhe
         0436                 zhe                 zhe              zhecyr                                Cyrillic
         056A                 zhe         zhearmenian              am-zhe                                Armenian
-# 165 names with conflicts, affecting 460 unicodes
+# 165 names with conflicts, affecting 461 unicodes
 
 
 Conflicts by rangename
+
+Arabic
         06D5                  ae                arAe               ar-ae                                  Arabic
         0627                alef              arAlef             ar-alef                                  Arabic
         060C               comma             arComma            ar-comma                                  Arabic
@@ -824,14 +827,19 @@ Conflicts by rangename
         06CB                  ve                arVe               ar-ve                                  Arabic
         06C8                  yu                arYu               ar-yu                                  Arabic
         0660                zero              arZero             ar-zero                                  Arabic
+
+Arabic Presentation Forms-B
         FEDA            kaf.fina           arKafPF.f         ar-kaf.fina             Arabic Presentation Forms-B
+
+Armenian
+        0538                  Et          Etarmenian               am-Et                                Armenian
         0547                 Sha         Shaarmenian              am-Sha                                Armenian
-        0545                  Yi          Yiarmenian               am-Yi                                Armenian
         053A                 Zhe         Zhearmenian              am-Zhe                                Armenian
         056E                  ca          caarmenian               am-ca                                Armenian
         0579                 cha         chaarmenian              am-cha                                Armenian
         055D               comma       commaarmenian            am-comma                                Armenian
         0564                  da          daarmenian               am-da                                Armenian
+        0568                  et          etarmenian               am-et                                Armenian
         055C              exclam      exclamarmenian           am-exclam                                Armenian
         0586                 feh         feharmenian              am-feh                                Armenian
         058A              hyphen                   -           am-hyphen                                Armenian
@@ -842,9 +850,10 @@ Conflicts by rangename
         057C                  ra          raarmenian               am-ra                                Armenian
         0580                 reh         reharmenian              am-reh                                Armenian
         0577                 sha         shaarmenian              am-sha                                Armenian
-        0575                  yi          yiarmenian               am-yi                                Armenian
         0566                  za          zaarmenian               am-za                                Armenian
         056A                 zhe         zhearmenian              am-zhe                                Armenian
+
+Basic Latin
         0041                   A                   A                   A                             Basic Latin
         0049                   I                   I                   I                             Basic Latin
         004F                   O                   O                   O                             Basic Latin
@@ -874,10 +883,14 @@ Conflicts by rangename
         0032                 two                 two                 two                             Basic Latin
         0075                   u                   u                   u                             Basic Latin
         0030                zero                zero                zero                             Basic Latin
+
+CJK Compatibility
+        3374        barfullwidth        barfullwidth    cjk-barfullwidth                       CJK Compatibility
+
+Cyrillic
         0410                   A                Acyr                Acyr                                Cyrillic
         04D0              Abreve           Abrevecyr           Abrevecyr                                Cyrillic
         04D2           Adieresis        Adieresiscyr        Adieresiscyr                                Cyrillic
-        04EC           Edieresis                   -        Edieresiscyr                                Cyrillic
         042D           Ereversed                Ecyr        Ereversedcyr                                Cyrillic
         0418                   I                Icyr                Icyr                                Cyrillic
         04E4           Idieresis        Idieresiscyr        Idieresiscyr                                Cyrillic
@@ -888,19 +901,16 @@ Conflicts by rangename
         04E8                Obar             Obarcyr             Obarcyr                                Cyrillic
         04E6           Odieresis        Odieresiscyr        Odieresiscyr                                Cyrillic
         0460               Omega       Omegacyrillic            Omegacyr                                Cyrillic
-        0470                 Psi         Psicyrillic              Psicyr                                Cyrillic
         04D8               Schwa            Schwacyr            Schwacyr                                Cyrillic
         0428                 Sha                 Sha              Shacyr                                Cyrillic
         0423                   U                Ucyr                Ucyr                                Cyrillic
         04F0           Udieresis        Udieresiscyr        Udieresiscyr                                Cyrillic
         04EE             Umacron          Umacroncyr          Umacroncyr                                Cyrillic
-        0407                  Yi                  Yi               Yicyr                                Cyrillic
         0416                 Zhe                 Zhe              Zhecyr                                Cyrillic
         0430                   a                acyr                acyr                                Cyrillic
         04D1              abreve           abrevecyr           abrevecyr                                Cyrillic
         04D3           adieresis        adieresiscyr        adieresiscyr                                Cyrillic
-        044D                   e                ecyr                ecyr                                Cyrillic
-        04ED           edieresis                   -        edieresiscyr                                Cyrillic
+        044D           ereversed                ecyr        ereversedcyr                                Cyrillic
         0445                  ha                  ha               hacyr                                Cyrillic
         0438                   i                icyr                icyr                                Cyrillic
         04E5           idieresis        idieresiscyr        idieresiscyr                                Cyrillic
@@ -912,7 +922,6 @@ Conflicts by rangename
         04E7           odieresis        odieresiscyr        odieresiscyr                                Cyrillic
         0461               omega       omegacyrillic            omegacyr                                Cyrillic
         043F                  pe                  pe               pecyr                                Cyrillic
-        0471                 psi         psicyrillic              psicyr                                Cyrillic
         04D9               schwa            schwacyr            schwacyr                                Cyrillic
         0448                 sha                 sha              shacyr                                Cyrillic
         0482           thousands    thousandcyrillic        thousandscyr                                Cyrillic
@@ -921,9 +930,10 @@ Conflicts by rangename
         04EF             umacron          umacroncyr          umacroncyr                                Cyrillic
         0432                  ve                  ve               vecyr                                Cyrillic
         044F                  ya                  ya               yacyr                                Cyrillic
-        0457                  yi                  yi               yicyr                                Cyrillic
         044E                  yu                  yu               yucyr                                Cyrillic
         0436                 zhe                 zhe              zhecyr                                Cyrillic
+
+Devanagari
         0905                   a                 dvA                dv-a                              Devanagari
         0906                  aa                dvAa               dv-aa                              Devanagari
         093E              aasign            dvAasign           dv-aasign                              Devanagari
@@ -1008,18 +1018,25 @@ Conflicts by rangename
         095B                  za                dvZa               dv-za                              Devanagari
         0966                zero              dvZero             dv-zero                              Devanagari
         0979                 zha               dvZha              dv-zha                              Devanagari
+
+General Punctuation
         2026            ellipsis            ellipsis       gnrl-ellipsis                     General Punctuation
         2010              hyphen           hyphentwo         gnrl-hyphen                     General Punctuation
         2030         perthousand         perthousand    gnrl-perthousand                     General Punctuation
+
+Geometric Shapes
         25C6        diamondblack        diamondblack   gmtr-diamondblack                        Geometric Shapes
         25C7        diamondwhite        whitediamond   gmtr-diamondwhite                        Geometric Shapes
+
+Greek Extended
         1FFD               acute                oxia            gr-acute                          Greek Extended
         1FEF               grave               varia            gr-grave                          Greek Extended
         1F30           iotalenis           iotalenis        gr-iotalenis                          Greek Extended
         1FC0               tilde         perispomeni            gr-tilde                          Greek Extended
+
+Greek and Coptic
         03DE               Koppa          Koppagreek               Koppa                        Greek and Coptic
         03A9               Omega               Omega               Omega                        Greek and Coptic
-        03A8                 Psi                 Psi                 Psi                        Greek and Coptic
         03B1               alpha               alpha               alpha                        Greek and Coptic
         03C7                 chi                 chi                 chi                        Greek and Coptic
         03B3               gamma               gamma               gamma                        Greek and Coptic
@@ -1028,11 +1045,17 @@ Conflicts by rangename
         03DF               koppa                   -               koppa                        Greek and Coptic
         03C9               omega               omega               omega                        Greek and Coptic
         03C6                 phi                 phi                 phi                        Greek and Coptic
-        03C8                 psi                 psi                 psi                        Greek and Coptic
         037E            question       questiongreek         gr-question                        Greek and Coptic
         03C5             upsilon             upsilon             upsilon                        Greek and Coptic
+
+Halfwidth and Fullwidth Forms
+        FF5C        barfullwidth   linevertfullwidth   hlfw-barfullwidth           Halfwidth and Fullwidth Forms
+
+Hangul Jamo
         116C   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
         1180   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
+
+Hebrew
         05D0                alef              heAlef             hb-alef                                  Hebrew
         05D1                 bet               heBet              hb-bet                                  Hebrew
         05D3               dalet             heDalet            hb-dalet                                  Hebrew
@@ -1040,7 +1063,10 @@ Conflicts by rangename
         05DB                 kaf               heKaf              hb-kaf                                  Hebrew
         05DA            kaf.fina            heKafFin         hb-kaf.fina                                  Hebrew
         05E4                  pe                hePe               hb-pe                                  Hebrew
+
+IPA Extensions
         0251               alpha          alphalatin           ipa-alpha                          IPA Extensions
+        0258           ereversed           ereversed       ipa-ereversed                          IPA Extensions
         0263               gamma          gammalatin           ipa-gamma                          IPA Extensions
         0294         glottalstop         glottalstop     ipa-glottalstop                          IPA Extensions
         0261             gscript             gscript         ipa-gscript                          IPA Extensions
@@ -1048,6 +1074,8 @@ Conflicts by rangename
         0278                 phi            philatin             ipa-phi                          IPA Extensions
         0259               schwa               schwa           ipa-schwa                          IPA Extensions
         028A             upsilon        upsilonlatin         ipa-upsilon                          IPA Extensions
+
+Kannada
         0C85                   a                 knA                kn-a                                 Kannada
         0C86                  aa                knAa               kn-aa                                 Kannada
         0CBE              aasign            knAasign           kn-aasign                                 Kannada
@@ -1098,6 +1126,7 @@ Conflicts by rangename
         0C9E                 nya               knNya              kn-nya                                 Kannada
         0C92                   o                 knO                kn-o                                 Kannada
         0CE7                 one               knOne              kn-one                                 Kannada
+        0C93                  oo                knOo               kn-oo                                 Kannada
         0CCA               osign             knOsign            kn-osign                                 Kannada
         0CAA                  pa                knPa               kn-pa                                 Kannada
         0CAB                 pha               knPha              kn-pha                                 Kannada
@@ -1127,6 +1156,8 @@ Conflicts by rangename
         0C83             visarga           knVisarga          kn-visarga                                 Kannada
         0CAF                  ya                knYa               kn-ya                                 Kannada
         0CE6                zero              knZero             kn-zero                                 Kannada
+
+Latin Extended-A
         0102              Abreve              Abreve              Abreve                        Latin Extended-A
         012A             Imacron             Imacron             Imacron                        Latin Extended-A
         016A             Umacron             Umacron             Umacron                        Latin Extended-A
@@ -1134,12 +1165,23 @@ Conflicts by rangename
         012B             imacron             imacron             imacron                        Latin Extended-A
         0153                  oe                  oe                  oe                        Latin Extended-A
         016B             umacron             umacron             umacron                        Latin Extended-A
+
+Latin Extended-B
         018E           Ereversed             Eturned           Ereversed                        Latin Extended-B
         019F                Obar                Obar                Obar                        Latin Extended-B
         018F               Schwa               Schwa               Schwa                        Latin Extended-B
         0242         glottalstop    glottalstoplatin         glottalstop                        Latin Extended-B
+
+Latin Extended-D
+        A732                  AA                   -                  AA                        Latin Extended-D
+        A76A                  Et                   -                  Et                        Latin Extended-D
+        A733                  aa                   -                  aa                        Latin Extended-D
+        A737                  au                   -                  au                        Latin Extended-D
+        A76B                  et                   -                  et                        Latin Extended-D
+        A74F                  oo                   -                  oo                        Latin Extended-D
+
+Latin-1 Supplement
         00C4           Adieresis           Adieresis           Adieresis                      Latin-1 Supplement
-        00CB           Edieresis           Edieresis           Edieresis                      Latin-1 Supplement
         00CF           Idieresis           Idieresis           Idieresis                      Latin-1 Supplement
         00CC              Igrave              Igrave              Igrave                      Latin-1 Supplement
         00D6           Odieresis           Odieresis           Odieresis                      Latin-1 Supplement
@@ -1147,21 +1189,30 @@ Conflicts by rangename
         00B4               acute               acute               acute                      Latin-1 Supplement
         00E4           adieresis           adieresis           adieresis                      Latin-1 Supplement
         00E6                  ae                  ae                  ae                      Latin-1 Supplement
-        00EB           edieresis           edieresis           edieresis                      Latin-1 Supplement
         00EF           idieresis           idieresis           idieresis                      Latin-1 Supplement
         00EC              igrave              igrave              igrave                      Latin-1 Supplement
         00F6           odieresis           odieresis           odieresis                      Latin-1 Supplement
         00FC           udieresis           udieresis           udieresis                      Latin-1 Supplement
+
+Letterlike Symbols
         2136                 bet                   -            lttr-bet                      Letterlike Symbols
         2138               dalet                   -          lttr-dalet                      Letterlike Symbols
         2137               gimel                   -          lttr-gimel                      Letterlike Symbols
         210A             gscript         gscriptmath        lttr-gscript                      Letterlike Symbols
+
+Mathematical Operators
         221B            cuberoot                   -       mthm-cuberoot                  Mathematical Operators
         221C          fourthroot                   -     mthm-fourthroot                  Mathematical Operators
         22A5       perpendicular       perpendicular  mthm-perpendicular                  Mathematical Operators
+
+Miscellaneous Mathematical Symbols-A
         27C2       perpendicular                   -  misc-perpendicular    Miscellaneous Mathematical Symbols-A
+
+Miscellaneous Symbols
         2666        diamondblack             diamond   misc-diamondblack                   Miscellaneous Symbols
         2662        diamondwhite         diamondopen   misc-diamondwhite                   Miscellaneous Symbols
+
+Mongolian
         1820                   a                   -                mo-a                               Mongolian
         182A                  ba                   -               mo-ba                               Mongolian
         1834                 cha                   -              mo-cha                               Mongolian
@@ -1205,7 +1256,12 @@ Conflicts by rangename
         1836                  ya                   -               mo-ya                               Mongolian
         183D                  za                   -               mo-za                               Mongolian
         1810                zero                   -             mo-zero                               Mongolian
+
+Spacing Modifier Letters
         02DC               tilde               tilde          spcn-tilde                Spacing Modifier Letters
+
+Tibetan
+        0F60                  AA                   -               tb-AA                                 Tibetan
         0F68                   a                   -                tb-a                                 Tibetan
         0F56                  ba                   -               tb-ba                                 Tibetan
         0F57                 bha                   -              tb-bha                                 Tibetan
