@@ -97,11 +97,11 @@
 265F	pawnblack	BLACK CHESS PAWN
 2660	spadeblack	BLACK SPADE SUIT
 2661	heartwhite	WHITE HEART SUIT
-2662	mscl-diamondwhite	WHITE DIAMOND SUIT
+2662	misc-diamondwhite	WHITE DIAMOND SUIT
 2663	clubblack	BLACK CLUB SUIT
 2664	spadewhite	WHITE SPADE SUIT
 2665	heartblack	BLACK HEART SUIT
-2666	mscl-diamondblack	BLACK DIAMOND SUIT
+2666	misc-diamondblack	BLACK DIAMOND SUIT
 2667	clubwhite	WHITE CLUB SUIT
 2668	hotsprings	HOT SPRINGS
 2669	quarternote	QUARTER NOTE

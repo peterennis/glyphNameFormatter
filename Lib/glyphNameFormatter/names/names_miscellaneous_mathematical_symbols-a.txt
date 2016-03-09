@@ -1,7 +1,7 @@
 # Miscellaneous Mathematical Symbols-A 27C0 - 27EF
 27C0	threedimensionalangle	THREE DIMENSIONAL ANGLE
 27C1	whitetrianglecontainingsmallwhitetriangle	WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE
-27C2	mscl-perpendicular	PERPENDICULAR
+27C2	misc-perpendicular	PERPENDICULAR
 27C3	opensubset	OPEN SUBSET
 27C4	opensuperset	OPEN SUPERSET
 27C5	leftsshapedbagdelimiter	LEFT S-SHAPED BAG DELIMITER

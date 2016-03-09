@@ -37,7 +37,7 @@
 2023	triangularbullet	TRIANGULAR BULLET
 2024	onedotenleader	ONE DOT LEADER
 2025	twodotenleader	TWO DOT LEADER
-2026	ellipsis	HORIZONTAL ELLIPSIS
+2026	gnrl-ellipsis	HORIZONTAL ELLIPSIS
 2027	hyphenationpoint	HYPHENATION POINT
 2028	lineseparator	LINE SEPARATOR
 2029	paragraphseparator	PARAGRAPH SEPARATOR

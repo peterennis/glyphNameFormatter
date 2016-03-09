@@ -20,7 +20,7 @@ def generateFlat(path, onlySupported=True):
 
         for u in range(*getRangeByName(rangeName)):
             g = GlyphName(uniNumber=u)
-            name = g.getName()
+            name = g.getName(extension=True)
             if name is None:
                 continue
             data.append("%s %04X" % (name, u))
