@@ -136,26 +136,25 @@ class GlyphName(GlyphNameProcessor):
 
     def getName(self, extension=True):
         # return the name, add extensions or not.
+
+
+
         if self.uniName is None:
             # nothing to see here.
             return None
-        if not extension:
-            if self.mustAddScript:
-                # we don't want a script extension,
-                # but we've been warned that it might be necessary
-                # for disambiguation
-                if self.scriptTag != self.languageTags['latin'] and self.scriptTag != "":
-                    return "%s-%s" % (self.scriptTag, self.uniNameProcessed)
-                else:
-                    return self.uniNameProcessed
+        if self.mustAddScript:
+            # we don't want a script extension,
+            # but we've been warned that it might be necessary
+            # for disambiguation
+            if self.scriptTag != scriptPrefixes['latin'] and self.scriptTag != "":
+                if self.mustAddScript and self.scriptTag:
+                    if "%s" not in self.scriptTag:
+                        self.scriptTag = "%s-%%s" % self.scriptTag
+                    return self.scriptTag % self.uniNameProcessed
             else:
-                # hope for the best then
                 return self.uniNameProcessed
-        elif self.includeScriptPrefix and self.scriptTag:
-            if "%s" not in self.scriptTag:
-                self.scriptTag = "%s-%%s" % self.scriptTag
-            return self.scriptTag % self.uniNameProcessed
         else:
+            # hope for the best then
             return self.uniNameProcessed
 
     def __repr__(self):
