@@ -1,0 +1,257 @@
+cy-Iegrave	Iegrave	Iegrave	0400	Ѐ	CYRILLIC CAPITAL LETTER IE WITH GRAVE
+cy-Io	Io	Io	0401	Ё	CYRILLIC CAPITAL LETTER IO
+cy-Dje	Dje	Dje	0402	Ђ	CYRILLIC CAPITAL LETTER DJE
+cy-Gje	Gje	Gje	0403	Ѓ	CYRILLIC CAPITAL LETTER GJE
+cy-Ieukran	Ieukran	Eukr	0404	Є	CYRILLIC CAPITAL LETTER UKRAINIAN IE
+cy-Dze	Dze	Dze	0405	Ѕ	CYRILLIC CAPITAL LETTER DZE
+cy-Iukran	Iukran	Iukr	0406	І	CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I
+cy-Yi	Yi	Yukr	0407	Ї	CYRILLIC CAPITAL LETTER YI
+cy-Je	Je	Je	0408	Ј	CYRILLIC CAPITAL LETTER JE
+cy-Lje	Lje	Lje	0409	Љ	CYRILLIC CAPITAL LETTER LJE
+cy-Nje	Nje	Nje	040A	Њ	CYRILLIC CAPITAL LETTER NJE
+cy-Tshe	Tshe	Tshe	040B	Ћ	CYRILLIC CAPITAL LETTER TSHE
+cy-Kje	Kje	Kje	040C	Ќ	CYRILLIC CAPITAL LETTER KJE
+cy-Igrave	Igravecyr	Igravecyr	040D	Ѝ	CYRILLIC CAPITAL LETTER I WITH GRAVE
+cy-Ushort	Ushort	Ushort	040E	Ў	CYRILLIC CAPITAL LETTER SHORT U
+cy-Dzhe	Dzhe	Dzhe	040F	Џ	CYRILLIC CAPITAL LETTER DZHE
+cy-A	Acyr	Acyr	0410	А	CYRILLIC CAPITAL LETTER A
+cy-Be	Be	Be	0411	Б	CYRILLIC CAPITAL LETTER BE
+cy-Ve	Ve	Ve	0412	В	CYRILLIC CAPITAL LETTER VE
+cy-Ghe	Ghe	Ge	0413	Г	CYRILLIC CAPITAL LETTER GHE
+cy-De	De	De	0414	Д	CYRILLIC CAPITAL LETTER DE
+cy-Ie	Ie	Ie	0415	Е	CYRILLIC CAPITAL LETTER IE
+cy-Zhe	Zhe	Zhe	0416	Ж	CYRILLIC CAPITAL LETTER ZHE
+cy-Ze	Ze	Ze	0417	З	CYRILLIC CAPITAL LETTER ZE
+cy-I	Icyr	Icyr	0418	И	CYRILLIC CAPITAL LETTER I
+cy-Ishort	Ishort	Ishort	0419	Й	CYRILLIC CAPITAL LETTER SHORT I
+cy-Ka	Ka	Ka	041A	К	CYRILLIC CAPITAL LETTER KA
+cy-LEreversed	El	El	041B	Л	CYRILLIC CAPITAL LETTER EL
+cy-MEreversed	Em	Em	041C	М	CYRILLIC CAPITAL LETTER EM
+cy-NEreversed	En	En	041D	Н	CYRILLIC CAPITAL LETTER EN
+cy-O	Ocyr	Ocyr	041E	О	CYRILLIC CAPITAL LETTER O
+cy-Pe	Pe	Pe	041F	П	CYRILLIC CAPITAL LETTER PE
+cy-REreversed	Er	Er	0420	Р	CYRILLIC CAPITAL LETTER ER
+cy-SEreversed	Es	Es	0421	С	CYRILLIC CAPITAL LETTER ES
+cy-Te	Te	Te	0422	Т	CYRILLIC CAPITAL LETTER TE
+cy-U	Ucyr	Ucyr	0423	У	CYRILLIC CAPITAL LETTER U
+cy-FEreversed	Ef	Ef	0424	Ф	CYRILLIC CAPITAL LETTER EF
+cy-Ha	Ha	Ha	0425	Х	CYRILLIC CAPITAL LETTER HA
+cy-Tse	Tse	Tse	0426	Ц	CYRILLIC CAPITAL LETTER TSE
+cy-Che	Che	Che	0427	Ч	CYRILLIC CAPITAL LETTER CHE
+cy-Sha	Sha	Sha	0428	Ш	CYRILLIC CAPITAL LETTER SHA
+cy-Shcha	Shcha	Shcha	0429	Щ	CYRILLIC CAPITAL LETTER SHCHA
+cy-Hard	Hard	Hard	042A	Ъ	CYRILLIC CAPITAL LETTER HARD SIGN
+cy-Yeru	Yeru	Ylong	042B	Ы	CYRILLIC CAPITAL LETTER YERU
+cy-Soft	Soft	Soft	042C	Ь	CYRILLIC CAPITAL LETTER SOFT SIGN
+cy-Ereversed	Ecyr	Ereversed	042D	Э	CYRILLIC CAPITAL LETTER E
+cy-Yu	Yu	Yu	042E	Ю	CYRILLIC CAPITAL LETTER YU
+cy-Ya	Ya	Ya	042F	Я	CYRILLIC CAPITAL LETTER YA
+cy-a	acyr	acyr	0430	а	CYRILLIC SMALL LETTER A
+cy-be	be	be	0431	б	CYRILLIC SMALL LETTER BE
+cy-ve	ve	ve	0432	в	CYRILLIC SMALL LETTER VE
+cy-ghe	ghe	ge	0433	г	CYRILLIC SMALL LETTER GHE
+cy-de	de	de	0434	д	CYRILLIC SMALL LETTER DE
+cy-ie	ie	ie	0435	е	CYRILLIC SMALL LETTER IE
+cy-zhe	zhe	zhe	0436	ж	CYRILLIC SMALL LETTER ZHE
+cy-ze	ze	ze	0437	з	CYRILLIC SMALL LETTER ZE
+cy-i	icyr	icyr	0438	и	CYRILLIC SMALL LETTER I
+cy-ishort	ishort	ishort	0439	й	CYRILLIC SMALL LETTER SHORT I
+cy-ka	ka	ka	043A	к	CYRILLIC SMALL LETTER KA
+cy-el	el	el	043B	л	CYRILLIC SMALL LETTER EL
+cy-em	em	em	043C	м	CYRILLIC SMALL LETTER EM
+cy-en	en	en	043D	н	CYRILLIC SMALL LETTER EN
+cy-o	ocyr	ocyr	043E	о	CYRILLIC SMALL LETTER O
+cy-pe	pe	pe	043F	п	CYRILLIC SMALL LETTER PE
+cy-er	er	er	0440	р	CYRILLIC SMALL LETTER ER
+cy-es	es	es	0441	с	CYRILLIC SMALL LETTER ES
+cy-te	te	te	0442	т	CYRILLIC SMALL LETTER TE
+cy-u	ucyr	ucyr	0443	у	CYRILLIC SMALL LETTER U
+cy-ef	ef	ef	0444	ф	CYRILLIC SMALL LETTER EF
+cy-ha	ha	ha	0445	х	CYRILLIC SMALL LETTER HA
+cy-tse	tse	tse	0446	ц	CYRILLIC SMALL LETTER TSE
+cy-che	che	che	0447	ч	CYRILLIC SMALL LETTER CHE
+cy-sha	sha	sha	0448	ш	CYRILLIC SMALL LETTER SHA
+cy-shcha	shcha	shcha	0449	щ	CYRILLIC SMALL LETTER SHCHA
+cy-hard	hard	hard	044A	ъ	CYRILLIC SMALL LETTER HARD SIGN
+cy-yeru	yeru	ylong	044B	ы	CYRILLIC SMALL LETTER YERU
+cy-soft	soft	soft	044C	ь	CYRILLIC SMALL LETTER SOFT SIGN
+cy-e	ecyr	ereversed	044D	э	CYRILLIC SMALL LETTER E
+cy-yu	yu	yu	044E	ю	CYRILLIC SMALL LETTER YU
+cy-ya	ya	ya	044F	я	CYRILLIC SMALL LETTER YA
+cy-iegrave	iegrave	iegrave	0450	ѐ	CYRILLIC SMALL LETTER IE WITH GRAVE
+cy-io	io	io	0451	ё	CYRILLIC SMALL LETTER IO
+cy-dje	dje	dje	0452	ђ	CYRILLIC SMALL LETTER DJE
+cy-gje	gje	gje	0453	ѓ	CYRILLIC SMALL LETTER GJE
+cy-ieukran	ieukran	eukr	0454	є	CYRILLIC SMALL LETTER UKRAINIAN IE
+cy-dze	dze	dze	0455	ѕ	CYRILLIC SMALL LETTER DZE
+cy-iukran	iukran	iukr	0456	і	CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I
+cy-yi	yi	yukr	0457	ї	CYRILLIC SMALL LETTER YI
+cy-je	je	je	0458	ј	CYRILLIC SMALL LETTER JE
+cy-lje	lje	lje	0459	љ	CYRILLIC SMALL LETTER LJE
+cy-nje	nje	nje	045A	њ	CYRILLIC SMALL LETTER NJE
+cy-tshe	tshe	tshe	045B	ћ	CYRILLIC SMALL LETTER TSHE
+cy-kje	kje	kje	045C	ќ	CYRILLIC SMALL LETTER KJE
+cy-igrave	igravecyr	igravecyr	045D	ѝ	CYRILLIC SMALL LETTER I WITH GRAVE
+cy-ushort	ushort	ushort	045E	ў	CYRILLIC SMALL LETTER SHORT U
+cy-dzhe	dzhe	dzhe	045F	џ	CYRILLIC SMALL LETTER DZHE
+cy-Omega	Omegacyrillic	Omegacyr	0460	Ѡ	CYRILLIC CAPITAL LETTER OMEGA
+cy-omega	omegacyrillic	omegacyr	0461	ѡ	CYRILLIC SMALL LETTER OMEGA
+cy-Yat	Yat	Yat	0462	Ѣ	CYRILLIC CAPITAL LETTER YAT
+cy-yat	yat	yat	0463	ѣ	CYRILLIC SMALL LETTER YAT
+cy-Eiotified	Eiotifiedcyrillic	Eiotified	0464	Ѥ	CYRILLIC CAPITAL LETTER IOTIFIED E
+cy-eiotified	eiotifiedcyrillic	eiotified	0465	ѥ	CYRILLIC SMALL LETTER IOTIFIED E
+cy-Yuslittle	Yuslittlecyrillic	Yuslittle	0466	Ѧ	CYRILLIC CAPITAL LETTER LITTLE YUS
+cy-yuslittle	yuslittlecyrillic	yuslittle	0467	ѧ	CYRILLIC SMALL LETTER LITTLE YUS
+cy-Yuslittleiotified	Yuslittleiotifiedcyrillic	Yuslittleiotified	0468	Ѩ	CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS
+cy-yuslittleiotified	yuslittleiotifiedcyrillic	yuslittleiotified	0469	ѩ	CYRILLIC SMALL LETTER IOTIFIED LITTLE YUS
+cy-Yusbig	Yusbig	Yusbig	046A	Ѫ	CYRILLIC CAPITAL LETTER BIG YUS
+cy-yusbig	yusbig	yusbig	046B	ѫ	CYRILLIC SMALL LETTER BIG YUS
+cy-Yusbigiotified	Yusbigiotifiedcyrillic	Yusbigiotified	046C	Ѭ	CYRILLIC CAPITAL LETTER IOTIFIED BIG YUS
+cy-yusbigiotified	yusbigiotifiedcyrillic	yusbigiotified	046D	ѭ	CYRILLIC SMALL LETTER IOTIFIED BIG YUS
+cy-Ksi	Ksicyrillic	Ksicyr	046E	Ѯ	CYRILLIC CAPITAL LETTER KSI
+cy-ksi	ksicyrillic	ksicyr	046F	ѯ	CYRILLIC SMALL LETTER KSI
+cy-Psi	Psicyrillic	Psicyrillic	0470	Ѱ	CYRILLIC CAPITAL LETTER PSI
+cy-psi	psicyrillic	psicyrillic	0471	ѱ	CYRILLIC SMALL LETTER PSI
+cy-Fita	Fita	Fita	0472	Ѳ	CYRILLIC CAPITAL LETTER FITA
+cy-fita	fita	fita	0473	ѳ	CYRILLIC SMALL LETTER FITA
+cy-Izhitsa	Izhitsa	Izhitsa	0474	Ѵ	CYRILLIC CAPITAL LETTER IZHITSA
+cy-izhitsa	izhitsa	izhitsa	0475	ѵ	CYRILLIC SMALL LETTER IZHITSA
+cy-Izhitsadblgrave	Izhitsadblgravecyrillic	Izhitsadblgrave	0476	Ѷ	CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT
+cy-izhitsadblgrave	izhitsadblgravecyrillic	izhitsadblgrave	0477	ѷ	CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT
+cy-Uk	Ukcyrillic	Uk	0478	Ѹ	CYRILLIC CAPITAL LETTER UK
+cy-uk	ukcyrillic	uk	0479	ѹ	CYRILLIC SMALL LETTER UK
+cy-Omegaround	Omegaroundcyrillic	Omegaroundcyr	047A	Ѻ	CYRILLIC CAPITAL LETTER ROUND OMEGA
+cy-omegaround	omegaroundcyrillic	omegaroundcyr	047B	ѻ	CYRILLIC SMALL LETTER ROUND OMEGA
+cy-Omegatitlo	Omegatitlocyrillic	Omegatitlocyr	047C	Ѽ	CYRILLIC CAPITAL LETTER OMEGA WITH TITLO
+cy-omegatitlo	omegatitlocyrillic	omegatitlocyr	047D	ѽ	CYRILLIC SMALL LETTER OMEGA WITH TITLO
+cy-Ot	Otcyrillic	Ot	047E	Ѿ	CYRILLIC CAPITAL LETTER OT
+cy-ot	otcyrillic	ot	047F	ѿ	CYRILLIC SMALL LETTER OT
+cy-Koppa	Koppacyrillic	Koppacyr	0480	Ҁ	CYRILLIC CAPITAL LETTER KOPPA
+cy-koppa	koppacyrillic	koppacyr	0481	ҁ	CYRILLIC SMALL LETTER KOPPA
+cy-thousands	thousandcyrillic	thousandcyr	0482	҂	CYRILLIC THOUSANDS SIGN
+cy-titlocmb	titlocyrilliccmb	titlocmbcyr	0483	҃		COMBINING CYRILLIC TITLO
+cy-palatalizationcmb	palatalizationcyrilliccmb	palatcmb	0484	҄		COMBINING CYRILLIC PALATALIZATION
+cy-dasiapneumatacmb	dasiapneumatacyrilliccmb	dasiacmb	0485	҅		COMBINING CYRILLIC DASIA PNEUMATA
+cy-psilipneumatacmb	psilipneumatacyrilliccmb	psilicmb	0486	҆		COMBINING CYRILLIC PSILI PNEUMATA
+cy-pokrytiecmb		pokrytiecmb	0487	҇		COMBINING CYRILLIC POKRYTIE
+cy-hundredthousandscmb		hundredthousandscmb	0488	҈		COMBINING CYRILLIC HUNDRED THOUSANDS SIGN
+cy-millionscmb		millionscmb	0489	҉		COMBINING CYRILLIC MILLIONS SIGN
+cy-Ishorttail		Ishorttail	048A	Ҋ	CYRILLIC CAPITAL LETTER SHORT I WITH TAIL
+cy-ishorttail		ishorttail	048B	ҋ	CYRILLIC SMALL LETTER SHORT I WITH TAIL
+cy-Semisoft		Semisoft	048C	Ҍ	CYRILLIC CAPITAL LETTER SEMISOFT SIGN
+cy-semisoft		semisoft	048D	ҍ	CYRILLIC SMALL LETTER SEMISOFT SIGN
+cy-Ertick		Ertick	048E	Ҏ	CYRILLIC CAPITAL LETTER ER WITH TICK
+cy-ertick		ertick	048F	ҏ	CYRILLIC SMALL LETTER ER WITH TICK
+cy-Gheup	Gheup	Geup	0490	Ґ	CYRILLIC CAPITAL LETTER GHE WITH UPTURN
+cy-gheup	gheup	geup	0491	ґ	CYRILLIC SMALL LETTER GHE WITH UPTURN
+cy-Ghestroke	Ghestroke	Gestroke	0492	Ғ	CYRILLIC CAPITAL LETTER GHE WITH STROKE
+cy-ghestroke	ghestroke	gestroke	0493	ғ	CYRILLIC SMALL LETTER GHE WITH STROKE
+cy-Ghemiddlehook	Ghemiddlehook	Gehook	0494	Ҕ	CYRILLIC CAPITAL LETTER GHE WITH MIDDLE HOOK
+cy-ghemiddlehook	ghemiddlehook	gehook	0495	ҕ	CYRILLIC SMALL LETTER GHE WITH MIDDLE HOOK
+cy-Zhedescender	Zhedescender	Zhetail	0496	Җ	CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER
+cy-zhedescender	zhedescender	zhetail	0497	җ	CYRILLIC SMALL LETTER ZHE WITH DESCENDER
+cy-Zedescender	Zedescender	Zetail	0498	Ҙ	CYRILLIC CAPITAL LETTER ZE WITH DESCENDER
+cy-zedescender	zedescender	zetail	0499	ҙ	CYRILLIC SMALL LETTER ZE WITH DESCENDER
+cy-Kadescender	Kadescender	Katail	049A	Қ	CYRILLIC CAPITAL LETTER KA WITH DESCENDER
+cy-kadescender	kadescender	katail	049B	қ	CYRILLIC SMALL LETTER KA WITH DESCENDER
+cy-Kaverticalstroke	Kavert	Kavert	049C	Ҝ	CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE
+cy-kaverticalstroke	kavert	kavert	049D	ҝ	CYRILLIC SMALL LETTER KA WITH VERTICAL STROKE
+cy-Kastroke	Kastroke	Kastroke	049E	Ҟ	CYRILLIC CAPITAL LETTER KA WITH STROKE
+cy-kastroke	kastroke	kastroke		049F	ҟ	CYRILLIC SMALL LETTER KA WITH STROKE
+cy-Kabashkir	Kabashkir	Kabashk	04A0	Ҡ	CYRILLIC CAPITAL LETTER BASHKIR KA
+cy-kabashkir	kabashkir	Kabashk	04A1	ҡ	CYRILLIC SMALL LETTER BASHKIR KA
+cy-NEreverseddescender	Endescender	Entail	04A2	Ң	CYRILLIC CAPITAL LETTER EN WITH DESCENDER
+cy-endescender	endescender	entail	04A3	ң	CYRILLIC SMALL LETTER EN WITH DESCENDER
+cy-En_Ghe	Enghe	Enge	04A4	Ҥ	CYRILLIC CAPITAL LIGATURE EN GHE
+cy-en_ghe	enghe	enge	04A5	ҥ	CYRILLIC SMALL LIGATURE EN GHE
+cy-Pemiddlehook	Pemiddlehook	Pehook	04A6	Ҧ	CYRILLIC CAPITAL LETTER PE WITH MIDDLE HOOK
+cy-pemiddlehook	pemiddlehook	pehook	04A7	ҧ	CYRILLIC SMALL LETTER PE WITH MIDDLE HOOK
+cy-Haabkhaz	Haabkhaz	Haabkh	04A8	Ҩ	CYRILLIC CAPITAL LETTER ABKHASIAN HA
+cy-haabkhaz	haabkhaz	haabkh	04A9	ҩ	CYRILLIC SMALL LETTER ABKHASIAN HA
+cy-SEreverseddescender	Esdescender	Estail	04AA	Ҫ	CYRILLIC CAPITAL LETTER ES WITH DESCENDER
+cy-esdescender	esdescender	Estail	04AB	ҫ	CYRILLIC SMALL LETTER ES WITH DESCENDER
+cy-Tedescender	Tedescender	Tetail	04AC	Ҭ	CYRILLIC CAPITAL LETTER TE WITH DESCENDER
+cy-tedescender	tedescender	tetail	04AD	ҭ	CYRILLIC SMALL LETTER TE WITH DESCENDER
+cy-Ustraight	Ustraight	Ustraight	04AE	Ү	CYRILLIC CAPITAL LETTER STRAIGHT U
+cy-ustraight	ustraight	ustraight	04AF	ү	CYRILLIC SMALL LETTER STRAIGHT U
+cy-Ustraightstroke	Ustraightstroke	Ustraightstroke	04B0	Ұ	CYRILLIC CAPITAL LETTER STRAIGHT U WITH STROKE
+cy-ustraightstroke	ustraightstroke	ustraightstroke	04B1	ұ	CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE
+cy-Hadescender	Hadescender	Xatail	04B2	Ҳ	CYRILLIC CAPITAL LETTER HA WITH DESCENDER
+cy-hadescender	hadescender	xatail	04B3	ҳ	CYRILLIC SMALL LETTER HA WITH DESCENDER
+cy-Te_Tse	Tetse	Tetse	04B4	Ҵ	CYRILLIC CAPITAL LIGATURE TE TSE
+cy-te_tse	tetse	tetse	04B5	ҵ	CYRILLIC SMALL LIGATURE TE TSE
+cy-Chedescender	Chedescender	Chetail	04B6	Ҷ	CYRILLIC CAPITAL LETTER CHE WITH DESCENDER
+cy-chedescender	chedescender	chetail	04B7	ҷ	CYRILLIC SMALL LETTER CHE WITH DESCENDER
+cy-Cheverticalstroke	Chevert	Chevert	04B8	Ҹ	CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE
+cy-cheverticalstroke	chevert	chevert	04B9	ҹ	CYRILLIC SMALL LETTER CHE WITH VERTICAL STROKE
+cy-Shha	Shha	Shha	04BA	Һ	CYRILLIC CAPITAL LETTER SHHA
+cy-shha	shha	shha	04BB	һ	CYRILLIC SMALL LETTER SHHA
+cy-Cheabkhaz	Cheabkhaz	Cheabkh	04BC	Ҽ	CYRILLIC CAPITAL LETTER ABKHASIAN CHE
+cy-cheabkhaz	cheabkhaz	cheabkh	04BD	ҽ	CYRILLIC SMALL LETTER ABKHASIAN CHE
+cy-Chedescenderabkhaz	Cheabkhazdescender	Cheabkhtail	04BE	Ҿ	CYRILLIC CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER
+cy-chedescenderabkhaz	cheabkhazdescender	cheabkhtail	04BF	ҿ	CYRILLIC SMALL LETTER ABKHASIAN CHE WITH DESCENDER
+cy-Palochka	Palochka	Palochka	04C0	Ӏ	CYRILLIC LETTER PALOCHKA
+cy-Zhebreve	Zhebreve	Zhebreve	04C1	Ӂ	CYRILLIC CAPITAL LETTER ZHE WITH BREVE
+cy-zhebreve	zhebreve	zhebreve	04C2	ӂ	CYRILLIC SMALL LETTER ZHE WITH BREVE
+cy-Kahook	Kahook	Kahook	04C3	Ӄ	CYRILLIC CAPITAL LETTER KA WITH HOOK
+cy-kahook	kahook	kahook	04C4	ӄ	CYRILLIC SMALL LETTER KA WITH HOOK
+cy-Eltail		Elsharptail	04C5	Ӆ	CYRILLIC CAPITAL LETTER EL WITH TAIL
+cy-eltail		elsharptail	04C6	ӆ	CYRILLIC SMALL LETTER EL WITH TAIL
+cy-Enhook	Enhookcyrillic	Enhook	04C7	Ӈ	CYRILLIC CAPITAL LETTER EN WITH HOOK
+cy-enhook	enhookcyrillic	enhook	04C8	ӈ	CYRILLIC SMALL LETTER EN WITH HOOK
+cy-Entail		Ensharptail	04C9	Ӊ	CYRILLIC CAPITAL LETTER EN WITH TAIL
+cy-entail		ensharptail	04CA	ӊ	CYRILLIC SMALL LETTER EN WITH TAIL
+cy-Chekhakas	Chekhakassian	Chekhakas	04CB	Ӌ	CYRILLIC CAPITAL LETTER KHAKASSIAN CHE
+cy-chekhakas	chekhakassian	chekhakas	04CC	ӌ	CYRILLIC SMALL LETTER KHAKASSIAN CHE
+cy-Emtail		Emsharptail	04CD	Ӎ	CYRILLIC CAPITAL LETTER EM WITH TAIL
+cy-emtail		emsharptail	04CE	ӎ	CYRILLIC SMALL LETTER EM WITH TAIL
+cy-palochka	palochka	palochka	04CF	ӏ	CYRILLIC SMALL LETTER PALOCHKA
+cy-Abreve	Abrevecyr	Abrevecyr	04D0	Ӑ	CYRILLIC CAPITAL LETTER A WITH BREVE
+cy-abreve	abrevecyr	abrevecyr	04D1	ӑ	CYRILLIC SMALL LETTER A WITH BREVE
+cy-Adieresis	Adieresiscyr	Adieresiscyr	04D2	Ӓ	CYRILLIC CAPITAL LETTER A WITH DIAERESIS
+cy-adieresis	adieresiscyr	adieresiscyr	04D3	ӓ	CYRILLIC SMALL LETTER A WITH DIAERESIS
+cy-A_Ie	Aie	Aie	04D4	Ӕ	CYRILLIC CAPITAL LIGATURE A IE
+cy-a_ie	aie	aie	04D5	ӕ	CYRILLIC SMALL LIGATURE A IE
+cy-Iebreve	Iebreve	Iebreve	04D6	Ӗ	CYRILLIC CAPITAL LETTER IE WITH BREVE
+cy-iebreve	iebreve	iebreve	04D7	ӗ	CYRILLIC SMALL LETTER IE WITH BREVE
+cy-Schwa	Schwacyr	Schwacyr	04D8	Ә	CYRILLIC CAPITAL LETTER SCHWA
+cy-schwa	schwacyr	schwacyr	04D9	ә	CYRILLIC SMALL LETTER SCHWA
+cy-Schwadieresis	Schwadieresiscyr	Schwadieresis	04DA	Ӛ	CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS
+cy-schwadieresis	schwadieresiscyr	schwadieresis	04DB	ӛ	CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS
+cy-Zhedieresis	Zhedieresis	Zhedieresis	04DC	Ӝ	CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS
+cy-zhedieresis	zhedieresis	zhedieresis	04DD	ӝ	CYRILLIC SMALL LETTER ZHE WITH DIAERESIS
+cy-Zedieresis	Zedieresis	Zedieresis	04DE	Ӟ	CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS
+cy-zedieresis	zedieresis	zedieresis	04DF	ӟ	CYRILLIC SMALL LETTER ZE WITH DIAERESIS
+cy-Dzeabkhaz	Dzeabkhaz	Dzeabkh	04E0	Ӡ	CYRILLIC CAPITAL LETTER ABKHASIAN DZE
+cy-dzeabkhaz	dzeabkhaz	dzeabkh	04E1	ӡ	CYRILLIC SMALL LETTER ABKHASIAN DZE
+cy-Imacron	Imacroncyr	Imacroncyr	04E2	Ӣ	CYRILLIC CAPITAL LETTER I WITH MACRON
+cy-imacron	imacroncyr	imacroncyr	04E3	ӣ	CYRILLIC SMALL LETTER I WITH MACRON
+cy-Idieresis	Idieresiscyr	Idieresiscyr	04E4	Ӥ	CYRILLIC CAPITAL LETTER I WITH DIAERESIS
+cy-idieresis	idieresiscyr	idieresiscyr	04E5	ӥ	CYRILLIC SMALL LETTER I WITH DIAERESIS
+cy-Odieresis	Odieresiscyr	Odieresiscyr	04E6	Ӧ	CYRILLIC CAPITAL LETTER O WITH DIAERESIS
+cy-odieresis	odieresiscyr	odieresiscyr	04E7	ӧ	CYRILLIC SMALL LETTER O WITH DIAERESIS
+cy-Obar	Obarcyr	Obarcyr	04E8	Ө	CYRILLIC CAPITAL LETTER BARRED O
+cy-obar	obarcyr	obarcyr	04E9	ө	CYRILLIC SMALL LETTER BARRED O
+cy-Obardieresis	Obarreddieresiscyrillic	Obarreddieresis	04EA	Ӫ	CYRILLIC CAPITAL LETTER BARRED O WITH DIAERESIS
+cy-obardieresis	obarreddieresiscyrillic	obarreddieresis	04EB	ӫ	CYRILLIC SMALL LETTER BARRED O WITH DIAERESIS
+cy-Ereverseddieresis		Ereverseddieresis	04EC	Ӭ	CYRILLIC CAPITAL LETTER E WITH DIAERESIS
+cy-edieresis		ereverseddieresis	04ED	ӭ	CYRILLIC SMALL LETTER E WITH DIAERESIS
+cy-Umacron	Umacroncyr	Umacroncyr	04EE	Ӯ	CYRILLIC CAPITAL LETTER U WITH MACRON
+cy-umacron	umacroncyr	umacroncyr	04EF	ӯ	CYRILLIC SMALL LETTER U WITH MACRON
+cy-Udieresis	Udieresiscyr	Udieresiscyr	04F0	Ӱ	CYRILLIC CAPITAL LETTER U WITH DIAERESIS
+cy-udieresis	udieresiscyr	udieresiscyr	04F1	ӱ	CYRILLIC SMALL LETTER U WITH DIAERESIS
+cy-Udblacute	Uacutedblcyr	Uacutedblcyr	04F2	Ӳ	CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE
+cy-udblacute	uacutedblcyr	uacutedblcyr	04F3	ӳ	CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE
+cy-Chedieresis	Chedieresis	Chedieresis	04F4	Ӵ	CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS
+cy-chedieresis	chedieresis	chedieresis	04F5	ӵ	CYRILLIC SMALL LETTER CHE WITH DIAERESIS
+cy-Ghedescender	Ghedescender	Getail	04F6	Ӷ	CYRILLIC CAPITAL LETTER GHE WITH DESCENDER
+cy-ghedescender	ghedescender	getail	04F7	ӷ	CYRILLIC SMALL LETTER GHE WITH DESCENDER
+cy-Yerudieresis	Yerudieresis	Ylongdieresis	04F8	Ӹ	CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS
+cy-yerudieresis	yerudieresis	ylongdieresis	04F9	ӹ	CYRILLIC SMALL LETTER YERU WITH DIAERESIS
+cy-Ghehookstroke		Gehookstroke	04FA	Ӻ	CYRILLIC CAPITAL LETTER GHE WITH STROKE AND HOOK
+cy-ghehookstroke		gehookstroke	04FB	ӻ	CYRILLIC SMALL LETTER GHE WITH STROKE AND HOOK
+cy-Hahook		Hahook	04FC	Ӽ	CYRILLIC CAPITAL LETTER HA WITH HOOK
+cy-hahook		hahook	04FD	ӽ	CYRILLIC SMALL LETTER HA WITH HOOK
+cy-Hastroke		Hastroke	04FE	Ӿ	CYRILLIC CAPITAL LETTER HA WITH STROKE
+cy-hastroke		hastroke	04FF	ӿ	CYRILLIC CAPITAL LETTER HA WITH STROKE
+

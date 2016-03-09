@@ -1,6 +1,9 @@
 from glyphNameFormatter.data.scriptPrefixes import addScriptPrefix
 
 
+ukrainian = "ukr"
+
+
 def process(self):
     self.edit("CYRILLIC")
     if self.uniNumber == 0x042D:
@@ -10,16 +13,27 @@ def process(self):
         self.uniNameProcessed = "ereversed"
         return
 
-    self.edit("CAPITAL LIGATURE EN GHE", "En_Ghe")
-    self.edit("SMALL LIGATURE EN GHE", "en_ghe")
-    self.edit("CAPITAL LIGATURE A IE", "A_Ie")
-    self.edit("SMALL LIGATURE A IE", "a_ie")
-    self.edit("CAPITAL LIGATURE TE TSE", "Te_Tse")
-    self.edit("SMALL LIGATURE TE TSE", "te_tse")
+    self.edit("CAPITAL LIGATURE EN GHE", "Enge")
+    self.edit("SMALL LIGATURE EN GHE", "enge")
+    self.edit("CAPITAL LIGATURE A IE", "Aie")
+    self.edit("SMALL LIGATURE A IE", "aie")
+    self.edit("CAPITAL LIGATURE TE TSE", "Tetse")
+    self.edit("SMALL LIGATURE TE TSE", "tetse")
     self.edit("CAPITAL LETTER HARD SIGN", "Hard")
     self.edit("CAPITAL LETTER SOFT SIGN", "Soft")
 
     # corrections from Ilya
+    self.edit("CAPITAL LETTER UKRAINIAN IE", "E%s" % ukrainian)
+    self.edit("SMALL LETTER UKRAINIAN IE", "e%s" % ukrainian)
+    self.edit("CAPITAL LETTER YI", "Y%s" % ukrainian)
+    self.edit("SMALL LETTER YI", "y%s" % ukrainian)
+    self.edit("CAPITAL LETTER HA WITH DESCENDER", "Xatail")
+    self.edit("SMALL LETTER HA WITH DESCENDER", "xatail")
+    self.edit("CAPITAL LETTER CHE WITH VERTICAL STROKE", "Chevert")
+    self.edit("SMALL LETTER CHE WITH VERTICAL STROKE", "chevert")
+    self.edit("CAPITAL LETTER E WITH DIAERESIS", "Ereverseddieresis")
+    self.edit("SMALL LETTER E WITH DIAERESIS", "ereverseddieresis")
+
     self.edit("CAPITAL LETTER YERU", "Ylong")
     self.edit("SMALL LETTER YERU", "ylong")
     self.edit("CAPITAL LETTER GHE", "Ge")
@@ -36,34 +50,37 @@ def process(self):
     self.edit("IOTIFIED", "iotified")
     self.edit("WITH TITLO", 'titlo')
     self.edit("TITLO", 'titlo')
+
+    self.edit("ABKHASIAN", "abkh")
+    self.edit("BASHKIR", "bashk")
+    self.edit("KHAKASSIAN", "khakas")
+
     self.edit("WITH UPTURN", "up")
-    self.edit("WITH DESCENDER", "descender")
+    self.edit("WITH DESCENDER", "tail")
     self.edit("WITH VERTICAL STROKE", "verticalstroke")
-    self.edit("WITH TAIL", "tail")
+    self.edit("WITH TAIL", "sharptail")
     self.edit("WITH TICK", "tick")
+    self.edit("WITH MIDDLE HOOK", "hook")
 
     self.edit("HARD SIGN", "hard")
     self.edit("SOFT SIGN", "soft")
 
     self.edit("ROUND", "round")
     self.edit("KOMI", 'komi')
-    self.edit("BYELORUSSIAN-UKRAINIAN", "ukr")
+    self.edit("BYELORUSSIAN-UKRAINIAN", ukrainian)
     self.edit("UKRAINIAN", "ukr")
-    self.edit("ABKHASIAN", "abkhaz")
-    self.edit("BASHKIR", "bashkir")
-    self.edit("KHAKASSIAN", "khakas")
+
     self.edit("ALEUT", "aleut")
 
     self.edit("HUNDRED THOUSANDS SIGN", "hundredthousands")
     self.edit("MILLIONS SIGN", "millions")
     self.edit("THOUSANDS SIGN", "thousands")
     self.edit("POKRYTIE", "pokrytie")
-    self.edit("PALATALIZATION", "palatalization")
-    self.edit("DASIA PNEUMATA", "dasia", "pneumata")
-    self.edit("PSILI PNEUMATA", "psili", "pneumata")
+    self.edit("PALATALIZATION", "palat")
+    self.edit("DASIA PNEUMATA", "dasia")
+    self.edit("PSILI PNEUMATA", "psili")
 
     self.edit("COMBINING", "cmb")
-
 
     self.replace("CAPITAL LETTER KSI", addScriptPrefix("Ksi", script="Cyrillic"))
     self.replace("SMALL LETTER KSI", addScriptPrefix("ksi", script="Cyrillic"))
@@ -72,7 +89,6 @@ def process(self):
 
     self.processDiacritics()
     self.handleCase()
-
 
     # cleanup
     self.edit("CAPITAL")
