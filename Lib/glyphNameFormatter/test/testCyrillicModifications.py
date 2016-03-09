@@ -1,5 +1,5 @@
-from glyphNameFormatter import GlyphName
 from __future__ import print_function
+from glyphNameFormatter import GlyphName
 
 ## simple test agians Ilya's corrections
 
