@@ -81,6 +81,7 @@
    A85 : gjrt-a                                            gjA                      gjrt-a                                  Gujarati                                
    B05 : ry-a                                              odA                      ry-a                                    Oriya                                   
    C85 : kn-a                                              knA                      kn-a                                    Kannada                                 
+   D05 : ma-a                                              mlA                      ma-a                                    Malayalam                               
    F68 : tb-a                                              -                        tb-a                                    Tibetan                                 
   1820 : mo-a                                              -                        mo-a                                    Mongolian                               
   A984 : ja-a                                              -                        ja-a                                    Javanese                                
@@ -91,6 +92,7 @@
    A86 : gjrt-aa                                           gjAa                     gjrt-aa                                 Gujarati                                
    B06 : ry-aa                                             odAa                     ry-aa                                   Oriya                                   
    C86 : kn-aa                                             knAa                     kn-aa                                   Kannada                                 
+   D06 : ma-aa                                             mlAa                     ma-aa                                   Malayalam                               
   A733 : aa                                                -                        aa                                      Latin Extended-D                        
 
    93E : dv-aasign                                         dvAasign                 dv-aasign                               Devanagari                              
@@ -99,6 +101,7 @@
    ABE : gjrt-aasign                                       gjAasign                 gjrt-aasign                             Gujarati                                
    B3E : ry-aasign                                         odAasign                 ry-aasign                               Oriya                                   
    CBE : kn-aasign                                         knAasign                 kn-aasign                               Kannada                                 
+   D3E : ma-aasign                                         mlAasign                 ma-aasign                               Malayalam                               
 
    103 : abreve                                            abreve                   abreve                                  Latin Extended-A                        
    4D1 : abrevecyr                                         abrevecyr                abrevecyr                               Cyrillic                                
@@ -119,6 +122,7 @@
    A90 : gjrt-ai                                           gjAi                     gjrt-ai                                 Gujarati                                
    B10 : ry-ai                                             odAi                     ry-ai                                   Oriya                                   
    C90 : kn-ai                                             knAi                     kn-ai                                   Kannada                                 
+   D10 : ma-ai                                             mlAi                     ma-ai                                   Malayalam                               
   A98D : ja-ai                                             -                        ja-ai                                   Javanese                                
 
    639 : ar-ain                                            arAin                    ar-ain                                  Arabic                                  
@@ -130,6 +134,7 @@
    AC8 : gjrt-aisign                                       gjAisign                 gjrt-aisign                             Gujarati                                
    B48 : ry-aisign                                         odAisign                 ry-aisign                               Oriya                                   
    CC8 : kn-aisign                                         knAisign                 kn-aisign                               Kannada                                 
+   D48 : ma-aisign                                         mlAisign                 ma-aisign                               Malayalam                               
 
    5D0 : hb-alef                                           heAlef                   hb-alef                                 Hebrew                                  
    627 : ar-alef                                           arAlef                   ar-alef                                 Arabic                                  
@@ -149,6 +154,7 @@
    A94 : gjrt-au                                           gjAu                     gjrt-au                                 Gujarati                                
    B14 : ry-au                                             odAu                     ry-au                                   Oriya                                   
    C94 : kn-au                                             knAu                     kn-au                                   Kannada                                 
+   D14 : ma-au                                             mlAu                     ma-au                                   Malayalam                               
   A737 : au                                                -                        au                                      Latin Extended-D                        
 
    94C : dv-ausign                                         dvAusign                 dv-ausign                               Devanagari                              
@@ -157,6 +163,7 @@
    ACC : gjrt-ausign                                       gjAusign                 gjrt-ausign                             Gujarati                                
    B4C : ry-ausign                                         odAusign                 ry-ausign                               Oriya                                   
    CCC : kn-ausign                                         knAusign                 kn-ausign                               Kannada                                 
+   D4C : ma-ausign                                         mlAusign                 ma-ausign                               Malayalam                               
 
    93D : dv-avagraha                                       dvAvagraha               dv-avagraha                             Devanagari                              
    9BD : bngl-avagraha                                     beAvagraha               bngl-avagraha                           Bengali                                 
@@ -170,12 +177,10 @@
    AAC : gjrt-ba                                           gjBa                     gjrt-ba                                 Gujarati                                
    B2C : ry-ba                                             odBa                     ry-ba                                   Oriya                                   
    CAC : kn-ba                                             knBa                     kn-ba                                   Kannada                                 
+   D2C : ma-ba                                             mlBa                     ma-ba                                   Malayalam                               
    F56 : tb-ba                                             -                        tb-ba                                   Tibetan                                 
   182A : mo-ba                                             -                        mo-ba                                   Mongolian                               
   A9A7 : ja-ba                                             -                        ja-ba                                   Javanese                                
-
-  3374 : cjk-barfullwidth                                  barfullwidth             cjk-barfullwidth                        CJK Compatibility                       
-  FF5C : hlfw-barfullwidth                                 linevertfullwidth        hlfw-barfullwidth                       Halfwidth and Fullwidth Forms           
 
    5D1 : hb-bet                                            heBet                    hb-bet                                  Hebrew                                  
   2136 : lttr-bet                                          -                        lttr-bet                                Letterlike Symbols                      
@@ -186,6 +191,7 @@
    AAD : gjrt-bha                                          gjBha                    gjrt-bha                                Gujarati                                
    B2D : ry-bha                                            odBha                    ry-bha                                  Oriya                                   
    CAD : kn-bha                                            knBha                    kn-bha                                  Kannada                                 
+   D2D : ma-bha                                            mlBha                    ma-bha                                  Malayalam                               
    F57 : tb-bha                                            -                        tb-bha                                  Tibetan                                 
 
    56E : am-ca                                             caarmenian               am-ca                                   Armenian                                
@@ -195,6 +201,7 @@
    A9A : gjrt-ca                                           gjCa                     gjrt-ca                                 Gujarati                                
    B1A : ry-ca                                             odCa                     ry-ca                                   Oriya                                   
    C9A : kn-ca                                             knCa                     kn-ca                                   Kannada                                 
+   D1A : ma-ca                                             mlCa                     ma-ca                                   Malayalam                               
    F45 : tb-ca                                             -                        tb-ca                                   Tibetan                                 
   A995 : ja-ca                                             -                        ja-ca                                   Javanese                                
 
@@ -209,6 +216,7 @@
    A9B : gjrt-cha                                          gjCha                    gjrt-cha                                Gujarati                                
    B1B : ry-cha                                            odCha                    ry-cha                                  Oriya                                   
    C9B : kn-cha                                            knCha                    kn-cha                                  Kannada                                 
+   D1B : ma-cha                                            mlCha                    ma-cha                                  Malayalam                               
    F46 : tb-cha                                            -                        tb-cha                                  Tibetan                                 
   1834 : mo-cha                                            -                        mo-cha                                  Mongolian                               
 
@@ -233,6 +241,7 @@
    AA6 : gjrt-da                                           gjDa                     gjrt-da                                 Gujarati                                
    B26 : ry-da                                             odDa                     ry-da                                   Oriya                                   
    CA6 : kn-da                                             knDa                     kn-da                                   Kannada                                 
+   D26 : ma-da                                             mlDa                     ma-da                                   Malayalam                               
    F51 : tb-da                                             -                        tb-da                                   Tibetan                                 
   1833 : mo-da                                             -                        mo-da                                   Mongolian                               
   A9A2 : ja-da                                             -                        ja-da                                   Javanese                                
@@ -240,12 +249,16 @@
    5D3 : hb-dalet                                          heDalet                  hb-dalet                                Hebrew                                  
   2138 : lttr-dalet                                        -                        lttr-dalet                              Letterlike Symbols                      
 
+   60D : ar-date                                           arDate                   ar-date                                 Arabic                                  
+   D79 : ma-date                                           mlDate                   ma-date                                 Malayalam                               
+
    921 : dv-dda                                            dvDda                    dv-dda                                  Devanagari                              
    9A1 : bngl-dda                                          beDda                    bngl-dda                                Bengali                                 
    A21 : grmk-dda                                          guDda                    grmk-dda                                Gurmukhi                                
    AA1 : gjrt-dda                                          gjDda                    gjrt-dda                                Gujarati                                
    B21 : ry-dda                                            odDda                    ry-dda                                  Oriya                                   
    CA1 : kn-dda                                            knDda                    kn-dda                                  Kannada                                 
+   D21 : ma-dda                                            mlDda                    ma-dda                                  Malayalam                               
    F4C : tb-dda                                            -                        tb-dda                                  Tibetan                                 
   A99D : ja-dda                                            -                        ja-dda                                  Javanese                                
 
@@ -255,6 +268,7 @@
    AA2 : gjrt-ddha                                         gjDdha                   gjrt-ddha                               Gujarati                                
    B22 : ry-ddha                                           odDdha                   ry-ddha                                 Oriya                                   
    CA2 : kn-ddha                                           knDdha                   kn-ddha                                 Kannada                                 
+   D22 : ma-ddha                                           mlDdha                   ma-ddha                                 Malayalam                               
    F4D : tb-ddha                                           -                        tb-ddha                                 Tibetan                                 
 
    927 : dv-dha                                            dvDha                    dv-dha                                  Devanagari                              
@@ -263,6 +277,7 @@
    AA7 : gjrt-dha                                          gjDha                    gjrt-dha                                Gujarati                                
    B27 : ry-dha                                            odDha                    ry-dha                                  Oriya                                   
    CA7 : kn-dha                                            knDha                    kn-dha                                  Kannada                                 
+   D27 : ma-dha                                            mlDha                    ma-dha                                  Malayalam                               
    F52 : tb-dha                                            -                        tb-dha                                  Tibetan                                 
 
   25C6 : gmtr-diamondblack                                 diamondblack             gmtr-diamondblack                       Geometric Shapes                        
@@ -278,6 +293,7 @@
    A8F : gjrt-e                                            gjE                      gjrt-e                                  Gujarati                                
    B0F : ry-e                                              odE                      ry-e                                    Oriya                                   
    C8E : kn-e                                              knE                      kn-e                                    Kannada                                 
+   D0E : ma-e                                              mlE                      ma-e                                    Malayalam                               
   1821 : mo-e                                              -                        mo-e                                    Mongolian                               
   A98C : ja-e                                              -                        ja-e                                    Javanese                                
 
@@ -286,10 +302,12 @@
 
    A0F : grmk-ee                                           guEe                     grmk-ee                                 Gurmukhi                                
    C8F : kn-ee                                             knEe                     kn-ee                                   Kannada                                 
+   D0F : ma-ee                                             mlEe                     ma-ee                                   Malayalam                               
   1827 : mo-ee                                             -                        mo-ee                                   Mongolian                               
 
    A47 : grmk-eesign                                       guEesign                 grmk-eesign                             Gurmukhi                                
    CC7 : kn-eesign                                         knEesign                 kn-eesign                               Kannada                                 
+   D47 : ma-eesign                                         mlEesign                 ma-eesign                               Malayalam                               
 
     38 : eight                                             eight                    eight                                   Basic Latin                             
    668 : ar-eight                                          arEight                  ar-eight                                Arabic                                  
@@ -299,6 +317,7 @@
    AEE : gjrt-eight                                        gjEight                  gjrt-eight                              Gujarati                                
    B6E : ry-eight                                          odEight                  ry-eight                                Oriya                                   
    CEE : kn-eight                                          knEight                  kn-eight                                Kannada                                 
+   D6E : ma-eight                                          mlEight                  ma-eight                                Malayalam                               
    F28 : tb-eight                                          -                        tb-eight                                Tibetan                                 
   1818 : mo-eight                                          -                        mo-eight                                Mongolian                               
   A9D8 : ja-eight                                          -                        ja-eight                                Javanese                                
@@ -320,6 +339,7 @@
    AC7 : gjrt-esign                                        gjEsign                  gjrt-esign                              Gujarati                                
    B47 : ry-esign                                          odEsign                  ry-esign                                Oriya                                   
    CC6 : kn-esign                                          knEsign                  kn-esign                                Kannada                                 
+   D46 : ma-esign                                          mlEsign                  ma-esign                                Malayalam                               
 
    945 : dv-esigncandra                                    dvEcandrasign            dv-esigncandra                          Devanagari                              
    AC5 : gjrt-esigncandra                                  gjEcandrasign            gjrt-esigncandra                        Gujarati                                
@@ -346,6 +366,7 @@
    AEB : gjrt-five                                         gjFive                   gjrt-five                               Gujarati                                
    B6B : ry-five                                           odFive                   ry-five                                 Oriya                                   
    CEB : kn-five                                           knFive                   kn-five                                 Kannada                                 
+   D6B : ma-five                                           mlFive                   ma-five                                 Malayalam                               
    F25 : tb-five                                           -                        tb-five                                 Tibetan                                 
   1815 : mo-five                                           -                        mo-five                                 Mongolian                               
   A9D5 : ja-five                                           -                        ja-five                                 Javanese                                
@@ -358,6 +379,7 @@
    AEA : gjrt-four                                         gjFour                   gjrt-four                               Gujarati                                
    B6A : ry-four                                           odFour                   ry-four                                 Oriya                                   
    CEA : kn-four                                           knFour                   kn-four                                 Kannada                                 
+   D6A : ma-four                                           mlFour                   ma-four                                 Malayalam                               
    F24 : tb-four                                           -                        tb-four                                 Tibetan                                 
   1814 : mo-four                                           -                        mo-four                                 Mongolian                               
   A9D4 : ja-four                                           -                        ja-four                                 Javanese                                
@@ -371,6 +393,7 @@
    A97 : gjrt-ga                                           gjGa                     gjrt-ga                                 Gujarati                                
    B17 : ry-ga                                             odGa                     ry-ga                                   Oriya                                   
    C97 : kn-ga                                             knGa                     kn-ga                                   Kannada                                 
+   D17 : ma-ga                                             mlGa                     ma-ga                                   Malayalam                               
    F42 : tb-ga                                             -                        tb-ga                                   Tibetan                                 
   182D : mo-ga                                             -                        mo-ga                                   Mongolian                               
   A992 : ja-ga                                             -                        ja-ga                                   Javanese                                
@@ -384,6 +407,7 @@
    A98 : gjrt-gha                                          gjGha                    gjrt-gha                                Gujarati                                
    B18 : ry-gha                                            odGha                    ry-gha                                  Oriya                                   
    C98 : kn-gha                                            knGha                    kn-gha                                  Kannada                                 
+   D18 : ma-gha                                            mlGha                    ma-gha                                  Malayalam                               
    F43 : tb-gha                                            -                        tb-gha                                  Tibetan                                 
 
    95A : dv-ghha                                           dvGhha                   dv-ghha                                 Devanagari                              
@@ -410,6 +434,7 @@
    AB9 : gjrt-ha                                           gjHa                     gjrt-ha                                 Gujarati                                
    B39 : ry-ha                                             odHa                     ry-ha                                   Oriya                                   
    CB9 : kn-ha                                             knHa                     kn-ha                                   Kannada                                 
+   D39 : ma-ha                                             mlHa                     ma-ha                                   Malayalam                               
    F67 : tb-ha                                             -                        tb-ha                                   Tibetan                                 
   A9B2 : ja-ha                                             -                        ja-ha                                   Javanese                                
 
@@ -428,6 +453,7 @@
    A87 : gjrt-i                                            gjI                      gjrt-i                                  Gujarati                                
    B07 : ry-i                                              odI                      ry-i                                    Oriya                                   
    C87 : kn-i                                              knI                      kn-i                                    Kannada                                 
+   D07 : ma-i                                              mlI                      ma-i                                    Malayalam                               
   1822 : mo-i                                              -                        mo-i                                    Mongolian                               
   A986 : ja-i                                              -                        ja-i                                    Javanese                                
 
@@ -443,6 +469,7 @@
    A88 : gjrt-ii                                           gjIi                     gjrt-ii                                 Gujarati                                
    B08 : ry-ii                                             odIi                     ry-ii                                   Oriya                                   
    C88 : kn-ii                                             knIi                     kn-ii                                   Kannada                                 
+   D08 : ma-ii                                             mlIi                     ma-ii                                   Malayalam                               
   A987 : ja-ii                                             -                        ja-ii                                   Javanese                                
 
    940 : dv-iisign                                         dvIisign                 dv-iisign                               Devanagari                              
@@ -451,6 +478,7 @@
    AC0 : gjrt-iisign                                       gjIisign                 gjrt-iisign                             Gujarati                                
    B40 : ry-iisign                                         odIisign                 ry-iisign                               Oriya                                   
    CC0 : kn-iisign                                         knIisign                 kn-iisign                               Kannada                                 
+   D40 : ma-iisign                                         mlIisign                 ma-iisign                               Malayalam                               
 
    12B : imacron                                           imacron                  imacron                                 Latin Extended-A                        
    4E3 : imacroncyr                                        imacroncyr               imacroncyr                              Cyrillic                                
@@ -467,9 +495,10 @@
    ABF : gjrt-isign                                        gjIsign                  gjrt-isign                              Gujarati                                
    B3F : ry-isign                                          odIsign                  ry-isign                                Oriya                                   
    CBF : kn-isign                                          knIsign                  kn-isign                                Kannada                                 
+   D3F : ma-isign                                          mlIsign                  ma-isign                                Malayalam                               
 
-   9FA : isshar                                            beIsshar                 isshar                                  Bengali                                 
-   B70 : isshar                                            odIsshar                 isshar                                  Oriya                                   
+   9FA : bngl-isshar                                       beIsshar                 bngl-isshar                             Bengali                                 
+   B70 : ry-isshar                                         odIsshar                 ry-isshar                               Oriya                                   
 
    571 : am-ja                                             jaarmenian               am-ja                                   Armenian                                
    91C : dv-ja                                             dvJa                     dv-ja                                   Devanagari                              
@@ -478,6 +507,7 @@
    A9C : gjrt-ja                                           gjJa                     gjrt-ja                                 Gujarati                                
    B1C : ry-ja                                             odJa                     ry-ja                                   Oriya                                   
    C9C : kn-ja                                             knJa                     kn-ja                                   Kannada                                 
+   D1C : ma-ja                                             mlJa                     ma-ja                                   Malayalam                               
    F47 : tb-ja                                             -                        tb-ja                                   Tibetan                                 
   1835 : mo-ja                                             -                        mo-ja                                   Mongolian                               
   A997 : ja-ja                                             -                        ja-ja                                   Javanese                                
@@ -488,6 +518,7 @@
    A9D : gjrt-jha                                          gjJha                    gjrt-jha                                Gujarati                                
    B1D : ry-jha                                            odJha                    ry-jha                                  Oriya                                   
    C9D : kn-jha                                            knJha                    kn-jha                                  Kannada                                 
+   D1D : ma-jha                                            mlJha                    ma-jha                                  Malayalam                               
 
    43A : kacyr                                             ka                       kacyr                                   Cyrillic                                
    915 : dv-ka                                             dvKa                     dv-ka                                   Devanagari                              
@@ -496,6 +527,7 @@
    A95 : gjrt-ka                                           gjKa                     gjrt-ka                                 Gujarati                                
    B15 : ry-ka                                             odKa                     ry-ka                                   Oriya                                   
    C95 : kn-ka                                             knKa                     kn-ka                                   Kannada                                 
+   D15 : ma-ka                                             mlKa                     ma-ka                                   Malayalam                               
    F40 : tb-ka                                             -                        tb-ka                                   Tibetan                                 
   183A : mo-ka                                             -                        mo-ka                                   Mongolian                               
   A98F : ja-ka                                             -                        ja-ka                                   Javanese                                
@@ -512,6 +544,7 @@
    A96 : gjrt-kha                                          gjKha                    gjrt-kha                                Gujarati                                
    B16 : ry-kha                                            odKha                    ry-kha                                  Oriya                                   
    C96 : kn-kha                                            knKha                    kn-kha                                  Kannada                                 
+   D16 : ma-kha                                            mlKha                    ma-kha                                  Malayalam                               
    F41 : tb-kha                                            -                        tb-kha                                  Tibetan                                 
   183B : mo-kha                                            -                        mo-kha                                  Mongolian                               
 
@@ -527,6 +560,7 @@
    AB2 : gjrt-la                                           gjLa                     gjrt-la                                 Gujarati                                
    B32 : ry-la                                             odLa                     ry-la                                   Oriya                                   
    CB2 : kn-la                                             knLa                     kn-la                                   Kannada                                 
+   D32 : ma-la                                             mlLa                     ma-la                                   Malayalam                               
    F63 : tb-la                                             -                        tb-la                                   Tibetan                                 
   182F : mo-la                                             -                        mo-la                                   Mongolian                               
   A9AD : ja-la                                             -                        ja-la                                   Javanese                                
@@ -539,28 +573,38 @@
    AB3 : gjrt-lla                                          gjLla                    gjrt-lla                                Gujarati                                
    B33 : ry-lla                                            odLla                    ry-lla                                  Oriya                                   
    CB3 : kn-lla                                            knLla                    kn-lla                                  Kannada                                 
+   D33 : ma-lla                                            mlLla                    ma-lla                                  Malayalam                               
 
-   963 : dv-llsignvocal                                    dvLlvocalsign            dv-llsignvocal                          Devanagari                              
-   9E3 : bngl-llsignvocal                                  beLlvocalsign            bngl-llsignvocal                        Bengali                                 
-   AE3 : gjrt-llsignvocal                                  gjLlvocalsign            gjrt-llsignvocal                        Gujarati                                
-   B63 : ry-llsignvocal                                    odLlvocalsign            ry-llsignvocal                          Oriya                                   
+   934 : dv-llla                                           dvLlla                   dv-llla                                 Devanagari                              
+   D34 : ma-llla                                           mlLlla                   ma-llla                                 Malayalam                               
 
    961 : dv-llvocal                                        dvLlvocal                dv-llvocal                              Devanagari                              
    9E1 : bngl-llvocal                                      beLlvocal                bngl-llvocal                            Bengali                                 
    AE1 : gjrt-llvocal                                      gjLlvocal                gjrt-llvocal                            Gujarati                                
    B61 : ry-llvocal                                        odLlvocal                ry-llvocal                              Oriya                                   
    CE1 : kn-llvocal                                        knLlvocal                kn-llvocal                              Kannada                                 
+   D61 : ma-llvocal                                        mlLlvocal                ma-llvocal                              Malayalam                               
 
-   962 : dv-lsignvocal                                     dvLvocalsign             dv-lsignvocal                           Devanagari                              
-   9E2 : bngl-lsignvocal                                   beLvocalsign             bngl-lsignvocal                         Bengali                                 
-   AE2 : gjrt-lsignvocal                                   gjLvocalsign             gjrt-lsignvocal                         Gujarati                                
-   B62 : ry-lsignvocal                                     odLvocalsign             ry-lsignvocal                           Oriya                                   
+   963 : dv-llvocalsign                                    dvLlvocalsign            dv-llvocalsign                          Devanagari                              
+   9E3 : bngl-llvocalsign                                  beLlvocalsign            bngl-llvocalsign                        Bengali                                 
+   AE3 : gjrt-llvocalsign                                  gjLlvocalsign            gjrt-llvocalsign                        Gujarati                                
+   B63 : ry-llvocalsign                                    odLlvocalsign            ry-llvocalsign                          Oriya                                   
+   CE3 : kn-llvocalsign                                    knLlvocalsign            kn-llvocalsign                          Kannada                                 
+   D63 : ma-llvocalsign                                    mlLlvocalsign            ma-llvocalsign                          Malayalam                               
 
    90C : dv-lvocal                                         dvLvocal                 dv-lvocal                               Devanagari                              
    98C : bngl-lvocal                                       beLvocal                 bngl-lvocal                             Bengali                                 
    A8C : gjrt-lvocal                                       gjLvocal                 gjrt-lvocal                             Gujarati                                
    B0C : ry-lvocal                                         odLvocal                 ry-lvocal                               Oriya                                   
    C8C : kn-lvocal                                         knLvocal                 kn-lvocal                               Kannada                                 
+   D0C : ma-lvocal                                         mlLvocal                 ma-lvocal                               Malayalam                               
+
+   962 : dv-lvocalsign                                     dvLvocalsign             dv-lvocalsign                           Devanagari                              
+   9E2 : bngl-lvocalsign                                   beLvocalsign             bngl-lvocalsign                         Bengali                                 
+   AE2 : gjrt-lvocalsign                                   gjLvocalsign             gjrt-lvocalsign                         Gujarati                                
+   B62 : ry-lvocalsign                                     odLvocalsign             ry-lvocalsign                           Oriya                                   
+   CE2 : kn-lvocalsign                                     knLvocalsign             kn-lvocalsign                           Kannada                                 
+   D62 : ma-lvocalsign                                     mlLvocalsign             ma-lvocalsign                           Malayalam                               
 
    92E : dv-ma                                             dvMa                     dv-ma                                   Devanagari                              
    9AE : bngl-ma                                           beMa                     bngl-ma                                 Bengali                                 
@@ -568,6 +612,7 @@
    AAE : gjrt-ma                                           gjMa                     gjrt-ma                                 Gujarati                                
    B2E : ry-ma                                             odMa                     ry-ma                                   Oriya                                   
    CAE : kn-ma                                             knMa                     kn-ma                                   Kannada                                 
+   D2E : ma-ma                                             mlMa                     ma-ma                                   Malayalam                               
    F58 : tb-ma                                             -                        tb-ma                                   Tibetan                                 
   182E : mo-ma                                             -                        mo-ma                                   Mongolian                               
   A9A9 : ja-ma                                             -                        ja-ma                                   Javanese                                
@@ -578,6 +623,7 @@
    AA8 : gjrt-na                                           gjNa                     gjrt-na                                 Gujarati                                
    B28 : ry-na                                             odNa                     ry-na                                   Oriya                                   
    CA8 : kn-na                                             knNa                     kn-na                                   Kannada                                 
+   D28 : ma-na                                             mlNa                     ma-na                                   Malayalam                               
    F53 : tb-na                                             -                        tb-na                                   Tibetan                                 
   1828 : mo-na                                             -                        mo-na                                   Mongolian                               
   A9A4 : ja-na                                             -                        ja-na                                   Javanese                                
@@ -588,6 +634,7 @@
    A99 : gjrt-nga                                          gjNga                    gjrt-nga                                Gujarati                                
    B19 : ry-nga                                            odNga                    ry-nga                                  Oriya                                   
    C99 : kn-nga                                            knNga                    kn-nga                                  Kannada                                 
+   D19 : ma-nga                                            mlNga                    ma-nga                                  Malayalam                               
    F44 : tb-nga                                            -                        tb-nga                                  Tibetan                                 
   A994 : ja-nga                                            -                        ja-nga                                  Javanese                                
 
@@ -599,6 +646,7 @@
    AEF : gjrt-nine                                         gjNine                   gjrt-nine                               Gujarati                                
    B6F : ry-nine                                           odNine                   ry-nine                                 Oriya                                   
    CEF : kn-nine                                           knNine                   kn-nine                                 Kannada                                 
+   D6F : ma-nine                                           mlNine                   ma-nine                                 Malayalam                               
    F29 : tb-nine                                           -                        tb-nine                                 Tibetan                                 
   1819 : mo-nine                                           -                        mo-nine                                 Mongolian                               
   A9D9 : ja-nine                                           -                        ja-nine                                 Javanese                                
@@ -609,6 +657,7 @@
    AA3 : gjrt-nna                                          gjNna                    gjrt-nna                                Gujarati                                
    B23 : ry-nna                                            odNna                    ry-nna                                  Oriya                                   
    CA3 : kn-nna                                            knNna                    kn-nna                                  Kannada                                 
+   D23 : ma-nna                                            mlNna                    ma-nna                                  Malayalam                               
    F4E : tb-nna                                            -                        tb-nna                                  Tibetan                                 
 
    93C : dv-nukta                                          dvNukta                  dv-nukta                                Devanagari                              
@@ -627,6 +676,7 @@
    A9E : gjrt-nya                                          gjNya                    gjrt-nya                                Gujarati                                
    B1E : ry-nya                                            odNya                    ry-nya                                  Oriya                                   
    C9E : kn-nya                                            knNya                    kn-nya                                  Kannada                                 
+   D1E : ma-nya                                            mlNya                    ma-nya                                  Malayalam                               
    F49 : tb-nya                                            -                        tb-nya                                  Tibetan                                 
   A99A : ja-nya                                            -                        ja-nya                                  Javanese                                
 
@@ -637,6 +687,7 @@
    A93 : gjrt-o                                            gjO                      gjrt-o                                  Gujarati                                
    B13 : ry-o                                              odO                      ry-o                                    Oriya                                   
    C92 : kn-o                                              knO                      kn-o                                    Kannada                                 
+   D12 : ma-o                                              mlO                      ma-o                                    Malayalam                               
   1823 : mo-o                                              -                        mo-o                                    Mongolian                               
   A98E : ja-o                                              -                        ja-o                                    Javanese                                
 
@@ -664,22 +715,32 @@
    AE7 : gjrt-one                                          gjOne                    gjrt-one                                Gujarati                                
    B67 : ry-one                                            odOne                    ry-one                                  Oriya                                   
    CE7 : kn-one                                            knOne                    kn-one                                  Kannada                                 
+   D67 : ma-one                                            mlOne                    ma-one                                  Malayalam                               
    F21 : tb-one                                            -                        tb-one                                  Tibetan                                 
   1811 : mo-one                                            -                        mo-one                                  Mongolian                               
   A9D1 : ja-one                                            -                        ja-one                                  Javanese                                
 
+    BD : onehalf                                           onehalf                  onehalf                                 Latin-1 Supplement                      
+   D74 : ma-onehalf                                        mlOneHalf                ma-onehalf                              Malayalam                               
+
+    BC : onequarter                                        onequarter               onequarter                              Latin-1 Supplement                      
+   D73 : ma-onequarter                                     mlOneQuarter             ma-onequarter                           Malayalam                               
+
    A13 : grmk-oo                                           guOo                     grmk-oo                                 Gurmukhi                                
    C93 : kn-oo                                             knOo                     kn-oo                                   Kannada                                 
+   D13 : ma-oo                                             mlOo                     ma-oo                                   Malayalam                               
   A74F : oo                                                -                        oo                                      Latin Extended-D                        
 
    A4B : grmk-oosign                                       guOosign                 grmk-oosign                             Gurmukhi                                
    CCB : kn-oosign                                         knOosign                 kn-oosign                               Kannada                                 
+   D4B : ma-oosign                                         mlOosign                 ma-oosign                               Malayalam                               
 
    94B : dv-osign                                          dvOsign                  dv-osign                                Devanagari                              
    9CB : bngl-osign                                        beOsign                  bngl-osign                              Bengali                                 
    ACB : gjrt-osign                                        gjOsign                  gjrt-osign                              Gujarati                                
    B4B : ry-osign                                          odOsign                  ry-osign                                Oriya                                   
    CCA : kn-osign                                          knOsign                  kn-osign                                Kannada                                 
+   D4A : ma-osign                                          mlOsign                  ma-osign                                Malayalam                               
 
    949 : dv-osigncandra                                    dvOcandrasign            dv-osigncandra                          Devanagari                              
    AC9 : gjrt-osigncandra                                  gjOcandrasign            gjrt-osigncandra                        Gujarati                                
@@ -690,6 +751,7 @@
    AAA : gjrt-pa                                           gjPa                     gjrt-pa                                 Gujarati                                
    B2A : ry-pa                                             odPa                     ry-pa                                   Oriya                                   
    CAA : kn-pa                                             knPa                     kn-pa                                   Kannada                                 
+   D2A : ma-pa                                             mlPa                     ma-pa                                   Malayalam                               
    F54 : tb-pa                                             -                        tb-pa                                   Tibetan                                 
   182B : mo-pa                                             -                        mo-pa                                   Mongolian                               
   A9A5 : ja-pa                                             -                        ja-pa                                   Javanese                                
@@ -720,6 +782,7 @@
    AAB : gjrt-pha                                          gjPha                    gjrt-pha                                Gujarati                                
    B2B : ry-pha                                            odPha                    ry-pha                                  Oriya                                   
    CAB : kn-pha                                            knPha                    kn-pha                                  Kannada                                 
+   D2B : ma-pha                                            mlPha                    ma-pha                                  Malayalam                               
    F55 : tb-pha                                            -                        tb-pha                                  Tibetan                                 
 
    278 : ipa-phi                                           philatin                 ipa-phi                                 IPA Extensions                          
@@ -741,6 +804,7 @@
    AB0 : gjrt-ra                                           gjRa                     gjrt-ra                                 Gujarati                                
    B30 : ry-ra                                             odRa                     ry-ra                                   Oriya                                   
    CB0 : kn-ra                                             knRa                     kn-ra                                   Kannada                                 
+   D30 : ma-ra                                             mlRa                     ma-ra                                   Malayalam                               
    F62 : tb-ra                                             -                        tb-ra                                   Tibetan                                 
   1837 : mo-ra                                             -                        mo-ra                                   Mongolian                               
   A9AB : ja-ra                                             -                        ja-ra                                   Javanese                                
@@ -758,23 +822,22 @@
    A5C : grmk-rra                                          guRra                    grmk-rra                                Gurmukhi                                
    B5C : ry-rra                                            odRra                    ry-rra                                  Oriya                                   
    CB1 : kn-rra                                            knRra                    kn-rra                                  Kannada                                 
+   D31 : ma-rra                                            mlRra                    ma-rra                                  Malayalam                               
    F6C : tb-rra                                            -                        tb-rra                                  Tibetan                                 
-
-   944 : dv-rrsignvocal                                    dvRrvocalsign            dv-rrsignvocal                          Devanagari                              
-   9C4 : bngl-rrsignvocal                                  beRrvocalsign            bngl-rrsignvocal                        Bengali                                 
-   AC4 : gjrt-rrsignvocal                                  gjRrvocalsign            gjrt-rrsignvocal                        Gujarati                                
-   B44 : ry-rrsignvocal                                    odRrvocalsign            ry-rrsignvocal                          Oriya                                   
 
    960 : dv-rrvocal                                        dvRrvocal                dv-rrvocal                              Devanagari                              
    9E0 : bngl-rrvocal                                      beRrvocal                bngl-rrvocal                            Bengali                                 
    AE0 : gjrt-rrvocal                                      gjRrvocal                gjrt-rrvocal                            Gujarati                                
    B60 : ry-rrvocal                                        odRrvocal                ry-rrvocal                              Oriya                                   
    CE0 : kn-rrvocal                                        knRrvocal                kn-rrvocal                              Kannada                                 
+   D60 : ma-rrvocal                                        mlRrvocal                ma-rrvocal                              Malayalam                               
 
-   943 : dv-rsignvocal                                     dvRvocalsign             dv-rsignvocal                           Devanagari                              
-   9C3 : bngl-rsignvocal                                   beRvocalsign             bngl-rsignvocal                         Bengali                                 
-   AC3 : gjrt-rsignvocal                                   gjRvocalsign             gjrt-rsignvocal                         Gujarati                                
-   B43 : ry-rsignvocal                                     odRvocalsign             ry-rsignvocal                           Oriya                                   
+   944 : dv-rrvocalsign                                    dvRrvocalsign            dv-rrvocalsign                          Devanagari                              
+   9C4 : bngl-rrvocalsign                                  beRrvocalsign            bngl-rrvocalsign                        Bengali                                 
+   AC4 : gjrt-rrvocalsign                                  gjRrvocalsign            gjrt-rrvocalsign                        Gujarati                                
+   B44 : ry-rrvocalsign                                    odRrvocalsign            ry-rrvocalsign                          Oriya                                   
+   CC4 : kn-rrvocalsign                                    knRrvocalsign            kn-rrvocalsign                          Kannada                                 
+   D44 : ma-rrvocalsign                                    mlRrvocalsign            ma-rrvocalsign                          Malayalam                               
 
    9F3 : bngl-rupee                                        beRupee                  bngl-rupee                              Bengali                                 
    AF1 : gjrt-rupee                                        gjRupee                  gjrt-rupee                              Gujarati                                
@@ -785,6 +848,14 @@
    A8B : gjrt-rvocal                                       gjRvocal                 gjrt-rvocal                             Gujarati                                
    B0B : ry-rvocal                                         odRvocal                 ry-rvocal                               Oriya                                   
    C8B : kn-rvocal                                         knRvocal                 kn-rvocal                               Kannada                                 
+   D0B : ma-rvocal                                         mlRvocal                 ma-rvocal                               Malayalam                               
+
+   943 : dv-rvocalsign                                     dvRvocalsign             dv-rvocalsign                           Devanagari                              
+   9C3 : bngl-rvocalsign                                   beRvocalsign             bngl-rvocalsign                         Bengali                                 
+   AC3 : gjrt-rvocalsign                                   gjRvocalsign             gjrt-rvocalsign                         Gujarati                                
+   B43 : ry-rvocalsign                                     odRvocalsign             ry-rvocalsign                           Oriya                                   
+   CC3 : kn-rvocalsign                                     knRvocalsign             kn-rvocalsign                           Kannada                                 
+   D43 : ma-rvocalsign                                     mlRvocalsign             ma-rvocalsign                           Malayalam                               
 
    938 : dv-sa                                             dvSa                     dv-sa                                   Devanagari                              
    9B8 : bngl-sa                                           beSa                     bngl-sa                                 Bengali                                 
@@ -792,6 +863,7 @@
    AB8 : gjrt-sa                                           gjSa                     gjrt-sa                                 Gujarati                                
    B38 : ry-sa                                             odSa                     ry-sa                                   Oriya                                   
    CB8 : kn-sa                                             knSa                     kn-sa                                   Kannada                                 
+   D38 : ma-sa                                             mlSa                     ma-sa                                   Malayalam                               
    F66 : tb-sa                                             -                        tb-sa                                   Tibetan                                 
   1830 : mo-sa                                             -                        mo-sa                                   Mongolian                               
   A9B1 : ja-sa                                             -                        ja-sa                                   Javanese                                
@@ -810,6 +882,7 @@
    AED : gjrt-seven                                        gjSeven                  gjrt-seven                              Gujarati                                
    B6D : ry-seven                                          odSeven                  ry-seven                                Oriya                                   
    CED : kn-seven                                          knSeven                  kn-seven                                Kannada                                 
+   D6D : ma-seven                                          mlSeven                  ma-seven                                Malayalam                               
    F27 : tb-seven                                          -                        tb-seven                                Tibetan                                 
   1817 : mo-seven                                          -                        mo-seven                                Mongolian                               
   A9D7 : ja-seven                                          -                        ja-seven                                Javanese                                
@@ -822,6 +895,7 @@
    AB6 : gjrt-sha                                          gjSha                    gjrt-sha                                Gujarati                                
    B36 : ry-sha                                            odSha                    ry-sha                                  Oriya                                   
    CB6 : kn-sha                                            knSha                    kn-sha                                  Kannada                                 
+   D36 : ma-sha                                            mlSha                    ma-sha                                  Malayalam                               
    F64 : tb-sha                                            -                        tb-sha                                  Tibetan                                 
   1831 : mo-sha                                            -                        mo-sha                                  Mongolian                               
 
@@ -833,6 +907,7 @@
    AEC : gjrt-six                                          gjSix                    gjrt-six                                Gujarati                                
    B6C : ry-six                                            odSix                    ry-six                                  Oriya                                   
    CEC : kn-six                                            knSix                    kn-six                                  Kannada                                 
+   D6C : ma-six                                            mlSix                    ma-six                                  Malayalam                               
    F26 : tb-six                                            -                        tb-six                                  Tibetan                                 
   1816 : mo-six                                            -                        mo-six                                  Mongolian                               
   A9D6 : ja-six                                            -                        ja-six                                  Javanese                                
@@ -842,6 +917,7 @@
    AB7 : gjrt-ssa                                          gjSsa                    gjrt-ssa                                Gujarati                                
    B37 : ry-ssa                                            odSsa                    ry-ssa                                  Oriya                                   
    CB7 : kn-ssa                                            knSsa                    kn-ssa                                  Kannada                                 
+   D37 : ma-ssa                                            mlSsa                    ma-ssa                                  Malayalam                               
    F65 : tb-ssa                                            -                        tb-ssa                                  Tibetan                                 
 
    924 : dv-ta                                             dvTa                     dv-ta                                   Devanagari                              
@@ -850,6 +926,7 @@
    AA4 : gjrt-ta                                           gjTa                     gjrt-ta                                 Gujarati                                
    B24 : ry-ta                                             odTa                     ry-ta                                   Oriya                                   
    CA4 : kn-ta                                             knTa                     kn-ta                                   Kannada                                 
+   D24 : ma-ta                                             mlTa                     ma-ta                                   Malayalam                               
    F4F : tb-ta                                             -                        tb-ta                                   Tibetan                                 
   1832 : mo-ta                                             -                        mo-ta                                   Mongolian                               
   A9A0 : ja-ta                                             -                        ja-ta                                   Javanese                                
@@ -860,6 +937,7 @@
    AA5 : gjrt-tha                                          gjTha                    gjrt-tha                                Gujarati                                
    B25 : ry-tha                                            odTha                    ry-tha                                  Oriya                                   
    CA5 : kn-tha                                            knTha                    kn-tha                                  Kannada                                 
+   D25 : ma-tha                                            mlTha                    ma-tha                                  Malayalam                               
    F50 : tb-tha                                            -                        tb-tha                                  Tibetan                                 
 
    482 : thousandscyr                                      thousandcyrillic         thousandscyr                            Cyrillic                                
@@ -873,9 +951,13 @@
    AE9 : gjrt-three                                        gjThree                  gjrt-three                              Gujarati                                
    B69 : ry-three                                          odThree                  ry-three                                Oriya                                   
    CE9 : kn-three                                          knThree                  kn-three                                Kannada                                 
+   D69 : ma-three                                          mlThree                  ma-three                                Malayalam                               
    F23 : tb-three                                          -                        tb-three                                Tibetan                                 
   1813 : mo-three                                          -                        mo-three                                Mongolian                               
   A9D3 : ja-three                                          -                        ja-three                                Javanese                                
+
+    BE : threequarters                                     threequarters            threequarters                           Latin-1 Supplement                      
+   D75 : ma-threequarters                                  mlThreeQuarters          ma-threequarters                        Malayalam                               
 
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                
   1FC0 : gr-tilde                                          perispomeni              gr-tilde                                Greek Extended                          
@@ -889,6 +971,7 @@
    A9F : gjrt-tta                                          gjTta                    gjrt-tta                                Gujarati                                
    B1F : ry-tta                                            odTta                    ry-tta                                  Oriya                                   
    C9F : kn-tta                                            knTta                    kn-tta                                  Kannada                                 
+   D1F : ma-tta                                            mlTta                    ma-tta                                  Malayalam                               
    F4A : tb-tta                                            -                        tb-tta                                  Tibetan                                 
   A99B : ja-tta                                            -                        ja-tta                                  Javanese                                
 
@@ -898,6 +981,7 @@
    AA0 : gjrt-ttha                                         gjTtha                   gjrt-ttha                               Gujarati                                
    B20 : ry-ttha                                           odTtha                   ry-ttha                                 Oriya                                   
    CA0 : kn-ttha                                           knTtha                   kn-ttha                                 Kannada                                 
+   D20 : ma-ttha                                           mlTtha                   ma-ttha                                 Malayalam                               
    F4B : tb-ttha                                           -                        tb-ttha                                 Tibetan                                 
 
     32 : two                                               two                      two                                     Basic Latin                             
@@ -908,6 +992,7 @@
    AE8 : gjrt-two                                          gjTwo                    gjrt-two                                Gujarati                                
    B68 : ry-two                                            odTwo                    ry-two                                  Oriya                                   
    CE8 : kn-two                                            knTwo                    kn-two                                  Kannada                                 
+   D68 : ma-two                                            mlTwo                    ma-two                                  Malayalam                               
    F22 : tb-two                                            -                        tb-two                                  Tibetan                                 
   1812 : mo-two                                            -                        mo-two                                  Mongolian                               
   A9D2 : ja-two                                            -                        ja-two                                  Javanese                                
@@ -921,6 +1006,7 @@
    A89 : gjrt-u                                            gjU                      gjrt-u                                  Gujarati                                
    B09 : ry-u                                              odU                      ry-u                                    Oriya                                   
    C89 : kn-u                                              knU                      kn-u                                    Kannada                                 
+   D09 : ma-u                                              mlU                      ma-u                                    Malayalam                               
   1824 : mo-u                                              -                        mo-u                                    Mongolian                               
   A988 : ja-u                                              -                        ja-u                                    Javanese                                
 
@@ -942,6 +1028,7 @@
    AC1 : gjrt-usign                                        gjUsign                  gjrt-usign                              Gujarati                                
    B41 : ry-usign                                          odUsign                  ry-usign                                Oriya                                   
    CC1 : kn-usign                                          knUsign                  kn-usign                                Kannada                                 
+   D41 : ma-usign                                          mlUsign                  ma-usign                                Malayalam                               
 
    90A : dv-uu                                             dvUu                     dv-uu                                   Devanagari                              
    98A : bngl-uu                                           beUu                     bngl-uu                                 Bengali                                 
@@ -949,6 +1036,7 @@
    A8A : gjrt-uu                                           gjUu                     gjrt-uu                                 Gujarati                                
    B0A : ry-uu                                             odUu                     ry-uu                                   Oriya                                   
    C8A : kn-uu                                             knUu                     kn-uu                                   Kannada                                 
+   D0A : ma-uu                                             mlUu                     ma-uu                                   Malayalam                               
 
    942 : dv-uusign                                         dvUusign                 dv-uusign                               Devanagari                              
    9C2 : bngl-uusign                                       beUusign                 bngl-uusign                             Bengali                                 
@@ -956,12 +1044,14 @@
    AC2 : gjrt-uusign                                       gjUusign                 gjrt-uusign                             Gujarati                                
    B42 : ry-uusign                                         odUusign                 ry-uusign                               Oriya                                   
    CC2 : kn-uusign                                         knUusign                 kn-uusign                               Kannada                                 
+   D42 : ma-uusign                                         mlUusign                 ma-uusign                               Malayalam                               
 
    935 : dv-va                                             dvVa                     dv-va                                   Devanagari                              
    A35 : grmk-va                                           guVa                     grmk-va                                 Gurmukhi                                
    AB5 : gjrt-va                                           gjVa                     gjrt-va                                 Gujarati                                
    B35 : ry-va                                             odVa                     ry-va                                   Oriya                                   
    CB5 : kn-va                                             knVa                     kn-va                                   Kannada                                 
+   D35 : ma-va                                             mlVa                     ma-va                                   Malayalam                               
 
    432 : vecyr                                             ve                       vecyr                                   Cyrillic                                
    6CB : ar-ve                                             arVe                     ar-ve                                   Arabic                                  
@@ -992,6 +1082,7 @@
    AAF : gjrt-ya                                           gjYa                     gjrt-ya                                 Gujarati                                
    B2F : ry-ya                                             odYa                     ry-ya                                   Oriya                                   
    CAF : kn-ya                                             knYa                     kn-ya                                   Kannada                                 
+   D2F : ma-ya                                             mlYa                     ma-ya                                   Malayalam                               
    F61 : tb-ya                                             -                        tb-ya                                   Tibetan                                 
   1836 : mo-ya                                             -                        mo-ya                                   Mongolian                               
   A9AA : ja-ya                                             -                        ja-ya                                   Javanese                                
@@ -1020,6 +1111,7 @@
    AE6 : gjrt-zero                                         gjZero                   gjrt-zero                               Gujarati                                
    B66 : ry-zero                                           odZero                   ry-zero                                 Oriya                                   
    CE6 : kn-zero                                           knZero                   kn-zero                                 Kannada                                 
+   D66 : ma-zero                                           mlZero                   ma-zero                                 Malayalam                               
    F20 : tb-zero                                           -                        tb-zero                                 Tibetan                                 
   1810 : mo-zero                                           -                        mo-zero                                 Mongolian                               
   A9D0 : ja-zero                                           -                        ja-zero                                 Javanese                                
@@ -1029,7 +1121,7 @@
 
    436 : zhecyr                                            zhe                      zhecyr                                  Cyrillic                                
    56A : am-zhe                                            zhearmenian              am-zhe                                  Armenian                                
-# 188 names with conflicts, affecting 841 unicodes
+# 192 names with conflicts, affecting 929 unicodes
 
 
 Conflicts by rangename
@@ -1040,6 +1132,7 @@ Arabic
    627 : ar-alef                                           arAlef                   ar-alef                                 Arabic                                  
    60C : ar-comma                                          arComma                  ar-comma                                Arabic                                  
    606 : ar-cuberoot                                       -                        ar-cuberoot                             Arabic                                  
+   60D : ar-date                                           arDate                   ar-date                                 Arabic                                  
    6D0 : ar-e                                              arE                      ar-e                                    Arabic                                  
    668 : ar-eight                                          arEight                  ar-eight                                Arabic                                  
    641 : ar-feh                                            arFeh                    ar-feh                                  Arabic                                  
@@ -1155,16 +1248,16 @@ Bengali
    988 : bngl-ii                                           beIi                     bngl-ii                                 Bengali                                 
    9C0 : bngl-iisign                                       beIisign                 bngl-iisign                             Bengali                                 
    9BF : bngl-isign                                        beIsign                  bngl-isign                              Bengali                                 
-   9FA : isshar                                            beIsshar                 isshar                                  Bengali                                 
+   9FA : bngl-isshar                                       beIsshar                 bngl-isshar                             Bengali                                 
    99C : bngl-ja                                           beJa                     bngl-ja                                 Bengali                                 
    99D : bngl-jha                                          beJha                    bngl-jha                                Bengali                                 
    995 : bngl-ka                                           beKa                     bngl-ka                                 Bengali                                 
    996 : bngl-kha                                          beKha                    bngl-kha                                Bengali                                 
    9B2 : bngl-la                                           beLa                     bngl-la                                 Bengali                                 
-   9E3 : bngl-llsignvocal                                  beLlvocalsign            bngl-llsignvocal                        Bengali                                 
    9E1 : bngl-llvocal                                      beLlvocal                bngl-llvocal                            Bengali                                 
-   9E2 : bngl-lsignvocal                                   beLvocalsign             bngl-lsignvocal                         Bengali                                 
+   9E3 : bngl-llvocalsign                                  beLlvocalsign            bngl-llvocalsign                        Bengali                                 
    98C : bngl-lvocal                                       beLvocal                 bngl-lvocal                             Bengali                                 
+   9E2 : bngl-lvocalsign                                   beLvocalsign             bngl-lvocalsign                         Bengali                                 
    9AE : bngl-ma                                           beMa                     bngl-ma                                 Bengali                                 
    9A8 : bngl-na                                           beNa                     bngl-na                                 Bengali                                 
    999 : bngl-nga                                          beNga                    bngl-nga                                Bengali                                 
@@ -1180,11 +1273,11 @@ Bengali
    9B0 : bngl-ra                                           beRa                     bngl-ra                                 Bengali                                 
    9DD : bngl-rha                                          beRha                    bngl-rha                                Bengali                                 
    9DC : bngl-rra                                          beRra                    bngl-rra                                Bengali                                 
-   9C4 : bngl-rrsignvocal                                  beRrvocalsign            bngl-rrsignvocal                        Bengali                                 
    9E0 : bngl-rrvocal                                      beRrvocal                bngl-rrvocal                            Bengali                                 
-   9C3 : bngl-rsignvocal                                   beRvocalsign             bngl-rsignvocal                         Bengali                                 
+   9C4 : bngl-rrvocalsign                                  beRrvocalsign            bngl-rrvocalsign                        Bengali                                 
    9F3 : bngl-rupee                                        beRupee                  bngl-rupee                              Bengali                                 
    98B : bngl-rvocal                                       beRvocal                 bngl-rvocal                             Bengali                                 
+   9C3 : bngl-rvocalsign                                   beRvocalsign             bngl-rvocalsign                         Bengali                                 
    9B8 : bngl-sa                                           beSa                     bngl-sa                                 Bengali                                 
    9ED : bngl-seven                                        beSeven                  bngl-seven                              Bengali                                 
    9B6 : bngl-sha                                          beSha                    bngl-sha                                Bengali                                 
@@ -1205,9 +1298,6 @@ Bengali
    9AF : bngl-ya                                           beYa                     bngl-ya                                 Bengali                                 
    9DF : bngl-yya                                          beYya                    bngl-yya                                Bengali                                 
    9E6 : bngl-zero                                         beZero                   bngl-zero                               Bengali                                 
-
-CJK Compatibility
-  3374 : cjk-barfullwidth                                  barfullwidth             cjk-barfullwidth                        CJK Compatibility                       
 
 Currency Symbols
   20A8 : crrn-rupee                                        rupee                    crrn-rupee                              Currency Symbols                        
@@ -1320,10 +1410,11 @@ Devanagari
    959 : dv-khha                                           dvKhha                   dv-khha                                 Devanagari                              
    932 : dv-la                                             dvLa                     dv-la                                   Devanagari                              
    933 : dv-lla                                            dvLla                    dv-lla                                  Devanagari                              
-   963 : dv-llsignvocal                                    dvLlvocalsign            dv-llsignvocal                          Devanagari                              
+   934 : dv-llla                                           dvLlla                   dv-llla                                 Devanagari                              
    961 : dv-llvocal                                        dvLlvocal                dv-llvocal                              Devanagari                              
-   962 : dv-lsignvocal                                     dvLvocalsign             dv-lsignvocal                           Devanagari                              
+   963 : dv-llvocalsign                                    dvLlvocalsign            dv-llvocalsign                          Devanagari                              
    90C : dv-lvocal                                         dvLvocal                 dv-lvocal                               Devanagari                              
+   962 : dv-lvocalsign                                     dvLvocalsign             dv-lvocalsign                           Devanagari                              
    92E : dv-ma                                             dvMa                     dv-ma                                   Devanagari                              
    928 : dv-na                                             dvNa                     dv-na                                   Devanagari                              
    919 : dv-nga                                            dvNga                    dv-nga                                  Devanagari                              
@@ -1343,10 +1434,10 @@ Devanagari
    930 : dv-ra                                             dvRa                     dv-ra                                   Devanagari                              
    95D : dv-rha                                            dvRha                    dv-rha                                  Devanagari                              
    931 : dv-rra                                            dvRra                    dv-rra                                  Devanagari                              
-   944 : dv-rrsignvocal                                    dvRrvocalsign            dv-rrsignvocal                          Devanagari                              
    960 : dv-rrvocal                                        dvRrvocal                dv-rrvocal                              Devanagari                              
-   943 : dv-rsignvocal                                     dvRvocalsign             dv-rsignvocal                           Devanagari                              
+   944 : dv-rrvocalsign                                    dvRrvocalsign            dv-rrvocalsign                          Devanagari                              
    90B : dv-rvocal                                         dvRvocal                 dv-rvocal                               Devanagari                              
+   943 : dv-rvocalsign                                     dvRvocalsign             dv-rvocalsign                           Devanagari                              
    938 : dv-sa                                             dvSa                     dv-sa                                   Devanagari                              
    96D : dv-seven                                          dvSeven                  dv-seven                                Devanagari                              
    936 : dv-sha                                            dvSha                    dv-sha                                  Devanagari                              
@@ -1438,10 +1529,10 @@ Gujarati
    A96 : gjrt-kha                                          gjKha                    gjrt-kha                                Gujarati                                
    AB2 : gjrt-la                                           gjLa                     gjrt-la                                 Gujarati                                
    AB3 : gjrt-lla                                          gjLla                    gjrt-lla                                Gujarati                                
-   AE3 : gjrt-llsignvocal                                  gjLlvocalsign            gjrt-llsignvocal                        Gujarati                                
    AE1 : gjrt-llvocal                                      gjLlvocal                gjrt-llvocal                            Gujarati                                
-   AE2 : gjrt-lsignvocal                                   gjLvocalsign             gjrt-lsignvocal                         Gujarati                                
+   AE3 : gjrt-llvocalsign                                  gjLlvocalsign            gjrt-llvocalsign                        Gujarati                                
    A8C : gjrt-lvocal                                       gjLvocal                 gjrt-lvocal                             Gujarati                                
+   AE2 : gjrt-lvocalsign                                   gjLvocalsign             gjrt-lvocalsign                         Gujarati                                
    AAE : gjrt-ma                                           gjMa                     gjrt-ma                                 Gujarati                                
    AA8 : gjrt-na                                           gjNa                     gjrt-na                                 Gujarati                                
    A99 : gjrt-nga                                          gjNga                    gjrt-nga                                Gujarati                                
@@ -1458,11 +1549,11 @@ Gujarati
    AAA : gjrt-pa                                           gjPa                     gjrt-pa                                 Gujarati                                
    AAB : gjrt-pha                                          gjPha                    gjrt-pha                                Gujarati                                
    AB0 : gjrt-ra                                           gjRa                     gjrt-ra                                 Gujarati                                
-   AC4 : gjrt-rrsignvocal                                  gjRrvocalsign            gjrt-rrsignvocal                        Gujarati                                
    AE0 : gjrt-rrvocal                                      gjRrvocal                gjrt-rrvocal                            Gujarati                                
-   AC3 : gjrt-rsignvocal                                   gjRvocalsign             gjrt-rsignvocal                         Gujarati                                
+   AC4 : gjrt-rrvocalsign                                  gjRrvocalsign            gjrt-rrvocalsign                        Gujarati                                
    AF1 : gjrt-rupee                                        gjRupee                  gjrt-rupee                              Gujarati                                
    A8B : gjrt-rvocal                                       gjRvocal                 gjrt-rvocal                             Gujarati                                
+   AC3 : gjrt-rvocalsign                                   gjRvocalsign             gjrt-rvocalsign                         Gujarati                                
    AB8 : gjrt-sa                                           gjSa                     gjrt-sa                                 Gujarati                                
    AED : gjrt-seven                                        gjSeven                  gjrt-seven                              Gujarati                                
    AB6 : gjrt-sha                                          gjSha                    gjrt-sha                                Gujarati                                
@@ -1555,9 +1646,6 @@ Gurmukhi
    A2F : grmk-ya                                           guYa                     grmk-ya                                 Gurmukhi                                
    A5B : grmk-za                                           guZa                     grmk-za                                 Gurmukhi                                
    A66 : grmk-zero                                         guZero                   grmk-zero                               Gurmukhi                                
-
-Halfwidth and Fullwidth Forms
-  FF5C : hlfw-barfullwidth                                 linevertfullwidth        hlfw-barfullwidth                       Halfwidth and Fullwidth Forms           
 
 Hangul Jamo
   116C : ko-hanguljungseongoe                              -                        ko-hanguljungseongoe                    Hangul Jamo                             
@@ -1662,7 +1750,9 @@ Kannada
    CB2 : kn-la                                             knLa                     kn-la                                   Kannada                                 
    CB3 : kn-lla                                            knLla                    kn-lla                                  Kannada                                 
    CE1 : kn-llvocal                                        knLlvocal                kn-llvocal                              Kannada                                 
+   CE3 : kn-llvocalsign                                    knLlvocalsign            kn-llvocalsign                          Kannada                                 
    C8C : kn-lvocal                                         knLvocal                 kn-lvocal                               Kannada                                 
+   CE2 : kn-lvocalsign                                     knLvocalsign             kn-lvocalsign                           Kannada                                 
    CAE : kn-ma                                             knMa                     kn-ma                                   Kannada                                 
    CA8 : kn-na                                             knNa                     kn-na                                   Kannada                                 
    C99 : kn-nga                                            knNga                    kn-nga                                  Kannada                                 
@@ -1680,7 +1770,9 @@ Kannada
    CB0 : kn-ra                                             knRa                     kn-ra                                   Kannada                                 
    CB1 : kn-rra                                            knRra                    kn-rra                                  Kannada                                 
    CE0 : kn-rrvocal                                        knRrvocal                kn-rrvocal                              Kannada                                 
+   CC4 : kn-rrvocalsign                                    knRrvocalsign            kn-rrvocalsign                          Kannada                                 
    C8B : kn-rvocal                                         knRvocal                 kn-rvocal                               Kannada                                 
+   CC3 : kn-rvocalsign                                     knRvocalsign             kn-rvocalsign                           Kannada                                 
    CB8 : kn-sa                                             knSa                     kn-sa                                   Kannada                                 
    CED : kn-seven                                          knSeven                  kn-seven                                Kannada                                 
    CB6 : kn-sha                                            knSha                    kn-sha                                  Kannada                                 
@@ -1737,6 +1829,9 @@ Latin-1 Supplement
     EF : idieresis                                         idieresis                idieresis                               Latin-1 Supplement                      
     EC : igrave                                            igrave                   igrave                                  Latin-1 Supplement                      
     F6 : odieresis                                         odieresis                odieresis                               Latin-1 Supplement                      
+    BD : onehalf                                           onehalf                  onehalf                                 Latin-1 Supplement                      
+    BC : onequarter                                        onequarter               onequarter                              Latin-1 Supplement                      
+    BE : threequarters                                     threequarters            threequarters                           Latin-1 Supplement                      
     FC : udieresis                                         udieresis                udieresis                               Latin-1 Supplement                      
 
 Letterlike Symbols
@@ -1744,6 +1839,89 @@ Letterlike Symbols
   2138 : lttr-dalet                                        -                        lttr-dalet                              Letterlike Symbols                      
   2137 : lttr-gimel                                        -                        lttr-gimel                              Letterlike Symbols                      
   210A : lttr-gscript                                      gscriptmath              lttr-gscript                            Letterlike Symbols                      
+
+Malayalam
+   D05 : ma-a                                              mlA                      ma-a                                    Malayalam                               
+   D06 : ma-aa                                             mlAa                     ma-aa                                   Malayalam                               
+   D3E : ma-aasign                                         mlAasign                 ma-aasign                               Malayalam                               
+   D10 : ma-ai                                             mlAi                     ma-ai                                   Malayalam                               
+   D48 : ma-aisign                                         mlAisign                 ma-aisign                               Malayalam                               
+   D14 : ma-au                                             mlAu                     ma-au                                   Malayalam                               
+   D4C : ma-ausign                                         mlAusign                 ma-ausign                               Malayalam                               
+   D2C : ma-ba                                             mlBa                     ma-ba                                   Malayalam                               
+   D2D : ma-bha                                            mlBha                    ma-bha                                  Malayalam                               
+   D1A : ma-ca                                             mlCa                     ma-ca                                   Malayalam                               
+   D1B : ma-cha                                            mlCha                    ma-cha                                  Malayalam                               
+   D26 : ma-da                                             mlDa                     ma-da                                   Malayalam                               
+   D79 : ma-date                                           mlDate                   ma-date                                 Malayalam                               
+   D21 : ma-dda                                            mlDda                    ma-dda                                  Malayalam                               
+   D22 : ma-ddha                                           mlDdha                   ma-ddha                                 Malayalam                               
+   D27 : ma-dha                                            mlDha                    ma-dha                                  Malayalam                               
+   D0E : ma-e                                              mlE                      ma-e                                    Malayalam                               
+   D0F : ma-ee                                             mlEe                     ma-ee                                   Malayalam                               
+   D47 : ma-eesign                                         mlEesign                 ma-eesign                               Malayalam                               
+   D6E : ma-eight                                          mlEight                  ma-eight                                Malayalam                               
+   D46 : ma-esign                                          mlEsign                  ma-esign                                Malayalam                               
+   D6B : ma-five                                           mlFive                   ma-five                                 Malayalam                               
+   D6A : ma-four                                           mlFour                   ma-four                                 Malayalam                               
+   D17 : ma-ga                                             mlGa                     ma-ga                                   Malayalam                               
+   D18 : ma-gha                                            mlGha                    ma-gha                                  Malayalam                               
+   D39 : ma-ha                                             mlHa                     ma-ha                                   Malayalam                               
+   D07 : ma-i                                              mlI                      ma-i                                    Malayalam                               
+   D08 : ma-ii                                             mlIi                     ma-ii                                   Malayalam                               
+   D40 : ma-iisign                                         mlIisign                 ma-iisign                               Malayalam                               
+   D3F : ma-isign                                          mlIsign                  ma-isign                                Malayalam                               
+   D1C : ma-ja                                             mlJa                     ma-ja                                   Malayalam                               
+   D1D : ma-jha                                            mlJha                    ma-jha                                  Malayalam                               
+   D15 : ma-ka                                             mlKa                     ma-ka                                   Malayalam                               
+   D16 : ma-kha                                            mlKha                    ma-kha                                  Malayalam                               
+   D32 : ma-la                                             mlLa                     ma-la                                   Malayalam                               
+   D33 : ma-lla                                            mlLla                    ma-lla                                  Malayalam                               
+   D34 : ma-llla                                           mlLlla                   ma-llla                                 Malayalam                               
+   D61 : ma-llvocal                                        mlLlvocal                ma-llvocal                              Malayalam                               
+   D63 : ma-llvocalsign                                    mlLlvocalsign            ma-llvocalsign                          Malayalam                               
+   D0C : ma-lvocal                                         mlLvocal                 ma-lvocal                               Malayalam                               
+   D62 : ma-lvocalsign                                     mlLvocalsign             ma-lvocalsign                           Malayalam                               
+   D2E : ma-ma                                             mlMa                     ma-ma                                   Malayalam                               
+   D28 : ma-na                                             mlNa                     ma-na                                   Malayalam                               
+   D19 : ma-nga                                            mlNga                    ma-nga                                  Malayalam                               
+   D6F : ma-nine                                           mlNine                   ma-nine                                 Malayalam                               
+   D23 : ma-nna                                            mlNna                    ma-nna                                  Malayalam                               
+   D1E : ma-nya                                            mlNya                    ma-nya                                  Malayalam                               
+   D12 : ma-o                                              mlO                      ma-o                                    Malayalam                               
+   D67 : ma-one                                            mlOne                    ma-one                                  Malayalam                               
+   D74 : ma-onehalf                                        mlOneHalf                ma-onehalf                              Malayalam                               
+   D73 : ma-onequarter                                     mlOneQuarter             ma-onequarter                           Malayalam                               
+   D13 : ma-oo                                             mlOo                     ma-oo                                   Malayalam                               
+   D4B : ma-oosign                                         mlOosign                 ma-oosign                               Malayalam                               
+   D4A : ma-osign                                          mlOsign                  ma-osign                                Malayalam                               
+   D2A : ma-pa                                             mlPa                     ma-pa                                   Malayalam                               
+   D2B : ma-pha                                            mlPha                    ma-pha                                  Malayalam                               
+   D30 : ma-ra                                             mlRa                     ma-ra                                   Malayalam                               
+   D31 : ma-rra                                            mlRra                    ma-rra                                  Malayalam                               
+   D60 : ma-rrvocal                                        mlRrvocal                ma-rrvocal                              Malayalam                               
+   D44 : ma-rrvocalsign                                    mlRrvocalsign            ma-rrvocalsign                          Malayalam                               
+   D0B : ma-rvocal                                         mlRvocal                 ma-rvocal                               Malayalam                               
+   D43 : ma-rvocalsign                                     mlRvocalsign             ma-rvocalsign                           Malayalam                               
+   D38 : ma-sa                                             mlSa                     ma-sa                                   Malayalam                               
+   D6D : ma-seven                                          mlSeven                  ma-seven                                Malayalam                               
+   D36 : ma-sha                                            mlSha                    ma-sha                                  Malayalam                               
+   D6C : ma-six                                            mlSix                    ma-six                                  Malayalam                               
+   D37 : ma-ssa                                            mlSsa                    ma-ssa                                  Malayalam                               
+   D24 : ma-ta                                             mlTa                     ma-ta                                   Malayalam                               
+   D25 : ma-tha                                            mlTha                    ma-tha                                  Malayalam                               
+   D69 : ma-three                                          mlThree                  ma-three                                Malayalam                               
+   D75 : ma-threequarters                                  mlThreeQuarters          ma-threequarters                        Malayalam                               
+   D1F : ma-tta                                            mlTta                    ma-tta                                  Malayalam                               
+   D20 : ma-ttha                                           mlTtha                   ma-ttha                                 Malayalam                               
+   D68 : ma-two                                            mlTwo                    ma-two                                  Malayalam                               
+   D09 : ma-u                                              mlU                      ma-u                                    Malayalam                               
+   D41 : ma-usign                                          mlUsign                  ma-usign                                Malayalam                               
+   D0A : ma-uu                                             mlUu                     ma-uu                                   Malayalam                               
+   D42 : ma-uusign                                         mlUusign                 ma-uusign                               Malayalam                               
+   D35 : ma-va                                             mlVa                     ma-va                                   Malayalam                               
+   D2F : ma-ya                                             mlYa                     ma-ya                                   Malayalam                               
+   D66 : ma-zero                                           mlZero                   ma-zero                                 Malayalam                               
 
 Mathematical Operators
   221B : mthm-cuberoot                                     -                        mthm-cuberoot                           Mathematical Operators                  
@@ -1835,17 +2013,17 @@ Oriya
    B08 : ry-ii                                             odIi                     ry-ii                                   Oriya                                   
    B40 : ry-iisign                                         odIisign                 ry-iisign                               Oriya                                   
    B3F : ry-isign                                          odIsign                  ry-isign                                Oriya                                   
-   B70 : isshar                                            odIsshar                 isshar                                  Oriya                                   
+   B70 : ry-isshar                                         odIsshar                 ry-isshar                               Oriya                                   
    B1C : ry-ja                                             odJa                     ry-ja                                   Oriya                                   
    B1D : ry-jha                                            odJha                    ry-jha                                  Oriya                                   
    B15 : ry-ka                                             odKa                     ry-ka                                   Oriya                                   
    B16 : ry-kha                                            odKha                    ry-kha                                  Oriya                                   
    B32 : ry-la                                             odLa                     ry-la                                   Oriya                                   
    B33 : ry-lla                                            odLla                    ry-lla                                  Oriya                                   
-   B63 : ry-llsignvocal                                    odLlvocalsign            ry-llsignvocal                          Oriya                                   
    B61 : ry-llvocal                                        odLlvocal                ry-llvocal                              Oriya                                   
-   B62 : ry-lsignvocal                                     odLvocalsign             ry-lsignvocal                           Oriya                                   
+   B63 : ry-llvocalsign                                    odLlvocalsign            ry-llvocalsign                          Oriya                                   
    B0C : ry-lvocal                                         odLvocal                 ry-lvocal                               Oriya                                   
+   B62 : ry-lvocalsign                                     odLvocalsign             ry-lvocalsign                           Oriya                                   
    B2E : ry-ma                                             odMa                     ry-ma                                   Oriya                                   
    B28 : ry-na                                             odNa                     ry-na                                   Oriya                                   
    B19 : ry-nga                                            odNga                    ry-nga                                  Oriya                                   
@@ -1861,10 +2039,10 @@ Oriya
    B30 : ry-ra                                             odRa                     ry-ra                                   Oriya                                   
    B5D : ry-rha                                            odRha                    ry-rha                                  Oriya                                   
    B5C : ry-rra                                            odRra                    ry-rra                                  Oriya                                   
-   B44 : ry-rrsignvocal                                    odRrvocalsign            ry-rrsignvocal                          Oriya                                   
    B60 : ry-rrvocal                                        odRrvocal                ry-rrvocal                              Oriya                                   
-   B43 : ry-rsignvocal                                     odRvocalsign             ry-rsignvocal                           Oriya                                   
+   B44 : ry-rrvocalsign                                    odRrvocalsign            ry-rrvocalsign                          Oriya                                   
    B0B : ry-rvocal                                         odRvocal                 ry-rvocal                               Oriya                                   
+   B43 : ry-rvocalsign                                     odRvocalsign             ry-rvocalsign                           Oriya                                   
    B38 : ry-sa                                             odSa                     ry-sa                                   Oriya                                   
    B6D : ry-seven                                          odSeven                  ry-seven                                Oriya                                   
    B36 : ry-sha                                            odSha                    ry-sha                                  Oriya                                   

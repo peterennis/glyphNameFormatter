@@ -1,7 +1,7 @@
 
 def process(self):
-    self.edit("VOWEL SIGN", "sign")
     self.edit("VOWEL SIGN VOCALIC", "vocalsign")
+    self.edit("VOWEL SIGN", "sign")
     self.edit("VOCALIC", "vocal")
     self.edit("SIGN NUKTA", "nukta")
     self.edit("SIGN VIRAMA", "virama")

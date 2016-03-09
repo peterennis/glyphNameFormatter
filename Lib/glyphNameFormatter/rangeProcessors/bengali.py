@@ -3,6 +3,10 @@ def process(self):
     self.edit("BENGALI")
     self.edit("LETTER")
     self.edit("DIGIT")
+    self.edit("VOWEL SIGN VOCALIC", "vocalsign")
+    self.edit("VOWEL SIGN", "sign")
+    self.edit("VOCALIC", "vocal")
+
     self.edit("NUMERATOR ONE LESS THAN THE DENOMINATOR", "oneless")
     self.edit("CURRENCY NUMERATOR", "currency", "numerator")
     self.edit("CURRENCY DENOMINATOR", "currency", "denominator")
