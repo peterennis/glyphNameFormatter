@@ -20,16 +20,24 @@ def findConflict():
                 names[name].append((uniNumber, glyphName.uniRangeName))
     n = names.keys()
     n.sort()
+
+    conflictNames = []
+    conflictUniNumbers = []
     for name in n:
         if len(names[name]) > 1:
+            conflictNames.append(name)
             l = "\n%s" % (name)
             print l
             lines.append(l)
             for g in names[name]:
-                AGLname = unicode2name_AGD.get(g[0], "")
+                conflictUniNumbers.append(g[0])
+                AGLname = unicode2name_AGD.get(g[0], "-")
                 line = "        %04X%20s%20s%40s"%(g[0], name, AGLname, g[1])
                 print line
                 lines.append(line)
+    stats =  "# %d names with conflicts, affecting %d unicodes"%(len(conflictNames), len(conflictUniNumbers))
+    print stats
+    lines.append(stats)
 
 
     path = "./../names/conflict.txt"

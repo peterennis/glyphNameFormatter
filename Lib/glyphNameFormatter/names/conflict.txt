@@ -2,8 +2,8 @@
 A
         0041                   A                   A                             Basic Latin
         0410                   A                Acyr                                Cyrillic
-        0F68                   A                                                     Tibetan
-        1820                   A                                                   Mongolian
+        0F68                   A                   -                                 Tibetan
+        1820                   A                   -                               Mongolian
 
 Abreve
         0102              Abreve              Abreve                        Latin Extended-A
@@ -14,32 +14,32 @@ Adieresis
         04D2           Adieresis        Adieresiscyr                                Cyrillic
 
 BA
-        0F56                  BA                                                     Tibetan
-        182A                  BA                                                   Mongolian
+        0F56                  BA                   -                                 Tibetan
+        182A                  BA                   -                               Mongolian
 
 CHA
-        0F46                 CHA                                                     Tibetan
-        1834                 CHA                                                   Mongolian
+        0F46                 CHA                   -                                 Tibetan
+        1834                 CHA                   -                               Mongolian
 
 DA
-        0F51                  DA                                                     Tibetan
-        1833                  DA                                                   Mongolian
+        0F51                  DA                   -                                 Tibetan
+        1833                  DA                   -                               Mongolian
 
 E
         0045                   E                   E                             Basic Latin
-        1821                   E                                                   Mongolian
+        1821                   E                   -                               Mongolian
 
 Edieresis
         00CB           Edieresis           Edieresis                      Latin-1 Supplement
-        04EC           Edieresis                                                    Cyrillic
+        04EC           Edieresis                   -                                Cyrillic
 
 Ereversed
         018E           Ereversed             Eturned                        Latin Extended-B
         042D           Ereversed                Ecyr                                Cyrillic
 
 GA
-        0F42                  GA                                                     Tibetan
-        182D                  GA                                                   Mongolian
+        0F42                  GA                   -                                 Tibetan
+        182D                  GA                   -                               Mongolian
 
 Gamma
         0194               Gamma          Gammalatin                        Latin Extended-B
@@ -48,7 +48,7 @@ Gamma
 I
         0049                   I                   I                             Basic Latin
         0418                   I                Icyr                                Cyrillic
-        1822                   I                                                   Mongolian
+        1822                   I                   -                               Mongolian
 
 Idieresis
         00CF           Idieresis           Idieresis                      Latin-1 Supplement
@@ -67,41 +67,41 @@ Iota
         0399                Iota                Iota                        Greek and Coptic
 
 JA
-        0F47                  JA                                                     Tibetan
-        1835                  JA                                                   Mongolian
+        0F47                  JA                   -                                 Tibetan
+        1835                  JA                   -                               Mongolian
 
 KA
-        0F40                  KA                                                     Tibetan
-        183A                  KA                                                   Mongolian
+        0F40                  KA                   -                                 Tibetan
+        183A                  KA                   -                               Mongolian
 
 KHA
-        0F41                 KHA                                                     Tibetan
-        183B                 KHA                                                   Mongolian
+        0F41                 KHA                   -                                 Tibetan
+        183B                 KHA                   -                               Mongolian
 
 Koppa
         03DE               Koppa          Koppagreek                        Greek and Coptic
         0480               Koppa       Koppacyrillic                                Cyrillic
 
 LA
-        0F63                  LA                                                     Tibetan
-        182F                  LA                                                   Mongolian
+        0F63                  LA                   -                                 Tibetan
+        182F                  LA                   -                               Mongolian
 
 MA
-        0F58                  MA                                                     Tibetan
-        182E                  MA                                                   Mongolian
+        0F58                  MA                   -                                 Tibetan
+        182E                  MA                   -                               Mongolian
 
 NA
-        0F53                  NA                                                     Tibetan
-        1828                  NA                                                   Mongolian
+        0F53                  NA                   -                                 Tibetan
+        1828                  NA                   -                               Mongolian
 
 O
         004F                   O                   O                             Basic Latin
         041E                   O                Ocyr                                Cyrillic
-        1823                   O                                                   Mongolian
+        1823                   O                   -                               Mongolian
 
 OE
         0152                  OE                  OE                        Latin Extended-A
-        1825                  OE                                                   Mongolian
+        1825                  OE                   -                               Mongolian
 
 Obar
         019F                Obar                Obar                        Latin Extended-B
@@ -116,24 +116,24 @@ Omega
         0460               Omega       Omegacyrillic                                Cyrillic
 
 PA
-        0F54                  PA                                                     Tibetan
-        182B                  PA                                                   Mongolian
+        0F54                  PA                   -                                 Tibetan
+        182B                  PA                   -                               Mongolian
 
 Psi
         03A8                 Psi                 Psi                        Greek and Coptic
         0470                 Psi         Psicyrillic                                Cyrillic
 
 RA
-        0F62                  RA                                                     Tibetan
-        1837                  RA                                                   Mongolian
+        0F62                  RA                   -                                 Tibetan
+        1837                  RA                   -                               Mongolian
 
 SA
-        0F66                  SA                                                     Tibetan
-        1830                  SA                                                   Mongolian
+        0F66                  SA                   -                                 Tibetan
+        1830                  SA                   -                               Mongolian
 
 SHA
-        0F64                 SHA                                                     Tibetan
-        1831                 SHA                                                   Mongolian
+        0F64                 SHA                   -                                 Tibetan
+        1831                 SHA                   -                               Mongolian
 
 Schwa
         018F               Schwa               Schwa                        Latin Extended-B
@@ -144,17 +144,17 @@ Sha
         0547                 Sha         Shaarmenian                                Armenian
 
 TA
-        0F4F                  TA                                                     Tibetan
-        1832                  TA                                                   Mongolian
+        0F4F                  TA                   -                                 Tibetan
+        1832                  TA                   -                               Mongolian
 
 TSA
-        0F59                 TSA                                                     Tibetan
-        183C                 TSA                                                   Mongolian
+        0F59                 TSA                   -                                 Tibetan
+        183C                 TSA                   -                               Mongolian
 
 U
         0055                   U                   U                             Basic Latin
         0423                   U                Ucyr                                Cyrillic
-        1824                   U                                                   Mongolian
+        1824                   U                   -                               Mongolian
 
 Udieresis
         00DC           Udieresis           Udieresis                      Latin-1 Supplement
@@ -169,20 +169,20 @@ Upsilon
         03A5             Upsilon             Upsilon                        Greek and Coptic
 
 WA
-        0F5D                  WA                                                     Tibetan
-        1838                  WA                                                   Mongolian
+        0F5D                  WA                   -                                 Tibetan
+        1838                  WA                   -                               Mongolian
 
 YA
-        0F61                  YA                                                     Tibetan
-        1836                  YA                                                   Mongolian
+        0F61                  YA                   -                                 Tibetan
+        1836                  YA                   -                               Mongolian
 
 Yi
         0407                  Yi                  Yi                                Cyrillic
         0545                  Yi          Yiarmenian                                Armenian
 
 ZA
-        0F5F                  ZA                                                     Tibetan
-        183D                  ZA                                                   Mongolian
+        0F5F                  ZA                   -                                 Tibetan
+        183D                  ZA                   -                               Mongolian
 
 Zhe
         0416                 Zhe                 Zhe                                Cyrillic
@@ -260,7 +260,7 @@ barfullwidth
 
 bet
         05D1                 bet               heBet                                  Hebrew
-        2136                 bet                                          Letterlike Symbols
+        2136                 bet                   -                      Letterlike Symbols
 
 bha
         092D                 bha               dvBha                              Devanagari
@@ -282,8 +282,8 @@ comma
         060C               comma             arComma                                  Arabic
 
 cuberoot
-        0606            cuberoot                                                      Arabic
-        221B            cuberoot                                      Mathematical Operators
+        0606            cuberoot                   -                                  Arabic
+        221B            cuberoot                   -                  Mathematical Operators
 
 da
         0564                  da          daarmenian                                Armenian
@@ -292,7 +292,7 @@ da
 
 dalet
         05D3               dalet             heDalet                                  Hebrew
-        2138               dalet                                          Letterlike Symbols
+        2138               dalet                   -                      Letterlike Symbols
 
 dda
         0921                 dda               dvDda                              Devanagari
@@ -304,7 +304,7 @@ ddha
 
 delta
         03B4               delta               delta                        Greek and Coptic
-        1E9F               delta                                   Latin Extended Additional
+        1E9F               delta                   -               Latin Extended Additional
 
 dha
         0927                 dha               dvDha                              Devanagari
@@ -327,14 +327,14 @@ e
 
 edieresis
         00EB           edieresis           edieresis                      Latin-1 Supplement
-        04ED           edieresis                                                    Cyrillic
+        04ED           edieresis                   -                                Cyrillic
 
 eight
         0038               eight               eight                             Basic Latin
         0668               eight             arEight                                  Arabic
         096E               eight             dvEight                              Devanagari
         0CEE               eight             knEight                                 Kannada
-        0F28               eight                                                     Tibetan
+        0F28               eight                   -                                 Tibetan
 
 esign
         0947               esign             dvEsign                              Devanagari
@@ -357,18 +357,18 @@ five
         0665                five              arFive                                  Arabic
         096B                five              dvFive                              Devanagari
         0CEB                five              knFive                                 Kannada
-        0F25                five                                                     Tibetan
+        0F25                five                   -                                 Tibetan
 
 four
         0034                four                four                             Basic Latin
         0664                four              arFour                                  Arabic
         096A                four              dvFour                              Devanagari
         0CEA                four              knFour                                 Kannada
-        0F24                four                                                     Tibetan
+        0F24                four                   -                                 Tibetan
 
 fourthroot
-        0607          fourthroot                                                      Arabic
-        221C          fourthroot                                      Mathematical Operators
+        0607          fourthroot                   -                                  Arabic
+        221C          fourthroot                   -                  Mathematical Operators
 
 ga
         0917                  ga                dvGa                              Devanagari
@@ -384,7 +384,7 @@ gha
 
 gimel
         05D2               gimel             heGimel                                  Hebrew
-        2137               gimel                                          Letterlike Symbols
+        2137               gimel                   -                      Letterlike Symbols
 
 glottalstop
         0242         glottalstop    glottalstoplatin                        Latin Extended-B
@@ -405,12 +405,12 @@ ha
         0CB9                  ha                knHa                                 Kannada
 
 hanguljungseongoe
-        116C   hanguljungseongoe                                                 Hangul Jamo
-        1180   hanguljungseongoe                                                 Hangul Jamo
+        116C   hanguljungseongoe                   -                             Hangul Jamo
+        1180   hanguljungseongoe                   -                             Hangul Jamo
 
 hyphen
         002D              hyphen              hyphen                             Basic Latin
-        058A              hyphen                                                    Armenian
+        058A              hyphen                   -                                Armenian
         2010              hyphen           hyphentwo                     General Punctuation
 
 i
@@ -474,7 +474,7 @@ kha
         0C96                 kha               knKha                                 Kannada
 
 koppa
-        03DF               koppa                                            Greek and Coptic
+        03DF               koppa                   -                        Greek and Coptic
         0481               koppa       koppacyrillic                                Cyrillic
 
 la
@@ -518,7 +518,7 @@ nine
         0669                nine              arNine                                  Arabic
         096F                nine              dvNine                              Devanagari
         0CEF                nine              knNine                                 Kannada
-        0F29                nine                                                     Tibetan
+        0F29                nine                   -                                 Tibetan
 
 nna
         0923                 nna               dvNna                              Devanagari
@@ -559,7 +559,7 @@ one
         0661                 one               arOne                                  Arabic
         0967                 one               dvOne                              Devanagari
         0CE7                 one               knOne                                 Kannada
-        0F21                 one                                                     Tibetan
+        0F21                 one                   -                                 Tibetan
 
 osign
         094B               osign             dvOsign                              Devanagari
@@ -588,10 +588,10 @@ period
 
 perpendicular
         22A5       perpendicular       perpendicular                  Mathematical Operators
-        27C2       perpendicular                        Miscellaneous Mathematical Symbols-A
+        27C2       perpendicular                   -    Miscellaneous Mathematical Symbols-A
 
 perthousand
-        060A         perthousand                                                      Arabic
+        060A         perthousand                   -                                  Arabic
         2030         perthousand         perthousand                     General Punctuation
 
 pha
@@ -658,7 +658,7 @@ seven
         0667               seven             arSeven                                  Arabic
         096D               seven             dvSeven                              Devanagari
         0CED               seven             knSeven                                 Kannada
-        0F27               seven                                                     Tibetan
+        0F27               seven                   -                                 Tibetan
 
 sha
         0448                 sha                 sha                                Cyrillic
@@ -671,7 +671,7 @@ six
         0666                 six               arSix                                  Arabic
         096C                 six               dvSix                              Devanagari
         0CEC                 six               knSix                                 Kannada
-        0F26                 six                                                     Tibetan
+        0F26                 six                   -                                 Tibetan
 
 ssa
         0937                 ssa               dvSsa                              Devanagari
@@ -694,7 +694,7 @@ three
         0663               three             arThree                                  Arabic
         0969               three             dvThree                              Devanagari
         0CE9               three             knThree                                 Kannada
-        0F23               three                                                     Tibetan
+        0F23               three                   -                                 Tibetan
 
 tta
         091F                 tta               dvTta                              Devanagari
@@ -709,7 +709,7 @@ two
         0662                 two               arTwo                                  Arabic
         0968                 two               dvTwo                              Devanagari
         0CE8                 two               knTwo                                 Kannada
-        0F22                 two                                                     Tibetan
+        0F22                 two                   -                                 Tibetan
 
 u
         0075                   u                   u                             Basic Latin
@@ -780,8 +780,9 @@ zero
         0660                zero              arZero                                  Arabic
         0966                zero              dvZero                              Devanagari
         0CE6                zero              knZero                                 Kannada
-        0F20                zero                                                     Tibetan
+        0F20                zero                   -                                 Tibetan
 
 zhe
         0436                 zhe                 zhe                                Cyrillic
         056A                 zhe         zhearmenian                                Armenian
+# 181 names with conflicts, affecting 425 unicodes
