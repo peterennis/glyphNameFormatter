@@ -14,6 +14,8 @@ def testAGDCoverage():
     for name in name2unicode_AGD:
         uniNumber = name2unicode_AGD[name]
         thisRange = getRangeName(uniNumber)
+        if thisRange == "Private Use Area":
+            continue
         if thisRange not in glyphCount:
             glyphCount[thisRange] = 0
         glyphCount[thisRange] += 1
@@ -25,6 +27,8 @@ def testAGDCoverage():
     notSupported = []
     notNeeded = []
     for name in wantRanges:
+        if name == "Private Use Area":
+            continue
         moduleName = rangeNameToModuleName(name)
         try:
             module = importlib.import_module('glyphNameFormatter.rangeProcessors.%s' % moduleName)
