@@ -84,6 +84,7 @@
    D05 : ma-a                                              mlA                      ma-a                                    Malayalam                               
    F68 : tb-a                                              -                        tb-a                                    Tibetan                                 
   1820 : mo-a                                              -                        mo-a                                    Mongolian                               
+  311A : bpmf-a                                            abopomofo                bpmf-a                                  Bopomofo                                
   A984 : ja-a                                              -                        ja-a                                    Javanese                                
 
    906 : dv-aa                                             dvAa                     dv-aa                                   Devanagari                              
@@ -123,6 +124,7 @@
    B10 : ry-ai                                             odAi                     ry-ai                                   Oriya                                   
    C90 : kn-ai                                             knAi                     kn-ai                                   Kannada                                 
    D10 : ma-ai                                             mlAi                     ma-ai                                   Malayalam                               
+  311E : bpmf-ai                                           aibopomofo               bpmf-ai                                 Bopomofo                                
   A98D : ja-ai                                             -                        ja-ai                                   Javanese                                
 
    639 : ar-ain                                            arAin                    ar-ain                                  Arabic                                  
@@ -143,7 +145,10 @@
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        
 
     26 : ampersand                                         ampersand                ampersand                               Basic Latin                             
-  FE60 : ampersand                                         -                        ampersand                               Small Form Variants                     
+  FE60 : smll-ampersand                                    -                        smll-ampersand                          Small Form Variants                     
+
+  1829 : mo-ang                                            -                        mo-ang                                  Mongolian                               
+  3124 : bpmf-ang                                          angbopomofo              bpmf-ang                                Bopomofo                                
 
    902 : dv-anusvara                                       dvAnusvara               dv-anusvara                             Devanagari                              
    982 : bngl-anusvara                                     beAnusvara               bngl-anusvara                           Bengali                                 
@@ -152,7 +157,7 @@
    C82 : kn-anusvara                                       knAnusvara               kn-anusvara                             Kannada                                 
 
     2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             
-  FE61 : asterisk                                          asterisksmall            asterisk                                Small Form Variants                     
+  FE61 : smll-asterisk                                     asterisksmall            smll-asterisk                           Small Form Variants                     
 
    914 : dv-au                                             dvAu                     dv-au                                   Devanagari                              
    994 : bngl-au                                           beAu                     bngl-au                                 Bengali                                 
@@ -161,6 +166,7 @@
    B14 : ry-au                                             odAu                     ry-au                                   Oriya                                   
    C94 : kn-au                                             knAu                     kn-au                                   Kannada                                 
    D14 : ma-au                                             mlAu                     ma-au                                   Malayalam                               
+  3120 : bpmf-au                                           aubopomofo               bpmf-au                                 Bopomofo                                
   A737 : au                                                -                        au                                      Latin Extended-D                        
 
    94C : dv-ausign                                         dvAusign                 dv-ausign                               Devanagari                              
@@ -177,6 +183,9 @@
    B3D : ry-avagraha                                       odAvagraha               ry-avagraha                             Oriya                                   
    CBD : kn-avagraha                                       knAvagraha               kn-avagraha                             Kannada                                 
 
+    62 : b                                                 b                        b                                       Basic Latin                             
+  3105 : bpmf-b                                            bbopomofo                bpmf-b                                  Bopomofo                                
+
    92C : dv-ba                                             dvBa                     dv-ba                                   Devanagari                              
    9AC : bngl-ba                                           beBa                     bngl-ba                                 Bengali                                 
    A2C : grmk-ba                                           guBa                     grmk-ba                                 Gurmukhi                                
@@ -189,7 +198,7 @@
   A9A7 : ja-ba                                             -                        ja-ba                                   Javanese                                
 
     5C : backslash                                         backslash                backslash                               Basic Latin                             
-  FE68 : backslash                                         -                        backslash                               Small Form Variants                     
+  FE68 : smll-backslash                                    -                        smll-backslash                          Small Form Variants                     
 
    5D1 : hb-bet                                            heBet                    hb-bet                                  Hebrew                                  
   2136 : lttr-bet                                          -                        lttr-bet                                Letterlike Symbols                      
@@ -204,10 +213,13 @@
    F57 : tb-bha                                            -                        tb-bha                                  Tibetan                                 
 
     7B : braceleft                                         braceleft                braceleft                               Basic Latin                             
-  FE5B : braceleft                                         braceleftsmall           braceleft                               Small Form Variants                     
+  FE5B : smll-braceleft                                    braceleftsmall           smll-braceleft                          Small Form Variants                     
 
     7D : braceright                                        braceright               braceright                              Basic Latin                             
-  FE5C : braceright                                        bracerightsmall          braceright                              Small Form Variants                     
+  FE5C : smll-braceright                                   bracerightsmall          smll-braceright                         Small Form Variants                     
+
+    63 : c                                                 c                        c                                       Basic Latin                             
+  3118 : bpmf-c                                            cbopomofo                bpmf-c                                  Bopomofo                                
 
    56E : am-ca                                             caarmenian               am-ca                                   Armenian                                
    91A : dv-ca                                             dvCa                     dv-ca                                   Devanagari                              
@@ -250,6 +262,9 @@
 
    606 : ar-cuberoot                                       -                        ar-cuberoot                             Arabic                                  
   221B : mthm-cuberoot                                     -                        mthm-cuberoot                           Mathematical Operators                  
+
+    64 : d                                                 d                        d                                       Basic Latin                             
+  3109 : bpmf-d                                            dbopomofo                bpmf-d                                  Bopomofo                                
 
    564 : am-da                                             daarmenian               am-da                                   Armenian                                
    926 : dv-da                                             dvDa                     dv-da                                   Devanagari                              
@@ -304,7 +319,7 @@
   2662 : misc-diamondwhite                                 diamondopen              misc-diamondwhite                       Miscellaneous Symbols                   
 
     24 : dollar                                            dollar                   dollar                                  Basic Latin                             
-  FE69 : dollar                                            dollarsmall              dollar                                  Small Form Variants                     
+  FE69 : smll-dollar                                       dollarsmall              smll-dollar                             Small Form Variants                     
 
     65 : e                                                 e                        e                                       Basic Latin                             
    6D0 : ar-e                                              arE                      ar-e                                    Arabic                                  
@@ -315,6 +330,7 @@
    C8E : kn-e                                              knE                      kn-e                                    Kannada                                 
    D0E : ma-e                                              mlE                      ma-e                                    Malayalam                               
   1821 : mo-e                                              -                        mo-e                                    Mongolian                               
+  311C : bpmf-e                                            ebopomofo                bpmf-e                                  Bopomofo                                
   A98C : ja-e                                              -                        ja-e                                    Javanese                                
 
    90D : dv-ecandra                                        dvEcandra                dv-ecandra                              Devanagari                              
@@ -328,6 +344,9 @@
    A47 : grmk-eesign                                       guEesign                 grmk-eesign                             Gurmukhi                                
    CC7 : kn-eesign                                         knEesign                 kn-eesign                               Kannada                                 
    D47 : ma-eesign                                         mlEesign                 ma-eesign                               Malayalam                               
+
+   567 : am-eh                                             eharmenian               am-eh                                   Armenian                                
+  311D : bpmf-eh                                           ehbopomofo               bpmf-eh                                 Bopomofo                                
 
     38 : eight                                             eight                    eight                                   Basic Latin                             
    668 : ar-eight                                          arEight                  ar-eight                                Arabic                                  
@@ -348,14 +367,23 @@
   1801 : mo-ellipsis                                       -                        mo-ellipsis                             Mongolian                               
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     
 
-  2014 : emdash                                            emdash                   emdash                                  General Punctuation                     
-  FE58 : emdash                                            -                        emdash                                  Small Form Variants                     
+  2014 : gnrl-emdash                                       emdash                   gnrl-emdash                             General Punctuation                     
+  FE58 : smll-emdash                                       -                        smll-emdash                             Small Form Variants                     
+
+   43D : encyr                                             en                       encyr                                   Cyrillic                                
+  3123 : bpmf-en                                           enbopomofo               bpmf-en                                 Bopomofo                                
+
+   14B : eng                                               eng                      eng                                     Latin Extended-A                        
+  3125 : bpmf-eng                                          engbopomofo              bpmf-eng                                Bopomofo                                
 
    4C8 : enhookcyr                                         enhookcyrillic           enhookcyr                               Cyrillic                                
    523 : enhookcyr                                         -                        enhookcyr                               Cyrillic Supplement                     
 
     3D : equal                                             equal                    equal                                   Basic Latin                             
-  FE66 : equal                                             equalsmall               equal                                   Small Form Variants                     
+  FE66 : smll-equal                                        equalsmall               smll-equal                              Small Form Variants                     
+
+   440 : ercyr                                             er                       ercyr                                   Cyrillic                                
+  3126 : bpmf-er                                           erbopomofo               bpmf-er                                 Bopomofo                                
 
    258 : ipa-ereversed                                     ereversed                ipa-ereversed                           IPA Extensions                          
    44D : ereversedcyr                                      ecyr                     ereversedcyr                            Cyrillic                                
@@ -376,6 +404,9 @@
     21 : exclam                                            exclam                   exclam                                  Basic Latin                             
    55C : am-exclam                                         exclamarmenian           am-exclam                               Armenian                                
   FE57 : smll-exclam                                       -                        smll-exclam                             Small Form Variants                     
+
+    66 : f                                                 f                        f                                       Basic Latin                             
+  3108 : bpmf-f                                            fbopomofo                bpmf-f                                  Bopomofo                                
 
    95E : dv-fa                                             dvFa                     dv-fa                                   Devanagari                              
    A5E : grmk-fa                                           guFa                     grmk-fa                                 Gurmukhi                                
@@ -413,6 +444,9 @@
 
    607 : ar-fourthroot                                     -                        ar-fourthroot                           Arabic                                  
   221C : mthm-fourthroot                                   -                        mthm-fourthroot                         Mathematical Operators                  
+
+    67 : g                                                 g                        g                                       Basic Latin                             
+  310D : bpmf-g                                            gbopomofo                bpmf-g                                  Bopomofo                                
 
    917 : dv-ga                                             dvGa                     dv-ga                                   Devanagari                              
    997 : bngl-ga                                           beGa                     bngl-ga                                 Bengali                                 
@@ -452,10 +486,13 @@
   1FEF : gr-grave                                          varia                    gr-grave                                Greek Extended                          
 
     3E : greater                                           greater                  greater                                 Basic Latin                             
-  FE65 : greater                                           greatersmall             greater                                 Small Form Variants                     
+  FE65 : smll-greater                                      greatersmall             smll-greater                            Small Form Variants                     
 
    261 : ipa-gscript                                       gscript                  ipa-gscript                             IPA Extensions                          
   210A : lttr-gscript                                      gscriptmath              lttr-gscript                            Letterlike Symbols                      
+
+    68 : h                                                 h                        h                                       Basic Latin                             
+  310F : bpmf-h                                            hbopomofo                bpmf-h                                  Bopomofo                                
 
    445 : hacyr                                             ha                       hacyr                                   Cyrillic                                
    939 : dv-ha                                             dvHa                     dv-ha                                   Devanagari                              
@@ -486,10 +523,11 @@
    C87 : kn-i                                              knI                      kn-i                                    Kannada                                 
    D07 : ma-i                                              mlI                      ma-i                                    Malayalam                               
   1822 : mo-i                                              -                        mo-i                                    Mongolian                               
+  3127 : bpmf-i                                            ibopomofo                bpmf-i                                  Bopomofo                                
   A986 : ja-i                                              -                        ja-i                                    Javanese                                
 
-  3001 : ideographiccomma                                  ideographiccomma         ideographiccomma                        CJK Symbols and Punctuation             
-  FE51 : ideographiccomma                                  -                        ideographiccomma                        Small Form Variants                     
+  3001 : cjk-ideographiccomma                              ideographiccomma         cjk-ideographiccomma                    CJK Symbols and Punctuation             
+  FE51 : smll-ideographiccomma                             -                        smll-ideographiccomma                   Small Form Variants                     
 
     EF : idieresis                                         idieresis                idieresis                               Latin-1 Supplement                      
    4E5 : idieresiscyr                                      idieresiscyr             idieresiscyr                            Cyrillic                                
@@ -534,6 +572,9 @@
    9FA : bngl-isshar                                       beIsshar                 bngl-isshar                             Bengali                                 
    B70 : ry-isshar                                         odIsshar                 ry-isshar                               Oriya                                   
 
+    6A : j                                                 j                        j                                       Basic Latin                             
+  3110 : bpmf-j                                            jbopomofo                bpmf-j                                  Bopomofo                                
+
    571 : am-ja                                             jaarmenian               am-ja                                   Armenian                                
    91C : dv-ja                                             dvJa                     dv-ja                                   Devanagari                              
    99C : bngl-ja                                           beJa                     bngl-ja                                 Bengali                                 
@@ -553,6 +594,9 @@
    B1D : ry-jha                                            odJha                    ry-jha                                  Oriya                                   
    C9D : kn-jha                                            knJha                    kn-jha                                  Kannada                                 
    D1D : ma-jha                                            mlJha                    ma-jha                                  Malayalam                               
+
+    6B : k                                                 k                        k                                       Basic Latin                             
+  310E : bpmf-k                                            kbopomofo                bpmf-k                                  Bopomofo                                
 
    43A : kacyr                                             ka                       kacyr                                   Cyrillic                                
    915 : dv-ka                                             dvKa                     dv-ka                                   Devanagari                              
@@ -588,6 +632,9 @@
    3DF : koppa                                             -                        koppa                                   Greek and Coptic                        
    481 : koppacyr                                          koppacyrillic            koppacyr                                Cyrillic                                
 
+    6C : l                                                 l                        l                                       Basic Latin                             
+  310C : bpmf-l                                            lbopomofo                bpmf-l                                  Bopomofo                                
+
    932 : dv-la                                             dvLa                     dv-la                                   Devanagari                              
    9B2 : bngl-la                                           beLa                     bngl-la                                 Bengali                                 
    A32 : grmk-la                                           guLa                     grmk-la                                 Gurmukhi                                
@@ -600,7 +647,7 @@
   A9AD : ja-la                                             -                        ja-la                                   Javanese                                
 
     3C : less                                              less                     less                                    Basic Latin                             
-  FE64 : less                                              lesssmall                less                                    Small Form Variants                     
+  FE64 : smll-less                                         lesssmall                smll-less                               Small Form Variants                     
 
    515 : lhacyr                                            -                        lhacyr                                  Cyrillic Supplement                     
   1840 : mo-lha                                            -                        mo-lha                                  Mongolian                               
@@ -643,6 +690,9 @@
    CE2 : kn-lvocalsign                                     knLvocalsign             kn-lvocalsign                           Kannada                                 
    D62 : ma-lvocalsign                                     mlLvocalsign             ma-lvocalsign                           Malayalam                               
 
+    6D : m                                                 m                        m                                       Basic Latin                             
+  3107 : bpmf-m                                            mbopomofo                bpmf-m                                  Bopomofo                                
+
    92E : dv-ma                                             dvMa                     dv-ma                                   Devanagari                              
    9AE : bngl-ma                                           beMa                     bngl-ma                                 Bengali                                 
    A2E : grmk-ma                                           guMa                     grmk-ma                                 Gurmukhi                                
@@ -654,6 +704,9 @@
   182E : mo-ma                                             -                        mo-ma                                   Mongolian                               
   A9A9 : ja-ma                                             -                        ja-ma                                   Javanese                                
 
+    6E : n                                                 n                        n                                       Basic Latin                             
+  310B : bpmf-n                                            nbopomofo                bpmf-n                                  Bopomofo                                
+
    928 : dv-na                                             dvNa                     dv-na                                   Devanagari                              
    9A8 : bngl-na                                           beNa                     bngl-na                                 Bengali                                 
    A28 : grmk-na                                           guNa                     grmk-na                                 Gurmukhi                                
@@ -664,6 +717,9 @@
    F53 : tb-na                                             -                        tb-na                                   Tibetan                                 
   1828 : mo-na                                             -                        mo-na                                   Mongolian                               
   A9A4 : ja-na                                             -                        ja-na                                   Javanese                                
+
+   6AD : ar-ng                                             arNg                     ar-ng                                   Arabic                                  
+  312B : bpmf-ng                                           -                        bpmf-ng                                 Bopomofo                                
 
    919 : dv-nga                                            dvNga                    dv-nga                                  Devanagari                              
    999 : bngl-nga                                          beNga                    bngl-nga                                Bengali                                 
@@ -727,6 +783,7 @@
    C92 : kn-o                                              knO                      kn-o                                    Kannada                                 
    D12 : ma-o                                              mlO                      ma-o                                    Malayalam                               
   1823 : mo-o                                              -                        mo-o                                    Mongolian                               
+  311B : bpmf-o                                            obopomofo                bpmf-o                                  Bopomofo                                
   A98E : ja-o                                              -                        ja-o                                    Javanese                                
 
    911 : dv-ocandra                                        dvOcandra                dv-ocandra                              Devanagari                              
@@ -783,6 +840,12 @@
    949 : dv-osigncandra                                    dvOcandrasign            dv-osigncandra                          Devanagari                              
    AC9 : gjrt-osigncandra                                  gjOcandrasign            gjrt-osigncandra                        Gujarati                                
 
+   223 : ou                                                -                        ou                                      Latin Extended-B                        
+  3121 : bpmf-ou                                           oubopomofo               bpmf-ou                                 Bopomofo                                
+
+    70 : p                                                 p                        p                                       Basic Latin                             
+  3106 : bpmf-p                                            pbopomofo                bpmf-p                                  Bopomofo                                
+
    92A : dv-pa                                             dvPa                     dv-pa                                   Devanagari                              
    9AA : bngl-pa                                           bePa                     bngl-pa                                 Bengali                                 
    A2A : grmk-pa                                           guPa                     grmk-pa                                 Gurmukhi                                
@@ -829,7 +892,10 @@
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        
 
     2B : plus                                              plus                     plus                                    Basic Latin                             
-  FE62 : plus                                              plussmall                plus                                    Small Form Variants                     
+  FE62 : smll-plus                                         plussmall                smll-plus                               Small Form Variants                     
+
+    71 : q                                                 q                        q                                       Basic Latin                             
+  3111 : bpmf-q                                            qbopomofo                bpmf-q                                  Bopomofo                                
 
    51B : qacyr                                             qa                       qacyr                                   Cyrillic Supplement                     
    958 : dv-qa                                             dvQa                     dv-qa                                   Devanagari                              
@@ -840,6 +906,9 @@
    55E : am-question                                       questionarmenian         am-question                             Armenian                                
    61F : ar-question                                       arQuestion               ar-question                             Arabic                                  
   FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     
+
+    72 : r                                                 r                        r                                       Basic Latin                             
+  3116 : bpmf-r                                            rbopomofo                bpmf-r                                  Bopomofo                                
 
    57C : am-ra                                             raarmenian               am-ra                                   Armenian                                
    930 : dv-ra                                             dvRa                     dv-ra                                   Devanagari                              
@@ -900,6 +969,9 @@
    B43 : ry-rvocalsign                                     odRvocalsign             ry-rvocalsign                           Oriya                                   
    CC3 : kn-rvocalsign                                     knRvocalsign             kn-rvocalsign                           Kannada                                 
    D43 : ma-rvocalsign                                     mlRvocalsign             ma-rvocalsign                           Malayalam                               
+
+    73 : s                                                 s                        s                                       Basic Latin                             
+  3119 : bpmf-s                                            sbopomofo                bpmf-s                                  Bopomofo                                
 
    938 : dv-sa                                             dvSa                     dv-sa                                   Devanagari                              
    9B8 : bngl-sa                                           beSa                     bngl-sa                                 Bengali                                 
@@ -965,6 +1037,9 @@
    D37 : ma-ssa                                            mlSsa                    ma-ssa                                  Malayalam                               
    F65 : tb-ssa                                            -                        tb-ssa                                  Tibetan                                 
 
+    74 : t                                                 t                        t                                       Basic Latin                             
+  310A : bpmf-t                                            tbopomofo                bpmf-t                                  Bopomofo                                
+
    924 : dv-ta                                             dvTa                     dv-ta                                   Devanagari                              
    9A4 : bngl-ta                                           beTa                     bngl-ta                                 Bengali                                 
    A24 : grmk-ta                                           guTa                     grmk-ta                                 Gurmukhi                                
@@ -1007,11 +1082,11 @@
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                
   1FC0 : gr-tilde                                          perispomeni              gr-tilde                                Greek Extended                          
 
-  3014 : tortoiseshellbracketleft                          tortoiseshellbracketleft tortoiseshellbracketleft                CJK Symbols and Punctuation             
-  FE5D : tortoiseshellbracketleft                          tortoiseshellbracketleftstortoiseshellbracketleft                Small Form Variants                     
+  3014 : cjk-tortoiseshellbracketleft                      tortoiseshellbracketleft cjk-tortoiseshellbracketleft            CJK Symbols and Punctuation             
+  FE5D : smll-tortoiseshellbracketleft                     tortoiseshellbracketleftssmll-tortoiseshellbracketleft           Small Form Variants                     
 
-  3015 : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               CJK Symbols and Punctuation             
-  FE5E : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               Small Form Variants                     
+  3015 : cjk-tortoiseshellbracketright                     tortoiseshellbracketrightcjk-tortoiseshellbracketright           CJK Symbols and Punctuation             
+  FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     
 
    F59 : tb-tsa                                            -                        tb-tsa                                  Tibetan                                 
   183C : mo-tsa                                            -                        mo-tsa                                  Mongolian                               
@@ -1059,6 +1134,7 @@
    C89 : kn-u                                              knU                      kn-u                                    Kannada                                 
    D09 : ma-u                                              mlU                      ma-u                                    Malayalam                               
   1824 : mo-u                                              -                        mo-u                                    Mongolian                               
+  3128 : bpmf-u                                            ubopomofo                bpmf-u                                  Bopomofo                                
   A988 : ja-u                                              -                        ja-u                                    Javanese                                
 
     FC : udieresis                                         udieresis                udieresis                               Latin-1 Supplement                      
@@ -1097,6 +1173,9 @@
    CC2 : kn-uusign                                         knUusign                 kn-uusign                               Kannada                                 
    D42 : ma-uusign                                         mlUusign                 ma-uusign                               Malayalam                               
 
+    76 : v                                                 v                        v                                       Basic Latin                             
+  312A : bpmf-v                                            -                        bpmf-v                                  Bopomofo                                
+
    935 : dv-va                                             dvVa                     dv-va                                   Devanagari                              
    A35 : grmk-va                                           guVa                     grmk-va                                 Gurmukhi                                
    AB5 : gjrt-va                                           gjVa                     gjrt-va                                 Gujarati                                
@@ -1126,6 +1205,9 @@
   1838 : mo-wa                                             -                        mo-wa                                   Mongolian                               
   A9AE : ja-wa                                             -                        ja-wa                                   Javanese                                
 
+    78 : x                                                 x                        x                                       Basic Latin                             
+  3112 : bpmf-x                                            xbopomofo                bpmf-x                                  Bopomofo                                
+
    44F : yacyr                                             ya                       yacyr                                   Cyrillic                                
    92F : dv-ya                                             dvYa                     dv-ya                                   Devanagari                              
    9AF : bngl-ya                                           beYa                     bngl-ya                                 Bengali                                 
@@ -1144,6 +1226,9 @@
    95F : dv-yya                                            dvYya                    dv-yya                                  Devanagari                              
    9DF : bngl-yya                                          beYya                    bngl-yya                                Bengali                                 
    B5F : ry-yya                                            odYya                    ry-yya                                  Oriya                                   
+
+    7A : z                                                 z                        z                                       Basic Latin                             
+  3117 : bpmf-z                                            zbopomofo                bpmf-z                                  Bopomofo                                
 
    566 : am-za                                             zaarmenian               am-za                                   Armenian                                
    95B : dv-za                                             dvZa                     dv-za                                   Devanagari                              
@@ -1172,7 +1257,7 @@
 
    436 : zhecyr                                            zhe                      zhecyr                                  Cyrillic                                
    56A : am-zhe                                            zhearmenian              am-zhe                                  Armenian                                
-# 206 names with conflicts, affecting 966 unicodes
+# 232 names with conflicts, affecting 1025 unicodes
 
 
 Conflicts by rangename
@@ -1191,6 +1276,7 @@ Arabic
    664 : ar-four                                           arFour                   ar-four                                 Arabic                                  
    607 : ar-fourthroot                                     -                        ar-fourthroot                           Arabic                                  
    643 : ar-kaf                                            arKaf                    ar-kaf                                  Arabic                                  
+   6AD : ar-ng                                             arNg                     ar-ng                                   Arabic                                  
    669 : ar-nine                                           arNine                   ar-nine                                 Arabic                                  
    600 : ar-numbersign                                     arNumberSign             ar-numbersign                           Arabic                                  
    6C6 : ar-oe                                             arOe                     ar-oe                                   Arabic                                  
@@ -1223,6 +1309,7 @@ Armenian
    579 : am-cha                                            chaarmenian              am-cha                                  Armenian                                
    55D : am-comma                                          commaarmenian            am-comma                                Armenian                                
    564 : am-da                                             daarmenian               am-da                                   Armenian                                
+   567 : am-eh                                             eharmenian               am-eh                                   Armenian                                
    568 : am-et                                             etarmenian               am-et                                   Armenian                                
    55C : am-exclam                                         exclamarmenian           am-exclam                               Armenian                                
    586 : am-feh                                            feharmenian              am-feh                                  Armenian                                
@@ -1245,37 +1332,56 @@ Basic Latin
     61 : a                                                 a                        a                                       Basic Latin                             
     26 : ampersand                                         ampersand                ampersand                               Basic Latin                             
     2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             
+    62 : b                                                 b                        b                                       Basic Latin                             
     5C : backslash                                         backslash                backslash                               Basic Latin                             
     7B : braceleft                                         braceleft                braceleft                               Basic Latin                             
     7D : braceright                                        braceright               braceright                              Basic Latin                             
+    63 : c                                                 c                        c                                       Basic Latin                             
     3A : colon                                             colon                    colon                                   Basic Latin                             
     2C : comma                                             comma                    comma                                   Basic Latin                             
+    64 : d                                                 d                        d                                       Basic Latin                             
     24 : dollar                                            dollar                   dollar                                  Basic Latin                             
     65 : e                                                 e                        e                                       Basic Latin                             
     38 : eight                                             eight                    eight                                   Basic Latin                             
     3D : equal                                             equal                    equal                                   Basic Latin                             
     21 : exclam                                            exclam                   exclam                                  Basic Latin                             
+    66 : f                                                 f                        f                                       Basic Latin                             
     35 : five                                              five                     five                                    Basic Latin                             
     34 : four                                              four                     four                                    Basic Latin                             
+    67 : g                                                 g                        g                                       Basic Latin                             
     60 : grave                                             grave                    grave                                   Basic Latin                             
     3E : greater                                           greater                  greater                                 Basic Latin                             
+    68 : h                                                 h                        h                                       Basic Latin                             
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             
     69 : i                                                 i                        i                                       Basic Latin                             
+    6A : j                                                 j                        j                                       Basic Latin                             
+    6B : k                                                 k                        k                                       Basic Latin                             
+    6C : l                                                 l                        l                                       Basic Latin                             
     3C : less                                              less                     less                                    Basic Latin                             
+    6D : m                                                 m                        m                                       Basic Latin                             
+    6E : n                                                 n                        n                                       Basic Latin                             
     39 : nine                                              nine                     nine                                    Basic Latin                             
     23 : numbersign                                        numbersign               numbersign                              Basic Latin                             
     6F : o                                                 o                        o                                       Basic Latin                             
     31 : one                                               one                      one                                     Basic Latin                             
+    70 : p                                                 p                        p                                       Basic Latin                             
     25 : percent                                           percent                  percent                                 Basic Latin                             
     2E : period                                            period                   period                                  Basic Latin                             
     2B : plus                                              plus                     plus                                    Basic Latin                             
+    71 : q                                                 q                        q                                       Basic Latin                             
     3F : question                                          question                 question                                Basic Latin                             
+    72 : r                                                 r                        r                                       Basic Latin                             
+    73 : s                                                 s                        s                                       Basic Latin                             
     3B : semicolon                                         semicolon                semicolon                               Basic Latin                             
     37 : seven                                             seven                    seven                                   Basic Latin                             
     36 : six                                               six                      six                                     Basic Latin                             
+    74 : t                                                 t                        t                                       Basic Latin                             
     33 : three                                             three                    three                                   Basic Latin                             
     32 : two                                               two                      two                                     Basic Latin                             
     75 : u                                                 u                        u                                       Basic Latin                             
+    76 : v                                                 v                        v                                       Basic Latin                             
+    78 : x                                                 x                        x                                       Basic Latin                             
+    7A : z                                                 z                        z                                       Basic Latin                             
     30 : zero                                              zero                     zero                                    Basic Latin                             
 
 Bengali
@@ -1360,10 +1466,45 @@ Bengali
    9DF : bngl-yya                                          beYya                    bngl-yya                                Bengali                                 
    9E6 : bngl-zero                                         beZero                   bngl-zero                               Bengali                                 
 
+Bopomofo
+  311A : bpmf-a                                            abopomofo                bpmf-a                                  Bopomofo                                
+  311E : bpmf-ai                                           aibopomofo               bpmf-ai                                 Bopomofo                                
+  3124 : bpmf-ang                                          angbopomofo              bpmf-ang                                Bopomofo                                
+  3120 : bpmf-au                                           aubopomofo               bpmf-au                                 Bopomofo                                
+  3105 : bpmf-b                                            bbopomofo                bpmf-b                                  Bopomofo                                
+  3118 : bpmf-c                                            cbopomofo                bpmf-c                                  Bopomofo                                
+  3109 : bpmf-d                                            dbopomofo                bpmf-d                                  Bopomofo                                
+  311C : bpmf-e                                            ebopomofo                bpmf-e                                  Bopomofo                                
+  311D : bpmf-eh                                           ehbopomofo               bpmf-eh                                 Bopomofo                                
+  3123 : bpmf-en                                           enbopomofo               bpmf-en                                 Bopomofo                                
+  3125 : bpmf-eng                                          engbopomofo              bpmf-eng                                Bopomofo                                
+  3126 : bpmf-er                                           erbopomofo               bpmf-er                                 Bopomofo                                
+  3108 : bpmf-f                                            fbopomofo                bpmf-f                                  Bopomofo                                
+  310D : bpmf-g                                            gbopomofo                bpmf-g                                  Bopomofo                                
+  310F : bpmf-h                                            hbopomofo                bpmf-h                                  Bopomofo                                
+  3127 : bpmf-i                                            ibopomofo                bpmf-i                                  Bopomofo                                
+  3110 : bpmf-j                                            jbopomofo                bpmf-j                                  Bopomofo                                
+  310E : bpmf-k                                            kbopomofo                bpmf-k                                  Bopomofo                                
+  310C : bpmf-l                                            lbopomofo                bpmf-l                                  Bopomofo                                
+  3107 : bpmf-m                                            mbopomofo                bpmf-m                                  Bopomofo                                
+  310B : bpmf-n                                            nbopomofo                bpmf-n                                  Bopomofo                                
+  312B : bpmf-ng                                           -                        bpmf-ng                                 Bopomofo                                
+  311B : bpmf-o                                            obopomofo                bpmf-o                                  Bopomofo                                
+  3121 : bpmf-ou                                           oubopomofo               bpmf-ou                                 Bopomofo                                
+  3106 : bpmf-p                                            pbopomofo                bpmf-p                                  Bopomofo                                
+  3111 : bpmf-q                                            qbopomofo                bpmf-q                                  Bopomofo                                
+  3116 : bpmf-r                                            rbopomofo                bpmf-r                                  Bopomofo                                
+  3119 : bpmf-s                                            sbopomofo                bpmf-s                                  Bopomofo                                
+  310A : bpmf-t                                            tbopomofo                bpmf-t                                  Bopomofo                                
+  3128 : bpmf-u                                            ubopomofo                bpmf-u                                  Bopomofo                                
+  312A : bpmf-v                                            -                        bpmf-v                                  Bopomofo                                
+  3112 : bpmf-x                                            xbopomofo                bpmf-x                                  Bopomofo                                
+  3117 : bpmf-z                                            zbopomofo                bpmf-z                                  Bopomofo                                
+
 CJK Symbols and Punctuation
-  3001 : ideographiccomma                                  ideographiccomma         ideographiccomma                        CJK Symbols and Punctuation             
-  3014 : tortoiseshellbracketleft                          tortoiseshellbracketleft tortoiseshellbracketleft                CJK Symbols and Punctuation             
-  3015 : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               CJK Symbols and Punctuation             
+  3001 : cjk-ideographiccomma                              ideographiccomma         cjk-ideographiccomma                    CJK Symbols and Punctuation             
+  3014 : cjk-tortoiseshellbracketleft                      tortoiseshellbracketleft cjk-tortoiseshellbracketleft            CJK Symbols and Punctuation             
+  3015 : cjk-tortoiseshellbracketright                     tortoiseshellbracketrightcjk-tortoiseshellbracketright           CJK Symbols and Punctuation             
 
 Currency Symbols
   20A8 : crrn-rupee                                        rupee                    crrn-rupee                              Currency Symbols                        
@@ -1393,7 +1534,9 @@ Cyrillic
    430 : acyr                                              acyr                     acyr                                    Cyrillic                                
    4D1 : abrevecyr                                         abrevecyr                abrevecyr                               Cyrillic                                
    4D3 : adieresiscyr                                      adieresiscyr             adieresiscyr                            Cyrillic                                
+   43D : encyr                                             en                       encyr                                   Cyrillic                                
    4C8 : enhookcyr                                         enhookcyrillic           enhookcyr                               Cyrillic                                
+   440 : ercyr                                             er                       ercyr                                   Cyrillic                                
    44D : ereversedcyr                                      ecyr                     ereversedcyr                            Cyrillic                                
    445 : hacyr                                             ha                       hacyr                                   Cyrillic                                
    438 : icyr                                              icyr                     icyr                                    Cyrillic                                
@@ -1530,7 +1673,7 @@ Devanagari
 
 General Punctuation
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     
-  2014 : emdash                                            emdash                   emdash                                  General Punctuation                     
+  2014 : gnrl-emdash                                       emdash                   gnrl-emdash                             General Punctuation                     
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     
   2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     
 
@@ -1866,6 +2009,7 @@ Latin Extended-A
    12A : Imacron                                           Imacron                  Imacron                                 Latin Extended-A                        
    16A : Umacron                                           Umacron                  Umacron                                 Latin Extended-A                        
    103 : abreve                                            abreve                   abreve                                  Latin Extended-A                        
+   14B : eng                                               eng                      eng                                     Latin Extended-A                        
    12B : imacron                                           imacron                  imacron                                 Latin Extended-A                        
    153 : oe                                                oe                       oe                                      Latin Extended-A                        
    16B : umacron                                           umacron                  umacron                                 Latin Extended-A                        
@@ -1875,6 +2019,7 @@ Latin Extended-B
    19F : Obar                                              Obar                     Obar                                    Latin Extended-B                        
    18F : Schwa                                             Schwa                    Schwa                                   Latin Extended-B                        
    242 : glottalstop                                       glottalstoplatin         glottalstop                             Latin Extended-B                        
+   223 : ou                                                -                        ou                                      Latin Extended-B                        
 
 Latin Extended-D
   A732 : AA                                                -                        AA                                      Latin Extended-D                        
@@ -2004,6 +2149,7 @@ Miscellaneous Symbols
 
 Mongolian
   1820 : mo-a                                              -                        mo-a                                    Mongolian                               
+  1829 : mo-ang                                            -                        mo-ang                                  Mongolian                               
   182A : mo-ba                                             -                        mo-ba                                   Mongolian                               
   1834 : mo-cha                                            -                        mo-cha                                  Mongolian                               
   1842 : mo-chi                                            -                        mo-chi                                  Mongolian                               
@@ -2138,29 +2284,29 @@ Phonetic Extensions
   1D6B : phnt-ue                                           -                        phnt-ue                                 Phonetic Extensions                     
 
 Small Form Variants
-  FE60 : ampersand                                         -                        ampersand                               Small Form Variants                     
-  FE61 : asterisk                                          asterisksmall            asterisk                                Small Form Variants                     
-  FE68 : backslash                                         -                        backslash                               Small Form Variants                     
-  FE5B : braceleft                                         braceleftsmall           braceleft                               Small Form Variants                     
-  FE5C : braceright                                        bracerightsmall          braceright                              Small Form Variants                     
+  FE60 : smll-ampersand                                    -                        smll-ampersand                          Small Form Variants                     
+  FE61 : smll-asterisk                                     asterisksmall            smll-asterisk                           Small Form Variants                     
+  FE68 : smll-backslash                                    -                        smll-backslash                          Small Form Variants                     
+  FE5B : smll-braceleft                                    braceleftsmall           smll-braceleft                          Small Form Variants                     
+  FE5C : smll-braceright                                   bracerightsmall          smll-braceright                         Small Form Variants                     
   FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     
   FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     
-  FE69 : dollar                                            dollarsmall              dollar                                  Small Form Variants                     
-  FE58 : emdash                                            -                        emdash                                  Small Form Variants                     
-  FE66 : equal                                             equalsmall               equal                                   Small Form Variants                     
+  FE69 : smll-dollar                                       dollarsmall              smll-dollar                             Small Form Variants                     
+  FE58 : smll-emdash                                       -                        smll-emdash                             Small Form Variants                     
+  FE66 : smll-equal                                        equalsmall               smll-equal                              Small Form Variants                     
   FE57 : smll-exclam                                       -                        smll-exclam                             Small Form Variants                     
-  FE65 : greater                                           greatersmall             greater                                 Small Form Variants                     
+  FE65 : smll-greater                                      greatersmall             smll-greater                            Small Form Variants                     
   FE63 : smll-hyphen                                       hyphensmall              smll-hyphen                             Small Form Variants                     
-  FE51 : ideographiccomma                                  -                        ideographiccomma                        Small Form Variants                     
-  FE64 : less                                              lesssmall                less                                    Small Form Variants                     
+  FE51 : smll-ideographiccomma                             -                        smll-ideographiccomma                   Small Form Variants                     
+  FE64 : smll-less                                         lesssmall                smll-less                               Small Form Variants                     
   FE5F : smll-numbersign                                   numbersignsmall          smll-numbersign                         Small Form Variants                     
   FE6A : smll-percent                                      percentsmall             smll-percent                            Small Form Variants                     
   FE52 : smll-period                                       periodsmall              smll-period                             Small Form Variants                     
-  FE62 : plus                                              plussmall                plus                                    Small Form Variants                     
+  FE62 : smll-plus                                         plussmall                smll-plus                               Small Form Variants                     
   FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     
   FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     
-  FE5D : tortoiseshellbracketleft                          tortoiseshellbracketleftstortoiseshellbracketleft                Small Form Variants                     
-  FE5E : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               Small Form Variants                     
+  FE5D : smll-tortoiseshellbracketleft                     tortoiseshellbracketleftssmll-tortoiseshellbracketleft           Small Form Variants                     
+  FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     
 
 Spacing Modifier Letters
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                
