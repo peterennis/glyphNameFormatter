@@ -55,6 +55,7 @@ def process(self):
     self.processAs("Helper Greek Diacritics")
 
     self.handleCase()
+    self.compress()
 
 
 if __name__ == "__main__":
