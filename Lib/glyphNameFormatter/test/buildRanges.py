@@ -1,17 +1,16 @@
+from __future__ import print_function
 import glyphNameFormatter
-reload(glyphNameFormatter)
 from glyphNameFormatter.unicodeRangeNames import getRangeByName, getAllRangeNames
 import os
 
 skipped = {}
-
 
 def generateRange(rangeName):
     # generate all the names in the range
     lines = []
     r = getRangeByName(rangeName)
     if r is None:
-        print "unknown range name", rangeName
+        print("unknown range name", rangeName)
         return
     start, end = r
     lines.append("# %s %04X - %04X" % (rangeName, start, end))

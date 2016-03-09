@@ -16,7 +16,6 @@ def process(self):
             nameParts = nameParts[1:]
         if nameParts[0] == 'LETTER':
             nameParts = nameParts[1:]
-        #print nameParts, withParts
 
         self.edit("WITH")
         self.edit("EXTENDED ARABIC-INDIC")

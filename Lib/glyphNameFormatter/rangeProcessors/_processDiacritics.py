@@ -1,7 +1,5 @@
 
 def processDiacritics(self):
-    if self.verbose:
-        print "processDiacritics"
     # WITH ___ AND ___
     self.edit("WITH CIRCUMFLEX AND HOOK ABOVE", "circumflex", "hoi")
     self.edit("WITH CIRCUMFLEX AND DOT BELOW", "circumflex", "dotbelow")

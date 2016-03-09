@@ -1,4 +1,5 @@
 from glyphNameFormatter import GlyphName
+from __future__ import print_function
 
 ## simple test agians Ilya's corrections
 
@@ -27,4 +28,4 @@ for line in lines:
     if n != correctName:
         n = g.getName(extension=False)
         if n != correctName:
-            print n.ljust(30), correctName.ljust(20), "%04X" % uni
+            print(n.ljust(30), correctName.ljust(20), "%04X" % uni)

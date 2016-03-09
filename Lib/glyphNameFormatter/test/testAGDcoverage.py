@@ -1,3 +1,4 @@
+from __future__ import print_function
 from glyphNameFormatter.unicodeRangeNames import getRangeName, getAllRangeNames, rangeNameToModuleName
 
 from glyphNameFormatter.data import name2unicode_AGD
@@ -17,7 +18,6 @@ def testAGDCoverage():
             glyphCount[thisRange] = 0
         glyphCount[thisRange] += 1
         if thisRange is None:
-            # print name, "no range"
             continue
         if thisRange not in wantRanges:
             wantRanges.append(thisRange)
@@ -39,18 +39,18 @@ def testAGDCoverage():
     notNeeded.sort()
     supportedTotal = 0
     notSupportedTotal = 0
-    print "Available range processors for AGD:"
+    print("Available range processors for AGD:")
     for n in supported:
-        print "\t%8d\t%s" % (glyphCount[n], n)
+        print("\t%8d\t%s" % (glyphCount[n], n))
         supportedTotal += glyphCount[n]
-    print "\nMissing range processors for AGD:"
+    print("\nMissing range processors for AGD:")
     for n in notSupported:
-        print "\t%8d\t%s" % (glyphCount[n], n)
+        print("\t%8d\t%s" % (glyphCount[n], n))
         notSupportedTotal += glyphCount[n]
-    print "Coverage complete: %3.1f%%" % (100.0*supportedTotal/(supportedTotal+notSupportedTotal))
-    print "\nRange processors not needed for AGD:"
+    print("Coverage complete: %3.1f%%" % (100.0*supportedTotal/(supportedTotal+notSupportedTotal)))
+    print("\nRange processors not needed for AGD:")
     for n in notNeeded:
-        print "\t", n
+        print("\t", n)
 
 
 if __name__ == "__main__":

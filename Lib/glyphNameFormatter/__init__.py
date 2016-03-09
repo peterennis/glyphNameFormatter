@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+from __future__ import print_function
 
 import unicodedata
 
@@ -16,10 +17,10 @@ def debug(uniNumber):
     # trace the processing of a specific number
     glyphName = GlyphName(uniNumber=uniNumber, verbose=True)
     glyphName.process()
-    print "debug: %04x" % uniNumber
-    print "name:", glyphName.getName()
+    print("debug: %04x" % uniNumber)
+    print("name:", glyphName.getName())
     for step in glyphName._log:
-        print "\t", step
+        print("\t", step)
 
 
 class GlyphName(GlyphNameProcessor):
@@ -53,7 +54,7 @@ class GlyphName(GlyphNameProcessor):
         try:
             self.uniLetter = unicodeToChar(self.uniNumber)
         except ValueError:
-            print "GlyphName valueerror for %04X" % self.uniNumber
+            print("GlyphName valueerror for %04X" % self.uniNumber)
             return
         try:
             self.uniName = unicodedata.name(self.uniLetter)

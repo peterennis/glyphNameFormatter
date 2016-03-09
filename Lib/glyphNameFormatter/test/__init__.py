@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+from __future__ import print_function
 from glyphNameFormatter.unicodeRangeNames import getRangeByName
 from glyphNameFormatter import GlyphName
 
@@ -34,7 +35,7 @@ def printRange(rangeName, toFile=None):
     if toFile:
         toFile.write(out)
     else:
-        print out
+        print(out)
     testDoubles(rangeName, toFile)
     testGLIFFileName(rangeName, toFile)
 
@@ -62,7 +63,7 @@ def testDoubles(rangeName, toFile=None):
         if toFile:
             toFile.write(txt)
         else:
-            print txt
+            print(txt)
 
 
 def testGLIFFileName(rangeName, toFile=None):
@@ -103,7 +104,7 @@ def testGLIFFileName(rangeName, toFile=None):
         if toFile:
             toFile.write(txt)
         else:
-            print txt
+            print(txt)
 
 
 if __name__ == "__main__":
@@ -117,7 +118,7 @@ if __name__ == "__main__":
         for u in range(*r):
             g = GlyphName(uniNumber=u)
             name = g.getName()
-    print time.time() - t
+    print(time.time() - t)
 
     path = "./../names/all.txt"
     f = open(path, "w")

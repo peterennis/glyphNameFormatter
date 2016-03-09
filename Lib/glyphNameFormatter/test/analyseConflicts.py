@@ -1,3 +1,4 @@
+from __future__ import print_function
 import glyphNameFormatter
 reload(glyphNameFormatter)
 from glyphNameFormatter.unicodeRangeNames import getRangeByName, getAllRangeNames
@@ -27,13 +28,13 @@ def findConflict():
     conflictUniNumbers = []
     conflictsPerRange = {}
     line = "        %04s%20s%20s%20s%40s"%("hex", "formatted name", "AGL name", "with extension", "range")
-    print line
+    print(line)
     lines.append(line)
     for name in n:
         if len(names[name]) > 1:
             conflictNames.append(name)
             line = "\n%s" % (name)
-            print line
+            print(line)
             lines.append(line)
             for g in names[name]:
                 rangeName = g[1]
@@ -41,14 +42,14 @@ def findConflict():
                 conflictUniNumbers.append(g[0])
                 AGLname = unicode2name_AGD.get(g[0], "-")
                 line = "        %04X%20s%20s%20s%40s"%(g[0], name, AGLname, extendedName, rangeName)
-                print line
+                print(line)
                 lines.append(line)
 
                 if not rangeName in conflictsPerRange:
                     conflictsPerRange[rangeName] = []
                 conflictsPerRange[rangeName].append(line)
     stats =  "# %d names with conflicts, affecting %d unicodes"%(len(conflictNames), len(conflictUniNumbers))
-    print stats
+    print(stats)
     lines.append(stats)
 
     k = conflictsPerRange.keys()
@@ -59,9 +60,7 @@ def findConflict():
     for rangeName in k:
         lines.append("\n%s"%rangeName)
         for line in conflictsPerRange[rangeName]:
-            #print "line", line
             lines.append(line)
-
     path = "./../names/conflict.txt"
     f = open(path, 'w')
     f.write("\n".join(lines))

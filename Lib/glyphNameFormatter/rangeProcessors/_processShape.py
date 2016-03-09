@@ -1,7 +1,6 @@
+from __future__ import print_function
 
 def processShape(self):
-    if self.verbose:
-        print "processShape"
     self.edit("LITTLE", "little")
     self.edit("BIG", "big")
     self.edit("ROUND", "round")

@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+from __future__ import print_function
 from glyphNameFormatter.data import unicodeRangeNames
 
 import rangeProcessors
@@ -84,5 +85,5 @@ def getRangeProcessorByRangeName(rangeName):
     try:
         return getattr(module, "process")
     except AttributeError:
-        print moduleName
+        print(moduleName)
         return None

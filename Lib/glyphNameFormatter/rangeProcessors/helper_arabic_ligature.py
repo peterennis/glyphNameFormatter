@@ -1,3 +1,4 @@
+from __future__ import print_function
 from glyphNameFormatter.tools import camelCase
 
 
@@ -54,10 +55,10 @@ def process(self):
         ligatureParts = [nameParts1, nameParts2, nameParts3]
     elif withCount > 2:
         # ligatures with 2 ligating part
-        print "ERROR: more than 2 ligating parts"
-        print "\n", self.uniName
-        print "\t", len(ligatureParts), ligatureParts[0]
-        print "\t", ligatureType
+        print("ERROR: more than 2 ligating parts")
+        print("\n", self.uniName)
+        print("\t", len(ligatureParts), ligatureParts[0])
+        print("\t", ligatureType)
         return
 
     # now let's add the initial, medial, final, isolated form extension to the ligating parts.
@@ -87,10 +88,10 @@ def process(self):
             ligatureParts[-1].append(".fina")
             ligatureParts[0].append(".init")
         else:
-            print "ERROR: unknown ligature structure"
-            print "\n", self.uniName
-            print "\t", len(ligatureParts), ligatureParts[0]
-            print "\t", ligatureType
+            print("ERROR: unknown ligature structure")
+            print("\n", self.uniName)
+            print("\t", len(ligatureParts), ligatureParts[0])
+            print("\t", ligatureType)
             return
         # assembly
         self.uniNameProcessed = ""
