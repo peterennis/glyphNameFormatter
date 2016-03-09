@@ -37,8 +37,17 @@
    12A : Imacron                                           Imacron                  Imacron                                 Latin Extended-A                        
    4E2 : Imacroncyr                                        Imacroncyr               Imacroncyr                              Cyrillic                                
 
+   26A : Ismall                                            Ismall                   Ismall                                  IPA Extensions                          
+  1DA6 : Ismall                                            -                        Ismall                                  Phonetic Extensions Supplement          
+
    3DE : Koppa                                             Koppagreek               Koppa                                   Greek and Coptic                        
    480 : Koppacyr                                          Koppacyrillic            Koppacyr                                Cyrillic                                
+
+   29F : Lsmall                                            Lsmall                   Lsmall                                  IPA Extensions                          
+  1DAB : Lsmall                                            -                        Lsmall                                  Phonetic Extensions Supplement          
+
+   274 : Nsmall                                            Nsmall                   Nsmall                                  IPA Extensions                          
+  1DB0 : Nsmall                                            -                        Nsmall                                  Phonetic Extensions Supplement          
 
     4F : O                                                 O                        O                                       Basic Latin                             
    41E : Ocyr                                              Ocyr                     Ocyr                                    Cyrillic                                
@@ -67,6 +76,9 @@
    16A : Umacron                                           Umacron                  Umacron                                 Latin Extended-A                        
    4EE : Umacroncyr                                        Umacroncyr               Umacroncyr                              Cyrillic                                
 
+  1D1C : Usmall                                            -                        Usmall                                  Phonetic Extensions                     
+  1DB8 : Usmall                                            -                        Usmall                                  Phonetic Extensions Supplement          
+
    417 : Zecyr                                             Ze                       Zecyr                                   Cyrillic                                
    510 : Zecyr                                             -                        Zecyr                                   Cyrillic Supplement                     
 
@@ -76,6 +88,7 @@
     61 : a                                                 a                        a                                       Basic Latin                             
    430 : acyr                                              acyr                     acyr                                    Cyrillic                                
    905 : dv-a                                              dvA                      dv-a                                    Devanagari                              
+   A85 : gjrt-a                                            gjA                      gjrt-a                                  Gujarati                                
    B05 : ry-a                                              odA                      ry-a                                    Oriya                                   
    C85 : kn-a                                              knA                      kn-a                                    Kannada                                 
    F68 : tb-a                                              -                        tb-a                                    Tibetan                                 
@@ -83,6 +96,8 @@
   A984 : ja-a                                              -                        ja-a                                    Javanese                                
 
    906 : dv-aa                                             dvAa                     dv-aa                                   Devanagari                              
+   A86 : gjrt-aa                                           gjAa                     gjrt-aa                                 Gujarati                                
+   ABE : gjrt-aa                                           gjAasign                 gjrt-aa                                 Gujarati                                
    B06 : ry-aa                                             odAa                     ry-aa                                   Oriya                                   
    C86 : kn-aa                                             knAa                     kn-aa                                   Kannada                                 
   A733 : aa                                                -                        aa                                      Latin Extended-D                        
@@ -105,9 +120,14 @@
    6D5 : ar-ae                                             arAe                     ar-ae                                   Arabic                                  
 
    910 : dv-ai                                             dvAi                     dv-ai                                   Devanagari                              
+   A90 : gjrt-ai                                           gjAi                     gjrt-ai                                 Gujarati                                
+   AC8 : gjrt-ai                                           gjAisign                 gjrt-ai                                 Gujarati                                
    B10 : ry-ai                                             odAi                     ry-ai                                   Oriya                                   
    C90 : kn-ai                                             knAi                     kn-ai                                   Kannada                                 
   A98D : ja-ai                                             -                        ja-ai                                   Javanese                                
+
+   639 : ain                                               arAin                    ain                                     Arabic                                  
+  1D25 : ain                                               -                        ain                                     Phonetic Extensions                     
 
    948 : dv-aisign                                         dvAisign                 dv-aisign                               Devanagari                              
    B48 : ry-aisign                                         odAisign                 ry-aisign                               Oriya                                   
@@ -120,10 +140,13 @@
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        
 
    902 : dv-anusvara                                       dvAnusvara               dv-anusvara                             Devanagari                              
+   A82 : gjrt-anusvara                                     gjAnusvara               gjrt-anusvara                           Gujarati                                
    B02 : ry-anusvara                                       odAnusvara               ry-anusvara                             Oriya                                   
    C82 : kn-anusvara                                       knAnusvara               kn-anusvara                             Kannada                                 
 
    914 : dv-au                                             dvAu                     dv-au                                   Devanagari                              
+   A94 : gjrt-au                                           gjAu                     gjrt-au                                 Gujarati                                
+   ACC : gjrt-au                                           gjAusign                 gjrt-au                                 Gujarati                                
    B14 : ry-au                                             odAu                     ry-au                                   Oriya                                   
    C94 : kn-au                                             knAu                     kn-au                                   Kannada                                 
   A737 : au                                                -                        au                                      Latin Extended-D                        
@@ -133,10 +156,12 @@
    CCC : kn-ausign                                         knAusign                 kn-ausign                               Kannada                                 
 
    93D : dv-avagraha                                       dvAvagraha               dv-avagraha                             Devanagari                              
+   ABD : gjrt-avagraha                                     gjAvagraha               gjrt-avagraha                           Gujarati                                
    B3D : ry-avagraha                                       odAvagraha               ry-avagraha                             Oriya                                   
    CBD : kn-avagraha                                       knAvagraha               kn-avagraha                             Kannada                                 
 
    92C : dv-ba                                             dvBa                     dv-ba                                   Devanagari                              
+   AAC : gjrt-ba                                           gjBa                     gjrt-ba                                 Gujarati                                
    B2C : ry-ba                                             odBa                     ry-ba                                   Oriya                                   
    CAC : kn-ba                                             knBa                     kn-ba                                   Kannada                                 
    F56 : tb-ba                                             -                        tb-ba                                   Tibetan                                 
@@ -150,12 +175,14 @@
   2136 : lttr-bet                                          -                        lttr-bet                                Letterlike Symbols                      
 
    92D : dv-bha                                            dvBha                    dv-bha                                  Devanagari                              
+   AAD : gjrt-bha                                          gjBha                    gjrt-bha                                Gujarati                                
    B2D : ry-bha                                            odBha                    ry-bha                                  Oriya                                   
    CAD : kn-bha                                            knBha                    kn-bha                                  Kannada                                 
    F57 : tb-bha                                            -                        tb-bha                                  Tibetan                                 
 
    56E : am-ca                                             caarmenian               am-ca                                   Armenian                                
    91A : dv-ca                                             dvCa                     dv-ca                                   Devanagari                              
+   A9A : gjrt-ca                                           gjCa                     gjrt-ca                                 Gujarati                                
    B1A : ry-ca                                             odCa                     ry-ca                                   Oriya                                   
    C9A : kn-ca                                             knCa                     kn-ca                                   Kannada                                 
    F45 : tb-ca                                             -                        tb-ca                                   Tibetan                                 
@@ -166,6 +193,7 @@
 
    579 : am-cha                                            chaarmenian              am-cha                                  Armenian                                
    91B : dv-cha                                            dvCha                    dv-cha                                  Devanagari                              
+   A9B : gjrt-cha                                          gjCha                    gjrt-cha                                Gujarati                                
    B1B : ry-cha                                            odCha                    ry-cha                                  Oriya                                   
    C9B : kn-cha                                            knCha                    kn-cha                                  Kannada                                 
    F46 : tb-cha                                            -                        tb-cha                                  Tibetan                                 
@@ -187,6 +215,7 @@
 
    564 : am-da                                             daarmenian               am-da                                   Armenian                                
    926 : dv-da                                             dvDa                     dv-da                                   Devanagari                              
+   AA6 : gjrt-da                                           gjDa                     gjrt-da                                 Gujarati                                
    B26 : ry-da                                             odDa                     ry-da                                   Oriya                                   
    CA6 : kn-da                                             knDa                     kn-da                                   Kannada                                 
    F51 : tb-da                                             -                        tb-da                                   Tibetan                                 
@@ -197,17 +226,20 @@
   2138 : lttr-dalet                                        -                        lttr-dalet                              Letterlike Symbols                      
 
    921 : dv-dda                                            dvDda                    dv-dda                                  Devanagari                              
+   AA1 : gjrt-dda                                          gjDda                    gjrt-dda                                Gujarati                                
    B21 : ry-dda                                            odDda                    ry-dda                                  Oriya                                   
    CA1 : kn-dda                                            knDda                    kn-dda                                  Kannada                                 
    F4C : tb-dda                                            -                        tb-dda                                  Tibetan                                 
   A99D : ja-dda                                            -                        ja-dda                                  Javanese                                
 
    922 : dv-ddha                                           dvDdha                   dv-ddha                                 Devanagari                              
+   AA2 : gjrt-ddha                                         gjDdha                   gjrt-ddha                               Gujarati                                
    B22 : ry-ddha                                           odDdha                   ry-ddha                                 Oriya                                   
    CA2 : kn-ddha                                           knDdha                   kn-ddha                                 Kannada                                 
    F4D : tb-ddha                                           -                        tb-ddha                                 Tibetan                                 
 
    927 : dv-dha                                            dvDha                    dv-dha                                  Devanagari                              
+   AA7 : gjrt-dha                                          gjDha                    gjrt-dha                                Gujarati                                
    B27 : ry-dha                                            odDha                    ry-dha                                  Oriya                                   
    CA7 : kn-dha                                            knDha                    kn-dha                                  Kannada                                 
    F52 : tb-dha                                            -                        tb-dha                                  Tibetan                                 
@@ -221,10 +253,16 @@
     65 : e                                                 e                        e                                       Basic Latin                             
    6D0 : ar-e                                              arE                      ar-e                                    Arabic                                  
    90F : dv-e                                              dvE                      dv-e                                    Devanagari                              
+   A8F : gjrt-e                                            gjE                      gjrt-e                                  Gujarati                                
+   AC7 : gjrt-e                                            gjEsign                  gjrt-e                                  Gujarati                                
    B0F : ry-e                                              odE                      ry-e                                    Oriya                                   
    C8E : kn-e                                              knE                      kn-e                                    Kannada                                 
   1821 : mo-e                                              -                        mo-e                                    Mongolian                               
   A98C : ja-e                                              -                        ja-e                                    Javanese                                
+
+   90D : ecandra                                           dvEcandra                ecandra                                 Devanagari                              
+   A8D : ecandra                                           gjEcandra                ecandra                                 Gujarati                                
+   AC5 : ecandra                                           gjEcandrasign            ecandra                                 Gujarati                                
 
    C8F : kn-ee                                             knEe                     kn-ee                                   Kannada                                 
   1827 : mo-ee                                             -                        mo-ee                                   Mongolian                               
@@ -232,6 +270,7 @@
     38 : eight                                             eight                    eight                                   Basic Latin                             
    668 : ar-eight                                          arEight                  ar-eight                                Arabic                                  
    96E : dv-eight                                          dvEight                  dv-eight                                Devanagari                              
+   AEE : gjrt-eight                                        gjEight                  gjrt-eight                              Gujarati                                
    B6E : ry-eight                                          odEight                  ry-eight                                Oriya                                   
    CEE : kn-eight                                          knEight                  kn-eight                                Kannada                                 
    F28 : tb-eight                                          -                        tb-eight                                Tibetan                                 
@@ -270,6 +309,7 @@
     35 : five                                              five                     five                                    Basic Latin                             
    665 : ar-five                                           arFive                   ar-five                                 Arabic                                  
    96B : dv-five                                           dvFive                   dv-five                                 Devanagari                              
+   AEB : gjrt-five                                         gjFive                   gjrt-five                               Gujarati                                
    B6B : ry-five                                           odFive                   ry-five                                 Oriya                                   
    CEB : kn-five                                           knFive                   kn-five                                 Kannada                                 
    F25 : tb-five                                           -                        tb-five                                 Tibetan                                 
@@ -279,6 +319,7 @@
     34 : four                                              four                     four                                    Basic Latin                             
    664 : ar-four                                           arFour                   ar-four                                 Arabic                                  
    96A : dv-four                                           dvFour                   dv-four                                 Devanagari                              
+   AEA : gjrt-four                                         gjFour                   gjrt-four                               Gujarati                                
    B6A : ry-four                                           odFour                   ry-four                                 Oriya                                   
    CEA : kn-four                                           knFour                   kn-four                                 Kannada                                 
    F24 : tb-four                                           -                        tb-four                                 Tibetan                                 
@@ -289,6 +330,7 @@
   221C : mthm-fourthroot                                   -                        mthm-fourthroot                         Mathematical Operators                  
 
    917 : dv-ga                                             dvGa                     dv-ga                                   Devanagari                              
+   A97 : gjrt-ga                                           gjGa                     gjrt-ga                                 Gujarati                                
    B17 : ry-ga                                             odGa                     ry-ga                                   Oriya                                   
    C97 : kn-ga                                             knGa                     kn-ga                                   Kannada                                 
    F42 : tb-ga                                             -                        tb-ga                                   Tibetan                                 
@@ -299,6 +341,7 @@
    3B3 : gamma                                             gamma                    gamma                                   Greek and Coptic                        
 
    918 : dv-gha                                            dvGha                    dv-gha                                  Devanagari                              
+   A98 : gjrt-gha                                          gjGha                    gjrt-gha                                Gujarati                                
    B18 : ry-gha                                            odGha                    ry-gha                                  Oriya                                   
    C98 : kn-gha                                            knGha                    kn-gha                                  Kannada                                 
    F43 : tb-gha                                            -                        tb-gha                                  Tibetan                                 
@@ -319,6 +362,7 @@
 
    445 : hacyr                                             ha                       hacyr                                   Cyrillic                                
    939 : dv-ha                                             dvHa                     dv-ha                                   Devanagari                              
+   AB9 : gjrt-ha                                           gjHa                     gjrt-ha                                 Gujarati                                
    B39 : ry-ha                                             odHa                     ry-ha                                   Oriya                                   
    CB9 : kn-ha                                             knHa                     kn-ha                                   Kannada                                 
    F67 : tb-ha                                             -                        tb-ha                                   Tibetan                                 
@@ -334,6 +378,8 @@
     69 : i                                                 i                        i                                       Basic Latin                             
    438 : icyr                                              icyr                     icyr                                    Cyrillic                                
    907 : dv-i                                              dvI                      dv-i                                    Devanagari                              
+   A87 : gjrt-i                                            gjI                      gjrt-i                                  Gujarati                                
+   ABF : gjrt-i                                            gjIsign                  gjrt-i                                  Gujarati                                
    B07 : ry-i                                              odI                      ry-i                                    Oriya                                   
    C87 : kn-i                                              knI                      kn-i                                    Kannada                                 
   1822 : mo-i                                              -                        mo-i                                    Mongolian                               
@@ -346,6 +392,8 @@
    45D : igravecyr                                         igravecyr                igravecyr                               Cyrillic                                
 
    908 : dv-ii                                             dvIi                     dv-ii                                   Devanagari                              
+   A88 : gjrt-ii                                           gjIi                     gjrt-ii                                 Gujarati                                
+   AC0 : gjrt-ii                                           gjIisign                 gjrt-ii                                 Gujarati                                
    B08 : ry-ii                                             odIi                     ry-ii                                   Oriya                                   
    C88 : kn-ii                                             knIi                     kn-ii                                   Kannada                                 
   A987 : ja-ii                                             -                        ja-ii                                   Javanese                                
@@ -369,6 +417,7 @@
 
    571 : am-ja                                             jaarmenian               am-ja                                   Armenian                                
    91C : dv-ja                                             dvJa                     dv-ja                                   Devanagari                              
+   A9C : gjrt-ja                                           gjJa                     gjrt-ja                                 Gujarati                                
    B1C : ry-ja                                             odJa                     ry-ja                                   Oriya                                   
    C9C : kn-ja                                             knJa                     kn-ja                                   Kannada                                 
    F47 : tb-ja                                             -                        tb-ja                                   Tibetan                                 
@@ -376,11 +425,13 @@
   A997 : ja-ja                                             -                        ja-ja                                   Javanese                                
 
    91D : dv-jha                                            dvJha                    dv-jha                                  Devanagari                              
+   A9D : gjrt-jha                                          gjJha                    gjrt-jha                                Gujarati                                
    B1D : ry-jha                                            odJha                    ry-jha                                  Oriya                                   
    C9D : kn-jha                                            knJha                    kn-jha                                  Kannada                                 
 
    43A : kacyr                                             ka                       kacyr                                   Cyrillic                                
    915 : dv-ka                                             dvKa                     dv-ka                                   Devanagari                              
+   A95 : gjrt-ka                                           gjKa                     gjrt-ka                                 Gujarati                                
    B15 : ry-ka                                             odKa                     ry-ka                                   Oriya                                   
    C95 : kn-ka                                             knKa                     kn-ka                                   Kannada                                 
    F40 : tb-ka                                             -                        tb-ka                                   Tibetan                                 
@@ -394,6 +445,7 @@
   FEDA : ar-kaf.fina                                       arKafPF.f                ar-kaf.fina                             Arabic Presentation Forms-B             
 
    916 : dv-kha                                            dvKha                    dv-kha                                  Devanagari                              
+   A96 : gjrt-kha                                          gjKha                    gjrt-kha                                Gujarati                                
    B16 : ry-kha                                            odKha                    ry-kha                                  Oriya                                   
    C96 : kn-kha                                            knKha                    kn-kha                                  Kannada                                 
    F41 : tb-kha                                            -                        tb-kha                                  Tibetan                                 
@@ -403,6 +455,7 @@
    481 : koppacyr                                          koppacyrillic            koppacyr                                Cyrillic                                
 
    932 : dv-la                                             dvLa                     dv-la                                   Devanagari                              
+   AB2 : gjrt-la                                           gjLa                     gjrt-la                                 Gujarati                                
    B32 : ry-la                                             odLa                     ry-la                                   Oriya                                   
    CB2 : kn-la                                             knLa                     kn-la                                   Kannada                                 
    F63 : tb-la                                             -                        tb-la                                   Tibetan                                 
@@ -413,24 +466,30 @@
   1840 : mo-lha                                            -                        mo-lha                                  Mongolian                               
 
    933 : dv-lla                                            dvLla                    dv-lla                                  Devanagari                              
+   AB3 : gjrt-lla                                          gjLla                    gjrt-lla                                Gujarati                                
    B33 : ry-lla                                            odLla                    ry-lla                                  Oriya                                   
    CB3 : kn-lla                                            knLla                    kn-lla                                  Kannada                                 
 
+   963 : llsignvocal                                       dvLlvocalsign            llsignvocal                             Devanagari                              
+   B63 : llsignvocal                                       odLlvocalsign            llsignvocal                             Oriya                                   
+
    961 : dv-llvocal                                        dvLlvocal                dv-llvocal                              Devanagari                              
+   AE1 : gjrt-llvocal                                      gjLlvocal                gjrt-llvocal                            Gujarati                                
+   AE3 : gjrt-llvocal                                      gjLlvocalsign            gjrt-llvocal                            Gujarati                                
    B61 : ry-llvocal                                        odLlvocal                ry-llvocal                              Oriya                                   
    CE1 : kn-llvocal                                        knLlvocal                kn-llvocal                              Kannada                                 
 
-   963 : dv-llvocalsign                                    dvLlvocalsign            dv-llvocalsign                          Devanagari                              
-   CE3 : kn-llvocalsign                                    knLlvocalsign            kn-llvocalsign                          Kannada                                 
+   962 : lsignvocal                                        dvLvocalsign             lsignvocal                              Devanagari                              
+   B62 : lsignvocal                                        odLvocalsign             lsignvocal                              Oriya                                   
 
    90C : dv-lvocal                                         dvLvocal                 dv-lvocal                               Devanagari                              
+   A8C : gjrt-lvocal                                       gjLvocal                 gjrt-lvocal                             Gujarati                                
+   AE2 : gjrt-lvocal                                       gjLvocalsign             gjrt-lvocal                             Gujarati                                
    B0C : ry-lvocal                                         odLvocal                 ry-lvocal                               Oriya                                   
    C8C : kn-lvocal                                         knLvocal                 kn-lvocal                               Kannada                                 
 
-   962 : dv-lvocalsign                                     dvLvocalsign             dv-lvocalsign                           Devanagari                              
-   CE2 : kn-lvocalsign                                     knLvocalsign             kn-lvocalsign                           Kannada                                 
-
    92E : dv-ma                                             dvMa                     dv-ma                                   Devanagari                              
+   AAE : gjrt-ma                                           gjMa                     gjrt-ma                                 Gujarati                                
    B2E : ry-ma                                             odMa                     ry-ma                                   Oriya                                   
    CAE : kn-ma                                             knMa                     kn-ma                                   Kannada                                 
    F58 : tb-ma                                             -                        tb-ma                                   Tibetan                                 
@@ -438,6 +497,7 @@
   A9A9 : ja-ma                                             -                        ja-ma                                   Javanese                                
 
    928 : dv-na                                             dvNa                     dv-na                                   Devanagari                              
+   AA8 : gjrt-na                                           gjNa                     gjrt-na                                 Gujarati                                
    B28 : ry-na                                             odNa                     ry-na                                   Oriya                                   
    CA8 : kn-na                                             knNa                     kn-na                                   Kannada                                 
    F53 : tb-na                                             -                        tb-na                                   Tibetan                                 
@@ -445,6 +505,7 @@
   A9A4 : ja-na                                             -                        ja-na                                   Javanese                                
 
    919 : dv-nga                                            dvNga                    dv-nga                                  Devanagari                              
+   A99 : gjrt-nga                                          gjNga                    gjrt-nga                                Gujarati                                
    B19 : ry-nga                                            odNga                    ry-nga                                  Oriya                                   
    C99 : kn-nga                                            knNga                    kn-nga                                  Kannada                                 
    F44 : tb-nga                                            -                        tb-nga                                  Tibetan                                 
@@ -453,6 +514,7 @@
     39 : nine                                              nine                     nine                                    Basic Latin                             
    669 : ar-nine                                           arNine                   ar-nine                                 Arabic                                  
    96F : dv-nine                                           dvNine                   dv-nine                                 Devanagari                              
+   AEF : gjrt-nine                                         gjNine                   gjrt-nine                               Gujarati                                
    B6F : ry-nine                                           odNine                   ry-nine                                 Oriya                                   
    CEF : kn-nine                                           knNine                   kn-nine                                 Kannada                                 
    F29 : tb-nine                                           -                        tb-nine                                 Tibetan                                 
@@ -460,11 +522,13 @@
   A9D9 : ja-nine                                           -                        ja-nine                                 Javanese                                
 
    923 : dv-nna                                            dvNna                    dv-nna                                  Devanagari                              
+   AA3 : gjrt-nna                                          gjNna                    gjrt-nna                                Gujarati                                
    B23 : ry-nna                                            odNna                    ry-nna                                  Oriya                                   
    CA3 : kn-nna                                            knNna                    kn-nna                                  Kannada                                 
    F4E : tb-nna                                            -                        tb-nna                                  Tibetan                                 
 
    93C : dv-nukta                                          dvNukta                  dv-nukta                                Devanagari                              
+   ABC : gjrt-nukta                                        gjNukta                  gjrt-nukta                              Gujarati                                
    B3C : ry-nukta                                          odNukta                  ry-nukta                                Oriya                                   
    CBC : kn-nukta                                          knNukta                  kn-nukta                                Kannada                                 
 
@@ -472,6 +536,7 @@
    600 : ar-numbersign                                     arNumberSign             ar-numbersign                           Arabic                                  
 
    91E : dv-nya                                            dvNya                    dv-nya                                  Devanagari                              
+   A9E : gjrt-nya                                          gjNya                    gjrt-nya                                Gujarati                                
    B1E : ry-nya                                            odNya                    ry-nya                                  Oriya                                   
    C9E : kn-nya                                            knNya                    kn-nya                                  Kannada                                 
    F49 : tb-nya                                            -                        tb-nya                                  Tibetan                                 
@@ -480,10 +545,16 @@
     6F : o                                                 o                        o                                       Basic Latin                             
    43E : ocyr                                              ocyr                     ocyr                                    Cyrillic                                
    913 : dv-o                                              dvO                      dv-o                                    Devanagari                              
+   A93 : gjrt-o                                            gjO                      gjrt-o                                  Gujarati                                
+   ACB : gjrt-o                                            gjOsign                  gjrt-o                                  Gujarati                                
    B13 : ry-o                                              odO                      ry-o                                    Oriya                                   
    C92 : kn-o                                              knO                      kn-o                                    Kannada                                 
   1823 : mo-o                                              -                        mo-o                                    Mongolian                               
   A98E : ja-o                                              -                        ja-o                                    Javanese                                
+
+   911 : ocandra                                           dvOcandra                ocandra                                 Devanagari                              
+   A91 : ocandra                                           gjOcandra                ocandra                                 Gujarati                                
+   AC9 : ocandra                                           gjOcandrasign            ocandra                                 Gujarati                                
 
     F6 : odieresis                                         odieresis                odieresis                               Latin-1 Supplement                      
    4E7 : odieresiscyr                                      odieresiscyr             odieresiscyr                            Cyrillic                                
@@ -492,12 +563,16 @@
    6C6 : ar-oe                                             arOe                     ar-oe                                   Arabic                                  
   1825 : mo-oe                                             -                        mo-oe                                   Mongolian                               
 
+   950 : om                                                dvOm                     om                                      Devanagari                              
+   AD0 : om                                                gjOm                     om                                      Gujarati                                
+
    3C9 : omega                                             omega                    omega                                   Greek and Coptic                        
    461 : omegacyr                                          omegacyrillic            omegacyr                                Cyrillic                                
 
     31 : one                                               one                      one                                     Basic Latin                             
    661 : ar-one                                            arOne                    ar-one                                  Arabic                                  
    967 : dv-one                                            dvOne                    dv-one                                  Devanagari                              
+   AE7 : gjrt-one                                          gjOne                    gjrt-one                                Gujarati                                
    B67 : ry-one                                            odOne                    ry-one                                  Oriya                                   
    CE7 : kn-one                                            knOne                    kn-one                                  Kannada                                 
    F21 : tb-one                                            -                        tb-one                                  Tibetan                                 
@@ -512,6 +587,7 @@
    CCA : kn-osign                                          knOsign                  kn-osign                                Kannada                                 
 
    92A : dv-pa                                             dvPa                     dv-pa                                   Devanagari                              
+   AAA : gjrt-pa                                           gjPa                     gjrt-pa                                 Gujarati                                
    B2A : ry-pa                                             odPa                     ry-pa                                   Oriya                                   
    CAA : kn-pa                                             knPa                     kn-pa                                   Kannada                                 
    F54 : tb-pa                                             -                        tb-pa                                   Tibetan                                 
@@ -539,6 +615,7 @@
   2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     
 
    92B : dv-pha                                            dvPha                    dv-pha                                  Devanagari                              
+   AAB : gjrt-pha                                          gjPha                    gjrt-pha                                Gujarati                                
    B2B : ry-pha                                            odPha                    ry-pha                                  Oriya                                   
    CAB : kn-pha                                            knPha                    kn-pha                                  Kannada                                 
    F55 : tb-pha                                            -                        tb-pha                                  Tibetan                                 
@@ -557,6 +634,7 @@
 
    57C : am-ra                                             raarmenian               am-ra                                   Armenian                                
    930 : dv-ra                                             dvRa                     dv-ra                                   Devanagari                              
+   AB0 : gjrt-ra                                           gjRa                     gjrt-ra                                 Gujarati                                
    B30 : ry-ra                                             odRa                     ry-ra                                   Oriya                                   
    CB0 : kn-ra                                             knRa                     kn-ra                                   Kannada                                 
    F62 : tb-ra                                             -                        tb-ra                                   Tibetan                                 
@@ -575,21 +653,29 @@
    CB1 : kn-rra                                            knRra                    kn-rra                                  Kannada                                 
    F6C : tb-rra                                            -                        tb-rra                                  Tibetan                                 
 
+   944 : rrsignvocal                                       dvRrvocalsign            rrsignvocal                             Devanagari                              
+   B44 : rrsignvocal                                       odRrvocalsign            rrsignvocal                             Oriya                                   
+
    960 : dv-rrvocal                                        dvRrvocal                dv-rrvocal                              Devanagari                              
+   AC4 : gjrt-rrvocal                                      gjRrvocalsign            gjrt-rrvocal                            Gujarati                                
+   AE0 : gjrt-rrvocal                                      gjRrvocal                gjrt-rrvocal                            Gujarati                                
    B60 : ry-rrvocal                                        odRrvocal                ry-rrvocal                              Oriya                                   
    CE0 : kn-rrvocal                                        knRrvocal                kn-rrvocal                              Kannada                                 
 
-   944 : dv-rrvocalsign                                    dvRrvocalsign            dv-rrvocalsign                          Devanagari                              
-   CC4 : kn-rrvocalsign                                    knRrvocalsign            kn-rrvocalsign                          Kannada                                 
+   943 : rsignvocal                                        dvRvocalsign             rsignvocal                              Devanagari                              
+   B43 : rsignvocal                                        odRvocalsign             rsignvocal                              Oriya                                   
+
+   AF1 : rupee                                             gjRupee                  rupee                                   Gujarati                                
+  20A8 : rupee                                             rupee                    rupee                                   Currency Symbols                        
 
    90B : dv-rvocal                                         dvRvocal                 dv-rvocal                               Devanagari                              
+   A8B : gjrt-rvocal                                       gjRvocal                 gjrt-rvocal                             Gujarati                                
+   AC3 : gjrt-rvocal                                       gjRvocalsign             gjrt-rvocal                             Gujarati                                
    B0B : ry-rvocal                                         odRvocal                 ry-rvocal                               Oriya                                   
    C8B : kn-rvocal                                         knRvocal                 kn-rvocal                               Kannada                                 
 
-   943 : dv-rvocalsign                                     dvRvocalsign             dv-rvocalsign                           Devanagari                              
-   CC3 : kn-rvocalsign                                     knRvocalsign             kn-rvocalsign                           Kannada                                 
-
    938 : dv-sa                                             dvSa                     dv-sa                                   Devanagari                              
+   AB8 : gjrt-sa                                           gjSa                     gjrt-sa                                 Gujarati                                
    B38 : ry-sa                                             odSa                     ry-sa                                   Oriya                                   
    CB8 : kn-sa                                             knSa                     kn-sa                                   Kannada                                 
    F66 : tb-sa                                             -                        tb-sa                                   Tibetan                                 
@@ -605,6 +691,7 @@
     37 : seven                                             seven                    seven                                   Basic Latin                             
    667 : ar-seven                                          arSeven                  ar-seven                                Arabic                                  
    96D : dv-seven                                          dvSeven                  dv-seven                                Devanagari                              
+   AED : gjrt-seven                                        gjSeven                  gjrt-seven                              Gujarati                                
    B6D : ry-seven                                          odSeven                  ry-seven                                Oriya                                   
    CED : kn-seven                                          knSeven                  kn-seven                                Kannada                                 
    F27 : tb-seven                                          -                        tb-seven                                Tibetan                                 
@@ -614,6 +701,7 @@
    448 : shacyr                                            sha                      shacyr                                  Cyrillic                                
    577 : am-sha                                            shaarmenian              am-sha                                  Armenian                                
    936 : dv-sha                                            dvSha                    dv-sha                                  Devanagari                              
+   AB6 : gjrt-sha                                          gjSha                    gjrt-sha                                Gujarati                                
    B36 : ry-sha                                            odSha                    ry-sha                                  Oriya                                   
    CB6 : kn-sha                                            knSha                    kn-sha                                  Kannada                                 
    F64 : tb-sha                                            -                        tb-sha                                  Tibetan                                 
@@ -622,6 +710,7 @@
     36 : six                                               six                      six                                     Basic Latin                             
    666 : ar-six                                            arSix                    ar-six                                  Arabic                                  
    96C : dv-six                                            dvSix                    dv-six                                  Devanagari                              
+   AEC : gjrt-six                                          gjSix                    gjrt-six                                Gujarati                                
    B6C : ry-six                                            odSix                    ry-six                                  Oriya                                   
    CEC : kn-six                                            knSix                    kn-six                                  Kannada                                 
    F26 : tb-six                                            -                        tb-six                                  Tibetan                                 
@@ -629,11 +718,13 @@
   A9D6 : ja-six                                            -                        ja-six                                  Javanese                                
 
    937 : dv-ssa                                            dvSsa                    dv-ssa                                  Devanagari                              
+   AB7 : gjrt-ssa                                          gjSsa                    gjrt-ssa                                Gujarati                                
    B37 : ry-ssa                                            odSsa                    ry-ssa                                  Oriya                                   
    CB7 : kn-ssa                                            knSsa                    kn-ssa                                  Kannada                                 
    F65 : tb-ssa                                            -                        tb-ssa                                  Tibetan                                 
 
    924 : dv-ta                                             dvTa                     dv-ta                                   Devanagari                              
+   AA4 : gjrt-ta                                           gjTa                     gjrt-ta                                 Gujarati                                
    B24 : ry-ta                                             odTa                     ry-ta                                   Oriya                                   
    CA4 : kn-ta                                             knTa                     kn-ta                                   Kannada                                 
    F4F : tb-ta                                             -                        tb-ta                                   Tibetan                                 
@@ -641,6 +732,7 @@
   A9A0 : ja-ta                                             -                        ja-ta                                   Javanese                                
 
    925 : dv-tha                                            dvTha                    dv-tha                                  Devanagari                              
+   AA5 : gjrt-tha                                          gjTha                    gjrt-tha                                Gujarati                                
    B25 : ry-tha                                            odTha                    ry-tha                                  Oriya                                   
    CA5 : kn-tha                                            knTha                    kn-tha                                  Kannada                                 
    F50 : tb-tha                                            -                        tb-tha                                  Tibetan                                 
@@ -651,6 +743,7 @@
     33 : three                                             three                    three                                   Basic Latin                             
    663 : ar-three                                          arThree                  ar-three                                Arabic                                  
    969 : dv-three                                          dvThree                  dv-three                                Devanagari                              
+   AE9 : gjrt-three                                        gjThree                  gjrt-three                              Gujarati                                
    B69 : ry-three                                          odThree                  ry-three                                Oriya                                   
    CE9 : kn-three                                          knThree                  kn-three                                Kannada                                 
    F23 : tb-three                                          -                        tb-three                                Tibetan                                 
@@ -664,12 +757,14 @@
   183C : mo-tsa                                            -                        mo-tsa                                  Mongolian                               
 
    91F : dv-tta                                            dvTta                    dv-tta                                  Devanagari                              
+   A9F : gjrt-tta                                          gjTta                    gjrt-tta                                Gujarati                                
    B1F : ry-tta                                            odTta                    ry-tta                                  Oriya                                   
    C9F : kn-tta                                            knTta                    kn-tta                                  Kannada                                 
    F4A : tb-tta                                            -                        tb-tta                                  Tibetan                                 
   A99B : ja-tta                                            -                        ja-tta                                  Javanese                                
 
    920 : dv-ttha                                           dvTtha                   dv-ttha                                 Devanagari                              
+   AA0 : gjrt-ttha                                         gjTtha                   gjrt-ttha                               Gujarati                                
    B20 : ry-ttha                                           odTtha                   ry-ttha                                 Oriya                                   
    CA0 : kn-ttha                                           knTtha                   kn-ttha                                 Kannada                                 
    F4B : tb-ttha                                           -                        tb-ttha                                 Tibetan                                 
@@ -677,6 +772,7 @@
     32 : two                                               two                      two                                     Basic Latin                             
    662 : ar-two                                            arTwo                    ar-two                                  Arabic                                  
    968 : dv-two                                            dvTwo                    dv-two                                  Devanagari                              
+   AE8 : gjrt-two                                          gjTwo                    gjrt-two                                Gujarati                                
    B68 : ry-two                                            odTwo                    ry-two                                  Oriya                                   
    CE8 : kn-two                                            knTwo                    kn-two                                  Kannada                                 
    F22 : tb-two                                            -                        tb-two                                  Tibetan                                 
@@ -687,6 +783,8 @@
    443 : ucyr                                              ucyr                     ucyr                                    Cyrillic                                
    6C7 : ar-u                                              arU                      ar-u                                    Arabic                                  
    909 : dv-u                                              dvU                      dv-u                                    Devanagari                              
+   A89 : gjrt-u                                            gjU                      gjrt-u                                  Gujarati                                
+   AC1 : gjrt-u                                            gjUsign                  gjrt-u                                  Gujarati                                
    B09 : ry-u                                              odU                      ry-u                                    Oriya                                   
    C89 : kn-u                                              knU                      kn-u                                    Kannada                                 
   1824 : mo-u                                              -                        mo-u                                    Mongolian                               
@@ -694,6 +792,9 @@
 
     FC : udieresis                                         udieresis                udieresis                               Latin-1 Supplement                      
    4F1 : udieresiscyr                                      udieresiscyr             udieresiscyr                            Cyrillic                                
+
+  1826 : ue                                                -                        ue                                      Mongolian                               
+  1D6B : ue                                                -                        ue                                      Phonetic Extensions                     
 
    16B : umacron                                           umacron                  umacron                                 Latin Extended-A                        
    4EF : umacroncyr                                        umacroncyr               umacroncyr                              Cyrillic                                
@@ -706,6 +807,8 @@
    CC1 : kn-usign                                          knUsign                  kn-usign                                Kannada                                 
 
    90A : dv-uu                                             dvUu                     dv-uu                                   Devanagari                              
+   A8A : gjrt-uu                                           gjUu                     gjrt-uu                                 Gujarati                                
+   AC2 : gjrt-uu                                           gjUusign                 gjrt-uu                                 Gujarati                                
    B0A : ry-uu                                             odUu                     ry-uu                                   Oriya                                   
    C8A : kn-uu                                             knUu                     kn-uu                                   Kannada                                 
 
@@ -714,6 +817,7 @@
    CC2 : kn-uusign                                         knUusign                 kn-uusign                               Kannada                                 
 
    935 : dv-va                                             dvVa                     dv-va                                   Devanagari                              
+   AB5 : gjrt-va                                           gjVa                     gjrt-va                                 Gujarati                                
    B35 : ry-va                                             odVa                     ry-va                                   Oriya                                   
    CB5 : kn-va                                             knVa                     kn-va                                   Kannada                                 
 
@@ -721,10 +825,12 @@
    6CB : ar-ve                                             arVe                     ar-ve                                   Arabic                                  
 
    94D : dv-virama                                         dvVirama                 dv-virama                               Devanagari                              
+   ACD : gjrt-virama                                       gjVirama                 gjrt-virama                             Gujarati                                
    B4D : ry-virama                                         odVirama                 ry-virama                               Oriya                                   
    CCD : kn-virama                                         knVirama                 kn-virama                               Kannada                                 
 
    903 : dv-visarga                                        dvVisarga                dv-visarga                              Devanagari                              
+   A83 : gjrt-visarga                                      gjVisarga                gjrt-visarga                            Gujarati                                
    B03 : ry-visarga                                        odVisarga                ry-visarga                              Oriya                                   
    C83 : kn-visarga                                        knVisarga                kn-visarga                              Kannada                                 
 
@@ -735,6 +841,7 @@
 
    44F : yacyr                                             ya                       yacyr                                   Cyrillic                                
    92F : dv-ya                                             dvYa                     dv-ya                                   Devanagari                              
+   AAF : gjrt-ya                                           gjYa                     gjrt-ya                                 Gujarati                                
    B2F : ry-ya                                             odYa                     ry-ya                                   Oriya                                   
    CAF : kn-ya                                             knYa                     kn-ya                                   Kannada                                 
    F61 : tb-ya                                             -                        tb-ya                                   Tibetan                                 
@@ -758,6 +865,7 @@
     30 : zero                                              zero                     zero                                    Basic Latin                             
    660 : ar-zero                                           arZero                   ar-zero                                 Arabic                                  
    966 : dv-zero                                           dvZero                   dv-zero                                 Devanagari                              
+   AE6 : gjrt-zero                                         gjZero                   gjrt-zero                               Gujarati                                
    B66 : ry-zero                                           odZero                   ry-zero                                 Oriya                                   
    CE6 : kn-zero                                           knZero                   kn-zero                                 Kannada                                 
    F20 : tb-zero                                           -                        tb-zero                                 Tibetan                                 
@@ -769,13 +877,14 @@
 
    436 : zhecyr                                            zhe                      zhecyr                                  Cyrillic                                
    56A : am-zhe                                            zhearmenian              am-zhe                                  Armenian                                
-# 175 names with conflicts, affecting 594 unicodes
+# 185 names with conflicts, affecting 692 unicodes
 
 
 Conflicts by rangename
 
 Arabic
    6D5 : ar-ae                                             arAe                     ar-ae                                   Arabic                                  
+   639 : ain                                               arAin                    ain                                     Arabic                                  
    627 : ar-alef                                           arAlef                   ar-alef                                 Arabic                                  
    60C : ar-comma                                          arComma                  ar-comma                                Arabic                                  
    606 : ar-cuberoot                                       -                        ar-cuberoot                             Arabic                                  
@@ -866,6 +975,9 @@ Basic Latin
 CJK Compatibility
   3374 : cjk-barfullwidth                                  barfullwidth             cjk-barfullwidth                        CJK Compatibility                       
 
+Currency Symbols
+  20A8 : rupee                                             rupee                    rupee                                   Currency Symbols                        
+
 Cyrillic
    410 : Acyr                                              Acyr                     Acyr                                    Cyrillic                                
    4D0 : Abrevecyr                                         Abrevecyr                Abrevecyr                               Cyrillic                                
@@ -950,6 +1062,7 @@ Devanagari
    922 : dv-ddha                                           dvDdha                   dv-ddha                                 Devanagari                              
    927 : dv-dha                                            dvDha                    dv-dha                                  Devanagari                              
    90F : dv-e                                              dvE                      dv-e                                    Devanagari                              
+   90D : ecandra                                           dvEcandra                ecandra                                 Devanagari                              
    96E : dv-eight                                          dvEight                  dv-eight                                Devanagari                              
    947 : dv-esign                                          dvEsign                  dv-esign                                Devanagari                              
    95E : dv-fa                                             dvFa                     dv-fa                                   Devanagari                              
@@ -970,10 +1083,10 @@ Devanagari
    916 : dv-kha                                            dvKha                    dv-kha                                  Devanagari                              
    932 : dv-la                                             dvLa                     dv-la                                   Devanagari                              
    933 : dv-lla                                            dvLla                    dv-lla                                  Devanagari                              
+   963 : llsignvocal                                       dvLlvocalsign            llsignvocal                             Devanagari                              
    961 : dv-llvocal                                        dvLlvocal                dv-llvocal                              Devanagari                              
-   963 : dv-llvocalsign                                    dvLlvocalsign            dv-llvocalsign                          Devanagari                              
+   962 : lsignvocal                                        dvLvocalsign             lsignvocal                              Devanagari                              
    90C : dv-lvocal                                         dvLvocal                 dv-lvocal                               Devanagari                              
-   962 : dv-lvocalsign                                     dvLvocalsign             dv-lvocalsign                           Devanagari                              
    92E : dv-ma                                             dvMa                     dv-ma                                   Devanagari                              
    928 : dv-na                                             dvNa                     dv-na                                   Devanagari                              
    919 : dv-nga                                            dvNga                    dv-nga                                  Devanagari                              
@@ -982,6 +1095,8 @@ Devanagari
    93C : dv-nukta                                          dvNukta                  dv-nukta                                Devanagari                              
    91E : dv-nya                                            dvNya                    dv-nya                                  Devanagari                              
    913 : dv-o                                              dvO                      dv-o                                    Devanagari                              
+   911 : ocandra                                           dvOcandra                ocandra                                 Devanagari                              
+   950 : om                                                dvOm                     om                                      Devanagari                              
    967 : dv-one                                            dvOne                    dv-one                                  Devanagari                              
    94B : dv-osign                                          dvOsign                  dv-osign                                Devanagari                              
    92A : dv-pa                                             dvPa                     dv-pa                                   Devanagari                              
@@ -990,10 +1105,10 @@ Devanagari
    930 : dv-ra                                             dvRa                     dv-ra                                   Devanagari                              
    95D : dv-rha                                            dvRha                    dv-rha                                  Devanagari                              
    931 : dv-rra                                            dvRra                    dv-rra                                  Devanagari                              
+   944 : rrsignvocal                                       dvRrvocalsign            rrsignvocal                             Devanagari                              
    960 : dv-rrvocal                                        dvRrvocal                dv-rrvocal                              Devanagari                              
-   944 : dv-rrvocalsign                                    dvRrvocalsign            dv-rrvocalsign                          Devanagari                              
+   943 : rsignvocal                                        dvRvocalsign             rsignvocal                              Devanagari                              
    90B : dv-rvocal                                         dvRvocal                 dv-rvocal                               Devanagari                              
-   943 : dv-rvocalsign                                     dvRvocalsign             dv-rvocalsign                           Devanagari                              
    938 : dv-sa                                             dvSa                     dv-sa                                   Devanagari                              
    96D : dv-seven                                          dvSeven                  dv-seven                                Devanagari                              
    936 : dv-sha                                            dvSha                    dv-sha                                  Devanagari                              
@@ -1047,6 +1162,90 @@ Greek and Coptic
    37E : gr-question                                       questiongreek            gr-question                             Greek and Coptic                        
    3C5 : upsilon                                           upsilon                  upsilon                                 Greek and Coptic                        
 
+Gujarati
+   A85 : gjrt-a                                            gjA                      gjrt-a                                  Gujarati                                
+   A86 : gjrt-aa                                           gjAa                     gjrt-aa                                 Gujarati                                
+   ABE : gjrt-aa                                           gjAasign                 gjrt-aa                                 Gujarati                                
+   A90 : gjrt-ai                                           gjAi                     gjrt-ai                                 Gujarati                                
+   AC8 : gjrt-ai                                           gjAisign                 gjrt-ai                                 Gujarati                                
+   A82 : gjrt-anusvara                                     gjAnusvara               gjrt-anusvara                           Gujarati                                
+   A94 : gjrt-au                                           gjAu                     gjrt-au                                 Gujarati                                
+   ACC : gjrt-au                                           gjAusign                 gjrt-au                                 Gujarati                                
+   ABD : gjrt-avagraha                                     gjAvagraha               gjrt-avagraha                           Gujarati                                
+   AAC : gjrt-ba                                           gjBa                     gjrt-ba                                 Gujarati                                
+   AAD : gjrt-bha                                          gjBha                    gjrt-bha                                Gujarati                                
+   A9A : gjrt-ca                                           gjCa                     gjrt-ca                                 Gujarati                                
+   A9B : gjrt-cha                                          gjCha                    gjrt-cha                                Gujarati                                
+   AA6 : gjrt-da                                           gjDa                     gjrt-da                                 Gujarati                                
+   AA1 : gjrt-dda                                          gjDda                    gjrt-dda                                Gujarati                                
+   AA2 : gjrt-ddha                                         gjDdha                   gjrt-ddha                               Gujarati                                
+   AA7 : gjrt-dha                                          gjDha                    gjrt-dha                                Gujarati                                
+   A8F : gjrt-e                                            gjE                      gjrt-e                                  Gujarati                                
+   AC7 : gjrt-e                                            gjEsign                  gjrt-e                                  Gujarati                                
+   A8D : ecandra                                           gjEcandra                ecandra                                 Gujarati                                
+   AC5 : ecandra                                           gjEcandrasign            ecandra                                 Gujarati                                
+   AEE : gjrt-eight                                        gjEight                  gjrt-eight                              Gujarati                                
+   AEB : gjrt-five                                         gjFive                   gjrt-five                               Gujarati                                
+   AEA : gjrt-four                                         gjFour                   gjrt-four                               Gujarati                                
+   A97 : gjrt-ga                                           gjGa                     gjrt-ga                                 Gujarati                                
+   A98 : gjrt-gha                                          gjGha                    gjrt-gha                                Gujarati                                
+   AB9 : gjrt-ha                                           gjHa                     gjrt-ha                                 Gujarati                                
+   A87 : gjrt-i                                            gjI                      gjrt-i                                  Gujarati                                
+   ABF : gjrt-i                                            gjIsign                  gjrt-i                                  Gujarati                                
+   A88 : gjrt-ii                                           gjIi                     gjrt-ii                                 Gujarati                                
+   AC0 : gjrt-ii                                           gjIisign                 gjrt-ii                                 Gujarati                                
+   A9C : gjrt-ja                                           gjJa                     gjrt-ja                                 Gujarati                                
+   A9D : gjrt-jha                                          gjJha                    gjrt-jha                                Gujarati                                
+   A95 : gjrt-ka                                           gjKa                     gjrt-ka                                 Gujarati                                
+   A96 : gjrt-kha                                          gjKha                    gjrt-kha                                Gujarati                                
+   AB2 : gjrt-la                                           gjLa                     gjrt-la                                 Gujarati                                
+   AB3 : gjrt-lla                                          gjLla                    gjrt-lla                                Gujarati                                
+   AE1 : gjrt-llvocal                                      gjLlvocal                gjrt-llvocal                            Gujarati                                
+   AE3 : gjrt-llvocal                                      gjLlvocalsign            gjrt-llvocal                            Gujarati                                
+   A8C : gjrt-lvocal                                       gjLvocal                 gjrt-lvocal                             Gujarati                                
+   AE2 : gjrt-lvocal                                       gjLvocalsign             gjrt-lvocal                             Gujarati                                
+   AAE : gjrt-ma                                           gjMa                     gjrt-ma                                 Gujarati                                
+   AA8 : gjrt-na                                           gjNa                     gjrt-na                                 Gujarati                                
+   A99 : gjrt-nga                                          gjNga                    gjrt-nga                                Gujarati                                
+   AEF : gjrt-nine                                         gjNine                   gjrt-nine                               Gujarati                                
+   AA3 : gjrt-nna                                          gjNna                    gjrt-nna                                Gujarati                                
+   ABC : gjrt-nukta                                        gjNukta                  gjrt-nukta                              Gujarati                                
+   A9E : gjrt-nya                                          gjNya                    gjrt-nya                                Gujarati                                
+   A93 : gjrt-o                                            gjO                      gjrt-o                                  Gujarati                                
+   ACB : gjrt-o                                            gjOsign                  gjrt-o                                  Gujarati                                
+   A91 : ocandra                                           gjOcandra                ocandra                                 Gujarati                                
+   AC9 : ocandra                                           gjOcandrasign            ocandra                                 Gujarati                                
+   AD0 : om                                                gjOm                     om                                      Gujarati                                
+   AE7 : gjrt-one                                          gjOne                    gjrt-one                                Gujarati                                
+   AAA : gjrt-pa                                           gjPa                     gjrt-pa                                 Gujarati                                
+   AAB : gjrt-pha                                          gjPha                    gjrt-pha                                Gujarati                                
+   AB0 : gjrt-ra                                           gjRa                     gjrt-ra                                 Gujarati                                
+   AC4 : gjrt-rrvocal                                      gjRrvocalsign            gjrt-rrvocal                            Gujarati                                
+   AE0 : gjrt-rrvocal                                      gjRrvocal                gjrt-rrvocal                            Gujarati                                
+   AF1 : rupee                                             gjRupee                  rupee                                   Gujarati                                
+   A8B : gjrt-rvocal                                       gjRvocal                 gjrt-rvocal                             Gujarati                                
+   AC3 : gjrt-rvocal                                       gjRvocalsign             gjrt-rvocal                             Gujarati                                
+   AB8 : gjrt-sa                                           gjSa                     gjrt-sa                                 Gujarati                                
+   AED : gjrt-seven                                        gjSeven                  gjrt-seven                              Gujarati                                
+   AB6 : gjrt-sha                                          gjSha                    gjrt-sha                                Gujarati                                
+   AEC : gjrt-six                                          gjSix                    gjrt-six                                Gujarati                                
+   AB7 : gjrt-ssa                                          gjSsa                    gjrt-ssa                                Gujarati                                
+   AA4 : gjrt-ta                                           gjTa                     gjrt-ta                                 Gujarati                                
+   AA5 : gjrt-tha                                          gjTha                    gjrt-tha                                Gujarati                                
+   AE9 : gjrt-three                                        gjThree                  gjrt-three                              Gujarati                                
+   A9F : gjrt-tta                                          gjTta                    gjrt-tta                                Gujarati                                
+   AA0 : gjrt-ttha                                         gjTtha                   gjrt-ttha                               Gujarati                                
+   AE8 : gjrt-two                                          gjTwo                    gjrt-two                                Gujarati                                
+   A89 : gjrt-u                                            gjU                      gjrt-u                                  Gujarati                                
+   AC1 : gjrt-u                                            gjUsign                  gjrt-u                                  Gujarati                                
+   A8A : gjrt-uu                                           gjUu                     gjrt-uu                                 Gujarati                                
+   AC2 : gjrt-uu                                           gjUusign                 gjrt-uu                                 Gujarati                                
+   AB5 : gjrt-va                                           gjVa                     gjrt-va                                 Gujarati                                
+   ACD : gjrt-virama                                       gjVirama                 gjrt-virama                             Gujarati                                
+   A83 : gjrt-visarga                                      gjVisarga                gjrt-visarga                            Gujarati                                
+   AAF : gjrt-ya                                           gjYa                     gjrt-ya                                 Gujarati                                
+   AE6 : gjrt-zero                                         gjZero                   gjrt-zero                               Gujarati                                
+
 Halfwidth and Fullwidth Forms
   FF5C : hlfw-barfullwidth                                 linevertfullwidth        hlfw-barfullwidth                       Halfwidth and Fullwidth Forms           
 
@@ -1064,6 +1263,9 @@ Hebrew
    5E4 : hb-pe                                             hePe                     hb-pe                                   Hebrew                                  
 
 IPA Extensions
+   26A : Ismall                                            Ismall                   Ismall                                  IPA Extensions                          
+   29F : Lsmall                                            Lsmall                   Lsmall                                  IPA Extensions                          
+   274 : Nsmall                                            Nsmall                   Nsmall                                  IPA Extensions                          
    251 : ipa-alpha                                         alphalatin               ipa-alpha                               IPA Extensions                          
    258 : ipa-ereversed                                     ereversed                ipa-ereversed                           IPA Extensions                          
    263 : ipa-gamma                                         gammalatin               ipa-gamma                               IPA Extensions                          
@@ -1152,9 +1354,7 @@ Kannada
    CB2 : kn-la                                             knLa                     kn-la                                   Kannada                                 
    CB3 : kn-lla                                            knLla                    kn-lla                                  Kannada                                 
    CE1 : kn-llvocal                                        knLlvocal                kn-llvocal                              Kannada                                 
-   CE3 : kn-llvocalsign                                    knLlvocalsign            kn-llvocalsign                          Kannada                                 
    C8C : kn-lvocal                                         knLvocal                 kn-lvocal                               Kannada                                 
-   CE2 : kn-lvocalsign                                     knLvocalsign             kn-lvocalsign                           Kannada                                 
    CAE : kn-ma                                             knMa                     kn-ma                                   Kannada                                 
    CA8 : kn-na                                             knNa                     kn-na                                   Kannada                                 
    C99 : kn-nga                                            knNga                    kn-nga                                  Kannada                                 
@@ -1171,9 +1371,7 @@ Kannada
    CB0 : kn-ra                                             knRa                     kn-ra                                   Kannada                                 
    CB1 : kn-rra                                            knRra                    kn-rra                                  Kannada                                 
    CE0 : kn-rrvocal                                        knRrvocal                kn-rrvocal                              Kannada                                 
-   CC4 : kn-rrvocalsign                                    knRrvocalsign            kn-rrvocalsign                          Kannada                                 
    C8B : kn-rvocal                                         knRvocal                 kn-rvocal                               Kannada                                 
-   CC3 : kn-rvocalsign                                     knRvocalsign             kn-rvocalsign                           Kannada                                 
    CB8 : kn-sa                                             knSa                     kn-sa                                   Kannada                                 
    CED : kn-seven                                          knSeven                  kn-seven                                Kannada                                 
    CB6 : kn-sha                                            knSha                    kn-sha                                  Kannada                                 
@@ -1291,6 +1489,7 @@ Mongolian
   183C : mo-tsa                                            -                        mo-tsa                                  Mongolian                               
   1812 : mo-two                                            -                        mo-two                                  Mongolian                               
   1824 : mo-u                                              -                        mo-u                                    Mongolian                               
+  1826 : ue                                                -                        ue                                      Mongolian                               
   1838 : mo-wa                                             -                        mo-wa                                   Mongolian                               
   1836 : mo-ya                                             -                        mo-ya                                   Mongolian                               
   183D : mo-za                                             -                        mo-za                                   Mongolian                               
@@ -1333,7 +1532,9 @@ Oriya
    B16 : ry-kha                                            odKha                    ry-kha                                  Oriya                                   
    B32 : ry-la                                             odLa                     ry-la                                   Oriya                                   
    B33 : ry-lla                                            odLla                    ry-lla                                  Oriya                                   
+   B63 : llsignvocal                                       odLlvocalsign            llsignvocal                             Oriya                                   
    B61 : ry-llvocal                                        odLlvocal                ry-llvocal                              Oriya                                   
+   B62 : lsignvocal                                        odLvocalsign             lsignvocal                              Oriya                                   
    B0C : ry-lvocal                                         odLvocal                 ry-lvocal                               Oriya                                   
    B2E : ry-ma                                             odMa                     ry-ma                                   Oriya                                   
    B28 : ry-na                                             odNa                     ry-na                                   Oriya                                   
@@ -1350,7 +1551,9 @@ Oriya
    B30 : ry-ra                                             odRa                     ry-ra                                   Oriya                                   
    B5D : ry-rha                                            odRha                    ry-rha                                  Oriya                                   
    B5C : ry-rra                                            odRra                    ry-rra                                  Oriya                                   
+   B44 : rrsignvocal                                       odRrvocalsign            rrsignvocal                             Oriya                                   
    B60 : ry-rrvocal                                        odRrvocal                ry-rrvocal                              Oriya                                   
+   B43 : rsignvocal                                        odRvocalsign             rsignvocal                              Oriya                                   
    B0B : ry-rvocal                                         odRvocal                 ry-rvocal                               Oriya                                   
    B38 : ry-sa                                             odSa                     ry-sa                                   Oriya                                   
    B6D : ry-seven                                          odSeven                  ry-seven                                Oriya                                   
@@ -1374,6 +1577,17 @@ Oriya
    B2F : ry-ya                                             odYa                     ry-ya                                   Oriya                                   
    B5F : ry-yya                                            odYya                    ry-yya                                  Oriya                                   
    B66 : ry-zero                                           odZero                   ry-zero                                 Oriya                                   
+
+Phonetic Extensions
+  1D1C : Usmall                                            -                        Usmall                                  Phonetic Extensions                     
+  1D25 : ain                                               -                        ain                                     Phonetic Extensions                     
+  1D6B : ue                                                -                        ue                                      Phonetic Extensions                     
+
+Phonetic Extensions Supplement
+  1DA6 : Ismall                                            -                        Ismall                                  Phonetic Extensions Supplement          
+  1DAB : Lsmall                                            -                        Lsmall                                  Phonetic Extensions Supplement          
+  1DB0 : Nsmall                                            -                        Nsmall                                  Phonetic Extensions Supplement          
+  1DB8 : Usmall                                            -                        Usmall                                  Phonetic Extensions Supplement          
 
 Spacing Modifier Letters
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                
