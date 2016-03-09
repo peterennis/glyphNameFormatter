@@ -14,13 +14,21 @@ lines = f.readlines()
 f.close()
 
 # format
-# glyphName hexUnicode
+# <glyphName>
+# <tab> <tag>: <value>
+
+currentGlyphName = None
 for line in lines:
-    if line:
-        name, uni = line.split()
-        uni = int(uni, 16)
-        unicode2name_AGD[uni] = name
-        name2unicode_AGD[name] = uni
+    if line.startswith("\t") and currentGlyphName is not None:
+        tag, value = line.split(":")
+        tag = tag.strip()
+        value = value.strip()
+        if tag == "uni":
+            value = int(value, 16)
+            unicode2name_AGD[value] = currentGlyphName
+            name2unicode_AGD[currentGlyphName] = value
+    else:
+        currentGlyphName = line.strip()
 
 
 # ==================
