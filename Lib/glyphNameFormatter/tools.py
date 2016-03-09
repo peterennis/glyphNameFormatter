@@ -23,6 +23,10 @@ def charToUnicode(char):
         return ord(char)
     return 0x10000 + (ord(char[0]) - 0xD800) * 0x400 + (ord(char[1]) - 0xDC00)
 
+
+class GlyphNameFormatterError(Exception):
+    pass
+
 if __name__ == "__main__":
     assert camelCase("aaaa") == "Aaaa"
     assert camelCase("aaaA") == "Aaaa"
