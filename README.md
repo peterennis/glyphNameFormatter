@@ -12,17 +12,23 @@ Experimental system for generating glyph name lists from unicode data.
 
 ### Rules
 
-* Glyph names should, as much as possible, only have script prefixes to disambiguate. Otherwise all names are equal. So `gaf` rather than `arGaf` for `ARABIC LETTER GAF`, or `Uk` rather than `Ukcyrillic` for `CYRILLIC CAPITAL LETTER UK`.
-* Script prefixes rather than suffixes to prevent interference with extensions as `.init`.
-* Short script prefixes. `cy-Psi` rather than `Psicyrillic`.
-* Disambiguation prefixes can be added after clash detection.
+* Glyph names should, as much as possible, only have script tags to disambiguate. Otherwise all names are equal. So `gaf` rather than `arGaf` for `ARABIC LETTER GAF`, or `Uk` rather than `Ukcyrillic` for `CYRILLIC CAPITAL LETTER UK`.
+* Script specific prefix or suffix.
+* Short script prefix or suffix.
+* Disambiguation prefix or suffix can be added after clash detection with all names.
 * If a name needs to include a language, this is added to the end: `yehfarsi.isol` for	`ARABIC LETTER FARSI YEH ISOLATED FORM`
 * If an AGD name has a language but it is not needed for disambiguation and Unicode does not mention it, it can be ignored. For instance `kgreenlandic` can just be	`kra`.
 
 ## Making lists
 
-Run `buildRanges.py` to make all the name lists. They will be deposited in `names/`. There will be other methods and other lists, but for now this is the place to make things.
+Run `test/buildRanges.py` to make all the name lists. They will be deposited in `names/ranges`. There will be other methods and other lists, but for now this is the place to make things.
 You can also run each of the range scripts in `rangeProcessors/` and they will print a nice readable table with the processed name, unicode value, original name. There is also a column for names from the Adobe AGL if it has a different name for that entry. 
+
+Run `test/analyseConflicts.py` to get an overview of all name clashes and how they are addressed. The results are in a text file in `names/conflict.txt`.
+
+Run `test/export.py` to generate a text file with <name> <unicode> pairs. The result is in `names/glyphNamesToUnicode.txt`.
+
+Run `testAGDcoverage.py` to generate an overview of all glyphranges that are needed to match the Adobe Glyph Dictionary. It also calculates how far we are along.
 
 ## Range Processors
 
