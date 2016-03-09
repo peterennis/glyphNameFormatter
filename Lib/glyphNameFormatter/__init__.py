@@ -26,7 +26,7 @@ class GlyphName(GlyphNameProcessor):
 
     prefSpelling_dieresis = "dieresis"
 
-    def __init__(self, uniNumber=None, verbose=False, includeCJK=False, includeScriptPrefix=False):
+    def __init__(self, uniNumber=None, verbose=False, includeCJK=False, includeScriptPrefix=True):
         self.uniNumber = uniNumber
         self.uniLetter = None
         self.uniName = ""
@@ -152,7 +152,9 @@ class GlyphName(GlyphNameProcessor):
                 # hope for the best then
                 return self.uniNameProcessed
         elif self.includeScriptPrefix and self.scriptTag:
-            return "%s-%s" % (self.scriptTag, self.uniNameProcessed)
+            if "%s" not in self.scriptTag:
+                self.scriptTag = "%s-%%s" % self.scriptTag
+            return self.scriptTag % self.uniNameProcessed
         else:
             return self.uniNameProcessed
 

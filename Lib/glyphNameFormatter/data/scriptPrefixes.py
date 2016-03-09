@@ -34,7 +34,7 @@ _scriptPrefixes = {
     'arabic': 'ar',
     'armenian': 'am',
     'boxdrawings': 'bxd',
-    'cyrillic': 'cy',
+    'cyrillic': '%scyr',
     'devanagari': 'dv',
     'greek': 'gr',
     'hangul': 'ko',
