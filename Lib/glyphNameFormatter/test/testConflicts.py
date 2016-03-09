@@ -5,13 +5,15 @@ from glyphNameFormatter.data import unicode2name_AGD
 
 #   Find duplicate names for different unicodes
 
+includeScriptPrefix = False
+
 def findConflict():
     names = {}
     lines = []
     for rangeName in getAllRangeNames():
         start, end = getRangeByName(rangeName)
         for uniNumber in range(start, end+1):
-            glyphName = glyphNameFormatter.GlyphName(uniNumber)
+            glyphName = glyphNameFormatter.GlyphName(uniNumber, includeScriptPrefix=includeScriptPrefix)
             if glyphName.hasName():
                 # lines.append("%04X\t%s\t%s" % (uniNumber, glyphName.getName(), glyphName.uniName))
                 name = glyphName.getName()
