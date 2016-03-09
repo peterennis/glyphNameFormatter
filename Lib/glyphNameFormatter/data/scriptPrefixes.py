@@ -29,6 +29,10 @@ class ScriptPrefixesDict(dict):
         # return the first four values
         return "".join(key[:4])
 
+# script prefixes are abbreviations of a script
+# optionally a pattern can be given:
+# '%scyr' will add 'cyr' to the end
+
 _scriptPrefixes = {
     'cjk': 'cjk',
     'arabic': 'ar',
