@@ -19,7 +19,7 @@
 2011	nonbreakinghyphen	NON-BREAKING HYPHEN
 2012	figuredash	FIGURE DASH
 2013	endash	EN DASH
-2014	emdash	EM DASH
+2014	gnrl-emdash	EM DASH
 2015	horizontalbar	HORIZONTAL BAR
 2016	verticalbardbl	DOUBLE VERTICAL LINE
 2017	underscoredbl	DOUBLE LOW LINE

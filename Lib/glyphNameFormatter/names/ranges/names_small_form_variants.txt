@@ -1,27 +1,27 @@
 # Small Form Variants FE50 - FE6F
-FE50	smallcomma	SMALL COMMA
-FE51	smallideographiccomma	SMALL IDEOGRAPHIC COMMA
-FE52	smallfullstop	SMALL FULL STOP
-FE54	smallsemicolon	SMALL SEMICOLON
-FE55	smallcolon	SMALL COLON
-FE56	smallquestionmark	SMALL QUESTION MARK
-FE57	smallexclamationmark	SMALL EXCLAMATION MARK
-FE58	smallemdash	SMALL EM DASH
-FE59	smallleftparenthesis	SMALL LEFT PARENTHESIS
-FE5A	smallrightparenthesis	SMALL RIGHT PARENTHESIS
-FE5B	smallleftcurlybracket	SMALL LEFT CURLY BRACKET
-FE5C	smallrightcurlybracket	SMALL RIGHT CURLY BRACKET
-FE5D	smalllefttortoiseshellbracket	SMALL LEFT TORTOISE SHELL BRACKET
-FE5E	smallrighttortoiseshellbracket	SMALL RIGHT TORTOISE SHELL BRACKET
-FE5F	smallnumbersign	SMALL NUMBER SIGN
-FE60	smallampersand	SMALL AMPERSAND
-FE61	smallasterisk	SMALL ASTERISK
-FE62	smallplussign	SMALL PLUS SIGN
-FE63	smallhyphenminus	SMALL HYPHEN-MINUS
-FE64	smalllessthansign	SMALL LESS-THAN SIGN
-FE65	smallgreaterthansign	SMALL GREATER-THAN SIGN
-FE66	smallequalssign	SMALL EQUALS SIGN
-FE68	smallreversesolidus	SMALL REVERSE SOLIDUS
-FE69	smalldollarsign	SMALL DOLLAR SIGN
-FE6A	smallpercentsign	SMALL PERCENT SIGN
-FE6B	smallcommercialat	SMALL COMMERCIAL AT
+FE50	smll-comma	SMALL COMMA
+FE51	smll-ideographiccomma	SMALL IDEOGRAPHIC COMMA
+FE52	smll-period	SMALL FULL STOP
+FE54	smll-semicolon	SMALL SEMICOLON
+FE55	smll-colon	SMALL COLON
+FE56	smll-question	SMALL QUESTION MARK
+FE57	smll-exclam	SMALL EXCLAMATION MARK
+FE58	smll-emdash	SMALL EM DASH
+FE59	parenthesisleft	SMALL LEFT PARENTHESIS
+FE5A	parenthesisright	SMALL RIGHT PARENTHESIS
+FE5B	smll-braceleft	SMALL LEFT CURLY BRACKET
+FE5C	smll-braceright	SMALL RIGHT CURLY BRACKET
+FE5D	smll-tortoiseshellbracketleft	SMALL LEFT TORTOISE SHELL BRACKET
+FE5E	smll-tortoiseshellbracketright	SMALL RIGHT TORTOISE SHELL BRACKET
+FE5F	smll-numbersign	SMALL NUMBER SIGN
+FE60	smll-ampersand	SMALL AMPERSAND
+FE61	smll-asterisk	SMALL ASTERISK
+FE62	smll-plus	SMALL PLUS SIGN
+FE63	smll-hyphen	SMALL HYPHEN-MINUS
+FE64	smll-less	SMALL LESS-THAN SIGN
+FE65	smll-greater	SMALL GREATER-THAN SIGN
+FE66	smll-equal	SMALL EQUALS SIGN
+FE68	smll-backslash	SMALL REVERSE SOLIDUS
+FE69	smll-dollar	SMALL DOLLAR SIGN
+FE6A	smll-percent	SMALL PERCENT SIGN
+FE6B	commercialat	SMALL COMMERCIAL AT

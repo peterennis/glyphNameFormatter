@@ -1,6 +1,6 @@
 # CJK Symbols and Punctuation 3000 - 303F
 3000	ideographicspace	IDEOGRAPHIC SPACE
-3001	ideographiccomma	IDEOGRAPHIC COMMA
+3001	cjk-ideographiccomma	IDEOGRAPHIC COMMA
 3002	ideographicperiod	IDEOGRAPHIC FULL STOP
 3003	dittomark	DITTO MARK
 3004	jis	JAPANESE INDUSTRIAL STANDARD SYMBOL
@@ -19,8 +19,8 @@
 3011	blacklenticularbracketright	RIGHT BLACK LENTICULAR BRACKET
 3012	postalmark	POSTAL MARK
 3013	getamark	GETA MARK
-3014	tortoiseshellbracketleft	LEFT TORTOISE SHELL BRACKET
-3015	tortoiseshellbracketright	RIGHT TORTOISE SHELL BRACKET
+3014	cjk-tortoiseshellbracketleft	LEFT TORTOISE SHELL BRACKET
+3015	cjk-tortoiseshellbracketright	RIGHT TORTOISE SHELL BRACKET
 3016	whitelenticularbracketleft	LEFT WHITE LENTICULAR BRACKET
 3017	whitelenticularbracketright	RIGHT WHITE LENTICULAR BRACKET
 3018	whitetortoiseshellbracketleft	LEFT WHITE TORTOISE SHELL BRACKET
