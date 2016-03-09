@@ -1,3 +1,4 @@
+from glyphNameFormatter.tools import GlyphNameFormatterError
 
 class ScriptPrefixesDict(dict):
 
@@ -29,6 +30,16 @@ class ScriptPrefixesDict(dict):
         # return the first four values
         return "".join(key[:4])
 
+
+def addScriptPrefix(txt, tag=None, script=None):
+    if tag is None and script is None:
+        raise GlyphNameFormatterError("Need a script or a tag")
+    if tag is None:
+        tag = scriptPrefixes[script]
+    if "%s" not in tag:
+        tag = "%s-%%s" % tag
+    return tag % txt
+
 # script prefixes are abbreviations of a script
 # optionally a pattern can be given:
 # '%scyr' will add 'cyr' to the end
@@ -50,6 +61,8 @@ _scriptPrefixes = {
     'latin': "lt",
     'mongolian': 'mo',
     'tibetan': 'tb',
+    'miscellaneous': 'misc',
+    'musical': 'music',
 }
 
 scriptPrefixes = ScriptPrefixesDict(_scriptPrefixes)

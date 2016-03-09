@@ -1,3 +1,5 @@
+from glyphNameFormatter.data.scriptPrefixes import addScriptPrefix
+
 
 def process(self):
     self.edit("LATIN")
@@ -30,6 +32,10 @@ def process(self):
     self.edit("RETROFLEX", "retroflex")
 
     self.replace("LETTER CLICK", "click")
+
+    self.replace("CAPITAL LETTER GAMMA", addScriptPrefix("Gamma", script="latin"))
+    self.replace("CAPITAL LETTER IOTA", addScriptPrefix("Iota", script="latin"))
+    self.replace("CAPITAL LETTER UPSILON", addScriptPrefix("Upsilon", script="latin"))
 
     self.processDiacritics()
     self.processShape()

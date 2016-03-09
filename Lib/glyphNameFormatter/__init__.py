@@ -4,7 +4,7 @@ import unicodedata
 
 from data.scriptConflictNames import scriptConflictNames
 from data.preferredAGLNames import preferredAGLNames
-from data.scriptPrefixes import scriptPrefixes
+from data.scriptPrefixes import scriptPrefixes, addScriptPrefix
 
 from unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessorByRangeName
 from rangeProcessors import GlyphNameProcessor
@@ -26,7 +26,7 @@ class GlyphName(GlyphNameProcessor):
 
     prefSpelling_dieresis = "dieresis"
 
-    def __init__(self, uniNumber=None, verbose=False, includeCJK=False, includeScriptPrefix=True):
+    def __init__(self, uniNumber=None, verbose=False):
         self.uniNumber = uniNumber
         self.uniLetter = None
         self.uniName = ""
@@ -42,10 +42,6 @@ class GlyphName(GlyphNameProcessor):
         self.latinCentric = True    # admit latincentric naming, if we can leave out latin tags, go for it
         self._log = []
         self.verbose = verbose
-        self.includeCJK = includeCJK
-        self.isCJK = False
-
-        self.includeScriptPrefix = includeScriptPrefix
 
         self.lookup()
         self.process()
@@ -148,9 +144,7 @@ class GlyphName(GlyphNameProcessor):
             # for disambiguation
             if self.scriptTag != scriptPrefixes['latin'] and self.scriptTag != "":
                 if self.mustAddScript and self.scriptTag:
-                    if "%s" not in self.scriptTag:
-                        self.scriptTag = "%s-%%s" % self.scriptTag
-                    return self.scriptTag % self.uniNameProcessed
+                    return addScriptPrefix(self.uniNameProcessed, self.scriptTag)
             else:
                 return self.uniNameProcessed
         else:
