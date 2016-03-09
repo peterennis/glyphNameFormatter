@@ -1,9 +1,13 @@
+from glyphNameFormatter.data.scriptPrefixes import addScriptPrefix
+
 
 def process(self):
     self.edit("CYRILLIC")
     if self.uniNumber == 0x042D:
-        # unicode is wrong
         self.uniNameProcessed = "Ereversed"
+        return
+    if self.uniNumber == 0x044D:
+        self.uniNameProcessed = "ereversed"
         return
 
     self.edit("CAPITAL LIGATURE EN GHE", "En_Ghe")
@@ -14,6 +18,12 @@ def process(self):
     self.edit("SMALL LIGATURE TE TSE", "te_tse")
     self.edit("CAPITAL LETTER HARD SIGN", "Hard")
     self.edit("CAPITAL LETTER SOFT SIGN", "Soft")
+
+    # corrections from Ilya
+    self.edit("CAPITAL LETTER YERU", "Ylong")
+    self.edit("SMALL LETTER YERU", "ylong")
+    self.edit("CAPITAL LETTER GHE", "Ge")
+    self.edit("SMALL LETTER GHE", "ge")
 
     self.edit("SMALL LETTER PALOCHKA", "palochka")
     self.edit("LETTER PALOCHKA", "Palochka")
@@ -37,8 +47,8 @@ def process(self):
 
     self.edit("ROUND", "round")
     self.edit("KOMI", 'komi')
-    self.edit("BYELORUSSIAN-UKRAINIAN", "ukran")
-    self.edit("UKRAINIAN", "ukran")
+    self.edit("BYELORUSSIAN-UKRAINIAN", "ukr")
+    self.edit("UKRAINIAN", "ukr")
     self.edit("ABKHASIAN", "abkhaz")
     self.edit("BASHKIR", "bashkir")
     self.edit("KHAKASSIAN", "khakas")
@@ -54,8 +64,15 @@ def process(self):
 
     self.edit("COMBINING", "cmb")
 
+
+    self.replace("CAPITAL LETTER KSI", addScriptPrefix("Ksi", script="Cyrillic"))
+    self.replace("SMALL LETTER KSI", addScriptPrefix("ksi", script="Cyrillic"))
+    self.replace("CAPITAL LETTER PSI", addScriptPrefix("Psi", script="Cyrillic"))
+    self.replace("SMALL LETTER PSI", addScriptPrefix("psi", script="Cyrillic"))
+
     self.processDiacritics()
     self.handleCase()
+
 
     # cleanup
     self.edit("CAPITAL")

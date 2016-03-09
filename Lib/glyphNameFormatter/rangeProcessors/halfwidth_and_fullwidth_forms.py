@@ -8,6 +8,13 @@ def process(self):
     elif 0xFF65 <= self.uniNumber <= 0xFF9F:
         self.editToFinal("HALFWIDTH", 'halfwidth')
         self.processAs('Katakana')
+    elif 0xFFA0 <= self.uniNumber <= 0xFFEE:
+        self.editToFinal("HALFWIDTH", 'halfwidth')
+        self.editToFinal("FULLWIDTH", 'fullwidth')
+        self.replace("-", "_")
+        self.edit("HANGUL LETTER")
+        self.processAs('Hangul')
+        self.lower()
 
     # XXXXX add support for HANGUL
     self.compress()
