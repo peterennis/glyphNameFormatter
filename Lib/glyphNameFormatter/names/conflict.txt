@@ -979,3 +979,437 @@ zhe
         0436                 zhe                 zhe              zhecyr                                Cyrillic
         056A                 zhe         zhearmenian              am-zhe                                Armenian
 # 183 names with conflicts, affecting 431 unicodes
+
+
+Conflicts by rangename
+        06D5                  ae                arAe               ar-ae                                  Arabic
+        0627                alef              arAlef             ar-alef                                  Arabic
+        060C               comma             arComma            ar-comma                                  Arabic
+        0606            cuberoot                   -         ar-cuberoot                                  Arabic
+        06D0                   e                 arE                ar-e                                  Arabic
+        0668               eight             arEight            ar-eight                                  Arabic
+        0641                 feh               arFeh              ar-feh                                  Arabic
+        0665                five              arFive             ar-five                                  Arabic
+        0664                four              arFour             ar-four                                  Arabic
+        0607          fourthroot                   -       ar-fourthroot                                  Arabic
+        0643                 kaf               arKaf              ar-kaf                                  Arabic
+        0669                nine              arNine             ar-nine                                  Arabic
+        0600          numbersign        arNumberSign       ar-numbersign                                  Arabic
+        06C6                  oe                arOe               ar-oe                                  Arabic
+        0661                 one               arOne              ar-one                                  Arabic
+        067E                 peh               arPeh              ar-peh                                  Arabic
+        066A             percent           arPercent          ar-percent                                  Arabic
+        06D4              period         arPeriodURD           ar-period                                  Arabic
+        060A         perthousand                   -      ar-perthousand                                  Arabic
+        061F            question          arQuestion         ar-question                                  Arabic
+        0631                 reh               arReh              ar-reh                                  Arabic
+        061B           semicolon         arSemicolon        ar-semicolon                                  Arabic
+        0667               seven             arSeven            ar-seven                                  Arabic
+        0666                 six               arSix              ar-six                                  Arabic
+        066C           thousands         arThousands        ar-thousands                                  Arabic
+        0663               three             arThree            ar-three                                  Arabic
+        0662                 two               arTwo              ar-two                                  Arabic
+        06C7                   u                 arU                ar-u                                  Arabic
+        06CB                  ve                arVe               ar-ve                                  Arabic
+        06C8                  yu                arYu               ar-yu                                  Arabic
+        0660                zero              arZero             ar-zero                                  Arabic
+        FEDA            kaf.fina           arKafPF.f         ar-kaf.fina             Arabic Presentation Forms-B
+        0547                 Sha         Shaarmenian              am-Sha                                Armenian
+        0545                  Yi          Yiarmenian               am-Yi                                Armenian
+        053A                 Zhe         Zhearmenian              am-Zhe                                Armenian
+        056E                  ca          caarmenian               am-ca                                Armenian
+        0579                 cha         chaarmenian              am-cha                                Armenian
+        055D               comma       commaarmenian            am-comma                                Armenian
+        0564                  da          daarmenian               am-da                                Armenian
+        055C              exclam      exclamarmenian           am-exclam                                Armenian
+        0586                 feh         feharmenian              am-feh                                Armenian
+        058A              hyphen                   -           am-hyphen                                Armenian
+        0571                  ja          jaarmenian               am-ja                                Armenian
+        057A                 peh         peharmenian              am-peh                                Armenian
+        0589              period      periodarmenian           am-period                                Armenian
+        055E            question    questionarmenian         am-question                                Armenian
+        057C                  ra          raarmenian               am-ra                                Armenian
+        0580                 reh         reharmenian              am-reh                                Armenian
+        0577                 sha         shaarmenian              am-sha                                Armenian
+        0575                  yi          yiarmenian               am-yi                                Armenian
+        0566                  za          zaarmenian               am-za                                Armenian
+        056A                 zhe         zhearmenian              am-zhe                                Armenian
+        0041                   A                   A                   A                             Basic Latin
+        0045                   E                   E                   E                             Basic Latin
+        0049                   I                   I                   I                             Basic Latin
+        004F                   O                   O                   O                             Basic Latin
+        0055                   U                   U                   U                             Basic Latin
+        0061                   a                   a                   a                             Basic Latin
+        002C               comma               comma               comma                             Basic Latin
+        0065                   e                   e                   e                             Basic Latin
+        0038               eight               eight               eight                             Basic Latin
+        0021              exclam              exclam              exclam                             Basic Latin
+        0035                five                five                five                             Basic Latin
+        0034                four                four                four                             Basic Latin
+        0060               grave               grave               grave                             Basic Latin
+        002D              hyphen              hyphen              hyphen                             Basic Latin
+        0069                   i                   i                   i                             Basic Latin
+        0039                nine                nine                nine                             Basic Latin
+        0023          numbersign          numbersign          numbersign                             Basic Latin
+        006F                   o                   o                   o                             Basic Latin
+        0031                 one                 one                 one                             Basic Latin
+        0025             percent             percent             percent                             Basic Latin
+        002E              period              period              period                             Basic Latin
+        003F            question            question            question                             Basic Latin
+        003B           semicolon           semicolon           semicolon                             Basic Latin
+        0037               seven               seven               seven                             Basic Latin
+        0036                 six                 six                 six                             Basic Latin
+        0033               three               three               three                             Basic Latin
+        0032                 two                 two                 two                             Basic Latin
+        0075                   u                   u                   u                             Basic Latin
+        0030                zero                zero                zero                             Basic Latin
+        3374        barfullwidth        barfullwidth    cjk-barfullwidth                       CJK Compatibility
+        0410                   A                Acyr                Acyr                                Cyrillic
+        04D0              Abreve           Abrevecyr           Abrevecyr                                Cyrillic
+        04D2           Adieresis        Adieresiscyr        Adieresiscyr                                Cyrillic
+        04EC           Edieresis                   -        Edieresiscyr                                Cyrillic
+        042D           Ereversed                Ecyr        Ereversedcyr                                Cyrillic
+        0418                   I                Icyr                Icyr                                Cyrillic
+        04E4           Idieresis        Idieresiscyr        Idieresiscyr                                Cyrillic
+        040D              Igrave           Igravecyr           Igravecyr                                Cyrillic
+        04E2             Imacron          Imacroncyr          Imacroncyr                                Cyrillic
+        0480               Koppa       Koppacyrillic            Koppacyr                                Cyrillic
+        041E                   O                Ocyr                Ocyr                                Cyrillic
+        04E8                Obar             Obarcyr             Obarcyr                                Cyrillic
+        04E6           Odieresis        Odieresiscyr        Odieresiscyr                                Cyrillic
+        0460               Omega       Omegacyrillic            Omegacyr                                Cyrillic
+        0470                 Psi         Psicyrillic              Psicyr                                Cyrillic
+        04D8               Schwa            Schwacyr            Schwacyr                                Cyrillic
+        0428                 Sha                 Sha              Shacyr                                Cyrillic
+        0423                   U                Ucyr                Ucyr                                Cyrillic
+        04F0           Udieresis        Udieresiscyr        Udieresiscyr                                Cyrillic
+        04EE             Umacron          Umacroncyr          Umacroncyr                                Cyrillic
+        0407                  Yi                  Yi               Yicyr                                Cyrillic
+        0416                 Zhe                 Zhe              Zhecyr                                Cyrillic
+        0430                   a                acyr                acyr                                Cyrillic
+        04D1              abreve           abrevecyr           abrevecyr                                Cyrillic
+        04D3           adieresis        adieresiscyr        adieresiscyr                                Cyrillic
+        044D                   e                ecyr                ecyr                                Cyrillic
+        04ED           edieresis                   -        edieresiscyr                                Cyrillic
+        0445                  ha                  ha               hacyr                                Cyrillic
+        0438                   i                icyr                icyr                                Cyrillic
+        04E5           idieresis        idieresiscyr        idieresiscyr                                Cyrillic
+        045D              igrave           igravecyr           igravecyr                                Cyrillic
+        04E3             imacron          imacroncyr          imacroncyr                                Cyrillic
+        043A                  ka                  ka               kacyr                                Cyrillic
+        0481               koppa       koppacyrillic            koppacyr                                Cyrillic
+        043E                   o                ocyr                ocyr                                Cyrillic
+        04E7           odieresis        odieresiscyr        odieresiscyr                                Cyrillic
+        0461               omega       omegacyrillic            omegacyr                                Cyrillic
+        043F                  pe                  pe               pecyr                                Cyrillic
+        0471                 psi         psicyrillic              psicyr                                Cyrillic
+        04D9               schwa            schwacyr            schwacyr                                Cyrillic
+        0448                 sha                 sha              shacyr                                Cyrillic
+        0482           thousands    thousandcyrillic        thousandscyr                                Cyrillic
+        0443                   u                ucyr                ucyr                                Cyrillic
+        04F1           udieresis        udieresiscyr        udieresiscyr                                Cyrillic
+        04EF             umacron          umacroncyr          umacroncyr                                Cyrillic
+        0432                  ve                  ve               vecyr                                Cyrillic
+        044F                  ya                  ya               yacyr                                Cyrillic
+        0457                  yi                  yi               yicyr                                Cyrillic
+        044E                  yu                  yu               yucyr                                Cyrillic
+        0436                 zhe                 zhe              zhecyr                                Cyrillic
+        0905                   a                 dvA                dv-a                              Devanagari
+        0906                  aa                dvAa               dv-aa                              Devanagari
+        093E              aasign            dvAasign           dv-aasign                              Devanagari
+        0954               acute             dvAcute            dv-acute                              Devanagari
+        0910                  ai                dvAi               dv-ai                              Devanagari
+        0948              aisign            dvAisign           dv-aisign                              Devanagari
+        0902            anusvara          dvAnusvara         dv-anusvara                              Devanagari
+        0914                  au                dvAu               dv-au                              Devanagari
+        094C              ausign            dvAusign           dv-ausign                              Devanagari
+        093D            avagraha          dvAvagraha         dv-avagraha                              Devanagari
+        092C                  ba                dvBa               dv-ba                              Devanagari
+        092D                 bha               dvBha              dv-bha                              Devanagari
+        091A                  ca                dvCa               dv-ca                              Devanagari
+        091B                 cha               dvCha              dv-cha                              Devanagari
+        0926                  da                dvDa               dv-da                              Devanagari
+        0921                 dda               dvDda              dv-dda                              Devanagari
+        0922                ddha              dvDdha             dv-ddha                              Devanagari
+        0927                 dha               dvDha              dv-dha                              Devanagari
+        090F                   e                 dvE                dv-e                              Devanagari
+        096E               eight             dvEight            dv-eight                              Devanagari
+        0947               esign             dvEsign            dv-esign                              Devanagari
+        095E                  fa                dvFa               dv-fa                              Devanagari
+        096B                five              dvFive             dv-five                              Devanagari
+        096A                four              dvFour             dv-four                              Devanagari
+        0917                  ga                dvGa               dv-ga                              Devanagari
+        0918                 gha               dvGha              dv-gha                              Devanagari
+        097D         glottalstop              dvStop      dv-glottalstop                              Devanagari
+        0953               grave             dvGrave            dv-grave                              Devanagari
+        0939                  ha                dvHa               dv-ha                              Devanagari
+        0907                   i                 dvI                dv-i                              Devanagari
+        0908                  ii                dvIi               dv-ii                              Devanagari
+        0940              iisign            dvIisign           dv-iisign                              Devanagari
+        093F               isign             dvIsign            dv-isign                              Devanagari
+        091C                  ja                dvJa               dv-ja                              Devanagari
+        091D                 jha               dvJha              dv-jha                              Devanagari
+        0915                  ka                dvKa               dv-ka                              Devanagari
+        0916                 kha               dvKha              dv-kha                              Devanagari
+        0932                  la                dvLa               dv-la                              Devanagari
+        0933                 lla               dvLla              dv-lla                              Devanagari
+        0961             llvocal           dvLlvocal          dv-llvocal                              Devanagari
+        0963         llvocalsign       dvLlvocalsign      dv-llvocalsign                              Devanagari
+        090C              lvocal            dvLvocal           dv-lvocal                              Devanagari
+        0962          lvocalsign        dvLvocalsign       dv-lvocalsign                              Devanagari
+        092E                  ma                dvMa               dv-ma                              Devanagari
+        0928                  na                dvNa               dv-na                              Devanagari
+        0919                 nga               dvNga              dv-nga                              Devanagari
+        096F                nine              dvNine             dv-nine                              Devanagari
+        0923                 nna               dvNna              dv-nna                              Devanagari
+        093C               nukta             dvNukta            dv-nukta                              Devanagari
+        091E                 nya               dvNya              dv-nya                              Devanagari
+        0913                   o                 dvO                dv-o                              Devanagari
+        0967                 one               dvOne              dv-one                              Devanagari
+        094B               osign             dvOsign            dv-osign                              Devanagari
+        092A                  pa                dvPa               dv-pa                              Devanagari
+        092B                 pha               dvPha              dv-pha                              Devanagari
+        0930                  ra                dvRa               dv-ra                              Devanagari
+        0931                 rra               dvRra              dv-rra                              Devanagari
+        0960             rrvocal           dvRrvocal          dv-rrvocal                              Devanagari
+        0944         rrvocalsign       dvRrvocalsign      dv-rrvocalsign                              Devanagari
+        090B              rvocal            dvRvocal           dv-rvocal                              Devanagari
+        0943          rvocalsign        dvRvocalsign       dv-rvocalsign                              Devanagari
+        0938                  sa                dvSa               dv-sa                              Devanagari
+        096D               seven             dvSeven            dv-seven                              Devanagari
+        0936                 sha               dvSha              dv-sha                              Devanagari
+        096C                 six               dvSix              dv-six                              Devanagari
+        0937                 ssa               dvSsa              dv-ssa                              Devanagari
+        0924                  ta                dvTa               dv-ta                              Devanagari
+        0925                 tha               dvTha              dv-tha                              Devanagari
+        0969               three             dvThree            dv-three                              Devanagari
+        091F                 tta               dvTta              dv-tta                              Devanagari
+        0920                ttha              dvTtha             dv-ttha                              Devanagari
+        0968                 two               dvTwo              dv-two                              Devanagari
+        0909                   u                 dvU                dv-u                              Devanagari
+        0941               usign             dvUsign            dv-usign                              Devanagari
+        090A                  uu                dvUu               dv-uu                              Devanagari
+        0942              uusign            dvUusign           dv-uusign                              Devanagari
+        0935                  va                dvVa               dv-va                              Devanagari
+        094D              virama            dvVirama           dv-virama                              Devanagari
+        0903             visarga           dvVisarga          dv-visarga                              Devanagari
+        092F                  ya                dvYa               dv-ya                              Devanagari
+        095B                  za                dvZa               dv-za                              Devanagari
+        0966                zero              dvZero             dv-zero                              Devanagari
+        2010              hyphen           hyphentwo         gnrl-hyphen                     General Punctuation
+        2030         perthousand         perthousand    gnrl-perthousand                     General Punctuation
+        25C6        diamondblack        diamondblack   gmtr-diamondblack                        Geometric Shapes
+        25C7        diamondwhite        whitediamond   gmtr-diamondwhite                        Geometric Shapes
+        1FFD               acute                oxia            gr-acute                          Greek Extended
+        1FEF               grave               varia            gr-grave                          Greek Extended
+        1F30           iotalenis           iotalenis        gr-iotalenis                          Greek Extended
+        1FC0               tilde         perispomeni            gr-tilde                          Greek Extended
+        0393               Gamma               Gamma            gr-Gamma                        Greek and Coptic
+        0399                Iota                Iota             gr-Iota                        Greek and Coptic
+        03DE               Koppa          Koppagreek            gr-Koppa                        Greek and Coptic
+        03A9               Omega               Omega            gr-Omega                        Greek and Coptic
+        03A8                 Psi                 Psi              gr-Psi                        Greek and Coptic
+        03A5             Upsilon             Upsilon          gr-Upsilon                        Greek and Coptic
+        03B1               alpha               alpha            gr-alpha                        Greek and Coptic
+        03B4               delta               delta            gr-delta                        Greek and Coptic
+        03B3               gamma               gamma            gr-gamma                        Greek and Coptic
+        03B9                iota                iota             gr-iota                        Greek and Coptic
+        037A           iotalenis       iotasubscript        gr-iotalenis                        Greek and Coptic
+        03DF               koppa                   -            gr-koppa                        Greek and Coptic
+        03C9               omega               omega            gr-omega                        Greek and Coptic
+        03C6                 phi                 phi              gr-phi                        Greek and Coptic
+        03C8                 psi                 psi              gr-psi                        Greek and Coptic
+        037E            question       questiongreek         gr-question                        Greek and Coptic
+        03C5             upsilon             upsilon          gr-upsilon                        Greek and Coptic
+        FF5C        barfullwidth   linevertfullwidth   hlfw-barfullwidth           Halfwidth and Fullwidth Forms
+        116C   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
+        1180   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
+        05D0                alef              heAlef             hb-alef                                  Hebrew
+        05D1                 bet               heBet              hb-bet                                  Hebrew
+        05D3               dalet             heDalet            hb-dalet                                  Hebrew
+        05D2               gimel             heGimel            hb-gimel                                  Hebrew
+        05DB                 kaf               heKaf              hb-kaf                                  Hebrew
+        05DA            kaf.fina            heKafFin         hb-kaf.fina                                  Hebrew
+        05E4                  pe                hePe               hb-pe                                  Hebrew
+        0251               alpha          alphalatin           ipa-alpha                          IPA Extensions
+        0263               gamma          gammalatin           ipa-gamma                          IPA Extensions
+        0294         glottalstop         glottalstop     ipa-glottalstop                          IPA Extensions
+        0261             gscript             gscript         ipa-gscript                          IPA Extensions
+        0269                iota           iotalatin            ipa-iota                          IPA Extensions
+        0278                 phi            philatin             ipa-phi                          IPA Extensions
+        0259               schwa               schwa           ipa-schwa                          IPA Extensions
+        028A             upsilon        upsilonlatin         ipa-upsilon                          IPA Extensions
+        0C85                   a                 knA                kn-a                                 Kannada
+        0C86                  aa                knAa               kn-aa                                 Kannada
+        0CBE              aasign            knAasign           kn-aasign                                 Kannada
+        0C90                  ai                knAi               kn-ai                                 Kannada
+        0CC8              aisign            knAisign           kn-aisign                                 Kannada
+        0C82            anusvara          knAnusvara         kn-anusvara                                 Kannada
+        0C94                  au                knAu               kn-au                                 Kannada
+        0CCC              ausign            knAusign           kn-ausign                                 Kannada
+        0CBD            avagraha          knAvagraha         kn-avagraha                                 Kannada
+        0CAC                  ba                knBa               kn-ba                                 Kannada
+        0CAD                 bha               knBha              kn-bha                                 Kannada
+        0C9A                  ca                knCa               kn-ca                                 Kannada
+        0C9B                 cha               knCha              kn-cha                                 Kannada
+        0CA6                  da                knDa               kn-da                                 Kannada
+        0CA1                 dda               knDda              kn-dda                                 Kannada
+        0CA2                ddha              knDdha             kn-ddha                                 Kannada
+        0CA7                 dha               knDha              kn-dha                                 Kannada
+        0C8E                   e                 knE                kn-e                                 Kannada
+        0CEE               eight             knEight            kn-eight                                 Kannada
+        0CC6               esign             knEsign            kn-esign                                 Kannada
+        0CDE                  fa                knFa               kn-fa                                 Kannada
+        0CEB                five              knFive             kn-five                                 Kannada
+        0CEA                four              knFour             kn-four                                 Kannada
+        0C97                  ga                knGa               kn-ga                                 Kannada
+        0C98                 gha               knGha              kn-gha                                 Kannada
+        0CB9                  ha                knHa               kn-ha                                 Kannada
+        0C87                   i                 knI                kn-i                                 Kannada
+        0C88                  ii                knIi               kn-ii                                 Kannada
+        0CC0              iisign            knIisign           kn-iisign                                 Kannada
+        0CBF               isign             knIsign            kn-isign                                 Kannada
+        0C9C                  ja                knJa               kn-ja                                 Kannada
+        0C9D                 jha               knJha              kn-jha                                 Kannada
+        0C95                  ka                knKa               kn-ka                                 Kannada
+        0C96                 kha               knKha              kn-kha                                 Kannada
+        0CB2                  la                knLa               kn-la                                 Kannada
+        0CB3                 lla               knLla              kn-lla                                 Kannada
+        0CE1             llvocal           knLlvocal          kn-llvocal                                 Kannada
+        0CE3         llvocalsign       knLlvocalsign      kn-llvocalsign                                 Kannada
+        0C8C              lvocal            knLvocal           kn-lvocal                                 Kannada
+        0CE2          lvocalsign        knLvocalsign       kn-lvocalsign                                 Kannada
+        0CAE                  ma                knMa               kn-ma                                 Kannada
+        0CA8                  na                knNa               kn-na                                 Kannada
+        0C99                 nga               knNga              kn-nga                                 Kannada
+        0CEF                nine              knNine             kn-nine                                 Kannada
+        0CA3                 nna               knNna              kn-nna                                 Kannada
+        0CBC               nukta             knNukta            kn-nukta                                 Kannada
+        0C9E                 nya               knNya              kn-nya                                 Kannada
+        0C92                   o                 knO                kn-o                                 Kannada
+        0CE7                 one               knOne              kn-one                                 Kannada
+        0CCA               osign             knOsign            kn-osign                                 Kannada
+        0CAA                  pa                knPa               kn-pa                                 Kannada
+        0CAB                 pha               knPha              kn-pha                                 Kannada
+        0CB0                  ra                knRa               kn-ra                                 Kannada
+        0CB1                 rra               knRra              kn-rra                                 Kannada
+        0CE0             rrvocal           knRrvocal          kn-rrvocal                                 Kannada
+        0CC4         rrvocalsign       knRrvocalsign      kn-rrvocalsign                                 Kannada
+        0C8B              rvocal            knRvocal           kn-rvocal                                 Kannada
+        0CC3          rvocalsign        knRvocalsign       kn-rvocalsign                                 Kannada
+        0CB8                  sa                knSa               kn-sa                                 Kannada
+        0CED               seven             knSeven            kn-seven                                 Kannada
+        0CB6                 sha               knSha              kn-sha                                 Kannada
+        0CEC                 six               knSix              kn-six                                 Kannada
+        0CB7                 ssa               knSsa              kn-ssa                                 Kannada
+        0CA4                  ta                knTa               kn-ta                                 Kannada
+        0CA5                 tha               knTha              kn-tha                                 Kannada
+        0CE9               three             knThree            kn-three                                 Kannada
+        0C9F                 tta               knTta              kn-tta                                 Kannada
+        0CA0                ttha              knTtha             kn-ttha                                 Kannada
+        0CE8                 two               knTwo              kn-two                                 Kannada
+        0C89                   u                 knU                kn-u                                 Kannada
+        0CC1               usign             knUsign            kn-usign                                 Kannada
+        0C8A                  uu                knUu               kn-uu                                 Kannada
+        0CC2              uusign            knUusign           kn-uusign                                 Kannada
+        0CB5                  va                knVa               kn-va                                 Kannada
+        0CCD              virama            knVirama           kn-virama                                 Kannada
+        0C83             visarga           knVisarga          kn-visarga                                 Kannada
+        0CAF                  ya                knYa               kn-ya                                 Kannada
+        0CE6                zero              knZero             kn-zero                                 Kannada
+        1E9F               delta                   -               delta               Latin Extended Additional
+        0102              Abreve              Abreve              Abreve                        Latin Extended-A
+        012A             Imacron             Imacron             Imacron                        Latin Extended-A
+        0152                  OE                  OE                  OE                        Latin Extended-A
+        016A             Umacron             Umacron             Umacron                        Latin Extended-A
+        0103              abreve              abreve              abreve                        Latin Extended-A
+        012B             imacron             imacron             imacron                        Latin Extended-A
+        0153                  oe                  oe                  oe                        Latin Extended-A
+        016B             umacron             umacron             umacron                        Latin Extended-A
+        018E           Ereversed             Eturned           Ereversed                        Latin Extended-B
+        0194               Gamma          Gammalatin               Gamma                        Latin Extended-B
+        0196                Iota           Iotalatin                Iota                        Latin Extended-B
+        019F                Obar                Obar                Obar                        Latin Extended-B
+        018F               Schwa               Schwa               Schwa                        Latin Extended-B
+        01B1             Upsilon        Upsilonlatin             Upsilon                        Latin Extended-B
+        0242         glottalstop    glottalstoplatin         glottalstop                        Latin Extended-B
+        00C4           Adieresis           Adieresis           Adieresis                      Latin-1 Supplement
+        00CB           Edieresis           Edieresis           Edieresis                      Latin-1 Supplement
+        00CF           Idieresis           Idieresis           Idieresis                      Latin-1 Supplement
+        00CC              Igrave              Igrave              Igrave                      Latin-1 Supplement
+        00D6           Odieresis           Odieresis           Odieresis                      Latin-1 Supplement
+        00DC           Udieresis           Udieresis           Udieresis                      Latin-1 Supplement
+        00B4               acute               acute               acute                      Latin-1 Supplement
+        00E4           adieresis           adieresis           adieresis                      Latin-1 Supplement
+        00E6                  ae                  ae                  ae                      Latin-1 Supplement
+        00EB           edieresis           edieresis           edieresis                      Latin-1 Supplement
+        00EF           idieresis           idieresis           idieresis                      Latin-1 Supplement
+        00EC              igrave              igrave              igrave                      Latin-1 Supplement
+        00F6           odieresis           odieresis           odieresis                      Latin-1 Supplement
+        00FC           udieresis           udieresis           udieresis                      Latin-1 Supplement
+        2136                 bet                   -            lttr-bet                      Letterlike Symbols
+        2138               dalet                   -          lttr-dalet                      Letterlike Symbols
+        2137               gimel                   -          lttr-gimel                      Letterlike Symbols
+        210A             gscript         gscriptmath        lttr-gscript                      Letterlike Symbols
+        221B            cuberoot                   -       mthm-cuberoot                  Mathematical Operators
+        221C          fourthroot                   -     mthm-fourthroot                  Mathematical Operators
+        22A5       perpendicular       perpendicular  mthm-perpendicular                  Mathematical Operators
+        27C2       perpendicular                   -  mscl-perpendicular    Miscellaneous Mathematical Symbols-A
+        2666        diamondblack             diamond   mscl-diamondblack                   Miscellaneous Symbols
+        2662        diamondwhite         diamondopen   mscl-diamondwhite                   Miscellaneous Symbols
+        1820                   A                   -                mo-A                               Mongolian
+        182A                  BA                   -               mo-BA                               Mongolian
+        1834                 CHA                   -              mo-CHA                               Mongolian
+        1833                  DA                   -               mo-DA                               Mongolian
+        1821                   E                   -                mo-E                               Mongolian
+        182D                  GA                   -               mo-GA                               Mongolian
+        1822                   I                   -                mo-I                               Mongolian
+        1835                  JA                   -               mo-JA                               Mongolian
+        183A                  KA                   -               mo-KA                               Mongolian
+        183B                 KHA                   -              mo-KHA                               Mongolian
+        182F                  LA                   -               mo-LA                               Mongolian
+        182E                  MA                   -               mo-MA                               Mongolian
+        1828                  NA                   -               mo-NA                               Mongolian
+        1823                   O                   -                mo-O                               Mongolian
+        1825                  OE                   -               mo-OE                               Mongolian
+        182B                  PA                   -               mo-PA                               Mongolian
+        1837                  RA                   -               mo-RA                               Mongolian
+        1830                  SA                   -               mo-SA                               Mongolian
+        1831                 SHA                   -              mo-SHA                               Mongolian
+        1832                  TA                   -               mo-TA                               Mongolian
+        183C                 TSA                   -              mo-TSA                               Mongolian
+        1824                   U                   -                mo-U                               Mongolian
+        1838                  WA                   -               mo-WA                               Mongolian
+        1836                  YA                   -               mo-YA                               Mongolian
+        183D                  ZA                   -               mo-ZA                               Mongolian
+        02DC               tilde               tilde          spcn-tilde                Spacing Modifier Letters
+        0F68                   A                   -                tb-A                                 Tibetan
+        0F56                  BA                   -               tb-BA                                 Tibetan
+        0F46                 CHA                   -              tb-CHA                                 Tibetan
+        0F51                  DA                   -               tb-DA                                 Tibetan
+        0F42                  GA                   -               tb-GA                                 Tibetan
+        0F47                  JA                   -               tb-JA                                 Tibetan
+        0F40                  KA                   -               tb-KA                                 Tibetan
+        0F41                 KHA                   -              tb-KHA                                 Tibetan
+        0F63                  LA                   -               tb-LA                                 Tibetan
+        0F58                  MA                   -               tb-MA                                 Tibetan
+        0F53                  NA                   -               tb-NA                                 Tibetan
+        0F54                  PA                   -               tb-PA                                 Tibetan
+        0F62                  RA                   -               tb-RA                                 Tibetan
+        0F66                  SA                   -               tb-SA                                 Tibetan
+        0F64                 SHA                   -              tb-SHA                                 Tibetan
+        0F4F                  TA                   -               tb-TA                                 Tibetan
+        0F59                 TSA                   -              tb-TSA                                 Tibetan
+        0F5D                  WA                   -               tb-WA                                 Tibetan
+        0F61                  YA                   -               tb-YA                                 Tibetan
+        0F5F                  ZA                   -               tb-ZA                                 Tibetan
+        0F28               eight                   -            tb-eight                                 Tibetan
+        0F25                five                   -             tb-five                                 Tibetan
+        0F24                four                   -             tb-four                                 Tibetan
+        0F29                nine                   -             tb-nine                                 Tibetan
+        0F21                 one                   -              tb-one                                 Tibetan
+        0F27               seven                   -            tb-seven                                 Tibetan
+        0F26                 six                   -              tb-six                                 Tibetan
+        0F23               three                   -            tb-three                                 Tibetan
+        0F22                 two                   -              tb-two                                 Tibetan
+        0F20                zero                   -             tb-zero                                 Tibetan

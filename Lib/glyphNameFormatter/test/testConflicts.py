@@ -25,6 +25,7 @@ def findConflict():
 
     conflictNames = []
     conflictUniNumbers = []
+    conflictsPerRange = {}
     for name in n:
         if len(names[name]) > 1:
             conflictNames.append(name)
@@ -35,15 +36,30 @@ def findConflict():
             print line
             lines.append(line)
             for g in names[name]:
+                rangeName = g[1]
+                extendedName = g[2]
                 conflictUniNumbers.append(g[0])
                 AGLname = unicode2name_AGD.get(g[0], "-")
-                line = "        %04X%20s%20s%20s%40s"%(g[0], name, AGLname, g[2], g[1])
+                line = "        %04X%20s%20s%20s%40s"%(g[0], name, AGLname, extendedName, rangeName)
                 print line
                 lines.append(line)
+
+                if not rangeName in conflictsPerRange:
+                    conflictsPerRange[rangeName] = []
+                conflictsPerRange[rangeName].append(line)
     stats =  "# %d names with conflicts, affecting %d unicodes"%(len(conflictNames), len(conflictUniNumbers))
     print stats
     lines.append(stats)
 
+    k = conflictsPerRange.keys()
+    lines.append("")
+    lines.append("")
+    lines.append("Conflicts by rangename")
+    k.sort()
+    for rangeName in k:
+        for line in conflictsPerRange[rangeName]:
+            #print "line", line
+            lines.append(line)
 
     path = "./../names/conflict.txt"
     f = open(path, 'w')
