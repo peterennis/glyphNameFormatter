@@ -20,28 +20,31 @@ def findConflict():
                 extendedName = glyphName.getName(extension=True)
                 if not name in names:
                     names[name] = []
-                names[name].append((uniNumber, glyphName.uniRangeName, extendedName))
+                names[name].append(glyphName)
     n = names.keys()
     n.sort()
 
     conflictNames = []
     conflictUniNumbers = []
     conflictsPerRange = {}
-    line = "        %04s%20s%20s%20s%40s"%("hex", "formatted name", "AGL name", "with extension", "range")
+    line = "{0:>6s} | {1:<50}{2:<25}{3:<40}{4:<40}".format("hex", "basic formatted name", "AGL name", "with extension", "range")
+    print(line)
+    lines.append(line)
+    line = "{0:->6s} + {1:-<50}{2:-<25}{3:-<40}{4:<40}".format("", "", "+", "+", "+")
     print(line)
     lines.append(line)
     for name in n:
         if len(names[name]) > 1:
             conflictNames.append(name)
-            line = "\n%s" % (name)
-            print(line)
+            line = ""
+            print()
             lines.append(line)
             for g in names[name]:
-                rangeName = g[1]
-                extendedName = g[2]
-                conflictUniNumbers.append(g[0])
-                AGLname = unicode2name_AGD.get(g[0], "-")
-                line = "        %04X%20s%20s%20s%40s"%(g[0], name, AGLname, extendedName, rangeName)
+                rangeName = g.uniRangeName
+                extendedName = g.getName(extension=True)
+                conflictUniNumbers.append(g.uniNumber)
+                AGLname = unicode2name_AGD.get(g.uniNumber, "-")
+                line = "{0:>6X} : {1:<50}{2:<25}{3:<40}{4:<40}".format(g.uniNumber, g.getName(), "AGLname"[:25], g.getName(), g.uniRangeName[:40])
                 print(line)
                 lines.append(line)
 
@@ -78,4 +81,14 @@ def findConflict():
     f.close()
 
 if __name__ == "__main__":
+    if False:
+        from random import randint
+        line = "{0:>6s} | {1:<50}{2:<25}{3:<40}{4:<40}".format("hex", "formatted name", "AGL name", "with extension", "range")
+        print(line)
+        line = "{0:->6s} + {1:-<50}{2:-<25}{3:-<40}{4:<40}".format("", "", "+", "+", "+")
+        print(line)
+        for i in range(10):
+            g= glyphNameFormatter.GlyphName(randint(0,0xffff))
+            line = "{0:>6X} : {1:<50}{2:<25}{3:<40}{4:<40}".format(g.uniNumber, g.getName(), "AGLname"[:25], g.getName(), g.uniRangeName[:40])
+            print(line)
     findConflict()
