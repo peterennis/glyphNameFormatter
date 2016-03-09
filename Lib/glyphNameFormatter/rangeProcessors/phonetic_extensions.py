@@ -11,6 +11,7 @@ def process(self):
         "OPEN", "STROKE", "TURNED", "REVERSED",
         "SIDEWAYS", "SUBSCRIPT",
         "TOP", "BOTTOM",
+        "RETROFLEX", "SCRIPT",
         "HALF", "INSULAR",
         "VOICED", "LARYNGEAL",
         ]
