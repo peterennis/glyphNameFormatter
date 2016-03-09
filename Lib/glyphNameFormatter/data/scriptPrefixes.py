@@ -58,6 +58,7 @@ _scriptPrefixes = {
     'ipa': 'ipa',
     'kannada': "kn",
     'katakana': 'ka',
+    'javanese': 'ja',
     'latin': "lt",
     'mongolian': 'mo',
     'tibetan': 'tb',
