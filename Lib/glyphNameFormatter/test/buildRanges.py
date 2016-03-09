@@ -1,7 +1,7 @@
 import glyphNameFormatter
 reload(glyphNameFormatter)
 from glyphNameFormatter.unicodeRangeNames import getRangeByName, getAllRangeNames
-
+import os
 
 skipped = {}
 
@@ -19,7 +19,10 @@ def generateRange(rangeName):
         glyphName = glyphNameFormatter.GlyphName(uniNumber)
         if glyphName.hasName():
             lines.append("%04X\t%s\t%s" % (uniNumber, glyphName.getName(extension=True), glyphName.uniName))
-    path = "../names/names_%s.txt" % rangeName.replace(" ", "_").lower()
+    dirForNames = "../names/ranges/"
+    if not os.path.exists(dirForNames):
+        os.makedirs(dirForNames)
+    path = "../names/ranges/names_%s.txt" % rangeName.replace(" ", "_").lower()
     f = open(path, 'w')
     f.write("\n".join(lines))
     f.close()

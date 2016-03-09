@@ -1,5 +1,6 @@
 # format
 # <glyphName> <hex unicode>
+# Basic Latin
 space 0020
 exclam 0021
 quotedbl 0022
@@ -95,6 +96,7 @@ braceleft 007B
 bar 007C
 braceright 007D
 asciitilde 007E
+# Latin-1 Supplement
 nbspace 00A0
 exclamdown 00A1
 cent 00A2
@@ -190,6 +192,7 @@ ucircumflex 00FB
 udieresis 00FC
 yacute 00FD
 thorn 00FE
+# Latin Extended-A
 Amacron 0100
 amacron 0101
 Abreve 0102
@@ -317,6 +320,7 @@ Zdotaccent 017B
 zdotaccent 017C
 Zcaron 017D
 zcaron 017E
+# Latin Extended-B
 bstroke 0180
 Bhook 0181
 Btopbar 0182
@@ -524,6 +528,7 @@ qhooktail 024B
 Rstroke 024C
 rstroke 024D
 Ystroke 024E
+# IPA Extensions
 aturned 0250
 ipa-alpha 0251
 alphaturned 0252
@@ -619,6 +624,7 @@ lzed 02AB
 percussivebilabial 02AC
 percussivebidental 02AD
 hfishhookturned 02AE
+# Spacing Modifier Letters
 hsupmod 02B0
 hhooksupmod 02B1
 jsupmod 02B2
@@ -698,6 +704,7 @@ tonelowbeginmod 02FB
 tonelowendmod 02FC
 shelfmod 02FD
 shelfopenmod 02FE
+# Combining Diacritical Marks
 gravecomb 0300
 acutecomb 0301
 circumflexcmb 0302
@@ -809,6 +816,7 @@ mcmb 036B
 rcmb 036C
 tcmb 036D
 vcmb 036E
+# Greek and Coptic
 Heta 0370
 heta 0371
 Sampiarchaic 0372
@@ -855,7 +863,7 @@ Tau 03A4
 Upsilon 03A5
 Phi 03A6
 Chi 03A7
-gr-Psi 03A8
+Psi 03A8
 Omega 03A9
 Iotadieresis 03AA
 Upsilondieresis 03AB
@@ -864,15 +872,15 @@ epsilonwithtonos 03AD
 etawithtonos 03AE
 iotawithtonos 03AF
 upsilondieresisandtonos 03B0
-gr-alpha 03B1
+alpha 03B1
 beta 03B2
-gr-gamma 03B3
+gamma 03B3
 gr-delta 03B4
 epsilon 03B5
 zeta 03B6
 eta 03B7
 theta 03B8
-gr-iota 03B9
+iota 03B9
 kappa 03BA
 lamda 03BB
 mu 03BC
@@ -884,11 +892,11 @@ rho 03C1
 finalsigma 03C2
 sigma 03C3
 tau 03C4
-gr-upsilon 03C5
-gr-phi 03C6
-gr-chi 03C7
-gr-psi 03C8
-gr-omega 03C9
+upsilon 03C5
+phi 03C6
+chi 03C7
+psi 03C8
+omega 03C9
 iotadieresis 03CA
 upsilondieresis 03CB
 omicronwithtonos 03CC
@@ -909,8 +917,8 @@ Stigma 03DA
 stigma 03DB
 Digamma 03DC
 digamma 03DD
-gr-Koppa 03DE
-gr-koppa 03DF
+Koppa 03DE
+koppa 03DF
 Sampi 03E0
 sampi 03E1
 Sheicoptic 03E2
@@ -942,6 +950,7 @@ san 03FB
 rhostrokesymbol 03FC
 Sigmareversedlunatesymbol 03FD
 Sigmalunatesymboldotted 03FE
+# Cyrillic
 Iegrave 0400
 Io 0401
 Dje 0402
@@ -1197,6 +1206,7 @@ gehookstroke 04FB
 Hahook 04FC
 hahook 04FD
 Hastroke 04FE
+# Armenian
 Ayb 0531
 Ben 0532
 Gim 0533
@@ -1283,6 +1293,7 @@ am-feh 0586
 ech_yiwn 0587
 am-period 0589
 am-hyphen 058A
+# Hebrew
 etnahtaaccent 0591
 segolaccent 0592
 shalsheletaccent 0593
@@ -1370,6 +1381,7 @@ vav_yod 05F1
 yod_yod 05F2
 geresh 05F3
 gershayim 05F4
+# Arabic
 ar-numbersign 0600
 Sanah 0601
 footnote 0602
@@ -1619,6 +1631,7 @@ daddotbelow 06FB
 ghaindotbelow 06FC
 ampersandSindhi 06FD
 menpostSindhi 06FE
+# Arabic Supplement
 BehThreeDotsHorizontallyBelow 0750
 BehDotBelowAndThreeDotSAbove 0751
 BehThreeDotsPointingUpwardsBelow 0752
@@ -1666,6 +1679,7 @@ YehBarreeDigitThreeAbove 077B
 HahDigitFourBelow 077C
 SeenDigitFourAbove 077D
 SeenInvertedV 077E
+# Devanagari
 candrabinduinverted 0900
 candrabindu 0901
 dv-anusvara 0902
@@ -1782,6 +1796,7 @@ gga 097B
 jja 097C
 dv-glottalstop 097D
 ddda 097E
+# Kannada
 kn-anusvara 0C82
 kn-visarga 0C83
 kn-a 0C85
@@ -1868,6 +1883,7 @@ kn-eight 0CEE
 kn-nine 0CEF
 jihvamuliya 0CF1
 upadhmaniya 0CF2
+# Tibetan
 omsyllable 0F00
 gteryigmgotruncatedamark 0F01
 gteryigmgoumrnambcadmamark 0F02
@@ -2073,6 +2089,7 @@ svastiright 0FD5
 svastileft 0FD6
 svastirightdot 0FD7
 svastileftdot 0FD8
+# Mongolian
 birga 1800
 mo-ellipsis 1801
 mo-comma 1802
@@ -2229,6 +2246,7 @@ yaaligalihalf 18A7
 bhamanchualigali 18A8
 dagalgaaligali 18A9
 lhamanchualigali 18AA
+# Latin Extended Additional
 Aringbelow 1E00
 aringbelow 1E01
 Bdot 1E02
@@ -2388,7 +2406,7 @@ longsdot 1E9B
 longswithdiagonalstroke 1E9C
 longswithhighstroke 1E9D
 Germandbls 1E9E
-delta 1E9F
+lt-delta 1E9F
 Adotbelow 1EA0
 adotbelow 1EA1
 Ahoi 1EA2
@@ -2484,6 +2502,7 @@ llwelsh 1EFB
 Vwelsh 1EFC
 vwelsh 1EFD
 Yloop 1EFE
+# Greek Extended
 alphalenis 1F00
 alphaasper 1F01
 alphalenisgrave 1F02
@@ -2717,6 +2736,7 @@ Omegaacute 1FFB
 Omegaiotasub 1FFC
 gr-acute 1FFD
 asper 1FFE
+# General Punctuation
 enquad 2000
 emquad 2001
 enspace 2002
@@ -2823,6 +2843,7 @@ activatesymmetricswapping 206B
 inhibitarabicformshaping 206C
 activatearabicformshaping 206D
 nationaldigitshapes 206E
+# Superscripts and Subscripts
 zero.superior 2070
 i.superior 2071
 four.superior 2074
@@ -2857,6 +2878,7 @@ e.inferior 2091
 o.inferior 2092
 x.inferior 2093
 schwa.inferior 2094
+# Currency Symbols
 euroarchaic 20A0
 colonmonetary 20A1
 cruzeiro 20A2
@@ -2882,6 +2904,7 @@ cedi 20B5
 livretournois 20B6
 spesmilo 20B7
 tenge 20B8
+# Letterlike Symbols
 accountof 2100
 addressedsubject 2101
 Cdblstruck 2102
@@ -2961,6 +2984,7 @@ ampersandturned 214B
 per 214C
 aktieselskab 214D
 fturned 214E
+# Number Forms
 oneseventh 2150
 oneninth 2151
 onetenth 2152
@@ -3019,6 +3043,7 @@ fiftyearlyform.roman 2186
 fiftythousand.roman 2187
 onehundredthousand.roman 2188
 zerothirds 2189
+# Arrows
 arrowleft 2190
 arrowup 2191
 arrowright 2192
@@ -3130,6 +3155,7 @@ verticalsdbltrokearrowright 21FB
 verticalsdbltrokearrowleftright 21FC
 openheadarrowleft 21FD
 openheadarrowright 21FE
+# Mathematical Operators
 universal 2200
 complement 2201
 partialdiff 2202
@@ -3385,6 +3411,7 @@ containsverticalbarhorizontalstroke 22FB
 containssmallverticalbarhorizontalstroke 22FC
 containsoverbar 22FD
 containsoverbarsmall 22FE
+# Miscellaneous Technical
 diametersign 2300
 electricarrow 2301
 house 2302
@@ -3618,6 +3645,7 @@ flatness 23E5
 accurrent 23E6
 electricalintersection 23E7
 decimalexponent 23E8
+# Enclosed Alphanumerics
 onecircle 2460
 twocircle 2461
 threecircle 2462
@@ -3777,6 +3805,7 @@ sevencircledbl 24FB
 eightcircledbl 24FC
 ninecircledbl 24FD
 tencircledbl 24FE
+# Box Drawing
 lighthorz 2500
 heavyhorz 2501
 lightvert 2502
@@ -3904,6 +3933,7 @@ heavydn 257B
 lightleftheavyright 257C
 lightupheavydn 257D
 heavyleftlightright 257E
+# Block Elements
 upperhalfblock 2580
 loweroneeighthblock 2581
 loweronequarterblock 2582
@@ -3935,6 +3965,7 @@ quadrantupperleftupperrightlowerleft 259B
 quadrantupperleftupperrightlowerright 259C
 quadrantupperright 259D
 quadrantupperrightlowerleft 259E
+# Geometric Shapes
 squareblack 25A0
 squarewhite 25A1
 squarewhiteround 25A2
@@ -4030,6 +4061,7 @@ squaremediumwhite 25FB
 squaremediumblack 25FC
 squaresmallmediumwhite 25FD
 squaresmallmediumblack 25FE
+# Miscellaneous Symbols
 sunraysblack 2600
 cloud 2601
 umbrella 2602
@@ -4279,6 +4311,7 @@ japanesebank 26FB
 headstonegraveyard 26FC
 fuelpump 26FD
 consquareupblack 26FE
+# Dingbats
 scissorsupperblade 2701
 scissorsblack 2702
 scissorslowerblade 2703
@@ -4454,6 +4487,39 @@ arrowteardroprightheavy 27BB
 arrowrightwedge 27BC
 arrowrightwedgeheavy 27BD
 arrowrightoutlinedopen 27BE
+# Latin Extended-C
+Ldblbar 2C60
+ldblbar 2C61
+Lmiddletilde 2C62
+Pstroke 2C63
+Rtail 2C64
+astroke 2C65
+tstroke 2C66
+Hdescender 2C67
+hdescender 2C68
+Kdescender 2C69
+kdescender 2C6A
+Zdescender 2C6B
+zdescender 2C6C
+lt-Alpha 2C6D
+Mhook 2C6E
+Aturned 2C6F
+lt-Alphaturned 2C70
+vrighthook 2C71
+Whook 2C72
+whook 2C73
+vcurl 2C74
+Hhalf 2C75
+hhalf 2C76
+phitailless 2C77
+enotch 2C78
+rtailturned 2C79
+olowringinside 2C7A
+Esmallturned 2C7B
+j.inferior 2C7C
+Vmod 2C7D
+Sswashtail 2C7E
+# Supplemental Punctuation
 anglemarkersubstitutionright 2E00
 anglemarkerdottedsubstitutionright 2E01
 bracketsubstitutionleft 2E02
@@ -4504,6 +4570,7 @@ questionreversed 2E2E
 tildevertical 2E2F
 pointring 2E30
 wordseparatormiddledot 2E31
+# CJK Symbols and Punctuation
 ideographicspace 3000
 ideographiccomma 3001
 ideographicperiod 3002
@@ -4567,6 +4634,7 @@ verticalideographiciterationmark 303B
 masumark 303C
 partalternationmark 303D
 ideographicvariationindicator 303E
+# Hiragana
 asmallhiragana 3041
 ahiragana 3042
 ismallhiragana 3043
@@ -4659,6 +4727,7 @@ voicedmarkkana 309B
 semivoicedmarkkana 309C
 iterationhiragana 309D
 voicediterationhiragana 309E
+# Katakana
 doublehyphenkana 30A0
 asmallkatakana 30A1
 akatakana 30A2
@@ -4754,6 +4823,7 @@ middledotkatakana 30FB
 prolongedkana 30FC
 iterationkatakana 30FD
 voicediterationkatakana 30FE
+# Enclosed CJK Letters and Months
 hangulkiyeokparen 3200
 hangulnieunparen 3201
 hangultikeutparen 3202
@@ -5008,6 +5078,7 @@ wacirclekatakana 32FB
 wicirclekatakana 32FC
 wecirclekatakana 32FD
 wocirclekatakana 32FE
+# CJK Compatibility
 apaatofullwidth 3300
 aruhuafullwidth 3301
 anpeafullwidth 3302
@@ -5263,6 +5334,8 @@ daytwentyeighttelegraph 33FB
 daytwentyninetelegraph 33FC
 daythirtytelegraph 33FD
 daythirtyonetelegraph 33FE
+# Private Use Area
+# Alphabetic Presentation Forms
 f_f FB00
 fi FB01
 fl FB02
@@ -5320,6 +5393,7 @@ vavwithholam FB4B
 betwithrafe FB4C
 kafwithrafe FB4D
 pewithrafe FB4E
+# Arabic Presentation Forms-A
 alefwasla.isol FB50
 alefwasla.fina FB51
 beeh.isol FB52
@@ -5915,6 +5989,7 @@ SallallahouAlayheWasallam FDFA
 Jallajalalouhou FDFB
 rial FDFC
 BismillahArRahmanArRaheem FDFD
+# CJK Compatibility Forms
 twodotleadervertical FE30
 emdashvertical FE31
 endashvertical FE32
@@ -5946,6 +6021,7 @@ overlinewavy FE4B
 overlinedblwavy FE4C
 underscoredashed FE4D
 underscorecenterline FE4E
+# Arabic Presentation Forms-B
 fathatan.isol FE70
 tatweelfathatanabove FE71
 dammatan.isol FE72
@@ -6086,6 +6162,7 @@ lam.init_alef.medi_hamzabelow.fina FEF9
 lam.medi_alef.medi_hamzabelow.fina FEFA
 lam.init_alef.fina FEFB
 lam.medi_alef.fina FEFC
+# Halfwidth and Fullwidth Forms
 exclamfullwidth FF01
 quotedblfullwidth FF02
 numbersignfullwidth FF03
@@ -6180,12 +6257,12 @@ braceleftfullwidth FF5B
 hlfw-barfullwidth FF5C
 bracerightfullwidth FF5D
 asciitildefullwidth FF5E
-FULLWIDTHLEFTWHITEPARENTHESIS FF5F
-FULLWIDTHRIGHTWHITEPARENTHESIS FF60
-HALFWIDTHIDEOGRAPHICFULLSTOP FF61
-HALFWIDTHLEFTCORNERBRACKET FF62
-HALFWIDTHRIGHTCORNERBRACKET FF63
-HALFWIDTHIDEOGRAPHICCOMMA FF64
+leftwhiteparenthesisfullwidth FF5F
+rightwhiteparenthesisfullwidth FF60
+ideographicfullstophalfwidth FF61
+leftcornerbrackethalfwidth FF62
+rightcornerbrackethalfwidth FF63
+ideographiccommahalfwidth FF64
 middledothalfwidthkatakana FF65
 wohalfwidthkatakana FF66
 asmallhalfwidthkatakana FF67
@@ -6245,72 +6322,73 @@ wahalfwidthkatakana FF9C
 nhalfwidthkatakana FF9D
 voicedhalfwidthkatakana FF9E
 semi-voicedhalfwidthkatakana FF9F
-HALFWIDTHHANGULFILLER FFA0
-HALFWIDTHHANGULLETTERKIYEOK FFA1
-HALFWIDTHHANGULLETTERSSANGKIYEOK FFA2
-HALFWIDTHHANGULLETTERKIYEOK-SIOS FFA3
-HALFWIDTHHANGULLETTERNIEUN FFA4
-HALFWIDTHHANGULLETTERNIEUN-CIEUC FFA5
-HALFWIDTHHANGULLETTERNIEUN-HIEUH FFA6
-HALFWIDTHHANGULLETTERTIKEUT FFA7
-HALFWIDTHHANGULLETTERSSANGTIKEUT FFA8
-HALFWIDTHHANGULLETTERRIEUL FFA9
-HALFWIDTHHANGULLETTERRIEUL-KIYEOK FFAA
-HALFWIDTHHANGULLETTERRIEUL-MIEUM FFAB
-HALFWIDTHHANGULLETTERRIEUL-PIEUP FFAC
-HALFWIDTHHANGULLETTERRIEUL-SIOS FFAD
-HALFWIDTHHANGULLETTERRIEUL-THIEUTH FFAE
-HALFWIDTHHANGULLETTERRIEUL-PHIEUPH FFAF
-HALFWIDTHHANGULLETTERRIEUL-HIEUH FFB0
-HALFWIDTHHANGULLETTERMIEUM FFB1
-HALFWIDTHHANGULLETTERPIEUP FFB2
-HALFWIDTHHANGULLETTERSSANGPIEUP FFB3
-HALFWIDTHHANGULLETTERPIEUP-SIOS FFB4
-HALFWIDTHHANGULLETTERSIOS FFB5
-HALFWIDTHHANGULLETTERSSANGSIOS FFB6
-HALFWIDTHHANGULLETTERIEUNG FFB7
-HALFWIDTHHANGULLETTERCIEUC FFB8
-HALFWIDTHHANGULLETTERSSANGCIEUC FFB9
-HALFWIDTHHANGULLETTERCHIEUCH FFBA
-HALFWIDTHHANGULLETTERKHIEUKH FFBB
-HALFWIDTHHANGULLETTERTHIEUTH FFBC
-HALFWIDTHHANGULLETTERPHIEUPH FFBD
-HALFWIDTHHANGULLETTERHIEUH FFBE
-HALFWIDTHHANGULLETTERA FFC2
-HALFWIDTHHANGULLETTERAE FFC3
-HALFWIDTHHANGULLETTERYA FFC4
-HALFWIDTHHANGULLETTERYAE FFC5
-HALFWIDTHHANGULLETTEREO FFC6
-HALFWIDTHHANGULLETTERE FFC7
-HALFWIDTHHANGULLETTERYEO FFCA
-HALFWIDTHHANGULLETTERYE FFCB
-HALFWIDTHHANGULLETTERO FFCC
-HALFWIDTHHANGULLETTERWA FFCD
-HALFWIDTHHANGULLETTERWAE FFCE
-HALFWIDTHHANGULLETTEROE FFCF
-HALFWIDTHHANGULLETTERYO FFD2
-HALFWIDTHHANGULLETTERU FFD3
-HALFWIDTHHANGULLETTERWEO FFD4
-HALFWIDTHHANGULLETTERWE FFD5
-HALFWIDTHHANGULLETTERWI FFD6
-HALFWIDTHHANGULLETTERYU FFD7
-HALFWIDTHHANGULLETTEREU FFDA
-HALFWIDTHHANGULLETTERYI FFDB
-HALFWIDTHHANGULLETTERI FFDC
-FULLWIDTHCENTSIGN FFE0
-FULLWIDTHPOUNDSIGN FFE1
-FULLWIDTHNOTSIGN FFE2
-FULLWIDTHMACRON FFE3
-FULLWIDTHBROKENBAR FFE4
-FULLWIDTHYENSIGN FFE5
-FULLWIDTHWONSIGN FFE6
-HALFWIDTHFORMSLIGHTVERTICAL FFE8
-HALFWIDTHLEFTWARDSARROW FFE9
-HALFWIDTHUPWARDSARROW FFEA
-HALFWIDTHRIGHTWARDSARROW FFEB
-HALFWIDTHDOWNWARDSARROW FFEC
-HALFWIDTHBLACKSQUARE FFED
-HALFWIDTHWHITECIRCLE FFEE
+hangulfillerhalfwidth FFA0
+kiyeokhalfwidth FFA1
+ssangkiyeokhalfwidth FFA2
+kiyeok_sioshalfwidth FFA3
+nieunhalfwidth FFA4
+nieun_cieuchalfwidth FFA5
+nieun_hieuhhalfwidth FFA6
+tikeuthalfwidth FFA7
+ssangtikeuthalfwidth FFA8
+rieulhalfwidth FFA9
+rieul_kiyeokhalfwidth FFAA
+rieul_mieumhalfwidth FFAB
+rieul_pieuphalfwidth FFAC
+rieul_sioshalfwidth FFAD
+rieul_thieuthhalfwidth FFAE
+rieul_phieuphhalfwidth FFAF
+rieul_hieuhhalfwidth FFB0
+mieumhalfwidth FFB1
+pieuphalfwidth FFB2
+ssangpieuphalfwidth FFB3
+pieup_sioshalfwidth FFB4
+sioshalfwidth FFB5
+ssangsioshalfwidth FFB6
+ieunghalfwidth FFB7
+cieuchalfwidth FFB8
+ssangcieuchalfwidth FFB9
+chieuchhalfwidth FFBA
+khieukhhalfwidth FFBB
+thieuthhalfwidth FFBC
+phieuphhalfwidth FFBD
+hieuhhalfwidth FFBE
+ahalfwidth FFC2
+aehalfwidth FFC3
+yahalfwidth FFC4
+yaehalfwidth FFC5
+eohalfwidth FFC6
+ehalfwidth FFC7
+yeohalfwidth FFCA
+yehalfwidth FFCB
+ohalfwidth FFCC
+wahalfwidth FFCD
+waehalfwidth FFCE
+oehalfwidth FFCF
+yohalfwidth FFD2
+uhalfwidth FFD3
+weohalfwidth FFD4
+wehalfwidth FFD5
+wihalfwidth FFD6
+yuhalfwidth FFD7
+euhalfwidth FFDA
+yihalfwidth FFDB
+ihalfwidth FFDC
+centfullwidth FFE0
+sterlingfullwidth FFE1
+notsignfullwidth FFE2
+macronfullwidth FFE3
+brokenbarfullwidth FFE4
+yensignfullwidth FFE5
+wonsignfullwidth FFE6
+formslightverticalhalfwidth FFE8
+leftwardsarrowhalfwidth FFE9
+upwardsarrowhalfwidth FFEA
+rightwardsarrowhalfwidth FFEB
+downwardsarrowhalfwidth FFEC
+blacksquarehalfwidth FFED
+whitecirclehalfwidth FFEE
+# Enclosed Alphanumeric Supplement
 zerofullstop 1F100
 zerocomma 1F101
 onecomma 1F102
