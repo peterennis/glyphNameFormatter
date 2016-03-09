@@ -2,8 +2,6 @@ from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 
 def process(self):
-    self.scriptTag = scriptPrefixes['hebrew']
-
     self.replace("HEBREW LIGATURE YIDDISH DOUBLE VAV", "vav_vav")   # yiddish ?
     self.replace("HEBREW LIGATURE YIDDISH VAV YOD", "vav_yod")  # yiddish ?
     self.replace("HEBREW LIGATURE YIDDISH DOUBLE YOD", "yod_yod")

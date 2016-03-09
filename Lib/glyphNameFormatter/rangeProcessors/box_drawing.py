@@ -2,7 +2,7 @@ from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 
 def process(self):
-    self.scriptTag = scriptPrefixes['boxdrawings']
+    # self.scriptTag = scriptPrefixes['boxdrawings']
     self.replace("BOX DRAWINGS")
     self.replace("AND")
     self.replace("TO")

@@ -3,7 +3,6 @@ from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 
 def process(self):
-    self.scriptTag = scriptPrefixes['latin']
     self.edit("LATIN")
 
     self.edit("CAPITAL LETTER H WITH STROKE", "Hbar")

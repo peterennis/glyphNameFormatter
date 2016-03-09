@@ -1,11 +1,6 @@
 from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    # self.scriptTag = scriptPrefixes['<-scriptname->']
-
-    # edits go here
-    #self.edit("ARMENIAN")
-    #self.handleCase()
     self.edit("GREEK PERISPOMENI", "perispomeni")
     self.edit("GREEK KORONIS", "koronis")
     self.edit("GREEK DIALYTIKA TONOS", "dialytikatonos")

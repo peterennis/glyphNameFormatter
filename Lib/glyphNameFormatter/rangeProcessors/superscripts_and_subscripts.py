@@ -1,9 +1,6 @@
 from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    #self.scriptTag = scriptPrefixes['<-scriptname->']
-
-    # edits go here
     self.edit("PARENTHESIS", "paren")
     self.edit("EQUALS SIGN", "equal")
     self.edit("PLUS SIGN", "plus")

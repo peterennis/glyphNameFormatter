@@ -1,7 +1,6 @@
 from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    self.scriptTag = scriptPrefixes['latin']
     self.edit("LATIN")
 
     self.replace("CAPITAL LETTER D WITH SMALL LETTER Z", "Dz")

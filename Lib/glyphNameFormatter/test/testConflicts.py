@@ -21,9 +21,13 @@ def findConflict():
     n.sort()
     for name in n:
         if len(names[name]) > 1:
-            lines.append("\n%s" % (name))
+            l = "\n%s" % (name)
+            print l
+            lines.append(l)
             for g in names[name]:
-                lines.append("\t%04X\t%s\t%s"%(g[0], name, g[1]))
+                line = "\t%04X\t%s\t%s"%(g[0], name, g[1])
+                print line
+                lines.append(line)
 
     path = "./../names/conflict.txt"
     f = open(path, 'w')

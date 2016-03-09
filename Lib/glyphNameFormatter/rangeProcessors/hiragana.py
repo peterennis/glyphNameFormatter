@@ -1,8 +1,6 @@
 from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    self.scriptTag = scriptPrefixes['hiragana']
-
     self.edit("LETTER")
     self.edit("SMALL", "small")
     self.edit("KATAKANA-HIRAGANA VOICED SOUND MARK", "voicedmarkkana")

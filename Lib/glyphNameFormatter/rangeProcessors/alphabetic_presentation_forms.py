@@ -2,13 +2,13 @@ from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 
 def process(self):
-    if self.has("LATIN"):
-        self.scriptTag = scriptPrefixes['latin']
-    elif self.has("ARMENIAN"):
-        self.scriptTag = scriptPrefixes['armenian']
+    # if self.has("LATIN"):
+    #     self.scriptTag = scriptPrefixes['latin']
+    if self.has("ARMENIAN"):
+        # self.scriptTag = scriptPrefixes['armenian']
         self.processAs("Armenian")
     elif self.has("HEBREW"):
-        self.scriptTag = scriptPrefixes['hebrew']
+        # self.scriptTag = scriptPrefixes['hebrew']
         self.processAs("Hebrew")
 
     self.edit("LATIN SMALL LIGATURE FF", "f_f")

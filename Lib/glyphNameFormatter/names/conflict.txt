@@ -1,4 +1,315 @@
 
+A
+	0041	A	Basic Latin
+	0410	A	Cyrillic
+	0F68	A	Tibetan
+	1820	A	Mongolian
+
+Abreve
+	0102	Abreve	Latin Extended-A
+	04D0	Abreve	Cyrillic
+
+Adieresis
+	00C4	Adieresis	Latin-1 Supplement
+	04D2	Adieresis	Cyrillic
+
+BA
+	0F56	BA	Tibetan
+	182A	BA	Mongolian
+
+CHA
+	0F46	CHA	Tibetan
+	1834	CHA	Mongolian
+
+DA
+	0F51	DA	Tibetan
+	1833	DA	Mongolian
+
+E
+	0045	E	Basic Latin
+	1821	E	Mongolian
+
+Edieresis
+	00CB	Edieresis	Latin-1 Supplement
+	04EC	Edieresis	Cyrillic
+
+Ereversed
+	018E	Ereversed	Latin Extended-B
+	042D	Ereversed	Cyrillic
+
+GA
+	0F42	GA	Tibetan
+	182D	GA	Mongolian
+
+Gamma
+	0194	Gamma	Latin Extended-B
+	0393	Gamma	Greek and Coptic
+
+I
+	0049	I	Basic Latin
+	0418	I	Cyrillic
+	1822	I	Mongolian
+
+Idieresis
+	00CF	Idieresis	Latin-1 Supplement
+	04E4	Idieresis	Cyrillic
+
+Igrave
+	00CC	Igrave	Latin-1 Supplement
+	040D	Igrave	Cyrillic
+
+Imacron
+	012A	Imacron	Latin Extended-A
+	04E2	Imacron	Cyrillic
+
+Iota
+	0196	Iota	Latin Extended-B
+	0399	Iota	Greek and Coptic
+
+JA
+	0F47	JA	Tibetan
+	1835	JA	Mongolian
+
+KA
+	0F40	KA	Tibetan
+	183A	KA	Mongolian
+
+KHA
+	0F41	KHA	Tibetan
+	183B	KHA	Mongolian
+
+Koppa
+	03DE	Koppa	Greek and Coptic
+	0480	Koppa	Cyrillic
+
+LA
+	0F63	LA	Tibetan
+	182F	LA	Mongolian
+
+MA
+	0F58	MA	Tibetan
+	182E	MA	Mongolian
+
+NA
+	0F53	NA	Tibetan
+	1828	NA	Mongolian
+
+O
+	004F	O	Basic Latin
+	041E	O	Cyrillic
+	1823	O	Mongolian
+
+OE
+	0152	OE	Latin Extended-A
+	1825	OE	Mongolian
+
+Obar
+	019F	Obar	Latin Extended-B
+	04E8	Obar	Cyrillic
+
+Odieresis
+	00D6	Odieresis	Latin-1 Supplement
+	04E6	Odieresis	Cyrillic
+
+Omega
+	03A9	Omega	Greek and Coptic
+	0460	Omega	Cyrillic
+
+PA
+	0F54	PA	Tibetan
+	182B	PA	Mongolian
+
+Psi
+	03A8	Psi	Greek and Coptic
+	0470	Psi	Cyrillic
+
+RA
+	0F62	RA	Tibetan
+	1837	RA	Mongolian
+
+SA
+	0F66	SA	Tibetan
+	1830	SA	Mongolian
+
+SHA
+	0F64	SHA	Tibetan
+	1831	SHA	Mongolian
+
+Schwa
+	018F	Schwa	Latin Extended-B
+	04D8	Schwa	Cyrillic
+
+Sha
+	0428	Sha	Cyrillic
+	0547	Sha	Armenian
+
+TA
+	0F4F	TA	Tibetan
+	1832	TA	Mongolian
+
+TSA
+	0F59	TSA	Tibetan
+	183C	TSA	Mongolian
+
+U
+	0055	U	Basic Latin
+	0423	U	Cyrillic
+	1824	U	Mongolian
+
+Udieresis
+	00DC	Udieresis	Latin-1 Supplement
+	04F0	Udieresis	Cyrillic
+
+Umacron
+	016A	Umacron	Latin Extended-A
+	04EE	Umacron	Cyrillic
+
+Upsilon
+	01B1	Upsilon	Latin Extended-B
+	03A5	Upsilon	Greek and Coptic
+
+WA
+	0F5D	WA	Tibetan
+	1838	WA	Mongolian
+
+YA
+	0F61	YA	Tibetan
+	1836	YA	Mongolian
+
+Yi
+	0407	Yi	Cyrillic
+	0545	Yi	Armenian
+
+ZA
+	0F5F	ZA	Tibetan
+	183D	ZA	Mongolian
+
+Zhe
+	0416	Zhe	Cyrillic
+	053A	Zhe	Armenian
+
+a
+	0061	a	Basic Latin
+	0430	a	Cyrillic
+	0905	a	Devanagari
+	0C85	a	Kannada
+
+aa
+	0906	aa	Devanagari
+	0C86	aa	Kannada
+
+aasign
+	093E	aasign	Devanagari
+	0CBE	aasign	Kannada
+
+abreve
+	0103	abreve	Latin Extended-A
+	04D1	abreve	Cyrillic
+
+acute
+	00B4	acute	Latin-1 Supplement
+	0954	acute	Devanagari
+
+adieresis
+	00E4	adieresis	Latin-1 Supplement
+	04D3	adieresis	Cyrillic
+
+ae
+	00E6	ae	Latin-1 Supplement
+	06D5	ae	Arabic
+
+ai
+	0910	ai	Devanagari
+	0C90	ai	Kannada
+
+aisign
+	0948	aisign	Devanagari
+	0CC8	aisign	Kannada
+
+alef
+	05D0	alef	Hebrew
+	0627	alef	Arabic
+
+alpha
+	0251	alpha	IPA Extensions
+	03B1	alpha	Greek and Coptic
+
+anusvara
+	0902	anusvara	Devanagari
+	0C82	anusvara	Kannada
+
+au
+	0914	au	Devanagari
+	0C94	au	Kannada
+
+ausign
+	094C	ausign	Devanagari
+	0CCC	ausign	Kannada
+
+avagraha
+	093D	avagraha	Devanagari
+	0CBD	avagraha	Kannada
+
+ba
+	092C	ba	Devanagari
+	0CAC	ba	Kannada
+
+barfullwidth
+	3374	barfullwidth	CJK Compatibility
+	FF5C	barfullwidth	Halfwidth and Fullwidth Forms
+
+bet
+	05D1	bet	Hebrew
+	2136	bet	Letterlike Symbols
+
+bha
+	092D	bha	Devanagari
+	0CAD	bha	Kannada
+
+ca
+	056E	ca	Armenian
+	091A	ca	Devanagari
+	0C9A	ca	Kannada
+
+cha
+	0579	cha	Armenian
+	091B	cha	Devanagari
+	0C9B	cha	Kannada
+
+comma
+	002C	comma	Basic Latin
+	055D	comma	Armenian
+	060C	comma	Arabic
+
+cuberoot
+	0606	cuberoot	Arabic
+	221B	cuberoot	Mathematical Operators
+
+da
+	0564	da	Armenian
+	0926	da	Devanagari
+	0CA6	da	Kannada
+
+dalet
+	05D3	dalet	Hebrew
+	2138	dalet	Letterlike Symbols
+
+dda
+	0921	dda	Devanagari
+	0CA1	dda	Kannada
+
+ddha
+	0922	ddha	Devanagari
+	0CA2	ddha	Kannada
+
+delta
+	03B4	delta	Greek and Coptic
+	1E9F	delta	Latin Extended Additional
+
+dha
+	0927	dha	Devanagari
+	0CA7	dha	Kannada
+
 diamondblack
 	25C6	diamondblack	Geometric Shapes
 	2666	diamondblack	Miscellaneous Symbols
@@ -7,13 +318,91 @@ diamondwhite
 	25C7	diamondwhite	Geometric Shapes
 	2662	diamondwhite	Miscellaneous Symbols
 
-gr-iotalenis
-	037A	gr-iotalenis	Greek and Coptic
-	1F30	gr-iotalenis	Greek Extended
+e
+	0065	e	Basic Latin
+	044D	e	Cyrillic
+	06D0	e	Arabic
+	090F	e	Devanagari
+	0C8E	e	Kannada
+
+edieresis
+	00EB	edieresis	Latin-1 Supplement
+	04ED	edieresis	Cyrillic
+
+eight
+	0038	eight	Basic Latin
+	0668	eight	Arabic
+	096E	eight	Devanagari
+	0CEE	eight	Kannada
+	0F28	eight	Tibetan
+
+esign
+	0947	esign	Devanagari
+	0CC6	esign	Kannada
+
+exclam
+	0021	exclam	Basic Latin
+	055C	exclam	Armenian
+
+fa
+	095E	fa	Devanagari
+	0CDE	fa	Kannada
+
+feh
+	0586	feh	Armenian
+	0641	feh	Arabic
+
+five
+	0035	five	Basic Latin
+	0665	five	Arabic
+	096B	five	Devanagari
+	0CEB	five	Kannada
+	0F25	five	Tibetan
+
+four
+	0034	four	Basic Latin
+	0664	four	Arabic
+	096A	four	Devanagari
+	0CEA	four	Kannada
+	0F24	four	Tibetan
+
+fourthroot
+	0607	fourthroot	Arabic
+	221C	fourthroot	Mathematical Operators
+
+ga
+	0917	ga	Devanagari
+	0C97	ga	Kannada
+
+gamma
+	0263	gamma	IPA Extensions
+	03B3	gamma	Greek and Coptic
+
+gha
+	0918	gha	Devanagari
+	0C98	gha	Kannada
+
+gimel
+	05D2	gimel	Hebrew
+	2137	gimel	Letterlike Symbols
+
+glottalstop
+	0242	glottalstop	Latin Extended-B
+	0294	glottalstop	IPA Extensions
+	097D	glottalstop	Devanagari
+
+grave
+	0060	grave	Basic Latin
+	0953	grave	Devanagari
 
 gscript
 	0261	gscript	IPA Extensions
 	210A	gscript	Letterlike Symbols
+
+ha
+	0445	ha	Cyrillic
+	0939	ha	Devanagari
+	0CB9	ha	Kannada
 
 hanguljungseongoe
 	116C	hanguljungseongoe	Hangul Jamo
@@ -21,8 +410,378 @@ hanguljungseongoe
 
 hyphen
 	002D	hyphen	Basic Latin
+	058A	hyphen	Armenian
 	2010	hyphen	General Punctuation
+
+i
+	0069	i	Basic Latin
+	0438	i	Cyrillic
+	0907	i	Devanagari
+	0C87	i	Kannada
+
+idieresis
+	00EF	idieresis	Latin-1 Supplement
+	04E5	idieresis	Cyrillic
+
+igrave
+	00EC	igrave	Latin-1 Supplement
+	045D	igrave	Cyrillic
+
+ii
+	0908	ii	Devanagari
+	0C88	ii	Kannada
+
+iisign
+	0940	iisign	Devanagari
+	0CC0	iisign	Kannada
+
+imacron
+	012B	imacron	Latin Extended-A
+	04E3	imacron	Cyrillic
+
+iota
+	0269	iota	IPA Extensions
+	03B9	iota	Greek and Coptic
+
+isign
+	093F	isign	Devanagari
+	0CBF	isign	Kannada
+
+ja
+	0571	ja	Armenian
+	091C	ja	Devanagari
+	0C9C	ja	Kannada
+
+jha
+	091D	jha	Devanagari
+	0C9D	jha	Kannada
+
+ka
+	043A	ka	Cyrillic
+	0915	ka	Devanagari
+	0C95	ka	Kannada
+
+kaf
+	05DB	kaf	Hebrew
+	0643	kaf	Arabic
+
+kaf.fina
+	05DA	kaf.fina	Hebrew
+	FEDA	kaf.fina	Arabic Presentation Forms-B
+
+kha
+	0916	kha	Devanagari
+	0C96	kha	Kannada
+
+koppa
+	03DF	koppa	Greek and Coptic
+	0481	koppa	Cyrillic
+
+la
+	0932	la	Devanagari
+	0CB2	la	Kannada
+
+lla
+	0933	lla	Devanagari
+	0CB3	lla	Kannada
+
+llvocal
+	0961	llvocal	Devanagari
+	0CE1	llvocal	Kannada
+
+llvocalsign
+	0963	llvocalsign	Devanagari
+	0CE3	llvocalsign	Kannada
+
+lvocal
+	090C	lvocal	Devanagari
+	0C8C	lvocal	Kannada
+
+lvocalsign
+	0962	lvocalsign	Devanagari
+	0CE2	lvocalsign	Kannada
+
+ma
+	092E	ma	Devanagari
+	0CAE	ma	Kannada
+
+na
+	0928	na	Devanagari
+	0CA8	na	Kannada
+
+nga
+	0919	nga	Devanagari
+	0C99	nga	Kannada
+
+nine
+	0039	nine	Basic Latin
+	0669	nine	Arabic
+	096F	nine	Devanagari
+	0CEF	nine	Kannada
+	0F29	nine	Tibetan
+
+nna
+	0923	nna	Devanagari
+	0CA3	nna	Kannada
+
+nukta
+	093C	nukta	Devanagari
+	0CBC	nukta	Kannada
+
+numbersign
+	0023	numbersign	Basic Latin
+	0600	numbersign	Arabic
+
+nya
+	091E	nya	Devanagari
+	0C9E	nya	Kannada
+
+o
+	006F	o	Basic Latin
+	043E	o	Cyrillic
+	0913	o	Devanagari
+	0C92	o	Kannada
+
+odieresis
+	00F6	odieresis	Latin-1 Supplement
+	04E7	odieresis	Cyrillic
+
+oe
+	0153	oe	Latin Extended-A
+	06C6	oe	Arabic
+
+omega
+	03C9	omega	Greek and Coptic
+	0461	omega	Cyrillic
+
+one
+	0031	one	Basic Latin
+	0661	one	Arabic
+	0967	one	Devanagari
+	0CE7	one	Kannada
+	0F21	one	Tibetan
+
+osign
+	094B	osign	Devanagari
+	0CCA	osign	Kannada
+
+pa
+	092A	pa	Devanagari
+	0CAA	pa	Kannada
+
+pe
+	043F	pe	Cyrillic
+	05E4	pe	Hebrew
+
+peh
+	057A	peh	Armenian
+	067E	peh	Arabic
+
+percent
+	0025	percent	Basic Latin
+	066A	percent	Arabic
+
+period
+	002E	period	Basic Latin
+	0589	period	Armenian
+	06D4	period	Arabic
 
 perpendicular
 	22A5	perpendicular	Mathematical Operators
 	27C2	perpendicular	Miscellaneous Mathematical Symbols-A
+
+perthousand
+	060A	perthousand	Arabic
+	2030	perthousand	General Punctuation
+
+pha
+	092B	pha	Devanagari
+	0CAB	pha	Kannada
+
+phi
+	0278	phi	IPA Extensions
+	03C6	phi	Greek and Coptic
+
+psi
+	03C8	psi	Greek and Coptic
+	0471	psi	Cyrillic
+
+question
+	003F	question	Basic Latin
+	037E	question	Greek and Coptic
+	055E	question	Armenian
+	061F	question	Arabic
+
+ra
+	057C	ra	Armenian
+	0930	ra	Devanagari
+	0CB0	ra	Kannada
+
+reh
+	0580	reh	Armenian
+	0631	reh	Arabic
+
+rra
+	0931	rra	Devanagari
+	0CB1	rra	Kannada
+
+rrvocal
+	0960	rrvocal	Devanagari
+	0CE0	rrvocal	Kannada
+
+rrvocalsign
+	0944	rrvocalsign	Devanagari
+	0CC4	rrvocalsign	Kannada
+
+rvocal
+	090B	rvocal	Devanagari
+	0C8B	rvocal	Kannada
+
+rvocalsign
+	0943	rvocalsign	Devanagari
+	0CC3	rvocalsign	Kannada
+
+sa
+	0938	sa	Devanagari
+	0CB8	sa	Kannada
+
+schwa
+	0259	schwa	IPA Extensions
+	04D9	schwa	Cyrillic
+
+semicolon
+	003B	semicolon	Basic Latin
+	061B	semicolon	Arabic
+
+seven
+	0037	seven	Basic Latin
+	0667	seven	Arabic
+	096D	seven	Devanagari
+	0CED	seven	Kannada
+	0F27	seven	Tibetan
+
+sha
+	0448	sha	Cyrillic
+	0577	sha	Armenian
+	0936	sha	Devanagari
+	0CB6	sha	Kannada
+
+six
+	0036	six	Basic Latin
+	0666	six	Arabic
+	096C	six	Devanagari
+	0CEC	six	Kannada
+	0F26	six	Tibetan
+
+ssa
+	0937	ssa	Devanagari
+	0CB7	ssa	Kannada
+
+ta
+	0924	ta	Devanagari
+	0CA4	ta	Kannada
+
+tha
+	0925	tha	Devanagari
+	0CA5	tha	Kannada
+
+thousands
+	0482	thousands	Cyrillic
+	066C	thousands	Arabic
+
+three
+	0033	three	Basic Latin
+	0663	three	Arabic
+	0969	three	Devanagari
+	0CE9	three	Kannada
+	0F23	three	Tibetan
+
+tta
+	091F	tta	Devanagari
+	0C9F	tta	Kannada
+
+ttha
+	0920	ttha	Devanagari
+	0CA0	ttha	Kannada
+
+two
+	0032	two	Basic Latin
+	0662	two	Arabic
+	0968	two	Devanagari
+	0CE8	two	Kannada
+	0F22	two	Tibetan
+
+u
+	0075	u	Basic Latin
+	0443	u	Cyrillic
+	06C7	u	Arabic
+	0909	u	Devanagari
+	0C89	u	Kannada
+
+udieresis
+	00FC	udieresis	Latin-1 Supplement
+	04F1	udieresis	Cyrillic
+
+umacron
+	016B	umacron	Latin Extended-A
+	04EF	umacron	Cyrillic
+
+upsilon
+	028A	upsilon	IPA Extensions
+	03C5	upsilon	Greek and Coptic
+
+usign
+	0941	usign	Devanagari
+	0CC1	usign	Kannada
+
+uu
+	090A	uu	Devanagari
+	0C8A	uu	Kannada
+
+uusign
+	0942	uusign	Devanagari
+	0CC2	uusign	Kannada
+
+va
+	0935	va	Devanagari
+	0CB5	va	Kannada
+
+ve
+	0432	ve	Cyrillic
+	06CB	ve	Arabic
+
+virama
+	094D	virama	Devanagari
+	0CCD	virama	Kannada
+
+visarga
+	0903	visarga	Devanagari
+	0C83	visarga	Kannada
+
+ya
+	044F	ya	Cyrillic
+	092F	ya	Devanagari
+	0CAF	ya	Kannada
+
+yi
+	0457	yi	Cyrillic
+	0575	yi	Armenian
+
+yu
+	044E	yu	Cyrillic
+	06C8	yu	Arabic
+
+za
+	0566	za	Armenian
+	095B	za	Devanagari
+
+zero
+	0030	zero	Basic Latin
+	0660	zero	Arabic
+	0966	zero	Devanagari
+	0CE6	zero	Kannada
+	0F20	zero	Tibetan
+
+zhe
+	0436	zhe	Cyrillic
+	056A	zhe	Armenian

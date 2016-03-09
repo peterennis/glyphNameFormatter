@@ -2,9 +2,6 @@ from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 
 def process(self):
-    self.scriptTag = scriptPrefixes['tibetan']
-
-    # edits go here
     self.edit("TIBETAN")
     if self.has("DIGIT"):
         self.edit("DIGIT", "")

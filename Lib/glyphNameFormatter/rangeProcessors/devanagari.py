@@ -1,7 +1,6 @@
 from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
-    self.scriptTag = scriptPrefixes['devanagari']
     self.edit("DEVANAGARI")
 
     # parts
