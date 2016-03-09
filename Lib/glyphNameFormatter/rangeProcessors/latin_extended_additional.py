@@ -1,16 +1,21 @@
+from glyphNameFormatter.data.scriptPrefixes import addScriptPrefix
+
 
 def process(self):
     self.edit("LATIN")
     # edits go here
     self.replace("CAPITAL LETTER MIDDLE-WELSH LL", "LLwelsh")
 
-    #self.edit("WITH DOT BELOW AND DOT ABOVE", "dotbelow", "dotaccent")
-    #self.edit("WITH DOT BELOW", "dotbelow")
-    #self.edit("WITH DOT ABOVE", "dotaccent")
-    #self.edit("AND DOT ABOVE", "dotacent")
+    # self.edit("WITH DOT BELOW AND DOT ABOVE", "dotbelow", "dotaccent")
+    # self.edit("WITH DOT BELOW", "dotbelow")
+    # self.edit("WITH DOT ABOVE", "dotaccent")
+    # self.edit("AND DOT ABOVE", "dotacent")
     self.edit("MIDDLE-WELSH", "welsh")
 
     self.replace("CAPITAL LETTER SHARP S", "Germandbls")
+
+    self.replace("SMALL LETTER DELTA", addScriptPrefix("delta", script="latin"))
+
     self.processDiacritics()
     self.handleCase()
     self.compress()

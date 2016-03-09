@@ -37,7 +37,7 @@ Imacron
         04E2             Imacron          Imacroncyr          Imacroncyr                                Cyrillic
 
 Koppa
-        03DE               Koppa          Koppagreek            gr-Koppa                        Greek and Coptic
+        03DE               Koppa          Koppagreek               Koppa                        Greek and Coptic
         0480               Koppa       Koppacyrillic            Koppacyr                                Cyrillic
 
 O
@@ -53,11 +53,11 @@ Odieresis
         04E6           Odieresis        Odieresiscyr        Odieresiscyr                                Cyrillic
 
 Omega
-        03A9               Omega               Omega            gr-Omega                        Greek and Coptic
+        03A9               Omega               Omega               Omega                        Greek and Coptic
         0460               Omega       Omegacyrillic            Omegacyr                                Cyrillic
 
 Psi
-        03A8                 Psi                 Psi              gr-Psi                        Greek and Coptic
+        03A8                 Psi                 Psi                 Psi                        Greek and Coptic
         0470                 Psi         Psicyrillic              Psicyr                                Cyrillic
 
 Schwa
@@ -110,7 +110,7 @@ abreve
 
 acute
         00B4               acute               acute               acute                      Latin-1 Supplement
-        0954               acute             dvAcute               acute                              Devanagari
+        0954               acute             dvAcute            dv-acute                              Devanagari
         1FFD               acute                oxia            gr-acute                          Greek Extended
 
 adieresis
@@ -131,15 +131,15 @@ aisign
 
 alef
         05D0                alef              heAlef             hb-alef                                  Hebrew
-        0627                alef              arAlef                alef                                  Arabic
+        0627                alef              arAlef             ar-alef                                  Arabic
 
 alpha
         0251               alpha          alphalatin           ipa-alpha                          IPA Extensions
-        03B1               alpha               alpha            gr-alpha                        Greek and Coptic
+        03B1               alpha               alpha               alpha                        Greek and Coptic
 
 anusvara
-        0902            anusvara          dvAnusvara            anusvara                              Devanagari
-        0C82            anusvara          knAnusvara            anusvara                                 Kannada
+        0902            anusvara          dvAnusvara         dv-anusvara                              Devanagari
+        0C82            anusvara          knAnusvara         kn-anusvara                                 Kannada
 
 au
         0914                  au                dvAu               dv-au                              Devanagari
@@ -150,18 +150,14 @@ ausign
         0CCC              ausign            knAusign           kn-ausign                                 Kannada
 
 avagraha
-        093D            avagraha          dvAvagraha            avagraha                              Devanagari
-        0CBD            avagraha          knAvagraha            avagraha                                 Kannada
+        093D            avagraha          dvAvagraha         dv-avagraha                              Devanagari
+        0CBD            avagraha          knAvagraha         kn-avagraha                                 Kannada
 
 ba
         092C                  ba                dvBa               dv-ba                              Devanagari
         0CAC                  ba                knBa               kn-ba                                 Kannada
         0F56                  ba                   -               tb-ba                                 Tibetan
         182A                  ba                   -               mo-ba                               Mongolian
-
-barfullwidth
-        3374        barfullwidth        barfullwidth        barfullwidth                       CJK Compatibility
-        FF5C        barfullwidth   linevertfullwidth        barfullwidth           Halfwidth and Fullwidth Forms
 
 bet
         05D1                 bet               heBet              hb-bet                                  Hebrew
@@ -187,20 +183,20 @@ cha
 
 chi
         03C7                 chi                 chi                 chi                        Greek and Coptic
-        1842                 chi                   -                 chi                               Mongolian
+        1842                 chi                   -              mo-chi                               Mongolian
 
 colon
         003A               colon               colon               colon                             Basic Latin
-        1804               colon                   -               colon                               Mongolian
+        1804               colon                   -            mo-colon                               Mongolian
 
 comma
         002C               comma               comma               comma                             Basic Latin
-        055D               comma       commaarmenian               comma                                Armenian
-        060C               comma             arComma               comma                                  Arabic
+        055D               comma       commaarmenian            am-comma                                Armenian
+        060C               comma             arComma            ar-comma                                  Arabic
         1802               comma                   -            mo-comma                               Mongolian
 
 cuberoot
-        0606            cuberoot                   -            cuberoot                                  Arabic
+        0606            cuberoot                   -         ar-cuberoot                                  Arabic
         221B            cuberoot                   -       mthm-cuberoot                  Mathematical Operators
 
 da
@@ -224,10 +220,6 @@ ddha
         0CA2                ddha              knDdha             kn-ddha                                 Kannada
         0F4D                ddha                   -             tb-ddha                                 Tibetan
 
-delta
-        03B4               delta               delta            gr-delta                        Greek and Coptic
-        1E9F               delta                   -               delta               Latin Extended Additional
-
 dha
         0927                 dha               dvDha              dv-dha                              Devanagari
         0CA7                 dha               knDha              kn-dha                                 Kannada
@@ -235,11 +227,11 @@ dha
 
 diamondblack
         25C6        diamondblack        diamondblack   gmtr-diamondblack                        Geometric Shapes
-        2666        diamondblack             diamond        diamondblack                   Miscellaneous Symbols
+        2666        diamondblack             diamond   misc-diamondblack                   Miscellaneous Symbols
 
 diamondwhite
         25C7        diamondwhite        whitediamond   gmtr-diamondwhite                        Geometric Shapes
-        2662        diamondwhite         diamondopen        diamondwhite                   Miscellaneous Symbols
+        2662        diamondwhite         diamondopen   misc-diamondwhite                   Miscellaneous Symbols
 
 e
         0065                   e                   e                   e                             Basic Latin
@@ -254,8 +246,8 @@ edieresis
         04ED           edieresis                   -        edieresiscyr                                Cyrillic
 
 ee
-        0C8F                  ee                knEe                  ee                                 Kannada
-        1827                  ee                   -                  ee                               Mongolian
+        0C8F                  ee                knEe               kn-ee                                 Kannada
+        1827                  ee                   -               mo-ee                               Mongolian
 
 eight
         0038               eight               eight               eight                             Basic Latin
@@ -266,8 +258,8 @@ eight
         1818               eight                   -            mo-eight                               Mongolian
 
 ellipsis
-        1801            ellipsis                   -            ellipsis                               Mongolian
-        2026            ellipsis            ellipsis            ellipsis                     General Punctuation
+        1801            ellipsis                   -         mo-ellipsis                               Mongolian
+        2026            ellipsis            ellipsis       gnrl-ellipsis                     General Punctuation
 
 esign
         0947               esign             dvEsign            dv-esign                              Devanagari
@@ -275,7 +267,7 @@ esign
 
 exclam
         0021              exclam              exclam              exclam                             Basic Latin
-        055C              exclam      exclamarmenian              exclam                                Armenian
+        055C              exclam      exclamarmenian           am-exclam                                Armenian
 
 fa
         095E                  fa                dvFa               dv-fa                              Devanagari
@@ -303,7 +295,7 @@ four
         1814                four                   -             mo-four                               Mongolian
 
 fourthroot
-        0607          fourthroot                   -          fourthroot                                  Arabic
+        0607          fourthroot                   -       ar-fourthroot                                  Arabic
         221C          fourthroot                   -     mthm-fourthroot                  Mathematical Operators
 
 ga
@@ -314,7 +306,7 @@ ga
 
 gamma
         0263               gamma          gammalatin           ipa-gamma                          IPA Extensions
-        03B3               gamma               gamma            gr-gamma                        Greek and Coptic
+        03B3               gamma               gamma               gamma                        Greek and Coptic
 
 gha
         0918                 gha               dvGha              dv-gha                              Devanagari
@@ -328,16 +320,16 @@ gimel
 glottalstop
         0242         glottalstop    glottalstoplatin         glottalstop                        Latin Extended-B
         0294         glottalstop         glottalstop     ipa-glottalstop                          IPA Extensions
-        097D         glottalstop              dvStop         glottalstop                              Devanagari
+        097D         glottalstop              dvStop      dv-glottalstop                              Devanagari
 
 grave
         0060               grave               grave               grave                             Basic Latin
-        0953               grave             dvGrave               grave                              Devanagari
+        0953               grave             dvGrave            dv-grave                              Devanagari
         1FEF               grave               varia            gr-grave                          Greek Extended
 
 gscript
-        0261             gscript             gscript             gscript                          IPA Extensions
-        210A             gscript         gscriptmath             gscript                      Letterlike Symbols
+        0261             gscript             gscript         ipa-gscript                          IPA Extensions
+        210A             gscript         gscriptmath        lttr-gscript                      Letterlike Symbols
 
 ha
         0445                  ha                  ha               hacyr                                Cyrillic
@@ -351,7 +343,7 @@ hanguljungseongoe
 
 hyphen
         002D              hyphen              hyphen              hyphen                             Basic Latin
-        058A              hyphen                   -              hyphen                                Armenian
+        058A              hyphen                   -           am-hyphen                                Armenian
         2010              hyphen           hyphentwo         gnrl-hyphen                     General Punctuation
 
 i
@@ -383,10 +375,10 @@ imacron
 
 iota
         0269                iota           iotalatin            ipa-iota                          IPA Extensions
-        03B9                iota                iota             gr-iota                        Greek and Coptic
+        03B9                iota                iota                iota                        Greek and Coptic
 
 iotalenis
-        037A           iotalenis       iotasubscript           iotalenis                        Greek and Coptic
+        037A           iotalenis       iotasubscript        gr-iotalenis                        Greek and Coptic
         1F30           iotalenis           iotalenis        gr-iotalenis                          Greek Extended
 
 isign
@@ -426,7 +418,7 @@ kha
         183B                 kha                   -              mo-kha                               Mongolian
 
 koppa
-        03DF               koppa                   -            gr-koppa                        Greek and Coptic
+        03DF               koppa                   -               koppa                        Greek and Coptic
         0481               koppa       koppacyrillic            koppacyr                                Cyrillic
 
 la
@@ -440,20 +432,20 @@ lla
         0CB3                 lla               knLla              kn-lla                                 Kannada
 
 llvocal
-        0961             llvocal           dvLlvocal             llvocal                              Devanagari
-        0CE1             llvocal           knLlvocal             llvocal                                 Kannada
+        0961             llvocal           dvLlvocal          dv-llvocal                              Devanagari
+        0CE1             llvocal           knLlvocal          kn-llvocal                                 Kannada
 
 llvocalsign
-        0963         llvocalsign       dvLlvocalsign         llvocalsign                              Devanagari
-        0CE3         llvocalsign       knLlvocalsign         llvocalsign                                 Kannada
+        0963         llvocalsign       dvLlvocalsign      dv-llvocalsign                              Devanagari
+        0CE3         llvocalsign       knLlvocalsign      kn-llvocalsign                                 Kannada
 
 lvocal
-        090C              lvocal            dvLvocal              lvocal                              Devanagari
-        0C8C              lvocal            knLvocal              lvocal                                 Kannada
+        090C              lvocal            dvLvocal           dv-lvocal                              Devanagari
+        0C8C              lvocal            knLvocal           kn-lvocal                                 Kannada
 
 lvocalsign
-        0962          lvocalsign        dvLvocalsign          lvocalsign                              Devanagari
-        0CE2          lvocalsign        knLvocalsign          lvocalsign                                 Kannada
+        0962          lvocalsign        dvLvocalsign       dv-lvocalsign                              Devanagari
+        0CE2          lvocalsign        knLvocalsign       kn-lvocalsign                                 Kannada
 
 ma
         092E                  ma                dvMa               dv-ma                              Devanagari
@@ -486,12 +478,12 @@ nna
         0F4E                 nna                   -              tb-nna                                 Tibetan
 
 nukta
-        093C               nukta             dvNukta               nukta                              Devanagari
-        0CBC               nukta             knNukta               nukta                                 Kannada
+        093C               nukta             dvNukta            dv-nukta                              Devanagari
+        0CBC               nukta             knNukta            kn-nukta                                 Kannada
 
 numbersign
         0023          numbersign          numbersign          numbersign                             Basic Latin
-        0600          numbersign        arNumberSign          numbersign                                  Arabic
+        0600          numbersign        arNumberSign       ar-numbersign                                  Arabic
 
 nya
         091E                 nya               dvNya              dv-nya                              Devanagari
@@ -515,7 +507,7 @@ oe
         1825                  oe                   -               mo-oe                               Mongolian
 
 omega
-        03C9               omega               omega            gr-omega                        Greek and Coptic
+        03C9               omega               omega               omega                        Greek and Coptic
         0461               omega       omegacyrillic            omegacyr                                Cyrillic
 
 one
@@ -546,12 +538,12 @@ peh
 
 percent
         0025             percent             percent             percent                             Basic Latin
-        066A             percent           arPercent             percent                                  Arabic
+        066A             percent           arPercent          ar-percent                                  Arabic
 
 period
         002E              period              period              period                             Basic Latin
-        0589              period      periodarmenian              period                                Armenian
-        06D4              period         arPeriodURD              period                                  Arabic
+        0589              period      periodarmenian           am-period                                Armenian
+        06D4              period         arPeriodURD           ar-period                                  Arabic
         1803              period                   -           mo-period                               Mongolian
 
 perpendicular
@@ -559,7 +551,7 @@ perpendicular
         27C2       perpendicular                   -  misc-perpendicular    Miscellaneous Mathematical Symbols-A
 
 perthousand
-        060A         perthousand                   -         perthousand                                  Arabic
+        060A         perthousand                   -      ar-perthousand                                  Arabic
         2030         perthousand         perthousand    gnrl-perthousand                     General Punctuation
 
 pha
@@ -569,21 +561,21 @@ pha
 
 phi
         0278                 phi            philatin             ipa-phi                          IPA Extensions
-        03C6                 phi                 phi              gr-phi                        Greek and Coptic
+        03C6                 phi                 phi                 phi                        Greek and Coptic
 
 psi
-        03C8                 psi                 psi              gr-psi                        Greek and Coptic
+        03C8                 psi                 psi                 psi                        Greek and Coptic
         0471                 psi         psicyrillic              psicyr                                Cyrillic
 
 qa
-        0958                  qa                dvQa                  qa                              Devanagari
-        182C                  qa                   -                  qa                               Mongolian
+        0958                  qa                dvQa               dv-qa                              Devanagari
+        182C                  qa                   -               mo-qa                               Mongolian
 
 question
         003F            question            question            question                             Basic Latin
-        037E            question       questiongreek            question                        Greek and Coptic
-        055E            question    questionarmenian            question                                Armenian
-        061F            question          arQuestion            question                                  Arabic
+        037E            question       questiongreek         gr-question                        Greek and Coptic
+        055E            question    questionarmenian         am-question                                Armenian
+        061F            question          arQuestion         ar-question                                  Arabic
 
 ra
         057C                  ra          raarmenian               am-ra                                Armenian
@@ -602,20 +594,20 @@ rra
         0F6C                 rra                   -              tb-rra                                 Tibetan
 
 rrvocal
-        0960             rrvocal           dvRrvocal             rrvocal                              Devanagari
-        0CE0             rrvocal           knRrvocal             rrvocal                                 Kannada
+        0960             rrvocal           dvRrvocal          dv-rrvocal                              Devanagari
+        0CE0             rrvocal           knRrvocal          kn-rrvocal                                 Kannada
 
 rrvocalsign
-        0944         rrvocalsign       dvRrvocalsign         rrvocalsign                              Devanagari
-        0CC4         rrvocalsign       knRrvocalsign         rrvocalsign                                 Kannada
+        0944         rrvocalsign       dvRrvocalsign      dv-rrvocalsign                              Devanagari
+        0CC4         rrvocalsign       knRrvocalsign      kn-rrvocalsign                                 Kannada
 
 rvocal
-        090B              rvocal            dvRvocal              rvocal                              Devanagari
-        0C8B              rvocal            knRvocal              rvocal                                 Kannada
+        090B              rvocal            dvRvocal           dv-rvocal                              Devanagari
+        0C8B              rvocal            knRvocal           kn-rvocal                                 Kannada
 
 rvocalsign
-        0943          rvocalsign        dvRvocalsign          rvocalsign                              Devanagari
-        0CC3          rvocalsign        knRvocalsign          rvocalsign                                 Kannada
+        0943          rvocalsign        dvRvocalsign       dv-rvocalsign                              Devanagari
+        0CC3          rvocalsign        knRvocalsign       kn-rvocalsign                                 Kannada
 
 sa
         0938                  sa                dvSa               dv-sa                              Devanagari
@@ -629,7 +621,7 @@ schwa
 
 semicolon
         003B           semicolon           semicolon           semicolon                             Basic Latin
-        061B           semicolon         arSemicolon           semicolon                                  Arabic
+        061B           semicolon         arSemicolon        ar-semicolon                                  Arabic
 
 seven
         0037               seven               seven               seven                             Basic Latin
@@ -672,8 +664,8 @@ tha
         0F50                 tha                   -              tb-tha                                 Tibetan
 
 thousands
-        0482           thousands    thousandcyrillic           thousands                                Cyrillic
-        066C           thousands         arThousands           thousands                                  Arabic
+        0482           thousands    thousandcyrillic        thousandscyr                                Cyrillic
+        066C           thousands         arThousands        ar-thousands                                  Arabic
 
 three
         0033               three               three               three                             Basic Latin
@@ -681,15 +673,15 @@ three
         0969               three             dvThree            dv-three                              Devanagari
         0CE9               three             knThree            kn-three                                 Kannada
         0F23               three                   -            tb-three                                 Tibetan
-        1813               three                   -               three                               Mongolian
+        1813               three                   -            mo-three                               Mongolian
 
 tilde
         02DC               tilde               tilde          spcn-tilde                Spacing Modifier Letters
         1FC0               tilde         perispomeni            gr-tilde                          Greek Extended
 
 tsa
-        0F59                 tsa                   -                 tsa                                 Tibetan
-        183C                 tsa                   -                 tsa                               Mongolian
+        0F59                 tsa                   -              tb-tsa                                 Tibetan
+        183C                 tsa                   -              mo-tsa                               Mongolian
 
 tta
         091F                 tta               dvTta              dv-tta                              Devanagari
@@ -727,7 +719,7 @@ umacron
 
 upsilon
         028A             upsilon        upsilonlatin         ipa-upsilon                          IPA Extensions
-        03C5             upsilon             upsilon          gr-upsilon                        Greek and Coptic
+        03C5             upsilon             upsilon             upsilon                        Greek and Coptic
 
 usign
         0941               usign             dvUsign            dv-usign                              Devanagari
@@ -750,16 +742,16 @@ ve
         06CB                  ve                arVe               ar-ve                                  Arabic
 
 virama
-        094D              virama            dvVirama              virama                              Devanagari
-        0CCD              virama            knVirama              virama                                 Kannada
+        094D              virama            dvVirama           dv-virama                              Devanagari
+        0CCD              virama            knVirama           kn-virama                                 Kannada
 
 visarga
-        0903             visarga           dvVisarga             visarga                              Devanagari
-        0C83             visarga           knVisarga             visarga                                 Kannada
+        0903             visarga           dvVisarga          dv-visarga                              Devanagari
+        0C83             visarga           knVisarga          kn-visarga                                 Kannada
 
 wa
-        0F5D                  wa                   -                  wa                                 Tibetan
-        1838                  wa                   -                  wa                               Mongolian
+        0F5D                  wa                   -               tb-wa                                 Tibetan
+        1838                  wa                   -               mo-wa                               Mongolian
 
 ya
         044F                  ya                  ya               yacyr                                Cyrillic
@@ -791,41 +783,41 @@ zero
         1810                zero                   -             mo-zero                               Mongolian
 
 zha
-        0979                 zha               dvZha                 zha                              Devanagari
-        0F5E                 zha                   -                 zha                                 Tibetan
+        0979                 zha               dvZha              dv-zha                              Devanagari
+        0F5E                 zha                   -              tb-zha                                 Tibetan
 
 zhe
         0436                 zhe                 zhe              zhecyr                                Cyrillic
         056A                 zhe         zhearmenian              am-zhe                                Armenian
-# 167 names with conflicts, affecting 464 unicodes
+# 165 names with conflicts, affecting 460 unicodes
 
 
 Conflicts by rangename
         06D5                  ae                arAe               ar-ae                                  Arabic
-        0627                alef              arAlef                alef                                  Arabic
-        060C               comma             arComma               comma                                  Arabic
-        0606            cuberoot                   -            cuberoot                                  Arabic
+        0627                alef              arAlef             ar-alef                                  Arabic
+        060C               comma             arComma            ar-comma                                  Arabic
+        0606            cuberoot                   -         ar-cuberoot                                  Arabic
         06D0                   e                 arE                ar-e                                  Arabic
         0668               eight             arEight            ar-eight                                  Arabic
         0641                 feh               arFeh              ar-feh                                  Arabic
         0665                five              arFive             ar-five                                  Arabic
         0664                four              arFour             ar-four                                  Arabic
-        0607          fourthroot                   -          fourthroot                                  Arabic
+        0607          fourthroot                   -       ar-fourthroot                                  Arabic
         0643                 kaf               arKaf              ar-kaf                                  Arabic
         0669                nine              arNine             ar-nine                                  Arabic
-        0600          numbersign        arNumberSign          numbersign                                  Arabic
+        0600          numbersign        arNumberSign       ar-numbersign                                  Arabic
         06C6                  oe                arOe               ar-oe                                  Arabic
         0661                 one               arOne              ar-one                                  Arabic
         067E                 peh               arPeh              ar-peh                                  Arabic
-        066A             percent           arPercent             percent                                  Arabic
-        06D4              period         arPeriodURD              period                                  Arabic
-        060A         perthousand                   -         perthousand                                  Arabic
-        061F            question          arQuestion            question                                  Arabic
+        066A             percent           arPercent          ar-percent                                  Arabic
+        06D4              period         arPeriodURD           ar-period                                  Arabic
+        060A         perthousand                   -      ar-perthousand                                  Arabic
+        061F            question          arQuestion         ar-question                                  Arabic
         0631                 reh               arReh              ar-reh                                  Arabic
-        061B           semicolon         arSemicolon           semicolon                                  Arabic
+        061B           semicolon         arSemicolon        ar-semicolon                                  Arabic
         0667               seven             arSeven            ar-seven                                  Arabic
         0666                 six               arSix              ar-six                                  Arabic
-        066C           thousands         arThousands           thousands                                  Arabic
+        066C           thousands         arThousands        ar-thousands                                  Arabic
         0663               three             arThree            ar-three                                  Arabic
         0662                 two               arTwo              ar-two                                  Arabic
         06C7                   u                 arU                ar-u                                  Arabic
@@ -838,15 +830,15 @@ Conflicts by rangename
         053A                 Zhe         Zhearmenian              am-Zhe                                Armenian
         056E                  ca          caarmenian               am-ca                                Armenian
         0579                 cha         chaarmenian              am-cha                                Armenian
-        055D               comma       commaarmenian               comma                                Armenian
+        055D               comma       commaarmenian            am-comma                                Armenian
         0564                  da          daarmenian               am-da                                Armenian
-        055C              exclam      exclamarmenian              exclam                                Armenian
+        055C              exclam      exclamarmenian           am-exclam                                Armenian
         0586                 feh         feharmenian              am-feh                                Armenian
-        058A              hyphen                   -              hyphen                                Armenian
+        058A              hyphen                   -           am-hyphen                                Armenian
         0571                  ja          jaarmenian               am-ja                                Armenian
         057A                 peh         peharmenian              am-peh                                Armenian
-        0589              period      periodarmenian              period                                Armenian
-        055E            question    questionarmenian            question                                Armenian
+        0589              period      periodarmenian           am-period                                Armenian
+        055E            question    questionarmenian         am-question                                Armenian
         057C                  ra          raarmenian               am-ra                                Armenian
         0580                 reh         reharmenian              am-reh                                Armenian
         0577                 sha         shaarmenian              am-sha                                Armenian
@@ -882,7 +874,6 @@ Conflicts by rangename
         0032                 two                 two                 two                             Basic Latin
         0075                   u                   u                   u                             Basic Latin
         0030                zero                zero                zero                             Basic Latin
-        3374        barfullwidth        barfullwidth        barfullwidth                       CJK Compatibility
         0410                   A                Acyr                Acyr                                Cyrillic
         04D0              Abreve           Abrevecyr           Abrevecyr                                Cyrillic
         04D2           Adieresis        Adieresiscyr        Adieresiscyr                                Cyrillic
@@ -924,7 +915,7 @@ Conflicts by rangename
         0471                 psi         psicyrillic              psicyr                                Cyrillic
         04D9               schwa            schwacyr            schwacyr                                Cyrillic
         0448                 sha                 sha              shacyr                                Cyrillic
-        0482           thousands    thousandcyrillic           thousands                                Cyrillic
+        0482           thousands    thousandcyrillic        thousandscyr                                Cyrillic
         0443                   u                ucyr                ucyr                                Cyrillic
         04F1           udieresis        udieresiscyr        udieresiscyr                                Cyrillic
         04EF             umacron          umacroncyr          umacroncyr                                Cyrillic
@@ -936,13 +927,13 @@ Conflicts by rangename
         0905                   a                 dvA                dv-a                              Devanagari
         0906                  aa                dvAa               dv-aa                              Devanagari
         093E              aasign            dvAasign           dv-aasign                              Devanagari
-        0954               acute             dvAcute               acute                              Devanagari
+        0954               acute             dvAcute            dv-acute                              Devanagari
         0910                  ai                dvAi               dv-ai                              Devanagari
         0948              aisign            dvAisign           dv-aisign                              Devanagari
-        0902            anusvara          dvAnusvara            anusvara                              Devanagari
+        0902            anusvara          dvAnusvara         dv-anusvara                              Devanagari
         0914                  au                dvAu               dv-au                              Devanagari
         094C              ausign            dvAusign           dv-ausign                              Devanagari
-        093D            avagraha          dvAvagraha            avagraha                              Devanagari
+        093D            avagraha          dvAvagraha         dv-avagraha                              Devanagari
         092C                  ba                dvBa               dv-ba                              Devanagari
         092D                 bha               dvBha              dv-bha                              Devanagari
         091A                  ca                dvCa               dv-ca                              Devanagari
@@ -959,8 +950,8 @@ Conflicts by rangename
         096A                four              dvFour             dv-four                              Devanagari
         0917                  ga                dvGa               dv-ga                              Devanagari
         0918                 gha               dvGha              dv-gha                              Devanagari
-        097D         glottalstop              dvStop         glottalstop                              Devanagari
-        0953               grave             dvGrave               grave                              Devanagari
+        097D         glottalstop              dvStop      dv-glottalstop                              Devanagari
+        0953               grave             dvGrave            dv-grave                              Devanagari
         0939                  ha                dvHa               dv-ha                              Devanagari
         0907                   i                 dvI                dv-i                              Devanagari
         0908                  ii                dvIi               dv-ii                              Devanagari
@@ -972,29 +963,29 @@ Conflicts by rangename
         0916                 kha               dvKha              dv-kha                              Devanagari
         0932                  la                dvLa               dv-la                              Devanagari
         0933                 lla               dvLla              dv-lla                              Devanagari
-        0961             llvocal           dvLlvocal             llvocal                              Devanagari
-        0963         llvocalsign       dvLlvocalsign         llvocalsign                              Devanagari
-        090C              lvocal            dvLvocal              lvocal                              Devanagari
-        0962          lvocalsign        dvLvocalsign          lvocalsign                              Devanagari
+        0961             llvocal           dvLlvocal          dv-llvocal                              Devanagari
+        0963         llvocalsign       dvLlvocalsign      dv-llvocalsign                              Devanagari
+        090C              lvocal            dvLvocal           dv-lvocal                              Devanagari
+        0962          lvocalsign        dvLvocalsign       dv-lvocalsign                              Devanagari
         092E                  ma                dvMa               dv-ma                              Devanagari
         0928                  na                dvNa               dv-na                              Devanagari
         0919                 nga               dvNga              dv-nga                              Devanagari
         096F                nine              dvNine             dv-nine                              Devanagari
         0923                 nna               dvNna              dv-nna                              Devanagari
-        093C               nukta             dvNukta               nukta                              Devanagari
+        093C               nukta             dvNukta            dv-nukta                              Devanagari
         091E                 nya               dvNya              dv-nya                              Devanagari
         0913                   o                 dvO                dv-o                              Devanagari
         0967                 one               dvOne              dv-one                              Devanagari
         094B               osign             dvOsign            dv-osign                              Devanagari
         092A                  pa                dvPa               dv-pa                              Devanagari
         092B                 pha               dvPha              dv-pha                              Devanagari
-        0958                  qa                dvQa                  qa                              Devanagari
+        0958                  qa                dvQa               dv-qa                              Devanagari
         0930                  ra                dvRa               dv-ra                              Devanagari
         0931                 rra               dvRra              dv-rra                              Devanagari
-        0960             rrvocal           dvRrvocal             rrvocal                              Devanagari
-        0944         rrvocalsign       dvRrvocalsign         rrvocalsign                              Devanagari
-        090B              rvocal            dvRvocal              rvocal                              Devanagari
-        0943          rvocalsign        dvRvocalsign          rvocalsign                              Devanagari
+        0960             rrvocal           dvRrvocal          dv-rrvocal                              Devanagari
+        0944         rrvocalsign       dvRrvocalsign      dv-rrvocalsign                              Devanagari
+        090B              rvocal            dvRvocal           dv-rvocal                              Devanagari
+        0943          rvocalsign        dvRvocalsign       dv-rvocalsign                              Devanagari
         0938                  sa                dvSa               dv-sa                              Devanagari
         096D               seven             dvSeven            dv-seven                              Devanagari
         0936                 sha               dvSha              dv-sha                              Devanagari
@@ -1011,13 +1002,13 @@ Conflicts by rangename
         090A                  uu                dvUu               dv-uu                              Devanagari
         0942              uusign            dvUusign           dv-uusign                              Devanagari
         0935                  va                dvVa               dv-va                              Devanagari
-        094D              virama            dvVirama              virama                              Devanagari
-        0903             visarga           dvVisarga             visarga                              Devanagari
+        094D              virama            dvVirama           dv-virama                              Devanagari
+        0903             visarga           dvVisarga          dv-visarga                              Devanagari
         092F                  ya                dvYa               dv-ya                              Devanagari
         095B                  za                dvZa               dv-za                              Devanagari
         0966                zero              dvZero             dv-zero                              Devanagari
-        0979                 zha               dvZha                 zha                              Devanagari
-        2026            ellipsis            ellipsis            ellipsis                     General Punctuation
+        0979                 zha               dvZha              dv-zha                              Devanagari
+        2026            ellipsis            ellipsis       gnrl-ellipsis                     General Punctuation
         2010              hyphen           hyphentwo         gnrl-hyphen                     General Punctuation
         2030         perthousand         perthousand    gnrl-perthousand                     General Punctuation
         25C6        diamondblack        diamondblack   gmtr-diamondblack                        Geometric Shapes
@@ -1026,22 +1017,20 @@ Conflicts by rangename
         1FEF               grave               varia            gr-grave                          Greek Extended
         1F30           iotalenis           iotalenis        gr-iotalenis                          Greek Extended
         1FC0               tilde         perispomeni            gr-tilde                          Greek Extended
-        03DE               Koppa          Koppagreek            gr-Koppa                        Greek and Coptic
-        03A9               Omega               Omega            gr-Omega                        Greek and Coptic
-        03A8                 Psi                 Psi              gr-Psi                        Greek and Coptic
-        03B1               alpha               alpha            gr-alpha                        Greek and Coptic
+        03DE               Koppa          Koppagreek               Koppa                        Greek and Coptic
+        03A9               Omega               Omega               Omega                        Greek and Coptic
+        03A8                 Psi                 Psi                 Psi                        Greek and Coptic
+        03B1               alpha               alpha               alpha                        Greek and Coptic
         03C7                 chi                 chi                 chi                        Greek and Coptic
-        03B4               delta               delta            gr-delta                        Greek and Coptic
-        03B3               gamma               gamma            gr-gamma                        Greek and Coptic
-        03B9                iota                iota             gr-iota                        Greek and Coptic
-        037A           iotalenis       iotasubscript           iotalenis                        Greek and Coptic
-        03DF               koppa                   -            gr-koppa                        Greek and Coptic
-        03C9               omega               omega            gr-omega                        Greek and Coptic
-        03C6                 phi                 phi              gr-phi                        Greek and Coptic
-        03C8                 psi                 psi              gr-psi                        Greek and Coptic
-        037E            question       questiongreek            question                        Greek and Coptic
-        03C5             upsilon             upsilon          gr-upsilon                        Greek and Coptic
-        FF5C        barfullwidth   linevertfullwidth        barfullwidth           Halfwidth and Fullwidth Forms
+        03B3               gamma               gamma               gamma                        Greek and Coptic
+        03B9                iota                iota                iota                        Greek and Coptic
+        037A           iotalenis       iotasubscript        gr-iotalenis                        Greek and Coptic
+        03DF               koppa                   -               koppa                        Greek and Coptic
+        03C9               omega               omega               omega                        Greek and Coptic
+        03C6                 phi                 phi                 phi                        Greek and Coptic
+        03C8                 psi                 psi                 psi                        Greek and Coptic
+        037E            question       questiongreek         gr-question                        Greek and Coptic
+        03C5             upsilon             upsilon             upsilon                        Greek and Coptic
         116C   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
         1180   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
         05D0                alef              heAlef             hb-alef                                  Hebrew
@@ -1054,7 +1043,7 @@ Conflicts by rangename
         0251               alpha          alphalatin           ipa-alpha                          IPA Extensions
         0263               gamma          gammalatin           ipa-gamma                          IPA Extensions
         0294         glottalstop         glottalstop     ipa-glottalstop                          IPA Extensions
-        0261             gscript             gscript             gscript                          IPA Extensions
+        0261             gscript             gscript         ipa-gscript                          IPA Extensions
         0269                iota           iotalatin            ipa-iota                          IPA Extensions
         0278                 phi            philatin             ipa-phi                          IPA Extensions
         0259               schwa               schwa           ipa-schwa                          IPA Extensions
@@ -1064,10 +1053,10 @@ Conflicts by rangename
         0CBE              aasign            knAasign           kn-aasign                                 Kannada
         0C90                  ai                knAi               kn-ai                                 Kannada
         0CC8              aisign            knAisign           kn-aisign                                 Kannada
-        0C82            anusvara          knAnusvara            anusvara                                 Kannada
+        0C82            anusvara          knAnusvara         kn-anusvara                                 Kannada
         0C94                  au                knAu               kn-au                                 Kannada
         0CCC              ausign            knAusign           kn-ausign                                 Kannada
-        0CBD            avagraha          knAvagraha            avagraha                                 Kannada
+        0CBD            avagraha          knAvagraha         kn-avagraha                                 Kannada
         0CAC                  ba                knBa               kn-ba                                 Kannada
         0CAD                 bha               knBha              kn-bha                                 Kannada
         0C9A                  ca                knCa               kn-ca                                 Kannada
@@ -1077,7 +1066,7 @@ Conflicts by rangename
         0CA2                ddha              knDdha             kn-ddha                                 Kannada
         0CA7                 dha               knDha              kn-dha                                 Kannada
         0C8E                   e                 knE                kn-e                                 Kannada
-        0C8F                  ee                knEe                  ee                                 Kannada
+        0C8F                  ee                knEe               kn-ee                                 Kannada
         0CEE               eight             knEight            kn-eight                                 Kannada
         0CC6               esign             knEsign            kn-esign                                 Kannada
         0CDE                  fa                knFa               kn-fa                                 Kannada
@@ -1096,16 +1085,16 @@ Conflicts by rangename
         0C96                 kha               knKha              kn-kha                                 Kannada
         0CB2                  la                knLa               kn-la                                 Kannada
         0CB3                 lla               knLla              kn-lla                                 Kannada
-        0CE1             llvocal           knLlvocal             llvocal                                 Kannada
-        0CE3         llvocalsign       knLlvocalsign         llvocalsign                                 Kannada
-        0C8C              lvocal            knLvocal              lvocal                                 Kannada
-        0CE2          lvocalsign        knLvocalsign          lvocalsign                                 Kannada
+        0CE1             llvocal           knLlvocal          kn-llvocal                                 Kannada
+        0CE3         llvocalsign       knLlvocalsign      kn-llvocalsign                                 Kannada
+        0C8C              lvocal            knLvocal           kn-lvocal                                 Kannada
+        0CE2          lvocalsign        knLvocalsign       kn-lvocalsign                                 Kannada
         0CAE                  ma                knMa               kn-ma                                 Kannada
         0CA8                  na                knNa               kn-na                                 Kannada
         0C99                 nga               knNga              kn-nga                                 Kannada
         0CEF                nine              knNine             kn-nine                                 Kannada
         0CA3                 nna               knNna              kn-nna                                 Kannada
-        0CBC               nukta             knNukta               nukta                                 Kannada
+        0CBC               nukta             knNukta            kn-nukta                                 Kannada
         0C9E                 nya               knNya              kn-nya                                 Kannada
         0C92                   o                 knO                kn-o                                 Kannada
         0CE7                 one               knOne              kn-one                                 Kannada
@@ -1114,10 +1103,10 @@ Conflicts by rangename
         0CAB                 pha               knPha              kn-pha                                 Kannada
         0CB0                  ra                knRa               kn-ra                                 Kannada
         0CB1                 rra               knRra              kn-rra                                 Kannada
-        0CE0             rrvocal           knRrvocal             rrvocal                                 Kannada
-        0CC4         rrvocalsign       knRrvocalsign         rrvocalsign                                 Kannada
-        0C8B              rvocal            knRvocal              rvocal                                 Kannada
-        0CC3          rvocalsign        knRvocalsign          rvocalsign                                 Kannada
+        0CE0             rrvocal           knRrvocal          kn-rrvocal                                 Kannada
+        0CC4         rrvocalsign       knRrvocalsign      kn-rrvocalsign                                 Kannada
+        0C8B              rvocal            knRvocal           kn-rvocal                                 Kannada
+        0CC3          rvocalsign        knRvocalsign       kn-rvocalsign                                 Kannada
         0CB8                  sa                knSa               kn-sa                                 Kannada
         0CED               seven             knSeven            kn-seven                                 Kannada
         0CB6                 sha               knSha              kn-sha                                 Kannada
@@ -1134,11 +1123,10 @@ Conflicts by rangename
         0C8A                  uu                knUu               kn-uu                                 Kannada
         0CC2              uusign            knUusign           kn-uusign                                 Kannada
         0CB5                  va                knVa               kn-va                                 Kannada
-        0CCD              virama            knVirama              virama                                 Kannada
-        0C83             visarga           knVisarga             visarga                                 Kannada
+        0CCD              virama            knVirama           kn-virama                                 Kannada
+        0C83             visarga           knVisarga          kn-visarga                                 Kannada
         0CAF                  ya                knYa               kn-ya                                 Kannada
         0CE6                zero              knZero             kn-zero                                 Kannada
-        1E9F               delta                   -               delta               Latin Extended Additional
         0102              Abreve              Abreve              Abreve                        Latin Extended-A
         012A             Imacron             Imacron             Imacron                        Latin Extended-A
         016A             Umacron             Umacron             Umacron                        Latin Extended-A
@@ -1167,24 +1155,24 @@ Conflicts by rangename
         2136                 bet                   -            lttr-bet                      Letterlike Symbols
         2138               dalet                   -          lttr-dalet                      Letterlike Symbols
         2137               gimel                   -          lttr-gimel                      Letterlike Symbols
-        210A             gscript         gscriptmath             gscript                      Letterlike Symbols
+        210A             gscript         gscriptmath        lttr-gscript                      Letterlike Symbols
         221B            cuberoot                   -       mthm-cuberoot                  Mathematical Operators
         221C          fourthroot                   -     mthm-fourthroot                  Mathematical Operators
         22A5       perpendicular       perpendicular  mthm-perpendicular                  Mathematical Operators
         27C2       perpendicular                   -  misc-perpendicular    Miscellaneous Mathematical Symbols-A
-        2666        diamondblack             diamond        diamondblack                   Miscellaneous Symbols
-        2662        diamondwhite         diamondopen        diamondwhite                   Miscellaneous Symbols
+        2666        diamondblack             diamond   misc-diamondblack                   Miscellaneous Symbols
+        2662        diamondwhite         diamondopen   misc-diamondwhite                   Miscellaneous Symbols
         1820                   a                   -                mo-a                               Mongolian
         182A                  ba                   -               mo-ba                               Mongolian
         1834                 cha                   -              mo-cha                               Mongolian
-        1842                 chi                   -                 chi                               Mongolian
-        1804               colon                   -               colon                               Mongolian
+        1842                 chi                   -              mo-chi                               Mongolian
+        1804               colon                   -            mo-colon                               Mongolian
         1802               comma                   -            mo-comma                               Mongolian
         1833                  da                   -               mo-da                               Mongolian
         1821                   e                   -                mo-e                               Mongolian
-        1827                  ee                   -                  ee                               Mongolian
+        1827                  ee                   -               mo-ee                               Mongolian
         1818               eight                   -            mo-eight                               Mongolian
-        1801            ellipsis                   -            ellipsis                               Mongolian
+        1801            ellipsis                   -         mo-ellipsis                               Mongolian
         1839                  fa                   -               mo-fa                               Mongolian
         1815                five                   -             mo-five                               Mongolian
         1814                four                   -             mo-four                               Mongolian
@@ -1202,18 +1190,18 @@ Conflicts by rangename
         1811                 one                   -              mo-one                               Mongolian
         182B                  pa                   -               mo-pa                               Mongolian
         1803              period                   -           mo-period                               Mongolian
-        182C                  qa                   -                  qa                               Mongolian
+        182C                  qa                   -               mo-qa                               Mongolian
         1837                  ra                   -               mo-ra                               Mongolian
         1830                  sa                   -               mo-sa                               Mongolian
         1817               seven                   -            mo-seven                               Mongolian
         1831                 sha                   -              mo-sha                               Mongolian
         1816                 six                   -              mo-six                               Mongolian
         1832                  ta                   -               mo-ta                               Mongolian
-        1813               three                   -               three                               Mongolian
-        183C                 tsa                   -                 tsa                               Mongolian
+        1813               three                   -            mo-three                               Mongolian
+        183C                 tsa                   -              mo-tsa                               Mongolian
         1812                 two                   -              mo-two                               Mongolian
         1824                   u                   -                mo-u                               Mongolian
-        1838                  wa                   -                  wa                               Mongolian
+        1838                  wa                   -               mo-wa                               Mongolian
         1836                  ya                   -               mo-ya                               Mongolian
         183D                  za                   -               mo-za                               Mongolian
         1810                zero                   -             mo-zero                               Mongolian
@@ -1256,12 +1244,12 @@ Conflicts by rangename
         0F4F                  ta                   -               tb-ta                                 Tibetan
         0F50                 tha                   -              tb-tha                                 Tibetan
         0F23               three                   -            tb-three                                 Tibetan
-        0F59                 tsa                   -                 tsa                                 Tibetan
+        0F59                 tsa                   -              tb-tsa                                 Tibetan
         0F4A                 tta                   -              tb-tta                                 Tibetan
         0F4B                ttha                   -             tb-ttha                                 Tibetan
         0F22                 two                   -              tb-two                                 Tibetan
-        0F5D                  wa                   -                  wa                                 Tibetan
+        0F5D                  wa                   -               tb-wa                                 Tibetan
         0F61                  ya                   -               tb-ya                                 Tibetan
         0F5F                  za                   -               tb-za                                 Tibetan
         0F20                zero                   -             tb-zero                                 Tibetan
-        0F5E                 zha                   -                 zha                                 Tibetan
+        0F5E                 zha                   -              tb-zha                                 Tibetan

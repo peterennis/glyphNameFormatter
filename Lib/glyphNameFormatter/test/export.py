@@ -17,7 +17,7 @@ def generateFlat(path, onlySupported=True):
                 module = importlib.import_module('glyphNameFormatter.rangeProcessors.%s' % moduleName)
             except:
                 continue
-
+        data.append("# %s" % rangeName)
         for u in range(*getRangeByName(rangeName)):
             g = GlyphName(uniNumber=u)
             name = g.getName(extension=True)
