@@ -49,7 +49,7 @@ def process(self):
     else:
         self.handleCase()
 
-    self.edit("MODIFIER")
+    self.edit("MODIFIER", "mod")
     self.edit("LETTER")
 
     self.compress()
