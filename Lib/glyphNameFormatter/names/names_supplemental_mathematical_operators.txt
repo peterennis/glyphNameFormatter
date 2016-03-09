@@ -1,257 +1,257 @@
 # Supplemental Mathematical Operators 2A00 - 2AFF
-2A00	narycircleddotoperator	N-ARY CIRCLED DOT OPERATOR
-2A01	narycircledplusoperator	N-ARY CIRCLED PLUS OPERATOR
-2A02	narycircledtimesoperator	N-ARY CIRCLED TIMES OPERATOR
-2A03	naryunionoperatorwithdot	N-ARY UNION OPERATOR WITH DOT
-2A04	naryunionoperatorwithplus	N-ARY UNION OPERATOR WITH PLUS
-2A05	narysquareintersectionoperator	N-ARY SQUARE INTERSECTION OPERATOR
-2A06	narysquareunionoperator	N-ARY SQUARE UNION OPERATOR
-2A07	twologicalandoperator	TWO LOGICAL AND OPERATOR
-2A08	twologicaloroperator	TWO LOGICAL OR OPERATOR
-2A09	narytimesoperator	N-ARY TIMES OPERATOR
-2A0A	modulotwosum	MODULO TWO SUM
-2A0B	summationwithintegral	SUMMATION WITH INTEGRAL
-2A0C	quadrupleintegraloperator	QUADRUPLE INTEGRAL OPERATOR
-2A0D	finitepartintegral	FINITE PART INTEGRAL
-2A0E	integralwithdoublestroke	INTEGRAL WITH DOUBLE STROKE
-2A0F	integralaveragewithslash	INTEGRAL AVERAGE WITH SLASH
-2A10	circulationfunction	CIRCULATION FUNCTION
-2A11	anticlockwiseintegration	ANTICLOCKWISE INTEGRATION
-2A12	lineintegrationwithrectangularpatharoundpole	LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE
-2A13	lineintegrationwithsemicircularpatharoundpole	LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE
-2A14	lineintegrationnotincludingthepole	LINE INTEGRATION NOT INCLUDING THE POLE
-2A15	integralaroundapointoperator	INTEGRAL AROUND A POINT OPERATOR
-2A16	quaternionintegraloperator	QUATERNION INTEGRAL OPERATOR
-2A17	integralwithleftwardsarrowwithhook	INTEGRAL WITH LEFTWARDS ARROW WITH HOOK
-2A18	integralwithtimessign	INTEGRAL WITH TIMES SIGN
-2A19	integralwithintersection	INTEGRAL WITH INTERSECTION
-2A1A	integralwithunion	INTEGRAL WITH UNION
-2A1B	integralwithoverbar	INTEGRAL WITH OVERBAR
-2A1C	integralwithunderbar	INTEGRAL WITH UNDERBAR
-2A1D	join	JOIN
-2A1E	largelefttriangleoperator	LARGE LEFT TRIANGLE OPERATOR
-2A1F	znotationschemacomposition	Z NOTATION SCHEMA COMPOSITION
-2A20	znotationschemapiping	Z NOTATION SCHEMA PIPING
-2A21	znotationschemaprojection	Z NOTATION SCHEMA PROJECTION
-2A22	plussignwithsmallcircleabove	PLUS SIGN WITH SMALL CIRCLE ABOVE
-2A23	plussignwithcircumflexaccentabove	PLUS SIGN WITH CIRCUMFLEX ACCENT ABOVE
-2A24	plussignwithtildeabove	PLUS SIGN WITH TILDE ABOVE
-2A25	plussignwithdotbelow	PLUS SIGN WITH DOT BELOW
-2A26	plussignwithtildebelow	PLUS SIGN WITH TILDE BELOW
-2A27	plussignwithsubscripttwo	PLUS SIGN WITH SUBSCRIPT TWO
-2A28	plussignwithblacktriangle	PLUS SIGN WITH BLACK TRIANGLE
-2A29	minussignwithcommaabove	MINUS SIGN WITH COMMA ABOVE
-2A2A	minussignwithdotbelow	MINUS SIGN WITH DOT BELOW
-2A2B	minussignwithfallingdots	MINUS SIGN WITH FALLING DOTS
-2A2C	minussignwithrisingdots	MINUS SIGN WITH RISING DOTS
-2A2D	plussigninlefthalfcircle	PLUS SIGN IN LEFT HALF CIRCLE
-2A2E	plussigninrighthalfcircle	PLUS SIGN IN RIGHT HALF CIRCLE
-2A2F	vectororcrossproduct	VECTOR OR CROSS PRODUCT
-2A30	multiplicationsignwithdotabove	MULTIPLICATION SIGN WITH DOT ABOVE
-2A31	multiplicationsignwithunderbar	MULTIPLICATION SIGN WITH UNDERBAR
-2A32	semidirectproductwithbottomclosed	SEMIDIRECT PRODUCT WITH BOTTOM CLOSED
-2A33	smashproduct	SMASH PRODUCT
-2A34	multiplicationsigninlefthalfcircle	MULTIPLICATION SIGN IN LEFT HALF CIRCLE
-2A35	multiplicationsigninrighthalfcircle	MULTIPLICATION SIGN IN RIGHT HALF CIRCLE
-2A36	circledmultiplicationsignwithcircumflexaccent	CIRCLED MULTIPLICATION SIGN WITH CIRCUMFLEX ACCENT
-2A37	multiplicationsignindoublecircle	MULTIPLICATION SIGN IN DOUBLE CIRCLE
-2A38	circleddivisionsign	CIRCLED DIVISION SIGN
-2A39	plussignintriangle	PLUS SIGN IN TRIANGLE
-2A3A	minussignintriangle	MINUS SIGN IN TRIANGLE
-2A3B	multiplicationsignintriangle	MULTIPLICATION SIGN IN TRIANGLE
-2A3C	interiorproduct	INTERIOR PRODUCT
-2A3D	righthandinteriorproduct	RIGHTHAND INTERIOR PRODUCT
-2A3E	znotationrelationalcomposition	Z NOTATION RELATIONAL COMPOSITION
-2A3F	amalgamationorcoproduct	AMALGAMATION OR COPRODUCT
-2A40	intersectionwithdot	INTERSECTION WITH DOT
-2A41	unionwithminussign	UNION WITH MINUS SIGN
-2A42	unionwithoverbar	UNION WITH OVERBAR
-2A43	intersectionwithoverbar	INTERSECTION WITH OVERBAR
-2A44	intersectionwithlogicaland	INTERSECTION WITH LOGICAL AND
-2A45	unionwithlogicalor	UNION WITH LOGICAL OR
-2A46	unionaboveintersection	UNION ABOVE INTERSECTION
-2A47	intersectionaboveunion	INTERSECTION ABOVE UNION
-2A48	unionabovebaraboveintersection	UNION ABOVE BAR ABOVE INTERSECTION
-2A49	intersectionabovebaraboveunion	INTERSECTION ABOVE BAR ABOVE UNION
-2A4A	unionbesideandjoinedwithunion	UNION BESIDE AND JOINED WITH UNION
-2A4B	intersectionbesideandjoinedwithintersection	INTERSECTION BESIDE AND JOINED WITH INTERSECTION
-2A4C	closedunionwithserifs	CLOSED UNION WITH SERIFS
-2A4D	closedintersectionwithserifs	CLOSED INTERSECTION WITH SERIFS
-2A4E	doublesquareintersection	DOUBLE SQUARE INTERSECTION
-2A4F	doublesquareunion	DOUBLE SQUARE UNION
-2A50	closedunionwithserifsandsmashproduct	CLOSED UNION WITH SERIFS AND SMASH PRODUCT
-2A51	logicalandwithdotabove	LOGICAL AND WITH DOT ABOVE
-2A52	logicalorwithdotabove	LOGICAL OR WITH DOT ABOVE
-2A53	doublelogicaland	DOUBLE LOGICAL AND
-2A54	doublelogicalor	DOUBLE LOGICAL OR
-2A55	twointersectinglogicaland	TWO INTERSECTING LOGICAL AND
-2A56	twointersectinglogicalor	TWO INTERSECTING LOGICAL OR
-2A57	slopinglargeor	SLOPING LARGE OR
-2A58	slopinglargeand	SLOPING LARGE AND
-2A59	logicaloroverlappinglogicaland	LOGICAL OR OVERLAPPING LOGICAL AND
-2A5A	logicalandwithmiddlestem	LOGICAL AND WITH MIDDLE STEM
-2A5B	logicalorwithmiddlestem	LOGICAL OR WITH MIDDLE STEM
-2A5C	logicalandwithhorizontaldash	LOGICAL AND WITH HORIZONTAL DASH
-2A5D	logicalorwithhorizontaldash	LOGICAL OR WITH HORIZONTAL DASH
-2A5E	logicalandwithdoubleoverbar	LOGICAL AND WITH DOUBLE OVERBAR
-2A5F	logicalandwithunderbar	LOGICAL AND WITH UNDERBAR
-2A60	logicalandwithdoubleunderbar	LOGICAL AND WITH DOUBLE UNDERBAR
-2A61	smallveewithunderbar	SMALL VEE WITH UNDERBAR
-2A62	logicalorwithdoubleoverbar	LOGICAL OR WITH DOUBLE OVERBAR
-2A63	logicalorwithdoubleunderbar	LOGICAL OR WITH DOUBLE UNDERBAR
-2A64	znotationdomainantirestriction	Z NOTATION DOMAIN ANTIRESTRICTION
-2A65	znotationrangeantirestriction	Z NOTATION RANGE ANTIRESTRICTION
-2A66	equalssignwithdotbelow	EQUALS SIGN WITH DOT BELOW
-2A67	identicalwithdotabove	IDENTICAL WITH DOT ABOVE
-2A68	triplehorizontalbarwithdoubleverticalstroke	TRIPLE HORIZONTAL BAR WITH DOUBLE VERTICAL STROKE
-2A69	triplehorizontalbarwithtripleverticalstroke	TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE
-2A6A	tildeoperatorwithdotabove	TILDE OPERATOR WITH DOT ABOVE
-2A6B	tildeoperatorwithrisingdots	TILDE OPERATOR WITH RISING DOTS
-2A6C	similarminussimilar	SIMILAR MINUS SIMILAR
-2A6D	congruentwithdotabove	CONGRUENT WITH DOT ABOVE
-2A6E	equalswithasterisk	EQUALS WITH ASTERISK
-2A6F	almostequaltowithcircumflexaccent	ALMOST EQUAL TO WITH CIRCUMFLEX ACCENT
-2A70	approximatelyequalorequalto	APPROXIMATELY EQUAL OR EQUAL TO
-2A71	equalssignaboveplussign	EQUALS SIGN ABOVE PLUS SIGN
-2A72	plussignaboveequalssign	PLUS SIGN ABOVE EQUALS SIGN
-2A73	equalssignabovetildeoperator	EQUALS SIGN ABOVE TILDE OPERATOR
-2A74	doublecolonequal	DOUBLE COLON EQUAL
-2A75	twoconsecutiveequalssigns	TWO CONSECUTIVE EQUALS SIGNS
-2A76	threeconsecutiveequalssigns	THREE CONSECUTIVE EQUALS SIGNS
-2A77	equalssignwithtwodotsaboveandtwodotsbelow	EQUALS SIGN WITH TWO DOTS ABOVE AND TWO DOTS BELOW
-2A78	equivalentwithfourdotsabove	EQUIVALENT WITH FOUR DOTS ABOVE
-2A79	lessthanwithcircleinside	LESS-THAN WITH CIRCLE INSIDE
-2A7A	greaterthanwithcircleinside	GREATER-THAN WITH CIRCLE INSIDE
-2A7B	lessthanwithquestionmarkabove	LESS-THAN WITH QUESTION MARK ABOVE
-2A7C	greaterthanwithquestionmarkabove	GREATER-THAN WITH QUESTION MARK ABOVE
-2A7D	lessthanorslantedequalto	LESS-THAN OR SLANTED EQUAL TO
-2A7E	greaterthanorslantedequalto	GREATER-THAN OR SLANTED EQUAL TO
-2A7F	lessthanorslantedequaltowithdotinside	LESS-THAN OR SLANTED EQUAL TO WITH DOT INSIDE
-2A80	greaterthanorslantedequaltowithdotinside	GREATER-THAN OR SLANTED EQUAL TO WITH DOT INSIDE
-2A81	lessthanorslantedequaltowithdotabove	LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE
-2A82	greaterthanorslantedequaltowithdotabove	GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE
-2A83	lessthanorslantedequaltowithdotaboveright	LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE RIGHT
-2A84	greaterthanorslantedequaltowithdotaboveleft	GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE LEFT
-2A85	lessthanorapproximate	LESS-THAN OR APPROXIMATE
-2A86	greaterthanorapproximate	GREATER-THAN OR APPROXIMATE
-2A87	lessthanandsinglelinenotequalto	LESS-THAN AND SINGLE-LINE NOT EQUAL TO
-2A88	greaterthanandsinglelinenotequalto	GREATER-THAN AND SINGLE-LINE NOT EQUAL TO
-2A89	lessthanandnotapproximate	LESS-THAN AND NOT APPROXIMATE
-2A8A	greaterthanandnotapproximate	GREATER-THAN AND NOT APPROXIMATE
-2A8B	lessthanabovedoublelineequalabovegreaterthan	LESS-THAN ABOVE DOUBLE-LINE EQUAL ABOVE GREATER-THAN
-2A8C	greaterthanabovedoublelineequalabovelessthan	GREATER-THAN ABOVE DOUBLE-LINE EQUAL ABOVE LESS-THAN
-2A8D	lessthanabovesimilarorequal	LESS-THAN ABOVE SIMILAR OR EQUAL
-2A8E	greaterthanabovesimilarorequal	GREATER-THAN ABOVE SIMILAR OR EQUAL
-2A8F	lessthanabovesimilarabovegreaterthan	LESS-THAN ABOVE SIMILAR ABOVE GREATER-THAN
-2A90	greaterthanabovesimilarabovelessthan	GREATER-THAN ABOVE SIMILAR ABOVE LESS-THAN
-2A91	lessthanabovegreaterthanabovedoublelineequal	LESS-THAN ABOVE GREATER-THAN ABOVE DOUBLE-LINE EQUAL
-2A92	greaterthanabovelessthanabovedoublelineequal	GREATER-THAN ABOVE LESS-THAN ABOVE DOUBLE-LINE EQUAL
-2A93	lessthanaboveslantedequalabovegreaterthanaboveslantedequal	LESS-THAN ABOVE SLANTED EQUAL ABOVE GREATER-THAN ABOVE SLANTED EQUAL
-2A94	greaterthanaboveslantedequalabovelessthanaboveslantedequal	GREATER-THAN ABOVE SLANTED EQUAL ABOVE LESS-THAN ABOVE SLANTED EQUAL
-2A95	slantedequaltoorlessthan	SLANTED EQUAL TO OR LESS-THAN
-2A96	slantedequaltoorgreaterthan	SLANTED EQUAL TO OR GREATER-THAN
-2A97	slantedequaltoorlessthanwithdotinside	SLANTED EQUAL TO OR LESS-THAN WITH DOT INSIDE
-2A98	slantedequaltoorgreaterthanwithdotinside	SLANTED EQUAL TO OR GREATER-THAN WITH DOT INSIDE
-2A99	doublelineequaltoorlessthan	DOUBLE-LINE EQUAL TO OR LESS-THAN
-2A9A	doublelineequaltoorgreaterthan	DOUBLE-LINE EQUAL TO OR GREATER-THAN
-2A9B	doublelineslantedequaltoorlessthan	DOUBLE-LINE SLANTED EQUAL TO OR LESS-THAN
-2A9C	doublelineslantedequaltoorgreaterthan	DOUBLE-LINE SLANTED EQUAL TO OR GREATER-THAN
-2A9D	similarorlessthan	SIMILAR OR LESS-THAN
-2A9E	similarorgreaterthan	SIMILAR OR GREATER-THAN
-2A9F	similarabovelessthanaboveequalssign	SIMILAR ABOVE LESS-THAN ABOVE EQUALS SIGN
-2AA0	similarabovegreaterthanaboveequalssign	SIMILAR ABOVE GREATER-THAN ABOVE EQUALS SIGN
-2AA1	doublenestedlessthan	DOUBLE NESTED LESS-THAN
-2AA2	doublenestedgreaterthan	DOUBLE NESTED GREATER-THAN
-2AA3	doublenestedlessthanwithunderbar	DOUBLE NESTED LESS-THAN WITH UNDERBAR
-2AA4	greaterthanoverlappinglessthan	GREATER-THAN OVERLAPPING LESS-THAN
-2AA5	greaterthanbesidelessthan	GREATER-THAN BESIDE LESS-THAN
-2AA6	lessthanclosedbycurve	LESS-THAN CLOSED BY CURVE
-2AA7	greaterthanclosedbycurve	GREATER-THAN CLOSED BY CURVE
-2AA8	lessthanclosedbycurveaboveslantedequal	LESS-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL
-2AA9	greaterthanclosedbycurveaboveslantedequal	GREATER-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL
-2AAA	smallerthan	SMALLER THAN
-2AAB	largerthan	LARGER THAN
-2AAC	smallerthanorequalto	SMALLER THAN OR EQUAL TO
-2AAD	largerthanorequalto	LARGER THAN OR EQUAL TO
-2AAE	equalssignwithbumpyabove	EQUALS SIGN WITH BUMPY ABOVE
-2AAF	precedesabovesinglelineequalssign	PRECEDES ABOVE SINGLE-LINE EQUALS SIGN
-2AB0	succeedsabovesinglelineequalssign	SUCCEEDS ABOVE SINGLE-LINE EQUALS SIGN
-2AB1	precedesabovesinglelinenotequalto	PRECEDES ABOVE SINGLE-LINE NOT EQUAL TO
-2AB2	succeedsabovesinglelinenotequalto	SUCCEEDS ABOVE SINGLE-LINE NOT EQUAL TO
-2AB3	precedesaboveequalssign	PRECEDES ABOVE EQUALS SIGN
-2AB4	succeedsaboveequalssign	SUCCEEDS ABOVE EQUALS SIGN
-2AB5	precedesabovenotequalto	PRECEDES ABOVE NOT EQUAL TO
-2AB6	succeedsabovenotequalto	SUCCEEDS ABOVE NOT EQUAL TO
-2AB7	precedesabovealmostequalto	PRECEDES ABOVE ALMOST EQUAL TO
-2AB8	succeedsabovealmostequalto	SUCCEEDS ABOVE ALMOST EQUAL TO
-2AB9	precedesabovenotalmostequalto	PRECEDES ABOVE NOT ALMOST EQUAL TO
-2ABA	succeedsabovenotalmostequalto	SUCCEEDS ABOVE NOT ALMOST EQUAL TO
-2ABB	doubleprecedes	DOUBLE PRECEDES
-2ABC	doublesucceeds	DOUBLE SUCCEEDS
-2ABD	subsetwithdot	SUBSET WITH DOT
-2ABE	supersetwithdot	SUPERSET WITH DOT
-2ABF	subsetwithplussignbelow	SUBSET WITH PLUS SIGN BELOW
-2AC0	supersetwithplussignbelow	SUPERSET WITH PLUS SIGN BELOW
-2AC1	subsetwithmultiplicationsignbelow	SUBSET WITH MULTIPLICATION SIGN BELOW
-2AC2	supersetwithmultiplicationsignbelow	SUPERSET WITH MULTIPLICATION SIGN BELOW
-2AC3	subsetoforequaltowithdotabove	SUBSET OF OR EQUAL TO WITH DOT ABOVE
-2AC4	supersetoforequaltowithdotabove	SUPERSET OF OR EQUAL TO WITH DOT ABOVE
-2AC5	subsetofaboveequalssign	SUBSET OF ABOVE EQUALS SIGN
-2AC6	supersetofaboveequalssign	SUPERSET OF ABOVE EQUALS SIGN
-2AC7	subsetofabovetildeoperator	SUBSET OF ABOVE TILDE OPERATOR
-2AC8	supersetofabovetildeoperator	SUPERSET OF ABOVE TILDE OPERATOR
-2AC9	subsetofabovealmostequalto	SUBSET OF ABOVE ALMOST EQUAL TO
-2ACA	supersetofabovealmostequalto	SUPERSET OF ABOVE ALMOST EQUAL TO
-2ACB	subsetofabovenotequalto	SUBSET OF ABOVE NOT EQUAL TO
-2ACC	supersetofabovenotequalto	SUPERSET OF ABOVE NOT EQUAL TO
-2ACD	squareleftopenboxoperator	SQUARE LEFT OPEN BOX OPERATOR
-2ACE	squarerightopenboxoperator	SQUARE RIGHT OPEN BOX OPERATOR
-2ACF	closedsubset	CLOSED SUBSET
-2AD0	closedsuperset	CLOSED SUPERSET
-2AD1	closedsubsetorequalto	CLOSED SUBSET OR EQUAL TO
-2AD2	closedsupersetorequalto	CLOSED SUPERSET OR EQUAL TO
-2AD3	subsetabovesuperset	SUBSET ABOVE SUPERSET
-2AD4	supersetabovesubset	SUPERSET ABOVE SUBSET
-2AD5	subsetabovesubset	SUBSET ABOVE SUBSET
-2AD6	supersetabovesuperset	SUPERSET ABOVE SUPERSET
-2AD7	supersetbesidesubset	SUPERSET BESIDE SUBSET
-2AD8	supersetbesideandjoinedbydashwithsubset	SUPERSET BESIDE AND JOINED BY DASH WITH SUBSET
-2AD9	elementofopeningdownwards	ELEMENT OF OPENING DOWNWARDS
-2ADA	pitchforkwithteetop	PITCHFORK WITH TEE TOP
-2ADB	transversalintersection	TRANSVERSAL INTERSECTION
-2ADC	forking	FORKING
-2ADD	nonforking	NONFORKING
-2ADE	shortlefttack	SHORT LEFT TACK
-2ADF	shortdowntack	SHORT DOWN TACK
-2AE0	shortuptack	SHORT UP TACK
-2AE1	perpendicularwiths	PERPENDICULAR WITH S
-2AE2	verticalbartriplerightturnstile	VERTICAL BAR TRIPLE RIGHT TURNSTILE
-2AE3	doubleverticalbarleftturnstile	DOUBLE VERTICAL BAR LEFT TURNSTILE
-2AE4	verticalbardoubleleftturnstile	VERTICAL BAR DOUBLE LEFT TURNSTILE
-2AE5	doubleverticalbardoubleleftturnstile	DOUBLE VERTICAL BAR DOUBLE LEFT TURNSTILE
-2AE6	longdashfromleftmemberofdoublevertical	LONG DASH FROM LEFT MEMBER OF DOUBLE VERTICAL
-2AE7	shortdowntackwithoverbar	SHORT DOWN TACK WITH OVERBAR
-2AE8	shortuptackwithunderbar	SHORT UP TACK WITH UNDERBAR
-2AE9	shortuptackaboveshortdowntack	SHORT UP TACK ABOVE SHORT DOWN TACK
-2AEA	doubledowntack	DOUBLE DOWN TACK
-2AEB	doubleuptack	DOUBLE UP TACK
-2AEC	doublestrokenotsign	DOUBLE STROKE NOT SIGN
-2AED	reverseddoublestrokenotsign	REVERSED DOUBLE STROKE NOT SIGN
-2AEE	doesnotdividewithreversednegationslash	DOES NOT DIVIDE WITH REVERSED NEGATION SLASH
-2AEF	verticallinewithcircleabove	VERTICAL LINE WITH CIRCLE ABOVE
-2AF0	verticallinewithcirclebelow	VERTICAL LINE WITH CIRCLE BELOW
-2AF1	downtackwithcirclebelow	DOWN TACK WITH CIRCLE BELOW
-2AF2	parallelwithhorizontalstroke	PARALLEL WITH HORIZONTAL STROKE
-2AF3	parallelwithtildeoperator	PARALLEL WITH TILDE OPERATOR
-2AF4	tripleverticalbarbinaryrelation	TRIPLE VERTICAL BAR BINARY RELATION
-2AF5	tripleverticalbarwithhorizontalstroke	TRIPLE VERTICAL BAR WITH HORIZONTAL STROKE
-2AF6	triplecolonoperator	TRIPLE COLON OPERATOR
-2AF7	triplenestedlessthan	TRIPLE NESTED LESS-THAN
-2AF8	triplenestedgreaterthan	TRIPLE NESTED GREATER-THAN
-2AF9	doublelineslantedlessthanorequalto	DOUBLE-LINE SLANTED LESS-THAN OR EQUAL TO
-2AFA	doublelineslantedgreaterthanorequalto	DOUBLE-LINE SLANTED GREATER-THAN OR EQUAL TO
-2AFB	triplesolidusbinaryrelation	TRIPLE SOLIDUS BINARY RELATION
-2AFC	largetripleverticalbaroperator	LARGE TRIPLE VERTICAL BAR OPERATOR
-2AFD	doublesolidusoperator	DOUBLE SOLIDUS OPERATOR
-2AFE	whiteverticalbar	WHITE VERTICAL BAR
-2AFF	narywhiteverticalbar	N-ARY WHITE VERTICAL BAR
+2A00	sppl-narycircleddotoperator	N-ARY CIRCLED DOT OPERATOR
+2A01	sppl-narycircledplusoperator	N-ARY CIRCLED PLUS OPERATOR
+2A02	sppl-narycircledtimesoperator	N-ARY CIRCLED TIMES OPERATOR
+2A03	sppl-naryunionoperatorwithdot	N-ARY UNION OPERATOR WITH DOT
+2A04	sppl-naryunionoperatorwithplus	N-ARY UNION OPERATOR WITH PLUS
+2A05	sppl-narysquareintersectionoperator	N-ARY SQUARE INTERSECTION OPERATOR
+2A06	sppl-narysquareunionoperator	N-ARY SQUARE UNION OPERATOR
+2A07	sppl-twologicalandoperator	TWO LOGICAL AND OPERATOR
+2A08	sppl-twologicaloroperator	TWO LOGICAL OR OPERATOR
+2A09	sppl-narytimesoperator	N-ARY TIMES OPERATOR
+2A0A	sppl-modulotwosum	MODULO TWO SUM
+2A0B	sppl-summationwithintegral	SUMMATION WITH INTEGRAL
+2A0C	sppl-quadrupleintegraloperator	QUADRUPLE INTEGRAL OPERATOR
+2A0D	sppl-finitepartintegral	FINITE PART INTEGRAL
+2A0E	sppl-integralwithdoublestroke	INTEGRAL WITH DOUBLE STROKE
+2A0F	sppl-integralaveragewithslash	INTEGRAL AVERAGE WITH SLASH
+2A10	sppl-circulationfunction	CIRCULATION FUNCTION
+2A11	sppl-anticlockwiseintegration	ANTICLOCKWISE INTEGRATION
+2A12	sppl-lineintegrationwithrectangularpatharoundpole	LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE
+2A13	sppl-lineintegrationwithsemicircularpatharoundpole	LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE
+2A14	sppl-lineintegrationnotincludingthepole	LINE INTEGRATION NOT INCLUDING THE POLE
+2A15	sppl-integralaroundapointoperator	INTEGRAL AROUND A POINT OPERATOR
+2A16	sppl-quaternionintegraloperator	QUATERNION INTEGRAL OPERATOR
+2A17	sppl-integralwithleftwardsarrowwithhook	INTEGRAL WITH LEFTWARDS ARROW WITH HOOK
+2A18	sppl-integralwithtimessign	INTEGRAL WITH TIMES SIGN
+2A19	sppl-integralwithintersection	INTEGRAL WITH INTERSECTION
+2A1A	sppl-integralwithunion	INTEGRAL WITH UNION
+2A1B	sppl-integralwithoverbar	INTEGRAL WITH OVERBAR
+2A1C	sppl-integralwithunderbar	INTEGRAL WITH UNDERBAR
+2A1D	sppl-join	JOIN
+2A1E	sppl-largelefttriangleoperator	LARGE LEFT TRIANGLE OPERATOR
+2A1F	sppl-znotationschemacomposition	Z NOTATION SCHEMA COMPOSITION
+2A20	sppl-znotationschemapiping	Z NOTATION SCHEMA PIPING
+2A21	sppl-znotationschemaprojection	Z NOTATION SCHEMA PROJECTION
+2A22	sppl-plussignwithsmallcircleabove	PLUS SIGN WITH SMALL CIRCLE ABOVE
+2A23	sppl-plussignwithcircumflexaccentabove	PLUS SIGN WITH CIRCUMFLEX ACCENT ABOVE
+2A24	sppl-plussignwithtildeabove	PLUS SIGN WITH TILDE ABOVE
+2A25	sppl-plussignwithdotbelow	PLUS SIGN WITH DOT BELOW
+2A26	sppl-plussignwithtildebelow	PLUS SIGN WITH TILDE BELOW
+2A27	sppl-plussignwithsubscripttwo	PLUS SIGN WITH SUBSCRIPT TWO
+2A28	sppl-plussignwithblacktriangle	PLUS SIGN WITH BLACK TRIANGLE
+2A29	sppl-minussignwithcommaabove	MINUS SIGN WITH COMMA ABOVE
+2A2A	sppl-minussignwithdotbelow	MINUS SIGN WITH DOT BELOW
+2A2B	sppl-minussignwithfallingdots	MINUS SIGN WITH FALLING DOTS
+2A2C	sppl-minussignwithrisingdots	MINUS SIGN WITH RISING DOTS
+2A2D	sppl-plussigninlefthalfcircle	PLUS SIGN IN LEFT HALF CIRCLE
+2A2E	sppl-plussigninrighthalfcircle	PLUS SIGN IN RIGHT HALF CIRCLE
+2A2F	sppl-vectororcrossproduct	VECTOR OR CROSS PRODUCT
+2A30	sppl-multiplicationsignwithdotabove	MULTIPLICATION SIGN WITH DOT ABOVE
+2A31	sppl-multiplicationsignwithunderbar	MULTIPLICATION SIGN WITH UNDERBAR
+2A32	sppl-semidirectproductwithbottomclosed	SEMIDIRECT PRODUCT WITH BOTTOM CLOSED
+2A33	sppl-smashproduct	SMASH PRODUCT
+2A34	sppl-multiplicationsigninlefthalfcircle	MULTIPLICATION SIGN IN LEFT HALF CIRCLE
+2A35	sppl-multiplicationsigninrighthalfcircle	MULTIPLICATION SIGN IN RIGHT HALF CIRCLE
+2A36	sppl-circledmultiplicationsignwithcircumflexaccent	CIRCLED MULTIPLICATION SIGN WITH CIRCUMFLEX ACCENT
+2A37	sppl-multiplicationsignindoublecircle	MULTIPLICATION SIGN IN DOUBLE CIRCLE
+2A38	sppl-circleddivisionsign	CIRCLED DIVISION SIGN
+2A39	sppl-plussignintriangle	PLUS SIGN IN TRIANGLE
+2A3A	sppl-minussignintriangle	MINUS SIGN IN TRIANGLE
+2A3B	sppl-multiplicationsignintriangle	MULTIPLICATION SIGN IN TRIANGLE
+2A3C	sppl-interiorproduct	INTERIOR PRODUCT
+2A3D	sppl-righthandinteriorproduct	RIGHTHAND INTERIOR PRODUCT
+2A3E	sppl-znotationrelationalcomposition	Z NOTATION RELATIONAL COMPOSITION
+2A3F	sppl-amalgamationorcoproduct	AMALGAMATION OR COPRODUCT
+2A40	sppl-intersectionwithdot	INTERSECTION WITH DOT
+2A41	sppl-unionwithminussign	UNION WITH MINUS SIGN
+2A42	sppl-unionwithoverbar	UNION WITH OVERBAR
+2A43	sppl-intersectionwithoverbar	INTERSECTION WITH OVERBAR
+2A44	sppl-intersectionwithlogicaland	INTERSECTION WITH LOGICAL AND
+2A45	sppl-unionwithlogicalor	UNION WITH LOGICAL OR
+2A46	sppl-unionaboveintersection	UNION ABOVE INTERSECTION
+2A47	sppl-intersectionaboveunion	INTERSECTION ABOVE UNION
+2A48	sppl-unionabovebaraboveintersection	UNION ABOVE BAR ABOVE INTERSECTION
+2A49	sppl-intersectionabovebaraboveunion	INTERSECTION ABOVE BAR ABOVE UNION
+2A4A	sppl-unionbesideandjoinedwithunion	UNION BESIDE AND JOINED WITH UNION
+2A4B	sppl-intersectionbesideandjoinedwithintersection	INTERSECTION BESIDE AND JOINED WITH INTERSECTION
+2A4C	sppl-closedunionwithserifs	CLOSED UNION WITH SERIFS
+2A4D	sppl-closedintersectionwithserifs	CLOSED INTERSECTION WITH SERIFS
+2A4E	sppl-doublesquareintersection	DOUBLE SQUARE INTERSECTION
+2A4F	sppl-doublesquareunion	DOUBLE SQUARE UNION
+2A50	sppl-closedunionwithserifsandsmashproduct	CLOSED UNION WITH SERIFS AND SMASH PRODUCT
+2A51	sppl-logicalandwithdotabove	LOGICAL AND WITH DOT ABOVE
+2A52	sppl-logicalorwithdotabove	LOGICAL OR WITH DOT ABOVE
+2A53	sppl-doublelogicaland	DOUBLE LOGICAL AND
+2A54	sppl-doublelogicalor	DOUBLE LOGICAL OR
+2A55	sppl-twointersectinglogicaland	TWO INTERSECTING LOGICAL AND
+2A56	sppl-twointersectinglogicalor	TWO INTERSECTING LOGICAL OR
+2A57	sppl-slopinglargeor	SLOPING LARGE OR
+2A58	sppl-slopinglargeand	SLOPING LARGE AND
+2A59	sppl-logicaloroverlappinglogicaland	LOGICAL OR OVERLAPPING LOGICAL AND
+2A5A	sppl-logicalandwithmiddlestem	LOGICAL AND WITH MIDDLE STEM
+2A5B	sppl-logicalorwithmiddlestem	LOGICAL OR WITH MIDDLE STEM
+2A5C	sppl-logicalandwithhorizontaldash	LOGICAL AND WITH HORIZONTAL DASH
+2A5D	sppl-logicalorwithhorizontaldash	LOGICAL OR WITH HORIZONTAL DASH
+2A5E	sppl-logicalandwithdoubleoverbar	LOGICAL AND WITH DOUBLE OVERBAR
+2A5F	sppl-logicalandwithunderbar	LOGICAL AND WITH UNDERBAR
+2A60	sppl-logicalandwithdoubleunderbar	LOGICAL AND WITH DOUBLE UNDERBAR
+2A61	sppl-smallveewithunderbar	SMALL VEE WITH UNDERBAR
+2A62	sppl-logicalorwithdoubleoverbar	LOGICAL OR WITH DOUBLE OVERBAR
+2A63	sppl-logicalorwithdoubleunderbar	LOGICAL OR WITH DOUBLE UNDERBAR
+2A64	sppl-znotationdomainantirestriction	Z NOTATION DOMAIN ANTIRESTRICTION
+2A65	sppl-znotationrangeantirestriction	Z NOTATION RANGE ANTIRESTRICTION
+2A66	sppl-equalssignwithdotbelow	EQUALS SIGN WITH DOT BELOW
+2A67	sppl-identicalwithdotabove	IDENTICAL WITH DOT ABOVE
+2A68	sppl-triplehorizontalbarwithdoubleverticalstroke	TRIPLE HORIZONTAL BAR WITH DOUBLE VERTICAL STROKE
+2A69	sppl-triplehorizontalbarwithtripleverticalstroke	TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE
+2A6A	sppl-tildeoperatorwithdotabove	TILDE OPERATOR WITH DOT ABOVE
+2A6B	sppl-tildeoperatorwithrisingdots	TILDE OPERATOR WITH RISING DOTS
+2A6C	sppl-similarminussimilar	SIMILAR MINUS SIMILAR
+2A6D	sppl-congruentwithdotabove	CONGRUENT WITH DOT ABOVE
+2A6E	sppl-equalswithasterisk	EQUALS WITH ASTERISK
+2A6F	sppl-almostequaltowithcircumflexaccent	ALMOST EQUAL TO WITH CIRCUMFLEX ACCENT
+2A70	sppl-approximatelyequalorequalto	APPROXIMATELY EQUAL OR EQUAL TO
+2A71	sppl-equalssignaboveplussign	EQUALS SIGN ABOVE PLUS SIGN
+2A72	sppl-plussignaboveequalssign	PLUS SIGN ABOVE EQUALS SIGN
+2A73	sppl-equalssignabovetildeoperator	EQUALS SIGN ABOVE TILDE OPERATOR
+2A74	sppl-doublecolonequal	DOUBLE COLON EQUAL
+2A75	sppl-twoconsecutiveequalssigns	TWO CONSECUTIVE EQUALS SIGNS
+2A76	sppl-threeconsecutiveequalssigns	THREE CONSECUTIVE EQUALS SIGNS
+2A77	sppl-equalssignwithtwodotsaboveandtwodotsbelow	EQUALS SIGN WITH TWO DOTS ABOVE AND TWO DOTS BELOW
+2A78	sppl-equivalentwithfourdotsabove	EQUIVALENT WITH FOUR DOTS ABOVE
+2A79	sppl-lessthanwithcircleinside	LESS-THAN WITH CIRCLE INSIDE
+2A7A	sppl-greaterthanwithcircleinside	GREATER-THAN WITH CIRCLE INSIDE
+2A7B	sppl-lessthanwithquestionmarkabove	LESS-THAN WITH QUESTION MARK ABOVE
+2A7C	sppl-greaterthanwithquestionmarkabove	GREATER-THAN WITH QUESTION MARK ABOVE
+2A7D	sppl-lessthanorslantedequalto	LESS-THAN OR SLANTED EQUAL TO
+2A7E	sppl-greaterthanorslantedequalto	GREATER-THAN OR SLANTED EQUAL TO
+2A7F	sppl-lessthanorslantedequaltowithdotinside	LESS-THAN OR SLANTED EQUAL TO WITH DOT INSIDE
+2A80	sppl-greaterthanorslantedequaltowithdotinside	GREATER-THAN OR SLANTED EQUAL TO WITH DOT INSIDE
+2A81	sppl-lessthanorslantedequaltowithdotabove	LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE
+2A82	sppl-greaterthanorslantedequaltowithdotabove	GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE
+2A83	sppl-lessthanorslantedequaltowithdotaboveright	LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE RIGHT
+2A84	sppl-greaterthanorslantedequaltowithdotaboveleft	GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE LEFT
+2A85	sppl-lessthanorapproximate	LESS-THAN OR APPROXIMATE
+2A86	sppl-greaterthanorapproximate	GREATER-THAN OR APPROXIMATE
+2A87	sppl-lessthanandsinglelinenotequalto	LESS-THAN AND SINGLE-LINE NOT EQUAL TO
+2A88	sppl-greaterthanandsinglelinenotequalto	GREATER-THAN AND SINGLE-LINE NOT EQUAL TO
+2A89	sppl-lessthanandnotapproximate	LESS-THAN AND NOT APPROXIMATE
+2A8A	sppl-greaterthanandnotapproximate	GREATER-THAN AND NOT APPROXIMATE
+2A8B	sppl-lessthanabovedoublelineequalabovegreaterthan	LESS-THAN ABOVE DOUBLE-LINE EQUAL ABOVE GREATER-THAN
+2A8C	sppl-greaterthanabovedoublelineequalabovelessthan	GREATER-THAN ABOVE DOUBLE-LINE EQUAL ABOVE LESS-THAN
+2A8D	sppl-lessthanabovesimilarorequal	LESS-THAN ABOVE SIMILAR OR EQUAL
+2A8E	sppl-greaterthanabovesimilarorequal	GREATER-THAN ABOVE SIMILAR OR EQUAL
+2A8F	sppl-lessthanabovesimilarabovegreaterthan	LESS-THAN ABOVE SIMILAR ABOVE GREATER-THAN
+2A90	sppl-greaterthanabovesimilarabovelessthan	GREATER-THAN ABOVE SIMILAR ABOVE LESS-THAN
+2A91	sppl-lessthanabovegreaterthanabovedoublelineequal	LESS-THAN ABOVE GREATER-THAN ABOVE DOUBLE-LINE EQUAL
+2A92	sppl-greaterthanabovelessthanabovedoublelineequal	GREATER-THAN ABOVE LESS-THAN ABOVE DOUBLE-LINE EQUAL
+2A93	sppl-lessthanaboveslantedequalabovegreaterthanaboveslantedequal	LESS-THAN ABOVE SLANTED EQUAL ABOVE GREATER-THAN ABOVE SLANTED EQUAL
+2A94	sppl-greaterthanaboveslantedequalabovelessthanaboveslantedequal	GREATER-THAN ABOVE SLANTED EQUAL ABOVE LESS-THAN ABOVE SLANTED EQUAL
+2A95	sppl-slantedequaltoorlessthan	SLANTED EQUAL TO OR LESS-THAN
+2A96	sppl-slantedequaltoorgreaterthan	SLANTED EQUAL TO OR GREATER-THAN
+2A97	sppl-slantedequaltoorlessthanwithdotinside	SLANTED EQUAL TO OR LESS-THAN WITH DOT INSIDE
+2A98	sppl-slantedequaltoorgreaterthanwithdotinside	SLANTED EQUAL TO OR GREATER-THAN WITH DOT INSIDE
+2A99	sppl-doublelineequaltoorlessthan	DOUBLE-LINE EQUAL TO OR LESS-THAN
+2A9A	sppl-doublelineequaltoorgreaterthan	DOUBLE-LINE EQUAL TO OR GREATER-THAN
+2A9B	sppl-doublelineslantedequaltoorlessthan	DOUBLE-LINE SLANTED EQUAL TO OR LESS-THAN
+2A9C	sppl-doublelineslantedequaltoorgreaterthan	DOUBLE-LINE SLANTED EQUAL TO OR GREATER-THAN
+2A9D	sppl-similarorlessthan	SIMILAR OR LESS-THAN
+2A9E	sppl-similarorgreaterthan	SIMILAR OR GREATER-THAN
+2A9F	sppl-similarabovelessthanaboveequalssign	SIMILAR ABOVE LESS-THAN ABOVE EQUALS SIGN
+2AA0	sppl-similarabovegreaterthanaboveequalssign	SIMILAR ABOVE GREATER-THAN ABOVE EQUALS SIGN
+2AA1	sppl-doublenestedlessthan	DOUBLE NESTED LESS-THAN
+2AA2	sppl-doublenestedgreaterthan	DOUBLE NESTED GREATER-THAN
+2AA3	sppl-doublenestedlessthanwithunderbar	DOUBLE NESTED LESS-THAN WITH UNDERBAR
+2AA4	sppl-greaterthanoverlappinglessthan	GREATER-THAN OVERLAPPING LESS-THAN
+2AA5	sppl-greaterthanbesidelessthan	GREATER-THAN BESIDE LESS-THAN
+2AA6	sppl-lessthanclosedbycurve	LESS-THAN CLOSED BY CURVE
+2AA7	sppl-greaterthanclosedbycurve	GREATER-THAN CLOSED BY CURVE
+2AA8	sppl-lessthanclosedbycurveaboveslantedequal	LESS-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL
+2AA9	sppl-greaterthanclosedbycurveaboveslantedequal	GREATER-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL
+2AAA	sppl-smallerthan	SMALLER THAN
+2AAB	sppl-largerthan	LARGER THAN
+2AAC	sppl-smallerthanorequalto	SMALLER THAN OR EQUAL TO
+2AAD	sppl-largerthanorequalto	LARGER THAN OR EQUAL TO
+2AAE	sppl-equalssignwithbumpyabove	EQUALS SIGN WITH BUMPY ABOVE
+2AAF	sppl-precedesabovesinglelineequalssign	PRECEDES ABOVE SINGLE-LINE EQUALS SIGN
+2AB0	sppl-succeedsabovesinglelineequalssign	SUCCEEDS ABOVE SINGLE-LINE EQUALS SIGN
+2AB1	sppl-precedesabovesinglelinenotequalto	PRECEDES ABOVE SINGLE-LINE NOT EQUAL TO
+2AB2	sppl-succeedsabovesinglelinenotequalto	SUCCEEDS ABOVE SINGLE-LINE NOT EQUAL TO
+2AB3	sppl-precedesaboveequalssign	PRECEDES ABOVE EQUALS SIGN
+2AB4	sppl-succeedsaboveequalssign	SUCCEEDS ABOVE EQUALS SIGN
+2AB5	sppl-precedesabovenotequalto	PRECEDES ABOVE NOT EQUAL TO
+2AB6	sppl-succeedsabovenotequalto	SUCCEEDS ABOVE NOT EQUAL TO
+2AB7	sppl-precedesabovealmostequalto	PRECEDES ABOVE ALMOST EQUAL TO
+2AB8	sppl-succeedsabovealmostequalto	SUCCEEDS ABOVE ALMOST EQUAL TO
+2AB9	sppl-precedesabovenotalmostequalto	PRECEDES ABOVE NOT ALMOST EQUAL TO
+2ABA	sppl-succeedsabovenotalmostequalto	SUCCEEDS ABOVE NOT ALMOST EQUAL TO
+2ABB	sppl-doubleprecedes	DOUBLE PRECEDES
+2ABC	sppl-doublesucceeds	DOUBLE SUCCEEDS
+2ABD	sppl-subsetwithdot	SUBSET WITH DOT
+2ABE	sppl-supersetwithdot	SUPERSET WITH DOT
+2ABF	sppl-subsetwithplussignbelow	SUBSET WITH PLUS SIGN BELOW
+2AC0	sppl-supersetwithplussignbelow	SUPERSET WITH PLUS SIGN BELOW
+2AC1	sppl-subsetwithmultiplicationsignbelow	SUBSET WITH MULTIPLICATION SIGN BELOW
+2AC2	sppl-supersetwithmultiplicationsignbelow	SUPERSET WITH MULTIPLICATION SIGN BELOW
+2AC3	sppl-subsetoforequaltowithdotabove	SUBSET OF OR EQUAL TO WITH DOT ABOVE
+2AC4	sppl-supersetoforequaltowithdotabove	SUPERSET OF OR EQUAL TO WITH DOT ABOVE
+2AC5	sppl-subsetofaboveequalssign	SUBSET OF ABOVE EQUALS SIGN
+2AC6	sppl-supersetofaboveequalssign	SUPERSET OF ABOVE EQUALS SIGN
+2AC7	sppl-subsetofabovetildeoperator	SUBSET OF ABOVE TILDE OPERATOR
+2AC8	sppl-supersetofabovetildeoperator	SUPERSET OF ABOVE TILDE OPERATOR
+2AC9	sppl-subsetofabovealmostequalto	SUBSET OF ABOVE ALMOST EQUAL TO
+2ACA	sppl-supersetofabovealmostequalto	SUPERSET OF ABOVE ALMOST EQUAL TO
+2ACB	sppl-subsetofabovenotequalto	SUBSET OF ABOVE NOT EQUAL TO
+2ACC	sppl-supersetofabovenotequalto	SUPERSET OF ABOVE NOT EQUAL TO
+2ACD	sppl-squareleftopenboxoperator	SQUARE LEFT OPEN BOX OPERATOR
+2ACE	sppl-squarerightopenboxoperator	SQUARE RIGHT OPEN BOX OPERATOR
+2ACF	sppl-closedsubset	CLOSED SUBSET
+2AD0	sppl-closedsuperset	CLOSED SUPERSET
+2AD1	sppl-closedsubsetorequalto	CLOSED SUBSET OR EQUAL TO
+2AD2	sppl-closedsupersetorequalto	CLOSED SUPERSET OR EQUAL TO
+2AD3	sppl-subsetabovesuperset	SUBSET ABOVE SUPERSET
+2AD4	sppl-supersetabovesubset	SUPERSET ABOVE SUBSET
+2AD5	sppl-subsetabovesubset	SUBSET ABOVE SUBSET
+2AD6	sppl-supersetabovesuperset	SUPERSET ABOVE SUPERSET
+2AD7	sppl-supersetbesidesubset	SUPERSET BESIDE SUBSET
+2AD8	sppl-supersetbesideandjoinedbydashwithsubset	SUPERSET BESIDE AND JOINED BY DASH WITH SUBSET
+2AD9	sppl-elementofopeningdownwards	ELEMENT OF OPENING DOWNWARDS
+2ADA	sppl-pitchforkwithteetop	PITCHFORK WITH TEE TOP
+2ADB	sppl-transversalintersection	TRANSVERSAL INTERSECTION
+2ADC	sppl-forking	FORKING
+2ADD	sppl-nonforking	NONFORKING
+2ADE	sppl-shortlefttack	SHORT LEFT TACK
+2ADF	sppl-shortdowntack	SHORT DOWN TACK
+2AE0	sppl-shortuptack	SHORT UP TACK
+2AE1	sppl-perpendicularwiths	PERPENDICULAR WITH S
+2AE2	sppl-verticalbartriplerightturnstile	VERTICAL BAR TRIPLE RIGHT TURNSTILE
+2AE3	sppl-doubleverticalbarleftturnstile	DOUBLE VERTICAL BAR LEFT TURNSTILE
+2AE4	sppl-verticalbardoubleleftturnstile	VERTICAL BAR DOUBLE LEFT TURNSTILE
+2AE5	sppl-doubleverticalbardoubleleftturnstile	DOUBLE VERTICAL BAR DOUBLE LEFT TURNSTILE
+2AE6	sppl-longdashfromleftmemberofdoublevertical	LONG DASH FROM LEFT MEMBER OF DOUBLE VERTICAL
+2AE7	sppl-shortdowntackwithoverbar	SHORT DOWN TACK WITH OVERBAR
+2AE8	sppl-shortuptackwithunderbar	SHORT UP TACK WITH UNDERBAR
+2AE9	sppl-shortuptackaboveshortdowntack	SHORT UP TACK ABOVE SHORT DOWN TACK
+2AEA	sppl-doubledowntack	DOUBLE DOWN TACK
+2AEB	sppl-doubleuptack	DOUBLE UP TACK
+2AEC	sppl-doublestrokenotsign	DOUBLE STROKE NOT SIGN
+2AED	sppl-reverseddoublestrokenotsign	REVERSED DOUBLE STROKE NOT SIGN
+2AEE	sppl-doesnotdividewithreversednegationslash	DOES NOT DIVIDE WITH REVERSED NEGATION SLASH
+2AEF	sppl-verticallinewithcircleabove	VERTICAL LINE WITH CIRCLE ABOVE
+2AF0	sppl-verticallinewithcirclebelow	VERTICAL LINE WITH CIRCLE BELOW
+2AF1	sppl-downtackwithcirclebelow	DOWN TACK WITH CIRCLE BELOW
+2AF2	sppl-parallelwithhorizontalstroke	PARALLEL WITH HORIZONTAL STROKE
+2AF3	sppl-parallelwithtildeoperator	PARALLEL WITH TILDE OPERATOR
+2AF4	sppl-tripleverticalbarbinaryrelation	TRIPLE VERTICAL BAR BINARY RELATION
+2AF5	sppl-tripleverticalbarwithhorizontalstroke	TRIPLE VERTICAL BAR WITH HORIZONTAL STROKE
+2AF6	sppl-triplecolonoperator	TRIPLE COLON OPERATOR
+2AF7	sppl-triplenestedlessthan	TRIPLE NESTED LESS-THAN
+2AF8	sppl-triplenestedgreaterthan	TRIPLE NESTED GREATER-THAN
+2AF9	sppl-doublelineslantedlessthanorequalto	DOUBLE-LINE SLANTED LESS-THAN OR EQUAL TO
+2AFA	sppl-doublelineslantedgreaterthanorequalto	DOUBLE-LINE SLANTED GREATER-THAN OR EQUAL TO
+2AFB	sppl-triplesolidusbinaryrelation	TRIPLE SOLIDUS BINARY RELATION
+2AFC	sppl-largetripleverticalbaroperator	LARGE TRIPLE VERTICAL BAR OPERATOR
+2AFD	sppl-doublesolidusoperator	DOUBLE SOLIDUS OPERATOR
+2AFE	sppl-whiteverticalbar	WHITE VERTICAL BAR
+2AFF	sppl-narywhiteverticalbar	N-ARY WHITE VERTICAL BAR

@@ -1,95 +1,95 @@
 # Glagolitic 2C00 - 2C5F
-2C00	glagoliticcapitalletterazu	GLAGOLITIC CAPITAL LETTER AZU
-2C01	glagoliticcapitalletterbuky	GLAGOLITIC CAPITAL LETTER BUKY
-2C02	glagoliticcapitallettervede	GLAGOLITIC CAPITAL LETTER VEDE
-2C03	glagoliticcapitalletterglagoli	GLAGOLITIC CAPITAL LETTER GLAGOLI
-2C04	glagoliticcapitalletterdobro	GLAGOLITIC CAPITAL LETTER DOBRO
-2C05	glagoliticcapitalletteryestu	GLAGOLITIC CAPITAL LETTER YESTU
-2C06	glagoliticcapitalletterzhivete	GLAGOLITIC CAPITAL LETTER ZHIVETE
-2C07	glagoliticcapitalletterdzelo	GLAGOLITIC CAPITAL LETTER DZELO
-2C08	glagoliticcapitalletterzemlja	GLAGOLITIC CAPITAL LETTER ZEMLJA
-2C09	glagoliticcapitalletterizhe	GLAGOLITIC CAPITAL LETTER IZHE
-2C0A	glagoliticcapitalletterinitializhe	GLAGOLITIC CAPITAL LETTER INITIAL IZHE
-2C0B	glagoliticcapitalletteri	GLAGOLITIC CAPITAL LETTER I
-2C0C	glagoliticcapitalletterdjervi	GLAGOLITIC CAPITAL LETTER DJERVI
-2C0D	glagoliticcapitalletterkako	GLAGOLITIC CAPITAL LETTER KAKO
-2C0E	glagoliticcapitalletterljudije	GLAGOLITIC CAPITAL LETTER LJUDIJE
-2C0F	glagoliticcapitallettermyslite	GLAGOLITIC CAPITAL LETTER MYSLITE
-2C10	glagoliticcapitalletternashi	GLAGOLITIC CAPITAL LETTER NASHI
-2C11	glagoliticcapitalletteronu	GLAGOLITIC CAPITAL LETTER ONU
-2C12	glagoliticcapitalletterpokoji	GLAGOLITIC CAPITAL LETTER POKOJI
-2C13	glagoliticcapitalletterritsi	GLAGOLITIC CAPITAL LETTER RITSI
-2C14	glagoliticcapitalletterslovo	GLAGOLITIC CAPITAL LETTER SLOVO
-2C15	glagoliticcapitallettertvrido	GLAGOLITIC CAPITAL LETTER TVRIDO
-2C16	glagoliticcapitalletteruku	GLAGOLITIC CAPITAL LETTER UKU
-2C17	glagoliticcapitalletterfritu	GLAGOLITIC CAPITAL LETTER FRITU
-2C18	glagoliticcapitalletterheru	GLAGOLITIC CAPITAL LETTER HERU
-2C19	glagoliticcapitalletterotu	GLAGOLITIC CAPITAL LETTER OTU
-2C1A	glagoliticcapitalletterpe	GLAGOLITIC CAPITAL LETTER PE
-2C1B	glagoliticcapitallettershta	GLAGOLITIC CAPITAL LETTER SHTA
-2C1C	glagoliticcapitallettertsi	GLAGOLITIC CAPITAL LETTER TSI
-2C1D	glagoliticcapitalletterchrivi	GLAGOLITIC CAPITAL LETTER CHRIVI
-2C1E	glagoliticcapitallettersha	GLAGOLITIC CAPITAL LETTER SHA
-2C1F	glagoliticcapitalletteryeru	GLAGOLITIC CAPITAL LETTER YERU
-2C20	glagoliticcapitalletteryeri	GLAGOLITIC CAPITAL LETTER YERI
-2C21	glagoliticcapitalletteryati	GLAGOLITIC CAPITAL LETTER YATI
-2C22	glagoliticcapitalletterspideryha	GLAGOLITIC CAPITAL LETTER SPIDERY HA
-2C23	glagoliticcapitalletteryu	GLAGOLITIC CAPITAL LETTER YU
-2C24	glagoliticcapitallettersmallyus	GLAGOLITIC CAPITAL LETTER SMALL YUS
-2C25	glagoliticcapitallettersmallyuswithtail	GLAGOLITIC CAPITAL LETTER SMALL YUS WITH TAIL
-2C26	glagoliticcapitalletteryo	GLAGOLITIC CAPITAL LETTER YO
-2C27	glagoliticcapitalletteriotatedsmallyus	GLAGOLITIC CAPITAL LETTER IOTATED SMALL YUS
-2C28	glagoliticcapitalletterbigyus	GLAGOLITIC CAPITAL LETTER BIG YUS
-2C29	glagoliticcapitalletteriotatedbigyus	GLAGOLITIC CAPITAL LETTER IOTATED BIG YUS
-2C2A	glagoliticcapitalletterfita	GLAGOLITIC CAPITAL LETTER FITA
-2C2B	glagoliticcapitalletterizhitsa	GLAGOLITIC CAPITAL LETTER IZHITSA
-2C2C	glagoliticcapitallettershtapic	GLAGOLITIC CAPITAL LETTER SHTAPIC
-2C2D	glagoliticcapitallettertrokutastia	GLAGOLITIC CAPITAL LETTER TROKUTASTI A
-2C2E	glagoliticcapitalletterlatinatemyslite	GLAGOLITIC CAPITAL LETTER LATINATE MYSLITE
-2C30	glagoliticsmallletterazu	GLAGOLITIC SMALL LETTER AZU
-2C31	glagoliticsmallletterbuky	GLAGOLITIC SMALL LETTER BUKY
-2C32	glagoliticsmalllettervede	GLAGOLITIC SMALL LETTER VEDE
-2C33	glagoliticsmallletterglagoli	GLAGOLITIC SMALL LETTER GLAGOLI
-2C34	glagoliticsmallletterdobro	GLAGOLITIC SMALL LETTER DOBRO
-2C35	glagoliticsmallletteryestu	GLAGOLITIC SMALL LETTER YESTU
-2C36	glagoliticsmallletterzhivete	GLAGOLITIC SMALL LETTER ZHIVETE
-2C37	glagoliticsmallletterdzelo	GLAGOLITIC SMALL LETTER DZELO
-2C38	glagoliticsmallletterzemlja	GLAGOLITIC SMALL LETTER ZEMLJA
-2C39	glagoliticsmallletterizhe	GLAGOLITIC SMALL LETTER IZHE
-2C3A	glagoliticsmallletterinitializhe	GLAGOLITIC SMALL LETTER INITIAL IZHE
-2C3B	glagoliticsmallletteri	GLAGOLITIC SMALL LETTER I
-2C3C	glagoliticsmallletterdjervi	GLAGOLITIC SMALL LETTER DJERVI
-2C3D	glagoliticsmallletterkako	GLAGOLITIC SMALL LETTER KAKO
-2C3E	glagoliticsmallletterljudije	GLAGOLITIC SMALL LETTER LJUDIJE
-2C3F	glagoliticsmalllettermyslite	GLAGOLITIC SMALL LETTER MYSLITE
-2C40	glagoliticsmallletternashi	GLAGOLITIC SMALL LETTER NASHI
-2C41	glagoliticsmallletteronu	GLAGOLITIC SMALL LETTER ONU
-2C42	glagoliticsmallletterpokoji	GLAGOLITIC SMALL LETTER POKOJI
-2C43	glagoliticsmallletterritsi	GLAGOLITIC SMALL LETTER RITSI
-2C44	glagoliticsmallletterslovo	GLAGOLITIC SMALL LETTER SLOVO
-2C45	glagoliticsmalllettertvrido	GLAGOLITIC SMALL LETTER TVRIDO
-2C46	glagoliticsmallletteruku	GLAGOLITIC SMALL LETTER UKU
-2C47	glagoliticsmallletterfritu	GLAGOLITIC SMALL LETTER FRITU
-2C48	glagoliticsmallletterheru	GLAGOLITIC SMALL LETTER HERU
-2C49	glagoliticsmallletterotu	GLAGOLITIC SMALL LETTER OTU
-2C4A	glagoliticsmallletterpe	GLAGOLITIC SMALL LETTER PE
-2C4B	glagoliticsmalllettershta	GLAGOLITIC SMALL LETTER SHTA
-2C4C	glagoliticsmalllettertsi	GLAGOLITIC SMALL LETTER TSI
-2C4D	glagoliticsmallletterchrivi	GLAGOLITIC SMALL LETTER CHRIVI
-2C4E	glagoliticsmalllettersha	GLAGOLITIC SMALL LETTER SHA
-2C4F	glagoliticsmallletteryeru	GLAGOLITIC SMALL LETTER YERU
-2C50	glagoliticsmallletteryeri	GLAGOLITIC SMALL LETTER YERI
-2C51	glagoliticsmallletteryati	GLAGOLITIC SMALL LETTER YATI
-2C52	glagoliticsmallletterspideryha	GLAGOLITIC SMALL LETTER SPIDERY HA
-2C53	glagoliticsmallletteryu	GLAGOLITIC SMALL LETTER YU
-2C54	glagoliticsmalllettersmallyus	GLAGOLITIC SMALL LETTER SMALL YUS
-2C55	glagoliticsmalllettersmallyuswithtail	GLAGOLITIC SMALL LETTER SMALL YUS WITH TAIL
-2C56	glagoliticsmallletteryo	GLAGOLITIC SMALL LETTER YO
-2C57	glagoliticsmallletteriotatedsmallyus	GLAGOLITIC SMALL LETTER IOTATED SMALL YUS
-2C58	glagoliticsmallletterbigyus	GLAGOLITIC SMALL LETTER BIG YUS
-2C59	glagoliticsmallletteriotatedbigyus	GLAGOLITIC SMALL LETTER IOTATED BIG YUS
-2C5A	glagoliticsmallletterfita	GLAGOLITIC SMALL LETTER FITA
-2C5B	glagoliticsmallletterizhitsa	GLAGOLITIC SMALL LETTER IZHITSA
-2C5C	glagoliticsmalllettershtapic	GLAGOLITIC SMALL LETTER SHTAPIC
-2C5D	glagoliticsmalllettertrokutastia	GLAGOLITIC SMALL LETTER TROKUTASTI A
-2C5E	glagoliticsmallletterlatinatemyslite	GLAGOLITIC SMALL LETTER LATINATE MYSLITE
+2C00	glgl-glagoliticcapitalletterazu	GLAGOLITIC CAPITAL LETTER AZU
+2C01	glgl-glagoliticcapitalletterbuky	GLAGOLITIC CAPITAL LETTER BUKY
+2C02	glgl-glagoliticcapitallettervede	GLAGOLITIC CAPITAL LETTER VEDE
+2C03	glgl-glagoliticcapitalletterglagoli	GLAGOLITIC CAPITAL LETTER GLAGOLI
+2C04	glgl-glagoliticcapitalletterdobro	GLAGOLITIC CAPITAL LETTER DOBRO
+2C05	glgl-glagoliticcapitalletteryestu	GLAGOLITIC CAPITAL LETTER YESTU
+2C06	glgl-glagoliticcapitalletterzhivete	GLAGOLITIC CAPITAL LETTER ZHIVETE
+2C07	glgl-glagoliticcapitalletterdzelo	GLAGOLITIC CAPITAL LETTER DZELO
+2C08	glgl-glagoliticcapitalletterzemlja	GLAGOLITIC CAPITAL LETTER ZEMLJA
+2C09	glgl-glagoliticcapitalletterizhe	GLAGOLITIC CAPITAL LETTER IZHE
+2C0A	glgl-glagoliticcapitalletterinitializhe	GLAGOLITIC CAPITAL LETTER INITIAL IZHE
+2C0B	glgl-glagoliticcapitalletteri	GLAGOLITIC CAPITAL LETTER I
+2C0C	glgl-glagoliticcapitalletterdjervi	GLAGOLITIC CAPITAL LETTER DJERVI
+2C0D	glgl-glagoliticcapitalletterkako	GLAGOLITIC CAPITAL LETTER KAKO
+2C0E	glgl-glagoliticcapitalletterljudije	GLAGOLITIC CAPITAL LETTER LJUDIJE
+2C0F	glgl-glagoliticcapitallettermyslite	GLAGOLITIC CAPITAL LETTER MYSLITE
+2C10	glgl-glagoliticcapitalletternashi	GLAGOLITIC CAPITAL LETTER NASHI
+2C11	glgl-glagoliticcapitalletteronu	GLAGOLITIC CAPITAL LETTER ONU
+2C12	glgl-glagoliticcapitalletterpokoji	GLAGOLITIC CAPITAL LETTER POKOJI
+2C13	glgl-glagoliticcapitalletterritsi	GLAGOLITIC CAPITAL LETTER RITSI
+2C14	glgl-glagoliticcapitalletterslovo	GLAGOLITIC CAPITAL LETTER SLOVO
+2C15	glgl-glagoliticcapitallettertvrido	GLAGOLITIC CAPITAL LETTER TVRIDO
+2C16	glgl-glagoliticcapitalletteruku	GLAGOLITIC CAPITAL LETTER UKU
+2C17	glgl-glagoliticcapitalletterfritu	GLAGOLITIC CAPITAL LETTER FRITU
+2C18	glgl-glagoliticcapitalletterheru	GLAGOLITIC CAPITAL LETTER HERU
+2C19	glgl-glagoliticcapitalletterotu	GLAGOLITIC CAPITAL LETTER OTU
+2C1A	glgl-glagoliticcapitalletterpe	GLAGOLITIC CAPITAL LETTER PE
+2C1B	glgl-glagoliticcapitallettershta	GLAGOLITIC CAPITAL LETTER SHTA
+2C1C	glgl-glagoliticcapitallettertsi	GLAGOLITIC CAPITAL LETTER TSI
+2C1D	glgl-glagoliticcapitalletterchrivi	GLAGOLITIC CAPITAL LETTER CHRIVI
+2C1E	glgl-glagoliticcapitallettersha	GLAGOLITIC CAPITAL LETTER SHA
+2C1F	glgl-glagoliticcapitalletteryeru	GLAGOLITIC CAPITAL LETTER YERU
+2C20	glgl-glagoliticcapitalletteryeri	GLAGOLITIC CAPITAL LETTER YERI
+2C21	glgl-glagoliticcapitalletteryati	GLAGOLITIC CAPITAL LETTER YATI
+2C22	glgl-glagoliticcapitalletterspideryha	GLAGOLITIC CAPITAL LETTER SPIDERY HA
+2C23	glgl-glagoliticcapitalletteryu	GLAGOLITIC CAPITAL LETTER YU
+2C24	glgl-glagoliticcapitallettersmallyus	GLAGOLITIC CAPITAL LETTER SMALL YUS
+2C25	glgl-glagoliticcapitallettersmallyuswithtail	GLAGOLITIC CAPITAL LETTER SMALL YUS WITH TAIL
+2C26	glgl-glagoliticcapitalletteryo	GLAGOLITIC CAPITAL LETTER YO
+2C27	glgl-glagoliticcapitalletteriotatedsmallyus	GLAGOLITIC CAPITAL LETTER IOTATED SMALL YUS
+2C28	glgl-glagoliticcapitalletterbigyus	GLAGOLITIC CAPITAL LETTER BIG YUS
+2C29	glgl-glagoliticcapitalletteriotatedbigyus	GLAGOLITIC CAPITAL LETTER IOTATED BIG YUS
+2C2A	glgl-glagoliticcapitalletterfita	GLAGOLITIC CAPITAL LETTER FITA
+2C2B	glgl-glagoliticcapitalletterizhitsa	GLAGOLITIC CAPITAL LETTER IZHITSA
+2C2C	glgl-glagoliticcapitallettershtapic	GLAGOLITIC CAPITAL LETTER SHTAPIC
+2C2D	glgl-glagoliticcapitallettertrokutastia	GLAGOLITIC CAPITAL LETTER TROKUTASTI A
+2C2E	glgl-glagoliticcapitalletterlatinatemyslite	GLAGOLITIC CAPITAL LETTER LATINATE MYSLITE
+2C30	glgl-glagoliticsmallletterazu	GLAGOLITIC SMALL LETTER AZU
+2C31	glgl-glagoliticsmallletterbuky	GLAGOLITIC SMALL LETTER BUKY
+2C32	glgl-glagoliticsmalllettervede	GLAGOLITIC SMALL LETTER VEDE
+2C33	glgl-glagoliticsmallletterglagoli	GLAGOLITIC SMALL LETTER GLAGOLI
+2C34	glgl-glagoliticsmallletterdobro	GLAGOLITIC SMALL LETTER DOBRO
+2C35	glgl-glagoliticsmallletteryestu	GLAGOLITIC SMALL LETTER YESTU
+2C36	glgl-glagoliticsmallletterzhivete	GLAGOLITIC SMALL LETTER ZHIVETE
+2C37	glgl-glagoliticsmallletterdzelo	GLAGOLITIC SMALL LETTER DZELO
+2C38	glgl-glagoliticsmallletterzemlja	GLAGOLITIC SMALL LETTER ZEMLJA
+2C39	glgl-glagoliticsmallletterizhe	GLAGOLITIC SMALL LETTER IZHE
+2C3A	glgl-glagoliticsmallletterinitializhe	GLAGOLITIC SMALL LETTER INITIAL IZHE
+2C3B	glgl-glagoliticsmallletteri	GLAGOLITIC SMALL LETTER I
+2C3C	glgl-glagoliticsmallletterdjervi	GLAGOLITIC SMALL LETTER DJERVI
+2C3D	glgl-glagoliticsmallletterkako	GLAGOLITIC SMALL LETTER KAKO
+2C3E	glgl-glagoliticsmallletterljudije	GLAGOLITIC SMALL LETTER LJUDIJE
+2C3F	glgl-glagoliticsmalllettermyslite	GLAGOLITIC SMALL LETTER MYSLITE
+2C40	glgl-glagoliticsmallletternashi	GLAGOLITIC SMALL LETTER NASHI
+2C41	glgl-glagoliticsmallletteronu	GLAGOLITIC SMALL LETTER ONU
+2C42	glgl-glagoliticsmallletterpokoji	GLAGOLITIC SMALL LETTER POKOJI
+2C43	glgl-glagoliticsmallletterritsi	GLAGOLITIC SMALL LETTER RITSI
+2C44	glgl-glagoliticsmallletterslovo	GLAGOLITIC SMALL LETTER SLOVO
+2C45	glgl-glagoliticsmalllettertvrido	GLAGOLITIC SMALL LETTER TVRIDO
+2C46	glgl-glagoliticsmallletteruku	GLAGOLITIC SMALL LETTER UKU
+2C47	glgl-glagoliticsmallletterfritu	GLAGOLITIC SMALL LETTER FRITU
+2C48	glgl-glagoliticsmallletterheru	GLAGOLITIC SMALL LETTER HERU
+2C49	glgl-glagoliticsmallletterotu	GLAGOLITIC SMALL LETTER OTU
+2C4A	glgl-glagoliticsmallletterpe	GLAGOLITIC SMALL LETTER PE
+2C4B	glgl-glagoliticsmalllettershta	GLAGOLITIC SMALL LETTER SHTA
+2C4C	glgl-glagoliticsmalllettertsi	GLAGOLITIC SMALL LETTER TSI
+2C4D	glgl-glagoliticsmallletterchrivi	GLAGOLITIC SMALL LETTER CHRIVI
+2C4E	glgl-glagoliticsmalllettersha	GLAGOLITIC SMALL LETTER SHA
+2C4F	glgl-glagoliticsmallletteryeru	GLAGOLITIC SMALL LETTER YERU
+2C50	glgl-glagoliticsmallletteryeri	GLAGOLITIC SMALL LETTER YERI
+2C51	glgl-glagoliticsmallletteryati	GLAGOLITIC SMALL LETTER YATI
+2C52	glgl-glagoliticsmallletterspideryha	GLAGOLITIC SMALL LETTER SPIDERY HA
+2C53	glgl-glagoliticsmallletteryu	GLAGOLITIC SMALL LETTER YU
+2C54	glgl-glagoliticsmalllettersmallyus	GLAGOLITIC SMALL LETTER SMALL YUS
+2C55	glgl-glagoliticsmalllettersmallyuswithtail	GLAGOLITIC SMALL LETTER SMALL YUS WITH TAIL
+2C56	glgl-glagoliticsmallletteryo	GLAGOLITIC SMALL LETTER YO
+2C57	glgl-glagoliticsmallletteriotatedsmallyus	GLAGOLITIC SMALL LETTER IOTATED SMALL YUS
+2C58	glgl-glagoliticsmallletterbigyus	GLAGOLITIC SMALL LETTER BIG YUS
+2C59	glgl-glagoliticsmallletteriotatedbigyus	GLAGOLITIC SMALL LETTER IOTATED BIG YUS
+2C5A	glgl-glagoliticsmallletterfita	GLAGOLITIC SMALL LETTER FITA
+2C5B	glgl-glagoliticsmallletterizhitsa	GLAGOLITIC SMALL LETTER IZHITSA
+2C5C	glgl-glagoliticsmalllettershtapic	GLAGOLITIC SMALL LETTER SHTAPIC
+2C5D	glgl-glagoliticsmalllettertrokutastia	GLAGOLITIC SMALL LETTER TROKUTASTI A
+2C5E	glgl-glagoliticsmallletterlatinatemyslite	GLAGOLITIC SMALL LETTER LATINATE MYSLITE

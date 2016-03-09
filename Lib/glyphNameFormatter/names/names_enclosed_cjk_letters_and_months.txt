@@ -1,255 +1,255 @@
 # Enclosed CJK Letters and Months 3200 - 32FF
-3200	hangulkiyeokparen	PARENTHESIZED HANGUL KIYEOK
-3201	hangulnieunparen	PARENTHESIZED HANGUL NIEUN
-3202	hangultikeutparen	PARENTHESIZED HANGUL TIKEUT
-3203	hangulrieulparen	PARENTHESIZED HANGUL RIEUL
-3204	hangulmieumparen	PARENTHESIZED HANGUL MIEUM
-3205	hangulpieupparen	PARENTHESIZED HANGUL PIEUP
-3206	hangulsiosparen	PARENTHESIZED HANGUL SIOS
-3207	hangulieungparen	PARENTHESIZED HANGUL IEUNG
-3208	hangulcieucparen	PARENTHESIZED HANGUL CIEUC
-3209	hangulchieuchparen	PARENTHESIZED HANGUL CHIEUCH
-320A	hangulkhieukhparen	PARENTHESIZED HANGUL KHIEUKH
-320B	hangulthieuthparen	PARENTHESIZED HANGUL THIEUTH
-320C	hangulphieuphparen	PARENTHESIZED HANGUL PHIEUPH
-320D	hangulhieuhparen	PARENTHESIZED HANGUL HIEUH
-320E	hangulkiyeokaparen	PARENTHESIZED HANGUL KIYEOK A
-320F	hangulnieunaparen	PARENTHESIZED HANGUL NIEUN A
-3210	hangultikeutaparen	PARENTHESIZED HANGUL TIKEUT A
-3211	hangulrieulaparen	PARENTHESIZED HANGUL RIEUL A
-3212	hangulmieumaparen	PARENTHESIZED HANGUL MIEUM A
-3213	hangulpieupaparen	PARENTHESIZED HANGUL PIEUP A
-3214	hangulsiosaparen	PARENTHESIZED HANGUL SIOS A
-3215	hangulieungaparen	PARENTHESIZED HANGUL IEUNG A
-3216	hangulcieucaparen	PARENTHESIZED HANGUL CIEUC A
-3217	hangulchieuchaparen	PARENTHESIZED HANGUL CHIEUCH A
-3218	hangulkhieukhaparen	PARENTHESIZED HANGUL KHIEUKH A
-3219	hangulthieuthaparen	PARENTHESIZED HANGUL THIEUTH A
-321A	hangulphieuphaparen	PARENTHESIZED HANGUL PHIEUPH A
-321B	hangulhieuhaparen	PARENTHESIZED HANGUL HIEUH A
-321C	hangulcieucuparen	PARENTHESIZED HANGUL CIEUC U
-321D	ojeonparen	PARENTHESIZED KOREAN CHARACTER OJEON
-321E	ohuparen	PARENTHESIZED KOREAN CHARACTER O HU
-3220	oneideographicparen	PARENTHESIZED IDEOGRAPH ONE
-3221	twoideographicparen	PARENTHESIZED IDEOGRAPH TWO
-3222	threeideographicparen	PARENTHESIZED IDEOGRAPH THREE
-3223	fourideographicparen	PARENTHESIZED IDEOGRAPH FOUR
-3224	fiveideographicparen	PARENTHESIZED IDEOGRAPH FIVE
-3225	sixideographicparen	PARENTHESIZED IDEOGRAPH SIX
-3226	sevenideographicparen	PARENTHESIZED IDEOGRAPH SEVEN
-3227	eightideographicparen	PARENTHESIZED IDEOGRAPH EIGHT
-3228	nineideographicparen	PARENTHESIZED IDEOGRAPH NINE
-3229	tenideographicparen	PARENTHESIZED IDEOGRAPH TEN
-322A	moonideographicparen	PARENTHESIZED IDEOGRAPH MOON
-322B	fireideographicparen	PARENTHESIZED IDEOGRAPH FIRE
-322C	waterideographicparen	PARENTHESIZED IDEOGRAPH WATER
-322D	woodideographicparen	PARENTHESIZED IDEOGRAPH WOOD
-322E	metalideographicparen	PARENTHESIZED IDEOGRAPH METAL
-322F	earthideographicparen	PARENTHESIZED IDEOGRAPH EARTH
-3230	sunideographicparen	PARENTHESIZED IDEOGRAPH SUN
-3231	stockideographicparen	PARENTHESIZED IDEOGRAPH STOCK
-3232	haveideographicparen	PARENTHESIZED IDEOGRAPH HAVE
-3233	societyideographicparen	PARENTHESIZED IDEOGRAPH SOCIETY
-3234	nameideographicparen	PARENTHESIZED IDEOGRAPH NAME
-3235	specialideographicparen	PARENTHESIZED IDEOGRAPH SPECIAL
-3236	financialideographicparen	PARENTHESIZED IDEOGRAPH FINANCIAL
-3237	congratulationideographicparen	PARENTHESIZED IDEOGRAPH CONGRATULATION
-3238	laborideographicparen	PARENTHESIZED IDEOGRAPH LABOR
-3239	representideographicparen	PARENTHESIZED IDEOGRAPH REPRESENT
-323A	callideographicparen	PARENTHESIZED IDEOGRAPH CALL
-323B	studyideographicparen	PARENTHESIZED IDEOGRAPH STUDY
-323C	superviseideographicparen	PARENTHESIZED IDEOGRAPH SUPERVISE
-323D	enterpriseideographicparen	PARENTHESIZED IDEOGRAPH ENTERPRISE
-323E	resourceideographicparen	PARENTHESIZED IDEOGRAPH RESOURCE
-323F	allianceideographicparen	PARENTHESIZED IDEOGRAPH ALLIANCE
-3240	festivalideographicparen	PARENTHESIZED IDEOGRAPH FESTIVAL
-3241	restideographicparen	PARENTHESIZED IDEOGRAPH REST
-3242	selfideographicparen	PARENTHESIZED IDEOGRAPH SELF
-3243	reachideographicparen	PARENTHESIZED IDEOGRAPH REACH
-3244	questionideographiccircled	CIRCLED IDEOGRAPH QUESTION
-3245	kindergartenideographiccircled	CIRCLED IDEOGRAPH KINDERGARTEN
-3246	schoolideographiccircled	CIRCLED IDEOGRAPH SCHOOL
-3247	kotoideographiccircled	CIRCLED IDEOGRAPH KOTO
-3248	tencirclesquare	CIRCLED NUMBER TEN ON BLACK SQUARE
-3249	twentycirclesquare	CIRCLED NUMBER TWENTY ON BLACK SQUARE
-324A	thirtycirclesquare	CIRCLED NUMBER THIRTY ON BLACK SQUARE
-324B	fortycirclesquare	CIRCLED NUMBER FORTY ON BLACK SQUARE
-324C	fiftycirclesquare	CIRCLED NUMBER FIFTY ON BLACK SQUARE
-324D	sixtycirclesquare	CIRCLED NUMBER SIXTY ON BLACK SQUARE
-324E	seventycirclesquare	CIRCLED NUMBER SEVENTY ON BLACK SQUARE
-324F	eightycirclesquare	CIRCLED NUMBER EIGHTY ON BLACK SQUARE
-3250	partnership	PARTNERSHIP SIGN
-3251	twentyonecircle	CIRCLED NUMBER TWENTY ONE
-3252	twentytwocircle	CIRCLED NUMBER TWENTY TWO
-3253	twentythreecircle	CIRCLED NUMBER TWENTY THREE
-3254	twentyfourcircle	CIRCLED NUMBER TWENTY FOUR
-3255	twentyfivecircle	CIRCLED NUMBER TWENTY FIVE
-3256	twentysixcircle	CIRCLED NUMBER TWENTY SIX
-3257	twentysevencircle	CIRCLED NUMBER TWENTY SEVEN
-3258	twentyeightcircle	CIRCLED NUMBER TWENTY EIGHT
-3259	twentyninecircle	CIRCLED NUMBER TWENTY NINE
-325A	thirtycircle	CIRCLED NUMBER THIRTY
-325B	thirtyonecircle	CIRCLED NUMBER THIRTY ONE
-325C	thirtytwocircle	CIRCLED NUMBER THIRTY TWO
-325D	thirtythreecircle	CIRCLED NUMBER THIRTY THREE
-325E	thirtyfourcircle	CIRCLED NUMBER THIRTY FOUR
-325F	thirtyfivecircle	CIRCLED NUMBER THIRTY FIVE
-3260	kiyeokcirclekorean	CIRCLED HANGUL KIYEOK
-3261	nieuncirclekorean	CIRCLED HANGUL NIEUN
-3262	tikeutcirclekorean	CIRCLED HANGUL TIKEUT
-3263	rieulcirclekorean	CIRCLED HANGUL RIEUL
-3264	mieumcirclekorean	CIRCLED HANGUL MIEUM
-3265	pieupcirclekorean	CIRCLED HANGUL PIEUP
-3266	sioscirclekorean	CIRCLED HANGUL SIOS
-3267	ieungcirclekorean	CIRCLED HANGUL IEUNG
-3268	cieuccirclekorean	CIRCLED HANGUL CIEUC
-3269	chieuchcirclekorean	CIRCLED HANGUL CHIEUCH
-326A	khieukhcirclekorean	CIRCLED HANGUL KHIEUKH
-326B	thieuthcirclekorean	CIRCLED HANGUL THIEUTH
-326C	phieuphcirclekorean	CIRCLED HANGUL PHIEUPH
-326D	hieuhcirclekorean	CIRCLED HANGUL HIEUH
-326E	kiyeokacirclekorean	CIRCLED HANGUL KIYEOK A
-326F	nieunacirclekorean	CIRCLED HANGUL NIEUN A
-3270	tikeutacirclekorean	CIRCLED HANGUL TIKEUT A
-3271	rieulacirclekorean	CIRCLED HANGUL RIEUL A
-3272	mieumacirclekorean	CIRCLED HANGUL MIEUM A
-3273	pieupacirclekorean	CIRCLED HANGUL PIEUP A
-3274	siosacirclekorean	CIRCLED HANGUL SIOS A
-3275	ieungacirclekorean	CIRCLED HANGUL IEUNG A
-3276	cieucacirclekorean	CIRCLED HANGUL CIEUC A
-3277	chieuchacirclekorean	CIRCLED HANGUL CHIEUCH A
-3278	khieukhacirclekorean	CIRCLED HANGUL KHIEUKH A
-3279	thieuthacirclekorean	CIRCLED HANGUL THIEUTH A
-327A	phieuphacirclekorean	CIRCLED HANGUL PHIEUPH A
-327B	hieuhacirclekorean	CIRCLED HANGUL HIEUH A
-327C	chamkocircle	CIRCLED KOREAN CHARACTER CHAMKO
-327D	jueuicircle	CIRCLED KOREAN CHARACTER JUEUI
-327E	ieungucirclekorean	CIRCLED HANGUL IEUNG U
-327F	koreanstandardsymbol	KOREAN STANDARD SYMBOL
-3280	oneideographiccircled	CIRCLED IDEOGRAPH ONE
-3281	twoideographiccircled	CIRCLED IDEOGRAPH TWO
-3282	threeideographiccircled	CIRCLED IDEOGRAPH THREE
-3283	fourideographiccircled	CIRCLED IDEOGRAPH FOUR
-3284	fiveideographiccircled	CIRCLED IDEOGRAPH FIVE
-3285	sixideographiccircled	CIRCLED IDEOGRAPH SIX
-3286	sevenideographiccircled	CIRCLED IDEOGRAPH SEVEN
-3287	eightideographiccircled	CIRCLED IDEOGRAPH EIGHT
-3288	nineideographiccircled	CIRCLED IDEOGRAPH NINE
-3289	tenideographiccircled	CIRCLED IDEOGRAPH TEN
-328A	moonideographiccircled	CIRCLED IDEOGRAPH MOON
-328B	fireideographiccircled	CIRCLED IDEOGRAPH FIRE
-328C	waterideographiccircled	CIRCLED IDEOGRAPH WATER
-328D	woodideographiccircled	CIRCLED IDEOGRAPH WOOD
-328E	metalideographiccircled	CIRCLED IDEOGRAPH METAL
-328F	earthideographiccircled	CIRCLED IDEOGRAPH EARTH
-3290	sunideographiccircled	CIRCLED IDEOGRAPH SUN
-3291	stockideographiccircled	CIRCLED IDEOGRAPH STOCK
-3292	haveideographiccircled	CIRCLED IDEOGRAPH HAVE
-3293	societyideographiccircled	CIRCLED IDEOGRAPH SOCIETY
-3294	nameideographiccircled	CIRCLED IDEOGRAPH NAME
-3295	specialideographiccircled	CIRCLED IDEOGRAPH SPECIAL
-3296	financialideographiccircled	CIRCLED IDEOGRAPH FINANCIAL
-3297	congratulationideographiccircled	CIRCLED IDEOGRAPH CONGRATULATION
-3298	laborideographiccircled	CIRCLED IDEOGRAPH LABOR
-3299	secretideographiccircled	CIRCLED IDEOGRAPH SECRET
-329A	maleideographiccircled	CIRCLED IDEOGRAPH MALE
-329B	femaleideographiccircled	CIRCLED IDEOGRAPH FEMALE
-329C	suitableideographiccircled	CIRCLED IDEOGRAPH SUITABLE
-329D	excellentideographiccircled	CIRCLED IDEOGRAPH EXCELLENT
-329E	printideographiccircled	CIRCLED IDEOGRAPH PRINT
-329F	attentionideographiccircled	CIRCLED IDEOGRAPH ATTENTION
-32A0	itemideographiccircled	CIRCLED IDEOGRAPH ITEM
-32A1	restideographiccircled	CIRCLED IDEOGRAPH REST
-32A2	copyideographiccircled	CIRCLED IDEOGRAPH COPY
-32A3	correctideographiccircled	CIRCLED IDEOGRAPH CORRECT
-32A4	highideographiccircled	CIRCLED IDEOGRAPH HIGH
-32A5	centreideographiccircled	CIRCLED IDEOGRAPH CENTRE
-32A6	lowideographiccircled	CIRCLED IDEOGRAPH LOW
-32A7	leftideographiccircled	CIRCLED IDEOGRAPH LEFT
-32A8	rightideographiccircled	CIRCLED IDEOGRAPH RIGHT
-32A9	medicineideographiccircled	CIRCLED IDEOGRAPH MEDICINE
-32AA	religionideographiccircled	CIRCLED IDEOGRAPH RELIGION
-32AB	studyideographiccircled	CIRCLED IDEOGRAPH STUDY
-32AC	superviseideographiccircled	CIRCLED IDEOGRAPH SUPERVISE
-32AD	enterpriseideographiccircled	CIRCLED IDEOGRAPH ENTERPRISE
-32AE	resourceideographiccircled	CIRCLED IDEOGRAPH RESOURCE
-32AF	allianceideographiccircled	CIRCLED IDEOGRAPH ALLIANCE
-32B0	nightideographiccircled	CIRCLED IDEOGRAPH NIGHT
-32B1	thirtysixcircle	CIRCLED NUMBER THIRTY SIX
-32B2	thirtysevencircle	CIRCLED NUMBER THIRTY SEVEN
-32B3	thirtyeightcircle	CIRCLED NUMBER THIRTY EIGHT
-32B4	thirtyninecircle	CIRCLED NUMBER THIRTY NINE
-32B5	fortycircle	CIRCLED NUMBER FORTY
-32B6	fortyonecircle	CIRCLED NUMBER FORTY ONE
-32B7	fortytwocircle	CIRCLED NUMBER FORTY TWO
-32B8	fortythreecircle	CIRCLED NUMBER FORTY THREE
-32B9	fortyfourcircle	CIRCLED NUMBER FORTY FOUR
-32BA	fortyfivecircle	CIRCLED NUMBER FORTY FIVE
-32BB	fortysixcircle	CIRCLED NUMBER FORTY SIX
-32BC	fortysevencircle	CIRCLED NUMBER FORTY SEVEN
-32BD	fortyeightcircle	CIRCLED NUMBER FORTY EIGHT
-32BE	fortyninecircle	CIRCLED NUMBER FORTY NINE
-32BF	fiftycircle	CIRCLED NUMBER FIFTY
-32C0	januarytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY
-32C1	februarytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR FEBRUARY
-32C2	marchtelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR MARCH
-32C3	apriltelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR APRIL
-32C4	maytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR MAY
-32C5	junetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR JUNE
-32C6	julytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR JULY
-32C7	augusttelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR AUGUST
-32C8	septembertelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR SEPTEMBER
-32C9	octobertelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR OCTOBER
-32CA	novembertelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR NOVEMBER
-32CB	decembertelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DECEMBER
-32CC	Hgfullwidth	SQUARE HG
-32CD	ergfullwidth	SQUARE ERG
-32CE	eVfullwidth	SQUARE EV
-32CF	LTDfullwidth	LIMITED LIABILITY SIGN
-32D0	acirclekatakana	CIRCLED KATAKANA A
-32D1	icirclekatakana	CIRCLED KATAKANA I
-32D2	ucirclekatakana	CIRCLED KATAKANA U
-32D3	ecirclekatakana	CIRCLED KATAKANA E
-32D4	ocirclekatakana	CIRCLED KATAKANA O
-32D5	kacirclekatakana	CIRCLED KATAKANA KA
-32D6	kicirclekatakana	CIRCLED KATAKANA KI
-32D7	kucirclekatakana	CIRCLED KATAKANA KU
-32D8	kecirclekatakana	CIRCLED KATAKANA KE
-32D9	kocirclekatakana	CIRCLED KATAKANA KO
-32DA	sacirclekatakana	CIRCLED KATAKANA SA
-32DB	sicirclekatakana	CIRCLED KATAKANA SI
-32DC	sucirclekatakana	CIRCLED KATAKANA SU
-32DD	secirclekatakana	CIRCLED KATAKANA SE
-32DE	socirclekatakana	CIRCLED KATAKANA SO
-32DF	tacirclekatakana	CIRCLED KATAKANA TA
-32E0	ticirclekatakana	CIRCLED KATAKANA TI
-32E1	tucirclekatakana	CIRCLED KATAKANA TU
-32E2	tecirclekatakana	CIRCLED KATAKANA TE
-32E3	tocirclekatakana	CIRCLED KATAKANA TO
-32E4	nacirclekatakana	CIRCLED KATAKANA NA
-32E5	nicirclekatakana	CIRCLED KATAKANA NI
-32E6	nucirclekatakana	CIRCLED KATAKANA NU
-32E7	necirclekatakana	CIRCLED KATAKANA NE
-32E8	nocirclekatakana	CIRCLED KATAKANA NO
-32E9	hacirclekatakana	CIRCLED KATAKANA HA
-32EA	hicirclekatakana	CIRCLED KATAKANA HI
-32EB	hucirclekatakana	CIRCLED KATAKANA HU
-32EC	hecirclekatakana	CIRCLED KATAKANA HE
-32ED	hocirclekatakana	CIRCLED KATAKANA HO
-32EE	macirclekatakana	CIRCLED KATAKANA MA
-32EF	micirclekatakana	CIRCLED KATAKANA MI
-32F0	mucirclekatakana	CIRCLED KATAKANA MU
-32F1	mecirclekatakana	CIRCLED KATAKANA ME
-32F2	mocirclekatakana	CIRCLED KATAKANA MO
-32F3	yacirclekatakana	CIRCLED KATAKANA YA
-32F4	yucirclekatakana	CIRCLED KATAKANA YU
-32F5	yocirclekatakana	CIRCLED KATAKANA YO
-32F6	racirclekatakana	CIRCLED KATAKANA RA
-32F7	ricirclekatakana	CIRCLED KATAKANA RI
-32F8	rucirclekatakana	CIRCLED KATAKANA RU
-32F9	recirclekatakana	CIRCLED KATAKANA RE
-32FA	rocirclekatakana	CIRCLED KATAKANA RO
-32FB	wacirclekatakana	CIRCLED KATAKANA WA
-32FC	wicirclekatakana	CIRCLED KATAKANA WI
-32FD	wecirclekatakana	CIRCLED KATAKANA WE
-32FE	wocirclekatakana	CIRCLED KATAKANA WO
+3200	cjk-hangulkiyeokparen	PARENTHESIZED HANGUL KIYEOK
+3201	cjk-hangulnieunparen	PARENTHESIZED HANGUL NIEUN
+3202	cjk-hangultikeutparen	PARENTHESIZED HANGUL TIKEUT
+3203	cjk-hangulrieulparen	PARENTHESIZED HANGUL RIEUL
+3204	cjk-hangulmieumparen	PARENTHESIZED HANGUL MIEUM
+3205	cjk-hangulpieupparen	PARENTHESIZED HANGUL PIEUP
+3206	cjk-hangulsiosparen	PARENTHESIZED HANGUL SIOS
+3207	cjk-hangulieungparen	PARENTHESIZED HANGUL IEUNG
+3208	cjk-hangulcieucparen	PARENTHESIZED HANGUL CIEUC
+3209	cjk-hangulchieuchparen	PARENTHESIZED HANGUL CHIEUCH
+320A	cjk-hangulkhieukhparen	PARENTHESIZED HANGUL KHIEUKH
+320B	cjk-hangulthieuthparen	PARENTHESIZED HANGUL THIEUTH
+320C	cjk-hangulphieuphparen	PARENTHESIZED HANGUL PHIEUPH
+320D	cjk-hangulhieuhparen	PARENTHESIZED HANGUL HIEUH
+320E	cjk-hangulkiyeokaparen	PARENTHESIZED HANGUL KIYEOK A
+320F	cjk-hangulnieunaparen	PARENTHESIZED HANGUL NIEUN A
+3210	cjk-hangultikeutaparen	PARENTHESIZED HANGUL TIKEUT A
+3211	cjk-hangulrieulaparen	PARENTHESIZED HANGUL RIEUL A
+3212	cjk-hangulmieumaparen	PARENTHESIZED HANGUL MIEUM A
+3213	cjk-hangulpieupaparen	PARENTHESIZED HANGUL PIEUP A
+3214	cjk-hangulsiosaparen	PARENTHESIZED HANGUL SIOS A
+3215	cjk-hangulieungaparen	PARENTHESIZED HANGUL IEUNG A
+3216	cjk-hangulcieucaparen	PARENTHESIZED HANGUL CIEUC A
+3217	cjk-hangulchieuchaparen	PARENTHESIZED HANGUL CHIEUCH A
+3218	cjk-hangulkhieukhaparen	PARENTHESIZED HANGUL KHIEUKH A
+3219	cjk-hangulthieuthaparen	PARENTHESIZED HANGUL THIEUTH A
+321A	cjk-hangulphieuphaparen	PARENTHESIZED HANGUL PHIEUPH A
+321B	cjk-hangulhieuhaparen	PARENTHESIZED HANGUL HIEUH A
+321C	cjk-hangulcieucuparen	PARENTHESIZED HANGUL CIEUC U
+321D	cjk-ojeonparen	PARENTHESIZED KOREAN CHARACTER OJEON
+321E	cjk-ohuparen	PARENTHESIZED KOREAN CHARACTER O HU
+3220	cjk-oneideographicparen	PARENTHESIZED IDEOGRAPH ONE
+3221	cjk-twoideographicparen	PARENTHESIZED IDEOGRAPH TWO
+3222	cjk-threeideographicparen	PARENTHESIZED IDEOGRAPH THREE
+3223	cjk-fourideographicparen	PARENTHESIZED IDEOGRAPH FOUR
+3224	cjk-fiveideographicparen	PARENTHESIZED IDEOGRAPH FIVE
+3225	cjk-sixideographicparen	PARENTHESIZED IDEOGRAPH SIX
+3226	cjk-sevenideographicparen	PARENTHESIZED IDEOGRAPH SEVEN
+3227	cjk-eightideographicparen	PARENTHESIZED IDEOGRAPH EIGHT
+3228	cjk-nineideographicparen	PARENTHESIZED IDEOGRAPH NINE
+3229	cjk-tenideographicparen	PARENTHESIZED IDEOGRAPH TEN
+322A	cjk-moonideographicparen	PARENTHESIZED IDEOGRAPH MOON
+322B	cjk-fireideographicparen	PARENTHESIZED IDEOGRAPH FIRE
+322C	cjk-waterideographicparen	PARENTHESIZED IDEOGRAPH WATER
+322D	cjk-woodideographicparen	PARENTHESIZED IDEOGRAPH WOOD
+322E	cjk-metalideographicparen	PARENTHESIZED IDEOGRAPH METAL
+322F	cjk-earthideographicparen	PARENTHESIZED IDEOGRAPH EARTH
+3230	cjk-sunideographicparen	PARENTHESIZED IDEOGRAPH SUN
+3231	cjk-stockideographicparen	PARENTHESIZED IDEOGRAPH STOCK
+3232	cjk-haveideographicparen	PARENTHESIZED IDEOGRAPH HAVE
+3233	cjk-societyideographicparen	PARENTHESIZED IDEOGRAPH SOCIETY
+3234	cjk-nameideographicparen	PARENTHESIZED IDEOGRAPH NAME
+3235	cjk-specialideographicparen	PARENTHESIZED IDEOGRAPH SPECIAL
+3236	cjk-financialideographicparen	PARENTHESIZED IDEOGRAPH FINANCIAL
+3237	cjk-congratulationideographicparen	PARENTHESIZED IDEOGRAPH CONGRATULATION
+3238	cjk-laborideographicparen	PARENTHESIZED IDEOGRAPH LABOR
+3239	cjk-representideographicparen	PARENTHESIZED IDEOGRAPH REPRESENT
+323A	cjk-callideographicparen	PARENTHESIZED IDEOGRAPH CALL
+323B	cjk-studyideographicparen	PARENTHESIZED IDEOGRAPH STUDY
+323C	cjk-superviseideographicparen	PARENTHESIZED IDEOGRAPH SUPERVISE
+323D	cjk-enterpriseideographicparen	PARENTHESIZED IDEOGRAPH ENTERPRISE
+323E	cjk-resourceideographicparen	PARENTHESIZED IDEOGRAPH RESOURCE
+323F	cjk-allianceideographicparen	PARENTHESIZED IDEOGRAPH ALLIANCE
+3240	cjk-festivalideographicparen	PARENTHESIZED IDEOGRAPH FESTIVAL
+3241	cjk-restideographicparen	PARENTHESIZED IDEOGRAPH REST
+3242	cjk-selfideographicparen	PARENTHESIZED IDEOGRAPH SELF
+3243	cjk-reachideographicparen	PARENTHESIZED IDEOGRAPH REACH
+3244	cjk-questionideographiccircled	CIRCLED IDEOGRAPH QUESTION
+3245	cjk-kindergartenideographiccircled	CIRCLED IDEOGRAPH KINDERGARTEN
+3246	cjk-schoolideographiccircled	CIRCLED IDEOGRAPH SCHOOL
+3247	cjk-kotoideographiccircled	CIRCLED IDEOGRAPH KOTO
+3248	cjk-tencirclesquare	CIRCLED NUMBER TEN ON BLACK SQUARE
+3249	cjk-twentycirclesquare	CIRCLED NUMBER TWENTY ON BLACK SQUARE
+324A	cjk-thirtycirclesquare	CIRCLED NUMBER THIRTY ON BLACK SQUARE
+324B	cjk-fortycirclesquare	CIRCLED NUMBER FORTY ON BLACK SQUARE
+324C	cjk-fiftycirclesquare	CIRCLED NUMBER FIFTY ON BLACK SQUARE
+324D	cjk-sixtycirclesquare	CIRCLED NUMBER SIXTY ON BLACK SQUARE
+324E	cjk-seventycirclesquare	CIRCLED NUMBER SEVENTY ON BLACK SQUARE
+324F	cjk-eightycirclesquare	CIRCLED NUMBER EIGHTY ON BLACK SQUARE
+3250	cjk-partnership	PARTNERSHIP SIGN
+3251	cjk-twentyonecircle	CIRCLED NUMBER TWENTY ONE
+3252	cjk-twentytwocircle	CIRCLED NUMBER TWENTY TWO
+3253	cjk-twentythreecircle	CIRCLED NUMBER TWENTY THREE
+3254	cjk-twentyfourcircle	CIRCLED NUMBER TWENTY FOUR
+3255	cjk-twentyfivecircle	CIRCLED NUMBER TWENTY FIVE
+3256	cjk-twentysixcircle	CIRCLED NUMBER TWENTY SIX
+3257	cjk-twentysevencircle	CIRCLED NUMBER TWENTY SEVEN
+3258	cjk-twentyeightcircle	CIRCLED NUMBER TWENTY EIGHT
+3259	cjk-twentyninecircle	CIRCLED NUMBER TWENTY NINE
+325A	cjk-thirtycircle	CIRCLED NUMBER THIRTY
+325B	cjk-thirtyonecircle	CIRCLED NUMBER THIRTY ONE
+325C	cjk-thirtytwocircle	CIRCLED NUMBER THIRTY TWO
+325D	cjk-thirtythreecircle	CIRCLED NUMBER THIRTY THREE
+325E	cjk-thirtyfourcircle	CIRCLED NUMBER THIRTY FOUR
+325F	cjk-thirtyfivecircle	CIRCLED NUMBER THIRTY FIVE
+3260	cjk-kiyeokcirclekorean	CIRCLED HANGUL KIYEOK
+3261	cjk-nieuncirclekorean	CIRCLED HANGUL NIEUN
+3262	cjk-tikeutcirclekorean	CIRCLED HANGUL TIKEUT
+3263	cjk-rieulcirclekorean	CIRCLED HANGUL RIEUL
+3264	cjk-mieumcirclekorean	CIRCLED HANGUL MIEUM
+3265	cjk-pieupcirclekorean	CIRCLED HANGUL PIEUP
+3266	cjk-sioscirclekorean	CIRCLED HANGUL SIOS
+3267	cjk-ieungcirclekorean	CIRCLED HANGUL IEUNG
+3268	cjk-cieuccirclekorean	CIRCLED HANGUL CIEUC
+3269	cjk-chieuchcirclekorean	CIRCLED HANGUL CHIEUCH
+326A	cjk-khieukhcirclekorean	CIRCLED HANGUL KHIEUKH
+326B	cjk-thieuthcirclekorean	CIRCLED HANGUL THIEUTH
+326C	cjk-phieuphcirclekorean	CIRCLED HANGUL PHIEUPH
+326D	cjk-hieuhcirclekorean	CIRCLED HANGUL HIEUH
+326E	cjk-kiyeokacirclekorean	CIRCLED HANGUL KIYEOK A
+326F	cjk-nieunacirclekorean	CIRCLED HANGUL NIEUN A
+3270	cjk-tikeutacirclekorean	CIRCLED HANGUL TIKEUT A
+3271	cjk-rieulacirclekorean	CIRCLED HANGUL RIEUL A
+3272	cjk-mieumacirclekorean	CIRCLED HANGUL MIEUM A
+3273	cjk-pieupacirclekorean	CIRCLED HANGUL PIEUP A
+3274	cjk-siosacirclekorean	CIRCLED HANGUL SIOS A
+3275	cjk-ieungacirclekorean	CIRCLED HANGUL IEUNG A
+3276	cjk-cieucacirclekorean	CIRCLED HANGUL CIEUC A
+3277	cjk-chieuchacirclekorean	CIRCLED HANGUL CHIEUCH A
+3278	cjk-khieukhacirclekorean	CIRCLED HANGUL KHIEUKH A
+3279	cjk-thieuthacirclekorean	CIRCLED HANGUL THIEUTH A
+327A	cjk-phieuphacirclekorean	CIRCLED HANGUL PHIEUPH A
+327B	cjk-hieuhacirclekorean	CIRCLED HANGUL HIEUH A
+327C	cjk-chamkocircle	CIRCLED KOREAN CHARACTER CHAMKO
+327D	cjk-jueuicircle	CIRCLED KOREAN CHARACTER JUEUI
+327E	cjk-ieungucirclekorean	CIRCLED HANGUL IEUNG U
+327F	cjk-koreanstandardsymbol	KOREAN STANDARD SYMBOL
+3280	cjk-oneideographiccircled	CIRCLED IDEOGRAPH ONE
+3281	cjk-twoideographiccircled	CIRCLED IDEOGRAPH TWO
+3282	cjk-threeideographiccircled	CIRCLED IDEOGRAPH THREE
+3283	cjk-fourideographiccircled	CIRCLED IDEOGRAPH FOUR
+3284	cjk-fiveideographiccircled	CIRCLED IDEOGRAPH FIVE
+3285	cjk-sixideographiccircled	CIRCLED IDEOGRAPH SIX
+3286	cjk-sevenideographiccircled	CIRCLED IDEOGRAPH SEVEN
+3287	cjk-eightideographiccircled	CIRCLED IDEOGRAPH EIGHT
+3288	cjk-nineideographiccircled	CIRCLED IDEOGRAPH NINE
+3289	cjk-tenideographiccircled	CIRCLED IDEOGRAPH TEN
+328A	cjk-moonideographiccircled	CIRCLED IDEOGRAPH MOON
+328B	cjk-fireideographiccircled	CIRCLED IDEOGRAPH FIRE
+328C	cjk-waterideographiccircled	CIRCLED IDEOGRAPH WATER
+328D	cjk-woodideographiccircled	CIRCLED IDEOGRAPH WOOD
+328E	cjk-metalideographiccircled	CIRCLED IDEOGRAPH METAL
+328F	cjk-earthideographiccircled	CIRCLED IDEOGRAPH EARTH
+3290	cjk-sunideographiccircled	CIRCLED IDEOGRAPH SUN
+3291	cjk-stockideographiccircled	CIRCLED IDEOGRAPH STOCK
+3292	cjk-haveideographiccircled	CIRCLED IDEOGRAPH HAVE
+3293	cjk-societyideographiccircled	CIRCLED IDEOGRAPH SOCIETY
+3294	cjk-nameideographiccircled	CIRCLED IDEOGRAPH NAME
+3295	cjk-specialideographiccircled	CIRCLED IDEOGRAPH SPECIAL
+3296	cjk-financialideographiccircled	CIRCLED IDEOGRAPH FINANCIAL
+3297	cjk-congratulationideographiccircled	CIRCLED IDEOGRAPH CONGRATULATION
+3298	cjk-laborideographiccircled	CIRCLED IDEOGRAPH LABOR
+3299	cjk-secretideographiccircled	CIRCLED IDEOGRAPH SECRET
+329A	cjk-maleideographiccircled	CIRCLED IDEOGRAPH MALE
+329B	cjk-femaleideographiccircled	CIRCLED IDEOGRAPH FEMALE
+329C	cjk-suitableideographiccircled	CIRCLED IDEOGRAPH SUITABLE
+329D	cjk-excellentideographiccircled	CIRCLED IDEOGRAPH EXCELLENT
+329E	cjk-printideographiccircled	CIRCLED IDEOGRAPH PRINT
+329F	cjk-attentionideographiccircled	CIRCLED IDEOGRAPH ATTENTION
+32A0	cjk-itemideographiccircled	CIRCLED IDEOGRAPH ITEM
+32A1	cjk-restideographiccircled	CIRCLED IDEOGRAPH REST
+32A2	cjk-copyideographiccircled	CIRCLED IDEOGRAPH COPY
+32A3	cjk-correctideographiccircled	CIRCLED IDEOGRAPH CORRECT
+32A4	cjk-highideographiccircled	CIRCLED IDEOGRAPH HIGH
+32A5	cjk-centreideographiccircled	CIRCLED IDEOGRAPH CENTRE
+32A6	cjk-lowideographiccircled	CIRCLED IDEOGRAPH LOW
+32A7	cjk-leftideographiccircled	CIRCLED IDEOGRAPH LEFT
+32A8	cjk-rightideographiccircled	CIRCLED IDEOGRAPH RIGHT
+32A9	cjk-medicineideographiccircled	CIRCLED IDEOGRAPH MEDICINE
+32AA	cjk-religionideographiccircled	CIRCLED IDEOGRAPH RELIGION
+32AB	cjk-studyideographiccircled	CIRCLED IDEOGRAPH STUDY
+32AC	cjk-superviseideographiccircled	CIRCLED IDEOGRAPH SUPERVISE
+32AD	cjk-enterpriseideographiccircled	CIRCLED IDEOGRAPH ENTERPRISE
+32AE	cjk-resourceideographiccircled	CIRCLED IDEOGRAPH RESOURCE
+32AF	cjk-allianceideographiccircled	CIRCLED IDEOGRAPH ALLIANCE
+32B0	cjk-nightideographiccircled	CIRCLED IDEOGRAPH NIGHT
+32B1	cjk-thirtysixcircle	CIRCLED NUMBER THIRTY SIX
+32B2	cjk-thirtysevencircle	CIRCLED NUMBER THIRTY SEVEN
+32B3	cjk-thirtyeightcircle	CIRCLED NUMBER THIRTY EIGHT
+32B4	cjk-thirtyninecircle	CIRCLED NUMBER THIRTY NINE
+32B5	cjk-fortycircle	CIRCLED NUMBER FORTY
+32B6	cjk-fortyonecircle	CIRCLED NUMBER FORTY ONE
+32B7	cjk-fortytwocircle	CIRCLED NUMBER FORTY TWO
+32B8	cjk-fortythreecircle	CIRCLED NUMBER FORTY THREE
+32B9	cjk-fortyfourcircle	CIRCLED NUMBER FORTY FOUR
+32BA	cjk-fortyfivecircle	CIRCLED NUMBER FORTY FIVE
+32BB	cjk-fortysixcircle	CIRCLED NUMBER FORTY SIX
+32BC	cjk-fortysevencircle	CIRCLED NUMBER FORTY SEVEN
+32BD	cjk-fortyeightcircle	CIRCLED NUMBER FORTY EIGHT
+32BE	cjk-fortyninecircle	CIRCLED NUMBER FORTY NINE
+32BF	cjk-fiftycircle	CIRCLED NUMBER FIFTY
+32C0	cjk-januarytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY
+32C1	cjk-februarytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR FEBRUARY
+32C2	cjk-marchtelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR MARCH
+32C3	cjk-apriltelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR APRIL
+32C4	cjk-maytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR MAY
+32C5	cjk-junetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR JUNE
+32C6	cjk-julytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR JULY
+32C7	cjk-augusttelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR AUGUST
+32C8	cjk-septembertelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR SEPTEMBER
+32C9	cjk-octobertelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR OCTOBER
+32CA	cjk-novembertelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR NOVEMBER
+32CB	cjk-decembertelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DECEMBER
+32CC	cjk-Hgfullwidth	SQUARE HG
+32CD	cjk-ergfullwidth	SQUARE ERG
+32CE	cjk-eVfullwidth	SQUARE EV
+32CF	cjk-LTDfullwidth	LIMITED LIABILITY SIGN
+32D0	cjk-acirclekatakana	CIRCLED KATAKANA A
+32D1	cjk-icirclekatakana	CIRCLED KATAKANA I
+32D2	cjk-ucirclekatakana	CIRCLED KATAKANA U
+32D3	cjk-ecirclekatakana	CIRCLED KATAKANA E
+32D4	cjk-ocirclekatakana	CIRCLED KATAKANA O
+32D5	cjk-kacirclekatakana	CIRCLED KATAKANA KA
+32D6	cjk-kicirclekatakana	CIRCLED KATAKANA KI
+32D7	cjk-kucirclekatakana	CIRCLED KATAKANA KU
+32D8	cjk-kecirclekatakana	CIRCLED KATAKANA KE
+32D9	cjk-kocirclekatakana	CIRCLED KATAKANA KO
+32DA	cjk-sacirclekatakana	CIRCLED KATAKANA SA
+32DB	cjk-sicirclekatakana	CIRCLED KATAKANA SI
+32DC	cjk-sucirclekatakana	CIRCLED KATAKANA SU
+32DD	cjk-secirclekatakana	CIRCLED KATAKANA SE
+32DE	cjk-socirclekatakana	CIRCLED KATAKANA SO
+32DF	cjk-tacirclekatakana	CIRCLED KATAKANA TA
+32E0	cjk-ticirclekatakana	CIRCLED KATAKANA TI
+32E1	cjk-tucirclekatakana	CIRCLED KATAKANA TU
+32E2	cjk-tecirclekatakana	CIRCLED KATAKANA TE
+32E3	cjk-tocirclekatakana	CIRCLED KATAKANA TO
+32E4	cjk-nacirclekatakana	CIRCLED KATAKANA NA
+32E5	cjk-nicirclekatakana	CIRCLED KATAKANA NI
+32E6	cjk-nucirclekatakana	CIRCLED KATAKANA NU
+32E7	cjk-necirclekatakana	CIRCLED KATAKANA NE
+32E8	cjk-nocirclekatakana	CIRCLED KATAKANA NO
+32E9	cjk-hacirclekatakana	CIRCLED KATAKANA HA
+32EA	cjk-hicirclekatakana	CIRCLED KATAKANA HI
+32EB	cjk-hucirclekatakana	CIRCLED KATAKANA HU
+32EC	cjk-hecirclekatakana	CIRCLED KATAKANA HE
+32ED	cjk-hocirclekatakana	CIRCLED KATAKANA HO
+32EE	cjk-macirclekatakana	CIRCLED KATAKANA MA
+32EF	cjk-micirclekatakana	CIRCLED KATAKANA MI
+32F0	cjk-mucirclekatakana	CIRCLED KATAKANA MU
+32F1	cjk-mecirclekatakana	CIRCLED KATAKANA ME
+32F2	cjk-mocirclekatakana	CIRCLED KATAKANA MO
+32F3	cjk-yacirclekatakana	CIRCLED KATAKANA YA
+32F4	cjk-yucirclekatakana	CIRCLED KATAKANA YU
+32F5	cjk-yocirclekatakana	CIRCLED KATAKANA YO
+32F6	cjk-racirclekatakana	CIRCLED KATAKANA RA
+32F7	cjk-ricirclekatakana	CIRCLED KATAKANA RI
+32F8	cjk-rucirclekatakana	CIRCLED KATAKANA RU
+32F9	cjk-recirclekatakana	CIRCLED KATAKANA RE
+32FA	cjk-rocirclekatakana	CIRCLED KATAKANA RO
+32FB	cjk-wacirclekatakana	CIRCLED KATAKANA WA
+32FC	cjk-wicirclekatakana	CIRCLED KATAKANA WI
+32FD	cjk-wecirclekatakana	CIRCLED KATAKANA WE
+32FE	cjk-wocirclekatakana	CIRCLED KATAKANA WO

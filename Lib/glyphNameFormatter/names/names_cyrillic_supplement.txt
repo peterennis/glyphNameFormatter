@@ -1,39 +1,39 @@
 # Cyrillic Supplement 0500 - 052F
-0500	cyrilliccapitalletterkomide	CYRILLIC CAPITAL LETTER KOMI DE
-0501	cyrillicsmallletterkomide	CYRILLIC SMALL LETTER KOMI DE
-0502	cyrilliccapitalletterkomidje	CYRILLIC CAPITAL LETTER KOMI DJE
-0503	cyrillicsmallletterkomidje	CYRILLIC SMALL LETTER KOMI DJE
-0504	cyrilliccapitalletterkomizje	CYRILLIC CAPITAL LETTER KOMI ZJE
-0505	cyrillicsmallletterkomizje	CYRILLIC SMALL LETTER KOMI ZJE
-0506	cyrilliccapitalletterkomidzje	CYRILLIC CAPITAL LETTER KOMI DZJE
-0507	cyrillicsmallletterkomidzje	CYRILLIC SMALL LETTER KOMI DZJE
-0508	cyrilliccapitalletterkomilje	CYRILLIC CAPITAL LETTER KOMI LJE
-0509	cyrillicsmallletterkomilje	CYRILLIC SMALL LETTER KOMI LJE
-050A	cyrilliccapitalletterkominje	CYRILLIC CAPITAL LETTER KOMI NJE
-050B	cyrillicsmallletterkominje	CYRILLIC SMALL LETTER KOMI NJE
-050C	cyrilliccapitalletterkomisje	CYRILLIC CAPITAL LETTER KOMI SJE
-050D	cyrillicsmallletterkomisje	CYRILLIC SMALL LETTER KOMI SJE
-050E	cyrilliccapitalletterkomitje	CYRILLIC CAPITAL LETTER KOMI TJE
-050F	cyrillicsmallletterkomitje	CYRILLIC SMALL LETTER KOMI TJE
-0510	cyrilliccapitalletterreversedze	CYRILLIC CAPITAL LETTER REVERSED ZE
-0511	cyrillicsmallletterreversedze	CYRILLIC SMALL LETTER REVERSED ZE
-0512	cyrilliccapitalletterelwithhook	CYRILLIC CAPITAL LETTER EL WITH HOOK
-0513	cyrillicsmallletterelwithhook	CYRILLIC SMALL LETTER EL WITH HOOK
-0514	cyrilliccapitalletterlha	CYRILLIC CAPITAL LETTER LHA
-0515	cyrillicsmallletterlha	CYRILLIC SMALL LETTER LHA
-0516	cyrilliccapitalletterrha	CYRILLIC CAPITAL LETTER RHA
-0517	cyrillicsmallletterrha	CYRILLIC SMALL LETTER RHA
-0518	cyrilliccapitalletteryae	CYRILLIC CAPITAL LETTER YAE
-0519	cyrillicsmallletteryae	CYRILLIC SMALL LETTER YAE
-051A	cyrilliccapitalletterqa	CYRILLIC CAPITAL LETTER QA
-051B	cyrillicsmallletterqa	CYRILLIC SMALL LETTER QA
-051C	cyrilliccapitalletterwe	CYRILLIC CAPITAL LETTER WE
-051D	cyrillicsmallletterwe	CYRILLIC SMALL LETTER WE
-051E	cyrilliccapitalletteraleutka	CYRILLIC CAPITAL LETTER ALEUT KA
-051F	cyrillicsmallletteraleutka	CYRILLIC SMALL LETTER ALEUT KA
-0520	cyrilliccapitalletterelwithmiddlehook	CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
-0521	cyrillicsmallletterelwithmiddlehook	CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
-0522	cyrilliccapitalletterenwithmiddlehook	CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK
-0523	cyrillicsmallletterenwithmiddlehook	CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
-0524	cyrilliccapitalletterpewithdescender	CYRILLIC CAPITAL LETTER PE WITH DESCENDER
-0525	cyrillicsmallletterpewithdescender	CYRILLIC SMALL LETTER PE WITH DESCENDER
+0500	cyrilliccapitalletterkomidecyr	CYRILLIC CAPITAL LETTER KOMI DE
+0501	cyrillicsmallletterkomidecyr	CYRILLIC SMALL LETTER KOMI DE
+0502	cyrilliccapitalletterkomidjecyr	CYRILLIC CAPITAL LETTER KOMI DJE
+0503	cyrillicsmallletterkomidjecyr	CYRILLIC SMALL LETTER KOMI DJE
+0504	cyrilliccapitalletterkomizjecyr	CYRILLIC CAPITAL LETTER KOMI ZJE
+0505	cyrillicsmallletterkomizjecyr	CYRILLIC SMALL LETTER KOMI ZJE
+0506	cyrilliccapitalletterkomidzjecyr	CYRILLIC CAPITAL LETTER KOMI DZJE
+0507	cyrillicsmallletterkomidzjecyr	CYRILLIC SMALL LETTER KOMI DZJE
+0508	cyrilliccapitalletterkomiljecyr	CYRILLIC CAPITAL LETTER KOMI LJE
+0509	cyrillicsmallletterkomiljecyr	CYRILLIC SMALL LETTER KOMI LJE
+050A	cyrilliccapitalletterkominjecyr	CYRILLIC CAPITAL LETTER KOMI NJE
+050B	cyrillicsmallletterkominjecyr	CYRILLIC SMALL LETTER KOMI NJE
+050C	cyrilliccapitalletterkomisjecyr	CYRILLIC CAPITAL LETTER KOMI SJE
+050D	cyrillicsmallletterkomisjecyr	CYRILLIC SMALL LETTER KOMI SJE
+050E	cyrilliccapitalletterkomitjecyr	CYRILLIC CAPITAL LETTER KOMI TJE
+050F	cyrillicsmallletterkomitjecyr	CYRILLIC SMALL LETTER KOMI TJE
+0510	cyrilliccapitalletterreversedzecyr	CYRILLIC CAPITAL LETTER REVERSED ZE
+0511	cyrillicsmallletterreversedzecyr	CYRILLIC SMALL LETTER REVERSED ZE
+0512	cyrilliccapitalletterelwithhookcyr	CYRILLIC CAPITAL LETTER EL WITH HOOK
+0513	cyrillicsmallletterelwithhookcyr	CYRILLIC SMALL LETTER EL WITH HOOK
+0514	cyrilliccapitalletterlhacyr	CYRILLIC CAPITAL LETTER LHA
+0515	cyrillicsmallletterlhacyr	CYRILLIC SMALL LETTER LHA
+0516	cyrilliccapitalletterrhacyr	CYRILLIC CAPITAL LETTER RHA
+0517	cyrillicsmallletterrhacyr	CYRILLIC SMALL LETTER RHA
+0518	cyrilliccapitalletteryaecyr	CYRILLIC CAPITAL LETTER YAE
+0519	cyrillicsmallletteryaecyr	CYRILLIC SMALL LETTER YAE
+051A	cyrilliccapitalletterqacyr	CYRILLIC CAPITAL LETTER QA
+051B	cyrillicsmallletterqacyr	CYRILLIC SMALL LETTER QA
+051C	cyrilliccapitalletterwecyr	CYRILLIC CAPITAL LETTER WE
+051D	cyrillicsmallletterwecyr	CYRILLIC SMALL LETTER WE
+051E	cyrilliccapitalletteraleutkacyr	CYRILLIC CAPITAL LETTER ALEUT KA
+051F	cyrillicsmallletteraleutkacyr	CYRILLIC SMALL LETTER ALEUT KA
+0520	cyrilliccapitalletterelwithmiddlehookcyr	CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
+0521	cyrillicsmallletterelwithmiddlehookcyr	CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
+0522	cyrilliccapitalletterenwithmiddlehookcyr	CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK
+0523	cyrillicsmallletterenwithmiddlehookcyr	CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
+0524	cyrilliccapitalletterpewithdescendercyr	CYRILLIC CAPITAL LETTER PE WITH DESCENDER
+0525	cyrillicsmallletterpewithdescendercyr	CYRILLIC SMALL LETTER PE WITH DESCENDER

@@ -1,45 +1,45 @@
 # Miscellaneous Mathematical Symbols-A 27C0 - 27EF
-27C0	threedimensionalangle	THREE DIMENSIONAL ANGLE
-27C1	whitetrianglecontainingsmallwhitetriangle	WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE
-27C2	perpendicular	PERPENDICULAR
-27C3	opensubset	OPEN SUBSET
-27C4	opensuperset	OPEN SUPERSET
-27C5	leftsshapedbagdelimiter	LEFT S-SHAPED BAG DELIMITER
-27C6	rightsshapedbagdelimiter	RIGHT S-SHAPED BAG DELIMITER
-27C7	orwithdotinside	OR WITH DOT INSIDE
-27C8	reversesolidusprecedingsubset	REVERSE SOLIDUS PRECEDING SUBSET
-27C9	supersetprecedingsolidus	SUPERSET PRECEDING SOLIDUS
-27CA	verticalbarwithhorizontalstroke	VERTICAL BAR WITH HORIZONTAL STROKE
-27CC	longdivision	LONG DIVISION
-27D0	whitediamondwithcentreddot	WHITE DIAMOND WITH CENTRED DOT
-27D1	andwithdot	AND WITH DOT
-27D2	elementofopeningupwards	ELEMENT OF OPENING UPWARDS
-27D3	lowerrightcornerwithdot	LOWER RIGHT CORNER WITH DOT
-27D4	upperleftcornerwithdot	UPPER LEFT CORNER WITH DOT
-27D5	leftouterjoin	LEFT OUTER JOIN
-27D6	rightouterjoin	RIGHT OUTER JOIN
-27D7	fullouterjoin	FULL OUTER JOIN
-27D8	largeuptack	LARGE UP TACK
-27D9	largedowntack	LARGE DOWN TACK
-27DA	leftandrightdoubleturnstile	LEFT AND RIGHT DOUBLE TURNSTILE
-27DB	leftandrighttack	LEFT AND RIGHT TACK
-27DC	leftmultimap	LEFT MULTIMAP
-27DD	longrighttack	LONG RIGHT TACK
-27DE	longlefttack	LONG LEFT TACK
-27DF	uptackwithcircleabove	UP TACK WITH CIRCLE ABOVE
-27E0	lozengedividedbyhorizontalrule	LOZENGE DIVIDED BY HORIZONTAL RULE
-27E1	whiteconcavesideddiamond	WHITE CONCAVE-SIDED DIAMOND
-27E2	whiteconcavesideddiamondwithleftwardstick	WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK
-27E3	whiteconcavesideddiamondwithrightwardstick	WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK
-27E4	whitesquarewithleftwardstick	WHITE SQUARE WITH LEFTWARDS TICK
-27E5	whitesquarewithrightwardstick	WHITE SQUARE WITH RIGHTWARDS TICK
-27E6	mathematicalleftwhitesquarebracket	MATHEMATICAL LEFT WHITE SQUARE BRACKET
-27E7	mathematicalrightwhitesquarebracket	MATHEMATICAL RIGHT WHITE SQUARE BRACKET
-27E8	mathematicalleftanglebracket	MATHEMATICAL LEFT ANGLE BRACKET
-27E9	mathematicalrightanglebracket	MATHEMATICAL RIGHT ANGLE BRACKET
-27EA	mathematicalleftdoubleanglebracket	MATHEMATICAL LEFT DOUBLE ANGLE BRACKET
-27EB	mathematicalrightdoubleanglebracket	MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET
-27EC	mathematicalleftwhitetortoiseshellbracket	MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET
-27ED	mathematicalrightwhitetortoiseshellbracket	MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET
-27EE	mathematicalleftflattenedparenthesis	MATHEMATICAL LEFT FLATTENED PARENTHESIS
-27EF	mathematicalrightflattenedparenthesis	MATHEMATICAL RIGHT FLATTENED PARENTHESIS
+27C0	mscl-threedimensionalangle	THREE DIMENSIONAL ANGLE
+27C1	mscl-whitetrianglecontainingsmallwhitetriangle	WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE
+27C2	mscl-perpendicular	PERPENDICULAR
+27C3	mscl-opensubset	OPEN SUBSET
+27C4	mscl-opensuperset	OPEN SUPERSET
+27C5	mscl-leftsshapedbagdelimiter	LEFT S-SHAPED BAG DELIMITER
+27C6	mscl-rightsshapedbagdelimiter	RIGHT S-SHAPED BAG DELIMITER
+27C7	mscl-orwithdotinside	OR WITH DOT INSIDE
+27C8	mscl-reversesolidusprecedingsubset	REVERSE SOLIDUS PRECEDING SUBSET
+27C9	mscl-supersetprecedingsolidus	SUPERSET PRECEDING SOLIDUS
+27CA	mscl-verticalbarwithhorizontalstroke	VERTICAL BAR WITH HORIZONTAL STROKE
+27CC	mscl-longdivision	LONG DIVISION
+27D0	mscl-whitediamondwithcentreddot	WHITE DIAMOND WITH CENTRED DOT
+27D1	mscl-andwithdot	AND WITH DOT
+27D2	mscl-elementofopeningupwards	ELEMENT OF OPENING UPWARDS
+27D3	mscl-lowerrightcornerwithdot	LOWER RIGHT CORNER WITH DOT
+27D4	mscl-upperleftcornerwithdot	UPPER LEFT CORNER WITH DOT
+27D5	mscl-leftouterjoin	LEFT OUTER JOIN
+27D6	mscl-rightouterjoin	RIGHT OUTER JOIN
+27D7	mscl-fullouterjoin	FULL OUTER JOIN
+27D8	mscl-largeuptack	LARGE UP TACK
+27D9	mscl-largedowntack	LARGE DOWN TACK
+27DA	mscl-leftandrightdoubleturnstile	LEFT AND RIGHT DOUBLE TURNSTILE
+27DB	mscl-leftandrighttack	LEFT AND RIGHT TACK
+27DC	mscl-leftmultimap	LEFT MULTIMAP
+27DD	mscl-longrighttack	LONG RIGHT TACK
+27DE	mscl-longlefttack	LONG LEFT TACK
+27DF	mscl-uptackwithcircleabove	UP TACK WITH CIRCLE ABOVE
+27E0	mscl-lozengedividedbyhorizontalrule	LOZENGE DIVIDED BY HORIZONTAL RULE
+27E1	mscl-whiteconcavesideddiamond	WHITE CONCAVE-SIDED DIAMOND
+27E2	mscl-whiteconcavesideddiamondwithleftwardstick	WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK
+27E3	mscl-whiteconcavesideddiamondwithrightwardstick	WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK
+27E4	mscl-whitesquarewithleftwardstick	WHITE SQUARE WITH LEFTWARDS TICK
+27E5	mscl-whitesquarewithrightwardstick	WHITE SQUARE WITH RIGHTWARDS TICK
+27E6	mscl-mathematicalleftwhitesquarebracket	MATHEMATICAL LEFT WHITE SQUARE BRACKET
+27E7	mscl-mathematicalrightwhitesquarebracket	MATHEMATICAL RIGHT WHITE SQUARE BRACKET
+27E8	mscl-mathematicalleftanglebracket	MATHEMATICAL LEFT ANGLE BRACKET
+27E9	mscl-mathematicalrightanglebracket	MATHEMATICAL RIGHT ANGLE BRACKET
+27EA	mscl-mathematicalleftdoubleanglebracket	MATHEMATICAL LEFT DOUBLE ANGLE BRACKET
+27EB	mscl-mathematicalrightdoubleanglebracket	MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET
+27EC	mscl-mathematicalleftwhitetortoiseshellbracket	MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET
+27ED	mscl-mathematicalrightwhitetortoiseshellbracket	MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET
+27EE	mscl-mathematicalleftflattenedparenthesis	MATHEMATICAL LEFT FLATTENED PARENTHESIS
+27EF	mscl-mathematicalrightflattenedparenthesis	MATHEMATICAL RIGHT FLATTENED PARENTHESIS

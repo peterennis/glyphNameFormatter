@@ -1,79 +1,79 @@
 # Cyrillic Extended-B A640 - A69F
-A640	cyrilliccapitalletterzemlya	CYRILLIC CAPITAL LETTER ZEMLYA
-A641	cyrillicsmallletterzemlya	CYRILLIC SMALL LETTER ZEMLYA
-A642	cyrilliccapitalletterdzelo	CYRILLIC CAPITAL LETTER DZELO
-A643	cyrillicsmallletterdzelo	CYRILLIC SMALL LETTER DZELO
-A644	cyrilliccapitalletterreverseddze	CYRILLIC CAPITAL LETTER REVERSED DZE
-A645	cyrillicsmallletterreverseddze	CYRILLIC SMALL LETTER REVERSED DZE
-A646	cyrilliccapitalletteriota	CYRILLIC CAPITAL LETTER IOTA
-A647	cyrillicsmallletteriota	CYRILLIC SMALL LETTER IOTA
-A648	cyrilliccapitalletterdjerv	CYRILLIC CAPITAL LETTER DJERV
-A649	cyrillicsmallletterdjerv	CYRILLIC SMALL LETTER DJERV
-A64A	cyrilliccapitallettermonographuk	CYRILLIC CAPITAL LETTER MONOGRAPH UK
-A64B	cyrillicsmalllettermonographuk	CYRILLIC SMALL LETTER MONOGRAPH UK
-A64C	cyrilliccapitalletterbroadomega	CYRILLIC CAPITAL LETTER BROAD OMEGA
-A64D	cyrillicsmallletterbroadomega	CYRILLIC SMALL LETTER BROAD OMEGA
-A64E	cyrilliccapitalletterneutralyer	CYRILLIC CAPITAL LETTER NEUTRAL YER
-A64F	cyrillicsmallletterneutralyer	CYRILLIC SMALL LETTER NEUTRAL YER
-A650	cyrilliccapitalletteryeruwithbackyer	CYRILLIC CAPITAL LETTER YERU WITH BACK YER
-A651	cyrillicsmallletteryeruwithbackyer	CYRILLIC SMALL LETTER YERU WITH BACK YER
-A652	cyrilliccapitalletteriotifiedyat	CYRILLIC CAPITAL LETTER IOTIFIED YAT
-A653	cyrillicsmallletteriotifiedyat	CYRILLIC SMALL LETTER IOTIFIED YAT
-A654	cyrilliccapitalletterreversedyu	CYRILLIC CAPITAL LETTER REVERSED YU
-A655	cyrillicsmallletterreversedyu	CYRILLIC SMALL LETTER REVERSED YU
-A656	cyrilliccapitalletteriotifieda	CYRILLIC CAPITAL LETTER IOTIFIED A
-A657	cyrillicsmallletteriotifieda	CYRILLIC SMALL LETTER IOTIFIED A
-A658	cyrilliccapitalletterclosedlittleyus	CYRILLIC CAPITAL LETTER CLOSED LITTLE YUS
-A659	cyrillicsmallletterclosedlittleyus	CYRILLIC SMALL LETTER CLOSED LITTLE YUS
-A65A	cyrilliccapitalletterblendedyus	CYRILLIC CAPITAL LETTER BLENDED YUS
-A65B	cyrillicsmallletterblendedyus	CYRILLIC SMALL LETTER BLENDED YUS
-A65C	cyrilliccapitalletteriotifiedclosedlittleyus	CYRILLIC CAPITAL LETTER IOTIFIED CLOSED LITTLE YUS
-A65D	cyrillicsmallletteriotifiedclosedlittleyus	CYRILLIC SMALL LETTER IOTIFIED CLOSED LITTLE YUS
-A65E	cyrilliccapitalletteryn	CYRILLIC CAPITAL LETTER YN
-A65F	cyrillicsmallletteryn	CYRILLIC SMALL LETTER YN
-A662	cyrilliccapitallettersoftde	CYRILLIC CAPITAL LETTER SOFT DE
-A663	cyrillicsmalllettersoftde	CYRILLIC SMALL LETTER SOFT DE
-A664	cyrilliccapitallettersoftel	CYRILLIC CAPITAL LETTER SOFT EL
-A665	cyrillicsmalllettersoftel	CYRILLIC SMALL LETTER SOFT EL
-A666	cyrilliccapitallettersoftem	CYRILLIC CAPITAL LETTER SOFT EM
-A667	cyrillicsmalllettersoftem	CYRILLIC SMALL LETTER SOFT EM
-A668	cyrilliccapitallettermonocularo	CYRILLIC CAPITAL LETTER MONOCULAR O
-A669	cyrillicsmalllettermonocularo	CYRILLIC SMALL LETTER MONOCULAR O
-A66A	cyrilliccapitalletterbinocularo	CYRILLIC CAPITAL LETTER BINOCULAR O
-A66B	cyrillicsmallletterbinocularo	CYRILLIC SMALL LETTER BINOCULAR O
-A66C	cyrilliccapitalletterdoublemonocularo	CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O
-A66D	cyrillicsmallletterdoublemonocularo	CYRILLIC SMALL LETTER DOUBLE MONOCULAR O
-A66E	cyrilliclettermultiocularo	CYRILLIC LETTER MULTIOCULAR O
-A66F	combiningcyrillicvzmet	COMBINING CYRILLIC VZMET
-A670	combiningcyrillictenmillionssign	COMBINING CYRILLIC TEN MILLIONS SIGN
-A671	combiningcyrillichundredmillionssign	COMBINING CYRILLIC HUNDRED MILLIONS SIGN
-A672	combiningcyrillicthousandmillionssign	COMBINING CYRILLIC THOUSAND MILLIONS SIGN
-A673	slavonicasterisk	SLAVONIC ASTERISK
-A67C	combiningcyrillickavyka	COMBINING CYRILLIC KAVYKA
-A67D	combiningcyrillicpayerok	COMBINING CYRILLIC PAYEROK
-A67E	cyrillickavyka	CYRILLIC KAVYKA
-A67F	cyrillicpayerok	CYRILLIC PAYEROK
-A680	cyrilliccapitalletterdwe	CYRILLIC CAPITAL LETTER DWE
-A681	cyrillicsmallletterdwe	CYRILLIC SMALL LETTER DWE
-A682	cyrilliccapitalletterdzwe	CYRILLIC CAPITAL LETTER DZWE
-A683	cyrillicsmallletterdzwe	CYRILLIC SMALL LETTER DZWE
-A684	cyrilliccapitalletterzhwe	CYRILLIC CAPITAL LETTER ZHWE
-A685	cyrillicsmallletterzhwe	CYRILLIC SMALL LETTER ZHWE
-A686	cyrilliccapitallettercche	CYRILLIC CAPITAL LETTER CCHE
-A687	cyrillicsmalllettercche	CYRILLIC SMALL LETTER CCHE
-A688	cyrilliccapitalletterdzze	CYRILLIC CAPITAL LETTER DZZE
-A689	cyrillicsmallletterdzze	CYRILLIC SMALL LETTER DZZE
-A68A	cyrilliccapitallettertewithmiddlehook	CYRILLIC CAPITAL LETTER TE WITH MIDDLE HOOK
-A68B	cyrillicsmalllettertewithmiddlehook	CYRILLIC SMALL LETTER TE WITH MIDDLE HOOK
-A68C	cyrilliccapitallettertwe	CYRILLIC CAPITAL LETTER TWE
-A68D	cyrillicsmalllettertwe	CYRILLIC SMALL LETTER TWE
-A68E	cyrilliccapitallettertswe	CYRILLIC CAPITAL LETTER TSWE
-A68F	cyrillicsmalllettertswe	CYRILLIC SMALL LETTER TSWE
-A690	cyrilliccapitallettertsse	CYRILLIC CAPITAL LETTER TSSE
-A691	cyrillicsmalllettertsse	CYRILLIC SMALL LETTER TSSE
-A692	cyrilliccapitallettertche	CYRILLIC CAPITAL LETTER TCHE
-A693	cyrillicsmalllettertche	CYRILLIC SMALL LETTER TCHE
-A694	cyrilliccapitalletterhwe	CYRILLIC CAPITAL LETTER HWE
-A695	cyrillicsmallletterhwe	CYRILLIC SMALL LETTER HWE
-A696	cyrilliccapitallettershwe	CYRILLIC CAPITAL LETTER SHWE
-A697	cyrillicsmalllettershwe	CYRILLIC SMALL LETTER SHWE
+A640	cyrilliccapitalletterzemlyacyr	CYRILLIC CAPITAL LETTER ZEMLYA
+A641	cyrillicsmallletterzemlyacyr	CYRILLIC SMALL LETTER ZEMLYA
+A642	cyrilliccapitalletterdzelocyr	CYRILLIC CAPITAL LETTER DZELO
+A643	cyrillicsmallletterdzelocyr	CYRILLIC SMALL LETTER DZELO
+A644	cyrilliccapitalletterreverseddzecyr	CYRILLIC CAPITAL LETTER REVERSED DZE
+A645	cyrillicsmallletterreverseddzecyr	CYRILLIC SMALL LETTER REVERSED DZE
+A646	cyrilliccapitalletteriotacyr	CYRILLIC CAPITAL LETTER IOTA
+A647	cyrillicsmallletteriotacyr	CYRILLIC SMALL LETTER IOTA
+A648	cyrilliccapitalletterdjervcyr	CYRILLIC CAPITAL LETTER DJERV
+A649	cyrillicsmallletterdjervcyr	CYRILLIC SMALL LETTER DJERV
+A64A	cyrilliccapitallettermonographukcyr	CYRILLIC CAPITAL LETTER MONOGRAPH UK
+A64B	cyrillicsmalllettermonographukcyr	CYRILLIC SMALL LETTER MONOGRAPH UK
+A64C	cyrilliccapitalletterbroadomegacyr	CYRILLIC CAPITAL LETTER BROAD OMEGA
+A64D	cyrillicsmallletterbroadomegacyr	CYRILLIC SMALL LETTER BROAD OMEGA
+A64E	cyrilliccapitalletterneutralyercyr	CYRILLIC CAPITAL LETTER NEUTRAL YER
+A64F	cyrillicsmallletterneutralyercyr	CYRILLIC SMALL LETTER NEUTRAL YER
+A650	cyrilliccapitalletteryeruwithbackyercyr	CYRILLIC CAPITAL LETTER YERU WITH BACK YER
+A651	cyrillicsmallletteryeruwithbackyercyr	CYRILLIC SMALL LETTER YERU WITH BACK YER
+A652	cyrilliccapitalletteriotifiedyatcyr	CYRILLIC CAPITAL LETTER IOTIFIED YAT
+A653	cyrillicsmallletteriotifiedyatcyr	CYRILLIC SMALL LETTER IOTIFIED YAT
+A654	cyrilliccapitalletterreversedyucyr	CYRILLIC CAPITAL LETTER REVERSED YU
+A655	cyrillicsmallletterreversedyucyr	CYRILLIC SMALL LETTER REVERSED YU
+A656	cyrilliccapitalletteriotifiedacyr	CYRILLIC CAPITAL LETTER IOTIFIED A
+A657	cyrillicsmallletteriotifiedacyr	CYRILLIC SMALL LETTER IOTIFIED A
+A658	cyrilliccapitalletterclosedlittleyuscyr	CYRILLIC CAPITAL LETTER CLOSED LITTLE YUS
+A659	cyrillicsmallletterclosedlittleyuscyr	CYRILLIC SMALL LETTER CLOSED LITTLE YUS
+A65A	cyrilliccapitalletterblendedyuscyr	CYRILLIC CAPITAL LETTER BLENDED YUS
+A65B	cyrillicsmallletterblendedyuscyr	CYRILLIC SMALL LETTER BLENDED YUS
+A65C	cyrilliccapitalletteriotifiedclosedlittleyuscyr	CYRILLIC CAPITAL LETTER IOTIFIED CLOSED LITTLE YUS
+A65D	cyrillicsmallletteriotifiedclosedlittleyuscyr	CYRILLIC SMALL LETTER IOTIFIED CLOSED LITTLE YUS
+A65E	cyrilliccapitalletteryncyr	CYRILLIC CAPITAL LETTER YN
+A65F	cyrillicsmallletteryncyr	CYRILLIC SMALL LETTER YN
+A662	cyrilliccapitallettersoftdecyr	CYRILLIC CAPITAL LETTER SOFT DE
+A663	cyrillicsmalllettersoftdecyr	CYRILLIC SMALL LETTER SOFT DE
+A664	cyrilliccapitallettersoftelcyr	CYRILLIC CAPITAL LETTER SOFT EL
+A665	cyrillicsmalllettersoftelcyr	CYRILLIC SMALL LETTER SOFT EL
+A666	cyrilliccapitallettersoftemcyr	CYRILLIC CAPITAL LETTER SOFT EM
+A667	cyrillicsmalllettersoftemcyr	CYRILLIC SMALL LETTER SOFT EM
+A668	cyrilliccapitallettermonocularocyr	CYRILLIC CAPITAL LETTER MONOCULAR O
+A669	cyrillicsmalllettermonocularocyr	CYRILLIC SMALL LETTER MONOCULAR O
+A66A	cyrilliccapitalletterbinocularocyr	CYRILLIC CAPITAL LETTER BINOCULAR O
+A66B	cyrillicsmallletterbinocularocyr	CYRILLIC SMALL LETTER BINOCULAR O
+A66C	cyrilliccapitalletterdoublemonocularocyr	CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O
+A66D	cyrillicsmallletterdoublemonocularocyr	CYRILLIC SMALL LETTER DOUBLE MONOCULAR O
+A66E	cyrilliclettermultiocularocyr	CYRILLIC LETTER MULTIOCULAR O
+A66F	combiningcyrillicvzmetcyr	COMBINING CYRILLIC VZMET
+A670	combiningcyrillictenmillionssigncyr	COMBINING CYRILLIC TEN MILLIONS SIGN
+A671	combiningcyrillichundredmillionssigncyr	COMBINING CYRILLIC HUNDRED MILLIONS SIGN
+A672	combiningcyrillicthousandmillionssigncyr	COMBINING CYRILLIC THOUSAND MILLIONS SIGN
+A673	slavonicasteriskcyr	SLAVONIC ASTERISK
+A67C	combiningcyrillickavykacyr	COMBINING CYRILLIC KAVYKA
+A67D	combiningcyrillicpayerokcyr	COMBINING CYRILLIC PAYEROK
+A67E	cyrillickavykacyr	CYRILLIC KAVYKA
+A67F	cyrillicpayerokcyr	CYRILLIC PAYEROK
+A680	cyrilliccapitalletterdwecyr	CYRILLIC CAPITAL LETTER DWE
+A681	cyrillicsmallletterdwecyr	CYRILLIC SMALL LETTER DWE
+A682	cyrilliccapitalletterdzwecyr	CYRILLIC CAPITAL LETTER DZWE
+A683	cyrillicsmallletterdzwecyr	CYRILLIC SMALL LETTER DZWE
+A684	cyrilliccapitalletterzhwecyr	CYRILLIC CAPITAL LETTER ZHWE
+A685	cyrillicsmallletterzhwecyr	CYRILLIC SMALL LETTER ZHWE
+A686	cyrilliccapitallettercchecyr	CYRILLIC CAPITAL LETTER CCHE
+A687	cyrillicsmalllettercchecyr	CYRILLIC SMALL LETTER CCHE
+A688	cyrilliccapitalletterdzzecyr	CYRILLIC CAPITAL LETTER DZZE
+A689	cyrillicsmallletterdzzecyr	CYRILLIC SMALL LETTER DZZE
+A68A	cyrilliccapitallettertewithmiddlehookcyr	CYRILLIC CAPITAL LETTER TE WITH MIDDLE HOOK
+A68B	cyrillicsmalllettertewithmiddlehookcyr	CYRILLIC SMALL LETTER TE WITH MIDDLE HOOK
+A68C	cyrilliccapitallettertwecyr	CYRILLIC CAPITAL LETTER TWE
+A68D	cyrillicsmalllettertwecyr	CYRILLIC SMALL LETTER TWE
+A68E	cyrilliccapitallettertswecyr	CYRILLIC CAPITAL LETTER TSWE
+A68F	cyrillicsmalllettertswecyr	CYRILLIC SMALL LETTER TSWE
+A690	cyrilliccapitallettertssecyr	CYRILLIC CAPITAL LETTER TSSE
+A691	cyrillicsmalllettertssecyr	CYRILLIC SMALL LETTER TSSE
+A692	cyrilliccapitallettertchecyr	CYRILLIC CAPITAL LETTER TCHE
+A693	cyrillicsmalllettertchecyr	CYRILLIC SMALL LETTER TCHE
+A694	cyrilliccapitalletterhwecyr	CYRILLIC CAPITAL LETTER HWE
+A695	cyrillicsmallletterhwecyr	CYRILLIC SMALL LETTER HWE
+A696	cyrilliccapitallettershwecyr	CYRILLIC CAPITAL LETTER SHWE
+A697	cyrillicsmalllettershwecyr	CYRILLIC SMALL LETTER SHWE

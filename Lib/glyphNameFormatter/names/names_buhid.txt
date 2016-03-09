@@ -1,21 +1,21 @@
 # Buhid 1740 - 175F
-1740	buhidlettera	BUHID LETTER A
-1741	buhidletteri	BUHID LETTER I
-1742	buhidletteru	BUHID LETTER U
-1743	buhidletterka	BUHID LETTER KA
-1744	buhidletterga	BUHID LETTER GA
-1745	buhidletternga	BUHID LETTER NGA
-1746	buhidletterta	BUHID LETTER TA
-1747	buhidletterda	BUHID LETTER DA
-1748	buhidletterna	BUHID LETTER NA
-1749	buhidletterpa	BUHID LETTER PA
-174A	buhidletterba	BUHID LETTER BA
-174B	buhidletterma	BUHID LETTER MA
-174C	buhidletterya	BUHID LETTER YA
-174D	buhidletterra	BUHID LETTER RA
-174E	buhidletterla	BUHID LETTER LA
-174F	buhidletterwa	BUHID LETTER WA
-1750	buhidlettersa	BUHID LETTER SA
-1751	buhidletterha	BUHID LETTER HA
-1752	buhidvowelsigni	BUHID VOWEL SIGN I
-1753	buhidvowelsignu	BUHID VOWEL SIGN U
+1740	bhd-buhidlettera	BUHID LETTER A
+1741	bhd-buhidletteri	BUHID LETTER I
+1742	bhd-buhidletteru	BUHID LETTER U
+1743	bhd-buhidletterka	BUHID LETTER KA
+1744	bhd-buhidletterga	BUHID LETTER GA
+1745	bhd-buhidletternga	BUHID LETTER NGA
+1746	bhd-buhidletterta	BUHID LETTER TA
+1747	bhd-buhidletterda	BUHID LETTER DA
+1748	bhd-buhidletterna	BUHID LETTER NA
+1749	bhd-buhidletterpa	BUHID LETTER PA
+174A	bhd-buhidletterba	BUHID LETTER BA
+174B	bhd-buhidletterma	BUHID LETTER MA
+174C	bhd-buhidletterya	BUHID LETTER YA
+174D	bhd-buhidletterra	BUHID LETTER RA
+174E	bhd-buhidletterla	BUHID LETTER LA
+174F	bhd-buhidletterwa	BUHID LETTER WA
+1750	bhd-buhidlettersa	BUHID LETTER SA
+1751	bhd-buhidletterha	BUHID LETTER HA
+1752	bhd-buhidvowelsigni	BUHID VOWEL SIGN I
+1753	bhd-buhidvowelsignu	BUHID VOWEL SIGN U

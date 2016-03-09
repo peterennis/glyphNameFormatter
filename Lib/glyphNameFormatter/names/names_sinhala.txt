@@ -1,81 +1,81 @@
 # Sinhala 0D80 - 0DFF
-0D82	sinhalasignanusvaraya	SINHALA SIGN ANUSVARAYA
-0D83	sinhalasignvisargaya	SINHALA SIGN VISARGAYA
-0D85	sinhalaletterayanna	SINHALA LETTER AYANNA
-0D86	sinhalaletteraayanna	SINHALA LETTER AAYANNA
-0D87	sinhalaletteraeyanna	SINHALA LETTER AEYANNA
-0D88	sinhalaletteraeeyanna	SINHALA LETTER AEEYANNA
-0D89	sinhalaletteriyanna	SINHALA LETTER IYANNA
-0D8A	sinhalaletteriiyanna	SINHALA LETTER IIYANNA
-0D8B	sinhalaletteruyanna	SINHALA LETTER UYANNA
-0D8C	sinhalaletteruuyanna	SINHALA LETTER UUYANNA
-0D8D	sinhalaletteriruyanna	SINHALA LETTER IRUYANNA
-0D8E	sinhalaletteriruuyanna	SINHALA LETTER IRUUYANNA
-0D8F	sinhalaletteriluyanna	SINHALA LETTER ILUYANNA
-0D90	sinhalaletteriluuyanna	SINHALA LETTER ILUUYANNA
-0D91	sinhalalettereyanna	SINHALA LETTER EYANNA
-0D92	sinhalalettereeyanna	SINHALA LETTER EEYANNA
-0D93	sinhalaletteraiyanna	SINHALA LETTER AIYANNA
-0D94	sinhalaletteroyanna	SINHALA LETTER OYANNA
-0D95	sinhalaletterooyanna	SINHALA LETTER OOYANNA
-0D96	sinhalaletterauyanna	SINHALA LETTER AUYANNA
-0D9A	sinhalaletteralpapraanakayanna	SINHALA LETTER ALPAPRAANA KAYANNA
-0D9B	sinhalalettermahaapraanakayanna	SINHALA LETTER MAHAAPRAANA KAYANNA
-0D9C	sinhalaletteralpapraanagayanna	SINHALA LETTER ALPAPRAANA GAYANNA
-0D9D	sinhalalettermahaapraanagayanna	SINHALA LETTER MAHAAPRAANA GAYANNA
-0D9E	sinhalaletterkantajanaasikyaya	SINHALA LETTER KANTAJA NAASIKYAYA
-0D9F	sinhalalettersanyakagayanna	SINHALA LETTER SANYAKA GAYANNA
-0DA0	sinhalaletteralpapraanacayanna	SINHALA LETTER ALPAPRAANA CAYANNA
-0DA1	sinhalalettermahaapraanacayanna	SINHALA LETTER MAHAAPRAANA CAYANNA
-0DA2	sinhalaletteralpapraanajayanna	SINHALA LETTER ALPAPRAANA JAYANNA
-0DA3	sinhalalettermahaapraanajayanna	SINHALA LETTER MAHAAPRAANA JAYANNA
-0DA4	sinhalalettertaalujanaasikyaya	SINHALA LETTER TAALUJA NAASIKYAYA
-0DA5	sinhalalettertaalujasanyooganaaksikyaya	SINHALA LETTER TAALUJA SANYOOGA NAAKSIKYAYA
-0DA6	sinhalalettersanyakajayanna	SINHALA LETTER SANYAKA JAYANNA
-0DA7	sinhalaletteralpapraanattayanna	SINHALA LETTER ALPAPRAANA TTAYANNA
-0DA8	sinhalalettermahaapraanattayanna	SINHALA LETTER MAHAAPRAANA TTAYANNA
-0DA9	sinhalaletteralpapraanaddayanna	SINHALA LETTER ALPAPRAANA DDAYANNA
-0DAA	sinhalalettermahaapraanaddayanna	SINHALA LETTER MAHAAPRAANA DDAYANNA
-0DAB	sinhalalettermuurdhajanayanna	SINHALA LETTER MUURDHAJA NAYANNA
-0DAC	sinhalalettersanyakaddayanna	SINHALA LETTER SANYAKA DDAYANNA
-0DAD	sinhalaletteralpapraanatayanna	SINHALA LETTER ALPAPRAANA TAYANNA
-0DAE	sinhalalettermahaapraanatayanna	SINHALA LETTER MAHAAPRAANA TAYANNA
-0DAF	sinhalaletteralpapraanadayanna	SINHALA LETTER ALPAPRAANA DAYANNA
-0DB0	sinhalalettermahaapraanadayanna	SINHALA LETTER MAHAAPRAANA DAYANNA
-0DB1	sinhalaletterdantajanayanna	SINHALA LETTER DANTAJA NAYANNA
-0DB3	sinhalalettersanyakadayanna	SINHALA LETTER SANYAKA DAYANNA
-0DB4	sinhalaletteralpapraanapayanna	SINHALA LETTER ALPAPRAANA PAYANNA
-0DB5	sinhalalettermahaapraanapayanna	SINHALA LETTER MAHAAPRAANA PAYANNA
-0DB6	sinhalaletteralpapraanabayanna	SINHALA LETTER ALPAPRAANA BAYANNA
-0DB7	sinhalalettermahaapraanabayanna	SINHALA LETTER MAHAAPRAANA BAYANNA
-0DB8	sinhalalettermayanna	SINHALA LETTER MAYANNA
-0DB9	sinhalaletterambabayanna	SINHALA LETTER AMBA BAYANNA
-0DBA	sinhalaletteryayanna	SINHALA LETTER YAYANNA
-0DBB	sinhalaletterrayanna	SINHALA LETTER RAYANNA
-0DBD	sinhalaletterdantajalayanna	SINHALA LETTER DANTAJA LAYANNA
-0DC0	sinhalalettervayanna	SINHALA LETTER VAYANNA
-0DC1	sinhalalettertaalujasayanna	SINHALA LETTER TAALUJA SAYANNA
-0DC2	sinhalalettermuurdhajasayanna	SINHALA LETTER MUURDHAJA SAYANNA
-0DC3	sinhalaletterdantajasayanna	SINHALA LETTER DANTAJA SAYANNA
-0DC4	sinhalaletterhayanna	SINHALA LETTER HAYANNA
-0DC5	sinhalalettermuurdhajalayanna	SINHALA LETTER MUURDHAJA LAYANNA
-0DC6	sinhalaletterfayanna	SINHALA LETTER FAYANNA
-0DCA	sinhalasignallakuna	SINHALA SIGN AL-LAKUNA
-0DCF	sinhalavowelsignaelapilla	SINHALA VOWEL SIGN AELA-PILLA
-0DD0	sinhalavowelsignkettiaedapilla	SINHALA VOWEL SIGN KETTI AEDA-PILLA
-0DD1	sinhalavowelsigndigaaedapilla	SINHALA VOWEL SIGN DIGA AEDA-PILLA
-0DD2	sinhalavowelsignkettiispilla	SINHALA VOWEL SIGN KETTI IS-PILLA
-0DD3	sinhalavowelsigndigaispilla	SINHALA VOWEL SIGN DIGA IS-PILLA
-0DD4	sinhalavowelsignkettipaapilla	SINHALA VOWEL SIGN KETTI PAA-PILLA
-0DD6	sinhalavowelsigndigapaapilla	SINHALA VOWEL SIGN DIGA PAA-PILLA
-0DD8	sinhalavowelsigngaettapilla	SINHALA VOWEL SIGN GAETTA-PILLA
-0DD9	sinhalavowelsignkombuva	SINHALA VOWEL SIGN KOMBUVA
-0DDA	sinhalavowelsigndigakombuva	SINHALA VOWEL SIGN DIGA KOMBUVA
-0DDB	sinhalavowelsignkombudeka	SINHALA VOWEL SIGN KOMBU DEKA
-0DDC	sinhalavowelsignkombuvahaaaelapilla	SINHALA VOWEL SIGN KOMBUVA HAA AELA-PILLA
-0DDD	sinhalavowelsignkombuvahaadigaaelapilla	SINHALA VOWEL SIGN KOMBUVA HAA DIGA AELA-PILLA
-0DDE	sinhalavowelsignkombuvahaagayanukitta	SINHALA VOWEL SIGN KOMBUVA HAA GAYANUKITTA
-0DDF	sinhalavowelsigngayanukitta	SINHALA VOWEL SIGN GAYANUKITTA
-0DF2	sinhalavowelsigndigagaettapilla	SINHALA VOWEL SIGN DIGA GAETTA-PILLA
-0DF3	sinhalavowelsigndigagayanukitta	SINHALA VOWEL SIGN DIGA GAYANUKITTA
-0DF4	sinhalapunctuationkunddaliya	SINHALA PUNCTUATION KUNDDALIYA
+0D82	snhl-sinhalasignanusvaraya	SINHALA SIGN ANUSVARAYA
+0D83	snhl-sinhalasignvisargaya	SINHALA SIGN VISARGAYA
+0D85	snhl-sinhalaletterayanna	SINHALA LETTER AYANNA
+0D86	snhl-sinhalaletteraayanna	SINHALA LETTER AAYANNA
+0D87	snhl-sinhalaletteraeyanna	SINHALA LETTER AEYANNA
+0D88	snhl-sinhalaletteraeeyanna	SINHALA LETTER AEEYANNA
+0D89	snhl-sinhalaletteriyanna	SINHALA LETTER IYANNA
+0D8A	snhl-sinhalaletteriiyanna	SINHALA LETTER IIYANNA
+0D8B	snhl-sinhalaletteruyanna	SINHALA LETTER UYANNA
+0D8C	snhl-sinhalaletteruuyanna	SINHALA LETTER UUYANNA
+0D8D	snhl-sinhalaletteriruyanna	SINHALA LETTER IRUYANNA
+0D8E	snhl-sinhalaletteriruuyanna	SINHALA LETTER IRUUYANNA
+0D8F	snhl-sinhalaletteriluyanna	SINHALA LETTER ILUYANNA
+0D90	snhl-sinhalaletteriluuyanna	SINHALA LETTER ILUUYANNA
+0D91	snhl-sinhalalettereyanna	SINHALA LETTER EYANNA
+0D92	snhl-sinhalalettereeyanna	SINHALA LETTER EEYANNA
+0D93	snhl-sinhalaletteraiyanna	SINHALA LETTER AIYANNA
+0D94	snhl-sinhalaletteroyanna	SINHALA LETTER OYANNA
+0D95	snhl-sinhalaletterooyanna	SINHALA LETTER OOYANNA
+0D96	snhl-sinhalaletterauyanna	SINHALA LETTER AUYANNA
+0D9A	snhl-sinhalaletteralpapraanakayanna	SINHALA LETTER ALPAPRAANA KAYANNA
+0D9B	snhl-sinhalalettermahaapraanakayanna	SINHALA LETTER MAHAAPRAANA KAYANNA
+0D9C	snhl-sinhalaletteralpapraanagayanna	SINHALA LETTER ALPAPRAANA GAYANNA
+0D9D	snhl-sinhalalettermahaapraanagayanna	SINHALA LETTER MAHAAPRAANA GAYANNA
+0D9E	snhl-sinhalaletterkantajanaasikyaya	SINHALA LETTER KANTAJA NAASIKYAYA
+0D9F	snhl-sinhalalettersanyakagayanna	SINHALA LETTER SANYAKA GAYANNA
+0DA0	snhl-sinhalaletteralpapraanacayanna	SINHALA LETTER ALPAPRAANA CAYANNA
+0DA1	snhl-sinhalalettermahaapraanacayanna	SINHALA LETTER MAHAAPRAANA CAYANNA
+0DA2	snhl-sinhalaletteralpapraanajayanna	SINHALA LETTER ALPAPRAANA JAYANNA
+0DA3	snhl-sinhalalettermahaapraanajayanna	SINHALA LETTER MAHAAPRAANA JAYANNA
+0DA4	snhl-sinhalalettertaalujanaasikyaya	SINHALA LETTER TAALUJA NAASIKYAYA
+0DA5	snhl-sinhalalettertaalujasanyooganaaksikyaya	SINHALA LETTER TAALUJA SANYOOGA NAAKSIKYAYA
+0DA6	snhl-sinhalalettersanyakajayanna	SINHALA LETTER SANYAKA JAYANNA
+0DA7	snhl-sinhalaletteralpapraanattayanna	SINHALA LETTER ALPAPRAANA TTAYANNA
+0DA8	snhl-sinhalalettermahaapraanattayanna	SINHALA LETTER MAHAAPRAANA TTAYANNA
+0DA9	snhl-sinhalaletteralpapraanaddayanna	SINHALA LETTER ALPAPRAANA DDAYANNA
+0DAA	snhl-sinhalalettermahaapraanaddayanna	SINHALA LETTER MAHAAPRAANA DDAYANNA
+0DAB	snhl-sinhalalettermuurdhajanayanna	SINHALA LETTER MUURDHAJA NAYANNA
+0DAC	snhl-sinhalalettersanyakaddayanna	SINHALA LETTER SANYAKA DDAYANNA
+0DAD	snhl-sinhalaletteralpapraanatayanna	SINHALA LETTER ALPAPRAANA TAYANNA
+0DAE	snhl-sinhalalettermahaapraanatayanna	SINHALA LETTER MAHAAPRAANA TAYANNA
+0DAF	snhl-sinhalaletteralpapraanadayanna	SINHALA LETTER ALPAPRAANA DAYANNA
+0DB0	snhl-sinhalalettermahaapraanadayanna	SINHALA LETTER MAHAAPRAANA DAYANNA
+0DB1	snhl-sinhalaletterdantajanayanna	SINHALA LETTER DANTAJA NAYANNA
+0DB3	snhl-sinhalalettersanyakadayanna	SINHALA LETTER SANYAKA DAYANNA
+0DB4	snhl-sinhalaletteralpapraanapayanna	SINHALA LETTER ALPAPRAANA PAYANNA
+0DB5	snhl-sinhalalettermahaapraanapayanna	SINHALA LETTER MAHAAPRAANA PAYANNA
+0DB6	snhl-sinhalaletteralpapraanabayanna	SINHALA LETTER ALPAPRAANA BAYANNA
+0DB7	snhl-sinhalalettermahaapraanabayanna	SINHALA LETTER MAHAAPRAANA BAYANNA
+0DB8	snhl-sinhalalettermayanna	SINHALA LETTER MAYANNA
+0DB9	snhl-sinhalaletterambabayanna	SINHALA LETTER AMBA BAYANNA
+0DBA	snhl-sinhalaletteryayanna	SINHALA LETTER YAYANNA
+0DBB	snhl-sinhalaletterrayanna	SINHALA LETTER RAYANNA
+0DBD	snhl-sinhalaletterdantajalayanna	SINHALA LETTER DANTAJA LAYANNA
+0DC0	snhl-sinhalalettervayanna	SINHALA LETTER VAYANNA
+0DC1	snhl-sinhalalettertaalujasayanna	SINHALA LETTER TAALUJA SAYANNA
+0DC2	snhl-sinhalalettermuurdhajasayanna	SINHALA LETTER MUURDHAJA SAYANNA
+0DC3	snhl-sinhalaletterdantajasayanna	SINHALA LETTER DANTAJA SAYANNA
+0DC4	snhl-sinhalaletterhayanna	SINHALA LETTER HAYANNA
+0DC5	snhl-sinhalalettermuurdhajalayanna	SINHALA LETTER MUURDHAJA LAYANNA
+0DC6	snhl-sinhalaletterfayanna	SINHALA LETTER FAYANNA
+0DCA	snhl-sinhalasignallakuna	SINHALA SIGN AL-LAKUNA
+0DCF	snhl-sinhalavowelsignaelapilla	SINHALA VOWEL SIGN AELA-PILLA
+0DD0	snhl-sinhalavowelsignkettiaedapilla	SINHALA VOWEL SIGN KETTI AEDA-PILLA
+0DD1	snhl-sinhalavowelsigndigaaedapilla	SINHALA VOWEL SIGN DIGA AEDA-PILLA
+0DD2	snhl-sinhalavowelsignkettiispilla	SINHALA VOWEL SIGN KETTI IS-PILLA
+0DD3	snhl-sinhalavowelsigndigaispilla	SINHALA VOWEL SIGN DIGA IS-PILLA
+0DD4	snhl-sinhalavowelsignkettipaapilla	SINHALA VOWEL SIGN KETTI PAA-PILLA
+0DD6	snhl-sinhalavowelsigndigapaapilla	SINHALA VOWEL SIGN DIGA PAA-PILLA
+0DD8	snhl-sinhalavowelsigngaettapilla	SINHALA VOWEL SIGN GAETTA-PILLA
+0DD9	snhl-sinhalavowelsignkombuva	SINHALA VOWEL SIGN KOMBUVA
+0DDA	snhl-sinhalavowelsigndigakombuva	SINHALA VOWEL SIGN DIGA KOMBUVA
+0DDB	snhl-sinhalavowelsignkombudeka	SINHALA VOWEL SIGN KOMBU DEKA
+0DDC	snhl-sinhalavowelsignkombuvahaaaelapilla	SINHALA VOWEL SIGN KOMBUVA HAA AELA-PILLA
+0DDD	snhl-sinhalavowelsignkombuvahaadigaaelapilla	SINHALA VOWEL SIGN KOMBUVA HAA DIGA AELA-PILLA
+0DDE	snhl-sinhalavowelsignkombuvahaagayanukitta	SINHALA VOWEL SIGN KOMBUVA HAA GAYANUKITTA
+0DDF	snhl-sinhalavowelsigngayanukitta	SINHALA VOWEL SIGN GAYANUKITTA
+0DF2	snhl-sinhalavowelsigndigagaettapilla	SINHALA VOWEL SIGN DIGA GAETTA-PILLA
+0DF3	snhl-sinhalavowelsigndigagayanukitta	SINHALA VOWEL SIGN DIGA GAYANUKITTA
+0DF4	snhl-sinhalapunctuationkunddaliya	SINHALA PUNCTUATION KUNDDALIYA

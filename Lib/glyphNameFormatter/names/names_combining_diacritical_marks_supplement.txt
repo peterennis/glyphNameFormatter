@@ -1,43 +1,43 @@
 # Combining Diacritical Marks Supplement 1DC0 - 1DFF
-1DC0	combiningdottedgraveaccent	COMBINING DOTTED GRAVE ACCENT
-1DC1	combiningdottedacuteaccent	COMBINING DOTTED ACUTE ACCENT
-1DC2	combiningsnakebelow	COMBINING SNAKE BELOW
-1DC3	combiningsuspensionmark	COMBINING SUSPENSION MARK
-1DC4	combiningmacronacute	COMBINING MACRON-ACUTE
-1DC5	combininggravemacron	COMBINING GRAVE-MACRON
-1DC6	combiningmacrongrave	COMBINING MACRON-GRAVE
-1DC7	combiningacutemacron	COMBINING ACUTE-MACRON
-1DC8	combininggraveacutegrave	COMBINING GRAVE-ACUTE-GRAVE
-1DC9	combiningacutegraveacute	COMBINING ACUTE-GRAVE-ACUTE
-1DCA	combininglatinsmallletterrbelow	COMBINING LATIN SMALL LETTER R BELOW
-1DCB	combiningbrevemacron	COMBINING BREVE-MACRON
-1DCC	combiningmacronbreve	COMBINING MACRON-BREVE
-1DCD	combiningdoublecircumflexabove	COMBINING DOUBLE CIRCUMFLEX ABOVE
-1DCE	combiningogonekabove	COMBINING OGONEK ABOVE
-1DCF	combiningzigzagbelow	COMBINING ZIGZAG BELOW
-1DD0	combiningisbelow	COMBINING IS BELOW
-1DD1	combiningurabove	COMBINING UR ABOVE
-1DD2	combiningusabove	COMBINING US ABOVE
-1DD3	combininglatinsmallletterflattenedopenaabove	COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE
-1DD4	combininglatinsmallletterae	COMBINING LATIN SMALL LETTER AE
-1DD5	combininglatinsmallletterao	COMBINING LATIN SMALL LETTER AO
-1DD6	combininglatinsmallletterav	COMBINING LATIN SMALL LETTER AV
-1DD7	combininglatinsmallletterccedilla	COMBINING LATIN SMALL LETTER C CEDILLA
-1DD8	combininglatinsmallletterinsulard	COMBINING LATIN SMALL LETTER INSULAR D
-1DD9	combininglatinsmalllettereth	COMBINING LATIN SMALL LETTER ETH
-1DDA	combininglatinsmallletterg	COMBINING LATIN SMALL LETTER G
-1DDB	combininglatinlettersmallcapitalg	COMBINING LATIN LETTER SMALL CAPITAL G
-1DDC	combininglatinsmallletterk	COMBINING LATIN SMALL LETTER K
-1DDD	combininglatinsmallletterl	COMBINING LATIN SMALL LETTER L
-1DDE	combininglatinlettersmallcapitall	COMBINING LATIN LETTER SMALL CAPITAL L
-1DDF	combininglatinlettersmallcapitalm	COMBINING LATIN LETTER SMALL CAPITAL M
-1DE0	combininglatinsmalllettern	COMBINING LATIN SMALL LETTER N
-1DE1	combininglatinlettersmallcapitaln	COMBINING LATIN LETTER SMALL CAPITAL N
-1DE2	combininglatinlettersmallcapitalr	COMBINING LATIN LETTER SMALL CAPITAL R
-1DE3	combininglatinsmallletterrrotunda	COMBINING LATIN SMALL LETTER R ROTUNDA
-1DE4	combininglatinsmallletters	COMBINING LATIN SMALL LETTER S
-1DE5	combininglatinsmallletterlongs	COMBINING LATIN SMALL LETTER LONG S
-1DE6	combininglatinsmallletterz	COMBINING LATIN SMALL LETTER Z
-1DFD	combiningalmostequaltobelow	COMBINING ALMOST EQUAL TO BELOW
-1DFE	combiningleftarrowheadabove	COMBINING LEFT ARROWHEAD ABOVE
-1DFF	combiningrightarrowheadanddownarrowheadbelow	COMBINING RIGHT ARROWHEAD AND DOWN ARROWHEAD BELOW
+1DC0	cmbn-combiningdottedgraveaccent	COMBINING DOTTED GRAVE ACCENT
+1DC1	cmbn-combiningdottedacuteaccent	COMBINING DOTTED ACUTE ACCENT
+1DC2	cmbn-combiningsnakebelow	COMBINING SNAKE BELOW
+1DC3	cmbn-combiningsuspensionmark	COMBINING SUSPENSION MARK
+1DC4	cmbn-combiningmacronacute	COMBINING MACRON-ACUTE
+1DC5	cmbn-combininggravemacron	COMBINING GRAVE-MACRON
+1DC6	cmbn-combiningmacrongrave	COMBINING MACRON-GRAVE
+1DC7	cmbn-combiningacutemacron	COMBINING ACUTE-MACRON
+1DC8	cmbn-combininggraveacutegrave	COMBINING GRAVE-ACUTE-GRAVE
+1DC9	cmbn-combiningacutegraveacute	COMBINING ACUTE-GRAVE-ACUTE
+1DCA	cmbn-combininglatinsmallletterrbelow	COMBINING LATIN SMALL LETTER R BELOW
+1DCB	cmbn-combiningbrevemacron	COMBINING BREVE-MACRON
+1DCC	cmbn-combiningmacronbreve	COMBINING MACRON-BREVE
+1DCD	cmbn-combiningdoublecircumflexabove	COMBINING DOUBLE CIRCUMFLEX ABOVE
+1DCE	cmbn-combiningogonekabove	COMBINING OGONEK ABOVE
+1DCF	cmbn-combiningzigzagbelow	COMBINING ZIGZAG BELOW
+1DD0	cmbn-combiningisbelow	COMBINING IS BELOW
+1DD1	cmbn-combiningurabove	COMBINING UR ABOVE
+1DD2	cmbn-combiningusabove	COMBINING US ABOVE
+1DD3	cmbn-combininglatinsmallletterflattenedopenaabove	COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE
+1DD4	cmbn-combininglatinsmallletterae	COMBINING LATIN SMALL LETTER AE
+1DD5	cmbn-combininglatinsmallletterao	COMBINING LATIN SMALL LETTER AO
+1DD6	cmbn-combininglatinsmallletterav	COMBINING LATIN SMALL LETTER AV
+1DD7	cmbn-combininglatinsmallletterccedilla	COMBINING LATIN SMALL LETTER C CEDILLA
+1DD8	cmbn-combininglatinsmallletterinsulard	COMBINING LATIN SMALL LETTER INSULAR D
+1DD9	cmbn-combininglatinsmalllettereth	COMBINING LATIN SMALL LETTER ETH
+1DDA	cmbn-combininglatinsmallletterg	COMBINING LATIN SMALL LETTER G
+1DDB	cmbn-combininglatinlettersmallcapitalg	COMBINING LATIN LETTER SMALL CAPITAL G
+1DDC	cmbn-combininglatinsmallletterk	COMBINING LATIN SMALL LETTER K
+1DDD	cmbn-combininglatinsmallletterl	COMBINING LATIN SMALL LETTER L
+1DDE	cmbn-combininglatinlettersmallcapitall	COMBINING LATIN LETTER SMALL CAPITAL L
+1DDF	cmbn-combininglatinlettersmallcapitalm	COMBINING LATIN LETTER SMALL CAPITAL M
+1DE0	cmbn-combininglatinsmalllettern	COMBINING LATIN SMALL LETTER N
+1DE1	cmbn-combininglatinlettersmallcapitaln	COMBINING LATIN LETTER SMALL CAPITAL N
+1DE2	cmbn-combininglatinlettersmallcapitalr	COMBINING LATIN LETTER SMALL CAPITAL R
+1DE3	cmbn-combininglatinsmallletterrrotunda	COMBINING LATIN SMALL LETTER R ROTUNDA
+1DE4	cmbn-combininglatinsmallletters	COMBINING LATIN SMALL LETTER S
+1DE5	cmbn-combininglatinsmallletterlongs	COMBINING LATIN SMALL LETTER LONG S
+1DE6	cmbn-combininglatinsmallletterz	COMBINING LATIN SMALL LETTER Z
+1DFD	cmbn-combiningalmostequaltobelow	COMBINING ALMOST EQUAL TO BELOW
+1DFE	cmbn-combiningleftarrowheadabove	COMBINING LEFT ARROWHEAD ABOVE
+1DFF	cmbn-combiningrightarrowheadanddownarrowheadbelow	COMBINING RIGHT ARROWHEAD AND DOWN ARROWHEAD BELOW

@@ -1,51 +1,51 @@
 # Supplemental Punctuation 2E00 - 2E7F
-2E00	anglemarkersubstitutionright	RIGHT ANGLE SUBSTITUTION MARKER
-2E01	anglemarkerdottedsubstitutionright	RIGHT ANGLE DOTTED SUBSTITUTION MARKER
-2E02	bracketsubstitutionleft	LEFT SUBSTITUTION BRACKET
-2E03	bracketsubstitutionright	RIGHT SUBSTITUTION BRACKET
-2E04	bracketdottedsubstitutionleft	LEFT DOTTED SUBSTITUTION BRACKET
-2E05	bracketdottedsubstitutionright	RIGHT DOTTED SUBSTITUTION BRACKET
-2E06	markerraisedinterpolation	RAISED INTERPOLATION MARKER
-2E07	markerdottedraisedinterpolation	RAISED DOTTED INTERPOLATION MARKER
-2E08	markerdottedtransposition	DOTTED TRANSPOSITION MARKER
-2E09	brackettranspositionleft	LEFT TRANSPOSITION BRACKET
-2E0A	brackettranspositionright	RIGHT TRANSPOSITION BRACKET
-2E0B	squareraised	RAISED SQUARE
-2E0C	bracketraisedleft	LEFT RAISED OMISSION BRACKET
-2E0D	bracketraisedright	RIGHT RAISED OMISSION BRACKET
-2E0E	coroniseditorial	EDITORIAL CORONIS
-2E0F	paragraphos	PARAGRAPHOS
-2E10	paragraphosforked	FORKED PARAGRAPHOS
-2E11	paragraphosforkedreversed	REVERSED FORKED PARAGRAPHOS
-2E12	hypodiastole	HYPODIASTOLE
-2E13	obelosdotted	DOTTED OBELOS
-2E14	ancoradown	DOWNWARDS ANCORA
-2E15	ancoraup	UPWARDS ANCORA
-2E16	angledottedright	DOTTED RIGHT-POINTING ANGLE
-2E17	hyphendbloblique	DOUBLE OBLIQUE HYPHEN
-2E18	interrobanginverted	INVERTED INTERROBANG
-2E19	palmbranch	PALM BRANCH
-2E1A	hyphendieresis	HYPHEN WITH DIAERESIS
-2E1B	tildering	TILDE WITH RING ABOVE
-2E1C	bracketparaphraselowleft	LEFT LOW PARAPHRASE BRACKET
-2E1D	bracketparaphraselowright	RIGHT LOW PARAPHRASE BRACKET
-2E1E	tildedotaccent	TILDE WITH DOT ABOVE
-2E1F	tildedotbelow	TILDE WITH DOT BELOW
-2E20	barquillverticalleft	LEFT VERTICAL BAR WITH QUILL
-2E21	barquillverticalright	RIGHT VERTICAL BAR WITH QUILL
-2E22	brackethalftopleft	TOP LEFT HALF BRACKET
-2E23	brackethalftopright	TOP RIGHT HALF BRACKET
-2E24	brackethalfbottomleft	BOTTOM LEFT HALF BRACKET
-2E25	brackethalfbottomright	BOTTOM RIGHT HALF BRACKET
-2E26	ubracketleft	LEFT SIDEWAYS U BRACKET
-2E27	ubracketright	RIGHT SIDEWAYS U BRACKET
-2E28	parendblleft	LEFT DOUBLE PARENTHESIS
-2E29	parendblright	RIGHT DOUBLE PARENTHESIS
-2E2A	twodotsoveronedot	TWO DOTS OVER ONE DOT PUNCTUATION
-2E2B	onedotovertwodots	ONE DOT OVER TWO DOTS PUNCTUATION
-2E2C	dotsquarefour	SQUARED FOUR DOT PUNCTUATION
-2E2D	fivedot	FIVE DOT MARK
-2E2E	questionreversed	REVERSED QUESTION MARK
-2E2F	tildevertical	VERTICAL TILDE
-2E30	pointring	RING POINT
-2E31	wordseparatormiddledot	WORD SEPARATOR MIDDLE DOT
+2E00	sppl-anglemarkersubstitutionright	RIGHT ANGLE SUBSTITUTION MARKER
+2E01	sppl-anglemarkerdottedsubstitutionright	RIGHT ANGLE DOTTED SUBSTITUTION MARKER
+2E02	sppl-bracketsubstitutionleft	LEFT SUBSTITUTION BRACKET
+2E03	sppl-bracketsubstitutionright	RIGHT SUBSTITUTION BRACKET
+2E04	sppl-bracketdottedsubstitutionleft	LEFT DOTTED SUBSTITUTION BRACKET
+2E05	sppl-bracketdottedsubstitutionright	RIGHT DOTTED SUBSTITUTION BRACKET
+2E06	sppl-markerraisedinterpolation	RAISED INTERPOLATION MARKER
+2E07	sppl-markerdottedraisedinterpolation	RAISED DOTTED INTERPOLATION MARKER
+2E08	sppl-markerdottedtransposition	DOTTED TRANSPOSITION MARKER
+2E09	sppl-brackettranspositionleft	LEFT TRANSPOSITION BRACKET
+2E0A	sppl-brackettranspositionright	RIGHT TRANSPOSITION BRACKET
+2E0B	sppl-squareraised	RAISED SQUARE
+2E0C	sppl-bracketraisedleft	LEFT RAISED OMISSION BRACKET
+2E0D	sppl-bracketraisedright	RIGHT RAISED OMISSION BRACKET
+2E0E	sppl-coroniseditorial	EDITORIAL CORONIS
+2E0F	sppl-paragraphos	PARAGRAPHOS
+2E10	sppl-paragraphosforked	FORKED PARAGRAPHOS
+2E11	sppl-paragraphosforkedreversed	REVERSED FORKED PARAGRAPHOS
+2E12	sppl-hypodiastole	HYPODIASTOLE
+2E13	sppl-obelosdotted	DOTTED OBELOS
+2E14	sppl-ancoradown	DOWNWARDS ANCORA
+2E15	sppl-ancoraup	UPWARDS ANCORA
+2E16	sppl-angledottedright	DOTTED RIGHT-POINTING ANGLE
+2E17	sppl-hyphendbloblique	DOUBLE OBLIQUE HYPHEN
+2E18	sppl-interrobanginverted	INVERTED INTERROBANG
+2E19	sppl-palmbranch	PALM BRANCH
+2E1A	sppl-hyphendieresis	HYPHEN WITH DIAERESIS
+2E1B	sppl-tildering	TILDE WITH RING ABOVE
+2E1C	sppl-bracketparaphraselowleft	LEFT LOW PARAPHRASE BRACKET
+2E1D	sppl-bracketparaphraselowright	RIGHT LOW PARAPHRASE BRACKET
+2E1E	sppl-tildedotaccent	TILDE WITH DOT ABOVE
+2E1F	sppl-tildedotbelow	TILDE WITH DOT BELOW
+2E20	sppl-barquillverticalleft	LEFT VERTICAL BAR WITH QUILL
+2E21	sppl-barquillverticalright	RIGHT VERTICAL BAR WITH QUILL
+2E22	sppl-brackethalftopleft	TOP LEFT HALF BRACKET
+2E23	sppl-brackethalftopright	TOP RIGHT HALF BRACKET
+2E24	sppl-brackethalfbottomleft	BOTTOM LEFT HALF BRACKET
+2E25	sppl-brackethalfbottomright	BOTTOM RIGHT HALF BRACKET
+2E26	sppl-ubracketleft	LEFT SIDEWAYS U BRACKET
+2E27	sppl-ubracketright	RIGHT SIDEWAYS U BRACKET
+2E28	sppl-parendblleft	LEFT DOUBLE PARENTHESIS
+2E29	sppl-parendblright	RIGHT DOUBLE PARENTHESIS
+2E2A	sppl-twodotsoveronedot	TWO DOTS OVER ONE DOT PUNCTUATION
+2E2B	sppl-onedotovertwodots	ONE DOT OVER TWO DOTS PUNCTUATION
+2E2C	sppl-dotsquarefour	SQUARED FOUR DOT PUNCTUATION
+2E2D	sppl-fivedot	FIVE DOT MARK
+2E2E	sppl-questionreversed	REVERSED QUESTION MARK
+2E2F	sppl-tildevertical	VERTICAL TILDE
+2E30	sppl-pointring	RING POINT
+2E31	sppl-wordseparatormiddledot	WORD SEPARATOR MIDDLE DOT

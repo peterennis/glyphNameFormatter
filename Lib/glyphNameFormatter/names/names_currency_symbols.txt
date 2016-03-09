@@ -1,26 +1,26 @@
 # Currency Symbols 20A0 - 20CF
-20A0	euroarchaic	EURO-CURRENCY SIGN
-20A1	colonmonetary	COLON SIGN
-20A2	cruzeiro	CRUZEIRO SIGN
-20A3	franc	FRENCH FRANC SIGN
-20A4	lira	LIRA SIGN
-20A5	mill	MILL SIGN
-20A6	naira	NAIRA SIGN
-20A7	peseta	PESETA SIGN
-20A8	rupee	RUPEE SIGN
-20A9	won	WON SIGN
-20AA	newsheqel	NEW SHEQEL SIGN
-20AB	dong	DONG SIGN
-20AC	Euro	EURO SIGN
-20AD	kip	KIP SIGN
-20AE	tugrik	TUGRIK SIGN
-20AF	drachma	DRACHMA SIGN
-20B0	germanpenny	GERMAN PENNY SIGN
-20B1	peso	PESO SIGN
-20B2	guarani	GUARANI SIGN
-20B3	austral	AUSTRAL SIGN
-20B4	hryvnia	HRYVNIA SIGN
-20B5	cedi	CEDI SIGN
-20B6	livretournois	LIVRE TOURNOIS SIGN
-20B7	spesmilo	SPESMILO SIGN
-20B8	tenge	TENGE SIGN
+20A0	crrn-euroarchaic	EURO-CURRENCY SIGN
+20A1	crrn-colonmonetary	COLON SIGN
+20A2	crrn-cruzeiro	CRUZEIRO SIGN
+20A3	crrn-franc	FRENCH FRANC SIGN
+20A4	crrn-lira	LIRA SIGN
+20A5	crrn-mill	MILL SIGN
+20A6	crrn-naira	NAIRA SIGN
+20A7	crrn-peseta	PESETA SIGN
+20A8	crrn-rupee	RUPEE SIGN
+20A9	crrn-won	WON SIGN
+20AA	crrn-newsheqel	NEW SHEQEL SIGN
+20AB	crrn-dong	DONG SIGN
+20AC	crrn-Euro	EURO SIGN
+20AD	crrn-kip	KIP SIGN
+20AE	crrn-tugrik	TUGRIK SIGN
+20AF	crrn-drachma	DRACHMA SIGN
+20B0	crrn-germanpenny	GERMAN PENNY SIGN
+20B1	crrn-peso	PESO SIGN
+20B2	crrn-guarani	GUARANI SIGN
+20B3	crrn-austral	AUSTRAL SIGN
+20B4	crrn-hryvnia	HRYVNIA SIGN
+20B5	crrn-cedi	CEDI SIGN
+20B6	crrn-livretournois	LIVRE TOURNOIS SIGN
+20B7	crrn-spesmilo	SPESMILO SIGN
+20B8	crrn-tenge	TENGE SIGN

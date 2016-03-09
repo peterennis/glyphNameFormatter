@@ -1,88 +1,88 @@
 # Thai 0E00 - 0E7F
-0E01	thaicharacterkokai	THAI CHARACTER KO KAI
-0E02	thaicharacterkhokhai	THAI CHARACTER KHO KHAI
-0E03	thaicharacterkhokhuat	THAI CHARACTER KHO KHUAT
-0E04	thaicharacterkhokhwai	THAI CHARACTER KHO KHWAI
-0E05	thaicharacterkhokhon	THAI CHARACTER KHO KHON
-0E06	thaicharacterkhorakhang	THAI CHARACTER KHO RAKHANG
-0E07	thaicharacterngongu	THAI CHARACTER NGO NGU
-0E08	thaicharacterchochan	THAI CHARACTER CHO CHAN
-0E09	thaicharacterchoching	THAI CHARACTER CHO CHING
-0E0A	thaicharacterchochang	THAI CHARACTER CHO CHANG
-0E0B	thaicharactersoso	THAI CHARACTER SO SO
-0E0C	thaicharacterchochoe	THAI CHARACTER CHO CHOE
-0E0D	thaicharacteryoying	THAI CHARACTER YO YING
-0E0E	thaicharacterdochada	THAI CHARACTER DO CHADA
-0E0F	thaicharactertopatak	THAI CHARACTER TO PATAK
-0E10	thaicharacterthothan	THAI CHARACTER THO THAN
-0E11	thaicharacterthonangmontho	THAI CHARACTER THO NANGMONTHO
-0E12	thaicharacterthophuthao	THAI CHARACTER THO PHUTHAO
-0E13	thaicharacternonen	THAI CHARACTER NO NEN
-0E14	thaicharacterdodek	THAI CHARACTER DO DEK
-0E15	thaicharactertotao	THAI CHARACTER TO TAO
-0E16	thaicharacterthothung	THAI CHARACTER THO THUNG
-0E17	thaicharacterthothahan	THAI CHARACTER THO THAHAN
-0E18	thaicharacterthothong	THAI CHARACTER THO THONG
-0E19	thaicharacternonu	THAI CHARACTER NO NU
-0E1A	thaicharacterbobaimai	THAI CHARACTER BO BAIMAI
-0E1B	thaicharacterpopla	THAI CHARACTER PO PLA
-0E1C	thaicharacterphophung	THAI CHARACTER PHO PHUNG
-0E1D	thaicharacterfofa	THAI CHARACTER FO FA
-0E1E	thaicharacterphophan	THAI CHARACTER PHO PHAN
-0E1F	thaicharacterfofan	THAI CHARACTER FO FAN
-0E20	thaicharacterphosamphao	THAI CHARACTER PHO SAMPHAO
-0E21	thaicharactermoma	THAI CHARACTER MO MA
-0E22	thaicharacteryoyak	THAI CHARACTER YO YAK
-0E23	thaicharacterrorua	THAI CHARACTER RO RUA
-0E24	thaicharacterru	THAI CHARACTER RU
-0E25	thaicharacterloling	THAI CHARACTER LO LING
-0E26	thaicharacterlu	THAI CHARACTER LU
-0E27	thaicharacterwowaen	THAI CHARACTER WO WAEN
-0E28	thaicharactersosala	THAI CHARACTER SO SALA
-0E29	thaicharactersorusi	THAI CHARACTER SO RUSI
-0E2A	thaicharactersosua	THAI CHARACTER SO SUA
-0E2B	thaicharacterhohip	THAI CHARACTER HO HIP
-0E2C	thaicharacterlochula	THAI CHARACTER LO CHULA
-0E2D	thaicharacteroang	THAI CHARACTER O ANG
-0E2E	thaicharacterhonokhuk	THAI CHARACTER HO NOKHUK
-0E2F	thaicharacterpaiyannoi	THAI CHARACTER PAIYANNOI
-0E30	thaicharactersaraa	THAI CHARACTER SARA A
-0E31	thaicharactermaihanakat	THAI CHARACTER MAI HAN-AKAT
-0E32	thaicharactersaraaa	THAI CHARACTER SARA AA
-0E33	thaicharactersaraam	THAI CHARACTER SARA AM
-0E34	thaicharactersarai	THAI CHARACTER SARA I
-0E35	thaicharactersaraii	THAI CHARACTER SARA II
-0E36	thaicharactersaraue	THAI CHARACTER SARA UE
-0E37	thaicharactersarauee	THAI CHARACTER SARA UEE
-0E38	thaicharactersarau	THAI CHARACTER SARA U
-0E39	thaicharactersarauu	THAI CHARACTER SARA UU
-0E3A	thaicharacterphinthu	THAI CHARACTER PHINTHU
-0E3F	thaicurrencysymbolbaht	THAI CURRENCY SYMBOL BAHT
-0E40	thaicharactersarae	THAI CHARACTER SARA E
-0E41	thaicharactersaraae	THAI CHARACTER SARA AE
-0E42	thaicharactersarao	THAI CHARACTER SARA O
-0E43	thaicharactersaraaimaimuan	THAI CHARACTER SARA AI MAIMUAN
-0E44	thaicharactersaraaimaimalai	THAI CHARACTER SARA AI MAIMALAI
-0E45	thaicharacterlakkhangyao	THAI CHARACTER LAKKHANGYAO
-0E46	thaicharactermaiyamok	THAI CHARACTER MAIYAMOK
-0E47	thaicharactermaitaikhu	THAI CHARACTER MAITAIKHU
-0E48	thaicharactermaiek	THAI CHARACTER MAI EK
-0E49	thaicharactermaitho	THAI CHARACTER MAI THO
-0E4A	thaicharactermaitri	THAI CHARACTER MAI TRI
-0E4B	thaicharactermaichattawa	THAI CHARACTER MAI CHATTAWA
-0E4C	thaicharacterthanthakhat	THAI CHARACTER THANTHAKHAT
-0E4D	thaicharacternikhahit	THAI CHARACTER NIKHAHIT
-0E4E	thaicharacteryamakkan	THAI CHARACTER YAMAKKAN
-0E4F	thaicharacterfongman	THAI CHARACTER FONGMAN
-0E50	thaidigitzero	THAI DIGIT ZERO
-0E51	thaidigitone	THAI DIGIT ONE
-0E52	thaidigittwo	THAI DIGIT TWO
-0E53	thaidigitthree	THAI DIGIT THREE
-0E54	thaidigitfour	THAI DIGIT FOUR
-0E55	thaidigitfive	THAI DIGIT FIVE
-0E56	thaidigitsix	THAI DIGIT SIX
-0E57	thaidigitseven	THAI DIGIT SEVEN
-0E58	thaidigiteight	THAI DIGIT EIGHT
-0E59	thaidigitnine	THAI DIGIT NINE
-0E5A	thaicharacterangkhankhu	THAI CHARACTER ANGKHANKHU
-0E5B	thaicharacterkhomut	THAI CHARACTER KHOMUT
+0E01	th-thaicharacterkokai	THAI CHARACTER KO KAI
+0E02	th-thaicharacterkhokhai	THAI CHARACTER KHO KHAI
+0E03	th-thaicharacterkhokhuat	THAI CHARACTER KHO KHUAT
+0E04	th-thaicharacterkhokhwai	THAI CHARACTER KHO KHWAI
+0E05	th-thaicharacterkhokhon	THAI CHARACTER KHO KHON
+0E06	th-thaicharacterkhorakhang	THAI CHARACTER KHO RAKHANG
+0E07	th-thaicharacterngongu	THAI CHARACTER NGO NGU
+0E08	th-thaicharacterchochan	THAI CHARACTER CHO CHAN
+0E09	th-thaicharacterchoching	THAI CHARACTER CHO CHING
+0E0A	th-thaicharacterchochang	THAI CHARACTER CHO CHANG
+0E0B	th-thaicharactersoso	THAI CHARACTER SO SO
+0E0C	th-thaicharacterchochoe	THAI CHARACTER CHO CHOE
+0E0D	th-thaicharacteryoying	THAI CHARACTER YO YING
+0E0E	th-thaicharacterdochada	THAI CHARACTER DO CHADA
+0E0F	th-thaicharactertopatak	THAI CHARACTER TO PATAK
+0E10	th-thaicharacterthothan	THAI CHARACTER THO THAN
+0E11	th-thaicharacterthonangmontho	THAI CHARACTER THO NANGMONTHO
+0E12	th-thaicharacterthophuthao	THAI CHARACTER THO PHUTHAO
+0E13	th-thaicharacternonen	THAI CHARACTER NO NEN
+0E14	th-thaicharacterdodek	THAI CHARACTER DO DEK
+0E15	th-thaicharactertotao	THAI CHARACTER TO TAO
+0E16	th-thaicharacterthothung	THAI CHARACTER THO THUNG
+0E17	th-thaicharacterthothahan	THAI CHARACTER THO THAHAN
+0E18	th-thaicharacterthothong	THAI CHARACTER THO THONG
+0E19	th-thaicharacternonu	THAI CHARACTER NO NU
+0E1A	th-thaicharacterbobaimai	THAI CHARACTER BO BAIMAI
+0E1B	th-thaicharacterpopla	THAI CHARACTER PO PLA
+0E1C	th-thaicharacterphophung	THAI CHARACTER PHO PHUNG
+0E1D	th-thaicharacterfofa	THAI CHARACTER FO FA
+0E1E	th-thaicharacterphophan	THAI CHARACTER PHO PHAN
+0E1F	th-thaicharacterfofan	THAI CHARACTER FO FAN
+0E20	th-thaicharacterphosamphao	THAI CHARACTER PHO SAMPHAO
+0E21	th-thaicharactermoma	THAI CHARACTER MO MA
+0E22	th-thaicharacteryoyak	THAI CHARACTER YO YAK
+0E23	th-thaicharacterrorua	THAI CHARACTER RO RUA
+0E24	th-thaicharacterru	THAI CHARACTER RU
+0E25	th-thaicharacterloling	THAI CHARACTER LO LING
+0E26	th-thaicharacterlu	THAI CHARACTER LU
+0E27	th-thaicharacterwowaen	THAI CHARACTER WO WAEN
+0E28	th-thaicharactersosala	THAI CHARACTER SO SALA
+0E29	th-thaicharactersorusi	THAI CHARACTER SO RUSI
+0E2A	th-thaicharactersosua	THAI CHARACTER SO SUA
+0E2B	th-thaicharacterhohip	THAI CHARACTER HO HIP
+0E2C	th-thaicharacterlochula	THAI CHARACTER LO CHULA
+0E2D	th-thaicharacteroang	THAI CHARACTER O ANG
+0E2E	th-thaicharacterhonokhuk	THAI CHARACTER HO NOKHUK
+0E2F	th-thaicharacterpaiyannoi	THAI CHARACTER PAIYANNOI
+0E30	th-thaicharactersaraa	THAI CHARACTER SARA A
+0E31	th-thaicharactermaihanakat	THAI CHARACTER MAI HAN-AKAT
+0E32	th-thaicharactersaraaa	THAI CHARACTER SARA AA
+0E33	th-thaicharactersaraam	THAI CHARACTER SARA AM
+0E34	th-thaicharactersarai	THAI CHARACTER SARA I
+0E35	th-thaicharactersaraii	THAI CHARACTER SARA II
+0E36	th-thaicharactersaraue	THAI CHARACTER SARA UE
+0E37	th-thaicharactersarauee	THAI CHARACTER SARA UEE
+0E38	th-thaicharactersarau	THAI CHARACTER SARA U
+0E39	th-thaicharactersarauu	THAI CHARACTER SARA UU
+0E3A	th-thaicharacterphinthu	THAI CHARACTER PHINTHU
+0E3F	th-thaicurrencysymbolbaht	THAI CURRENCY SYMBOL BAHT
+0E40	th-thaicharactersarae	THAI CHARACTER SARA E
+0E41	th-thaicharactersaraae	THAI CHARACTER SARA AE
+0E42	th-thaicharactersarao	THAI CHARACTER SARA O
+0E43	th-thaicharactersaraaimaimuan	THAI CHARACTER SARA AI MAIMUAN
+0E44	th-thaicharactersaraaimaimalai	THAI CHARACTER SARA AI MAIMALAI
+0E45	th-thaicharacterlakkhangyao	THAI CHARACTER LAKKHANGYAO
+0E46	th-thaicharactermaiyamok	THAI CHARACTER MAIYAMOK
+0E47	th-thaicharactermaitaikhu	THAI CHARACTER MAITAIKHU
+0E48	th-thaicharactermaiek	THAI CHARACTER MAI EK
+0E49	th-thaicharactermaitho	THAI CHARACTER MAI THO
+0E4A	th-thaicharactermaitri	THAI CHARACTER MAI TRI
+0E4B	th-thaicharactermaichattawa	THAI CHARACTER MAI CHATTAWA
+0E4C	th-thaicharacterthanthakhat	THAI CHARACTER THANTHAKHAT
+0E4D	th-thaicharacternikhahit	THAI CHARACTER NIKHAHIT
+0E4E	th-thaicharacteryamakkan	THAI CHARACTER YAMAKKAN
+0E4F	th-thaicharacterfongman	THAI CHARACTER FONGMAN
+0E50	th-thaidigitzero	THAI DIGIT ZERO
+0E51	th-thaidigitone	THAI DIGIT ONE
+0E52	th-thaidigittwo	THAI DIGIT TWO
+0E53	th-thaidigitthree	THAI DIGIT THREE
+0E54	th-thaidigitfour	THAI DIGIT FOUR
+0E55	th-thaidigitfive	THAI DIGIT FIVE
+0E56	th-thaidigitsix	THAI DIGIT SIX
+0E57	th-thaidigitseven	THAI DIGIT SEVEN
+0E58	th-thaidigiteight	THAI DIGIT EIGHT
+0E59	th-thaidigitnine	THAI DIGIT NINE
+0E5A	th-thaicharacterangkhankhu	THAI CHARACTER ANGKHANKHU
+0E5B	th-thaicharacterkhomut	THAI CHARACTER KHOMUT

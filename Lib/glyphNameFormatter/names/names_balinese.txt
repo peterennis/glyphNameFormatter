@@ -1,122 +1,122 @@
 # Balinese 1B00 - 1B7F
-1B00	balinesesignuluricem	BALINESE SIGN ULU RICEM
-1B01	balinesesignulucandra	BALINESE SIGN ULU CANDRA
-1B02	balinesesigncecek	BALINESE SIGN CECEK
-1B03	balinesesignsurang	BALINESE SIGN SURANG
-1B04	balinesesignbisah	BALINESE SIGN BISAH
-1B05	balineseletterakara	BALINESE LETTER AKARA
-1B06	balineseletterakaratedung	BALINESE LETTER AKARA TEDUNG
-1B07	balineseletterikara	BALINESE LETTER IKARA
-1B08	balineseletterikaratedung	BALINESE LETTER IKARA TEDUNG
-1B09	balineseletterukara	BALINESE LETTER UKARA
-1B0A	balineseletterukaratedung	BALINESE LETTER UKARA TEDUNG
-1B0B	balineseletterrarepa	BALINESE LETTER RA REPA
-1B0C	balineseletterrarepatedung	BALINESE LETTER RA REPA TEDUNG
-1B0D	balineseletterlalenga	BALINESE LETTER LA LENGA
-1B0E	balineseletterlalengatedung	BALINESE LETTER LA LENGA TEDUNG
-1B0F	balineseletterekara	BALINESE LETTER EKARA
-1B10	balineseletteraikara	BALINESE LETTER AIKARA
-1B11	balineseletterokara	BALINESE LETTER OKARA
-1B12	balineseletterokaratedung	BALINESE LETTER OKARA TEDUNG
-1B13	balineseletterka	BALINESE LETTER KA
-1B14	balineseletterkamahaprana	BALINESE LETTER KA MAHAPRANA
-1B15	balineseletterga	BALINESE LETTER GA
-1B16	balineselettergagora	BALINESE LETTER GA GORA
-1B17	balineseletternga	BALINESE LETTER NGA
-1B18	balineseletterca	BALINESE LETTER CA
-1B19	balineselettercalaca	BALINESE LETTER CA LACA
-1B1A	balineseletterja	BALINESE LETTER JA
-1B1B	balineseletterjajera	BALINESE LETTER JA JERA
-1B1C	balineseletternya	BALINESE LETTER NYA
-1B1D	balineselettertalatik	BALINESE LETTER TA LATIK
-1B1E	balineselettertamurdamahaprana	BALINESE LETTER TA MURDA MAHAPRANA
-1B1F	balineseletterdamurdaalpaprana	BALINESE LETTER DA MURDA ALPAPRANA
-1B20	balineseletterdamurdamahaprana	BALINESE LETTER DA MURDA MAHAPRANA
-1B21	balineseletternarambat	BALINESE LETTER NA RAMBAT
-1B22	balineseletterta	BALINESE LETTER TA
-1B23	balineselettertatawa	BALINESE LETTER TA TAWA
-1B24	balineseletterda	BALINESE LETTER DA
-1B25	balineseletterdamadu	BALINESE LETTER DA MADU
-1B26	balineseletterna	BALINESE LETTER NA
-1B27	balineseletterpa	BALINESE LETTER PA
-1B28	balineseletterpakapal	BALINESE LETTER PA KAPAL
-1B29	balineseletterba	BALINESE LETTER BA
-1B2A	balineseletterbakembang	BALINESE LETTER BA KEMBANG
-1B2B	balineseletterma	BALINESE LETTER MA
-1B2C	balineseletterya	BALINESE LETTER YA
-1B2D	balineseletterra	BALINESE LETTER RA
-1B2E	balineseletterla	BALINESE LETTER LA
-1B2F	balineseletterwa	BALINESE LETTER WA
-1B30	balineselettersasaga	BALINESE LETTER SA SAGA
-1B31	balineselettersasapa	BALINESE LETTER SA SAPA
-1B32	balineselettersa	BALINESE LETTER SA
-1B33	balineseletterha	BALINESE LETTER HA
-1B34	balinesesignrerekan	BALINESE SIGN REREKAN
-1B35	balinesevowelsigntedung	BALINESE VOWEL SIGN TEDUNG
-1B36	balinesevowelsignulu	BALINESE VOWEL SIGN ULU
-1B37	balinesevowelsignulusari	BALINESE VOWEL SIGN ULU SARI
-1B38	balinesevowelsignsuku	BALINESE VOWEL SIGN SUKU
-1B39	balinesevowelsignsukuilut	BALINESE VOWEL SIGN SUKU ILUT
-1B3A	balinesevowelsignrarepa	BALINESE VOWEL SIGN RA REPA
-1B3B	balinesevowelsignrarepatedung	BALINESE VOWEL SIGN RA REPA TEDUNG
-1B3C	balinesevowelsignlalenga	BALINESE VOWEL SIGN LA LENGA
-1B3D	balinesevowelsignlalengatedung	BALINESE VOWEL SIGN LA LENGA TEDUNG
-1B3E	balinesevowelsigntaling	BALINESE VOWEL SIGN TALING
-1B3F	balinesevowelsigntalingrepa	BALINESE VOWEL SIGN TALING REPA
-1B40	balinesevowelsigntalingtedung	BALINESE VOWEL SIGN TALING TEDUNG
-1B41	balinesevowelsigntalingrepatedung	BALINESE VOWEL SIGN TALING REPA TEDUNG
-1B42	balinesevowelsignpepet	BALINESE VOWEL SIGN PEPET
-1B43	balinesevowelsignpepettedung	BALINESE VOWEL SIGN PEPET TEDUNG
-1B44	balineseadegadeg	BALINESE ADEG ADEG
-1B45	balineseletterkafsasak	BALINESE LETTER KAF SASAK
-1B46	balineseletterkhotsasak	BALINESE LETTER KHOT SASAK
-1B47	balineselettertzirsasak	BALINESE LETTER TZIR SASAK
-1B48	balineseletterefsasak	BALINESE LETTER EF SASAK
-1B49	balineselettervesasak	BALINESE LETTER VE SASAK
-1B4A	balineseletterzalsasak	BALINESE LETTER ZAL SASAK
-1B4B	balineseletterasyurasasak	BALINESE LETTER ASYURA SASAK
-1B50	balinesedigitzero	BALINESE DIGIT ZERO
-1B51	balinesedigitone	BALINESE DIGIT ONE
-1B52	balinesedigittwo	BALINESE DIGIT TWO
-1B53	balinesedigitthree	BALINESE DIGIT THREE
-1B54	balinesedigitfour	BALINESE DIGIT FOUR
-1B55	balinesedigitfive	BALINESE DIGIT FIVE
-1B56	balinesedigitsix	BALINESE DIGIT SIX
-1B57	balinesedigitseven	BALINESE DIGIT SEVEN
-1B58	balinesedigiteight	BALINESE DIGIT EIGHT
-1B59	balinesedigitnine	BALINESE DIGIT NINE
-1B5A	balinesepanti	BALINESE PANTI
-1B5B	balinesepamada	BALINESE PAMADA
-1B5C	balinesewindu	BALINESE WINDU
-1B5D	balinesecarikpamungkah	BALINESE CARIK PAMUNGKAH
-1B5E	balinesecariksiki	BALINESE CARIK SIKI
-1B5F	balinesecarikpareren	BALINESE CARIK PAREREN
-1B60	balinesepameneng	BALINESE PAMENENG
-1B61	balinesemusicalsymboldong	BALINESE MUSICAL SYMBOL DONG
-1B62	balinesemusicalsymboldeng	BALINESE MUSICAL SYMBOL DENG
-1B63	balinesemusicalsymboldung	BALINESE MUSICAL SYMBOL DUNG
-1B64	balinesemusicalsymboldang	BALINESE MUSICAL SYMBOL DANG
-1B65	balinesemusicalsymboldangsurang	BALINESE MUSICAL SYMBOL DANG SURANG
-1B66	balinesemusicalsymbolding	BALINESE MUSICAL SYMBOL DING
-1B67	balinesemusicalsymboldaeng	BALINESE MUSICAL SYMBOL DAENG
-1B68	balinesemusicalsymboldeung	BALINESE MUSICAL SYMBOL DEUNG
-1B69	balinesemusicalsymboldaing	BALINESE MUSICAL SYMBOL DAING
-1B6A	balinesemusicalsymboldanggede	BALINESE MUSICAL SYMBOL DANG GEDE
-1B6B	balinesemusicalsymbolcombiningtegeh	BALINESE MUSICAL SYMBOL COMBINING TEGEH
-1B6C	balinesemusicalsymbolcombiningendep	BALINESE MUSICAL SYMBOL COMBINING ENDEP
-1B6D	balinesemusicalsymbolcombiningkempul	BALINESE MUSICAL SYMBOL COMBINING KEMPUL
-1B6E	balinesemusicalsymbolcombiningkempli	BALINESE MUSICAL SYMBOL COMBINING KEMPLI
-1B6F	balinesemusicalsymbolcombiningjegogan	BALINESE MUSICAL SYMBOL COMBINING JEGOGAN
-1B70	balinesemusicalsymbolcombiningkempulwithjegogan	BALINESE MUSICAL SYMBOL COMBINING KEMPUL WITH JEGOGAN
-1B71	balinesemusicalsymbolcombiningkempliwithjegogan	BALINESE MUSICAL SYMBOL COMBINING KEMPLI WITH JEGOGAN
-1B72	balinesemusicalsymbolcombiningbende	BALINESE MUSICAL SYMBOL COMBINING BENDE
-1B73	balinesemusicalsymbolcombininggong	BALINESE MUSICAL SYMBOL COMBINING GONG
-1B74	balinesemusicalsymbolrighthandopendug	BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DUG
-1B75	balinesemusicalsymbolrighthandopendag	BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DAG
-1B76	balinesemusicalsymbolrighthandclosedtuk	BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TUK
-1B77	balinesemusicalsymbolrighthandclosedtak	BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TAK
-1B78	balinesemusicalsymbollefthandopenpang	BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PANG
-1B79	balinesemusicalsymbollefthandopenpung	BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PUNG
-1B7A	balinesemusicalsymbollefthandclosedplak	BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLAK
-1B7B	balinesemusicalsymbollefthandclosedpluk	BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLUK
-1B7C	balinesemusicalsymbollefthandopenping	BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PING
+1B00	blns-balinesesignuluricem	BALINESE SIGN ULU RICEM
+1B01	blns-balinesesignulucandra	BALINESE SIGN ULU CANDRA
+1B02	blns-balinesesigncecek	BALINESE SIGN CECEK
+1B03	blns-balinesesignsurang	BALINESE SIGN SURANG
+1B04	blns-balinesesignbisah	BALINESE SIGN BISAH
+1B05	blns-balineseletterakara	BALINESE LETTER AKARA
+1B06	blns-balineseletterakaratedung	BALINESE LETTER AKARA TEDUNG
+1B07	blns-balineseletterikara	BALINESE LETTER IKARA
+1B08	blns-balineseletterikaratedung	BALINESE LETTER IKARA TEDUNG
+1B09	blns-balineseletterukara	BALINESE LETTER UKARA
+1B0A	blns-balineseletterukaratedung	BALINESE LETTER UKARA TEDUNG
+1B0B	blns-balineseletterrarepa	BALINESE LETTER RA REPA
+1B0C	blns-balineseletterrarepatedung	BALINESE LETTER RA REPA TEDUNG
+1B0D	blns-balineseletterlalenga	BALINESE LETTER LA LENGA
+1B0E	blns-balineseletterlalengatedung	BALINESE LETTER LA LENGA TEDUNG
+1B0F	blns-balineseletterekara	BALINESE LETTER EKARA
+1B10	blns-balineseletteraikara	BALINESE LETTER AIKARA
+1B11	blns-balineseletterokara	BALINESE LETTER OKARA
+1B12	blns-balineseletterokaratedung	BALINESE LETTER OKARA TEDUNG
+1B13	blns-balineseletterka	BALINESE LETTER KA
+1B14	blns-balineseletterkamahaprana	BALINESE LETTER KA MAHAPRANA
+1B15	blns-balineseletterga	BALINESE LETTER GA
+1B16	blns-balineselettergagora	BALINESE LETTER GA GORA
+1B17	blns-balineseletternga	BALINESE LETTER NGA
+1B18	blns-balineseletterca	BALINESE LETTER CA
+1B19	blns-balineselettercalaca	BALINESE LETTER CA LACA
+1B1A	blns-balineseletterja	BALINESE LETTER JA
+1B1B	blns-balineseletterjajera	BALINESE LETTER JA JERA
+1B1C	blns-balineseletternya	BALINESE LETTER NYA
+1B1D	blns-balineselettertalatik	BALINESE LETTER TA LATIK
+1B1E	blns-balineselettertamurdamahaprana	BALINESE LETTER TA MURDA MAHAPRANA
+1B1F	blns-balineseletterdamurdaalpaprana	BALINESE LETTER DA MURDA ALPAPRANA
+1B20	blns-balineseletterdamurdamahaprana	BALINESE LETTER DA MURDA MAHAPRANA
+1B21	blns-balineseletternarambat	BALINESE LETTER NA RAMBAT
+1B22	blns-balineseletterta	BALINESE LETTER TA
+1B23	blns-balineselettertatawa	BALINESE LETTER TA TAWA
+1B24	blns-balineseletterda	BALINESE LETTER DA
+1B25	blns-balineseletterdamadu	BALINESE LETTER DA MADU
+1B26	blns-balineseletterna	BALINESE LETTER NA
+1B27	blns-balineseletterpa	BALINESE LETTER PA
+1B28	blns-balineseletterpakapal	BALINESE LETTER PA KAPAL
+1B29	blns-balineseletterba	BALINESE LETTER BA
+1B2A	blns-balineseletterbakembang	BALINESE LETTER BA KEMBANG
+1B2B	blns-balineseletterma	BALINESE LETTER MA
+1B2C	blns-balineseletterya	BALINESE LETTER YA
+1B2D	blns-balineseletterra	BALINESE LETTER RA
+1B2E	blns-balineseletterla	BALINESE LETTER LA
+1B2F	blns-balineseletterwa	BALINESE LETTER WA
+1B30	blns-balineselettersasaga	BALINESE LETTER SA SAGA
+1B31	blns-balineselettersasapa	BALINESE LETTER SA SAPA
+1B32	blns-balineselettersa	BALINESE LETTER SA
+1B33	blns-balineseletterha	BALINESE LETTER HA
+1B34	blns-balinesesignrerekan	BALINESE SIGN REREKAN
+1B35	blns-balinesevowelsigntedung	BALINESE VOWEL SIGN TEDUNG
+1B36	blns-balinesevowelsignulu	BALINESE VOWEL SIGN ULU
+1B37	blns-balinesevowelsignulusari	BALINESE VOWEL SIGN ULU SARI
+1B38	blns-balinesevowelsignsuku	BALINESE VOWEL SIGN SUKU
+1B39	blns-balinesevowelsignsukuilut	BALINESE VOWEL SIGN SUKU ILUT
+1B3A	blns-balinesevowelsignrarepa	BALINESE VOWEL SIGN RA REPA
+1B3B	blns-balinesevowelsignrarepatedung	BALINESE VOWEL SIGN RA REPA TEDUNG
+1B3C	blns-balinesevowelsignlalenga	BALINESE VOWEL SIGN LA LENGA
+1B3D	blns-balinesevowelsignlalengatedung	BALINESE VOWEL SIGN LA LENGA TEDUNG
+1B3E	blns-balinesevowelsigntaling	BALINESE VOWEL SIGN TALING
+1B3F	blns-balinesevowelsigntalingrepa	BALINESE VOWEL SIGN TALING REPA
+1B40	blns-balinesevowelsigntalingtedung	BALINESE VOWEL SIGN TALING TEDUNG
+1B41	blns-balinesevowelsigntalingrepatedung	BALINESE VOWEL SIGN TALING REPA TEDUNG
+1B42	blns-balinesevowelsignpepet	BALINESE VOWEL SIGN PEPET
+1B43	blns-balinesevowelsignpepettedung	BALINESE VOWEL SIGN PEPET TEDUNG
+1B44	blns-balineseadegadeg	BALINESE ADEG ADEG
+1B45	blns-balineseletterkafsasak	BALINESE LETTER KAF SASAK
+1B46	blns-balineseletterkhotsasak	BALINESE LETTER KHOT SASAK
+1B47	blns-balineselettertzirsasak	BALINESE LETTER TZIR SASAK
+1B48	blns-balineseletterefsasak	BALINESE LETTER EF SASAK
+1B49	blns-balineselettervesasak	BALINESE LETTER VE SASAK
+1B4A	blns-balineseletterzalsasak	BALINESE LETTER ZAL SASAK
+1B4B	blns-balineseletterasyurasasak	BALINESE LETTER ASYURA SASAK
+1B50	blns-balinesedigitzero	BALINESE DIGIT ZERO
+1B51	blns-balinesedigitone	BALINESE DIGIT ONE
+1B52	blns-balinesedigittwo	BALINESE DIGIT TWO
+1B53	blns-balinesedigitthree	BALINESE DIGIT THREE
+1B54	blns-balinesedigitfour	BALINESE DIGIT FOUR
+1B55	blns-balinesedigitfive	BALINESE DIGIT FIVE
+1B56	blns-balinesedigitsix	BALINESE DIGIT SIX
+1B57	blns-balinesedigitseven	BALINESE DIGIT SEVEN
+1B58	blns-balinesedigiteight	BALINESE DIGIT EIGHT
+1B59	blns-balinesedigitnine	BALINESE DIGIT NINE
+1B5A	blns-balinesepanti	BALINESE PANTI
+1B5B	blns-balinesepamada	BALINESE PAMADA
+1B5C	blns-balinesewindu	BALINESE WINDU
+1B5D	blns-balinesecarikpamungkah	BALINESE CARIK PAMUNGKAH
+1B5E	blns-balinesecariksiki	BALINESE CARIK SIKI
+1B5F	blns-balinesecarikpareren	BALINESE CARIK PAREREN
+1B60	blns-balinesepameneng	BALINESE PAMENENG
+1B61	blns-balinesemusicalsymboldong	BALINESE MUSICAL SYMBOL DONG
+1B62	blns-balinesemusicalsymboldeng	BALINESE MUSICAL SYMBOL DENG
+1B63	blns-balinesemusicalsymboldung	BALINESE MUSICAL SYMBOL DUNG
+1B64	blns-balinesemusicalsymboldang	BALINESE MUSICAL SYMBOL DANG
+1B65	blns-balinesemusicalsymboldangsurang	BALINESE MUSICAL SYMBOL DANG SURANG
+1B66	blns-balinesemusicalsymbolding	BALINESE MUSICAL SYMBOL DING
+1B67	blns-balinesemusicalsymboldaeng	BALINESE MUSICAL SYMBOL DAENG
+1B68	blns-balinesemusicalsymboldeung	BALINESE MUSICAL SYMBOL DEUNG
+1B69	blns-balinesemusicalsymboldaing	BALINESE MUSICAL SYMBOL DAING
+1B6A	blns-balinesemusicalsymboldanggede	BALINESE MUSICAL SYMBOL DANG GEDE
+1B6B	blns-balinesemusicalsymbolcombiningtegeh	BALINESE MUSICAL SYMBOL COMBINING TEGEH
+1B6C	blns-balinesemusicalsymbolcombiningendep	BALINESE MUSICAL SYMBOL COMBINING ENDEP
+1B6D	blns-balinesemusicalsymbolcombiningkempul	BALINESE MUSICAL SYMBOL COMBINING KEMPUL
+1B6E	blns-balinesemusicalsymbolcombiningkempli	BALINESE MUSICAL SYMBOL COMBINING KEMPLI
+1B6F	blns-balinesemusicalsymbolcombiningjegogan	BALINESE MUSICAL SYMBOL COMBINING JEGOGAN
+1B70	blns-balinesemusicalsymbolcombiningkempulwithjegogan	BALINESE MUSICAL SYMBOL COMBINING KEMPUL WITH JEGOGAN
+1B71	blns-balinesemusicalsymbolcombiningkempliwithjegogan	BALINESE MUSICAL SYMBOL COMBINING KEMPLI WITH JEGOGAN
+1B72	blns-balinesemusicalsymbolcombiningbende	BALINESE MUSICAL SYMBOL COMBINING BENDE
+1B73	blns-balinesemusicalsymbolcombininggong	BALINESE MUSICAL SYMBOL COMBINING GONG
+1B74	blns-balinesemusicalsymbolrighthandopendug	BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DUG
+1B75	blns-balinesemusicalsymbolrighthandopendag	BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DAG
+1B76	blns-balinesemusicalsymbolrighthandclosedtuk	BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TUK
+1B77	blns-balinesemusicalsymbolrighthandclosedtak	BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TAK
+1B78	blns-balinesemusicalsymbollefthandopenpang	BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PANG
+1B79	blns-balinesemusicalsymbollefthandopenpung	BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PUNG
+1B7A	blns-balinesemusicalsymbollefthandclosedplak	BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLAK
+1B7B	blns-balinesemusicalsymbollefthandclosedpluk	BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLUK
+1B7C	blns-balinesemusicalsymbollefthandopenping	BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PING

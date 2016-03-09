@@ -1,92 +1,92 @@
 # Javanese A980 - A9DF
-A980	javanesesignpanyangga	JAVANESE SIGN PANYANGGA
-A981	javanesesigncecak	JAVANESE SIGN CECAK
-A982	javanesesignlayar	JAVANESE SIGN LAYAR
-A983	javanesesignwignyan	JAVANESE SIGN WIGNYAN
-A984	javaneselettera	JAVANESE LETTER A
-A985	javaneseletterikawi	JAVANESE LETTER I KAWI
-A986	javaneseletteri	JAVANESE LETTER I
-A987	javaneseletterii	JAVANESE LETTER II
-A988	javaneseletteru	JAVANESE LETTER U
-A989	javaneseletterpacerek	JAVANESE LETTER PA CEREK
-A98A	javaneseletterngalelet	JAVANESE LETTER NGA LELET
-A98B	javaneseletterngaleletraswadi	JAVANESE LETTER NGA LELET RASWADI
-A98C	javaneselettere	JAVANESE LETTER E
-A98D	javaneseletterai	JAVANESE LETTER AI
-A98E	javaneselettero	JAVANESE LETTER O
-A98F	javaneseletterka	JAVANESE LETTER KA
-A990	javaneseletterkasasak	JAVANESE LETTER KA SASAK
-A991	javaneseletterkamurda	JAVANESE LETTER KA MURDA
-A992	javaneseletterga	JAVANESE LETTER GA
-A993	javaneselettergamurda	JAVANESE LETTER GA MURDA
-A994	javaneseletternga	JAVANESE LETTER NGA
-A995	javaneseletterca	JAVANESE LETTER CA
-A996	javaneselettercamurda	JAVANESE LETTER CA MURDA
-A997	javaneseletterja	JAVANESE LETTER JA
-A998	javaneseletternyamurda	JAVANESE LETTER NYA MURDA
-A999	javaneseletterjamahaprana	JAVANESE LETTER JA MAHAPRANA
-A99A	javaneseletternya	JAVANESE LETTER NYA
-A99B	javaneselettertta	JAVANESE LETTER TTA
-A99C	javaneseletterttamahaprana	JAVANESE LETTER TTA MAHAPRANA
-A99D	javaneseletterdda	JAVANESE LETTER DDA
-A99E	javaneseletterddamahaprana	JAVANESE LETTER DDA MAHAPRANA
-A99F	javaneseletternamurda	JAVANESE LETTER NA MURDA
-A9A0	javaneseletterta	JAVANESE LETTER TA
-A9A1	javaneselettertamurda	JAVANESE LETTER TA MURDA
-A9A2	javaneseletterda	JAVANESE LETTER DA
-A9A3	javaneseletterdamahaprana	JAVANESE LETTER DA MAHAPRANA
-A9A4	javaneseletterna	JAVANESE LETTER NA
-A9A5	javaneseletterpa	JAVANESE LETTER PA
-A9A6	javaneseletterpamurda	JAVANESE LETTER PA MURDA
-A9A7	javaneseletterba	JAVANESE LETTER BA
-A9A8	javaneseletterbamurda	JAVANESE LETTER BA MURDA
-A9A9	javaneseletterma	JAVANESE LETTER MA
-A9AA	javaneseletterya	JAVANESE LETTER YA
-A9AB	javaneseletterra	JAVANESE LETTER RA
-A9AC	javaneseletterraagung	JAVANESE LETTER RA AGUNG
-A9AD	javaneseletterla	JAVANESE LETTER LA
-A9AE	javaneseletterwa	JAVANESE LETTER WA
-A9AF	javaneselettersamurda	JAVANESE LETTER SA MURDA
-A9B0	javaneselettersamahaprana	JAVANESE LETTER SA MAHAPRANA
-A9B1	javaneselettersa	JAVANESE LETTER SA
-A9B2	javaneseletterha	JAVANESE LETTER HA
-A9B3	javanesesigncecaktelu	JAVANESE SIGN CECAK TELU
-A9B4	javanesevowelsigntarung	JAVANESE VOWEL SIGN TARUNG
-A9B5	javanesevowelsigntolong	JAVANESE VOWEL SIGN TOLONG
-A9B6	javanesevowelsignwulu	JAVANESE VOWEL SIGN WULU
-A9B7	javanesevowelsignwulumelik	JAVANESE VOWEL SIGN WULU MELIK
-A9B8	javanesevowelsignsuku	JAVANESE VOWEL SIGN SUKU
-A9B9	javanesevowelsignsukumendut	JAVANESE VOWEL SIGN SUKU MENDUT
-A9BA	javanesevowelsigntaling	JAVANESE VOWEL SIGN TALING
-A9BB	javanesevowelsigndirgamure	JAVANESE VOWEL SIGN DIRGA MURE
-A9BC	javanesevowelsignpepet	JAVANESE VOWEL SIGN PEPET
-A9BD	javaneseconsonantsignkeret	JAVANESE CONSONANT SIGN KERET
-A9BE	javaneseconsonantsignpengkal	JAVANESE CONSONANT SIGN PENGKAL
-A9BF	javaneseconsonantsigncakra	JAVANESE CONSONANT SIGN CAKRA
-A9C0	javanesepangkon	JAVANESE PANGKON
-A9C1	javaneseleftrerenggan	JAVANESE LEFT RERENGGAN
-A9C2	javaneserightrerenggan	JAVANESE RIGHT RERENGGAN
-A9C3	javanesepadaandap	JAVANESE PADA ANDAP
-A9C4	javanesepadamadya	JAVANESE PADA MADYA
-A9C5	javanesepadaluhur	JAVANESE PADA LUHUR
-A9C6	javanesepadawindu	JAVANESE PADA WINDU
-A9C7	javanesepadapangkat	JAVANESE PADA PANGKAT
-A9C8	javanesepadalingsa	JAVANESE PADA LINGSA
-A9C9	javanesepadalungsi	JAVANESE PADA LUNGSI
-A9CA	javanesepadaadeg	JAVANESE PADA ADEG
-A9CB	javanesepadaadegadeg	JAVANESE PADA ADEG ADEG
-A9CC	javanesepadapiseleh	JAVANESE PADA PISELEH
-A9CD	javaneseturnedpadapiseleh	JAVANESE TURNED PADA PISELEH
-A9CF	javanesepangrangkep	JAVANESE PANGRANGKEP
-A9D0	javanesedigitzero	JAVANESE DIGIT ZERO
-A9D1	javanesedigitone	JAVANESE DIGIT ONE
-A9D2	javanesedigittwo	JAVANESE DIGIT TWO
-A9D3	javanesedigitthree	JAVANESE DIGIT THREE
-A9D4	javanesedigitfour	JAVANESE DIGIT FOUR
-A9D5	javanesedigitfive	JAVANESE DIGIT FIVE
-A9D6	javanesedigitsix	JAVANESE DIGIT SIX
-A9D7	javanesedigitseven	JAVANESE DIGIT SEVEN
-A9D8	javanesedigiteight	JAVANESE DIGIT EIGHT
-A9D9	javanesedigitnine	JAVANESE DIGIT NINE
-A9DE	javanesepadatirtatumetes	JAVANESE PADA TIRTA TUMETES
-A9DF	javanesepadaisenisen	JAVANESE PADA ISEN-ISEN
+A980	jvns-javanesesignpanyangga	JAVANESE SIGN PANYANGGA
+A981	jvns-javanesesigncecak	JAVANESE SIGN CECAK
+A982	jvns-javanesesignlayar	JAVANESE SIGN LAYAR
+A983	jvns-javanesesignwignyan	JAVANESE SIGN WIGNYAN
+A984	jvns-javaneselettera	JAVANESE LETTER A
+A985	jvns-javaneseletterikawi	JAVANESE LETTER I KAWI
+A986	jvns-javaneseletteri	JAVANESE LETTER I
+A987	jvns-javaneseletterii	JAVANESE LETTER II
+A988	jvns-javaneseletteru	JAVANESE LETTER U
+A989	jvns-javaneseletterpacerek	JAVANESE LETTER PA CEREK
+A98A	jvns-javaneseletterngalelet	JAVANESE LETTER NGA LELET
+A98B	jvns-javaneseletterngaleletraswadi	JAVANESE LETTER NGA LELET RASWADI
+A98C	jvns-javaneselettere	JAVANESE LETTER E
+A98D	jvns-javaneseletterai	JAVANESE LETTER AI
+A98E	jvns-javaneselettero	JAVANESE LETTER O
+A98F	jvns-javaneseletterka	JAVANESE LETTER KA
+A990	jvns-javaneseletterkasasak	JAVANESE LETTER KA SASAK
+A991	jvns-javaneseletterkamurda	JAVANESE LETTER KA MURDA
+A992	jvns-javaneseletterga	JAVANESE LETTER GA
+A993	jvns-javaneselettergamurda	JAVANESE LETTER GA MURDA
+A994	jvns-javaneseletternga	JAVANESE LETTER NGA
+A995	jvns-javaneseletterca	JAVANESE LETTER CA
+A996	jvns-javaneselettercamurda	JAVANESE LETTER CA MURDA
+A997	jvns-javaneseletterja	JAVANESE LETTER JA
+A998	jvns-javaneseletternyamurda	JAVANESE LETTER NYA MURDA
+A999	jvns-javaneseletterjamahaprana	JAVANESE LETTER JA MAHAPRANA
+A99A	jvns-javaneseletternya	JAVANESE LETTER NYA
+A99B	jvns-javaneselettertta	JAVANESE LETTER TTA
+A99C	jvns-javaneseletterttamahaprana	JAVANESE LETTER TTA MAHAPRANA
+A99D	jvns-javaneseletterdda	JAVANESE LETTER DDA
+A99E	jvns-javaneseletterddamahaprana	JAVANESE LETTER DDA MAHAPRANA
+A99F	jvns-javaneseletternamurda	JAVANESE LETTER NA MURDA
+A9A0	jvns-javaneseletterta	JAVANESE LETTER TA
+A9A1	jvns-javaneselettertamurda	JAVANESE LETTER TA MURDA
+A9A2	jvns-javaneseletterda	JAVANESE LETTER DA
+A9A3	jvns-javaneseletterdamahaprana	JAVANESE LETTER DA MAHAPRANA
+A9A4	jvns-javaneseletterna	JAVANESE LETTER NA
+A9A5	jvns-javaneseletterpa	JAVANESE LETTER PA
+A9A6	jvns-javaneseletterpamurda	JAVANESE LETTER PA MURDA
+A9A7	jvns-javaneseletterba	JAVANESE LETTER BA
+A9A8	jvns-javaneseletterbamurda	JAVANESE LETTER BA MURDA
+A9A9	jvns-javaneseletterma	JAVANESE LETTER MA
+A9AA	jvns-javaneseletterya	JAVANESE LETTER YA
+A9AB	jvns-javaneseletterra	JAVANESE LETTER RA
+A9AC	jvns-javaneseletterraagung	JAVANESE LETTER RA AGUNG
+A9AD	jvns-javaneseletterla	JAVANESE LETTER LA
+A9AE	jvns-javaneseletterwa	JAVANESE LETTER WA
+A9AF	jvns-javaneselettersamurda	JAVANESE LETTER SA MURDA
+A9B0	jvns-javaneselettersamahaprana	JAVANESE LETTER SA MAHAPRANA
+A9B1	jvns-javaneselettersa	JAVANESE LETTER SA
+A9B2	jvns-javaneseletterha	JAVANESE LETTER HA
+A9B3	jvns-javanesesigncecaktelu	JAVANESE SIGN CECAK TELU
+A9B4	jvns-javanesevowelsigntarung	JAVANESE VOWEL SIGN TARUNG
+A9B5	jvns-javanesevowelsigntolong	JAVANESE VOWEL SIGN TOLONG
+A9B6	jvns-javanesevowelsignwulu	JAVANESE VOWEL SIGN WULU
+A9B7	jvns-javanesevowelsignwulumelik	JAVANESE VOWEL SIGN WULU MELIK
+A9B8	jvns-javanesevowelsignsuku	JAVANESE VOWEL SIGN SUKU
+A9B9	jvns-javanesevowelsignsukumendut	JAVANESE VOWEL SIGN SUKU MENDUT
+A9BA	jvns-javanesevowelsigntaling	JAVANESE VOWEL SIGN TALING
+A9BB	jvns-javanesevowelsigndirgamure	JAVANESE VOWEL SIGN DIRGA MURE
+A9BC	jvns-javanesevowelsignpepet	JAVANESE VOWEL SIGN PEPET
+A9BD	jvns-javaneseconsonantsignkeret	JAVANESE CONSONANT SIGN KERET
+A9BE	jvns-javaneseconsonantsignpengkal	JAVANESE CONSONANT SIGN PENGKAL
+A9BF	jvns-javaneseconsonantsigncakra	JAVANESE CONSONANT SIGN CAKRA
+A9C0	jvns-javanesepangkon	JAVANESE PANGKON
+A9C1	jvns-javaneseleftrerenggan	JAVANESE LEFT RERENGGAN
+A9C2	jvns-javaneserightrerenggan	JAVANESE RIGHT RERENGGAN
+A9C3	jvns-javanesepadaandap	JAVANESE PADA ANDAP
+A9C4	jvns-javanesepadamadya	JAVANESE PADA MADYA
+A9C5	jvns-javanesepadaluhur	JAVANESE PADA LUHUR
+A9C6	jvns-javanesepadawindu	JAVANESE PADA WINDU
+A9C7	jvns-javanesepadapangkat	JAVANESE PADA PANGKAT
+A9C8	jvns-javanesepadalingsa	JAVANESE PADA LINGSA
+A9C9	jvns-javanesepadalungsi	JAVANESE PADA LUNGSI
+A9CA	jvns-javanesepadaadeg	JAVANESE PADA ADEG
+A9CB	jvns-javanesepadaadegadeg	JAVANESE PADA ADEG ADEG
+A9CC	jvns-javanesepadapiseleh	JAVANESE PADA PISELEH
+A9CD	jvns-javaneseturnedpadapiseleh	JAVANESE TURNED PADA PISELEH
+A9CF	jvns-javanesepangrangkep	JAVANESE PANGRANGKEP
+A9D0	jvns-javanesedigitzero	JAVANESE DIGIT ZERO
+A9D1	jvns-javanesedigitone	JAVANESE DIGIT ONE
+A9D2	jvns-javanesedigittwo	JAVANESE DIGIT TWO
+A9D3	jvns-javanesedigitthree	JAVANESE DIGIT THREE
+A9D4	jvns-javanesedigitfour	JAVANESE DIGIT FOUR
+A9D5	jvns-javanesedigitfive	JAVANESE DIGIT FIVE
+A9D6	jvns-javanesedigitsix	JAVANESE DIGIT SIX
+A9D7	jvns-javanesedigitseven	JAVANESE DIGIT SEVEN
+A9D8	jvns-javanesedigiteight	JAVANESE DIGIT EIGHT
+A9D9	jvns-javanesedigitnine	JAVANESE DIGIT NINE
+A9DE	jvns-javanesepadatirtatumetes	JAVANESE PADA TIRTA TUMETES
+A9DF	jvns-javanesepadaisenisen	JAVANESE PADA ISEN-ISEN
