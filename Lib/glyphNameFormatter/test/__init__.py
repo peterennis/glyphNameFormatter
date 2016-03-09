@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from glyphNameFormatter.unicodeRangeNames import getRangeByName
 from glyphNameFormatter import GlyphName
 
@@ -17,22 +18,22 @@ def printRange(rangeName, toFile=None):
         name = g.getName()
         if name is None:
             continue
-        AGDName = unicode2name_AGD.get(g.uniNumber, "")
-        if AGDName is None or AGDName == name:
-            AGDName = ""
+        AGDName = unicode2name_AGD.get(g.uniNumber)
+        if AGDName is None:
+            AGDName = "-"
+        elif AGDName == name:
+            AGDName = u"👍"
         txt = name.ljust(50)
         txt += AGDName.ljust(30)
-        txt += "%04X" % g.uniNumber
-        txt += "\t" + g.uniLetter.encode("utf-8")
-        txt += "\t" + g.uniName
-
+        txt += "%04X   " % g.uniNumber
+        txt += g.uniLetter.ljust(5)
+        txt += g.uniName
         out.append(txt)
-
     out = "\n".join(out)
     if toFile:
         toFile.write(out)
     else:
-        print out
+        print out.encode("utf-8")
     testDoubles(rangeName, toFile)
     testGLIFFileName(rangeName, toFile)
 
