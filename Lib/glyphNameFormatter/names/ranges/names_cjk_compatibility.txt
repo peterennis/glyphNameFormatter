@@ -1,257 +1,257 @@
 # CJK Compatibility 3300 - 33FF
-3300	apaatofullwidth	SQUARE APAATO
-3301	aruhuafullwidth	SQUARE ARUHUA
-3302	anpeafullwidth	SQUARE ANPEA
-3303	aarufullwidth	SQUARE AARU
-3304	iningufullwidth	SQUARE ININGU
-3305	intifullwidth	SQUARE INTI
-3306	uonfullwidth	SQUARE UON
-3307	esukuudofullwidth	SQUARE ESUKUUDO
-3308	eekaafullwidth	SQUARE EEKAA
-3309	onsufullwidth	SQUARE ONSU
-330A	oomufullwidth	SQUARE OOMU
-330B	kairifullwidth	SQUARE KAIRI
-330C	karattofullwidth	SQUARE KARATTO
-330D	karoriifullwidth	SQUARE KARORII
-330E	garonfullwidth	SQUARE GARON
-330F	ganmafullwidth	SQUARE GANMA
-3310	gigafullwidth	SQUARE GIGA
-3311	giniifullwidth	SQUARE GINII
-3312	kyuriifullwidth	SQUARE KYURII
-3313	girudaafullwidth	SQUARE GIRUDAA
-3314	kirofullwidth	SQUARE KIRO
-3315	kiroguramufullwidth	SQUARE KIROGURAMU
-3316	kiromeetorufullwidth	SQUARE KIROMEETORU
-3317	kirowattofullwidth	SQUARE KIROWATTO
-3318	guramufullwidth	SQUARE GURAMU
-3319	guramutonfullwidth	SQUARE GURAMUTON
-331A	kuruzeirofullwidth	SQUARE KURUZEIRO
-331B	kuroonefullwidth	SQUARE KUROONE
-331C	keesufullwidth	SQUARE KEESU
-331D	korunafullwidth	SQUARE KORUNA
-331E	koopofullwidth	SQUARE KOOPO
-331F	saikurufullwidth	SQUARE SAIKURU
-3320	santiimufullwidth	SQUARE SANTIIMU
-3321	siringufullwidth	SQUARE SIRINGU
-3322	sentifullwidth	SQUARE SENTI
-3323	sentofullwidth	SQUARE SENTO
-3324	daasufullwidth	SQUARE DAASU
-3325	desifullwidth	SQUARE DESI
-3326	dorufullwidth	SQUARE DORU
-3327	tonfullwidth	SQUARE TON
-3328	nanofullwidth	SQUARE NANO
-3329	nottofullwidth	SQUARE NOTTO
-332A	haitufullwidth	SQUARE HAITU
-332B	paasentofullwidth	SQUARE PAASENTO
-332C	paatufullwidth	SQUARE PAATU
-332D	baarerufullwidth	SQUARE BAARERU
-332E	piasutorufullwidth	SQUARE PIASUTORU
-332F	pikurufullwidth	SQUARE PIKURU
-3330	pikofullwidth	SQUARE PIKO
-3331	birufullwidth	SQUARE BIRU
-3332	huaraddofullwidth	SQUARE HUARADDO
-3333	huiitofullwidth	SQUARE HUIITO
-3334	bussyerufullwidth	SQUARE BUSSYERU
-3335	huranfullwidth	SQUARE HURAN
-3336	hekutaarufullwidth	SQUARE HEKUTAARU
-3337	pesofullwidth	SQUARE PESO
-3338	penihifullwidth	SQUARE PENIHI
-3339	herutufullwidth	SQUARE HERUTU
-333A	pensufullwidth	SQUARE PENSU
-333B	peezifullwidth	SQUARE PEEZI
-333C	beetafullwidth	SQUARE BEETA
-333D	pointofullwidth	SQUARE POINTO
-333E	borutofullwidth	SQUARE BORUTO
-333F	honfullwidth	SQUARE HON
-3340	pondofullwidth	SQUARE PONDO
-3341	hoorufullwidth	SQUARE HOORU
-3342	hoonfullwidth	SQUARE HOON
-3343	maikurofullwidth	SQUARE MAIKURO
-3344	mairufullwidth	SQUARE MAIRU
-3345	mahhafullwidth	SQUARE MAHHA
-3346	marukufullwidth	SQUARE MARUKU
-3347	mansyonfullwidth	SQUARE MANSYON
-3348	mikuronfullwidth	SQUARE MIKURON
-3349	mirifullwidth	SQUARE MIRI
-334A	miribaarufullwidth	SQUARE MIRIBAARU
-334B	megafullwidth	SQUARE MEGA
-334C	megatonfullwidth	SQUARE MEGATON
-334D	meetorufullwidth	SQUARE MEETORU
-334E	yaadofullwidth	SQUARE YAADO
-334F	yaarufullwidth	SQUARE YAARU
-3350	yuanfullwidth	SQUARE YUAN
-3351	rittorufullwidth	SQUARE RITTORU
-3352	rirafullwidth	SQUARE RIRA
-3353	rupiifullwidth	SQUARE RUPII
-3354	ruuburufullwidth	SQUARE RUUBURU
-3355	remufullwidth	SQUARE REMU
-3356	rentogenfullwidth	SQUARE RENTOGEN
-3357	wattofullwidth	SQUARE WATTO
-3358	hourzerotelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ZERO
-3359	houronetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ONE
-335A	hourtwotelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWO
-335B	hourthreetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THREE
-335C	hourfourtelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOUR
-335D	hourfivetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIVE
-335E	hoursixtelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIX
-335F	hourseventelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVEN
-3360	houreighttelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHT
-3361	hourninetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINE
-3362	hourtentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TEN
-3363	houreleventelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ELEVEN
-3364	hourtwelvetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWELVE
-3365	hourthirteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THIRTEEN
-3366	hourfourteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOURTEEN
-3367	hourfifteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIFTEEN
-3368	hoursixteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIXTEEN
-3369	hourseventeentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVENTEEN
-336A	houreighteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHTEEN
-336B	hournineteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINETEEN
-336C	hourtwentytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY
-336D	hourtwentyonetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-ONE
-336E	hourtwentytwotelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-TWO
-336F	hourtwentythreetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-THREE
-3370	hourtwentyfourtelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-FOUR
-3371	hpafullwidth	SQUARE HPA
-3372	dafullwidth	SQUARE DA
-3373	aufullwidth	SQUARE AU
-3374	cjk-barfullwidth	SQUARE BAR
-3375	ovfullwidth	SQUARE OV
-3376	pcfullwidth	SQUARE PC
-3377	dmfullwidth	SQUARE DM
-3378	dmdfullwidth	SQUARE DM SQUARED
-3379	dmcubedfullwidth	SQUARE DM CUBED
-337A	iufullwidth	SQUARE IU
-337B	eranameheiseifullwidth	SQUARE ERA NAME HEISEI
-337C	eranamesyouwafullwidth	SQUARE ERA NAME SYOUWA
-337D	eranametaisyoufullwidth	SQUARE ERA NAME TAISYOU
-337E	eranamemeizifullwidth	SQUARE ERA NAME MEIZI
-337F	corporationfullwidth	SQUARE CORPORATION
-3380	paampsfullwidth	SQUARE PA AMPS
-3381	nafullwidth	SQUARE NA
-3382	muafullwidth	SQUARE MU A
-3383	mafullwidth	SQUARE MA
-3384	kafullwidth	SQUARE KA
-3385	kbfullwidth	SQUARE KB
-3386	mbfullwidth	SQUARE MB
-3387	gbfullwidth	SQUARE GB
-3388	calfullwidth	SQUARE CAL
-3389	kcalfullwidth	SQUARE KCAL
-338A	pffullwidth	SQUARE PF
-338B	nffullwidth	SQUARE NF
-338C	muffullwidth	SQUARE MU F
-338D	mugfullwidth	SQUARE MU G
-338E	mgfullwidth	SQUARE MG
-338F	kgfullwidth	SQUARE KG
-3390	hzfullwidth	SQUARE HZ
-3391	khzfullwidth	SQUARE KHZ
-3392	mhzfullwidth	SQUARE MHZ
-3393	ghzfullwidth	SQUARE GHZ
-3394	thzfullwidth	SQUARE THZ
-3395	mulfullwidth	SQUARE MU L
-3396	mlfullwidth	SQUARE ML
-3397	dlfullwidth	SQUARE DL
-3398	klfullwidth	SQUARE KL
-3399	fmfullwidth	SQUARE FM
-339A	nmfullwidth	SQUARE NM
-339B	mumfullwidth	SQUARE MU M
-339C	mmfullwidth	SQUARE MM
-339D	cmfullwidth	SQUARE CM
-339E	kmfullwidth	SQUARE KM
-339F	mmdfullwidth	SQUARE MM SQUARED
-33A0	cmdfullwidth	SQUARE CM SQUARED
-33A1	mdfullwidth	SQUARE M SQUARED
-33A2	kmdfullwidth	SQUARE KM SQUARED
-33A3	mmcubedfullwidth	SQUARE MM CUBED
-33A4	cmcubedfullwidth	SQUARE CM CUBED
-33A5	mcubedfullwidth	SQUARE M CUBED
-33A6	kmcubedfullwidth	SQUARE KM CUBED
-33A7	moversfullwidth	SQUARE M OVER S
-33A8	moversdfullwidth	SQUARE M OVER S SQUARED
-33A9	pafullwidth	SQUARE PA
-33AA	kpafullwidth	SQUARE KPA
-33AB	mpafullwidth	SQUARE MPA
-33AC	gpafullwidth	SQUARE GPA
-33AD	radfullwidth	SQUARE RAD
-33AE	radoversfullwidth	SQUARE RAD OVER S
-33AF	radoversdfullwidth	SQUARE RAD OVER S SQUARED
-33B0	psfullwidth	SQUARE PS
-33B1	nsfullwidth	SQUARE NS
-33B2	musfullwidth	SQUARE MU S
-33B3	msfullwidth	SQUARE MS
-33B4	pvfullwidth	SQUARE PV
-33B5	nvfullwidth	SQUARE NV
-33B6	muvfullwidth	SQUARE MU V
-33B7	mvfullwidth	SQUARE MV
-33B8	kvfullwidth	SQUARE KV
-33B9	mvmegafullwidth	SQUARE MV MEGA
-33BA	pwfullwidth	SQUARE PW
-33BB	nwfullwidth	SQUARE NW
-33BC	muwfullwidth	SQUARE MU W
-33BD	mwfullwidth	SQUARE MW
-33BE	kwfullwidth	SQUARE KW
-33BF	mwmegafullwidth	SQUARE MW MEGA
-33C0	kohmfullwidth	SQUARE K OHM
-33C1	mohmfullwidth	SQUARE M OHM
-33C2	amfullwidth	SQUARE AM
-33C3	bqfullwidth	SQUARE BQ
-33C4	ccfullwidth	SQUARE CC
-33C5	cdfullwidth	SQUARE CD
-33C6	coverkgfullwidth	SQUARE C OVER KG
-33C7	cofullwidth	SQUARE CO
-33C8	dbfullwidth	SQUARE DB
-33C9	gyfullwidth	SQUARE GY
-33CA	hafullwidth	SQUARE HA
-33CB	hpfullwidth	SQUARE HP
-33CC	infullwidth	SQUARE IN
-33CD	kkfullwidth	SQUARE KK
-33CE	kmcapitalfullwidth	SQUARE KM CAPITAL
-33CF	ktfullwidth	SQUARE KT
-33D0	lmfullwidth	SQUARE LM
-33D1	lnfullwidth	SQUARE LN
-33D2	logfullwidth	SQUARE LOG
-33D3	lxfullwidth	SQUARE LX
-33D4	mbsmallfullwidth	SQUARE MB SMALL
-33D5	milfullwidth	SQUARE MIL
-33D6	molfullwidth	SQUARE MOL
-33D7	phfullwidth	SQUARE PH
-33D8	pmfullwidth	SQUARE PM
-33D9	ppmfullwidth	SQUARE PPM
-33DA	prfullwidth	SQUARE PR
-33DB	srfullwidth	SQUARE SR
-33DC	svfullwidth	SQUARE SV
-33DD	wbfullwidth	SQUARE WB
-33DE	vovermfullwidth	SQUARE V OVER M
-33DF	aovermfullwidth	SQUARE A OVER M
-33E0	dayonetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ONE
-33E1	daytwotelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWO
-33E2	daythreetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THREE
-33E3	dayfourtelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOUR
-33E4	dayfivetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIVE
-33E5	daysixtelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIX
-33E6	dayseventelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVEN
-33E7	dayeighttelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHT
-33E8	dayninetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINE
-33E9	daytentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TEN
-33EA	dayeleventelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ELEVEN
-33EB	daytwelvetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWELVE
-33EC	daythirteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTEEN
-33ED	dayfourteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOURTEEN
-33EE	dayfifteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIFTEEN
-33EF	daysixteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIXTEEN
-33F0	dayseventeentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVENTEEN
-33F1	dayeighteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHTEEN
-33F2	daynineteentelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINETEEN
-33F3	daytwentytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY
-33F4	daytwentyonetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-ONE
-33F5	daytwentytwotelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-TWO
-33F6	daytwentythreetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-THREE
-33F7	daytwentyfourtelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FOUR
-33F8	daytwentyfivetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FIVE
-33F9	daytwentysixtelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SIX
-33FA	daytwentyseventelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SEVEN
-33FB	daytwentyeighttelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-EIGHT
-33FC	daytwentyninetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-NINE
-33FD	daythirtytelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY
-33FE	daythirtyonetelegraph	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE
-33FF	galfullwidth	SQUARE GAL
+3300	squareapaato	SQUARE APAATO
+3301	squarearuhua	SQUARE ARUHUA
+3302	squareanpea	SQUARE ANPEA
+3303	squareaaru	SQUARE AARU
+3304	squareiningu	SQUARE ININGU
+3305	squareinti	SQUARE INTI
+3306	squareuon	SQUARE UON
+3307	squareesukuudo	SQUARE ESUKUUDO
+3308	squareeekaa	SQUARE EEKAA
+3309	squareonsu	SQUARE ONSU
+330A	squareoomu	SQUARE OOMU
+330B	squarekairi	SQUARE KAIRI
+330C	squarekaratto	SQUARE KARATTO
+330D	squarekarorii	SQUARE KARORII
+330E	squaregaron	SQUARE GARON
+330F	squareganma	SQUARE GANMA
+3310	squaregiga	SQUARE GIGA
+3311	squareginii	SQUARE GINII
+3312	squarekyurii	SQUARE KYURII
+3313	squaregirudaa	SQUARE GIRUDAA
+3314	squarekiro	SQUARE KIRO
+3315	squarekiroguramu	SQUARE KIROGURAMU
+3316	squarekiromeetoru	SQUARE KIROMEETORU
+3317	squarekirowatto	SQUARE KIROWATTO
+3318	squareguramu	SQUARE GURAMU
+3319	squareguramuton	SQUARE GURAMUTON
+331A	squarekuruzeiro	SQUARE KURUZEIRO
+331B	squarekuroone	SQUARE KUROONE
+331C	squarekeesu	SQUARE KEESU
+331D	squarekoruna	SQUARE KORUNA
+331E	squarekoopo	SQUARE KOOPO
+331F	squaresaikuru	SQUARE SAIKURU
+3320	squaresantiimu	SQUARE SANTIIMU
+3321	squaresiringu	SQUARE SIRINGU
+3322	squaresenti	SQUARE SENTI
+3323	squaresento	SQUARE SENTO
+3324	squaredaasu	SQUARE DAASU
+3325	squaredesi	SQUARE DESI
+3326	squaredoru	SQUARE DORU
+3327	squareton	SQUARE TON
+3328	squarenano	SQUARE NANO
+3329	squarenotto	SQUARE NOTTO
+332A	squarehaitu	SQUARE HAITU
+332B	squarepaasento	SQUARE PAASENTO
+332C	squarepaatu	SQUARE PAATU
+332D	squarebaareru	SQUARE BAARERU
+332E	squarepiasutoru	SQUARE PIASUTORU
+332F	squarepikuru	SQUARE PIKURU
+3330	squarepiko	SQUARE PIKO
+3331	squarebiru	SQUARE BIRU
+3332	squarehuaraddo	SQUARE HUARADDO
+3333	squarehuiito	SQUARE HUIITO
+3334	squarebussyeru	SQUARE BUSSYERU
+3335	squarehuran	SQUARE HURAN
+3336	squarehekutaaru	SQUARE HEKUTAARU
+3337	squarepeso	SQUARE PESO
+3338	squarepenihi	SQUARE PENIHI
+3339	squareherutu	SQUARE HERUTU
+333A	squarepensu	SQUARE PENSU
+333B	squarepeezi	SQUARE PEEZI
+333C	squarebeeta	SQUARE BEETA
+333D	squarepointo	SQUARE POINTO
+333E	squareboruto	SQUARE BORUTO
+333F	squarehon	SQUARE HON
+3340	squarepondo	SQUARE PONDO
+3341	squarehooru	SQUARE HOORU
+3342	squarehoon	SQUARE HOON
+3343	squaremaikuro	SQUARE MAIKURO
+3344	squaremairu	SQUARE MAIRU
+3345	squaremahha	SQUARE MAHHA
+3346	squaremaruku	SQUARE MARUKU
+3347	squaremansyon	SQUARE MANSYON
+3348	squaremikuron	SQUARE MIKURON
+3349	squaremiri	SQUARE MIRI
+334A	squaremiribaaru	SQUARE MIRIBAARU
+334B	squaremega	SQUARE MEGA
+334C	squaremegaton	SQUARE MEGATON
+334D	squaremeetoru	SQUARE MEETORU
+334E	squareyaado	SQUARE YAADO
+334F	squareyaaru	SQUARE YAARU
+3350	squareyuan	SQUARE YUAN
+3351	squarerittoru	SQUARE RITTORU
+3352	squarerira	SQUARE RIRA
+3353	squarerupii	SQUARE RUPII
+3354	squareruuburu	SQUARE RUUBURU
+3355	squareremu	SQUARE REMU
+3356	squarerentogen	SQUARE RENTOGEN
+3357	squarewatto	SQUARE WATTO
+3358	ideographictelegraphsymbolforhourzero	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ZERO
+3359	ideographictelegraphsymbolforhourone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ONE
+335A	ideographictelegraphsymbolforhourtwo	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWO
+335B	ideographictelegraphsymbolforhourthree	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THREE
+335C	ideographictelegraphsymbolforhourfour	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOUR
+335D	ideographictelegraphsymbolforhourfive	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIVE
+335E	ideographictelegraphsymbolforhoursix	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIX
+335F	ideographictelegraphsymbolforhourseven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVEN
+3360	ideographictelegraphsymbolforhoureight	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHT
+3361	ideographictelegraphsymbolforhournine	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINE
+3362	ideographictelegraphsymbolforhourten	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TEN
+3363	ideographictelegraphsymbolforhoureleven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ELEVEN
+3364	ideographictelegraphsymbolforhourtwelve	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWELVE
+3365	ideographictelegraphsymbolforhourthirteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THIRTEEN
+3366	ideographictelegraphsymbolforhourfourteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOURTEEN
+3367	ideographictelegraphsymbolforhourfifteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIFTEEN
+3368	ideographictelegraphsymbolforhoursixteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIXTEEN
+3369	ideographictelegraphsymbolforhourseventeen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVENTEEN
+336A	ideographictelegraphsymbolforhoureighteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHTEEN
+336B	ideographictelegraphsymbolforhournineteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINETEEN
+336C	ideographictelegraphsymbolforhourtwenty	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY
+336D	ideographictelegraphsymbolforhourtwentyone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-ONE
+336E	ideographictelegraphsymbolforhourtwentytwo	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-TWO
+336F	ideographictelegraphsymbolforhourtwentythree	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-THREE
+3370	ideographictelegraphsymbolforhourtwentyfour	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-FOUR
+3371	squarehpa	SQUARE HPA
+3372	squareda	SQUARE DA
+3373	squareau	SQUARE AU
+3374	squarebar	SQUARE BAR
+3375	squareov	SQUARE OV
+3376	squarepc	SQUARE PC
+3377	squaredm	SQUARE DM
+3378	squaredmsquared	SQUARE DM SQUARED
+3379	squaredmcubed	SQUARE DM CUBED
+337A	squareiu	SQUARE IU
+337B	squareeranameheisei	SQUARE ERA NAME HEISEI
+337C	squareeranamesyouwa	SQUARE ERA NAME SYOUWA
+337D	squareeranametaisyou	SQUARE ERA NAME TAISYOU
+337E	squareeranamemeizi	SQUARE ERA NAME MEIZI
+337F	squarecorporation	SQUARE CORPORATION
+3380	squarepaamps	SQUARE PA AMPS
+3381	squarena	SQUARE NA
+3382	squaremua	SQUARE MU A
+3383	squarema	SQUARE MA
+3384	squareka	SQUARE KA
+3385	squarekb	SQUARE KB
+3386	squaremb	SQUARE MB
+3387	squaregb	SQUARE GB
+3388	squarecal	SQUARE CAL
+3389	squarekcal	SQUARE KCAL
+338A	squarepf	SQUARE PF
+338B	squarenf	SQUARE NF
+338C	squaremuf	SQUARE MU F
+338D	squaremug	SQUARE MU G
+338E	squaremg	SQUARE MG
+338F	squarekg	SQUARE KG
+3390	squarehz	SQUARE HZ
+3391	squarekhz	SQUARE KHZ
+3392	squaremhz	SQUARE MHZ
+3393	squareghz	SQUARE GHZ
+3394	squarethz	SQUARE THZ
+3395	squaremul	SQUARE MU L
+3396	squareml	SQUARE ML
+3397	squaredl	SQUARE DL
+3398	squarekl	SQUARE KL
+3399	squarefm	SQUARE FM
+339A	squarenm	SQUARE NM
+339B	squaremum	SQUARE MU M
+339C	squaremm	SQUARE MM
+339D	squarecm	SQUARE CM
+339E	squarekm	SQUARE KM
+339F	squaremmsquared	SQUARE MM SQUARED
+33A0	squarecmsquared	SQUARE CM SQUARED
+33A1	squaremsquared	SQUARE M SQUARED
+33A2	squarekmsquared	SQUARE KM SQUARED
+33A3	squaremmcubed	SQUARE MM CUBED
+33A4	squarecmcubed	SQUARE CM CUBED
+33A5	squaremcubed	SQUARE M CUBED
+33A6	squarekmcubed	SQUARE KM CUBED
+33A7	squaremovers	SQUARE M OVER S
+33A8	squaremoverssquared	SQUARE M OVER S SQUARED
+33A9	squarepa	SQUARE PA
+33AA	squarekpa	SQUARE KPA
+33AB	squarempa	SQUARE MPA
+33AC	squaregpa	SQUARE GPA
+33AD	squarerad	SQUARE RAD
+33AE	squareradovers	SQUARE RAD OVER S
+33AF	squareradoverssquared	SQUARE RAD OVER S SQUARED
+33B0	squareps	SQUARE PS
+33B1	squarens	SQUARE NS
+33B2	squaremus	SQUARE MU S
+33B3	squarems	SQUARE MS
+33B4	squarepv	SQUARE PV
+33B5	squarenv	SQUARE NV
+33B6	squaremuv	SQUARE MU V
+33B7	squaremv	SQUARE MV
+33B8	squarekv	SQUARE KV
+33B9	squaremvmega	SQUARE MV MEGA
+33BA	squarepw	SQUARE PW
+33BB	squarenw	SQUARE NW
+33BC	squaremuw	SQUARE MU W
+33BD	squaremw	SQUARE MW
+33BE	squarekw	SQUARE KW
+33BF	squaremwmega	SQUARE MW MEGA
+33C0	squarekohm	SQUARE K OHM
+33C1	squaremohm	SQUARE M OHM
+33C2	squaream	SQUARE AM
+33C3	squarebq	SQUARE BQ
+33C4	squarecc	SQUARE CC
+33C5	squarecd	SQUARE CD
+33C6	squarecoverkg	SQUARE C OVER KG
+33C7	squareco	SQUARE CO
+33C8	squaredb	SQUARE DB
+33C9	squaregy	SQUARE GY
+33CA	squareha	SQUARE HA
+33CB	squarehp	SQUARE HP
+33CC	squarein	SQUARE IN
+33CD	squarekk	SQUARE KK
+33CE	squarekmcapital	SQUARE KM CAPITAL
+33CF	squarekt	SQUARE KT
+33D0	squarelm	SQUARE LM
+33D1	squareln	SQUARE LN
+33D2	squarelog	SQUARE LOG
+33D3	squarelx	SQUARE LX
+33D4	squarembsmall	SQUARE MB SMALL
+33D5	squaremil	SQUARE MIL
+33D6	squaremol	SQUARE MOL
+33D7	squareph	SQUARE PH
+33D8	squarepm	SQUARE PM
+33D9	squareppm	SQUARE PPM
+33DA	squarepr	SQUARE PR
+33DB	squaresr	SQUARE SR
+33DC	squaresv	SQUARE SV
+33DD	squarewb	SQUARE WB
+33DE	squarevoverm	SQUARE V OVER M
+33DF	squareaoverm	SQUARE A OVER M
+33E0	ideographictelegraphsymbolfordayone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ONE
+33E1	ideographictelegraphsymbolfordaytwo	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWO
+33E2	ideographictelegraphsymbolfordaythree	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THREE
+33E3	ideographictelegraphsymbolfordayfour	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOUR
+33E4	ideographictelegraphsymbolfordayfive	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIVE
+33E5	ideographictelegraphsymbolfordaysix	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIX
+33E6	ideographictelegraphsymbolfordayseven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVEN
+33E7	ideographictelegraphsymbolfordayeight	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHT
+33E8	ideographictelegraphsymbolfordaynine	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINE
+33E9	ideographictelegraphsymbolfordayten	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TEN
+33EA	ideographictelegraphsymbolfordayeleven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ELEVEN
+33EB	ideographictelegraphsymbolfordaytwelve	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWELVE
+33EC	ideographictelegraphsymbolfordaythirteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTEEN
+33ED	ideographictelegraphsymbolfordayfourteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOURTEEN
+33EE	ideographictelegraphsymbolfordayfifteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIFTEEN
+33EF	ideographictelegraphsymbolfordaysixteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIXTEEN
+33F0	ideographictelegraphsymbolfordayseventeen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVENTEEN
+33F1	ideographictelegraphsymbolfordayeighteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHTEEN
+33F2	ideographictelegraphsymbolfordaynineteen	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINETEEN
+33F3	ideographictelegraphsymbolfordaytwenty	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY
+33F4	ideographictelegraphsymbolfordaytwentyone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-ONE
+33F5	ideographictelegraphsymbolfordaytwentytwo	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-TWO
+33F6	ideographictelegraphsymbolfordaytwentythree	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-THREE
+33F7	ideographictelegraphsymbolfordaytwentyfour	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FOUR
+33F8	ideographictelegraphsymbolfordaytwentyfive	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FIVE
+33F9	ideographictelegraphsymbolfordaytwentysix	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SIX
+33FA	ideographictelegraphsymbolfordaytwentyseven	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SEVEN
+33FB	ideographictelegraphsymbolfordaytwentyeight	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-EIGHT
+33FC	ideographictelegraphsymbolfordaytwentynine	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-NINE
+33FD	ideographictelegraphsymbolfordaythirty	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY
+33FE	ideographictelegraphsymbolfordaythirtyone	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE
+33FF	squaregal	SQUARE GAL
