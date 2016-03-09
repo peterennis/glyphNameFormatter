@@ -1,1012 +1,831 @@
+         hex      formatted name            AGL name      with extension                                   range
 
 A
-         hex      formatted name            AGL name      with extension                                   range
         0041                   A                   A                   A                             Basic Latin
         0410                   A                Acyr                Acyr                                Cyrillic
-        0F68                   A                   -                tb-A                                 Tibetan
-        1820                   A                   -                mo-A                               Mongolian
 
 Abreve
-         hex      formatted name            AGL name      with extension                                   range
         0102              Abreve              Abreve              Abreve                        Latin Extended-A
         04D0              Abreve           Abrevecyr           Abrevecyr                                Cyrillic
 
 Adieresis
-         hex      formatted name            AGL name      with extension                                   range
         00C4           Adieresis           Adieresis           Adieresis                      Latin-1 Supplement
         04D2           Adieresis        Adieresiscyr        Adieresiscyr                                Cyrillic
 
-BA
-         hex      formatted name            AGL name      with extension                                   range
-        0F56                  BA                   -               tb-BA                                 Tibetan
-        182A                  BA                   -               mo-BA                               Mongolian
-
-CHA
-         hex      formatted name            AGL name      with extension                                   range
-        0F46                 CHA                   -              tb-CHA                                 Tibetan
-        1834                 CHA                   -              mo-CHA                               Mongolian
-
-DA
-         hex      formatted name            AGL name      with extension                                   range
-        0F51                  DA                   -               tb-DA                                 Tibetan
-        1833                  DA                   -               mo-DA                               Mongolian
-
-E
-         hex      formatted name            AGL name      with extension                                   range
-        0045                   E                   E                   E                             Basic Latin
-        1821                   E                   -                mo-E                               Mongolian
-
 Edieresis
-         hex      formatted name            AGL name      with extension                                   range
         00CB           Edieresis           Edieresis           Edieresis                      Latin-1 Supplement
         04EC           Edieresis                   -        Edieresiscyr                                Cyrillic
 
 Ereversed
-         hex      formatted name            AGL name      with extension                                   range
         018E           Ereversed             Eturned           Ereversed                        Latin Extended-B
         042D           Ereversed                Ecyr        Ereversedcyr                                Cyrillic
 
-GA
-         hex      formatted name            AGL name      with extension                                   range
-        0F42                  GA                   -               tb-GA                                 Tibetan
-        182D                  GA                   -               mo-GA                               Mongolian
-
-Gamma
-         hex      formatted name            AGL name      with extension                                   range
-        0194               Gamma          Gammalatin               Gamma                        Latin Extended-B
-        0393               Gamma               Gamma            gr-Gamma                        Greek and Coptic
-
 I
-         hex      formatted name            AGL name      with extension                                   range
         0049                   I                   I                   I                             Basic Latin
         0418                   I                Icyr                Icyr                                Cyrillic
-        1822                   I                   -                mo-I                               Mongolian
 
 Idieresis
-         hex      formatted name            AGL name      with extension                                   range
         00CF           Idieresis           Idieresis           Idieresis                      Latin-1 Supplement
         04E4           Idieresis        Idieresiscyr        Idieresiscyr                                Cyrillic
 
 Igrave
-         hex      formatted name            AGL name      with extension                                   range
         00CC              Igrave              Igrave              Igrave                      Latin-1 Supplement
         040D              Igrave           Igravecyr           Igravecyr                                Cyrillic
 
 Imacron
-         hex      formatted name            AGL name      with extension                                   range
         012A             Imacron             Imacron             Imacron                        Latin Extended-A
         04E2             Imacron          Imacroncyr          Imacroncyr                                Cyrillic
 
-Iota
-         hex      formatted name            AGL name      with extension                                   range
-        0196                Iota           Iotalatin                Iota                        Latin Extended-B
-        0399                Iota                Iota             gr-Iota                        Greek and Coptic
-
-JA
-         hex      formatted name            AGL name      with extension                                   range
-        0F47                  JA                   -               tb-JA                                 Tibetan
-        1835                  JA                   -               mo-JA                               Mongolian
-
-KA
-         hex      formatted name            AGL name      with extension                                   range
-        0F40                  KA                   -               tb-KA                                 Tibetan
-        183A                  KA                   -               mo-KA                               Mongolian
-
-KHA
-         hex      formatted name            AGL name      with extension                                   range
-        0F41                 KHA                   -              tb-KHA                                 Tibetan
-        183B                 KHA                   -              mo-KHA                               Mongolian
-
 Koppa
-         hex      formatted name            AGL name      with extension                                   range
         03DE               Koppa          Koppagreek            gr-Koppa                        Greek and Coptic
         0480               Koppa       Koppacyrillic            Koppacyr                                Cyrillic
 
-LA
-         hex      formatted name            AGL name      with extension                                   range
-        0F63                  LA                   -               tb-LA                                 Tibetan
-        182F                  LA                   -               mo-LA                               Mongolian
-
-MA
-         hex      formatted name            AGL name      with extension                                   range
-        0F58                  MA                   -               tb-MA                                 Tibetan
-        182E                  MA                   -               mo-MA                               Mongolian
-
-NA
-         hex      formatted name            AGL name      with extension                                   range
-        0F53                  NA                   -               tb-NA                                 Tibetan
-        1828                  NA                   -               mo-NA                               Mongolian
-
 O
-         hex      formatted name            AGL name      with extension                                   range
         004F                   O                   O                   O                             Basic Latin
         041E                   O                Ocyr                Ocyr                                Cyrillic
-        1823                   O                   -                mo-O                               Mongolian
-
-OE
-         hex      formatted name            AGL name      with extension                                   range
-        0152                  OE                  OE                  OE                        Latin Extended-A
-        1825                  OE                   -               mo-OE                               Mongolian
 
 Obar
-         hex      formatted name            AGL name      with extension                                   range
         019F                Obar                Obar                Obar                        Latin Extended-B
         04E8                Obar             Obarcyr             Obarcyr                                Cyrillic
 
 Odieresis
-         hex      formatted name            AGL name      with extension                                   range
         00D6           Odieresis           Odieresis           Odieresis                      Latin-1 Supplement
         04E6           Odieresis        Odieresiscyr        Odieresiscyr                                Cyrillic
 
 Omega
-         hex      formatted name            AGL name      with extension                                   range
         03A9               Omega               Omega            gr-Omega                        Greek and Coptic
         0460               Omega       Omegacyrillic            Omegacyr                                Cyrillic
 
-PA
-         hex      formatted name            AGL name      with extension                                   range
-        0F54                  PA                   -               tb-PA                                 Tibetan
-        182B                  PA                   -               mo-PA                               Mongolian
-
 Psi
-         hex      formatted name            AGL name      with extension                                   range
         03A8                 Psi                 Psi              gr-Psi                        Greek and Coptic
         0470                 Psi         Psicyrillic              Psicyr                                Cyrillic
 
-RA
-         hex      formatted name            AGL name      with extension                                   range
-        0F62                  RA                   -               tb-RA                                 Tibetan
-        1837                  RA                   -               mo-RA                               Mongolian
-
-SA
-         hex      formatted name            AGL name      with extension                                   range
-        0F66                  SA                   -               tb-SA                                 Tibetan
-        1830                  SA                   -               mo-SA                               Mongolian
-
-SHA
-         hex      formatted name            AGL name      with extension                                   range
-        0F64                 SHA                   -              tb-SHA                                 Tibetan
-        1831                 SHA                   -              mo-SHA                               Mongolian
-
 Schwa
-         hex      formatted name            AGL name      with extension                                   range
         018F               Schwa               Schwa               Schwa                        Latin Extended-B
         04D8               Schwa            Schwacyr            Schwacyr                                Cyrillic
 
 Sha
-         hex      formatted name            AGL name      with extension                                   range
         0428                 Sha                 Sha              Shacyr                                Cyrillic
         0547                 Sha         Shaarmenian              am-Sha                                Armenian
 
-TA
-         hex      formatted name            AGL name      with extension                                   range
-        0F4F                  TA                   -               tb-TA                                 Tibetan
-        1832                  TA                   -               mo-TA                               Mongolian
-
-TSA
-         hex      formatted name            AGL name      with extension                                   range
-        0F59                 TSA                   -              tb-TSA                                 Tibetan
-        183C                 TSA                   -              mo-TSA                               Mongolian
-
 U
-         hex      formatted name            AGL name      with extension                                   range
         0055                   U                   U                   U                             Basic Latin
         0423                   U                Ucyr                Ucyr                                Cyrillic
-        1824                   U                   -                mo-U                               Mongolian
 
 Udieresis
-         hex      formatted name            AGL name      with extension                                   range
         00DC           Udieresis           Udieresis           Udieresis                      Latin-1 Supplement
         04F0           Udieresis        Udieresiscyr        Udieresiscyr                                Cyrillic
 
 Umacron
-         hex      formatted name            AGL name      with extension                                   range
         016A             Umacron             Umacron             Umacron                        Latin Extended-A
         04EE             Umacron          Umacroncyr          Umacroncyr                                Cyrillic
 
-Upsilon
-         hex      formatted name            AGL name      with extension                                   range
-        01B1             Upsilon        Upsilonlatin             Upsilon                        Latin Extended-B
-        03A5             Upsilon             Upsilon          gr-Upsilon                        Greek and Coptic
-
-WA
-         hex      formatted name            AGL name      with extension                                   range
-        0F5D                  WA                   -               tb-WA                                 Tibetan
-        1838                  WA                   -               mo-WA                               Mongolian
-
-YA
-         hex      formatted name            AGL name      with extension                                   range
-        0F61                  YA                   -               tb-YA                                 Tibetan
-        1836                  YA                   -               mo-YA                               Mongolian
-
 Yi
-         hex      formatted name            AGL name      with extension                                   range
         0407                  Yi                  Yi               Yicyr                                Cyrillic
         0545                  Yi          Yiarmenian               am-Yi                                Armenian
 
-ZA
-         hex      formatted name            AGL name      with extension                                   range
-        0F5F                  ZA                   -               tb-ZA                                 Tibetan
-        183D                  ZA                   -               mo-ZA                               Mongolian
-
 Zhe
-         hex      formatted name            AGL name      with extension                                   range
         0416                 Zhe                 Zhe              Zhecyr                                Cyrillic
         053A                 Zhe         Zhearmenian              am-Zhe                                Armenian
 
 a
-         hex      formatted name            AGL name      with extension                                   range
         0061                   a                   a                   a                             Basic Latin
         0430                   a                acyr                acyr                                Cyrillic
         0905                   a                 dvA                dv-a                              Devanagari
         0C85                   a                 knA                kn-a                                 Kannada
+        0F68                   a                   -                tb-a                                 Tibetan
+        1820                   a                   -                mo-a                               Mongolian
 
 aa
-         hex      formatted name            AGL name      with extension                                   range
         0906                  aa                dvAa               dv-aa                              Devanagari
         0C86                  aa                knAa               kn-aa                                 Kannada
 
 aasign
-         hex      formatted name            AGL name      with extension                                   range
         093E              aasign            dvAasign           dv-aasign                              Devanagari
         0CBE              aasign            knAasign           kn-aasign                                 Kannada
 
 abreve
-         hex      formatted name            AGL name      with extension                                   range
         0103              abreve              abreve              abreve                        Latin Extended-A
         04D1              abreve           abrevecyr           abrevecyr                                Cyrillic
 
 acute
-         hex      formatted name            AGL name      with extension                                   range
         00B4               acute               acute               acute                      Latin-1 Supplement
-        0954               acute             dvAcute            dv-acute                              Devanagari
+        0954               acute             dvAcute               acute                              Devanagari
         1FFD               acute                oxia            gr-acute                          Greek Extended
 
 adieresis
-         hex      formatted name            AGL name      with extension                                   range
         00E4           adieresis           adieresis           adieresis                      Latin-1 Supplement
         04D3           adieresis        adieresiscyr        adieresiscyr                                Cyrillic
 
 ae
-         hex      formatted name            AGL name      with extension                                   range
         00E6                  ae                  ae                  ae                      Latin-1 Supplement
         06D5                  ae                arAe               ar-ae                                  Arabic
 
 ai
-         hex      formatted name            AGL name      with extension                                   range
         0910                  ai                dvAi               dv-ai                              Devanagari
         0C90                  ai                knAi               kn-ai                                 Kannada
 
 aisign
-         hex      formatted name            AGL name      with extension                                   range
         0948              aisign            dvAisign           dv-aisign                              Devanagari
         0CC8              aisign            knAisign           kn-aisign                                 Kannada
 
 alef
-         hex      formatted name            AGL name      with extension                                   range
         05D0                alef              heAlef             hb-alef                                  Hebrew
-        0627                alef              arAlef             ar-alef                                  Arabic
+        0627                alef              arAlef                alef                                  Arabic
 
 alpha
-         hex      formatted name            AGL name      with extension                                   range
         0251               alpha          alphalatin           ipa-alpha                          IPA Extensions
         03B1               alpha               alpha            gr-alpha                        Greek and Coptic
 
 anusvara
-         hex      formatted name            AGL name      with extension                                   range
-        0902            anusvara          dvAnusvara         dv-anusvara                              Devanagari
-        0C82            anusvara          knAnusvara         kn-anusvara                                 Kannada
+        0902            anusvara          dvAnusvara            anusvara                              Devanagari
+        0C82            anusvara          knAnusvara            anusvara                                 Kannada
 
 au
-         hex      formatted name            AGL name      with extension                                   range
         0914                  au                dvAu               dv-au                              Devanagari
         0C94                  au                knAu               kn-au                                 Kannada
 
 ausign
-         hex      formatted name            AGL name      with extension                                   range
         094C              ausign            dvAusign           dv-ausign                              Devanagari
         0CCC              ausign            knAusign           kn-ausign                                 Kannada
 
 avagraha
-         hex      formatted name            AGL name      with extension                                   range
-        093D            avagraha          dvAvagraha         dv-avagraha                              Devanagari
-        0CBD            avagraha          knAvagraha         kn-avagraha                                 Kannada
+        093D            avagraha          dvAvagraha            avagraha                              Devanagari
+        0CBD            avagraha          knAvagraha            avagraha                                 Kannada
 
 ba
-         hex      formatted name            AGL name      with extension                                   range
         092C                  ba                dvBa               dv-ba                              Devanagari
         0CAC                  ba                knBa               kn-ba                                 Kannada
+        0F56                  ba                   -               tb-ba                                 Tibetan
+        182A                  ba                   -               mo-ba                               Mongolian
 
 barfullwidth
-         hex      formatted name            AGL name      with extension                                   range
-        3374        barfullwidth        barfullwidth    cjk-barfullwidth                       CJK Compatibility
-        FF5C        barfullwidth   linevertfullwidth   hlfw-barfullwidth           Halfwidth and Fullwidth Forms
+        3374        barfullwidth        barfullwidth        barfullwidth                       CJK Compatibility
+        FF5C        barfullwidth   linevertfullwidth        barfullwidth           Halfwidth and Fullwidth Forms
 
 bet
-         hex      formatted name            AGL name      with extension                                   range
         05D1                 bet               heBet              hb-bet                                  Hebrew
         2136                 bet                   -            lttr-bet                      Letterlike Symbols
 
 bha
-         hex      formatted name            AGL name      with extension                                   range
         092D                 bha               dvBha              dv-bha                              Devanagari
         0CAD                 bha               knBha              kn-bha                                 Kannada
+        0F57                 bha                   -              tb-bha                                 Tibetan
 
 ca
-         hex      formatted name            AGL name      with extension                                   range
         056E                  ca          caarmenian               am-ca                                Armenian
         091A                  ca                dvCa               dv-ca                              Devanagari
         0C9A                  ca                knCa               kn-ca                                 Kannada
+        0F45                  ca                   -               tb-ca                                 Tibetan
 
 cha
-         hex      formatted name            AGL name      with extension                                   range
         0579                 cha         chaarmenian              am-cha                                Armenian
         091B                 cha               dvCha              dv-cha                              Devanagari
         0C9B                 cha               knCha              kn-cha                                 Kannada
+        0F46                 cha                   -              tb-cha                                 Tibetan
+        1834                 cha                   -              mo-cha                               Mongolian
+
+chi
+        03C7                 chi                 chi                 chi                        Greek and Coptic
+        1842                 chi                   -                 chi                               Mongolian
+
+colon
+        003A               colon               colon               colon                             Basic Latin
+        1804               colon                   -               colon                               Mongolian
 
 comma
-         hex      formatted name            AGL name      with extension                                   range
         002C               comma               comma               comma                             Basic Latin
-        055D               comma       commaarmenian            am-comma                                Armenian
-        060C               comma             arComma            ar-comma                                  Arabic
+        055D               comma       commaarmenian               comma                                Armenian
+        060C               comma             arComma               comma                                  Arabic
+        1802               comma                   -            mo-comma                               Mongolian
 
 cuberoot
-         hex      formatted name            AGL name      with extension                                   range
-        0606            cuberoot                   -         ar-cuberoot                                  Arabic
+        0606            cuberoot                   -            cuberoot                                  Arabic
         221B            cuberoot                   -       mthm-cuberoot                  Mathematical Operators
 
 da
-         hex      formatted name            AGL name      with extension                                   range
         0564                  da          daarmenian               am-da                                Armenian
         0926                  da                dvDa               dv-da                              Devanagari
         0CA6                  da                knDa               kn-da                                 Kannada
+        0F51                  da                   -               tb-da                                 Tibetan
+        1833                  da                   -               mo-da                               Mongolian
 
 dalet
-         hex      formatted name            AGL name      with extension                                   range
         05D3               dalet             heDalet            hb-dalet                                  Hebrew
         2138               dalet                   -          lttr-dalet                      Letterlike Symbols
 
 dda
-         hex      formatted name            AGL name      with extension                                   range
         0921                 dda               dvDda              dv-dda                              Devanagari
         0CA1                 dda               knDda              kn-dda                                 Kannada
+        0F4C                 dda                   -              tb-dda                                 Tibetan
 
 ddha
-         hex      formatted name            AGL name      with extension                                   range
         0922                ddha              dvDdha             dv-ddha                              Devanagari
         0CA2                ddha              knDdha             kn-ddha                                 Kannada
+        0F4D                ddha                   -             tb-ddha                                 Tibetan
 
 delta
-         hex      formatted name            AGL name      with extension                                   range
         03B4               delta               delta            gr-delta                        Greek and Coptic
         1E9F               delta                   -               delta               Latin Extended Additional
 
 dha
-         hex      formatted name            AGL name      with extension                                   range
         0927                 dha               dvDha              dv-dha                              Devanagari
         0CA7                 dha               knDha              kn-dha                                 Kannada
+        0F52                 dha                   -              tb-dha                                 Tibetan
 
 diamondblack
-         hex      formatted name            AGL name      with extension                                   range
         25C6        diamondblack        diamondblack   gmtr-diamondblack                        Geometric Shapes
-        2666        diamondblack             diamond   mscl-diamondblack                   Miscellaneous Symbols
+        2666        diamondblack             diamond        diamondblack                   Miscellaneous Symbols
 
 diamondwhite
-         hex      formatted name            AGL name      with extension                                   range
         25C7        diamondwhite        whitediamond   gmtr-diamondwhite                        Geometric Shapes
-        2662        diamondwhite         diamondopen   mscl-diamondwhite                   Miscellaneous Symbols
+        2662        diamondwhite         diamondopen        diamondwhite                   Miscellaneous Symbols
 
 e
-         hex      formatted name            AGL name      with extension                                   range
         0065                   e                   e                   e                             Basic Latin
         044D                   e                ecyr                ecyr                                Cyrillic
         06D0                   e                 arE                ar-e                                  Arabic
         090F                   e                 dvE                dv-e                              Devanagari
         0C8E                   e                 knE                kn-e                                 Kannada
+        1821                   e                   -                mo-e                               Mongolian
 
 edieresis
-         hex      formatted name            AGL name      with extension                                   range
         00EB           edieresis           edieresis           edieresis                      Latin-1 Supplement
         04ED           edieresis                   -        edieresiscyr                                Cyrillic
 
+ee
+        0C8F                  ee                knEe                  ee                                 Kannada
+        1827                  ee                   -                  ee                               Mongolian
+
 eight
-         hex      formatted name            AGL name      with extension                                   range
         0038               eight               eight               eight                             Basic Latin
         0668               eight             arEight            ar-eight                                  Arabic
         096E               eight             dvEight            dv-eight                              Devanagari
         0CEE               eight             knEight            kn-eight                                 Kannada
         0F28               eight                   -            tb-eight                                 Tibetan
+        1818               eight                   -            mo-eight                               Mongolian
+
+ellipsis
+        1801            ellipsis                   -            ellipsis                               Mongolian
+        2026            ellipsis            ellipsis            ellipsis                     General Punctuation
 
 esign
-         hex      formatted name            AGL name      with extension                                   range
         0947               esign             dvEsign            dv-esign                              Devanagari
         0CC6               esign             knEsign            kn-esign                                 Kannada
 
 exclam
-         hex      formatted name            AGL name      with extension                                   range
         0021              exclam              exclam              exclam                             Basic Latin
-        055C              exclam      exclamarmenian           am-exclam                                Armenian
+        055C              exclam      exclamarmenian              exclam                                Armenian
 
 fa
-         hex      formatted name            AGL name      with extension                                   range
         095E                  fa                dvFa               dv-fa                              Devanagari
         0CDE                  fa                knFa               kn-fa                                 Kannada
+        1839                  fa                   -               mo-fa                               Mongolian
 
 feh
-         hex      formatted name            AGL name      with extension                                   range
         0586                 feh         feharmenian              am-feh                                Armenian
         0641                 feh               arFeh              ar-feh                                  Arabic
 
 five
-         hex      formatted name            AGL name      with extension                                   range
         0035                five                five                five                             Basic Latin
         0665                five              arFive             ar-five                                  Arabic
         096B                five              dvFive             dv-five                              Devanagari
         0CEB                five              knFive             kn-five                                 Kannada
         0F25                five                   -             tb-five                                 Tibetan
+        1815                five                   -             mo-five                               Mongolian
 
 four
-         hex      formatted name            AGL name      with extension                                   range
         0034                four                four                four                             Basic Latin
         0664                four              arFour             ar-four                                  Arabic
         096A                four              dvFour             dv-four                              Devanagari
         0CEA                four              knFour             kn-four                                 Kannada
         0F24                four                   -             tb-four                                 Tibetan
+        1814                four                   -             mo-four                               Mongolian
 
 fourthroot
-         hex      formatted name            AGL name      with extension                                   range
-        0607          fourthroot                   -       ar-fourthroot                                  Arabic
+        0607          fourthroot                   -          fourthroot                                  Arabic
         221C          fourthroot                   -     mthm-fourthroot                  Mathematical Operators
 
 ga
-         hex      formatted name            AGL name      with extension                                   range
         0917                  ga                dvGa               dv-ga                              Devanagari
         0C97                  ga                knGa               kn-ga                                 Kannada
+        0F42                  ga                   -               tb-ga                                 Tibetan
+        182D                  ga                   -               mo-ga                               Mongolian
 
 gamma
-         hex      formatted name            AGL name      with extension                                   range
         0263               gamma          gammalatin           ipa-gamma                          IPA Extensions
         03B3               gamma               gamma            gr-gamma                        Greek and Coptic
 
 gha
-         hex      formatted name            AGL name      with extension                                   range
         0918                 gha               dvGha              dv-gha                              Devanagari
         0C98                 gha               knGha              kn-gha                                 Kannada
+        0F43                 gha                   -              tb-gha                                 Tibetan
 
 gimel
-         hex      formatted name            AGL name      with extension                                   range
         05D2               gimel             heGimel            hb-gimel                                  Hebrew
         2137               gimel                   -          lttr-gimel                      Letterlike Symbols
 
 glottalstop
-         hex      formatted name            AGL name      with extension                                   range
         0242         glottalstop    glottalstoplatin         glottalstop                        Latin Extended-B
         0294         glottalstop         glottalstop     ipa-glottalstop                          IPA Extensions
-        097D         glottalstop              dvStop      dv-glottalstop                              Devanagari
+        097D         glottalstop              dvStop         glottalstop                              Devanagari
 
 grave
-         hex      formatted name            AGL name      with extension                                   range
         0060               grave               grave               grave                             Basic Latin
-        0953               grave             dvGrave            dv-grave                              Devanagari
+        0953               grave             dvGrave               grave                              Devanagari
         1FEF               grave               varia            gr-grave                          Greek Extended
 
 gscript
-         hex      formatted name            AGL name      with extension                                   range
-        0261             gscript             gscript         ipa-gscript                          IPA Extensions
-        210A             gscript         gscriptmath        lttr-gscript                      Letterlike Symbols
+        0261             gscript             gscript             gscript                          IPA Extensions
+        210A             gscript         gscriptmath             gscript                      Letterlike Symbols
 
 ha
-         hex      formatted name            AGL name      with extension                                   range
         0445                  ha                  ha               hacyr                                Cyrillic
         0939                  ha                dvHa               dv-ha                              Devanagari
         0CB9                  ha                knHa               kn-ha                                 Kannada
+        0F67                  ha                   -               tb-ha                                 Tibetan
 
 hanguljungseongoe
-         hex      formatted name            AGL name      with extension                                   range
         116C   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
         1180   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
 
 hyphen
-         hex      formatted name            AGL name      with extension                                   range
         002D              hyphen              hyphen              hyphen                             Basic Latin
-        058A              hyphen                   -           am-hyphen                                Armenian
+        058A              hyphen                   -              hyphen                                Armenian
         2010              hyphen           hyphentwo         gnrl-hyphen                     General Punctuation
 
 i
-         hex      formatted name            AGL name      with extension                                   range
         0069                   i                   i                   i                             Basic Latin
         0438                   i                icyr                icyr                                Cyrillic
         0907                   i                 dvI                dv-i                              Devanagari
         0C87                   i                 knI                kn-i                                 Kannada
+        1822                   i                   -                mo-i                               Mongolian
 
 idieresis
-         hex      formatted name            AGL name      with extension                                   range
         00EF           idieresis           idieresis           idieresis                      Latin-1 Supplement
         04E5           idieresis        idieresiscyr        idieresiscyr                                Cyrillic
 
 igrave
-         hex      formatted name            AGL name      with extension                                   range
         00EC              igrave              igrave              igrave                      Latin-1 Supplement
         045D              igrave           igravecyr           igravecyr                                Cyrillic
 
 ii
-         hex      formatted name            AGL name      with extension                                   range
         0908                  ii                dvIi               dv-ii                              Devanagari
         0C88                  ii                knIi               kn-ii                                 Kannada
 
 iisign
-         hex      formatted name            AGL name      with extension                                   range
         0940              iisign            dvIisign           dv-iisign                              Devanagari
         0CC0              iisign            knIisign           kn-iisign                                 Kannada
 
 imacron
-         hex      formatted name            AGL name      with extension                                   range
         012B             imacron             imacron             imacron                        Latin Extended-A
         04E3             imacron          imacroncyr          imacroncyr                                Cyrillic
 
 iota
-         hex      formatted name            AGL name      with extension                                   range
         0269                iota           iotalatin            ipa-iota                          IPA Extensions
         03B9                iota                iota             gr-iota                        Greek and Coptic
 
 iotalenis
-         hex      formatted name            AGL name      with extension                                   range
-        037A           iotalenis       iotasubscript        gr-iotalenis                        Greek and Coptic
+        037A           iotalenis       iotasubscript           iotalenis                        Greek and Coptic
         1F30           iotalenis           iotalenis        gr-iotalenis                          Greek Extended
 
 isign
-         hex      formatted name            AGL name      with extension                                   range
         093F               isign             dvIsign            dv-isign                              Devanagari
         0CBF               isign             knIsign            kn-isign                                 Kannada
 
 ja
-         hex      formatted name            AGL name      with extension                                   range
         0571                  ja          jaarmenian               am-ja                                Armenian
         091C                  ja                dvJa               dv-ja                              Devanagari
         0C9C                  ja                knJa               kn-ja                                 Kannada
+        0F47                  ja                   -               tb-ja                                 Tibetan
+        1835                  ja                   -               mo-ja                               Mongolian
 
 jha
-         hex      formatted name            AGL name      with extension                                   range
         091D                 jha               dvJha              dv-jha                              Devanagari
         0C9D                 jha               knJha              kn-jha                                 Kannada
 
 ka
-         hex      formatted name            AGL name      with extension                                   range
         043A                  ka                  ka               kacyr                                Cyrillic
         0915                  ka                dvKa               dv-ka                              Devanagari
         0C95                  ka                knKa               kn-ka                                 Kannada
+        0F40                  ka                   -               tb-ka                                 Tibetan
+        183A                  ka                   -               mo-ka                               Mongolian
 
 kaf
-         hex      formatted name            AGL name      with extension                                   range
         05DB                 kaf               heKaf              hb-kaf                                  Hebrew
         0643                 kaf               arKaf              ar-kaf                                  Arabic
 
 kaf.fina
-         hex      formatted name            AGL name      with extension                                   range
         05DA            kaf.fina            heKafFin         hb-kaf.fina                                  Hebrew
         FEDA            kaf.fina           arKafPF.f         ar-kaf.fina             Arabic Presentation Forms-B
 
 kha
-         hex      formatted name            AGL name      with extension                                   range
         0916                 kha               dvKha              dv-kha                              Devanagari
         0C96                 kha               knKha              kn-kha                                 Kannada
+        0F41                 kha                   -              tb-kha                                 Tibetan
+        183B                 kha                   -              mo-kha                               Mongolian
 
 koppa
-         hex      formatted name            AGL name      with extension                                   range
         03DF               koppa                   -            gr-koppa                        Greek and Coptic
         0481               koppa       koppacyrillic            koppacyr                                Cyrillic
 
 la
-         hex      formatted name            AGL name      with extension                                   range
         0932                  la                dvLa               dv-la                              Devanagari
         0CB2                  la                knLa               kn-la                                 Kannada
+        0F63                  la                   -               tb-la                                 Tibetan
+        182F                  la                   -               mo-la                               Mongolian
 
 lla
-         hex      formatted name            AGL name      with extension                                   range
         0933                 lla               dvLla              dv-lla                              Devanagari
         0CB3                 lla               knLla              kn-lla                                 Kannada
 
 llvocal
-         hex      formatted name            AGL name      with extension                                   range
-        0961             llvocal           dvLlvocal          dv-llvocal                              Devanagari
-        0CE1             llvocal           knLlvocal          kn-llvocal                                 Kannada
+        0961             llvocal           dvLlvocal             llvocal                              Devanagari
+        0CE1             llvocal           knLlvocal             llvocal                                 Kannada
 
 llvocalsign
-         hex      formatted name            AGL name      with extension                                   range
-        0963         llvocalsign       dvLlvocalsign      dv-llvocalsign                              Devanagari
-        0CE3         llvocalsign       knLlvocalsign      kn-llvocalsign                                 Kannada
+        0963         llvocalsign       dvLlvocalsign         llvocalsign                              Devanagari
+        0CE3         llvocalsign       knLlvocalsign         llvocalsign                                 Kannada
 
 lvocal
-         hex      formatted name            AGL name      with extension                                   range
-        090C              lvocal            dvLvocal           dv-lvocal                              Devanagari
-        0C8C              lvocal            knLvocal           kn-lvocal                                 Kannada
+        090C              lvocal            dvLvocal              lvocal                              Devanagari
+        0C8C              lvocal            knLvocal              lvocal                                 Kannada
 
 lvocalsign
-         hex      formatted name            AGL name      with extension                                   range
-        0962          lvocalsign        dvLvocalsign       dv-lvocalsign                              Devanagari
-        0CE2          lvocalsign        knLvocalsign       kn-lvocalsign                                 Kannada
+        0962          lvocalsign        dvLvocalsign          lvocalsign                              Devanagari
+        0CE2          lvocalsign        knLvocalsign          lvocalsign                                 Kannada
 
 ma
-         hex      formatted name            AGL name      with extension                                   range
         092E                  ma                dvMa               dv-ma                              Devanagari
         0CAE                  ma                knMa               kn-ma                                 Kannada
+        0F58                  ma                   -               tb-ma                                 Tibetan
+        182E                  ma                   -               mo-ma                               Mongolian
 
 na
-         hex      formatted name            AGL name      with extension                                   range
         0928                  na                dvNa               dv-na                              Devanagari
         0CA8                  na                knNa               kn-na                                 Kannada
+        0F53                  na                   -               tb-na                                 Tibetan
+        1828                  na                   -               mo-na                               Mongolian
 
 nga
-         hex      formatted name            AGL name      with extension                                   range
         0919                 nga               dvNga              dv-nga                              Devanagari
         0C99                 nga               knNga              kn-nga                                 Kannada
+        0F44                 nga                   -              tb-nga                                 Tibetan
 
 nine
-         hex      formatted name            AGL name      with extension                                   range
         0039                nine                nine                nine                             Basic Latin
         0669                nine              arNine             ar-nine                                  Arabic
         096F                nine              dvNine             dv-nine                              Devanagari
         0CEF                nine              knNine             kn-nine                                 Kannada
         0F29                nine                   -             tb-nine                                 Tibetan
+        1819                nine                   -             mo-nine                               Mongolian
 
 nna
-         hex      formatted name            AGL name      with extension                                   range
         0923                 nna               dvNna              dv-nna                              Devanagari
         0CA3                 nna               knNna              kn-nna                                 Kannada
+        0F4E                 nna                   -              tb-nna                                 Tibetan
 
 nukta
-         hex      formatted name            AGL name      with extension                                   range
-        093C               nukta             dvNukta            dv-nukta                              Devanagari
-        0CBC               nukta             knNukta            kn-nukta                                 Kannada
+        093C               nukta             dvNukta               nukta                              Devanagari
+        0CBC               nukta             knNukta               nukta                                 Kannada
 
 numbersign
-         hex      formatted name            AGL name      with extension                                   range
         0023          numbersign          numbersign          numbersign                             Basic Latin
-        0600          numbersign        arNumberSign       ar-numbersign                                  Arabic
+        0600          numbersign        arNumberSign          numbersign                                  Arabic
 
 nya
-         hex      formatted name            AGL name      with extension                                   range
         091E                 nya               dvNya              dv-nya                              Devanagari
         0C9E                 nya               knNya              kn-nya                                 Kannada
+        0F49                 nya                   -              tb-nya                                 Tibetan
 
 o
-         hex      formatted name            AGL name      with extension                                   range
         006F                   o                   o                   o                             Basic Latin
         043E                   o                ocyr                ocyr                                Cyrillic
         0913                   o                 dvO                dv-o                              Devanagari
         0C92                   o                 knO                kn-o                                 Kannada
+        1823                   o                   -                mo-o                               Mongolian
 
 odieresis
-         hex      formatted name            AGL name      with extension                                   range
         00F6           odieresis           odieresis           odieresis                      Latin-1 Supplement
         04E7           odieresis        odieresiscyr        odieresiscyr                                Cyrillic
 
 oe
-         hex      formatted name            AGL name      with extension                                   range
         0153                  oe                  oe                  oe                        Latin Extended-A
         06C6                  oe                arOe               ar-oe                                  Arabic
+        1825                  oe                   -               mo-oe                               Mongolian
 
 omega
-         hex      formatted name            AGL name      with extension                                   range
         03C9               omega               omega            gr-omega                        Greek and Coptic
         0461               omega       omegacyrillic            omegacyr                                Cyrillic
 
 one
-         hex      formatted name            AGL name      with extension                                   range
         0031                 one                 one                 one                             Basic Latin
         0661                 one               arOne              ar-one                                  Arabic
         0967                 one               dvOne              dv-one                              Devanagari
         0CE7                 one               knOne              kn-one                                 Kannada
         0F21                 one                   -              tb-one                                 Tibetan
+        1811                 one                   -              mo-one                               Mongolian
 
 osign
-         hex      formatted name            AGL name      with extension                                   range
         094B               osign             dvOsign            dv-osign                              Devanagari
         0CCA               osign             knOsign            kn-osign                                 Kannada
 
 pa
-         hex      formatted name            AGL name      with extension                                   range
         092A                  pa                dvPa               dv-pa                              Devanagari
         0CAA                  pa                knPa               kn-pa                                 Kannada
+        0F54                  pa                   -               tb-pa                                 Tibetan
+        182B                  pa                   -               mo-pa                               Mongolian
 
 pe
-         hex      formatted name            AGL name      with extension                                   range
         043F                  pe                  pe               pecyr                                Cyrillic
         05E4                  pe                hePe               hb-pe                                  Hebrew
 
 peh
-         hex      formatted name            AGL name      with extension                                   range
         057A                 peh         peharmenian              am-peh                                Armenian
         067E                 peh               arPeh              ar-peh                                  Arabic
 
 percent
-         hex      formatted name            AGL name      with extension                                   range
         0025             percent             percent             percent                             Basic Latin
-        066A             percent           arPercent          ar-percent                                  Arabic
+        066A             percent           arPercent             percent                                  Arabic
 
 period
-         hex      formatted name            AGL name      with extension                                   range
         002E              period              period              period                             Basic Latin
-        0589              period      periodarmenian           am-period                                Armenian
-        06D4              period         arPeriodURD           ar-period                                  Arabic
+        0589              period      periodarmenian              period                                Armenian
+        06D4              period         arPeriodURD              period                                  Arabic
+        1803              period                   -           mo-period                               Mongolian
 
 perpendicular
-         hex      formatted name            AGL name      with extension                                   range
         22A5       perpendicular       perpendicular  mthm-perpendicular                  Mathematical Operators
-        27C2       perpendicular                   -  mscl-perpendicular    Miscellaneous Mathematical Symbols-A
+        27C2       perpendicular                   -  misc-perpendicular    Miscellaneous Mathematical Symbols-A
 
 perthousand
-         hex      formatted name            AGL name      with extension                                   range
-        060A         perthousand                   -      ar-perthousand                                  Arabic
+        060A         perthousand                   -         perthousand                                  Arabic
         2030         perthousand         perthousand    gnrl-perthousand                     General Punctuation
 
 pha
-         hex      formatted name            AGL name      with extension                                   range
         092B                 pha               dvPha              dv-pha                              Devanagari
         0CAB                 pha               knPha              kn-pha                                 Kannada
+        0F55                 pha                   -              tb-pha                                 Tibetan
 
 phi
-         hex      formatted name            AGL name      with extension                                   range
         0278                 phi            philatin             ipa-phi                          IPA Extensions
         03C6                 phi                 phi              gr-phi                        Greek and Coptic
 
 psi
-         hex      formatted name            AGL name      with extension                                   range
         03C8                 psi                 psi              gr-psi                        Greek and Coptic
         0471                 psi         psicyrillic              psicyr                                Cyrillic
 
+qa
+        0958                  qa                dvQa                  qa                              Devanagari
+        182C                  qa                   -                  qa                               Mongolian
+
 question
-         hex      formatted name            AGL name      with extension                                   range
         003F            question            question            question                             Basic Latin
-        037E            question       questiongreek         gr-question                        Greek and Coptic
-        055E            question    questionarmenian         am-question                                Armenian
-        061F            question          arQuestion         ar-question                                  Arabic
+        037E            question       questiongreek            question                        Greek and Coptic
+        055E            question    questionarmenian            question                                Armenian
+        061F            question          arQuestion            question                                  Arabic
 
 ra
-         hex      formatted name            AGL name      with extension                                   range
         057C                  ra          raarmenian               am-ra                                Armenian
         0930                  ra                dvRa               dv-ra                              Devanagari
         0CB0                  ra                knRa               kn-ra                                 Kannada
+        0F62                  ra                   -               tb-ra                                 Tibetan
+        1837                  ra                   -               mo-ra                               Mongolian
 
 reh
-         hex      formatted name            AGL name      with extension                                   range
         0580                 reh         reharmenian              am-reh                                Armenian
         0631                 reh               arReh              ar-reh                                  Arabic
 
 rra
-         hex      formatted name            AGL name      with extension                                   range
         0931                 rra               dvRra              dv-rra                              Devanagari
         0CB1                 rra               knRra              kn-rra                                 Kannada
+        0F6C                 rra                   -              tb-rra                                 Tibetan
 
 rrvocal
-         hex      formatted name            AGL name      with extension                                   range
-        0960             rrvocal           dvRrvocal          dv-rrvocal                              Devanagari
-        0CE0             rrvocal           knRrvocal          kn-rrvocal                                 Kannada
+        0960             rrvocal           dvRrvocal             rrvocal                              Devanagari
+        0CE0             rrvocal           knRrvocal             rrvocal                                 Kannada
 
 rrvocalsign
-         hex      formatted name            AGL name      with extension                                   range
-        0944         rrvocalsign       dvRrvocalsign      dv-rrvocalsign                              Devanagari
-        0CC4         rrvocalsign       knRrvocalsign      kn-rrvocalsign                                 Kannada
+        0944         rrvocalsign       dvRrvocalsign         rrvocalsign                              Devanagari
+        0CC4         rrvocalsign       knRrvocalsign         rrvocalsign                                 Kannada
 
 rvocal
-         hex      formatted name            AGL name      with extension                                   range
-        090B              rvocal            dvRvocal           dv-rvocal                              Devanagari
-        0C8B              rvocal            knRvocal           kn-rvocal                                 Kannada
+        090B              rvocal            dvRvocal              rvocal                              Devanagari
+        0C8B              rvocal            knRvocal              rvocal                                 Kannada
 
 rvocalsign
-         hex      formatted name            AGL name      with extension                                   range
-        0943          rvocalsign        dvRvocalsign       dv-rvocalsign                              Devanagari
-        0CC3          rvocalsign        knRvocalsign       kn-rvocalsign                                 Kannada
+        0943          rvocalsign        dvRvocalsign          rvocalsign                              Devanagari
+        0CC3          rvocalsign        knRvocalsign          rvocalsign                                 Kannada
 
 sa
-         hex      formatted name            AGL name      with extension                                   range
         0938                  sa                dvSa               dv-sa                              Devanagari
         0CB8                  sa                knSa               kn-sa                                 Kannada
+        0F66                  sa                   -               tb-sa                                 Tibetan
+        1830                  sa                   -               mo-sa                               Mongolian
 
 schwa
-         hex      formatted name            AGL name      with extension                                   range
         0259               schwa               schwa           ipa-schwa                          IPA Extensions
         04D9               schwa            schwacyr            schwacyr                                Cyrillic
 
 semicolon
-         hex      formatted name            AGL name      with extension                                   range
         003B           semicolon           semicolon           semicolon                             Basic Latin
-        061B           semicolon         arSemicolon        ar-semicolon                                  Arabic
+        061B           semicolon         arSemicolon           semicolon                                  Arabic
 
 seven
-         hex      formatted name            AGL name      with extension                                   range
         0037               seven               seven               seven                             Basic Latin
         0667               seven             arSeven            ar-seven                                  Arabic
         096D               seven             dvSeven            dv-seven                              Devanagari
         0CED               seven             knSeven            kn-seven                                 Kannada
         0F27               seven                   -            tb-seven                                 Tibetan
+        1817               seven                   -            mo-seven                               Mongolian
 
 sha
-         hex      formatted name            AGL name      with extension                                   range
         0448                 sha                 sha              shacyr                                Cyrillic
         0577                 sha         shaarmenian              am-sha                                Armenian
         0936                 sha               dvSha              dv-sha                              Devanagari
         0CB6                 sha               knSha              kn-sha                                 Kannada
+        0F64                 sha                   -              tb-sha                                 Tibetan
+        1831                 sha                   -              mo-sha                               Mongolian
 
 six
-         hex      formatted name            AGL name      with extension                                   range
         0036                 six                 six                 six                             Basic Latin
         0666                 six               arSix              ar-six                                  Arabic
         096C                 six               dvSix              dv-six                              Devanagari
         0CEC                 six               knSix              kn-six                                 Kannada
         0F26                 six                   -              tb-six                                 Tibetan
+        1816                 six                   -              mo-six                               Mongolian
 
 ssa
-         hex      formatted name            AGL name      with extension                                   range
         0937                 ssa               dvSsa              dv-ssa                              Devanagari
         0CB7                 ssa               knSsa              kn-ssa                                 Kannada
+        0F65                 ssa                   -              tb-ssa                                 Tibetan
 
 ta
-         hex      formatted name            AGL name      with extension                                   range
         0924                  ta                dvTa               dv-ta                              Devanagari
         0CA4                  ta                knTa               kn-ta                                 Kannada
+        0F4F                  ta                   -               tb-ta                                 Tibetan
+        1832                  ta                   -               mo-ta                               Mongolian
 
 tha
-         hex      formatted name            AGL name      with extension                                   range
         0925                 tha               dvTha              dv-tha                              Devanagari
         0CA5                 tha               knTha              kn-tha                                 Kannada
+        0F50                 tha                   -              tb-tha                                 Tibetan
 
 thousands
-         hex      formatted name            AGL name      with extension                                   range
-        0482           thousands    thousandcyrillic        thousandscyr                                Cyrillic
-        066C           thousands         arThousands        ar-thousands                                  Arabic
+        0482           thousands    thousandcyrillic           thousands                                Cyrillic
+        066C           thousands         arThousands           thousands                                  Arabic
 
 three
-         hex      formatted name            AGL name      with extension                                   range
         0033               three               three               three                             Basic Latin
         0663               three             arThree            ar-three                                  Arabic
         0969               three             dvThree            dv-three                              Devanagari
         0CE9               three             knThree            kn-three                                 Kannada
         0F23               three                   -            tb-three                                 Tibetan
+        1813               three                   -               three                               Mongolian
 
 tilde
-         hex      formatted name            AGL name      with extension                                   range
         02DC               tilde               tilde          spcn-tilde                Spacing Modifier Letters
         1FC0               tilde         perispomeni            gr-tilde                          Greek Extended
 
+tsa
+        0F59                 tsa                   -                 tsa                                 Tibetan
+        183C                 tsa                   -                 tsa                               Mongolian
+
 tta
-         hex      formatted name            AGL name      with extension                                   range
         091F                 tta               dvTta              dv-tta                              Devanagari
         0C9F                 tta               knTta              kn-tta                                 Kannada
+        0F4A                 tta                   -              tb-tta                                 Tibetan
 
 ttha
-         hex      formatted name            AGL name      with extension                                   range
         0920                ttha              dvTtha             dv-ttha                              Devanagari
         0CA0                ttha              knTtha             kn-ttha                                 Kannada
+        0F4B                ttha                   -             tb-ttha                                 Tibetan
 
 two
-         hex      formatted name            AGL name      with extension                                   range
         0032                 two                 two                 two                             Basic Latin
         0662                 two               arTwo              ar-two                                  Arabic
         0968                 two               dvTwo              dv-two                              Devanagari
         0CE8                 two               knTwo              kn-two                                 Kannada
         0F22                 two                   -              tb-two                                 Tibetan
+        1812                 two                   -              mo-two                               Mongolian
 
 u
-         hex      formatted name            AGL name      with extension                                   range
         0075                   u                   u                   u                             Basic Latin
         0443                   u                ucyr                ucyr                                Cyrillic
         06C7                   u                 arU                ar-u                                  Arabic
         0909                   u                 dvU                dv-u                              Devanagari
         0C89                   u                 knU                kn-u                                 Kannada
+        1824                   u                   -                mo-u                               Mongolian
 
 udieresis
-         hex      formatted name            AGL name      with extension                                   range
         00FC           udieresis           udieresis           udieresis                      Latin-1 Supplement
         04F1           udieresis        udieresiscyr        udieresiscyr                                Cyrillic
 
 umacron
-         hex      formatted name            AGL name      with extension                                   range
         016B             umacron             umacron             umacron                        Latin Extended-A
         04EF             umacron          umacroncyr          umacroncyr                                Cyrillic
 
 upsilon
-         hex      formatted name            AGL name      with extension                                   range
         028A             upsilon        upsilonlatin         ipa-upsilon                          IPA Extensions
         03C5             upsilon             upsilon          gr-upsilon                        Greek and Coptic
 
 usign
-         hex      formatted name            AGL name      with extension                                   range
         0941               usign             dvUsign            dv-usign                              Devanagari
         0CC1               usign             knUsign            kn-usign                                 Kannada
 
 uu
-         hex      formatted name            AGL name      with extension                                   range
         090A                  uu                dvUu               dv-uu                              Devanagari
         0C8A                  uu                knUu               kn-uu                                 Kannada
 
 uusign
-         hex      formatted name            AGL name      with extension                                   range
         0942              uusign            dvUusign           dv-uusign                              Devanagari
         0CC2              uusign            knUusign           kn-uusign                                 Kannada
 
 va
-         hex      formatted name            AGL name      with extension                                   range
         0935                  va                dvVa               dv-va                              Devanagari
         0CB5                  va                knVa               kn-va                                 Kannada
 
 ve
-         hex      formatted name            AGL name      with extension                                   range
         0432                  ve                  ve               vecyr                                Cyrillic
         06CB                  ve                arVe               ar-ve                                  Arabic
 
 virama
-         hex      formatted name            AGL name      with extension                                   range
-        094D              virama            dvVirama           dv-virama                              Devanagari
-        0CCD              virama            knVirama           kn-virama                                 Kannada
+        094D              virama            dvVirama              virama                              Devanagari
+        0CCD              virama            knVirama              virama                                 Kannada
 
 visarga
-         hex      formatted name            AGL name      with extension                                   range
-        0903             visarga           dvVisarga          dv-visarga                              Devanagari
-        0C83             visarga           knVisarga          kn-visarga                                 Kannada
+        0903             visarga           dvVisarga             visarga                              Devanagari
+        0C83             visarga           knVisarga             visarga                                 Kannada
+
+wa
+        0F5D                  wa                   -                  wa                                 Tibetan
+        1838                  wa                   -                  wa                               Mongolian
 
 ya
-         hex      formatted name            AGL name      with extension                                   range
         044F                  ya                  ya               yacyr                                Cyrillic
         092F                  ya                dvYa               dv-ya                              Devanagari
         0CAF                  ya                knYa               kn-ya                                 Kannada
+        0F61                  ya                   -               tb-ya                                 Tibetan
+        1836                  ya                   -               mo-ya                               Mongolian
 
 yi
-         hex      formatted name            AGL name      with extension                                   range
         0457                  yi                  yi               yicyr                                Cyrillic
         0575                  yi          yiarmenian               am-yi                                Armenian
 
 yu
-         hex      formatted name            AGL name      with extension                                   range
         044E                  yu                  yu               yucyr                                Cyrillic
         06C8                  yu                arYu               ar-yu                                  Arabic
 
 za
-         hex      formatted name            AGL name      with extension                                   range
         0566                  za          zaarmenian               am-za                                Armenian
         095B                  za                dvZa               dv-za                              Devanagari
+        0F5F                  za                   -               tb-za                                 Tibetan
+        183D                  za                   -               mo-za                               Mongolian
 
 zero
-         hex      formatted name            AGL name      with extension                                   range
         0030                zero                zero                zero                             Basic Latin
         0660                zero              arZero             ar-zero                                  Arabic
         0966                zero              dvZero             dv-zero                              Devanagari
         0CE6                zero              knZero             kn-zero                                 Kannada
         0F20                zero                   -             tb-zero                                 Tibetan
+        1810                zero                   -             mo-zero                               Mongolian
+
+zha
+        0979                 zha               dvZha                 zha                              Devanagari
+        0F5E                 zha                   -                 zha                                 Tibetan
 
 zhe
-         hex      formatted name            AGL name      with extension                                   range
         0436                 zhe                 zhe              zhecyr                                Cyrillic
         056A                 zhe         zhearmenian              am-zhe                                Armenian
-# 183 names with conflicts, affecting 431 unicodes
+# 167 names with conflicts, affecting 464 unicodes
 
 
 Conflicts by rangename
         06D5                  ae                arAe               ar-ae                                  Arabic
-        0627                alef              arAlef             ar-alef                                  Arabic
-        060C               comma             arComma            ar-comma                                  Arabic
-        0606            cuberoot                   -         ar-cuberoot                                  Arabic
+        0627                alef              arAlef                alef                                  Arabic
+        060C               comma             arComma               comma                                  Arabic
+        0606            cuberoot                   -            cuberoot                                  Arabic
         06D0                   e                 arE                ar-e                                  Arabic
         0668               eight             arEight            ar-eight                                  Arabic
         0641                 feh               arFeh              ar-feh                                  Arabic
         0665                five              arFive             ar-five                                  Arabic
         0664                four              arFour             ar-four                                  Arabic
-        0607          fourthroot                   -       ar-fourthroot                                  Arabic
+        0607          fourthroot                   -          fourthroot                                  Arabic
         0643                 kaf               arKaf              ar-kaf                                  Arabic
         0669                nine              arNine             ar-nine                                  Arabic
-        0600          numbersign        arNumberSign       ar-numbersign                                  Arabic
+        0600          numbersign        arNumberSign          numbersign                                  Arabic
         06C6                  oe                arOe               ar-oe                                  Arabic
         0661                 one               arOne              ar-one                                  Arabic
         067E                 peh               arPeh              ar-peh                                  Arabic
-        066A             percent           arPercent          ar-percent                                  Arabic
-        06D4              period         arPeriodURD           ar-period                                  Arabic
-        060A         perthousand                   -      ar-perthousand                                  Arabic
-        061F            question          arQuestion         ar-question                                  Arabic
+        066A             percent           arPercent             percent                                  Arabic
+        06D4              period         arPeriodURD              period                                  Arabic
+        060A         perthousand                   -         perthousand                                  Arabic
+        061F            question          arQuestion            question                                  Arabic
         0631                 reh               arReh              ar-reh                                  Arabic
-        061B           semicolon         arSemicolon        ar-semicolon                                  Arabic
+        061B           semicolon         arSemicolon           semicolon                                  Arabic
         0667               seven             arSeven            ar-seven                                  Arabic
         0666                 six               arSix              ar-six                                  Arabic
-        066C           thousands         arThousands        ar-thousands                                  Arabic
+        066C           thousands         arThousands           thousands                                  Arabic
         0663               three             arThree            ar-three                                  Arabic
         0662                 two               arTwo              ar-two                                  Arabic
         06C7                   u                 arU                ar-u                                  Arabic
@@ -1019,15 +838,15 @@ Conflicts by rangename
         053A                 Zhe         Zhearmenian              am-Zhe                                Armenian
         056E                  ca          caarmenian               am-ca                                Armenian
         0579                 cha         chaarmenian              am-cha                                Armenian
-        055D               comma       commaarmenian            am-comma                                Armenian
+        055D               comma       commaarmenian               comma                                Armenian
         0564                  da          daarmenian               am-da                                Armenian
-        055C              exclam      exclamarmenian           am-exclam                                Armenian
+        055C              exclam      exclamarmenian              exclam                                Armenian
         0586                 feh         feharmenian              am-feh                                Armenian
-        058A              hyphen                   -           am-hyphen                                Armenian
+        058A              hyphen                   -              hyphen                                Armenian
         0571                  ja          jaarmenian               am-ja                                Armenian
         057A                 peh         peharmenian              am-peh                                Armenian
-        0589              period      periodarmenian           am-period                                Armenian
-        055E            question    questionarmenian         am-question                                Armenian
+        0589              period      periodarmenian              period                                Armenian
+        055E            question    questionarmenian            question                                Armenian
         057C                  ra          raarmenian               am-ra                                Armenian
         0580                 reh         reharmenian              am-reh                                Armenian
         0577                 sha         shaarmenian              am-sha                                Armenian
@@ -1035,11 +854,11 @@ Conflicts by rangename
         0566                  za          zaarmenian               am-za                                Armenian
         056A                 zhe         zhearmenian              am-zhe                                Armenian
         0041                   A                   A                   A                             Basic Latin
-        0045                   E                   E                   E                             Basic Latin
         0049                   I                   I                   I                             Basic Latin
         004F                   O                   O                   O                             Basic Latin
         0055                   U                   U                   U                             Basic Latin
         0061                   a                   a                   a                             Basic Latin
+        003A               colon               colon               colon                             Basic Latin
         002C               comma               comma               comma                             Basic Latin
         0065                   e                   e                   e                             Basic Latin
         0038               eight               eight               eight                             Basic Latin
@@ -1063,7 +882,7 @@ Conflicts by rangename
         0032                 two                 two                 two                             Basic Latin
         0075                   u                   u                   u                             Basic Latin
         0030                zero                zero                zero                             Basic Latin
-        3374        barfullwidth        barfullwidth    cjk-barfullwidth                       CJK Compatibility
+        3374        barfullwidth        barfullwidth        barfullwidth                       CJK Compatibility
         0410                   A                Acyr                Acyr                                Cyrillic
         04D0              Abreve           Abrevecyr           Abrevecyr                                Cyrillic
         04D2           Adieresis        Adieresiscyr        Adieresiscyr                                Cyrillic
@@ -1105,7 +924,7 @@ Conflicts by rangename
         0471                 psi         psicyrillic              psicyr                                Cyrillic
         04D9               schwa            schwacyr            schwacyr                                Cyrillic
         0448                 sha                 sha              shacyr                                Cyrillic
-        0482           thousands    thousandcyrillic        thousandscyr                                Cyrillic
+        0482           thousands    thousandcyrillic           thousands                                Cyrillic
         0443                   u                ucyr                ucyr                                Cyrillic
         04F1           udieresis        udieresiscyr        udieresiscyr                                Cyrillic
         04EF             umacron          umacroncyr          umacroncyr                                Cyrillic
@@ -1117,13 +936,13 @@ Conflicts by rangename
         0905                   a                 dvA                dv-a                              Devanagari
         0906                  aa                dvAa               dv-aa                              Devanagari
         093E              aasign            dvAasign           dv-aasign                              Devanagari
-        0954               acute             dvAcute            dv-acute                              Devanagari
+        0954               acute             dvAcute               acute                              Devanagari
         0910                  ai                dvAi               dv-ai                              Devanagari
         0948              aisign            dvAisign           dv-aisign                              Devanagari
-        0902            anusvara          dvAnusvara         dv-anusvara                              Devanagari
+        0902            anusvara          dvAnusvara            anusvara                              Devanagari
         0914                  au                dvAu               dv-au                              Devanagari
         094C              ausign            dvAusign           dv-ausign                              Devanagari
-        093D            avagraha          dvAvagraha         dv-avagraha                              Devanagari
+        093D            avagraha          dvAvagraha            avagraha                              Devanagari
         092C                  ba                dvBa               dv-ba                              Devanagari
         092D                 bha               dvBha              dv-bha                              Devanagari
         091A                  ca                dvCa               dv-ca                              Devanagari
@@ -1140,8 +959,8 @@ Conflicts by rangename
         096A                four              dvFour             dv-four                              Devanagari
         0917                  ga                dvGa               dv-ga                              Devanagari
         0918                 gha               dvGha              dv-gha                              Devanagari
-        097D         glottalstop              dvStop      dv-glottalstop                              Devanagari
-        0953               grave             dvGrave            dv-grave                              Devanagari
+        097D         glottalstop              dvStop         glottalstop                              Devanagari
+        0953               grave             dvGrave               grave                              Devanagari
         0939                  ha                dvHa               dv-ha                              Devanagari
         0907                   i                 dvI                dv-i                              Devanagari
         0908                  ii                dvIi               dv-ii                              Devanagari
@@ -1153,28 +972,29 @@ Conflicts by rangename
         0916                 kha               dvKha              dv-kha                              Devanagari
         0932                  la                dvLa               dv-la                              Devanagari
         0933                 lla               dvLla              dv-lla                              Devanagari
-        0961             llvocal           dvLlvocal          dv-llvocal                              Devanagari
-        0963         llvocalsign       dvLlvocalsign      dv-llvocalsign                              Devanagari
-        090C              lvocal            dvLvocal           dv-lvocal                              Devanagari
-        0962          lvocalsign        dvLvocalsign       dv-lvocalsign                              Devanagari
+        0961             llvocal           dvLlvocal             llvocal                              Devanagari
+        0963         llvocalsign       dvLlvocalsign         llvocalsign                              Devanagari
+        090C              lvocal            dvLvocal              lvocal                              Devanagari
+        0962          lvocalsign        dvLvocalsign          lvocalsign                              Devanagari
         092E                  ma                dvMa               dv-ma                              Devanagari
         0928                  na                dvNa               dv-na                              Devanagari
         0919                 nga               dvNga              dv-nga                              Devanagari
         096F                nine              dvNine             dv-nine                              Devanagari
         0923                 nna               dvNna              dv-nna                              Devanagari
-        093C               nukta             dvNukta            dv-nukta                              Devanagari
+        093C               nukta             dvNukta               nukta                              Devanagari
         091E                 nya               dvNya              dv-nya                              Devanagari
         0913                   o                 dvO                dv-o                              Devanagari
         0967                 one               dvOne              dv-one                              Devanagari
         094B               osign             dvOsign            dv-osign                              Devanagari
         092A                  pa                dvPa               dv-pa                              Devanagari
         092B                 pha               dvPha              dv-pha                              Devanagari
+        0958                  qa                dvQa                  qa                              Devanagari
         0930                  ra                dvRa               dv-ra                              Devanagari
         0931                 rra               dvRra              dv-rra                              Devanagari
-        0960             rrvocal           dvRrvocal          dv-rrvocal                              Devanagari
-        0944         rrvocalsign       dvRrvocalsign      dv-rrvocalsign                              Devanagari
-        090B              rvocal            dvRvocal           dv-rvocal                              Devanagari
-        0943          rvocalsign        dvRvocalsign       dv-rvocalsign                              Devanagari
+        0960             rrvocal           dvRrvocal             rrvocal                              Devanagari
+        0944         rrvocalsign       dvRrvocalsign         rrvocalsign                              Devanagari
+        090B              rvocal            dvRvocal              rvocal                              Devanagari
+        0943          rvocalsign        dvRvocalsign          rvocalsign                              Devanagari
         0938                  sa                dvSa               dv-sa                              Devanagari
         096D               seven             dvSeven            dv-seven                              Devanagari
         0936                 sha               dvSha              dv-sha                              Devanagari
@@ -1191,11 +1011,13 @@ Conflicts by rangename
         090A                  uu                dvUu               dv-uu                              Devanagari
         0942              uusign            dvUusign           dv-uusign                              Devanagari
         0935                  va                dvVa               dv-va                              Devanagari
-        094D              virama            dvVirama           dv-virama                              Devanagari
-        0903             visarga           dvVisarga          dv-visarga                              Devanagari
+        094D              virama            dvVirama              virama                              Devanagari
+        0903             visarga           dvVisarga             visarga                              Devanagari
         092F                  ya                dvYa               dv-ya                              Devanagari
         095B                  za                dvZa               dv-za                              Devanagari
         0966                zero              dvZero             dv-zero                              Devanagari
+        0979                 zha               dvZha                 zha                              Devanagari
+        2026            ellipsis            ellipsis            ellipsis                     General Punctuation
         2010              hyphen           hyphentwo         gnrl-hyphen                     General Punctuation
         2030         perthousand         perthousand    gnrl-perthousand                     General Punctuation
         25C6        diamondblack        diamondblack   gmtr-diamondblack                        Geometric Shapes
@@ -1204,24 +1026,22 @@ Conflicts by rangename
         1FEF               grave               varia            gr-grave                          Greek Extended
         1F30           iotalenis           iotalenis        gr-iotalenis                          Greek Extended
         1FC0               tilde         perispomeni            gr-tilde                          Greek Extended
-        0393               Gamma               Gamma            gr-Gamma                        Greek and Coptic
-        0399                Iota                Iota             gr-Iota                        Greek and Coptic
         03DE               Koppa          Koppagreek            gr-Koppa                        Greek and Coptic
         03A9               Omega               Omega            gr-Omega                        Greek and Coptic
         03A8                 Psi                 Psi              gr-Psi                        Greek and Coptic
-        03A5             Upsilon             Upsilon          gr-Upsilon                        Greek and Coptic
         03B1               alpha               alpha            gr-alpha                        Greek and Coptic
+        03C7                 chi                 chi                 chi                        Greek and Coptic
         03B4               delta               delta            gr-delta                        Greek and Coptic
         03B3               gamma               gamma            gr-gamma                        Greek and Coptic
         03B9                iota                iota             gr-iota                        Greek and Coptic
-        037A           iotalenis       iotasubscript        gr-iotalenis                        Greek and Coptic
+        037A           iotalenis       iotasubscript           iotalenis                        Greek and Coptic
         03DF               koppa                   -            gr-koppa                        Greek and Coptic
         03C9               omega               omega            gr-omega                        Greek and Coptic
         03C6                 phi                 phi              gr-phi                        Greek and Coptic
         03C8                 psi                 psi              gr-psi                        Greek and Coptic
-        037E            question       questiongreek         gr-question                        Greek and Coptic
+        037E            question       questiongreek            question                        Greek and Coptic
         03C5             upsilon             upsilon          gr-upsilon                        Greek and Coptic
-        FF5C        barfullwidth   linevertfullwidth   hlfw-barfullwidth           Halfwidth and Fullwidth Forms
+        FF5C        barfullwidth   linevertfullwidth        barfullwidth           Halfwidth and Fullwidth Forms
         116C   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
         1180   hanguljungseongoe                   -ko-hanguljungseongoe                             Hangul Jamo
         05D0                alef              heAlef             hb-alef                                  Hebrew
@@ -1234,7 +1054,7 @@ Conflicts by rangename
         0251               alpha          alphalatin           ipa-alpha                          IPA Extensions
         0263               gamma          gammalatin           ipa-gamma                          IPA Extensions
         0294         glottalstop         glottalstop     ipa-glottalstop                          IPA Extensions
-        0261             gscript             gscript         ipa-gscript                          IPA Extensions
+        0261             gscript             gscript             gscript                          IPA Extensions
         0269                iota           iotalatin            ipa-iota                          IPA Extensions
         0278                 phi            philatin             ipa-phi                          IPA Extensions
         0259               schwa               schwa           ipa-schwa                          IPA Extensions
@@ -1244,10 +1064,10 @@ Conflicts by rangename
         0CBE              aasign            knAasign           kn-aasign                                 Kannada
         0C90                  ai                knAi               kn-ai                                 Kannada
         0CC8              aisign            knAisign           kn-aisign                                 Kannada
-        0C82            anusvara          knAnusvara         kn-anusvara                                 Kannada
+        0C82            anusvara          knAnusvara            anusvara                                 Kannada
         0C94                  au                knAu               kn-au                                 Kannada
         0CCC              ausign            knAusign           kn-ausign                                 Kannada
-        0CBD            avagraha          knAvagraha         kn-avagraha                                 Kannada
+        0CBD            avagraha          knAvagraha            avagraha                                 Kannada
         0CAC                  ba                knBa               kn-ba                                 Kannada
         0CAD                 bha               knBha              kn-bha                                 Kannada
         0C9A                  ca                knCa               kn-ca                                 Kannada
@@ -1257,6 +1077,7 @@ Conflicts by rangename
         0CA2                ddha              knDdha             kn-ddha                                 Kannada
         0CA7                 dha               knDha              kn-dha                                 Kannada
         0C8E                   e                 knE                kn-e                                 Kannada
+        0C8F                  ee                knEe                  ee                                 Kannada
         0CEE               eight             knEight            kn-eight                                 Kannada
         0CC6               esign             knEsign            kn-esign                                 Kannada
         0CDE                  fa                knFa               kn-fa                                 Kannada
@@ -1275,16 +1096,16 @@ Conflicts by rangename
         0C96                 kha               knKha              kn-kha                                 Kannada
         0CB2                  la                knLa               kn-la                                 Kannada
         0CB3                 lla               knLla              kn-lla                                 Kannada
-        0CE1             llvocal           knLlvocal          kn-llvocal                                 Kannada
-        0CE3         llvocalsign       knLlvocalsign      kn-llvocalsign                                 Kannada
-        0C8C              lvocal            knLvocal           kn-lvocal                                 Kannada
-        0CE2          lvocalsign        knLvocalsign       kn-lvocalsign                                 Kannada
+        0CE1             llvocal           knLlvocal             llvocal                                 Kannada
+        0CE3         llvocalsign       knLlvocalsign         llvocalsign                                 Kannada
+        0C8C              lvocal            knLvocal              lvocal                                 Kannada
+        0CE2          lvocalsign        knLvocalsign          lvocalsign                                 Kannada
         0CAE                  ma                knMa               kn-ma                                 Kannada
         0CA8                  na                knNa               kn-na                                 Kannada
         0C99                 nga               knNga              kn-nga                                 Kannada
         0CEF                nine              knNine             kn-nine                                 Kannada
         0CA3                 nna               knNna              kn-nna                                 Kannada
-        0CBC               nukta             knNukta            kn-nukta                                 Kannada
+        0CBC               nukta             knNukta               nukta                                 Kannada
         0C9E                 nya               knNya              kn-nya                                 Kannada
         0C92                   o                 knO                kn-o                                 Kannada
         0CE7                 one               knOne              kn-one                                 Kannada
@@ -1293,10 +1114,10 @@ Conflicts by rangename
         0CAB                 pha               knPha              kn-pha                                 Kannada
         0CB0                  ra                knRa               kn-ra                                 Kannada
         0CB1                 rra               knRra              kn-rra                                 Kannada
-        0CE0             rrvocal           knRrvocal          kn-rrvocal                                 Kannada
-        0CC4         rrvocalsign       knRrvocalsign      kn-rrvocalsign                                 Kannada
-        0C8B              rvocal            knRvocal           kn-rvocal                                 Kannada
-        0CC3          rvocalsign        knRvocalsign       kn-rvocalsign                                 Kannada
+        0CE0             rrvocal           knRrvocal             rrvocal                                 Kannada
+        0CC4         rrvocalsign       knRrvocalsign         rrvocalsign                                 Kannada
+        0C8B              rvocal            knRvocal              rvocal                                 Kannada
+        0CC3          rvocalsign        knRvocalsign          rvocalsign                                 Kannada
         0CB8                  sa                knSa               kn-sa                                 Kannada
         0CED               seven             knSeven            kn-seven                                 Kannada
         0CB6                 sha               knSha              kn-sha                                 Kannada
@@ -1313,25 +1134,21 @@ Conflicts by rangename
         0C8A                  uu                knUu               kn-uu                                 Kannada
         0CC2              uusign            knUusign           kn-uusign                                 Kannada
         0CB5                  va                knVa               kn-va                                 Kannada
-        0CCD              virama            knVirama           kn-virama                                 Kannada
-        0C83             visarga           knVisarga          kn-visarga                                 Kannada
+        0CCD              virama            knVirama              virama                                 Kannada
+        0C83             visarga           knVisarga             visarga                                 Kannada
         0CAF                  ya                knYa               kn-ya                                 Kannada
         0CE6                zero              knZero             kn-zero                                 Kannada
         1E9F               delta                   -               delta               Latin Extended Additional
         0102              Abreve              Abreve              Abreve                        Latin Extended-A
         012A             Imacron             Imacron             Imacron                        Latin Extended-A
-        0152                  OE                  OE                  OE                        Latin Extended-A
         016A             Umacron             Umacron             Umacron                        Latin Extended-A
         0103              abreve              abreve              abreve                        Latin Extended-A
         012B             imacron             imacron             imacron                        Latin Extended-A
         0153                  oe                  oe                  oe                        Latin Extended-A
         016B             umacron             umacron             umacron                        Latin Extended-A
         018E           Ereversed             Eturned           Ereversed                        Latin Extended-B
-        0194               Gamma          Gammalatin               Gamma                        Latin Extended-B
-        0196                Iota           Iotalatin                Iota                        Latin Extended-B
         019F                Obar                Obar                Obar                        Latin Extended-B
         018F               Schwa               Schwa               Schwa                        Latin Extended-B
-        01B1             Upsilon        Upsilonlatin             Upsilon                        Latin Extended-B
         0242         glottalstop    glottalstoplatin         glottalstop                        Latin Extended-B
         00C4           Adieresis           Adieresis           Adieresis                      Latin-1 Supplement
         00CB           Edieresis           Edieresis           Edieresis                      Latin-1 Supplement
@@ -1350,66 +1167,101 @@ Conflicts by rangename
         2136                 bet                   -            lttr-bet                      Letterlike Symbols
         2138               dalet                   -          lttr-dalet                      Letterlike Symbols
         2137               gimel                   -          lttr-gimel                      Letterlike Symbols
-        210A             gscript         gscriptmath        lttr-gscript                      Letterlike Symbols
+        210A             gscript         gscriptmath             gscript                      Letterlike Symbols
         221B            cuberoot                   -       mthm-cuberoot                  Mathematical Operators
         221C          fourthroot                   -     mthm-fourthroot                  Mathematical Operators
         22A5       perpendicular       perpendicular  mthm-perpendicular                  Mathematical Operators
-        27C2       perpendicular                   -  mscl-perpendicular    Miscellaneous Mathematical Symbols-A
-        2666        diamondblack             diamond   mscl-diamondblack                   Miscellaneous Symbols
-        2662        diamondwhite         diamondopen   mscl-diamondwhite                   Miscellaneous Symbols
-        1820                   A                   -                mo-A                               Mongolian
-        182A                  BA                   -               mo-BA                               Mongolian
-        1834                 CHA                   -              mo-CHA                               Mongolian
-        1833                  DA                   -               mo-DA                               Mongolian
-        1821                   E                   -                mo-E                               Mongolian
-        182D                  GA                   -               mo-GA                               Mongolian
-        1822                   I                   -                mo-I                               Mongolian
-        1835                  JA                   -               mo-JA                               Mongolian
-        183A                  KA                   -               mo-KA                               Mongolian
-        183B                 KHA                   -              mo-KHA                               Mongolian
-        182F                  LA                   -               mo-LA                               Mongolian
-        182E                  MA                   -               mo-MA                               Mongolian
-        1828                  NA                   -               mo-NA                               Mongolian
-        1823                   O                   -                mo-O                               Mongolian
-        1825                  OE                   -               mo-OE                               Mongolian
-        182B                  PA                   -               mo-PA                               Mongolian
-        1837                  RA                   -               mo-RA                               Mongolian
-        1830                  SA                   -               mo-SA                               Mongolian
-        1831                 SHA                   -              mo-SHA                               Mongolian
-        1832                  TA                   -               mo-TA                               Mongolian
-        183C                 TSA                   -              mo-TSA                               Mongolian
-        1824                   U                   -                mo-U                               Mongolian
-        1838                  WA                   -               mo-WA                               Mongolian
-        1836                  YA                   -               mo-YA                               Mongolian
-        183D                  ZA                   -               mo-ZA                               Mongolian
+        27C2       perpendicular                   -  misc-perpendicular    Miscellaneous Mathematical Symbols-A
+        2666        diamondblack             diamond        diamondblack                   Miscellaneous Symbols
+        2662        diamondwhite         diamondopen        diamondwhite                   Miscellaneous Symbols
+        1820                   a                   -                mo-a                               Mongolian
+        182A                  ba                   -               mo-ba                               Mongolian
+        1834                 cha                   -              mo-cha                               Mongolian
+        1842                 chi                   -                 chi                               Mongolian
+        1804               colon                   -               colon                               Mongolian
+        1802               comma                   -            mo-comma                               Mongolian
+        1833                  da                   -               mo-da                               Mongolian
+        1821                   e                   -                mo-e                               Mongolian
+        1827                  ee                   -                  ee                               Mongolian
+        1818               eight                   -            mo-eight                               Mongolian
+        1801            ellipsis                   -            ellipsis                               Mongolian
+        1839                  fa                   -               mo-fa                               Mongolian
+        1815                five                   -             mo-five                               Mongolian
+        1814                four                   -             mo-four                               Mongolian
+        182D                  ga                   -               mo-ga                               Mongolian
+        1822                   i                   -                mo-i                               Mongolian
+        1835                  ja                   -               mo-ja                               Mongolian
+        183A                  ka                   -               mo-ka                               Mongolian
+        183B                 kha                   -              mo-kha                               Mongolian
+        182F                  la                   -               mo-la                               Mongolian
+        182E                  ma                   -               mo-ma                               Mongolian
+        1828                  na                   -               mo-na                               Mongolian
+        1819                nine                   -             mo-nine                               Mongolian
+        1823                   o                   -                mo-o                               Mongolian
+        1825                  oe                   -               mo-oe                               Mongolian
+        1811                 one                   -              mo-one                               Mongolian
+        182B                  pa                   -               mo-pa                               Mongolian
+        1803              period                   -           mo-period                               Mongolian
+        182C                  qa                   -                  qa                               Mongolian
+        1837                  ra                   -               mo-ra                               Mongolian
+        1830                  sa                   -               mo-sa                               Mongolian
+        1817               seven                   -            mo-seven                               Mongolian
+        1831                 sha                   -              mo-sha                               Mongolian
+        1816                 six                   -              mo-six                               Mongolian
+        1832                  ta                   -               mo-ta                               Mongolian
+        1813               three                   -               three                               Mongolian
+        183C                 tsa                   -                 tsa                               Mongolian
+        1812                 two                   -              mo-two                               Mongolian
+        1824                   u                   -                mo-u                               Mongolian
+        1838                  wa                   -                  wa                               Mongolian
+        1836                  ya                   -               mo-ya                               Mongolian
+        183D                  za                   -               mo-za                               Mongolian
+        1810                zero                   -             mo-zero                               Mongolian
         02DC               tilde               tilde          spcn-tilde                Spacing Modifier Letters
-        0F68                   A                   -                tb-A                                 Tibetan
-        0F56                  BA                   -               tb-BA                                 Tibetan
-        0F46                 CHA                   -              tb-CHA                                 Tibetan
-        0F51                  DA                   -               tb-DA                                 Tibetan
-        0F42                  GA                   -               tb-GA                                 Tibetan
-        0F47                  JA                   -               tb-JA                                 Tibetan
-        0F40                  KA                   -               tb-KA                                 Tibetan
-        0F41                 KHA                   -              tb-KHA                                 Tibetan
-        0F63                  LA                   -               tb-LA                                 Tibetan
-        0F58                  MA                   -               tb-MA                                 Tibetan
-        0F53                  NA                   -               tb-NA                                 Tibetan
-        0F54                  PA                   -               tb-PA                                 Tibetan
-        0F62                  RA                   -               tb-RA                                 Tibetan
-        0F66                  SA                   -               tb-SA                                 Tibetan
-        0F64                 SHA                   -              tb-SHA                                 Tibetan
-        0F4F                  TA                   -               tb-TA                                 Tibetan
-        0F59                 TSA                   -              tb-TSA                                 Tibetan
-        0F5D                  WA                   -               tb-WA                                 Tibetan
-        0F61                  YA                   -               tb-YA                                 Tibetan
-        0F5F                  ZA                   -               tb-ZA                                 Tibetan
+        0F68                   a                   -                tb-a                                 Tibetan
+        0F56                  ba                   -               tb-ba                                 Tibetan
+        0F57                 bha                   -              tb-bha                                 Tibetan
+        0F45                  ca                   -               tb-ca                                 Tibetan
+        0F46                 cha                   -              tb-cha                                 Tibetan
+        0F51                  da                   -               tb-da                                 Tibetan
+        0F4C                 dda                   -              tb-dda                                 Tibetan
+        0F4D                ddha                   -             tb-ddha                                 Tibetan
+        0F52                 dha                   -              tb-dha                                 Tibetan
         0F28               eight                   -            tb-eight                                 Tibetan
         0F25                five                   -             tb-five                                 Tibetan
         0F24                four                   -             tb-four                                 Tibetan
+        0F42                  ga                   -               tb-ga                                 Tibetan
+        0F43                 gha                   -              tb-gha                                 Tibetan
+        0F67                  ha                   -               tb-ha                                 Tibetan
+        0F47                  ja                   -               tb-ja                                 Tibetan
+        0F40                  ka                   -               tb-ka                                 Tibetan
+        0F41                 kha                   -              tb-kha                                 Tibetan
+        0F63                  la                   -               tb-la                                 Tibetan
+        0F58                  ma                   -               tb-ma                                 Tibetan
+        0F53                  na                   -               tb-na                                 Tibetan
+        0F44                 nga                   -              tb-nga                                 Tibetan
         0F29                nine                   -             tb-nine                                 Tibetan
+        0F4E                 nna                   -              tb-nna                                 Tibetan
+        0F49                 nya                   -              tb-nya                                 Tibetan
         0F21                 one                   -              tb-one                                 Tibetan
+        0F54                  pa                   -               tb-pa                                 Tibetan
+        0F55                 pha                   -              tb-pha                                 Tibetan
+        0F62                  ra                   -               tb-ra                                 Tibetan
+        0F6C                 rra                   -              tb-rra                                 Tibetan
+        0F66                  sa                   -               tb-sa                                 Tibetan
         0F27               seven                   -            tb-seven                                 Tibetan
+        0F64                 sha                   -              tb-sha                                 Tibetan
         0F26                 six                   -              tb-six                                 Tibetan
+        0F65                 ssa                   -              tb-ssa                                 Tibetan
+        0F4F                  ta                   -               tb-ta                                 Tibetan
+        0F50                 tha                   -              tb-tha                                 Tibetan
         0F23               three                   -            tb-three                                 Tibetan
+        0F59                 tsa                   -                 tsa                                 Tibetan
+        0F4A                 tta                   -              tb-tta                                 Tibetan
+        0F4B                ttha                   -             tb-ttha                                 Tibetan
         0F22                 two                   -              tb-two                                 Tibetan
+        0F5D                  wa                   -                  wa                                 Tibetan
+        0F61                  ya                   -               tb-ya                                 Tibetan
+        0F5F                  za                   -               tb-za                                 Tibetan
         0F20                zero                   -             tb-zero                                 Tibetan
+        0F5E                 zha                   -                 zha                                 Tibetan

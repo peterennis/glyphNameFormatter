@@ -26,13 +26,13 @@ def findConflict():
     conflictNames = []
     conflictUniNumbers = []
     conflictsPerRange = {}
+    line = "        %04s%20s%20s%20s%40s"%("hex", "formatted name", "AGL name", "with extension", "range")
+    print line
+    lines.append(line)
     for name in n:
         if len(names[name]) > 1:
             conflictNames.append(name)
             line = "\n%s" % (name)
-            print line
-            lines.append(line)
-            line = "        %04s%20s%20s%20s%40s"%("hex", "formatted name", "AGL name", "with extension", "range")
             print line
             lines.append(line)
             for g in names[name]:
