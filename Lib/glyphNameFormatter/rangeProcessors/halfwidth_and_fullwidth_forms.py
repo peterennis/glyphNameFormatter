@@ -8,12 +8,18 @@ def process(self):
     elif 0xFF65 <= self.uniNumber <= 0xFF9F:
         self.editToFinal("HALFWIDTH", 'halfwidth')
         self.processAs('Katakana')
-    elif 0xFFA0 <= self.uniNumber <= 0xFFEE:
+    elif 0xFFA0 <= self.uniNumber <= 0xFFDC:
         self.editToFinal("HALFWIDTH", 'halfwidth')
         self.editToFinal("FULLWIDTH", 'fullwidth')
         self.replace("-", "_")
         self.edit("HANGUL LETTER")
         self.processAs('Hangul')
+        self.lower()
+    else:
+        self.editToFinal("HALFWIDTH", 'halfwidth')
+        self.editToFinal("FULLWIDTH", 'fullwidth')
+        self.edit('CENT SIGN', "cent")
+        self.edit('POUND SIGN', "sterling")
         self.lower()
 
     # XXXXX add support for HANGUL
