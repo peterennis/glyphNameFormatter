@@ -18,8 +18,8 @@ def process(self):
     self.edit("SMALL LETTER PALOCHKA", "palochka")
     self.edit("LETTER PALOCHKA", "Palochka")
 
-    self.edit("BIG", "big")			# Yus
-    self.edit("LITTLE", "little")	# yus
+    self.edit("BIG", "big")         # Yus
+    self.edit("LITTLE", "little")   # yus
     self.edit("BARRED", "bar")
     self.edit("STRAIGHT", "straight")
     self.edit("SHORT", "short")
