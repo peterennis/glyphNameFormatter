@@ -13,6 +13,9 @@ def process(self):
 
     self.edit("WITH DOUBLE ACUTE", "hungarumlaut")
 
+    self.edit("SMALL LETTER L WITH MIDDLE DOT", "ldot")
+    self.edit("CAPITAL LETTER L WITH MIDDLE DOT", "Ldot")
+
     self.replace("CAPITAL LIGATURE IJ", "IJ")
     self.replace("SMALL LIGATURE IJ", "ij")
 
