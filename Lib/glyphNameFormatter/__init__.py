@@ -137,11 +137,11 @@ class GlyphName(GlyphNameProcessor):
     def getName(self, extension=True):
         # return the name, add extensions or not.
 
-
-
         if self.uniName is None:
             # nothing to see here.
             return None
+        if extension is False:
+            return self.uniNameProcessed
         if self.mustAddScript:
             # we don't want a script extension,
             # but we've been warned that it might be necessary

@@ -5,7 +5,6 @@ from glyphNameFormatter.data import unicode2name_AGD
 
 #   Find duplicate names for different unicodes
 
-includeScriptPrefix = False
 
 def findConflict():
     names = {}
@@ -13,13 +12,14 @@ def findConflict():
     for rangeName in getAllRangeNames():
         start, end = getRangeByName(rangeName)
         for uniNumber in range(start, end+1):
-            glyphName = glyphNameFormatter.GlyphName(uniNumber, includeScriptPrefix=includeScriptPrefix)
+            glyphName = glyphNameFormatter.GlyphName(uniNumber, includeScriptPrefix=False)
             if glyphName.hasName():
                 # lines.append("%04X\t%s\t%s" % (uniNumber, glyphName.getName(), glyphName.uniName))
-                name = glyphName.getName()
+                name = glyphName.getName(extension=False)
+                extendedName = glyphName.getName(extension=True)
                 if not name in names:
                     names[name] = []
-                names[name].append((uniNumber, glyphName.uniRangeName))
+                names[name].append((uniNumber, glyphName.uniRangeName, extendedName))
     n = names.keys()
     n.sort()
 
@@ -28,13 +28,16 @@ def findConflict():
     for name in n:
         if len(names[name]) > 1:
             conflictNames.append(name)
-            l = "\n%s" % (name)
-            print l
-            lines.append(l)
+            line = "\n%s" % (name)
+            print line
+            lines.append(line)
+            line = "        %04s%20s%20s%20s%40s"%("hex", "formatted name", "AGL name", "with extension", "range")
+            print line
+            lines.append(line)
             for g in names[name]:
                 conflictUniNumbers.append(g[0])
                 AGLname = unicode2name_AGD.get(g[0], "-")
-                line = "        %04X%20s%20s%40s"%(g[0], name, AGLname, g[1])
+                line = "        %04X%20s%20s%20s%40s"%(g[0], name, AGLname, g[2], g[1])
                 print line
                 lines.append(line)
     stats =  "# %d names with conflicts, affecting %d unicodes"%(len(conflictNames), len(conflictUniNumbers))
