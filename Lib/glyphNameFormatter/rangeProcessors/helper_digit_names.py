@@ -14,6 +14,8 @@ def process(self):
     self.replace("NOVEMBER", "november")
     self.replace("DECEMBER", "december")
 
+    self.replace("HUNDRED", "hundred")
+    self.replace("THOUSAND", "thousand")
     self.replace("THIRTY SIX", "thirtysix")
     self.replace("THIRTY SEVEN", "thirtyseven")
     self.replace("THIRTY EIGHT", "thirtyeight")

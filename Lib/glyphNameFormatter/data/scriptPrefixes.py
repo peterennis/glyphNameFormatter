@@ -59,6 +59,7 @@ _scriptPrefixes = {
     'kannada': "kn",
     'katakana': 'ka',
     'javanese': 'ja',
+    'malayalam': 'ma',
     'latin': "lt",
     'mongolian': 'mo',
     'tibetan': 'tb',
