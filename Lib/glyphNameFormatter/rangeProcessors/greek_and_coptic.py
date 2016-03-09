@@ -54,6 +54,18 @@ def process(self):
 
     greekFirstUnicodes = [
         0x03A9,  # Omega
+        0x03C9,  # omega
+        0x03A8,  # Psi
+        0x03C8,  # psi
+        0x03B1,  # alpha
+        0x03C7,  # chi
+        0x0927,  # delta
+        0x03B3,  # gamma
+        0x03DE,  # Koppa
+        0x03DF,  # koppa
+        0x03C6,  # phi
+        0x03C5,  # upsilon
+        0x03B9,  # iota
         ]
 
     if self.uniNumber in greekFirstUnicodes:
