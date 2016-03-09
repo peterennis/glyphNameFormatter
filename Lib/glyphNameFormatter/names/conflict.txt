@@ -142,11 +142,17 @@
    251 : ipa-alpha                                         alphalatin               ipa-alpha                               IPA Extensions                          
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        
 
+    26 : ampersand                                         ampersand                ampersand                               Basic Latin                             
+  FE60 : ampersand                                         -                        ampersand                               Small Form Variants                     
+
    902 : dv-anusvara                                       dvAnusvara               dv-anusvara                             Devanagari                              
    982 : bngl-anusvara                                     beAnusvara               bngl-anusvara                           Bengali                                 
    A82 : gjrt-anusvara                                     gjAnusvara               gjrt-anusvara                           Gujarati                                
    B02 : ry-anusvara                                       odAnusvara               ry-anusvara                             Oriya                                   
    C82 : kn-anusvara                                       knAnusvara               kn-anusvara                             Kannada                                 
+
+    2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             
+  FE61 : asterisk                                          asterisksmall            asterisk                                Small Form Variants                     
 
    914 : dv-au                                             dvAu                     dv-au                                   Devanagari                              
    994 : bngl-au                                           beAu                     bngl-au                                 Bengali                                 
@@ -182,6 +188,9 @@
   182A : mo-ba                                             -                        mo-ba                                   Mongolian                               
   A9A7 : ja-ba                                             -                        ja-ba                                   Javanese                                
 
+    5C : backslash                                         backslash                backslash                               Basic Latin                             
+  FE68 : backslash                                         -                        backslash                               Small Form Variants                     
+
    5D1 : hb-bet                                            heBet                    hb-bet                                  Hebrew                                  
   2136 : lttr-bet                                          -                        lttr-bet                                Letterlike Symbols                      
 
@@ -193,6 +202,12 @@
    CAD : kn-bha                                            knBha                    kn-bha                                  Kannada                                 
    D2D : ma-bha                                            mlBha                    ma-bha                                  Malayalam                               
    F57 : tb-bha                                            -                        tb-bha                                  Tibetan                                 
+
+    7B : braceleft                                         braceleft                braceleft                               Basic Latin                             
+  FE5B : braceleft                                         braceleftsmall           braceleft                               Small Form Variants                     
+
+    7D : braceright                                        braceright               braceright                              Basic Latin                             
+  FE5C : braceright                                        bracerightsmall          braceright                              Small Form Variants                     
 
    56E : am-ca                                             caarmenian               am-ca                                   Armenian                                
    91A : dv-ca                                             dvCa                     dv-ca                                   Devanagari                              
@@ -225,11 +240,13 @@
 
     3A : colon                                             colon                    colon                                   Basic Latin                             
   1804 : mo-colon                                          -                        mo-colon                                Mongolian                               
+  FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     
 
     2C : comma                                             comma                    comma                                   Basic Latin                             
    55D : am-comma                                          commaarmenian            am-comma                                Armenian                                
    60C : ar-comma                                          arComma                  ar-comma                                Arabic                                  
   1802 : mo-comma                                          -                        mo-comma                                Mongolian                               
+  FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     
 
    606 : ar-cuberoot                                       -                        ar-cuberoot                             Arabic                                  
   221B : mthm-cuberoot                                     -                        mthm-cuberoot                           Mathematical Operators                  
@@ -286,6 +303,9 @@
   25C7 : gmtr-diamondwhite                                 whitediamond             gmtr-diamondwhite                       Geometric Shapes                        
   2662 : misc-diamondwhite                                 diamondopen              misc-diamondwhite                       Miscellaneous Symbols                   
 
+    24 : dollar                                            dollar                   dollar                                  Basic Latin                             
+  FE69 : dollar                                            dollarsmall              dollar                                  Small Form Variants                     
+
     65 : e                                                 e                        e                                       Basic Latin                             
    6D0 : ar-e                                              arE                      ar-e                                    Arabic                                  
    90F : dv-e                                              dvE                      dv-e                                    Devanagari                              
@@ -328,8 +348,14 @@
   1801 : mo-ellipsis                                       -                        mo-ellipsis                             Mongolian                               
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     
 
+  2014 : emdash                                            emdash                   emdash                                  General Punctuation                     
+  FE58 : emdash                                            -                        emdash                                  Small Form Variants                     
+
    4C8 : enhookcyr                                         enhookcyrillic           enhookcyr                               Cyrillic                                
    523 : enhookcyr                                         -                        enhookcyr                               Cyrillic Supplement                     
+
+    3D : equal                                             equal                    equal                                   Basic Latin                             
+  FE66 : equal                                             equalsmall               equal                                   Small Form Variants                     
 
    258 : ipa-ereversed                                     ereversed                ipa-ereversed                           IPA Extensions                          
    44D : ereversedcyr                                      ecyr                     ereversedcyr                            Cyrillic                                
@@ -349,6 +375,7 @@
 
     21 : exclam                                            exclam                   exclam                                  Basic Latin                             
    55C : am-exclam                                         exclamarmenian           am-exclam                               Armenian                                
+  FE57 : smll-exclam                                       -                        smll-exclam                             Small Form Variants                     
 
    95E : dv-fa                                             dvFa                     dv-fa                                   Devanagari                              
    A5E : grmk-fa                                           guFa                     grmk-fa                                 Gurmukhi                                
@@ -424,6 +451,9 @@
    953 : dv-grave                                          dvGrave                  dv-grave                                Devanagari                              
   1FEF : gr-grave                                          varia                    gr-grave                                Greek Extended                          
 
+    3E : greater                                           greater                  greater                                 Basic Latin                             
+  FE65 : greater                                           greatersmall             greater                                 Small Form Variants                     
+
    261 : ipa-gscript                                       gscript                  ipa-gscript                             IPA Extensions                          
   210A : lttr-gscript                                      gscriptmath              lttr-gscript                            Letterlike Symbols                      
 
@@ -444,6 +474,7 @@
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             
    58A : am-hyphen                                         -                        am-hyphen                               Armenian                                
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     
+  FE63 : smll-hyphen                                       hyphensmall              smll-hyphen                             Small Form Variants                     
 
     69 : i                                                 i                        i                                       Basic Latin                             
    438 : icyr                                              icyr                     icyr                                    Cyrillic                                
@@ -456,6 +487,9 @@
    D07 : ma-i                                              mlI                      ma-i                                    Malayalam                               
   1822 : mo-i                                              -                        mo-i                                    Mongolian                               
   A986 : ja-i                                              -                        ja-i                                    Javanese                                
+
+  3001 : ideographiccomma                                  ideographiccomma         ideographiccomma                        CJK Symbols and Punctuation             
+  FE51 : ideographiccomma                                  -                        ideographiccomma                        Small Form Variants                     
 
     EF : idieresis                                         idieresis                idieresis                               Latin-1 Supplement                      
    4E5 : idieresiscyr                                      idieresiscyr             idieresiscyr                            Cyrillic                                
@@ -565,6 +599,9 @@
   182F : mo-la                                             -                        mo-la                                   Mongolian                               
   A9AD : ja-la                                             -                        ja-la                                   Javanese                                
 
+    3C : less                                              less                     less                                    Basic Latin                             
+  FE64 : less                                              lesssmall                less                                    Small Form Variants                     
+
    515 : lhacyr                                            -                        lhacyr                                  Cyrillic Supplement                     
   1840 : mo-lha                                            -                        mo-lha                                  Mongolian                               
 
@@ -669,6 +706,7 @@
 
     23 : numbersign                                        numbersign               numbersign                              Basic Latin                             
    600 : ar-numbersign                                     arNumberSign             ar-numbersign                           Arabic                                  
+  FE5F : smll-numbersign                                   numbersignsmall          smll-numbersign                         Small Form Variants                     
 
    91E : dv-nya                                            dvNya                    dv-nya                                  Devanagari                              
    99E : bngl-nya                                          beNya                    bngl-nya                                Bengali                                 
@@ -764,11 +802,13 @@
 
     25 : percent                                           percent                  percent                                 Basic Latin                             
    66A : ar-percent                                        arPercent                ar-percent                              Arabic                                  
+  FE6A : smll-percent                                      percentsmall             smll-percent                            Small Form Variants                     
 
     2E : period                                            period                   period                                  Basic Latin                             
    589 : am-period                                         periodarmenian           am-period                               Armenian                                
    6D4 : ar-period                                         arPeriodURD              ar-period                               Arabic                                  
   1803 : mo-period                                         -                        mo-period                               Mongolian                               
+  FE52 : smll-period                                       periodsmall              smll-period                             Small Form Variants                     
 
   22A5 : mthm-perpendicular                                perpendicular            mthm-perpendicular                      Mathematical Operators                  
   27C2 : misc-perpendicular                                -                        misc-perpendicular                      Miscellaneous Mathematical Symbols-A    
@@ -788,6 +828,9 @@
    278 : ipa-phi                                           philatin                 ipa-phi                                 IPA Extensions                          
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        
 
+    2B : plus                                              plus                     plus                                    Basic Latin                             
+  FE62 : plus                                              plussmall                plus                                    Small Form Variants                     
+
    51B : qacyr                                             qa                       qacyr                                   Cyrillic Supplement                     
    958 : dv-qa                                             dvQa                     dv-qa                                   Devanagari                              
   182C : mo-qa                                             -                        mo-qa                                   Mongolian                               
@@ -796,6 +839,7 @@
    37E : gr-question                                       questiongreek            gr-question                             Greek and Coptic                        
    55E : am-question                                       questionarmenian         am-question                             Armenian                                
    61F : ar-question                                       arQuestion               ar-question                             Arabic                                  
+  FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     
 
    57C : am-ra                                             raarmenian               am-ra                                   Armenian                                
    930 : dv-ra                                             dvRa                     dv-ra                                   Devanagari                              
@@ -873,6 +917,7 @@
 
     3B : semicolon                                         semicolon                semicolon                               Basic Latin                             
    61B : ar-semicolon                                      arSemicolon              ar-semicolon                            Arabic                                  
+  FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     
 
     37 : seven                                             seven                    seven                                   Basic Latin                             
    667 : ar-seven                                          arSeven                  ar-seven                                Arabic                                  
@@ -961,6 +1006,12 @@
 
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                
   1FC0 : gr-tilde                                          perispomeni              gr-tilde                                Greek Extended                          
+
+  3014 : tortoiseshellbracketleft                          tortoiseshellbracketleft tortoiseshellbracketleft                CJK Symbols and Punctuation             
+  FE5D : tortoiseshellbracketleft                          tortoiseshellbracketleftstortoiseshellbracketleft                Small Form Variants                     
+
+  3015 : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               CJK Symbols and Punctuation             
+  FE5E : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               Small Form Variants                     
 
    F59 : tb-tsa                                            -                        tb-tsa                                  Tibetan                                 
   183C : mo-tsa                                            -                        mo-tsa                                  Mongolian                               
@@ -1121,7 +1172,7 @@
 
    436 : zhecyr                                            zhe                      zhecyr                                  Cyrillic                                
    56A : am-zhe                                            zhearmenian              am-zhe                                  Armenian                                
-# 192 names with conflicts, affecting 929 unicodes
+# 206 names with conflicts, affecting 966 unicodes
 
 
 Conflicts by rangename
@@ -1192,22 +1243,32 @@ Basic Latin
     4F : O                                                 O                        O                                       Basic Latin                             
     55 : U                                                 U                        U                                       Basic Latin                             
     61 : a                                                 a                        a                                       Basic Latin                             
+    26 : ampersand                                         ampersand                ampersand                               Basic Latin                             
+    2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             
+    5C : backslash                                         backslash                backslash                               Basic Latin                             
+    7B : braceleft                                         braceleft                braceleft                               Basic Latin                             
+    7D : braceright                                        braceright               braceright                              Basic Latin                             
     3A : colon                                             colon                    colon                                   Basic Latin                             
     2C : comma                                             comma                    comma                                   Basic Latin                             
+    24 : dollar                                            dollar                   dollar                                  Basic Latin                             
     65 : e                                                 e                        e                                       Basic Latin                             
     38 : eight                                             eight                    eight                                   Basic Latin                             
+    3D : equal                                             equal                    equal                                   Basic Latin                             
     21 : exclam                                            exclam                   exclam                                  Basic Latin                             
     35 : five                                              five                     five                                    Basic Latin                             
     34 : four                                              four                     four                                    Basic Latin                             
     60 : grave                                             grave                    grave                                   Basic Latin                             
+    3E : greater                                           greater                  greater                                 Basic Latin                             
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             
     69 : i                                                 i                        i                                       Basic Latin                             
+    3C : less                                              less                     less                                    Basic Latin                             
     39 : nine                                              nine                     nine                                    Basic Latin                             
     23 : numbersign                                        numbersign               numbersign                              Basic Latin                             
     6F : o                                                 o                        o                                       Basic Latin                             
     31 : one                                               one                      one                                     Basic Latin                             
     25 : percent                                           percent                  percent                                 Basic Latin                             
     2E : period                                            period                   period                                  Basic Latin                             
+    2B : plus                                              plus                     plus                                    Basic Latin                             
     3F : question                                          question                 question                                Basic Latin                             
     3B : semicolon                                         semicolon                semicolon                               Basic Latin                             
     37 : seven                                             seven                    seven                                   Basic Latin                             
@@ -1298,6 +1359,11 @@ Bengali
    9AF : bngl-ya                                           beYa                     bngl-ya                                 Bengali                                 
    9DF : bngl-yya                                          beYya                    bngl-yya                                Bengali                                 
    9E6 : bngl-zero                                         beZero                   bngl-zero                               Bengali                                 
+
+CJK Symbols and Punctuation
+  3001 : ideographiccomma                                  ideographiccomma         ideographiccomma                        CJK Symbols and Punctuation             
+  3014 : tortoiseshellbracketleft                          tortoiseshellbracketleft tortoiseshellbracketleft                CJK Symbols and Punctuation             
+  3015 : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               CJK Symbols and Punctuation             
 
 Currency Symbols
   20A8 : crrn-rupee                                        rupee                    crrn-rupee                              Currency Symbols                        
@@ -1464,6 +1530,7 @@ Devanagari
 
 General Punctuation
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     
+  2014 : emdash                                            emdash                   emdash                                  General Punctuation                     
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     
   2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     
 
@@ -2069,6 +2136,31 @@ Oriya
 Phonetic Extensions
   1D25 : phnt-ain                                          -                        phnt-ain                                Phonetic Extensions                     
   1D6B : phnt-ue                                           -                        phnt-ue                                 Phonetic Extensions                     
+
+Small Form Variants
+  FE60 : ampersand                                         -                        ampersand                               Small Form Variants                     
+  FE61 : asterisk                                          asterisksmall            asterisk                                Small Form Variants                     
+  FE68 : backslash                                         -                        backslash                               Small Form Variants                     
+  FE5B : braceleft                                         braceleftsmall           braceleft                               Small Form Variants                     
+  FE5C : braceright                                        bracerightsmall          braceright                              Small Form Variants                     
+  FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     
+  FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     
+  FE69 : dollar                                            dollarsmall              dollar                                  Small Form Variants                     
+  FE58 : emdash                                            -                        emdash                                  Small Form Variants                     
+  FE66 : equal                                             equalsmall               equal                                   Small Form Variants                     
+  FE57 : smll-exclam                                       -                        smll-exclam                             Small Form Variants                     
+  FE65 : greater                                           greatersmall             greater                                 Small Form Variants                     
+  FE63 : smll-hyphen                                       hyphensmall              smll-hyphen                             Small Form Variants                     
+  FE51 : ideographiccomma                                  -                        ideographiccomma                        Small Form Variants                     
+  FE64 : less                                              lesssmall                less                                    Small Form Variants                     
+  FE5F : smll-numbersign                                   numbersignsmall          smll-numbersign                         Small Form Variants                     
+  FE6A : smll-percent                                      percentsmall             smll-percent                            Small Form Variants                     
+  FE52 : smll-period                                       periodsmall              smll-period                             Small Form Variants                     
+  FE62 : plus                                              plussmall                plus                                    Small Form Variants                     
+  FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     
+  FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     
+  FE5D : tortoiseshellbracketleft                          tortoiseshellbracketleftstortoiseshellbracketleft                Small Form Variants                     
+  FE5E : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               Small Form Variants                     
 
 Spacing Modifier Letters
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                
