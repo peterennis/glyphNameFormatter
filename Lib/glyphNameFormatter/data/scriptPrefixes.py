@@ -67,6 +67,7 @@ _scriptPrefixes = {
     'thai': 'ti',
     'miscellaneous': 'misc',
     'musical': 'music',
+    'optical character recognition': 'ocr',
 }
 
 scriptPrefixes = ScriptPrefixesDict(_scriptPrefixes)
