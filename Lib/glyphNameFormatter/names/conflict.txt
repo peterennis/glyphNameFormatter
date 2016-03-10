@@ -395,6 +395,7 @@
    C6E : tlg-eight                                         teEight                  tlg-eight                               Telugu                                  TELUGU DIGIT EIGHT  
    CEE : kn-eight                                          knEight                  kn-eight                                Kannada                                 KANNADA DIGIT EIGHT 
    D6E : ma-eight                                          mlEight                  ma-eight                                Malayalam                               MALAYALAM DIGIT EIGHT
+   E58 : ti-eight                                          tiEight                  ti-eight                                Thai                                    THAI DIGIT EIGHT    
    F28 : tb-eight                                          -                        tb-eight                                Tibetan                                 TIBETAN DIGIT EIGHT 
   1818 : mo-eight                                          -                        mo-eight                                Mongolian                               MONGOLIAN DIGIT EIGHT
   A9D8 : ja-eight                                          -                        ja-eight                                Javanese                                JAVANESE DIGIT EIGHT
@@ -467,6 +468,7 @@
    C6B : tlg-five                                          teFive                   tlg-five                                Telugu                                  TELUGU DIGIT FIVE   
    CEB : kn-five                                           knFive                   kn-five                                 Kannada                                 KANNADA DIGIT FIVE  
    D6B : ma-five                                           mlFive                   ma-five                                 Malayalam                               MALAYALAM DIGIT FIVE
+   E55 : ti-five                                           tiFive                   ti-five                                 Thai                                    THAI DIGIT FIVE     
    F25 : tb-five                                           -                        tb-five                                 Tibetan                                 TIBETAN DIGIT FIVE  
   1815 : mo-five                                           -                        mo-five                                 Mongolian                               MONGOLIAN DIGIT FIVE
   A9D5 : ja-five                                           -                        ja-five                                 Javanese                                JAVANESE DIGIT FIVE 
@@ -482,6 +484,7 @@
    C6A : tlg-four                                          teFour                   tlg-four                                Telugu                                  TELUGU DIGIT FOUR   
    CEA : kn-four                                           knFour                   kn-four                                 Kannada                                 KANNADA DIGIT FOUR  
    D6A : ma-four                                           mlFour                   ma-four                                 Malayalam                               MALAYALAM DIGIT FOUR
+   E54 : ti-four                                           tiFour                   ti-four                                 Thai                                    THAI DIGIT FOUR     
    F24 : tb-four                                           -                        tb-four                                 Tibetan                                 TIBETAN DIGIT FOUR  
   1814 : mo-four                                           -                        mo-four                                 Mongolian                               MONGOLIAN DIGIT FOUR
   A9D4 : ja-four                                           -                        ja-four                                 Javanese                                JAVANESE DIGIT FOUR 
@@ -805,6 +808,7 @@
    C6F : tlg-nine                                          teNine                   tlg-nine                                Telugu                                  TELUGU DIGIT NINE   
    CEF : kn-nine                                           knNine                   kn-nine                                 Kannada                                 KANNADA DIGIT NINE  
    D6F : ma-nine                                           mlNine                   ma-nine                                 Malayalam                               MALAYALAM DIGIT NINE
+   E59 : ti-nine                                           tiNine                   ti-nine                                 Thai                                    THAI DIGIT NINE     
    F29 : tb-nine                                           -                        tb-nine                                 Tibetan                                 TIBETAN DIGIT NINE  
   1819 : mo-nine                                           -                        mo-nine                                 Mongolian                               MONGOLIAN DIGIT NINE
   A9D9 : ja-nine                                           -                        ja-nine                                 Javanese                                JAVANESE DIGIT NINE 
@@ -888,6 +892,7 @@
    C67 : tlg-one                                           teOne                    tlg-one                                 Telugu                                  TELUGU DIGIT ONE    
    CE7 : kn-one                                            knOne                    kn-one                                  Kannada                                 KANNADA DIGIT ONE   
    D67 : ma-one                                            mlOne                    ma-one                                  Malayalam                               MALAYALAM DIGIT ONE 
+   E51 : ti-one                                            tiOne                    ti-one                                  Thai                                    THAI DIGIT ONE      
    F21 : tb-one                                            -                        tb-one                                  Tibetan                                 TIBETAN DIGIT ONE   
   1811 : mo-one                                            -                        mo-one                                  Mongolian                               MONGOLIAN DIGIT ONE 
   A9D1 : ja-one                                            -                        ja-one                                  Javanese                                JAVANESE DIGIT ONE  
@@ -1099,6 +1104,7 @@
    C6D : tlg-seven                                         teSeven                  tlg-seven                               Telugu                                  TELUGU DIGIT SEVEN  
    CED : kn-seven                                          knSeven                  kn-seven                                Kannada                                 KANNADA DIGIT SEVEN 
    D6D : ma-seven                                          mlSeven                  ma-seven                                Malayalam                               MALAYALAM DIGIT SEVEN
+   E57 : ti-seven                                          tiSeven                  ti-seven                                Thai                                    THAI DIGIT SEVEN    
    F27 : tb-seven                                          -                        tb-seven                                Tibetan                                 TIBETAN DIGIT SEVEN 
   1817 : mo-seven                                          -                        mo-seven                                Mongolian                               MONGOLIAN DIGIT SEVEN
   A9D7 : ja-seven                                          -                        ja-seven                                Javanese                                JAVANESE DIGIT SEVEN
@@ -1128,6 +1134,7 @@
    C6C : tlg-six                                           teSix                    tlg-six                                 Telugu                                  TELUGU DIGIT SIX    
    CEC : kn-six                                            knSix                    kn-six                                  Kannada                                 KANNADA DIGIT SIX   
    D6C : ma-six                                            mlSix                    ma-six                                  Malayalam                               MALAYALAM DIGIT SIX 
+   E56 : ti-six                                            tiSix                    ti-six                                  Thai                                    THAI DIGIT SIX      
    F26 : tb-six                                            -                        tb-six                                  Tibetan                                 TIBETAN DIGIT SIX   
   1816 : mo-six                                            -                        mo-six                                  Mongolian                               MONGOLIAN DIGIT SIX 
   A9D6 : ja-six                                            -                        ja-six                                  Javanese                                JAVANESE DIGIT SIX  
@@ -1185,6 +1192,7 @@
    C69 : tlg-three                                         teThree                  tlg-three                               Telugu                                  TELUGU DIGIT THREE  
    CE9 : kn-three                                          knThree                  kn-three                                Kannada                                 KANNADA DIGIT THREE 
    D69 : ma-three                                          mlThree                  ma-three                                Malayalam                               MALAYALAM DIGIT THREE
+   E53 : ti-three                                          tiThree                  ti-three                                Thai                                    THAI DIGIT THREE    
    F23 : tb-three                                          -                        tb-three                                Tibetan                                 TIBETAN DIGIT THREE 
   1813 : mo-three                                          -                        mo-three                                Mongolian                               MONGOLIAN DIGIT THREE
   A9D3 : ja-three                                          -                        ja-three                                Javanese                                JAVANESE DIGIT THREE
@@ -1238,6 +1246,7 @@
    C68 : tlg-two                                           teTwo                    tlg-two                                 Telugu                                  TELUGU DIGIT TWO    
    CE8 : kn-two                                            knTwo                    kn-two                                  Kannada                                 KANNADA DIGIT TWO   
    D68 : ma-two                                            mlTwo                    ma-two                                  Malayalam                               MALAYALAM DIGIT TWO 
+   E52 : ti-two                                            tiTwo                    ti-two                                  Thai                                    THAI DIGIT TWO      
    F22 : tb-two                                            -                        tb-two                                  Tibetan                                 TIBETAN DIGIT TWO   
   1812 : mo-two                                            -                        mo-two                                  Mongolian                               MONGOLIAN DIGIT TWO 
   A9D2 : ja-two                                            -                        ja-two                                  Javanese                                JAVANESE DIGIT TWO  
@@ -1389,6 +1398,7 @@
    C66 : tlg-zero                                          teZero                   tlg-zero                                Telugu                                  TELUGU DIGIT ZERO   
    CE6 : kn-zero                                           knZero                   kn-zero                                 Kannada                                 KANNADA DIGIT ZERO  
    D66 : ma-zero                                           mlZero                   ma-zero                                 Malayalam                               MALAYALAM DIGIT ZERO
+   E50 : ti-zero                                           tiZero                   ti-zero                                 Thai                                    THAI DIGIT ZERO     
    F20 : tb-zero                                           -                        tb-zero                                 Tibetan                                 TIBETAN DIGIT ZERO  
   1810 : mo-zero                                           -                        mo-zero                                 Mongolian                               MONGOLIAN DIGIT ZERO
   A9D0 : ja-zero                                           -                        ja-zero                                 Javanese                                JAVANESE DIGIT ZERO 
@@ -1398,7 +1408,7 @@
 
    436 : zhecyr                                            zhe                      zhecyr                                  Cyrillic                                CYRILLIC SMALL LETTER ZHE
    56A : am-zhe                                            zhearmenian              am-zhe                                  Armenian                                ARMENIAN SMALL LETTER ZHE
-# 235 names with conflicts, affecting 1163 unicodes
+# 235 names with conflicts, affecting 1173 unicodes
 
 
 Conflicts by rangename
@@ -2592,6 +2602,18 @@ Telugu
    C03 : tlg-visargasign                                   teVisarga                tlg-visargasign                         Telugu                                  TELUGU SIGN VISARGA 
    C2F : tlg-ya                                            teYa                     tlg-ya                                  Telugu                                  TELUGU LETTER YA    
    C66 : tlg-zero                                          teZero                   tlg-zero                                Telugu                                  TELUGU DIGIT ZERO   
+
+Thai
+   E58 : ti-eight                                          tiEight                  ti-eight                                Thai                                    THAI DIGIT EIGHT    
+   E55 : ti-five                                           tiFive                   ti-five                                 Thai                                    THAI DIGIT FIVE     
+   E54 : ti-four                                           tiFour                   ti-four                                 Thai                                    THAI DIGIT FOUR     
+   E59 : ti-nine                                           tiNine                   ti-nine                                 Thai                                    THAI DIGIT NINE     
+   E51 : ti-one                                            tiOne                    ti-one                                  Thai                                    THAI DIGIT ONE      
+   E57 : ti-seven                                          tiSeven                  ti-seven                                Thai                                    THAI DIGIT SEVEN    
+   E56 : ti-six                                            tiSix                    ti-six                                  Thai                                    THAI DIGIT SIX      
+   E53 : ti-three                                          tiThree                  ti-three                                Thai                                    THAI DIGIT THREE    
+   E52 : ti-two                                            tiTwo                    ti-two                                  Thai                                    THAI DIGIT TWO      
+   E50 : ti-zero                                           tiZero                   ti-zero                                 Thai                                    THAI DIGIT ZERO     
 
 Tibetan
    F60 : tb-AA                                             -                        tb-AA                                   Tibetan                                 TIBETAN LETTER -A   
