@@ -8,6 +8,8 @@ def process(self):
     self.replace("HEBREW PUNCTUATION GERESH", "gereshpunctuation")
     self.replace("HEBREW PUNCTUATION GERSHAYIM", "gershayimpunctuation")
     self.replace("HEBREW ACCENT SEGOL", "segolta")
+    self.replace("HEBREW LETTER FINAL PE", "pehfinal")
+    self.replace("HEBREW LETTER PE", "peh")
 
     # used in alphabetic presentation forms
     self.edit("WIDE", "wide")
