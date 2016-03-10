@@ -6,7 +6,12 @@ def process(self):
 
     self.edit("ARCHAIC", "archaic")
     self.edit("PAMPHYLIAN", "pamphylian")
-    self.edit("YPOGEGRAMMENI", "iotalenis")
+
+    # following the AGD list
+    self.edit("YPOGEGRAMMENI", "iotasubscript")
+    # could also be
+    # self.edit("YPOGEGRAMMENI", "iotalenissubscript")
+    # self.edit("YPOGEGRAMMENI", "ypogegrammeni")
 
     self.replace("LETTER DIGAMMA", "Digamma")
     self.replace("LETTER KOPPA", "Koppa")
@@ -52,6 +57,8 @@ def process(self):
 
     self.processAs("Helper Greek Diacritics")
 
+    # dont use script tags when greek chars are in latin ranges,
+    # the latin char will have automically the script tag prefix/suffix
     greekFirstUnicodes = [
         0x03A9,  # Omega
         0x03C9,  # omega
