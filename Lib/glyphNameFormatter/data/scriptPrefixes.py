@@ -53,7 +53,7 @@ _scriptPrefixes = {
     'devanagari': 'dv',
     'greek': 'gr',
     'hangul': 'ko',
-    'hebrew': 'hb',
+    'hebrew': '%s-hb',
     'hiragana': 'hi',
     'ipa': 'ipa',
     'kannada': "kn",

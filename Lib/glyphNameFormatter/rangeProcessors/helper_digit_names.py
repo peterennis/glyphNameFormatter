@@ -55,6 +55,7 @@ def process(self):
     self.replace("THIRTY", "thirty")
     self.replace("FORTY", "forty")
     self.replace("FIFTY", "fifty")
+    self.replace("SIXTY", "sixty")
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange

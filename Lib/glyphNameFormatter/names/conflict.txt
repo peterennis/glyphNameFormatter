@@ -138,9 +138,6 @@
    CC8 : kn-aisign                                         knAisign                 kn-aisign                               Kannada                                 
    D48 : ma-aisign                                         mlAisign                 ma-aisign                               Malayalam                               
 
-   5D0 : hb-alef                                           heAlef                   hb-alef                                 Hebrew                                  
-   627 : ar-alef                                           arAlef                   ar-alef                                 Arabic                                  
-
    251 : ipa-alpha                                         alphalatin               ipa-alpha                               IPA Extensions                          
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        
 
@@ -194,14 +191,18 @@
    CAC : kn-ba                                             knBa                     kn-ba                                   Kannada                                 
    D2C : ma-ba                                             mlBa                     ma-ba                                   Malayalam                               
    F56 : tb-ba                                             -                        tb-ba                                   Tibetan                                 
+  1260 : thpc-ba                                           -                        thpc-ba                                 Ethiopic                                
   182A : mo-ba                                             -                        mo-ba                                   Mongolian                               
   A9A7 : ja-ba                                             -                        ja-ba                                   Javanese                                
 
     5C : backslash                                         backslash                backslash                               Basic Latin                             
   FE68 : smll-backslash                                    -                        smll-backslash                          Small Form Variants                     
 
-   5D1 : hb-bet                                            heBet                    hb-bet                                  Hebrew                                  
-  2136 : lttr-bet                                          -                        lttr-bet                                Letterlike Symbols                      
+  3374 : cjk-barfullwidth                                  barfullwidth             cjk-barfullwidth                        CJK Compatibility                       
+  FF5C : hlfw-barfullwidth                                 linevertfullwidth        hlfw-barfullwidth                       Halfwidth and Fullwidth Forms           
+
+   431 : becyr                                             be                       becyr                                   Cyrillic                                
+  1265 : thpc-be                                           -                        thpc-be                                 Ethiopic                                
 
    92D : dv-bha                                            dvBha                    dv-bha                                  Devanagari                              
    9AD : bngl-bha                                          beBha                    bngl-bha                                Bengali                                 
@@ -230,6 +231,7 @@
    C9A : kn-ca                                             knCa                     kn-ca                                   Kannada                                 
    D1A : ma-ca                                             mlCa                     ma-ca                                   Malayalam                               
    F45 : tb-ca                                             -                        tb-ca                                   Tibetan                                 
+  1278 : thpc-ca                                           -                        thpc-ca                                 Ethiopic                                
   A995 : ja-ca                                             -                        ja-ca                                   Javanese                                
 
    901 : dv-candrabindu                                    dvCandrabindu            dv-candrabindu                          Devanagari                              
@@ -245,18 +247,28 @@
    C9B : kn-cha                                            knCha                    kn-cha                                  Kannada                                 
    D1B : ma-cha                                            mlCha                    ma-cha                                  Malayalam                               
    F46 : tb-cha                                            -                        tb-cha                                  Tibetan                                 
+  1328 : thpc-cha                                          -                        thpc-cha                                Ethiopic                                
   1834 : mo-cha                                            -                        mo-cha                                  Mongolian                               
 
+   447 : checyr                                            che                      checyr                                  Cyrillic                                
+  132D : thpc-che                                          -                        thpc-che                                Ethiopic                                
+
    3C7 : chi                                               chi                      chi                                     Greek and Coptic                        
+  132A : thpc-chi                                          -                        thpc-chi                                Ethiopic                                
   1842 : mo-chi                                            -                        mo-chi                                  Mongolian                               
 
+   581 : am-co                                             coarmenian               am-co                                   Armenian                                
+  127E : thpc-co                                           -                        thpc-co                                 Ethiopic                                
+
     3A : colon                                             colon                    colon                                   Basic Latin                             
+  1365 : thpc-colon                                        -                        thpc-colon                              Ethiopic                                
   1804 : mo-colon                                          -                        mo-colon                                Mongolian                               
   FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     
 
     2C : comma                                             comma                    comma                                   Basic Latin                             
    55D : am-comma                                          commaarmenian            am-comma                                Armenian                                
    60C : ar-comma                                          arComma                  ar-comma                                Arabic                                  
+  1363 : thpc-comma                                        -                        thpc-comma                              Ethiopic                                
   1802 : mo-comma                                          -                        mo-comma                                Mongolian                               
   FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     
 
@@ -275,11 +287,9 @@
    CA6 : kn-da                                             knDa                     kn-da                                   Kannada                                 
    D26 : ma-da                                             mlDa                     ma-da                                   Malayalam                               
    F51 : tb-da                                             -                        tb-da                                   Tibetan                                 
+  12F0 : thpc-da                                           -                        thpc-da                                 Ethiopic                                
   1833 : mo-da                                             -                        mo-da                                   Mongolian                               
   A9A2 : ja-da                                             -                        ja-da                                   Javanese                                
-
-   5D3 : hb-dalet                                          heDalet                  hb-dalet                                Hebrew                                  
-  2138 : lttr-dalet                                        -                        lttr-dalet                              Letterlike Symbols                      
 
    60D : ar-date                                           arDate                   ar-date                                 Arabic                                  
    D79 : ma-date                                           mlDate                   ma-date                                 Malayalam                               
@@ -292,6 +302,7 @@
    CA1 : kn-dda                                            knDda                    kn-dda                                  Kannada                                 
    D21 : ma-dda                                            mlDda                    ma-dda                                  Malayalam                               
    F4C : tb-dda                                            -                        tb-dda                                  Tibetan                                 
+  12F8 : thpc-dda                                          -                        thpc-dda                                Ethiopic                                
   A99D : ja-dda                                            -                        ja-dda                                  Javanese                                
 
    922 : dv-ddha                                           dvDdha                   dv-ddha                                 Devanagari                              
@@ -302,6 +313,9 @@
    CA2 : kn-ddha                                           knDdha                   kn-ddha                                 Kannada                                 
    D22 : ma-ddha                                           mlDdha                   ma-ddha                                 Malayalam                               
    F4D : tb-ddha                                           -                        tb-ddha                                 Tibetan                                 
+
+   434 : decyr                                             de                       decyr                                   Cyrillic                                
+  12F5 : thpc-de                                           -                        thpc-de                                 Ethiopic                                
 
    927 : dv-dha                                            dvDha                    dv-dha                                  Devanagari                              
    9A7 : bngl-dha                                          beDha                    bngl-dha                                Bengali                                 
@@ -358,6 +372,7 @@
    CEE : kn-eight                                          knEight                  kn-eight                                Kannada                                 
    D6E : ma-eight                                          mlEight                  ma-eight                                Malayalam                               
    F28 : tb-eight                                          -                        tb-eight                                Tibetan                                 
+  1370 : thpc-eight                                        -                        thpc-eight                              Ethiopic                                
   1818 : mo-eight                                          -                        mo-eight                                Mongolian                               
   A9D8 : ja-eight                                          -                        ja-eight                                Javanese                                
 
@@ -411,10 +426,14 @@
    95E : dv-fa                                             dvFa                     dv-fa                                   Devanagari                              
    A5E : grmk-fa                                           guFa                     grmk-fa                                 Gurmukhi                                
    CDE : kn-fa                                             knFa                     kn-fa                                   Kannada                                 
+  1348 : thpc-fa                                           -                        thpc-fa                                 Ethiopic                                
   1839 : mo-fa                                             -                        mo-fa                                   Mongolian                               
 
    586 : am-feh                                            feharmenian              am-feh                                  Armenian                                
    641 : ar-feh                                            arFeh                    ar-feh                                  Arabic                                  
+
+  134A : thpc-fi                                           -                        thpc-fi                                 Ethiopic                                
+  FB01 : lphb-fi                                           fi                       lphb-fi                                 Alphabetic Presentation Forms           
 
     35 : five                                              five                     five                                    Basic Latin                             
    665 : ar-five                                           arFive                   ar-five                                 Arabic                                  
@@ -426,6 +445,7 @@
    CEB : kn-five                                           knFive                   kn-five                                 Kannada                                 
    D6B : ma-five                                           mlFive                   ma-five                                 Malayalam                               
    F25 : tb-five                                           -                        tb-five                                 Tibetan                                 
+  136D : thpc-five                                         -                        thpc-five                               Ethiopic                                
   1815 : mo-five                                           -                        mo-five                                 Mongolian                               
   A9D5 : ja-five                                           -                        ja-five                                 Javanese                                
 
@@ -439,6 +459,7 @@
    CEA : kn-four                                           knFour                   kn-four                                 Kannada                                 
    D6A : ma-four                                           mlFour                   ma-four                                 Malayalam                               
    F24 : tb-four                                           -                        tb-four                                 Tibetan                                 
+  136C : thpc-four                                         -                        thpc-four                               Ethiopic                                
   1814 : mo-four                                           -                        mo-four                                 Mongolian                               
   A9D4 : ja-four                                           -                        ja-four                                 Javanese                                
 
@@ -456,11 +477,18 @@
    C97 : kn-ga                                             knGa                     kn-ga                                   Kannada                                 
    D17 : ma-ga                                             mlGa                     ma-ga                                   Malayalam                               
    F42 : tb-ga                                             -                        tb-ga                                   Tibetan                                 
+  1308 : thpc-ga                                           -                        thpc-ga                                 Ethiopic                                
   182D : mo-ga                                             -                        mo-ga                                   Mongolian                               
   A992 : ja-ga                                             -                        ja-ga                                   Javanese                                
 
    263 : ipa-gamma                                         gammalatin               ipa-gamma                               IPA Extensions                          
    3B3 : gamma                                             gamma                    gamma                                   Greek and Coptic                        
+
+   433 : gecyr                                             ghe                      gecyr                                   Cyrillic                                
+  130D : thpc-ge                                           -                        thpc-ge                                 Ethiopic                                
+
+   97B : dv-gga                                            dvGga                    dv-gga                                  Devanagari                              
+  1318 : thpc-gga                                          -                        thpc-gga                                Ethiopic                                
 
    918 : dv-gha                                            dvGha                    dv-gha                                  Devanagari                              
    998 : bngl-gha                                          beGha                    bngl-gha                                Bengali                                 
@@ -473,9 +501,6 @@
 
    95A : dv-ghha                                           dvGhha                   dv-ghha                                 Devanagari                              
    A5A : grmk-ghha                                         guGhha                   grmk-ghha                               Gurmukhi                                
-
-   5D2 : hb-gimel                                          heGimel                  hb-gimel                                Hebrew                                  
-  2137 : lttr-gimel                                        -                        lttr-gimel                              Letterlike Symbols                      
 
    242 : glottalstop                                       glottalstoplatin         glottalstop                             Latin Extended-B                        
    294 : ipa-glottalstop                                   glottalstop              ipa-glottalstop                         IPA Extensions                          
@@ -503,10 +528,17 @@
    CB9 : kn-ha                                             knHa                     kn-ha                                   Kannada                                 
    D39 : ma-ha                                             mlHa                     ma-ha                                   Malayalam                               
    F67 : tb-ha                                             -                        tb-ha                                   Tibetan                                 
+  1200 : thpc-ha                                           -                        thpc-ha                                 Ethiopic                                
   A9B2 : ja-ha                                             -                        ja-ha                                   Javanese                                
+
+  1203 : thpc-haa                                          -                        thpc-haa                                Ethiopic                                
+  183E : mo-haa                                            -                        mo-haa                                  Mongolian                               
 
   116C : ko-hanguljungseongoe                              -                        ko-hanguljungseongoe                    Hangul Jamo                             
   1180 : ko-hanguljungseongoe                              -                        ko-hanguljungseongoe                    Hangul Jamo                             
+
+   570 : am-ho                                             hoarmenian               am-ho                                   Armenian                                
+  1206 : thpc-ho                                           -                        thpc-ho                                 Ethiopic                                
 
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             
    58A : am-hyphen                                         -                        am-hyphen                               Armenian                                
@@ -584,8 +616,12 @@
    C9C : kn-ja                                             knJa                     kn-ja                                   Kannada                                 
    D1C : ma-ja                                             mlJa                     ma-ja                                   Malayalam                               
    F47 : tb-ja                                             -                        tb-ja                                   Tibetan                                 
+  1300 : thpc-ja                                           -                        thpc-ja                                 Ethiopic                                
   1835 : mo-ja                                             -                        mo-ja                                   Mongolian                               
   A997 : ja-ja                                             -                        ja-ja                                   Javanese                                
+
+   458 : jecyr                                             je                       jecyr                                   Cyrillic                                
+  1305 : thpc-je                                           -                        thpc-je                                 Ethiopic                                
 
    91D : dv-jha                                            dvJha                    dv-jha                                  Devanagari                              
    99D : bngl-jha                                          beJha                    bngl-jha                                Bengali                                 
@@ -607,14 +643,9 @@
    C95 : kn-ka                                             knKa                     kn-ka                                   Kannada                                 
    D15 : ma-ka                                             mlKa                     ma-ka                                   Malayalam                               
    F40 : tb-ka                                             -                        tb-ka                                   Tibetan                                 
+  12A8 : thpc-ka                                           -                        thpc-ka                                 Ethiopic                                
   183A : mo-ka                                             -                        mo-ka                                   Mongolian                               
   A98F : ja-ka                                             -                        ja-ka                                   Javanese                                
-
-   5DB : hb-kaf                                            heKaf                    hb-kaf                                  Hebrew                                  
-   643 : ar-kaf                                            arKaf                    ar-kaf                                  Arabic                                  
-
-   5DA : hb-kaf.fina                                       heKafFin                 hb-kaf.fina                             Hebrew                                  
-  FEDA : ar-kaf.fina                                       arKafPF.f                ar-kaf.fina                             Arabic Presentation Forms-B             
 
    916 : dv-kha                                            dvKha                    dv-kha                                  Devanagari                              
    996 : bngl-kha                                          beKha                    bngl-kha                                Bengali                                 
@@ -643,6 +674,7 @@
    CB2 : kn-la                                             knLa                     kn-la                                   Kannada                                 
    D32 : ma-la                                             mlLa                     ma-la                                   Malayalam                               
    F63 : tb-la                                             -                        tb-la                                   Tibetan                                 
+  1208 : thpc-la                                           -                        thpc-la                                 Ethiopic                                
   182F : mo-la                                             -                        mo-la                                   Mongolian                               
   A9AD : ja-la                                             -                        ja-la                                   Javanese                                
 
@@ -701,8 +733,12 @@
    CAE : kn-ma                                             knMa                     kn-ma                                   Kannada                                 
    D2E : ma-ma                                             mlMa                     ma-ma                                   Malayalam                               
    F58 : tb-ma                                             -                        tb-ma                                   Tibetan                                 
+  1218 : thpc-ma                                           -                        thpc-ma                                 Ethiopic                                
   182E : mo-ma                                             -                        mo-ma                                   Mongolian                               
   A9A9 : ja-ma                                             -                        ja-ma                                   Javanese                                
+
+   3BC : gr-mu                                             mu                       gr-mu                                   Greek and Coptic                        
+  1219 : thpc-mu                                           -                        thpc-mu                                 Ethiopic                                
 
     6E : n                                                 n                        n                                       Basic Latin                             
   310B : bpmf-n                                            nbopomofo                bpmf-n                                  Bopomofo                                
@@ -715,6 +751,7 @@
    CA8 : kn-na                                             knNa                     kn-na                                   Kannada                                 
    D28 : ma-na                                             mlNa                     ma-na                                   Malayalam                               
    F53 : tb-na                                             -                        tb-na                                   Tibetan                                 
+  1290 : thpc-na                                           -                        thpc-na                                 Ethiopic                                
   1828 : mo-na                                             -                        mo-na                                   Mongolian                               
   A9A4 : ja-na                                             -                        ja-na                                   Javanese                                
 
@@ -741,6 +778,7 @@
    CEF : kn-nine                                           knNine                   kn-nine                                 Kannada                                 
    D6F : ma-nine                                           mlNine                   ma-nine                                 Malayalam                               
    F29 : tb-nine                                           -                        tb-nine                                 Tibetan                                 
+  1371 : thpc-nine                                         -                        thpc-nine                               Ethiopic                                
   1819 : mo-nine                                           -                        mo-nine                                 Mongolian                               
   A9D9 : ja-nine                                           -                        ja-nine                                 Javanese                                
 
@@ -752,6 +790,9 @@
    CA3 : kn-nna                                            knNna                    kn-nna                                  Kannada                                 
    D23 : ma-nna                                            mlNna                    ma-nna                                  Malayalam                               
    F4E : tb-nna                                            -                        tb-nna                                  Tibetan                                 
+
+   3BD : gr-nu                                             nu                       gr-nu                                   Greek and Coptic                        
+  1291 : thpc-nu                                           -                        thpc-nu                                 Ethiopic                                
 
    93C : dv-nukta                                          dvNukta                  dv-nukta                                Devanagari                              
    9BC : bngl-nukta                                        beNukta                  bngl-nukta                              Bengali                                 
@@ -772,6 +813,7 @@
    C9E : kn-nya                                            knNya                    kn-nya                                  Kannada                                 
    D1E : ma-nya                                            mlNya                    ma-nya                                  Malayalam                               
    F49 : tb-nya                                            -                        tb-nya                                  Tibetan                                 
+  1298 : thpc-nya                                          -                        thpc-nya                                Ethiopic                                
   A99A : ja-nya                                            -                        ja-nya                                  Javanese                                
 
     6F : o                                                 o                        o                                       Basic Latin                             
@@ -812,6 +854,7 @@
    CE7 : kn-one                                            knOne                    kn-one                                  Kannada                                 
    D67 : ma-one                                            mlOne                    ma-one                                  Malayalam                               
    F21 : tb-one                                            -                        tb-one                                  Tibetan                                 
+  1369 : thpc-one                                          -                        thpc-one                                Ethiopic                                
   1811 : mo-one                                            -                        mo-one                                  Mongolian                               
   A9D1 : ja-one                                            -                        ja-one                                  Javanese                                
 
@@ -854,11 +897,15 @@
    CAA : kn-pa                                             knPa                     kn-pa                                   Kannada                                 
    D2A : ma-pa                                             mlPa                     ma-pa                                   Malayalam                               
    F54 : tb-pa                                             -                        tb-pa                                   Tibetan                                 
+  1350 : thpc-pa                                           -                        thpc-pa                                 Ethiopic                                
   182B : mo-pa                                             -                        mo-pa                                   Mongolian                               
   A9A5 : ja-pa                                             -                        ja-pa                                   Javanese                                
 
+  1368 : thpc-paragraphseparator                           -                        thpc-paragraphseparator                 Ethiopic                                
+  2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     
+
    43F : pecyr                                             pe                       pecyr                                   Cyrillic                                
-   5E4 : hb-pe                                             hePe                     hb-pe                                   Hebrew                                  
+  1355 : thpc-pe                                           -                        thpc-pe                                 Ethiopic                                
 
    57A : am-peh                                            peharmenian              am-peh                                  Armenian                                
    67E : ar-peh                                            arPeh                    ar-peh                                  Arabic                                  
@@ -887,9 +934,14 @@
    CAB : kn-pha                                            knPha                    kn-pha                                  Kannada                                 
    D2B : ma-pha                                            mlPha                    ma-pha                                  Malayalam                               
    F55 : tb-pha                                            -                        tb-pha                                  Tibetan                                 
+  1330 : thpc-pha                                          -                        thpc-pha                                Ethiopic                                
 
    278 : ipa-phi                                           philatin                 ipa-phi                                 IPA Extensions                          
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        
+  1332 : thpc-phi                                          -                        thpc-phi                                Ethiopic                                
+
+   3C0 : gr-pi                                             pi                       gr-pi                                   Greek and Coptic                        
+  1352 : thpc-pi                                           -                        thpc-pi                                 Ethiopic                                
 
     2B : plus                                              plus                     plus                                    Basic Latin                             
   FE62 : smll-plus                                         plussmall                smll-plus                               Small Form Variants                     
@@ -899,6 +951,7 @@
 
    51B : qacyr                                             qa                       qacyr                                   Cyrillic Supplement                     
    958 : dv-qa                                             dvQa                     dv-qa                                   Devanagari                              
+  1240 : thpc-qa                                           -                        thpc-qa                                 Ethiopic                                
   182C : mo-qa                                             -                        mo-qa                                   Mongolian                               
 
     3F : question                                          question                 question                                Basic Latin                             
@@ -919,6 +972,7 @@
    CB0 : kn-ra                                             knRa                     kn-ra                                   Kannada                                 
    D30 : ma-ra                                             mlRa                     ma-ra                                   Malayalam                               
    F62 : tb-ra                                             -                        tb-ra                                   Tibetan                                 
+  1228 : thpc-ra                                           -                        thpc-ra                                 Ethiopic                                
   1837 : mo-ra                                             -                        mo-ra                                   Mongolian                               
   A9AB : ja-ra                                             -                        ja-ra                                   Javanese                                
 
@@ -981,6 +1035,7 @@
    CB8 : kn-sa                                             knSa                     kn-sa                                   Kannada                                 
    D38 : ma-sa                                             mlSa                     ma-sa                                   Malayalam                               
    F66 : tb-sa                                             -                        tb-sa                                   Tibetan                                 
+  1230 : thpc-sa                                           -                        thpc-sa                                 Ethiopic                                
   1830 : mo-sa                                             -                        mo-sa                                   Mongolian                               
   A9B1 : ja-sa                                             -                        ja-sa                                   Javanese                                
 
@@ -989,6 +1044,7 @@
 
     3B : semicolon                                         semicolon                semicolon                               Basic Latin                             
    61B : ar-semicolon                                      arSemicolon              ar-semicolon                            Arabic                                  
+  1364 : thpc-semicolon                                    -                        thpc-semicolon                          Ethiopic                                
   FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     
 
     37 : seven                                             seven                    seven                                   Basic Latin                             
@@ -1001,6 +1057,7 @@
    CED : kn-seven                                          knSeven                  kn-seven                                Kannada                                 
    D6D : ma-seven                                          mlSeven                  ma-seven                                Malayalam                               
    F27 : tb-seven                                          -                        tb-seven                                Tibetan                                 
+  136F : thpc-seven                                        -                        thpc-seven                              Ethiopic                                
   1817 : mo-seven                                          -                        mo-seven                                Mongolian                               
   A9D7 : ja-seven                                          -                        ja-seven                                Javanese                                
 
@@ -1014,7 +1071,11 @@
    CB6 : kn-sha                                            knSha                    kn-sha                                  Kannada                                 
    D36 : ma-sha                                            mlSha                    ma-sha                                  Malayalam                               
    F64 : tb-sha                                            -                        tb-sha                                  Tibetan                                 
+  1238 : thpc-sha                                          -                        thpc-sha                                Ethiopic                                
   1831 : mo-sha                                            -                        mo-sha                                  Mongolian                               
+
+   3F8 : gr-sho                                            -                        gr-sho                                  Greek and Coptic                        
+  123E : thpc-sho                                          -                        thpc-sho                                Ethiopic                                
 
     36 : six                                               six                      six                                     Basic Latin                             
    666 : ar-six                                            arSix                    ar-six                                  Arabic                                  
@@ -1026,6 +1087,7 @@
    CEC : kn-six                                            knSix                    kn-six                                  Kannada                                 
    D6C : ma-six                                            mlSix                    ma-six                                  Malayalam                               
    F26 : tb-six                                            -                        tb-six                                  Tibetan                                 
+  136E : thpc-six                                          -                        thpc-six                                Ethiopic                                
   1816 : mo-six                                            -                        mo-six                                  Mongolian                               
   A9D6 : ja-six                                            -                        ja-six                                  Javanese                                
 
@@ -1048,8 +1110,15 @@
    CA4 : kn-ta                                             knTa                     kn-ta                                   Kannada                                 
    D24 : ma-ta                                             mlTa                     ma-ta                                   Malayalam                               
    F4F : tb-ta                                             -                        tb-ta                                   Tibetan                                 
+  1270 : thpc-ta                                           -                        thpc-ta                                 Ethiopic                                
   1832 : mo-ta                                             -                        mo-ta                                   Mongolian                               
   A9A0 : ja-ta                                             -                        ja-ta                                   Javanese                                
+
+   442 : tecyr                                             te                       tecyr                                   Cyrillic                                
+  1275 : thpc-te                                           -                        thpc-te                                 Ethiopic                                
+
+   D70 : ma-ten                                            mlTen                    ma-ten                                  Malayalam                               
+  1372 : thpc-ten                                          -                        thpc-ten                                Ethiopic                                
 
    925 : dv-tha                                            dvTha                    dv-tha                                  Devanagari                              
    9A5 : bngl-tha                                          beTha                    bngl-tha                                Bengali                                 
@@ -1059,6 +1128,7 @@
    CA5 : kn-tha                                            knTha                    kn-tha                                  Kannada                                 
    D25 : ma-tha                                            mlTha                    ma-tha                                  Malayalam                               
    F50 : tb-tha                                            -                        tb-tha                                  Tibetan                                 
+  1320 : thpc-tha                                          -                        thpc-tha                                Ethiopic                                
 
    482 : thousandscyr                                      thousandcyrillic         thousandscyr                            Cyrillic                                
    66C : ar-thousands                                      arThousands              ar-thousands                            Arabic                                  
@@ -1073,6 +1143,7 @@
    CE9 : kn-three                                          knThree                  kn-three                                Kannada                                 
    D69 : ma-three                                          mlThree                  ma-three                                Malayalam                               
    F23 : tb-three                                          -                        tb-three                                Tibetan                                 
+  136B : thpc-three                                        -                        thpc-three                              Ethiopic                                
   1813 : mo-three                                          -                        mo-three                                Mongolian                               
   A9D3 : ja-three                                          -                        ja-three                                Javanese                                
 
@@ -1082,6 +1153,9 @@
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                
   1FC0 : gr-tilde                                          perispomeni              gr-tilde                                Greek Extended                          
 
+   569 : am-to                                             toarmenian               am-to                                   Armenian                                
+  1276 : thpc-to                                           -                        thpc-to                                 Ethiopic                                
+
   3014 : cjk-tortoiseshellbracketleft                      tortoiseshellbracketleft cjk-tortoiseshellbracketleft            CJK Symbols and Punctuation             
   FE5D : smll-tortoiseshellbracketleft                     tortoiseshellbracketleftssmll-tortoiseshellbracketleft           Small Form Variants                     
 
@@ -1089,7 +1163,11 @@
   FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     
 
    F59 : tb-tsa                                            -                        tb-tsa                                  Tibetan                                 
+  1338 : thpc-tsa                                          -                        thpc-tsa                                Ethiopic                                
   183C : mo-tsa                                            -                        mo-tsa                                  Mongolian                               
+
+   446 : tsecyr                                            tse                      tsecyr                                  Cyrillic                                
+  133D : thpc-tse                                          -                        thpc-tse                                Ethiopic                                
 
    91F : dv-tta                                            dvTta                    dv-tta                                  Devanagari                              
    99F : bngl-tta                                          beTta                    bngl-tta                                Bengali                                 
@@ -1120,6 +1198,7 @@
    CE8 : kn-two                                            knTwo                    kn-two                                  Kannada                                 
    D68 : ma-two                                            mlTwo                    ma-two                                  Malayalam                               
    F22 : tb-two                                            -                        tb-two                                  Tibetan                                 
+  136A : thpc-two                                          -                        thpc-two                                Ethiopic                                
   1812 : mo-two                                            -                        mo-two                                  Mongolian                               
   A9D2 : ja-two                                            -                        ja-two                                  Javanese                                
 
@@ -1182,9 +1261,11 @@
    B35 : ry-va                                             odVa                     ry-va                                   Oriya                                   
    CB5 : kn-va                                             knVa                     kn-va                                   Kannada                                 
    D35 : ma-va                                             mlVa                     ma-va                                   Malayalam                               
+  1268 : thpc-va                                           -                        thpc-va                                 Ethiopic                                
 
    432 : vecyr                                             ve                       vecyr                                   Cyrillic                                
    6CB : ar-ve                                             arVe                     ar-ve                                   Arabic                                  
+  126D : thpc-ve                                           -                        thpc-ve                                 Ethiopic                                
 
    94D : dv-virama                                         dvVirama                 dv-virama                               Devanagari                              
    9CD : bngl-virama                                       beVirama                 bngl-virama                             Bengali                                 
@@ -1200,13 +1281,23 @@
    B03 : ry-visarga                                        odVisarga                ry-visarga                              Oriya                                   
    C83 : kn-visarga                                        knVisarga                kn-visarga                              Kannada                                 
 
+   578 : am-vo                                             voarmenian               am-vo                                   Armenian                                
+  126E : thpc-vo                                           -                        thpc-vo                                 Ethiopic                                
+
    B71 : ry-wa                                             odWa                     ry-wa                                   Oriya                                   
    F5D : tb-wa                                             -                        tb-wa                                   Tibetan                                 
+  12C8 : thpc-wa                                           -                        thpc-wa                                 Ethiopic                                
   1838 : mo-wa                                             -                        mo-wa                                   Mongolian                               
   A9AE : ja-wa                                             -                        ja-wa                                   Javanese                                
 
+   51D : wecyr                                             we                       wecyr                                   Cyrillic Supplement                     
+  12CD : thpc-we                                           -                        thpc-we                                 Ethiopic                                
+
     78 : x                                                 x                        x                                       Basic Latin                             
   3112 : bpmf-x                                            xbopomofo                bpmf-x                                  Bopomofo                                
+
+   3BE : gr-xi                                             xi                       gr-xi                                   Greek and Coptic                        
+  1282 : thpc-xi                                           -                        thpc-xi                                 Ethiopic                                
 
    44F : yacyr                                             ya                       yacyr                                   Cyrillic                                
    92F : dv-ya                                             dvYa                     dv-ya                                   Devanagari                              
@@ -1217,11 +1308,16 @@
    CAF : kn-ya                                             knYa                     kn-ya                                   Kannada                                 
    D2F : ma-ya                                             mlYa                     ma-ya                                   Malayalam                               
    F61 : tb-ya                                             -                        tb-ya                                   Tibetan                                 
+  12E8 : thpc-ya                                           -                        thpc-ya                                 Ethiopic                                
   1836 : mo-ya                                             -                        mo-ya                                   Mongolian                               
   A9AA : ja-ya                                             -                        ja-ya                                   Javanese                                
 
+   575 : am-yi                                             yiarmenian               am-yi                                   Armenian                                
+  12EA : thpc-yi                                           -                        thpc-yi                                 Ethiopic                                
+
    44E : yucyr                                             yu                       yucyr                                   Cyrillic                                
    6C8 : ar-yu                                             arYu                     ar-yu                                   Arabic                                  
+  12E9 : thpc-yu                                           -                        thpc-yu                                 Ethiopic                                
 
    95F : dv-yya                                            dvYya                    dv-yya                                  Devanagari                              
    9DF : bngl-yya                                          beYya                    bngl-yya                                Bengali                                 
@@ -1234,10 +1330,12 @@
    95B : dv-za                                             dvZa                     dv-za                                   Devanagari                              
    A5B : grmk-za                                           guZa                     grmk-za                                 Gurmukhi                                
    F5F : tb-za                                             -                        tb-za                                   Tibetan                                 
+  12D8 : thpc-za                                           -                        thpc-za                                 Ethiopic                                
   183D : mo-za                                             -                        mo-za                                   Mongolian                               
 
    437 : zecyr                                             ze                       zecyr                                   Cyrillic                                
    511 : zecyr                                             -                        zecyr                                   Cyrillic Supplement                     
+  12DD : thpc-ze                                           -                        thpc-ze                                 Ethiopic                                
 
     30 : zero                                              zero                     zero                                    Basic Latin                             
    660 : ar-zero                                           arZero                   ar-zero                                 Arabic                                  
@@ -1254,18 +1352,25 @@
 
    979 : dv-zha                                            dvZha                    dv-zha                                  Devanagari                              
    F5E : tb-zha                                            -                        tb-zha                                  Tibetan                                 
+  12E0 : thpc-zha                                          -                        thpc-zha                                Ethiopic                                
 
    436 : zhecyr                                            zhe                      zhecyr                                  Cyrillic                                
    56A : am-zhe                                            zhearmenian              am-zhe                                  Armenian                                
-# 232 names with conflicts, affecting 1025 unicodes
+  12E5 : thpc-zhe                                          -                        thpc-zhe                                Ethiopic                                
+
+  12E2 : thpc-zhi                                          -                        thpc-zhi                                Ethiopic                                
+  1841 : mo-zhi                                            -                        mo-zhi                                  Mongolian                               
+# 251 names with conflicts, affecting 1109 unicodes
 
 
 Conflicts by rangename
 
+Alphabetic Presentation Forms
+  FB01 : lphb-fi                                           fi                       lphb-fi                                 Alphabetic Presentation Forms           
+
 Arabic
    6D5 : ar-ae                                             arAe                     ar-ae                                   Arabic                                  
    639 : ar-ain                                            arAin                    ar-ain                                  Arabic                                  
-   627 : ar-alef                                           arAlef                   ar-alef                                 Arabic                                  
    60C : ar-comma                                          arComma                  ar-comma                                Arabic                                  
    606 : ar-cuberoot                                       -                        ar-cuberoot                             Arabic                                  
    60D : ar-date                                           arDate                   ar-date                                 Arabic                                  
@@ -1275,7 +1380,6 @@ Arabic
    665 : ar-five                                           arFive                   ar-five                                 Arabic                                  
    664 : ar-four                                           arFour                   ar-four                                 Arabic                                  
    607 : ar-fourthroot                                     -                        ar-fourthroot                           Arabic                                  
-   643 : ar-kaf                                            arKaf                    ar-kaf                                  Arabic                                  
    6AD : ar-ng                                             arNg                     ar-ng                                   Arabic                                  
    669 : ar-nine                                           arNine                   ar-nine                                 Arabic                                  
    600 : ar-numbersign                                     arNumberSign             ar-numbersign                           Arabic                                  
@@ -1298,21 +1402,20 @@ Arabic
    6C8 : ar-yu                                             arYu                     ar-yu                                   Arabic                                  
    660 : ar-zero                                           arZero                   ar-zero                                 Arabic                                  
 
-Arabic Presentation Forms-B
-  FEDA : ar-kaf.fina                                       arKafPF.f                ar-kaf.fina                             Arabic Presentation Forms-B             
-
 Armenian
    538 : am-Et                                             Etarmenian               am-Et                                   Armenian                                
    547 : am-Sha                                            Shaarmenian              am-Sha                                  Armenian                                
    53A : am-Zhe                                            Zhearmenian              am-Zhe                                  Armenian                                
    56E : am-ca                                             caarmenian               am-ca                                   Armenian                                
    579 : am-cha                                            chaarmenian              am-cha                                  Armenian                                
+   581 : am-co                                             coarmenian               am-co                                   Armenian                                
    55D : am-comma                                          commaarmenian            am-comma                                Armenian                                
    564 : am-da                                             daarmenian               am-da                                   Armenian                                
    567 : am-eh                                             eharmenian               am-eh                                   Armenian                                
    568 : am-et                                             etarmenian               am-et                                   Armenian                                
    55C : am-exclam                                         exclamarmenian           am-exclam                               Armenian                                
    586 : am-feh                                            feharmenian              am-feh                                  Armenian                                
+   570 : am-ho                                             hoarmenian               am-ho                                   Armenian                                
    58A : am-hyphen                                         -                        am-hyphen                               Armenian                                
    571 : am-ja                                             jaarmenian               am-ja                                   Armenian                                
    57A : am-peh                                            peharmenian              am-peh                                  Armenian                                
@@ -1321,6 +1424,9 @@ Armenian
    57C : am-ra                                             raarmenian               am-ra                                   Armenian                                
    580 : am-reh                                            reharmenian              am-reh                                  Armenian                                
    577 : am-sha                                            shaarmenian              am-sha                                  Armenian                                
+   569 : am-to                                             toarmenian               am-to                                   Armenian                                
+   578 : am-vo                                             voarmenian               am-vo                                   Armenian                                
+   575 : am-yi                                             yiarmenian               am-yi                                   Armenian                                
    566 : am-za                                             zaarmenian               am-za                                   Armenian                                
    56A : am-zhe                                            zhearmenian              am-zhe                                  Armenian                                
 
@@ -1501,6 +1607,9 @@ Bopomofo
   3112 : bpmf-x                                            xbopomofo                bpmf-x                                  Bopomofo                                
   3117 : bpmf-z                                            zbopomofo                bpmf-z                                  Bopomofo                                
 
+CJK Compatibility
+  3374 : cjk-barfullwidth                                  barfullwidth             cjk-barfullwidth                        CJK Compatibility                       
+
 CJK Symbols and Punctuation
   3001 : cjk-ideographiccomma                              ideographiccomma         cjk-ideographiccomma                    CJK Symbols and Punctuation             
   3014 : cjk-tortoiseshellbracketleft                      tortoiseshellbracketleft cjk-tortoiseshellbracketleft            CJK Symbols and Punctuation             
@@ -1534,15 +1643,20 @@ Cyrillic
    430 : acyr                                              acyr                     acyr                                    Cyrillic                                
    4D1 : abrevecyr                                         abrevecyr                abrevecyr                               Cyrillic                                
    4D3 : adieresiscyr                                      adieresiscyr             adieresiscyr                            Cyrillic                                
+   431 : becyr                                             be                       becyr                                   Cyrillic                                
+   447 : checyr                                            che                      checyr                                  Cyrillic                                
+   434 : decyr                                             de                       decyr                                   Cyrillic                                
    43D : encyr                                             en                       encyr                                   Cyrillic                                
    4C8 : enhookcyr                                         enhookcyrillic           enhookcyr                               Cyrillic                                
    440 : ercyr                                             er                       ercyr                                   Cyrillic                                
    44D : ereversedcyr                                      ecyr                     ereversedcyr                            Cyrillic                                
+   433 : gecyr                                             ghe                      gecyr                                   Cyrillic                                
    445 : hacyr                                             ha                       hacyr                                   Cyrillic                                
    438 : icyr                                              icyr                     icyr                                    Cyrillic                                
    4E5 : idieresiscyr                                      idieresiscyr             idieresiscyr                            Cyrillic                                
    45D : igravecyr                                         igravecyr                igravecyr                               Cyrillic                                
    4E3 : imacroncyr                                        imacroncyr               imacroncyr                              Cyrillic                                
+   458 : jecyr                                             je                       jecyr                                   Cyrillic                                
    43A : kacyr                                             ka                       kacyr                                   Cyrillic                                
    481 : koppacyr                                          koppacyrillic            koppacyr                                Cyrillic                                
    43E : ocyr                                              ocyr                     ocyr                                    Cyrillic                                
@@ -1551,7 +1665,9 @@ Cyrillic
    43F : pecyr                                             pe                       pecyr                                   Cyrillic                                
    4D9 : schwacyr                                          schwacyr                 schwacyr                                Cyrillic                                
    448 : shacyr                                            sha                      shacyr                                  Cyrillic                                
+   442 : tecyr                                             te                       tecyr                                   Cyrillic                                
    482 : thousandscyr                                      thousandcyrillic         thousandscyr                            Cyrillic                                
+   446 : tsecyr                                            tse                      tsecyr                                  Cyrillic                                
    443 : ucyr                                              ucyr                     ucyr                                    Cyrillic                                
    4F1 : udieresiscyr                                      udieresiscyr             udieresiscyr                            Cyrillic                                
    4EF : umacroncyr                                        umacroncyr               umacroncyr                              Cyrillic                                
@@ -1572,6 +1688,7 @@ Cyrillic Supplement
    515 : lhacyr                                            -                        lhacyr                                  Cyrillic Supplement                     
    51B : qacyr                                             qa                       qacyr                                   Cyrillic Supplement                     
    517 : rhacyr                                            -                        rhacyr                                  Cyrillic Supplement                     
+   51D : wecyr                                             we                       wecyr                                   Cyrillic Supplement                     
    511 : zecyr                                             -                        zecyr                                   Cyrillic Supplement                     
 
 Devanagari
@@ -1603,6 +1720,7 @@ Devanagari
    96B : dv-five                                           dvFive                   dv-five                                 Devanagari                              
    96A : dv-four                                           dvFour                   dv-four                                 Devanagari                              
    917 : dv-ga                                             dvGa                     dv-ga                                   Devanagari                              
+   97B : dv-gga                                            dvGga                    dv-gga                                  Devanagari                              
    918 : dv-gha                                            dvGha                    dv-gha                                  Devanagari                              
    95A : dv-ghha                                           dvGhha                   dv-ghha                                 Devanagari                              
    97D : dv-glottalstop                                    dvStop                   dv-glottalstop                          Devanagari                              
@@ -1671,10 +1789,84 @@ Devanagari
    966 : dv-zero                                           dvZero                   dv-zero                                 Devanagari                              
    979 : dv-zha                                            dvZha                    dv-zha                                  Devanagari                              
 
+Ethiopic
+  1260 : thpc-ba                                           -                        thpc-ba                                 Ethiopic                                
+  1265 : thpc-be                                           -                        thpc-be                                 Ethiopic                                
+  1278 : thpc-ca                                           -                        thpc-ca                                 Ethiopic                                
+  1328 : thpc-cha                                          -                        thpc-cha                                Ethiopic                                
+  132D : thpc-che                                          -                        thpc-che                                Ethiopic                                
+  132A : thpc-chi                                          -                        thpc-chi                                Ethiopic                                
+  127E : thpc-co                                           -                        thpc-co                                 Ethiopic                                
+  1365 : thpc-colon                                        -                        thpc-colon                              Ethiopic                                
+  1363 : thpc-comma                                        -                        thpc-comma                              Ethiopic                                
+  12F0 : thpc-da                                           -                        thpc-da                                 Ethiopic                                
+  12F8 : thpc-dda                                          -                        thpc-dda                                Ethiopic                                
+  12F5 : thpc-de                                           -                        thpc-de                                 Ethiopic                                
+  1370 : thpc-eight                                        -                        thpc-eight                              Ethiopic                                
+  1348 : thpc-fa                                           -                        thpc-fa                                 Ethiopic                                
+  134A : thpc-fi                                           -                        thpc-fi                                 Ethiopic                                
+  136D : thpc-five                                         -                        thpc-five                               Ethiopic                                
+  136C : thpc-four                                         -                        thpc-four                               Ethiopic                                
+  1308 : thpc-ga                                           -                        thpc-ga                                 Ethiopic                                
+  130D : thpc-ge                                           -                        thpc-ge                                 Ethiopic                                
+  1318 : thpc-gga                                          -                        thpc-gga                                Ethiopic                                
+  1200 : thpc-ha                                           -                        thpc-ha                                 Ethiopic                                
+  1203 : thpc-haa                                          -                        thpc-haa                                Ethiopic                                
+  1206 : thpc-ho                                           -                        thpc-ho                                 Ethiopic                                
+  1300 : thpc-ja                                           -                        thpc-ja                                 Ethiopic                                
+  1305 : thpc-je                                           -                        thpc-je                                 Ethiopic                                
+  12A8 : thpc-ka                                           -                        thpc-ka                                 Ethiopic                                
+  1208 : thpc-la                                           -                        thpc-la                                 Ethiopic                                
+  1218 : thpc-ma                                           -                        thpc-ma                                 Ethiopic                                
+  1219 : thpc-mu                                           -                        thpc-mu                                 Ethiopic                                
+  1290 : thpc-na                                           -                        thpc-na                                 Ethiopic                                
+  1371 : thpc-nine                                         -                        thpc-nine                               Ethiopic                                
+  1291 : thpc-nu                                           -                        thpc-nu                                 Ethiopic                                
+  1298 : thpc-nya                                          -                        thpc-nya                                Ethiopic                                
+  1369 : thpc-one                                          -                        thpc-one                                Ethiopic                                
+  1350 : thpc-pa                                           -                        thpc-pa                                 Ethiopic                                
+  1368 : thpc-paragraphseparator                           -                        thpc-paragraphseparator                 Ethiopic                                
+  1355 : thpc-pe                                           -                        thpc-pe                                 Ethiopic                                
+  1330 : thpc-pha                                          -                        thpc-pha                                Ethiopic                                
+  1332 : thpc-phi                                          -                        thpc-phi                                Ethiopic                                
+  1352 : thpc-pi                                           -                        thpc-pi                                 Ethiopic                                
+  1240 : thpc-qa                                           -                        thpc-qa                                 Ethiopic                                
+  1228 : thpc-ra                                           -                        thpc-ra                                 Ethiopic                                
+  1230 : thpc-sa                                           -                        thpc-sa                                 Ethiopic                                
+  1364 : thpc-semicolon                                    -                        thpc-semicolon                          Ethiopic                                
+  136F : thpc-seven                                        -                        thpc-seven                              Ethiopic                                
+  1238 : thpc-sha                                          -                        thpc-sha                                Ethiopic                                
+  123E : thpc-sho                                          -                        thpc-sho                                Ethiopic                                
+  136E : thpc-six                                          -                        thpc-six                                Ethiopic                                
+  1270 : thpc-ta                                           -                        thpc-ta                                 Ethiopic                                
+  1275 : thpc-te                                           -                        thpc-te                                 Ethiopic                                
+  1372 : thpc-ten                                          -                        thpc-ten                                Ethiopic                                
+  1320 : thpc-tha                                          -                        thpc-tha                                Ethiopic                                
+  136B : thpc-three                                        -                        thpc-three                              Ethiopic                                
+  1276 : thpc-to                                           -                        thpc-to                                 Ethiopic                                
+  1338 : thpc-tsa                                          -                        thpc-tsa                                Ethiopic                                
+  133D : thpc-tse                                          -                        thpc-tse                                Ethiopic                                
+  136A : thpc-two                                          -                        thpc-two                                Ethiopic                                
+  1268 : thpc-va                                           -                        thpc-va                                 Ethiopic                                
+  126D : thpc-ve                                           -                        thpc-ve                                 Ethiopic                                
+  126E : thpc-vo                                           -                        thpc-vo                                 Ethiopic                                
+  12C8 : thpc-wa                                           -                        thpc-wa                                 Ethiopic                                
+  12CD : thpc-we                                           -                        thpc-we                                 Ethiopic                                
+  1282 : thpc-xi                                           -                        thpc-xi                                 Ethiopic                                
+  12E8 : thpc-ya                                           -                        thpc-ya                                 Ethiopic                                
+  12EA : thpc-yi                                           -                        thpc-yi                                 Ethiopic                                
+  12E9 : thpc-yu                                           -                        thpc-yu                                 Ethiopic                                
+  12D8 : thpc-za                                           -                        thpc-za                                 Ethiopic                                
+  12DD : thpc-ze                                           -                        thpc-ze                                 Ethiopic                                
+  12E0 : thpc-zha                                          -                        thpc-zha                                Ethiopic                                
+  12E5 : thpc-zhe                                          -                        thpc-zhe                                Ethiopic                                
+  12E2 : thpc-zhi                                          -                        thpc-zhi                                Ethiopic                                
+
 General Punctuation
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     
   2014 : gnrl-emdash                                       emdash                   gnrl-emdash                             General Punctuation                     
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     
+  2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     
   2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     
 
 Geometric Shapes
@@ -1696,10 +1888,15 @@ Greek and Coptic
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        
    37A : gr-iotalenis                                      iotasubscript            gr-iotalenis                            Greek and Coptic                        
    3DF : koppa                                             -                        koppa                                   Greek and Coptic                        
+   3BC : gr-mu                                             mu                       gr-mu                                   Greek and Coptic                        
+   3BD : gr-nu                                             nu                       gr-nu                                   Greek and Coptic                        
    3C9 : omega                                             omega                    omega                                   Greek and Coptic                        
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        
+   3C0 : gr-pi                                             pi                       gr-pi                                   Greek and Coptic                        
    37E : gr-question                                       questiongreek            gr-question                             Greek and Coptic                        
+   3F8 : gr-sho                                            -                        gr-sho                                  Greek and Coptic                        
    3C5 : upsilon                                           upsilon                  upsilon                                 Greek and Coptic                        
+   3BE : gr-xi                                             xi                       gr-xi                                   Greek and Coptic                        
 
 Gujarati
    A85 : gjrt-a                                            gjA                      gjrt-a                                  Gujarati                                
@@ -1857,18 +2054,12 @@ Gurmukhi
    A5B : grmk-za                                           guZa                     grmk-za                                 Gurmukhi                                
    A66 : grmk-zero                                         guZero                   grmk-zero                               Gurmukhi                                
 
+Halfwidth and Fullwidth Forms
+  FF5C : hlfw-barfullwidth                                 linevertfullwidth        hlfw-barfullwidth                       Halfwidth and Fullwidth Forms           
+
 Hangul Jamo
   116C : ko-hanguljungseongoe                              -                        ko-hanguljungseongoe                    Hangul Jamo                             
   1180 : ko-hanguljungseongoe                              -                        ko-hanguljungseongoe                    Hangul Jamo                             
-
-Hebrew
-   5D0 : hb-alef                                           heAlef                   hb-alef                                 Hebrew                                  
-   5D1 : hb-bet                                            heBet                    hb-bet                                  Hebrew                                  
-   5D3 : hb-dalet                                          heDalet                  hb-dalet                                Hebrew                                  
-   5D2 : hb-gimel                                          heGimel                  hb-gimel                                Hebrew                                  
-   5DB : hb-kaf                                            heKaf                    hb-kaf                                  Hebrew                                  
-   5DA : hb-kaf.fina                                       heKafFin                 hb-kaf.fina                             Hebrew                                  
-   5E4 : hb-pe                                             hePe                     hb-pe                                   Hebrew                                  
 
 IPA Extensions
    251 : ipa-alpha                                         alphalatin               ipa-alpha                               IPA Extensions                          
@@ -2047,9 +2238,6 @@ Latin-1 Supplement
     FC : udieresis                                         udieresis                udieresis                               Latin-1 Supplement                      
 
 Letterlike Symbols
-  2136 : lttr-bet                                          -                        lttr-bet                                Letterlike Symbols                      
-  2138 : lttr-dalet                                        -                        lttr-dalet                              Letterlike Symbols                      
-  2137 : lttr-gimel                                        -                        lttr-gimel                              Letterlike Symbols                      
   210A : lttr-gscript                                      gscriptmath              lttr-gscript                            Letterlike Symbols                      
 
 Malayalam
@@ -2121,6 +2309,7 @@ Malayalam
    D6C : ma-six                                            mlSix                    ma-six                                  Malayalam                               
    D37 : ma-ssa                                            mlSsa                    ma-ssa                                  Malayalam                               
    D24 : ma-ta                                             mlTa                     ma-ta                                   Malayalam                               
+   D70 : ma-ten                                            mlTen                    ma-ten                                  Malayalam                               
    D25 : ma-tha                                            mlTha                    ma-tha                                  Malayalam                               
    D69 : ma-three                                          mlThree                  ma-three                                Malayalam                               
    D75 : ma-threequarters                                  mlThreeQuarters          ma-threequarters                        Malayalam                               
@@ -2164,6 +2353,7 @@ Mongolian
   1815 : mo-five                                           -                        mo-five                                 Mongolian                               
   1814 : mo-four                                           -                        mo-four                                 Mongolian                               
   182D : mo-ga                                             -                        mo-ga                                   Mongolian                               
+  183E : mo-haa                                            -                        mo-haa                                  Mongolian                               
   1822 : mo-i                                              -                        mo-i                                    Mongolian                               
   1835 : mo-ja                                             -                        mo-ja                                   Mongolian                               
   183A : mo-ka                                             -                        mo-ka                                   Mongolian                               
@@ -2194,6 +2384,7 @@ Mongolian
   1836 : mo-ya                                             -                        mo-ya                                   Mongolian                               
   183D : mo-za                                             -                        mo-za                                   Mongolian                               
   1810 : mo-zero                                           -                        mo-zero                                 Mongolian                               
+  1841 : mo-zhi                                            -                        mo-zhi                                  Mongolian                               
 
 Oriya
    B05 : ry-a                                              odA                      ry-a                                    Oriya                                   
