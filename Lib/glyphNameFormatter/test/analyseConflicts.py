@@ -27,10 +27,10 @@ def findConflict():
     conflictNames = []
     conflictUniNumbers = []
     conflictsPerRange = {}
-    line = "{0:>6s} | {1:<50}{2:<25}{3:<40}{4:<40}".format("hex", "basic formatted name", "AGL name", "with extension", "range")
+    line = "{0:>6s} | {1:<50}{2:<25}{3:<40}{4:<40}{5:<20}".format("hex", "basic formatted name", "AGL name", "with extension", "range", "uni name")
     print(line)
     lines.append(line)
-    line = "{0:->6s} + {1:-<50}{2:-<25}{3:-<40}{4:-<40}".format("", "", "+", "+", "+")
+    line = "{0:->6s} + {1:-<50}{2:-<25}{3:-<40}{4:-<40}{5:-<20}".format("", "", "+", "+", "+", "+")
     print(line)
     lines.append(line)
     for name in n:
@@ -44,7 +44,7 @@ def findConflict():
                 extendedName = g.getName(extension=True)
                 conflictUniNumbers.append(g.uniNumber)
                 AGLname = unicode2name_AGD.get(g.uniNumber, "-")
-                line = "{0:>6X} : {1:<50}{2:<25}{3:<40}{4:<40}".format(g.uniNumber, g.getName(), AGLname[:25], g.getName(), g.uniRangeName[:40])
+                line = "{0:>6X} : {1:<50}{2:<25}{3:<40}{4:<40}{5:<20}".format(g.uniNumber, g.getName(), AGLname[:25], g.getName(), g.uniRangeName[:40], g.uniName)
                 print(line)
                 lines.append(line)
 
