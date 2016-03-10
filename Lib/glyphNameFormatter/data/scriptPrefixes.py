@@ -64,6 +64,7 @@ _scriptPrefixes = {
     'latin': "lt",
     'mongolian': 'mo',
     'tibetan': 'tb',
+    'thai': 'ti',
     'miscellaneous': 'misc',
     'musical': 'music',
 }
