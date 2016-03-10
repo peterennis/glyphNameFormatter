@@ -203,6 +203,9 @@ class GlyphName(GlyphNameProcessor):
         if namePart not in self.suffixParts:
             self.suffixParts.append(namePart)
 
+    def scriptPrefix(self):
+        self.uniNameProcessed = addScriptPrefix(self.uniNameProcessed, script=self.uniRangeName)
+
     def final(self, namePart):
         # add a final part, for things that have the really last, like name extensions
         if namePart not in self.finalParts:
