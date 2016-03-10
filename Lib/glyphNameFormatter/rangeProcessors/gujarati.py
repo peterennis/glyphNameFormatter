@@ -16,6 +16,7 @@ def process(self):
     self.processAs("Helper Indic")
     self.processAs("Helper Numbers")
     self.lower()
+    self.scriptPrefix()
 
 
 if __name__ == "__main__":

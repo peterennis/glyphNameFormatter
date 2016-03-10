@@ -93,6 +93,7 @@ def process(self):
     # cleanup
     self.edit("CAPITAL")
     self.edit("LETTER")
+    self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange

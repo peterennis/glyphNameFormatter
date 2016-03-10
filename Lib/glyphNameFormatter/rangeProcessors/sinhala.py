@@ -10,6 +10,7 @@ def process(self):
     self.replace("-")
     self.lower()
     self.compress()
+    self.scriptPrefix()
 
 
 if __name__ == "__main__":

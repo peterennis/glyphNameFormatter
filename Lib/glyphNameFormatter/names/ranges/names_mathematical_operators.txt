@@ -161,8 +161,8 @@
 229F	squaredminus	SQUARED MINUS
 22A0	squaredtimes	SQUARED TIMES
 22A1	squareddotoperator	SQUARED DOT OPERATOR
-22A2	tackright	RIGHT TACK
-22A3	tackleft	LEFT TACK
+22A2	mthm-tackright	RIGHT TACK
+22A3	mthm-tackleft	LEFT TACK
 22A4	tackdown	DOWN TACK
 22A5	mthm-perpendicular	UP TACK
 22A6	assertion	ASSERTION
@@ -199,7 +199,7 @@
 22C5	dotmath	DOT OPERATOR
 22C6	staroperator	STAR OPERATOR
 22C7	divisiontimes	DIVISION TIMES
-22C8	bowtie	BOWTIE
+22C8	mthm-bowtie	BOWTIE
 22C9	normalfacrsemidirectproductleft	LEFT NORMAL FACTOR SEMIDIRECT PRODUCT
 22CA	normalfacrsemidirectproductright	RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT
 22CB	semidirectproductleft	LEFT SEMIDIRECT PRODUCT

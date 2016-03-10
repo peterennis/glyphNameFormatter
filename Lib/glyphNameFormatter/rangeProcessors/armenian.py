@@ -22,6 +22,7 @@ def process(self):
     self.edit("HYPHEN", "hyphen")
     self.handleCase()
     self.compress()
+    self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
