@@ -40,7 +40,7 @@
 2026	gnrl-ellipsis	HORIZONTAL ELLIPSIS
 2027	hyphenationpoint	HYPHENATION POINT
 2028	lineseparator	LINE SEPARATOR
-2029	gnrl-paragraphseparator	PARAGRAPH SEPARATOR
+2029	paragraphseparator	PARAGRAPH SEPARATOR
 202A	lefttorightembed	LEFT-TO-RIGHT EMBEDDING
 202B	righttoleftembed	RIGHT-TO-LEFT EMBEDDING
 202C	popdirectionalformatting	POP DIRECTIONAL FORMATTING
