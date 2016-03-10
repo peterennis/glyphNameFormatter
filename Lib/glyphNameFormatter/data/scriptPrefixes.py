@@ -51,6 +51,7 @@ _scriptPrefixes = {
     'boxdrawings': 'bxd',
     'cyrillic': '%scyr',
     'devanagari': 'dv',
+    'ethiopic': "et",
     'greek': 'gr',
     'hangul': 'ko',
     'hebrew': '%s-hb',
