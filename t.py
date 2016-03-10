@@ -1,0 +1,625 @@
+a = """--   APAATO
+--   ARUHUA
+--   ANPEA
+--   AARU
+--   ININGU
+--   INTI
+--   UON
+--   ESUKUUDO
+--   EEKAA
+--   ONSU
+--   OOMU
+--   KAIRI
+--   KARATTO
+--   KARORII
+--   GARON
+--   GANMA
+--   GIGA
+--   GINII
+--   KYURII
+--   GIRUDAA
+--   KIRO
+--   KIROGURAMU
+--   KIROMEETORU
+--   KIROWATTO
+--   GURAMU
+--   GURAMUTON
+--   KURUZEIRO
+--   KUROONE
+--   KEESU
+--   KORUNA
+--   KOOPO
+--   SAIKURU
+--   SANTIIMU
+--   SIRINGU
+--   SENTI
+--   SENTO
+--   DAASU
+--   DESI
+--   DORU
+--   TON
+--   NANO
+--   NOTTO
+--   HAITU
+--   PAASENTO
+--   PAATU
+--   BAARERU
+--   PIASUTORU
+--   PIKURU
+--   PIKO
+--   BIRU
+--   HUARADDO
+--   HUIITO
+--   BUSSYERU
+--   HURAN
+--   HEKUTAARU
+--   PESO
+--   PENIHI
+--   HERUTU
+--   PENSU
+--   PEEZI
+--   BEETA
+--   POINTO
+--   BORUTO
+--   HON
+--   PONDO
+--   HOORU
+--   HOON
+--   MAIKURO
+--   MAIRU
+--   MAHHA
+--   MARUKU
+--   MANSYON
+--   MIKURON
+--   MIRI
+--   MIRIBAARU
+--   MEGA
+--   MEGATON
+--   MEETORU
+--   YAADO
+--   YAARU
+--   YUAN
+--   RITTORU
+--   RIRA
+--   RUPII
+--   RUUBURU
+--   REMU
+--   RENTOGEN
+--   WATTO
+--   HPA
+--   DA
+--   AU
+--   BAR
+--   OV
+--   PC
+--   DM
+--   DM SQUARED
+--   DM CUBED
+--   IU
+--   ERA NAME HEISEI
+--   ERA NAME SYOUWA
+--   ERA NAME TAISYOU
+--   ERA NAME MEIZI
+--   CORPORATION
+--   PA AMPS
+--   NA
+--   MU A
+--   MA
+--   KA
+--   KB
+--   MB
+--   GB
+--   CAL
+--   KCAL
+--   PF
+--   NF
+--   MU F
+--   MU G
+--   MG
+--   KG
+--   HZ
+--   KHZ
+--   MHZ
+--   GHZ
+--   THZ
+--   MU L
+--   ML
+--   DL
+--   KL
+--   FM
+--   NM
+--   MU M
+--   MM
+--   CM
+--   KM
+--   MM SQUARED
+--   CM SQUARED
+--   M SQUARED
+--   KM SQUARED
+--   MM CUBED
+--   CM CUBED
+--   M CUBED
+--   KM CUBED
+--   M OVER S
+--   M OVER S SQUARED
+--   PA
+--   KPA
+--   MPA
+--   GPA
+--   RAD
+--   RAD OVER S
+--   RAD OVER S SQUARED
+--   PS
+--   NS
+--   MU S
+--   MS
+--   PV
+--   NV
+--   MU V
+--   MV
+--   KV
+--   MV MEGA
+--   PW
+--   NW
+--   MU W
+--   MW
+--   KW
+--   MW MEGA
+--   K OHM
+--   M OHM
+--   AM
+--   BQ
+--   CC
+--   CD
+--   C OVER KG
+--   CO
+--   DB
+--   GY
+--   HA
+--   HP
+--   IN
+--   KK
+--   KM CAPITAL
+--   KT
+--   LM
+--   LN
+--   LOG
+--   LX
+--   MB SMALL
+--   MIL
+--   MOL
+--   PH
+--   PM
+--   PPM
+--   PR
+--   SR
+--   SV
+--   WB
+--   V OVER M
+--   A OVER M
+--   APAATO
+--   ARUHUA
+--   ANPEA
+--   AARU
+--   ININGU
+--   INTI
+--   UON
+--   ESUKUUDO
+--   EEKAA
+--   ONSU
+--   OOMU
+--   KAIRI
+--   KARATTO
+--   KARORII
+--   GARON
+--   GANMA
+--   GIGA
+--   GINII
+--   KYURII
+--   GIRUDAA
+--   KIRO
+--   KIROGURAMU
+--   KIROMEETORU
+--   KIROWATTO
+--   GURAMU
+--   GURAMUTON
+--   KURUZEIRO
+--   KUROONE
+--   KEESU
+--   KORUNA
+--   KOOPO
+--   SAIKURU
+--   SANTIIMU
+--   SIRINGU
+--   SENTI
+--   SENTO
+--   DAASU
+--   DESI
+--   DORU
+--   TON
+--   NANO
+--   NOTTO
+--   HAITU
+--   PAASENTO
+--   PAATU
+--   BAARERU
+--   PIASUTORU
+--   PIKURU
+--   PIKO
+--   BIRU
+--   HUARADDO
+--   HUIITO
+--   BUSSYERU
+--   HURAN
+--   HEKUTAARU
+--   PESO
+--   PENIHI
+--   HERUTU
+--   PENSU
+--   PEEZI
+--   BEETA
+--   POINTO
+--   BORUTO
+--   HON
+--   PONDO
+--   HOORU
+--   HOON
+--   MAIKURO
+--   MAIRU
+--   MAHHA
+--   MARUKU
+--   MANSYON
+--   MIKURON
+--   MIRI
+--   MIRIBAARU
+--   MEGA
+--   MEGATON
+--   MEETORU
+--   YAADO
+--   YAARU
+--   YUAN
+--   RITTORU
+--   RIRA
+--   RUPII
+--   RUUBURU
+--   REMU
+--   RENTOGEN
+--   WATTO
+--   HPA
+--   DA
+--   AU
+--   BAR
+--   OV
+--   PC
+--   DM
+--   DM SQUARED
+--   DM CUBED
+--   IU
+--   ERA NAME HEISEI
+--   ERA NAME SYOUWA
+--   ERA NAME TAISYOU
+--   ERA NAME MEIZI
+--   CORPORATION
+--   PA AMPS
+--   NA
+--   MU A
+--   MA
+--   KA
+--   KB
+--   MB
+--   GB
+--   CAL
+--   KCAL
+--   PF
+--   NF
+--   MU F
+--   MU G
+--   MG
+--   KG
+--   HZ
+--   KHZ
+--   MHZ
+--   GHZ
+--   THZ
+--   MU L
+--   ML
+--   DL
+--   KL
+--   FM
+--   NM
+--   MU M
+--   MM
+--   CM
+--   KM
+--   MM SQUARED
+--   CM SQUARED
+--   M SQUARED
+--   KM SQUARED
+--   MM CUBED
+--   CM CUBED
+--   M CUBED
+--   KM CUBED
+--   M OVER S
+--   M OVER S SQUARED
+--   PA
+--   KPA
+--   MPA
+--   GPA
+--   RAD
+--   RAD OVER S
+--   RAD OVER S SQUARED
+--   PS
+--   NS
+--   MU S
+--   MS
+--   PV
+--   NV
+--   MU V
+--   MV
+--   KV
+--   MV MEGA
+--   PW
+--   NW
+--   MU W
+--   MW
+--   KW
+--   MW MEGA
+--   K OHM
+--   M OHM
+--   AM
+--   BQ
+--   CC
+--   CD
+--   C OVER KG
+--   CO
+--   DB
+--   GY
+--   HA
+--   HP
+--   IN
+--   KK
+--   KM CAPITAL
+--   KT
+--   LM
+--   LN
+--   LOG
+--   LX
+--   MB SMALL
+--   MIL
+--   MOL
+--   PH
+--   PM
+--   PPM
+--   PR
+--   SR
+--   SV
+--   WB
+--   V OVER M
+--   A OVER M
+--   APAATO
+--   ARUHUA
+--   ANPEA
+--   AARU
+--   ININGU
+--   INTI
+--   UON
+--   ESUKUUDO
+--   EEKAA
+--   ONSU
+--   OOMU
+--   KAIRI
+--   KARATTO
+--   KARORII
+--   GARON
+--   GANMA
+--   GIGA
+--   GINII
+--   KYURII
+--   GIRUDAA
+--   KIRO
+--   KIROGURAMU
+--   KIROMEETORU
+--   KIROWATTO
+--   GURAMU
+--   GURAMUTON
+--   KURUZEIRO
+--   KUROONE
+--   KEESU
+--   KORUNA
+--   KOOPO
+--   SAIKURU
+--   SANTIIMU
+--   SIRINGU
+--   SENTI
+--   SENTO
+--   DAASU
+--   DESI
+--   DORU
+--   TON
+--   NANO
+--   NOTTO
+--   HAITU
+--   PAASENTO
+--   PAATU
+--   BAARERU
+--   PIASUTORU
+--   PIKURU
+--   PIKO
+--   BIRU
+--   HUARADDO
+--   HUIITO
+--   BUSSYERU
+--   HURAN
+--   HEKUTAARU
+--   PESO
+--   PENIHI
+--   HERUTU
+--   PENSU
+--   PEEZI
+--   BEETA
+--   POINTO
+--   BORUTO
+--   HON
+--   PONDO
+--   HOORU
+--   HOON
+--   MAIKURO
+--   MAIRU
+--   MAHHA
+--   MARUKU
+--   MANSYON
+--   MIKURON
+--   MIRI
+--   MIRIBAARU
+--   MEGA
+--   MEGATON
+--   MEETORU
+--   YAADO
+--   YAARU
+--   YUAN
+--   RITTORU
+--   RIRA
+--   RUPII
+--   RUUBURU
+--   REMU
+--   RENTOGEN
+--   WATTO
+--   HPA
+--   DA
+--   AU
+--   BAR
+--   OV
+--   PC
+--   DM
+--   DM SQUARED
+--   DM CUBED
+--   IU
+--   ERA NAME HEISEI
+--   ERA NAME SYOUWA
+--   ERA NAME TAISYOU
+--   ERA NAME MEIZI
+--   CORPORATION
+--   PA AMPS
+--   NA
+--   MU A
+--   MA
+--   KA
+--   KB
+--   MB
+--   GB
+--   CAL
+--   KCAL
+--   PF
+--   NF
+--   MU F
+--   MU G
+--   MG
+--   KG
+--   HZ
+--   KHZ
+--   MHZ
+--   GHZ
+--   THZ
+--   MU L
+--   ML
+--   DL
+--   KL
+--   FM
+--   NM
+--   MU M
+--   MM
+--   CM
+--   KM
+--   MM SQUARED
+--   CM SQUARED
+--   M SQUARED
+--   KM SQUARED
+--   MM CUBED
+--   CM CUBED
+--   M CUBED
+--   KM CUBED
+--   M OVER S
+--   M OVER S SQUARED
+--   PA
+--   KPA
+--   MPA
+--   GPA
+--   RAD
+--   RAD OVER S
+--   RAD OVER S SQUARED
+--   PS
+--   NS
+--   MU S
+--   MS
+--   PV
+--   NV
+--   MU V
+--   MV
+--   KV
+--   MV MEGA
+--   PW
+--   NW
+--   MU W
+--   MW
+--   KW
+--   MW MEGA
+--   K OHM
+--   M OHM
+--   AM
+--   BQ
+--   CC
+--   CD
+--   C OVER KG
+--   CO
+--   DB
+--   GY
+--   HA
+--   HP
+--   IN
+--   KK
+--   KM CAPITAL
+--   KT
+--   LM
+--   LN
+--   LOG
+--   LX
+--   MB SMALL
+--   MIL
+--   MOL
+--   PH
+--   PM
+--   PPM
+--   PR
+--   SR
+--   SV
+--   WB
+--   V OVER M
+--   A OVER M"""
+
+parts = {}
+l = a.split("\n")
+for line in l:
+	if line.find("--   ")==0:
+		line = line[len('--   '):]
+		if not line in parts:
+			parts[line] = 0
+		parts[line]+=1
+
+k = parts.keys()
+k.sort()
+
+
+lines = {}
+for b in k:
+	line = "    \"%s\":    \"%s\","%(b, b.lower().replace(" ", ""))
+	l = len(line)
+	if l not in lines:
+		lines[l] = []
+	lines[l].append(line)
+
+lengths = lines.keys()
+lengths.sort()
+lengths.reverse()
+for l in lengths:
+	for line in lines[l]:
+		print line

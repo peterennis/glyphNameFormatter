@@ -51,7 +51,10 @@ def testAGDCoverage():
     for n in notSupported:
         print("\t%8d\t%s" % (glyphCount[n], n))
         notSupportedTotal += glyphCount[n]
-    print("Coverage complete: %3.1f%%" % (100.0*supportedTotal/(supportedTotal+notSupportedTotal)))
+    print("Supported total", supportedTotal+notSupportedTotal)
+    print("AGD supported total", supportedTotal)
+    print("AGD total", len(name2unicode_AGD))
+    print("Coverage complete: %3.1f%%" % (100.0*supportedTotal/len(name2unicode_AGD)))
     
     print("\nRange processors not needed for AGD:")
     for n in notNeeded:
