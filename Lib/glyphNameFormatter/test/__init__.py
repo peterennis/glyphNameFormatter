@@ -9,7 +9,8 @@ from glyphNameFormatter.data import unicode2name_AGD
 def _rangeNameToRange(rangeName):
     if isinstance(rangeName, tuple):
         return rangeName
-    return getRangeByName(rangeName)
+    start, end = getRangeByName(rangeName)
+    return start, end+1
 
 
 def printRange(rangeName, toFile=None):
