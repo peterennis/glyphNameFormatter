@@ -172,6 +172,7 @@ class GlyphName(GlyphNameProcessor):
             # take disambiguation action
             self.mustAddScript = True
 
+
     def processAs(self, rangeName):
         processor = getRangeProcessorByRangeName(rangeName)
         processor(self)
@@ -204,7 +205,7 @@ class GlyphName(GlyphNameProcessor):
             self.suffixParts.append(namePart)
 
     def scriptPrefix(self):
-        self.uniNameProcessed = addScriptPrefix(self.uniNameProcessed, script=self.uniRangeName)
+        self.mustAddScript = True
 
     def final(self, namePart):
         # add a final part, for things that have the really last, like name extensions
