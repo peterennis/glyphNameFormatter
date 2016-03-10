@@ -3,7 +3,7 @@ def process(self):
     self.edit("LATIN")
     self.edit("DIGIT")
 
-    self.edit("TORTOISE SHELL BRACKETED", "tortoise")
+    self.edit("TORTOISE SHELL BRACKETED", "shell")
     self.edit("PARENTHESIZED", "parens")
     self.edit("ITALIC", "italic")
     self.edit("CROSSED", "cross")

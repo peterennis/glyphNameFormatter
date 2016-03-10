@@ -28,7 +28,7 @@ def process(self):
 
     self.replace("UNDERBAR", "underline")
 
-    self.edit("TORTOISE SHELL", "tortoise")
+    self.edit("TORTOISE SHELL", "shell")
     self.replace("PARENTHESIS", "paren")
 
     self.edit("OPEN-CIRCUIT-OUTPUT", "opencircuit")
