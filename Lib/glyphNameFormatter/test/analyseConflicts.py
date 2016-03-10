@@ -30,7 +30,7 @@ def findConflict():
     line = "{0:>6s} | {1:<50}{2:<25}{3:<40}{4:<40}".format("hex", "basic formatted name", "AGL name", "with extension", "range")
     print(line)
     lines.append(line)
-    line = "{0:->6s} + {1:-<50}{2:-<25}{3:-<40}{4:<40}".format("", "", "+", "+", "+")
+    line = "{0:->6s} + {1:-<50}{2:-<25}{3:-<40}{4:-<40}".format("", "", "+", "+", "+")
     print(line)
     lines.append(line)
     for name in n:

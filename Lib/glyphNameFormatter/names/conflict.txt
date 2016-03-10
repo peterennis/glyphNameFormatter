@@ -1,5 +1,5 @@
    hex | basic formatted name                              AGL name                 with extension                          range                                   
------- + --------------------------------------------------+------------------------+---------------------------------------+                                       
+------ + --------------------------------------------------+------------------------+---------------------------------------+---------------------------------------
 
     41 : A                                                 A                        A                                       Basic Latin                             
    410 : Acyr                                              Acyr                     Acyr                                    Cyrillic                                
@@ -80,6 +80,7 @@
    A05 : grmk-a                                            guA                      grmk-a                                  Gurmukhi                                
    A85 : gjrt-a                                            gjA                      gjrt-a                                  Gujarati                                
    B05 : ry-a                                              odA                      ry-a                                    Oriya                                   
+   B85 : tml-a                                             taA                      tml-a                                   Tamil                                   
    C85 : kn-a                                              knA                      kn-a                                    Kannada                                 
    D05 : ma-a                                              mlA                      ma-a                                    Malayalam                               
    F68 : tb-a                                              -                        tb-a                                    Tibetan                                 
@@ -92,6 +93,7 @@
    A06 : grmk-aa                                           guAa                     grmk-aa                                 Gurmukhi                                
    A86 : gjrt-aa                                           gjAa                     gjrt-aa                                 Gujarati                                
    B06 : ry-aa                                             odAa                     ry-aa                                   Oriya                                   
+   B86 : tml-aa                                            taAa                     tml-aa                                  Tamil                                   
    C86 : kn-aa                                             knAa                     kn-aa                                   Kannada                                 
    D06 : ma-aa                                             mlAa                     ma-aa                                   Malayalam                               
   A733 : aa                                                -                        aa                                      Latin Extended-D                        
@@ -101,6 +103,7 @@
    A3E : grmk-aasign                                       guAasign                 grmk-aasign                             Gurmukhi                                
    ABE : gjrt-aasign                                       gjAasign                 gjrt-aasign                             Gujarati                                
    B3E : ry-aasign                                         odAasign                 ry-aasign                               Oriya                                   
+   BBE : tml-aasign                                        taAasign                 tml-aasign                              Tamil                                   
    CBE : kn-aasign                                         knAasign                 kn-aasign                               Kannada                                 
    D3E : ma-aasign                                         mlAasign                 ma-aasign                               Malayalam                               
 
@@ -122,6 +125,7 @@
    A10 : grmk-ai                                           guAi                     grmk-ai                                 Gurmukhi                                
    A90 : gjrt-ai                                           gjAi                     gjrt-ai                                 Gujarati                                
    B10 : ry-ai                                             odAi                     ry-ai                                   Oriya                                   
+   B90 : tml-ai                                            taAi                     tml-ai                                  Tamil                                   
    C90 : kn-ai                                             knAi                     kn-ai                                   Kannada                                 
    D10 : ma-ai                                             mlAi                     ma-ai                                   Malayalam                               
   311E : bpmf-ai                                           aibopomofo               bpmf-ai                                 Bopomofo                                
@@ -135,6 +139,7 @@
    A48 : grmk-aisign                                       guAisign                 grmk-aisign                             Gurmukhi                                
    AC8 : gjrt-aisign                                       gjAisign                 gjrt-aisign                             Gujarati                                
    B48 : ry-aisign                                         odAisign                 ry-aisign                               Oriya                                   
+   BC8 : tml-aisign                                        taAisign                 tml-aisign                              Tamil                                   
    CC8 : kn-aisign                                         knAisign                 kn-aisign                               Kannada                                 
    D48 : ma-aisign                                         mlAisign                 ma-aisign                               Malayalam                               
 
@@ -153,6 +158,9 @@
    B02 : ry-anusvara                                       odAnusvara               ry-anusvara                             Oriya                                   
    C82 : kn-anusvara                                       knAnusvara               kn-anusvara                             Kannada                                 
 
+   B82 : tml-anusvarasign                                  taAnusvara               tml-anusvarasign                        Tamil                                   
+   D02 : ma-anusvarasign                                   mlAnusvara               ma-anusvarasign                         Malayalam                               
+
     2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             
   FE61 : smll-asterisk                                     asterisksmall            smll-asterisk                           Small Form Variants                     
 
@@ -161,16 +169,21 @@
    A14 : grmk-au                                           guAu                     grmk-au                                 Gurmukhi                                
    A94 : gjrt-au                                           gjAu                     gjrt-au                                 Gujarati                                
    B14 : ry-au                                             odAu                     ry-au                                   Oriya                                   
+   B94 : tml-au                                            taAu                     tml-au                                  Tamil                                   
    C94 : kn-au                                             knAu                     kn-au                                   Kannada                                 
    D14 : ma-au                                             mlAu                     ma-au                                   Malayalam                               
   3120 : bpmf-au                                           aubopomofo               bpmf-au                                 Bopomofo                                
   A737 : au                                                -                        au                                      Latin Extended-D                        
+
+   9D7 : bngl-aulengthmark                                 beAulength               bngl-aulengthmark                       Bengali                                 
+   BD7 : tml-aulengthmark                                  taAulength               tml-aulengthmark                        Tamil                                   
 
    94C : dv-ausign                                         dvAusign                 dv-ausign                               Devanagari                              
    9CC : bngl-ausign                                       beAusign                 bngl-ausign                             Bengali                                 
    A4C : grmk-ausign                                       guAusign                 grmk-ausign                             Gurmukhi                                
    ACC : gjrt-ausign                                       gjAusign                 gjrt-ausign                             Gujarati                                
    B4C : ry-ausign                                         odAusign                 ry-ausign                               Oriya                                   
+   BCC : tml-ausign                                        taAusign                 tml-ausign                              Tamil                                   
    CCC : kn-ausign                                         knAusign                 kn-ausign                               Kannada                                 
    D4C : ma-ausign                                         mlAusign                 ma-ausign                               Malayalam                               
 
@@ -191,7 +204,6 @@
    CAC : kn-ba                                             knBa                     kn-ba                                   Kannada                                 
    D2C : ma-ba                                             mlBa                     ma-ba                                   Malayalam                               
    F56 : tb-ba                                             -                        tb-ba                                   Tibetan                                 
-  1260 : thpc-ba                                           -                        thpc-ba                                 Ethiopic                                
   182A : mo-ba                                             -                        mo-ba                                   Mongolian                               
   A9A7 : ja-ba                                             -                        ja-ba                                   Javanese                                
 
@@ -200,9 +212,6 @@
 
   3374 : cjk-barfullwidth                                  barfullwidth             cjk-barfullwidth                        CJK Compatibility                       
   FF5C : hlfw-barfullwidth                                 linevertfullwidth        hlfw-barfullwidth                       Halfwidth and Fullwidth Forms           
-
-   431 : becyr                                             be                       becyr                                   Cyrillic                                
-  1265 : thpc-be                                           -                        thpc-be                                 Ethiopic                                
 
    92D : dv-bha                                            dvBha                    dv-bha                                  Devanagari                              
    9AD : bngl-bha                                          beBha                    bngl-bha                                Bengali                                 
@@ -228,10 +237,10 @@
    A1A : grmk-ca                                           guCa                     grmk-ca                                 Gurmukhi                                
    A9A : gjrt-ca                                           gjCa                     gjrt-ca                                 Gujarati                                
    B1A : ry-ca                                             odCa                     ry-ca                                   Oriya                                   
+   B9A : tml-ca                                            taCa                     tml-ca                                  Tamil                                   
    C9A : kn-ca                                             knCa                     kn-ca                                   Kannada                                 
    D1A : ma-ca                                             mlCa                     ma-ca                                   Malayalam                               
    F45 : tb-ca                                             -                        tb-ca                                   Tibetan                                 
-  1278 : thpc-ca                                           -                        thpc-ca                                 Ethiopic                                
   A995 : ja-ca                                             -                        ja-ca                                   Javanese                                
 
    901 : dv-candrabindu                                    dvCandrabindu            dv-candrabindu                          Devanagari                              
@@ -247,28 +256,18 @@
    C9B : kn-cha                                            knCha                    kn-cha                                  Kannada                                 
    D1B : ma-cha                                            mlCha                    ma-cha                                  Malayalam                               
    F46 : tb-cha                                            -                        tb-cha                                  Tibetan                                 
-  1328 : thpc-cha                                          -                        thpc-cha                                Ethiopic                                
   1834 : mo-cha                                            -                        mo-cha                                  Mongolian                               
 
-   447 : checyr                                            che                      checyr                                  Cyrillic                                
-  132D : thpc-che                                          -                        thpc-che                                Ethiopic                                
-
    3C7 : chi                                               chi                      chi                                     Greek and Coptic                        
-  132A : thpc-chi                                          -                        thpc-chi                                Ethiopic                                
   1842 : mo-chi                                            -                        mo-chi                                  Mongolian                               
 
-   581 : am-co                                             coarmenian               am-co                                   Armenian                                
-  127E : thpc-co                                           -                        thpc-co                                 Ethiopic                                
-
     3A : colon                                             colon                    colon                                   Basic Latin                             
-  1365 : thpc-colon                                        -                        thpc-colon                              Ethiopic                                
   1804 : mo-colon                                          -                        mo-colon                                Mongolian                               
   FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     
 
     2C : comma                                             comma                    comma                                   Basic Latin                             
    55D : am-comma                                          commaarmenian            am-comma                                Armenian                                
    60C : ar-comma                                          arComma                  ar-comma                                Arabic                                  
-  1363 : thpc-comma                                        -                        thpc-comma                              Ethiopic                                
   1802 : mo-comma                                          -                        mo-comma                                Mongolian                               
   FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     
 
@@ -287,7 +286,6 @@
    CA6 : kn-da                                             knDa                     kn-da                                   Kannada                                 
    D26 : ma-da                                             mlDa                     ma-da                                   Malayalam                               
    F51 : tb-da                                             -                        tb-da                                   Tibetan                                 
-  12F0 : thpc-da                                           -                        thpc-da                                 Ethiopic                                
   1833 : mo-da                                             -                        mo-da                                   Mongolian                               
   A9A2 : ja-da                                             -                        ja-da                                   Javanese                                
 
@@ -302,7 +300,6 @@
    CA1 : kn-dda                                            knDda                    kn-dda                                  Kannada                                 
    D21 : ma-dda                                            mlDda                    ma-dda                                  Malayalam                               
    F4C : tb-dda                                            -                        tb-dda                                  Tibetan                                 
-  12F8 : thpc-dda                                          -                        thpc-dda                                Ethiopic                                
   A99D : ja-dda                                            -                        ja-dda                                  Javanese                                
 
    922 : dv-ddha                                           dvDdha                   dv-ddha                                 Devanagari                              
@@ -313,9 +310,6 @@
    CA2 : kn-ddha                                           knDdha                   kn-ddha                                 Kannada                                 
    D22 : ma-ddha                                           mlDdha                   ma-ddha                                 Malayalam                               
    F4D : tb-ddha                                           -                        tb-ddha                                 Tibetan                                 
-
-   434 : decyr                                             de                       decyr                                   Cyrillic                                
-  12F5 : thpc-de                                           -                        thpc-de                                 Ethiopic                                
 
    927 : dv-dha                                            dvDha                    dv-dha                                  Devanagari                              
    9A7 : bngl-dha                                          beDha                    bngl-dha                                Bengali                                 
@@ -341,6 +335,7 @@
    98F : bngl-e                                            beE                      bngl-e                                  Bengali                                 
    A8F : gjrt-e                                            gjE                      gjrt-e                                  Gujarati                                
    B0F : ry-e                                              odE                      ry-e                                    Oriya                                   
+   B8E : tml-e                                             taE                      tml-e                                   Tamil                                   
    C8E : kn-e                                              knE                      kn-e                                    Kannada                                 
    D0E : ma-e                                              mlE                      ma-e                                    Malayalam                               
   1821 : mo-e                                              -                        mo-e                                    Mongolian                               
@@ -351,11 +346,13 @@
    A8D : gjrt-ecandra                                      gjEcandra                gjrt-ecandra                            Gujarati                                
 
    A0F : grmk-ee                                           guEe                     grmk-ee                                 Gurmukhi                                
+   B8F : tml-ee                                            taEe                     tml-ee                                  Tamil                                   
    C8F : kn-ee                                             knEe                     kn-ee                                   Kannada                                 
    D0F : ma-ee                                             mlEe                     ma-ee                                   Malayalam                               
   1827 : mo-ee                                             -                        mo-ee                                   Mongolian                               
 
    A47 : grmk-eesign                                       guEesign                 grmk-eesign                             Gurmukhi                                
+   BC7 : tml-eesign                                        taEesign                 tml-eesign                              Tamil                                   
    CC7 : kn-eesign                                         knEesign                 kn-eesign                               Kannada                                 
    D47 : ma-eesign                                         mlEesign                 ma-eesign                               Malayalam                               
 
@@ -369,10 +366,10 @@
    A6E : grmk-eight                                        guEight                  grmk-eight                              Gurmukhi                                
    AEE : gjrt-eight                                        gjEight                  gjrt-eight                              Gujarati                                
    B6E : ry-eight                                          odEight                  ry-eight                                Oriya                                   
+   BEE : tml-eight                                         taEight                  tml-eight                               Tamil                                   
    CEE : kn-eight                                          knEight                  kn-eight                                Kannada                                 
    D6E : ma-eight                                          mlEight                  ma-eight                                Malayalam                               
    F28 : tb-eight                                          -                        tb-eight                                Tibetan                                 
-  1370 : thpc-eight                                        -                        thpc-eight                              Ethiopic                                
   1818 : mo-eight                                          -                        mo-eight                                Mongolian                               
   A9D8 : ja-eight                                          -                        ja-eight                                Javanese                                
 
@@ -407,6 +404,7 @@
    9C7 : bngl-esign                                        beEsign                  bngl-esign                              Bengali                                 
    AC7 : gjrt-esign                                        gjEsign                  gjrt-esign                              Gujarati                                
    B47 : ry-esign                                          odEsign                  ry-esign                                Oriya                                   
+   BC6 : tml-esign                                         taEsign                  tml-esign                               Tamil                                   
    CC6 : kn-esign                                          knEsign                  kn-esign                                Kannada                                 
    D46 : ma-esign                                          mlEsign                  ma-esign                                Malayalam                               
 
@@ -426,14 +424,10 @@
    95E : dv-fa                                             dvFa                     dv-fa                                   Devanagari                              
    A5E : grmk-fa                                           guFa                     grmk-fa                                 Gurmukhi                                
    CDE : kn-fa                                             knFa                     kn-fa                                   Kannada                                 
-  1348 : thpc-fa                                           -                        thpc-fa                                 Ethiopic                                
   1839 : mo-fa                                             -                        mo-fa                                   Mongolian                               
 
    586 : am-feh                                            feharmenian              am-feh                                  Armenian                                
    641 : ar-feh                                            arFeh                    ar-feh                                  Arabic                                  
-
-  134A : thpc-fi                                           -                        thpc-fi                                 Ethiopic                                
-  FB01 : lphb-fi                                           fi                       lphb-fi                                 Alphabetic Presentation Forms           
 
     35 : five                                              five                     five                                    Basic Latin                             
    665 : ar-five                                           arFive                   ar-five                                 Arabic                                  
@@ -442,10 +436,10 @@
    A6B : grmk-five                                         guFive                   grmk-five                               Gurmukhi                                
    AEB : gjrt-five                                         gjFive                   gjrt-five                               Gujarati                                
    B6B : ry-five                                           odFive                   ry-five                                 Oriya                                   
+   BEB : tml-five                                          taFive                   tml-five                                Tamil                                   
    CEB : kn-five                                           knFive                   kn-five                                 Kannada                                 
    D6B : ma-five                                           mlFive                   ma-five                                 Malayalam                               
    F25 : tb-five                                           -                        tb-five                                 Tibetan                                 
-  136D : thpc-five                                         -                        thpc-five                               Ethiopic                                
   1815 : mo-five                                           -                        mo-five                                 Mongolian                               
   A9D5 : ja-five                                           -                        ja-five                                 Javanese                                
 
@@ -456,10 +450,10 @@
    A6A : grmk-four                                         guFour                   grmk-four                               Gurmukhi                                
    AEA : gjrt-four                                         gjFour                   gjrt-four                               Gujarati                                
    B6A : ry-four                                           odFour                   ry-four                                 Oriya                                   
+   BEA : tml-four                                          taFour                   tml-four                                Tamil                                   
    CEA : kn-four                                           knFour                   kn-four                                 Kannada                                 
    D6A : ma-four                                           mlFour                   ma-four                                 Malayalam                               
    F24 : tb-four                                           -                        tb-four                                 Tibetan                                 
-  136C : thpc-four                                         -                        thpc-four                               Ethiopic                                
   1814 : mo-four                                           -                        mo-four                                 Mongolian                               
   A9D4 : ja-four                                           -                        ja-four                                 Javanese                                
 
@@ -477,18 +471,11 @@
    C97 : kn-ga                                             knGa                     kn-ga                                   Kannada                                 
    D17 : ma-ga                                             mlGa                     ma-ga                                   Malayalam                               
    F42 : tb-ga                                             -                        tb-ga                                   Tibetan                                 
-  1308 : thpc-ga                                           -                        thpc-ga                                 Ethiopic                                
   182D : mo-ga                                             -                        mo-ga                                   Mongolian                               
   A992 : ja-ga                                             -                        ja-ga                                   Javanese                                
 
    263 : ipa-gamma                                         gammalatin               ipa-gamma                               IPA Extensions                          
    3B3 : gamma                                             gamma                    gamma                                   Greek and Coptic                        
-
-   433 : gecyr                                             ghe                      gecyr                                   Cyrillic                                
-  130D : thpc-ge                                           -                        thpc-ge                                 Ethiopic                                
-
-   97B : dv-gga                                            dvGga                    dv-gga                                  Devanagari                              
-  1318 : thpc-gga                                          -                        thpc-gga                                Ethiopic                                
 
    918 : dv-gha                                            dvGha                    dv-gha                                  Devanagari                              
    998 : bngl-gha                                          beGha                    bngl-gha                                Bengali                                 
@@ -525,20 +512,14 @@
    A39 : grmk-ha                                           guHa                     grmk-ha                                 Gurmukhi                                
    AB9 : gjrt-ha                                           gjHa                     gjrt-ha                                 Gujarati                                
    B39 : ry-ha                                             odHa                     ry-ha                                   Oriya                                   
+   BB9 : tml-ha                                            taHa                     tml-ha                                  Tamil                                   
    CB9 : kn-ha                                             knHa                     kn-ha                                   Kannada                                 
    D39 : ma-ha                                             mlHa                     ma-ha                                   Malayalam                               
    F67 : tb-ha                                             -                        tb-ha                                   Tibetan                                 
-  1200 : thpc-ha                                           -                        thpc-ha                                 Ethiopic                                
   A9B2 : ja-ha                                             -                        ja-ha                                   Javanese                                
-
-  1203 : thpc-haa                                          -                        thpc-haa                                Ethiopic                                
-  183E : mo-haa                                            -                        mo-haa                                  Mongolian                               
 
   116C : ko-hanguljungseongoe                              -                        ko-hanguljungseongoe                    Hangul Jamo                             
   1180 : ko-hanguljungseongoe                              -                        ko-hanguljungseongoe                    Hangul Jamo                             
-
-   570 : am-ho                                             hoarmenian               am-ho                                   Armenian                                
-  1206 : thpc-ho                                           -                        thpc-ho                                 Ethiopic                                
 
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             
    58A : am-hyphen                                         -                        am-hyphen                               Armenian                                
@@ -552,6 +533,7 @@
    A07 : grmk-i                                            guI                      grmk-i                                  Gurmukhi                                
    A87 : gjrt-i                                            gjI                      gjrt-i                                  Gujarati                                
    B07 : ry-i                                              odI                      ry-i                                    Oriya                                   
+   B87 : tml-i                                             taI                      tml-i                                   Tamil                                   
    C87 : kn-i                                              knI                      kn-i                                    Kannada                                 
    D07 : ma-i                                              mlI                      ma-i                                    Malayalam                               
   1822 : mo-i                                              -                        mo-i                                    Mongolian                               
@@ -572,6 +554,7 @@
    A08 : grmk-ii                                           guIi                     grmk-ii                                 Gurmukhi                                
    A88 : gjrt-ii                                           gjIi                     gjrt-ii                                 Gujarati                                
    B08 : ry-ii                                             odIi                     ry-ii                                   Oriya                                   
+   B88 : tml-ii                                            taIi                     tml-ii                                  Tamil                                   
    C88 : kn-ii                                             knIi                     kn-ii                                   Kannada                                 
    D08 : ma-ii                                             mlIi                     ma-ii                                   Malayalam                               
   A987 : ja-ii                                             -                        ja-ii                                   Javanese                                
@@ -581,6 +564,7 @@
    A40 : grmk-iisign                                       guIisign                 grmk-iisign                             Gurmukhi                                
    AC0 : gjrt-iisign                                       gjIisign                 gjrt-iisign                             Gujarati                                
    B40 : ry-iisign                                         odIisign                 ry-iisign                               Oriya                                   
+   BC0 : tml-iisign                                        taIisign                 tml-iisign                              Tamil                                   
    CC0 : kn-iisign                                         knIisign                 kn-iisign                               Kannada                                 
    D40 : ma-iisign                                         mlIisign                 ma-iisign                               Malayalam                               
 
@@ -598,6 +582,7 @@
    A3F : grmk-isign                                        guIsign                  grmk-isign                              Gurmukhi                                
    ABF : gjrt-isign                                        gjIsign                  gjrt-isign                              Gujarati                                
    B3F : ry-isign                                          odIsign                  ry-isign                                Oriya                                   
+   BBF : tml-isign                                         taIsign                  tml-isign                               Tamil                                   
    CBF : kn-isign                                          knIsign                  kn-isign                                Kannada                                 
    D3F : ma-isign                                          mlIsign                  ma-isign                                Malayalam                               
 
@@ -613,15 +598,12 @@
    A1C : grmk-ja                                           guJa                     grmk-ja                                 Gurmukhi                                
    A9C : gjrt-ja                                           gjJa                     gjrt-ja                                 Gujarati                                
    B1C : ry-ja                                             odJa                     ry-ja                                   Oriya                                   
+   B9C : tml-ja                                            taJa                     tml-ja                                  Tamil                                   
    C9C : kn-ja                                             knJa                     kn-ja                                   Kannada                                 
    D1C : ma-ja                                             mlJa                     ma-ja                                   Malayalam                               
    F47 : tb-ja                                             -                        tb-ja                                   Tibetan                                 
-  1300 : thpc-ja                                           -                        thpc-ja                                 Ethiopic                                
   1835 : mo-ja                                             -                        mo-ja                                   Mongolian                               
   A997 : ja-ja                                             -                        ja-ja                                   Javanese                                
-
-   458 : jecyr                                             je                       jecyr                                   Cyrillic                                
-  1305 : thpc-je                                           -                        thpc-je                                 Ethiopic                                
 
    91D : dv-jha                                            dvJha                    dv-jha                                  Devanagari                              
    99D : bngl-jha                                          beJha                    bngl-jha                                Bengali                                 
@@ -640,10 +622,10 @@
    A15 : grmk-ka                                           guKa                     grmk-ka                                 Gurmukhi                                
    A95 : gjrt-ka                                           gjKa                     gjrt-ka                                 Gujarati                                
    B15 : ry-ka                                             odKa                     ry-ka                                   Oriya                                   
+   B95 : tml-ka                                            taKa                     tml-ka                                  Tamil                                   
    C95 : kn-ka                                             knKa                     kn-ka                                   Kannada                                 
    D15 : ma-ka                                             mlKa                     ma-ka                                   Malayalam                               
    F40 : tb-ka                                             -                        tb-ka                                   Tibetan                                 
-  12A8 : thpc-ka                                           -                        thpc-ka                                 Ethiopic                                
   183A : mo-ka                                             -                        mo-ka                                   Mongolian                               
   A98F : ja-ka                                             -                        ja-ka                                   Javanese                                
 
@@ -671,10 +653,10 @@
    A32 : grmk-la                                           guLa                     grmk-la                                 Gurmukhi                                
    AB2 : gjrt-la                                           gjLa                     gjrt-la                                 Gujarati                                
    B32 : ry-la                                             odLa                     ry-la                                   Oriya                                   
+   BB2 : tml-la                                            taLa                     tml-la                                  Tamil                                   
    CB2 : kn-la                                             knLa                     kn-la                                   Kannada                                 
    D32 : ma-la                                             mlLa                     ma-la                                   Malayalam                               
    F63 : tb-la                                             -                        tb-la                                   Tibetan                                 
-  1208 : thpc-la                                           -                        thpc-la                                 Ethiopic                                
   182F : mo-la                                             -                        mo-la                                   Mongolian                               
   A9AD : ja-la                                             -                        ja-la                                   Javanese                                
 
@@ -688,10 +670,12 @@
    A33 : grmk-lla                                          guLla                    grmk-lla                                Gurmukhi                                
    AB3 : gjrt-lla                                          gjLla                    gjrt-lla                                Gujarati                                
    B33 : ry-lla                                            odLla                    ry-lla                                  Oriya                                   
+   BB3 : tml-lla                                           taLla                    tml-lla                                 Tamil                                   
    CB3 : kn-lla                                            knLla                    kn-lla                                  Kannada                                 
    D33 : ma-lla                                            mlLla                    ma-lla                                  Malayalam                               
 
    934 : dv-llla                                           dvLlla                   dv-llla                                 Devanagari                              
+   BB4 : tml-llla                                          taLlla                   tml-llla                                Tamil                                   
    D34 : ma-llla                                           mlLlla                   ma-llla                                 Malayalam                               
 
    961 : dv-llvocal                                        dvLlvocal                dv-llvocal                              Devanagari                              
@@ -730,15 +714,12 @@
    A2E : grmk-ma                                           guMa                     grmk-ma                                 Gurmukhi                                
    AAE : gjrt-ma                                           gjMa                     gjrt-ma                                 Gujarati                                
    B2E : ry-ma                                             odMa                     ry-ma                                   Oriya                                   
+   BAE : tml-ma                                            taMa                     tml-ma                                  Tamil                                   
    CAE : kn-ma                                             knMa                     kn-ma                                   Kannada                                 
    D2E : ma-ma                                             mlMa                     ma-ma                                   Malayalam                               
    F58 : tb-ma                                             -                        tb-ma                                   Tibetan                                 
-  1218 : thpc-ma                                           -                        thpc-ma                                 Ethiopic                                
   182E : mo-ma                                             -                        mo-ma                                   Mongolian                               
   A9A9 : ja-ma                                             -                        ja-ma                                   Javanese                                
-
-   3BC : gr-mu                                             mu                       gr-mu                                   Greek and Coptic                        
-  1219 : thpc-mu                                           -                        thpc-mu                                 Ethiopic                                
 
     6E : n                                                 n                        n                                       Basic Latin                             
   310B : bpmf-n                                            nbopomofo                bpmf-n                                  Bopomofo                                
@@ -748,10 +729,10 @@
    A28 : grmk-na                                           guNa                     grmk-na                                 Gurmukhi                                
    AA8 : gjrt-na                                           gjNa                     gjrt-na                                 Gujarati                                
    B28 : ry-na                                             odNa                     ry-na                                   Oriya                                   
+   BA8 : tml-na                                            taNa                     tml-na                                  Tamil                                   
    CA8 : kn-na                                             knNa                     kn-na                                   Kannada                                 
    D28 : ma-na                                             mlNa                     ma-na                                   Malayalam                               
    F53 : tb-na                                             -                        tb-na                                   Tibetan                                 
-  1290 : thpc-na                                           -                        thpc-na                                 Ethiopic                                
   1828 : mo-na                                             -                        mo-na                                   Mongolian                               
   A9A4 : ja-na                                             -                        ja-na                                   Javanese                                
 
@@ -763,6 +744,7 @@
    A19 : grmk-nga                                          guNga                    grmk-nga                                Gurmukhi                                
    A99 : gjrt-nga                                          gjNga                    gjrt-nga                                Gujarati                                
    B19 : ry-nga                                            odNga                    ry-nga                                  Oriya                                   
+   B99 : tml-nga                                           taNga                    tml-nga                                 Tamil                                   
    C99 : kn-nga                                            knNga                    kn-nga                                  Kannada                                 
    D19 : ma-nga                                            mlNga                    ma-nga                                  Malayalam                               
    F44 : tb-nga                                            -                        tb-nga                                  Tibetan                                 
@@ -775,10 +757,10 @@
    A6F : grmk-nine                                         guNine                   grmk-nine                               Gurmukhi                                
    AEF : gjrt-nine                                         gjNine                   gjrt-nine                               Gujarati                                
    B6F : ry-nine                                           odNine                   ry-nine                                 Oriya                                   
+   BEF : tml-nine                                          taNine                   tml-nine                                Tamil                                   
    CEF : kn-nine                                           knNine                   kn-nine                                 Kannada                                 
    D6F : ma-nine                                           mlNine                   ma-nine                                 Malayalam                               
    F29 : tb-nine                                           -                        tb-nine                                 Tibetan                                 
-  1371 : thpc-nine                                         -                        thpc-nine                               Ethiopic                                
   1819 : mo-nine                                           -                        mo-nine                                 Mongolian                               
   A9D9 : ja-nine                                           -                        ja-nine                                 Javanese                                
 
@@ -787,12 +769,13 @@
    A23 : grmk-nna                                          guNna                    grmk-nna                                Gurmukhi                                
    AA3 : gjrt-nna                                          gjNna                    gjrt-nna                                Gujarati                                
    B23 : ry-nna                                            odNna                    ry-nna                                  Oriya                                   
+   BA3 : tml-nna                                           taNna                    tml-nna                                 Tamil                                   
    CA3 : kn-nna                                            knNna                    kn-nna                                  Kannada                                 
    D23 : ma-nna                                            mlNna                    ma-nna                                  Malayalam                               
    F4E : tb-nna                                            -                        tb-nna                                  Tibetan                                 
 
-   3BD : gr-nu                                             nu                       gr-nu                                   Greek and Coptic                        
-  1291 : thpc-nu                                           -                        thpc-nu                                 Ethiopic                                
+   929 : dv-nnna                                           dvNnna                   dv-nnna                                 Devanagari                              
+   BA9 : tml-nnna                                          taNnna                   tml-nnna                                Tamil                                   
 
    93C : dv-nukta                                          dvNukta                  dv-nukta                                Devanagari                              
    9BC : bngl-nukta                                        beNukta                  bngl-nukta                              Bengali                                 
@@ -810,10 +793,10 @@
    A1E : grmk-nya                                          guNya                    grmk-nya                                Gurmukhi                                
    A9E : gjrt-nya                                          gjNya                    gjrt-nya                                Gujarati                                
    B1E : ry-nya                                            odNya                    ry-nya                                  Oriya                                   
+   B9E : tml-nya                                           taNya                    tml-nya                                 Tamil                                   
    C9E : kn-nya                                            knNya                    kn-nya                                  Kannada                                 
    D1E : ma-nya                                            mlNya                    ma-nya                                  Malayalam                               
    F49 : tb-nya                                            -                        tb-nya                                  Tibetan                                 
-  1298 : thpc-nya                                          -                        thpc-nya                                Ethiopic                                
   A99A : ja-nya                                            -                        ja-nya                                  Javanese                                
 
     6F : o                                                 o                        o                                       Basic Latin                             
@@ -822,6 +805,7 @@
    993 : bngl-o                                            beO                      bngl-o                                  Bengali                                 
    A93 : gjrt-o                                            gjO                      gjrt-o                                  Gujarati                                
    B13 : ry-o                                              odO                      ry-o                                    Oriya                                   
+   B92 : tml-o                                             taO                      tml-o                                   Tamil                                   
    C92 : kn-o                                              knO                      kn-o                                    Kannada                                 
    D12 : ma-o                                              mlO                      ma-o                                    Malayalam                               
   1823 : mo-o                                              -                        mo-o                                    Mongolian                               
@@ -840,6 +824,7 @@
 
    950 : dv-om                                             dvOm                     dv-om                                   Devanagari                              
    AD0 : gjrt-om                                           gjOm                     gjrt-om                                 Gujarati                                
+   BD0 : tml-om                                            taOm                     tml-om                                  Tamil                                   
 
    3C9 : omega                                             omega                    omega                                   Greek and Coptic                        
    461 : omegacyr                                          omegacyrillic            omegacyr                                Cyrillic                                
@@ -851,25 +836,33 @@
    A67 : grmk-one                                          guOne                    grmk-one                                Gurmukhi                                
    AE7 : gjrt-one                                          gjOne                    gjrt-one                                Gujarati                                
    B67 : ry-one                                            odOne                    ry-one                                  Oriya                                   
+   BE7 : tml-one                                           taOne                    tml-one                                 Tamil                                   
    CE7 : kn-one                                            knOne                    kn-one                                  Kannada                                 
    D67 : ma-one                                            mlOne                    ma-one                                  Malayalam                               
    F21 : tb-one                                            -                        tb-one                                  Tibetan                                 
-  1369 : thpc-one                                          -                        thpc-one                                Ethiopic                                
   1811 : mo-one                                            -                        mo-one                                  Mongolian                               
   A9D1 : ja-one                                            -                        ja-one                                  Javanese                                
 
     BD : onehalf                                           onehalf                  onehalf                                 Latin-1 Supplement                      
    D74 : ma-onehalf                                        mlOneHalf                ma-onehalf                              Malayalam                               
 
+   BF1 : tml-onehundred                                    taHundred                tml-onehundred                          Tamil                                   
+   D71 : ma-onehundred                                     mlOneHundred             ma-onehundred                           Malayalam                               
+
     BC : onequarter                                        onequarter               onequarter                              Latin-1 Supplement                      
    D73 : ma-onequarter                                     mlOneQuarter             ma-onequarter                           Malayalam                               
 
+   BF2 : tml-onethousand                                   taThousand               tml-onethousand                         Tamil                                   
+   D72 : ma-onethousand                                    mlOneThousand            ma-onethousand                          Malayalam                               
+
    A13 : grmk-oo                                           guOo                     grmk-oo                                 Gurmukhi                                
+   B93 : tml-oo                                            taOo                     tml-oo                                  Tamil                                   
    C93 : kn-oo                                             knOo                     kn-oo                                   Kannada                                 
    D13 : ma-oo                                             mlOo                     ma-oo                                   Malayalam                               
   A74F : oo                                                -                        oo                                      Latin Extended-D                        
 
    A4B : grmk-oosign                                       guOosign                 grmk-oosign                             Gurmukhi                                
+   BCB : tml-oosign                                        taOosign                 tml-oosign                              Tamil                                   
    CCB : kn-oosign                                         knOosign                 kn-oosign                               Kannada                                 
    D4B : ma-oosign                                         mlOosign                 ma-oosign                               Malayalam                               
 
@@ -877,6 +870,7 @@
    9CB : bngl-osign                                        beOsign                  bngl-osign                              Bengali                                 
    ACB : gjrt-osign                                        gjOsign                  gjrt-osign                              Gujarati                                
    B4B : ry-osign                                          odOsign                  ry-osign                                Oriya                                   
+   BCA : tml-osign                                         taOsign                  tml-osign                               Tamil                                   
    CCA : kn-osign                                          knOsign                  kn-osign                                Kannada                                 
    D4A : ma-osign                                          mlOsign                  ma-osign                                Malayalam                               
 
@@ -894,18 +888,12 @@
    A2A : grmk-pa                                           guPa                     grmk-pa                                 Gurmukhi                                
    AAA : gjrt-pa                                           gjPa                     gjrt-pa                                 Gujarati                                
    B2A : ry-pa                                             odPa                     ry-pa                                   Oriya                                   
+   BAA : tml-pa                                            taPa                     tml-pa                                  Tamil                                   
    CAA : kn-pa                                             knPa                     kn-pa                                   Kannada                                 
    D2A : ma-pa                                             mlPa                     ma-pa                                   Malayalam                               
    F54 : tb-pa                                             -                        tb-pa                                   Tibetan                                 
-  1350 : thpc-pa                                           -                        thpc-pa                                 Ethiopic                                
   182B : mo-pa                                             -                        mo-pa                                   Mongolian                               
   A9A5 : ja-pa                                             -                        ja-pa                                   Javanese                                
-
-  1368 : thpc-paragraphseparator                           -                        thpc-paragraphseparator                 Ethiopic                                
-  2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     
-
-   43F : pecyr                                             pe                       pecyr                                   Cyrillic                                
-  1355 : thpc-pe                                           -                        thpc-pe                                 Ethiopic                                
 
    57A : am-peh                                            peharmenian              am-peh                                  Armenian                                
    67E : ar-peh                                            arPeh                    ar-peh                                  Arabic                                  
@@ -934,14 +922,9 @@
    CAB : kn-pha                                            knPha                    kn-pha                                  Kannada                                 
    D2B : ma-pha                                            mlPha                    ma-pha                                  Malayalam                               
    F55 : tb-pha                                            -                        tb-pha                                  Tibetan                                 
-  1330 : thpc-pha                                          -                        thpc-pha                                Ethiopic                                
 
    278 : ipa-phi                                           philatin                 ipa-phi                                 IPA Extensions                          
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        
-  1332 : thpc-phi                                          -                        thpc-phi                                Ethiopic                                
-
-   3C0 : gr-pi                                             pi                       gr-pi                                   Greek and Coptic                        
-  1352 : thpc-pi                                           -                        thpc-pi                                 Ethiopic                                
 
     2B : plus                                              plus                     plus                                    Basic Latin                             
   FE62 : smll-plus                                         plussmall                smll-plus                               Small Form Variants                     
@@ -951,7 +934,6 @@
 
    51B : qacyr                                             qa                       qacyr                                   Cyrillic Supplement                     
    958 : dv-qa                                             dvQa                     dv-qa                                   Devanagari                              
-  1240 : thpc-qa                                           -                        thpc-qa                                 Ethiopic                                
   182C : mo-qa                                             -                        mo-qa                                   Mongolian                               
 
     3F : question                                          question                 question                                Basic Latin                             
@@ -969,10 +951,10 @@
    A30 : grmk-ra                                           guRa                     grmk-ra                                 Gurmukhi                                
    AB0 : gjrt-ra                                           gjRa                     gjrt-ra                                 Gujarati                                
    B30 : ry-ra                                             odRa                     ry-ra                                   Oriya                                   
+   BB0 : tml-ra                                            taRa                     tml-ra                                  Tamil                                   
    CB0 : kn-ra                                             knRa                     kn-ra                                   Kannada                                 
    D30 : ma-ra                                             mlRa                     ma-ra                                   Malayalam                               
    F62 : tb-ra                                             -                        tb-ra                                   Tibetan                                 
-  1228 : thpc-ra                                           -                        thpc-ra                                 Ethiopic                                
   1837 : mo-ra                                             -                        mo-ra                                   Mongolian                               
   A9AB : ja-ra                                             -                        ja-ra                                   Javanese                                
 
@@ -988,6 +970,7 @@
    9DC : bngl-rra                                          beRra                    bngl-rra                                Bengali                                 
    A5C : grmk-rra                                          guRra                    grmk-rra                                Gurmukhi                                
    B5C : ry-rra                                            odRra                    ry-rra                                  Oriya                                   
+   BB1 : tml-rra                                           taRra                    tml-rra                                 Tamil                                   
    CB1 : kn-rra                                            knRra                    kn-rra                                  Kannada                                 
    D31 : ma-rra                                            mlRra                    ma-rra                                  Malayalam                               
    F6C : tb-rra                                            -                        tb-rra                                  Tibetan                                 
@@ -1032,10 +1015,10 @@
    A38 : grmk-sa                                           guSa                     grmk-sa                                 Gurmukhi                                
    AB8 : gjrt-sa                                           gjSa                     gjrt-sa                                 Gujarati                                
    B38 : ry-sa                                             odSa                     ry-sa                                   Oriya                                   
+   BB8 : tml-sa                                            taSa                     tml-sa                                  Tamil                                   
    CB8 : kn-sa                                             knSa                     kn-sa                                   Kannada                                 
    D38 : ma-sa                                             mlSa                     ma-sa                                   Malayalam                               
    F66 : tb-sa                                             -                        tb-sa                                   Tibetan                                 
-  1230 : thpc-sa                                           -                        thpc-sa                                 Ethiopic                                
   1830 : mo-sa                                             -                        mo-sa                                   Mongolian                               
   A9B1 : ja-sa                                             -                        ja-sa                                   Javanese                                
 
@@ -1044,7 +1027,6 @@
 
     3B : semicolon                                         semicolon                semicolon                               Basic Latin                             
    61B : ar-semicolon                                      arSemicolon              ar-semicolon                            Arabic                                  
-  1364 : thpc-semicolon                                    -                        thpc-semicolon                          Ethiopic                                
   FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     
 
     37 : seven                                             seven                    seven                                   Basic Latin                             
@@ -1054,10 +1036,10 @@
    A6D : grmk-seven                                        guSeven                  grmk-seven                              Gurmukhi                                
    AED : gjrt-seven                                        gjSeven                  gjrt-seven                              Gujarati                                
    B6D : ry-seven                                          odSeven                  ry-seven                                Oriya                                   
+   BED : tml-seven                                         taSeven                  tml-seven                               Tamil                                   
    CED : kn-seven                                          knSeven                  kn-seven                                Kannada                                 
    D6D : ma-seven                                          mlSeven                  ma-seven                                Malayalam                               
    F27 : tb-seven                                          -                        tb-seven                                Tibetan                                 
-  136F : thpc-seven                                        -                        thpc-seven                              Ethiopic                                
   1817 : mo-seven                                          -                        mo-seven                                Mongolian                               
   A9D7 : ja-seven                                          -                        ja-seven                                Javanese                                
 
@@ -1068,14 +1050,11 @@
    A36 : grmk-sha                                          guSha                    grmk-sha                                Gurmukhi                                
    AB6 : gjrt-sha                                          gjSha                    gjrt-sha                                Gujarati                                
    B36 : ry-sha                                            odSha                    ry-sha                                  Oriya                                   
+   BB6 : tml-sha                                           taSha                    tml-sha                                 Tamil                                   
    CB6 : kn-sha                                            knSha                    kn-sha                                  Kannada                                 
    D36 : ma-sha                                            mlSha                    ma-sha                                  Malayalam                               
    F64 : tb-sha                                            -                        tb-sha                                  Tibetan                                 
-  1238 : thpc-sha                                          -                        thpc-sha                                Ethiopic                                
   1831 : mo-sha                                            -                        mo-sha                                  Mongolian                               
-
-   3F8 : gr-sho                                            -                        gr-sho                                  Greek and Coptic                        
-  123E : thpc-sho                                          -                        thpc-sho                                Ethiopic                                
 
     36 : six                                               six                      six                                     Basic Latin                             
    666 : ar-six                                            arSix                    ar-six                                  Arabic                                  
@@ -1084,10 +1063,10 @@
    A6C : grmk-six                                          guSix                    grmk-six                                Gurmukhi                                
    AEC : gjrt-six                                          gjSix                    gjrt-six                                Gujarati                                
    B6C : ry-six                                            odSix                    ry-six                                  Oriya                                   
+   BEC : tml-six                                           taSix                    tml-six                                 Tamil                                   
    CEC : kn-six                                            knSix                    kn-six                                  Kannada                                 
    D6C : ma-six                                            mlSix                    ma-six                                  Malayalam                               
    F26 : tb-six                                            -                        tb-six                                  Tibetan                                 
-  136E : thpc-six                                          -                        thpc-six                                Ethiopic                                
   1816 : mo-six                                            -                        mo-six                                  Mongolian                               
   A9D6 : ja-six                                            -                        ja-six                                  Javanese                                
 
@@ -1095,6 +1074,7 @@
    9B7 : bngl-ssa                                          beSsa                    bngl-ssa                                Bengali                                 
    AB7 : gjrt-ssa                                          gjSsa                    gjrt-ssa                                Gujarati                                
    B37 : ry-ssa                                            odSsa                    ry-ssa                                  Oriya                                   
+   BB7 : tml-ssa                                           taSsa                    tml-ssa                                 Tamil                                   
    CB7 : kn-ssa                                            knSsa                    kn-ssa                                  Kannada                                 
    D37 : ma-ssa                                            mlSsa                    ma-ssa                                  Malayalam                               
    F65 : tb-ssa                                            -                        tb-ssa                                  Tibetan                                 
@@ -1107,18 +1087,15 @@
    A24 : grmk-ta                                           guTa                     grmk-ta                                 Gurmukhi                                
    AA4 : gjrt-ta                                           gjTa                     gjrt-ta                                 Gujarati                                
    B24 : ry-ta                                             odTa                     ry-ta                                   Oriya                                   
+   BA4 : tml-ta                                            taTa                     tml-ta                                  Tamil                                   
    CA4 : kn-ta                                             knTa                     kn-ta                                   Kannada                                 
    D24 : ma-ta                                             mlTa                     ma-ta                                   Malayalam                               
    F4F : tb-ta                                             -                        tb-ta                                   Tibetan                                 
-  1270 : thpc-ta                                           -                        thpc-ta                                 Ethiopic                                
   1832 : mo-ta                                             -                        mo-ta                                   Mongolian                               
   A9A0 : ja-ta                                             -                        ja-ta                                   Javanese                                
 
-   442 : tecyr                                             te                       tecyr                                   Cyrillic                                
-  1275 : thpc-te                                           -                        thpc-te                                 Ethiopic                                
-
+   BF0 : tml-ten                                           taTen                    tml-ten                                 Tamil                                   
    D70 : ma-ten                                            mlTen                    ma-ten                                  Malayalam                               
-  1372 : thpc-ten                                          -                        thpc-ten                                Ethiopic                                
 
    925 : dv-tha                                            dvTha                    dv-tha                                  Devanagari                              
    9A5 : bngl-tha                                          beTha                    bngl-tha                                Bengali                                 
@@ -1128,7 +1105,6 @@
    CA5 : kn-tha                                            knTha                    kn-tha                                  Kannada                                 
    D25 : ma-tha                                            mlTha                    ma-tha                                  Malayalam                               
    F50 : tb-tha                                            -                        tb-tha                                  Tibetan                                 
-  1320 : thpc-tha                                          -                        thpc-tha                                Ethiopic                                
 
    482 : thousandscyr                                      thousandcyrillic         thousandscyr                            Cyrillic                                
    66C : ar-thousands                                      arThousands              ar-thousands                            Arabic                                  
@@ -1140,10 +1116,10 @@
    A69 : grmk-three                                        guThree                  grmk-three                              Gurmukhi                                
    AE9 : gjrt-three                                        gjThree                  gjrt-three                              Gujarati                                
    B69 : ry-three                                          odThree                  ry-three                                Oriya                                   
+   BE9 : tml-three                                         taThree                  tml-three                               Tamil                                   
    CE9 : kn-three                                          knThree                  kn-three                                Kannada                                 
    D69 : ma-three                                          mlThree                  ma-three                                Malayalam                               
    F23 : tb-three                                          -                        tb-three                                Tibetan                                 
-  136B : thpc-three                                        -                        thpc-three                              Ethiopic                                
   1813 : mo-three                                          -                        mo-three                                Mongolian                               
   A9D3 : ja-three                                          -                        ja-three                                Javanese                                
 
@@ -1153,9 +1129,6 @@
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                
   1FC0 : gr-tilde                                          perispomeni              gr-tilde                                Greek Extended                          
 
-   569 : am-to                                             toarmenian               am-to                                   Armenian                                
-  1276 : thpc-to                                           -                        thpc-to                                 Ethiopic                                
-
   3014 : cjk-tortoiseshellbracketleft                      tortoiseshellbracketleft cjk-tortoiseshellbracketleft            CJK Symbols and Punctuation             
   FE5D : smll-tortoiseshellbracketleft                     tortoiseshellbracketleftssmll-tortoiseshellbracketleft           Small Form Variants                     
 
@@ -1163,17 +1136,14 @@
   FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     
 
    F59 : tb-tsa                                            -                        tb-tsa                                  Tibetan                                 
-  1338 : thpc-tsa                                          -                        thpc-tsa                                Ethiopic                                
   183C : mo-tsa                                            -                        mo-tsa                                  Mongolian                               
-
-   446 : tsecyr                                            tse                      tsecyr                                  Cyrillic                                
-  133D : thpc-tse                                          -                        thpc-tse                                Ethiopic                                
 
    91F : dv-tta                                            dvTta                    dv-tta                                  Devanagari                              
    99F : bngl-tta                                          beTta                    bngl-tta                                Bengali                                 
    A1F : grmk-tta                                          guTta                    grmk-tta                                Gurmukhi                                
    A9F : gjrt-tta                                          gjTta                    gjrt-tta                                Gujarati                                
    B1F : ry-tta                                            odTta                    ry-tta                                  Oriya                                   
+   B9F : tml-tta                                           taTta                    tml-tta                                 Tamil                                   
    C9F : kn-tta                                            knTta                    kn-tta                                  Kannada                                 
    D1F : ma-tta                                            mlTta                    ma-tta                                  Malayalam                               
    F4A : tb-tta                                            -                        tb-tta                                  Tibetan                                 
@@ -1195,10 +1165,10 @@
    A68 : grmk-two                                          guTwo                    grmk-two                                Gurmukhi                                
    AE8 : gjrt-two                                          gjTwo                    gjrt-two                                Gujarati                                
    B68 : ry-two                                            odTwo                    ry-two                                  Oriya                                   
+   BE8 : tml-two                                           taTwo                    tml-two                                 Tamil                                   
    CE8 : kn-two                                            knTwo                    kn-two                                  Kannada                                 
    D68 : ma-two                                            mlTwo                    ma-two                                  Malayalam                               
    F22 : tb-two                                            -                        tb-two                                  Tibetan                                 
-  136A : thpc-two                                          -                        thpc-two                                Ethiopic                                
   1812 : mo-two                                            -                        mo-two                                  Mongolian                               
   A9D2 : ja-two                                            -                        ja-two                                  Javanese                                
 
@@ -1210,6 +1180,7 @@
    A09 : grmk-u                                            guU                      grmk-u                                  Gurmukhi                                
    A89 : gjrt-u                                            gjU                      gjrt-u                                  Gujarati                                
    B09 : ry-u                                              odU                      ry-u                                    Oriya                                   
+   B89 : tml-u                                             taU                      tml-u                                   Tamil                                   
    C89 : kn-u                                              knU                      kn-u                                    Kannada                                 
    D09 : ma-u                                              mlU                      ma-u                                    Malayalam                               
   1824 : mo-u                                              -                        mo-u                                    Mongolian                               
@@ -1233,6 +1204,7 @@
    A41 : grmk-usign                                        guUsign                  grmk-usign                              Gurmukhi                                
    AC1 : gjrt-usign                                        gjUsign                  gjrt-usign                              Gujarati                                
    B41 : ry-usign                                          odUsign                  ry-usign                                Oriya                                   
+   BC1 : tml-usign                                         taUsign                  tml-usign                               Tamil                                   
    CC1 : kn-usign                                          knUsign                  kn-usign                                Kannada                                 
    D41 : ma-usign                                          mlUsign                  ma-usign                                Malayalam                               
 
@@ -1241,6 +1213,7 @@
    A0A : grmk-uu                                           guUu                     grmk-uu                                 Gurmukhi                                
    A8A : gjrt-uu                                           gjUu                     gjrt-uu                                 Gujarati                                
    B0A : ry-uu                                             odUu                     ry-uu                                   Oriya                                   
+   B8A : tml-uu                                            taUu                     tml-uu                                  Tamil                                   
    C8A : kn-uu                                             knUu                     kn-uu                                   Kannada                                 
    D0A : ma-uu                                             mlUu                     ma-uu                                   Malayalam                               
 
@@ -1249,6 +1222,7 @@
    A42 : grmk-uusign                                       guUusign                 grmk-uusign                             Gurmukhi                                
    AC2 : gjrt-uusign                                       gjUusign                 gjrt-uusign                             Gujarati                                
    B42 : ry-uusign                                         odUusign                 ry-uusign                               Oriya                                   
+   BC2 : tml-uusign                                        taUusign                 tml-uusign                              Tamil                                   
    CC2 : kn-uusign                                         knUusign                 kn-uusign                               Kannada                                 
    D42 : ma-uusign                                         mlUusign                 ma-uusign                               Malayalam                               
 
@@ -1259,13 +1233,12 @@
    A35 : grmk-va                                           guVa                     grmk-va                                 Gurmukhi                                
    AB5 : gjrt-va                                           gjVa                     gjrt-va                                 Gujarati                                
    B35 : ry-va                                             odVa                     ry-va                                   Oriya                                   
+   BB5 : tml-va                                            taVa                     tml-va                                  Tamil                                   
    CB5 : kn-va                                             knVa                     kn-va                                   Kannada                                 
    D35 : ma-va                                             mlVa                     ma-va                                   Malayalam                               
-  1268 : thpc-va                                           -                        thpc-va                                 Ethiopic                                
 
    432 : vecyr                                             ve                       vecyr                                   Cyrillic                                
    6CB : ar-ve                                             arVe                     ar-ve                                   Arabic                                  
-  126D : thpc-ve                                           -                        thpc-ve                                 Ethiopic                                
 
    94D : dv-virama                                         dvVirama                 dv-virama                               Devanagari                              
    9CD : bngl-virama                                       beVirama                 bngl-virama                             Bengali                                 
@@ -1274,6 +1247,9 @@
    B4D : ry-virama                                         odVirama                 ry-virama                               Oriya                                   
    CCD : kn-virama                                         knVirama                 kn-virama                               Kannada                                 
 
+   BCD : tml-viramasign                                    taVirama                 tml-viramasign                          Tamil                                   
+   D4D : ma-viramasign                                     mlVirama                 ma-viramasign                           Malayalam                               
+
    903 : dv-visarga                                        dvVisarga                dv-visarga                              Devanagari                              
    983 : bngl-visarga                                      beVisarga                bngl-visarga                            Bengali                                 
    A03 : grmk-visarga                                      guVisarga                grmk-visarga                            Gurmukhi                                
@@ -1281,23 +1257,16 @@
    B03 : ry-visarga                                        odVisarga                ry-visarga                              Oriya                                   
    C83 : kn-visarga                                        knVisarga                kn-visarga                              Kannada                                 
 
-   578 : am-vo                                             voarmenian               am-vo                                   Armenian                                
-  126E : thpc-vo                                           -                        thpc-vo                                 Ethiopic                                
+   B83 : tml-visargasign                                   taVisarga                tml-visargasign                         Tamil                                   
+   D03 : ma-visargasign                                    mlVisarga                ma-visargasign                          Malayalam                               
 
    B71 : ry-wa                                             odWa                     ry-wa                                   Oriya                                   
    F5D : tb-wa                                             -                        tb-wa                                   Tibetan                                 
-  12C8 : thpc-wa                                           -                        thpc-wa                                 Ethiopic                                
   1838 : mo-wa                                             -                        mo-wa                                   Mongolian                               
   A9AE : ja-wa                                             -                        ja-wa                                   Javanese                                
 
-   51D : wecyr                                             we                       wecyr                                   Cyrillic Supplement                     
-  12CD : thpc-we                                           -                        thpc-we                                 Ethiopic                                
-
     78 : x                                                 x                        x                                       Basic Latin                             
   3112 : bpmf-x                                            xbopomofo                bpmf-x                                  Bopomofo                                
-
-   3BE : gr-xi                                             xi                       gr-xi                                   Greek and Coptic                        
-  1282 : thpc-xi                                           -                        thpc-xi                                 Ethiopic                                
 
    44F : yacyr                                             ya                       yacyr                                   Cyrillic                                
    92F : dv-ya                                             dvYa                     dv-ya                                   Devanagari                              
@@ -1305,19 +1274,15 @@
    A2F : grmk-ya                                           guYa                     grmk-ya                                 Gurmukhi                                
    AAF : gjrt-ya                                           gjYa                     gjrt-ya                                 Gujarati                                
    B2F : ry-ya                                             odYa                     ry-ya                                   Oriya                                   
+   BAF : tml-ya                                            taYa                     tml-ya                                  Tamil                                   
    CAF : kn-ya                                             knYa                     kn-ya                                   Kannada                                 
    D2F : ma-ya                                             mlYa                     ma-ya                                   Malayalam                               
    F61 : tb-ya                                             -                        tb-ya                                   Tibetan                                 
-  12E8 : thpc-ya                                           -                        thpc-ya                                 Ethiopic                                
   1836 : mo-ya                                             -                        mo-ya                                   Mongolian                               
   A9AA : ja-ya                                             -                        ja-ya                                   Javanese                                
 
-   575 : am-yi                                             yiarmenian               am-yi                                   Armenian                                
-  12EA : thpc-yi                                           -                        thpc-yi                                 Ethiopic                                
-
    44E : yucyr                                             yu                       yucyr                                   Cyrillic                                
    6C8 : ar-yu                                             arYu                     ar-yu                                   Arabic                                  
-  12E9 : thpc-yu                                           -                        thpc-yu                                 Ethiopic                                
 
    95F : dv-yya                                            dvYya                    dv-yya                                  Devanagari                              
    9DF : bngl-yya                                          beYya                    bngl-yya                                Bengali                                 
@@ -1330,12 +1295,10 @@
    95B : dv-za                                             dvZa                     dv-za                                   Devanagari                              
    A5B : grmk-za                                           guZa                     grmk-za                                 Gurmukhi                                
    F5F : tb-za                                             -                        tb-za                                   Tibetan                                 
-  12D8 : thpc-za                                           -                        thpc-za                                 Ethiopic                                
   183D : mo-za                                             -                        mo-za                                   Mongolian                               
 
    437 : zecyr                                             ze                       zecyr                                   Cyrillic                                
    511 : zecyr                                             -                        zecyr                                   Cyrillic Supplement                     
-  12DD : thpc-ze                                           -                        thpc-ze                                 Ethiopic                                
 
     30 : zero                                              zero                     zero                                    Basic Latin                             
    660 : ar-zero                                           arZero                   ar-zero                                 Arabic                                  
@@ -1344,6 +1307,7 @@
    A66 : grmk-zero                                         guZero                   grmk-zero                               Gurmukhi                                
    AE6 : gjrt-zero                                         gjZero                   gjrt-zero                               Gujarati                                
    B66 : ry-zero                                           odZero                   ry-zero                                 Oriya                                   
+   BE6 : tml-zero                                          taZero                   tml-zero                                Tamil                                   
    CE6 : kn-zero                                           knZero                   kn-zero                                 Kannada                                 
    D66 : ma-zero                                           mlZero                   ma-zero                                 Malayalam                               
    F20 : tb-zero                                           -                        tb-zero                                 Tibetan                                 
@@ -1352,21 +1316,13 @@
 
    979 : dv-zha                                            dvZha                    dv-zha                                  Devanagari                              
    F5E : tb-zha                                            -                        tb-zha                                  Tibetan                                 
-  12E0 : thpc-zha                                          -                        thpc-zha                                Ethiopic                                
 
    436 : zhecyr                                            zhe                      zhecyr                                  Cyrillic                                
    56A : am-zhe                                            zhearmenian              am-zhe                                  Armenian                                
-  12E5 : thpc-zhe                                          -                        thpc-zhe                                Ethiopic                                
-
-  12E2 : thpc-zhi                                          -                        thpc-zhi                                Ethiopic                                
-  1841 : mo-zhi                                            -                        mo-zhi                                  Mongolian                               
-# 251 names with conflicts, affecting 1109 unicodes
+# 234 names with conflicts, affecting 1085 unicodes
 
 
 Conflicts by rangename
-
-Alphabetic Presentation Forms
-  FB01 : lphb-fi                                           fi                       lphb-fi                                 Alphabetic Presentation Forms           
 
 Arabic
    6D5 : ar-ae                                             arAe                     ar-ae                                   Arabic                                  
@@ -1408,14 +1364,12 @@ Armenian
    53A : am-Zhe                                            Zhearmenian              am-Zhe                                  Armenian                                
    56E : am-ca                                             caarmenian               am-ca                                   Armenian                                
    579 : am-cha                                            chaarmenian              am-cha                                  Armenian                                
-   581 : am-co                                             coarmenian               am-co                                   Armenian                                
    55D : am-comma                                          commaarmenian            am-comma                                Armenian                                
    564 : am-da                                             daarmenian               am-da                                   Armenian                                
    567 : am-eh                                             eharmenian               am-eh                                   Armenian                                
    568 : am-et                                             etarmenian               am-et                                   Armenian                                
    55C : am-exclam                                         exclamarmenian           am-exclam                               Armenian                                
    586 : am-feh                                            feharmenian              am-feh                                  Armenian                                
-   570 : am-ho                                             hoarmenian               am-ho                                   Armenian                                
    58A : am-hyphen                                         -                        am-hyphen                               Armenian                                
    571 : am-ja                                             jaarmenian               am-ja                                   Armenian                                
    57A : am-peh                                            peharmenian              am-peh                                  Armenian                                
@@ -1424,9 +1378,6 @@ Armenian
    57C : am-ra                                             raarmenian               am-ra                                   Armenian                                
    580 : am-reh                                            reharmenian              am-reh                                  Armenian                                
    577 : am-sha                                            shaarmenian              am-sha                                  Armenian                                
-   569 : am-to                                             toarmenian               am-to                                   Armenian                                
-   578 : am-vo                                             voarmenian               am-vo                                   Armenian                                
-   575 : am-yi                                             yiarmenian               am-yi                                   Armenian                                
    566 : am-za                                             zaarmenian               am-za                                   Armenian                                
    56A : am-zhe                                            zhearmenian              am-zhe                                  Armenian                                
 
@@ -1498,6 +1449,7 @@ Bengali
    9C8 : bngl-aisign                                       beAisign                 bngl-aisign                             Bengali                                 
    982 : bngl-anusvara                                     beAnusvara               bngl-anusvara                           Bengali                                 
    994 : bngl-au                                           beAu                     bngl-au                                 Bengali                                 
+   9D7 : bngl-aulengthmark                                 beAulength               bngl-aulengthmark                       Bengali                                 
    9CC : bngl-ausign                                       beAusign                 bngl-ausign                             Bengali                                 
    9BD : bngl-avagraha                                     beAvagraha               bngl-avagraha                           Bengali                                 
    9AC : bngl-ba                                           beBa                     bngl-ba                                 Bengali                                 
@@ -1643,31 +1595,23 @@ Cyrillic
    430 : acyr                                              acyr                     acyr                                    Cyrillic                                
    4D1 : abrevecyr                                         abrevecyr                abrevecyr                               Cyrillic                                
    4D3 : adieresiscyr                                      adieresiscyr             adieresiscyr                            Cyrillic                                
-   431 : becyr                                             be                       becyr                                   Cyrillic                                
-   447 : checyr                                            che                      checyr                                  Cyrillic                                
-   434 : decyr                                             de                       decyr                                   Cyrillic                                
    43D : encyr                                             en                       encyr                                   Cyrillic                                
    4C8 : enhookcyr                                         enhookcyrillic           enhookcyr                               Cyrillic                                
    440 : ercyr                                             er                       ercyr                                   Cyrillic                                
    44D : ereversedcyr                                      ecyr                     ereversedcyr                            Cyrillic                                
-   433 : gecyr                                             ghe                      gecyr                                   Cyrillic                                
    445 : hacyr                                             ha                       hacyr                                   Cyrillic                                
    438 : icyr                                              icyr                     icyr                                    Cyrillic                                
    4E5 : idieresiscyr                                      idieresiscyr             idieresiscyr                            Cyrillic                                
    45D : igravecyr                                         igravecyr                igravecyr                               Cyrillic                                
    4E3 : imacroncyr                                        imacroncyr               imacroncyr                              Cyrillic                                
-   458 : jecyr                                             je                       jecyr                                   Cyrillic                                
    43A : kacyr                                             ka                       kacyr                                   Cyrillic                                
    481 : koppacyr                                          koppacyrillic            koppacyr                                Cyrillic                                
    43E : ocyr                                              ocyr                     ocyr                                    Cyrillic                                
    4E7 : odieresiscyr                                      odieresiscyr             odieresiscyr                            Cyrillic                                
    461 : omegacyr                                          omegacyrillic            omegacyr                                Cyrillic                                
-   43F : pecyr                                             pe                       pecyr                                   Cyrillic                                
    4D9 : schwacyr                                          schwacyr                 schwacyr                                Cyrillic                                
    448 : shacyr                                            sha                      shacyr                                  Cyrillic                                
-   442 : tecyr                                             te                       tecyr                                   Cyrillic                                
    482 : thousandscyr                                      thousandcyrillic         thousandscyr                            Cyrillic                                
-   446 : tsecyr                                            tse                      tsecyr                                  Cyrillic                                
    443 : ucyr                                              ucyr                     ucyr                                    Cyrillic                                
    4F1 : udieresiscyr                                      udieresiscyr             udieresiscyr                            Cyrillic                                
    4EF : umacroncyr                                        umacroncyr               umacroncyr                              Cyrillic                                
@@ -1688,7 +1632,6 @@ Cyrillic Supplement
    515 : lhacyr                                            -                        lhacyr                                  Cyrillic Supplement                     
    51B : qacyr                                             qa                       qacyr                                   Cyrillic Supplement                     
    517 : rhacyr                                            -                        rhacyr                                  Cyrillic Supplement                     
-   51D : wecyr                                             we                       wecyr                                   Cyrillic Supplement                     
    511 : zecyr                                             -                        zecyr                                   Cyrillic Supplement                     
 
 Devanagari
@@ -1720,7 +1663,6 @@ Devanagari
    96B : dv-five                                           dvFive                   dv-five                                 Devanagari                              
    96A : dv-four                                           dvFour                   dv-four                                 Devanagari                              
    917 : dv-ga                                             dvGa                     dv-ga                                   Devanagari                              
-   97B : dv-gga                                            dvGga                    dv-gga                                  Devanagari                              
    918 : dv-gha                                            dvGha                    dv-gha                                  Devanagari                              
    95A : dv-ghha                                           dvGhha                   dv-ghha                                 Devanagari                              
    97D : dv-glottalstop                                    dvStop                   dv-glottalstop                          Devanagari                              
@@ -1747,6 +1689,7 @@ Devanagari
    919 : dv-nga                                            dvNga                    dv-nga                                  Devanagari                              
    96F : dv-nine                                           dvNine                   dv-nine                                 Devanagari                              
    923 : dv-nna                                            dvNna                    dv-nna                                  Devanagari                              
+   929 : dv-nnna                                           dvNnna                   dv-nnna                                 Devanagari                              
    93C : dv-nukta                                          dvNukta                  dv-nukta                                Devanagari                              
    91E : dv-nya                                            dvNya                    dv-nya                                  Devanagari                              
    913 : dv-o                                              dvO                      dv-o                                    Devanagari                              
@@ -1789,84 +1732,10 @@ Devanagari
    966 : dv-zero                                           dvZero                   dv-zero                                 Devanagari                              
    979 : dv-zha                                            dvZha                    dv-zha                                  Devanagari                              
 
-Ethiopic
-  1260 : thpc-ba                                           -                        thpc-ba                                 Ethiopic                                
-  1265 : thpc-be                                           -                        thpc-be                                 Ethiopic                                
-  1278 : thpc-ca                                           -                        thpc-ca                                 Ethiopic                                
-  1328 : thpc-cha                                          -                        thpc-cha                                Ethiopic                                
-  132D : thpc-che                                          -                        thpc-che                                Ethiopic                                
-  132A : thpc-chi                                          -                        thpc-chi                                Ethiopic                                
-  127E : thpc-co                                           -                        thpc-co                                 Ethiopic                                
-  1365 : thpc-colon                                        -                        thpc-colon                              Ethiopic                                
-  1363 : thpc-comma                                        -                        thpc-comma                              Ethiopic                                
-  12F0 : thpc-da                                           -                        thpc-da                                 Ethiopic                                
-  12F8 : thpc-dda                                          -                        thpc-dda                                Ethiopic                                
-  12F5 : thpc-de                                           -                        thpc-de                                 Ethiopic                                
-  1370 : thpc-eight                                        -                        thpc-eight                              Ethiopic                                
-  1348 : thpc-fa                                           -                        thpc-fa                                 Ethiopic                                
-  134A : thpc-fi                                           -                        thpc-fi                                 Ethiopic                                
-  136D : thpc-five                                         -                        thpc-five                               Ethiopic                                
-  136C : thpc-four                                         -                        thpc-four                               Ethiopic                                
-  1308 : thpc-ga                                           -                        thpc-ga                                 Ethiopic                                
-  130D : thpc-ge                                           -                        thpc-ge                                 Ethiopic                                
-  1318 : thpc-gga                                          -                        thpc-gga                                Ethiopic                                
-  1200 : thpc-ha                                           -                        thpc-ha                                 Ethiopic                                
-  1203 : thpc-haa                                          -                        thpc-haa                                Ethiopic                                
-  1206 : thpc-ho                                           -                        thpc-ho                                 Ethiopic                                
-  1300 : thpc-ja                                           -                        thpc-ja                                 Ethiopic                                
-  1305 : thpc-je                                           -                        thpc-je                                 Ethiopic                                
-  12A8 : thpc-ka                                           -                        thpc-ka                                 Ethiopic                                
-  1208 : thpc-la                                           -                        thpc-la                                 Ethiopic                                
-  1218 : thpc-ma                                           -                        thpc-ma                                 Ethiopic                                
-  1219 : thpc-mu                                           -                        thpc-mu                                 Ethiopic                                
-  1290 : thpc-na                                           -                        thpc-na                                 Ethiopic                                
-  1371 : thpc-nine                                         -                        thpc-nine                               Ethiopic                                
-  1291 : thpc-nu                                           -                        thpc-nu                                 Ethiopic                                
-  1298 : thpc-nya                                          -                        thpc-nya                                Ethiopic                                
-  1369 : thpc-one                                          -                        thpc-one                                Ethiopic                                
-  1350 : thpc-pa                                           -                        thpc-pa                                 Ethiopic                                
-  1368 : thpc-paragraphseparator                           -                        thpc-paragraphseparator                 Ethiopic                                
-  1355 : thpc-pe                                           -                        thpc-pe                                 Ethiopic                                
-  1330 : thpc-pha                                          -                        thpc-pha                                Ethiopic                                
-  1332 : thpc-phi                                          -                        thpc-phi                                Ethiopic                                
-  1352 : thpc-pi                                           -                        thpc-pi                                 Ethiopic                                
-  1240 : thpc-qa                                           -                        thpc-qa                                 Ethiopic                                
-  1228 : thpc-ra                                           -                        thpc-ra                                 Ethiopic                                
-  1230 : thpc-sa                                           -                        thpc-sa                                 Ethiopic                                
-  1364 : thpc-semicolon                                    -                        thpc-semicolon                          Ethiopic                                
-  136F : thpc-seven                                        -                        thpc-seven                              Ethiopic                                
-  1238 : thpc-sha                                          -                        thpc-sha                                Ethiopic                                
-  123E : thpc-sho                                          -                        thpc-sho                                Ethiopic                                
-  136E : thpc-six                                          -                        thpc-six                                Ethiopic                                
-  1270 : thpc-ta                                           -                        thpc-ta                                 Ethiopic                                
-  1275 : thpc-te                                           -                        thpc-te                                 Ethiopic                                
-  1372 : thpc-ten                                          -                        thpc-ten                                Ethiopic                                
-  1320 : thpc-tha                                          -                        thpc-tha                                Ethiopic                                
-  136B : thpc-three                                        -                        thpc-three                              Ethiopic                                
-  1276 : thpc-to                                           -                        thpc-to                                 Ethiopic                                
-  1338 : thpc-tsa                                          -                        thpc-tsa                                Ethiopic                                
-  133D : thpc-tse                                          -                        thpc-tse                                Ethiopic                                
-  136A : thpc-two                                          -                        thpc-two                                Ethiopic                                
-  1268 : thpc-va                                           -                        thpc-va                                 Ethiopic                                
-  126D : thpc-ve                                           -                        thpc-ve                                 Ethiopic                                
-  126E : thpc-vo                                           -                        thpc-vo                                 Ethiopic                                
-  12C8 : thpc-wa                                           -                        thpc-wa                                 Ethiopic                                
-  12CD : thpc-we                                           -                        thpc-we                                 Ethiopic                                
-  1282 : thpc-xi                                           -                        thpc-xi                                 Ethiopic                                
-  12E8 : thpc-ya                                           -                        thpc-ya                                 Ethiopic                                
-  12EA : thpc-yi                                           -                        thpc-yi                                 Ethiopic                                
-  12E9 : thpc-yu                                           -                        thpc-yu                                 Ethiopic                                
-  12D8 : thpc-za                                           -                        thpc-za                                 Ethiopic                                
-  12DD : thpc-ze                                           -                        thpc-ze                                 Ethiopic                                
-  12E0 : thpc-zha                                          -                        thpc-zha                                Ethiopic                                
-  12E5 : thpc-zhe                                          -                        thpc-zhe                                Ethiopic                                
-  12E2 : thpc-zhi                                          -                        thpc-zhi                                Ethiopic                                
-
 General Punctuation
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     
   2014 : gnrl-emdash                                       emdash                   gnrl-emdash                             General Punctuation                     
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     
-  2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     
   2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     
 
 Geometric Shapes
@@ -1888,15 +1757,10 @@ Greek and Coptic
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        
    37A : gr-iotalenis                                      iotasubscript            gr-iotalenis                            Greek and Coptic                        
    3DF : koppa                                             -                        koppa                                   Greek and Coptic                        
-   3BC : gr-mu                                             mu                       gr-mu                                   Greek and Coptic                        
-   3BD : gr-nu                                             nu                       gr-nu                                   Greek and Coptic                        
    3C9 : omega                                             omega                    omega                                   Greek and Coptic                        
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        
-   3C0 : gr-pi                                             pi                       gr-pi                                   Greek and Coptic                        
    37E : gr-question                                       questiongreek            gr-question                             Greek and Coptic                        
-   3F8 : gr-sho                                            -                        gr-sho                                  Greek and Coptic                        
    3C5 : upsilon                                           upsilon                  upsilon                                 Greek and Coptic                        
-   3BE : gr-xi                                             xi                       gr-xi                                   Greek and Coptic                        
 
 Gujarati
    A85 : gjrt-a                                            gjA                      gjrt-a                                  Gujarati                                
@@ -2246,6 +2110,7 @@ Malayalam
    D3E : ma-aasign                                         mlAasign                 ma-aasign                               Malayalam                               
    D10 : ma-ai                                             mlAi                     ma-ai                                   Malayalam                               
    D48 : ma-aisign                                         mlAisign                 ma-aisign                               Malayalam                               
+   D02 : ma-anusvarasign                                   mlAnusvara               ma-anusvarasign                         Malayalam                               
    D14 : ma-au                                             mlAu                     ma-au                                   Malayalam                               
    D4C : ma-ausign                                         mlAusign                 ma-ausign                               Malayalam                               
    D2C : ma-ba                                             mlBa                     ma-ba                                   Malayalam                               
@@ -2291,7 +2156,9 @@ Malayalam
    D12 : ma-o                                              mlO                      ma-o                                    Malayalam                               
    D67 : ma-one                                            mlOne                    ma-one                                  Malayalam                               
    D74 : ma-onehalf                                        mlOneHalf                ma-onehalf                              Malayalam                               
+   D71 : ma-onehundred                                     mlOneHundred             ma-onehundred                           Malayalam                               
    D73 : ma-onequarter                                     mlOneQuarter             ma-onequarter                           Malayalam                               
+   D72 : ma-onethousand                                    mlOneThousand            ma-onethousand                          Malayalam                               
    D13 : ma-oo                                             mlOo                     ma-oo                                   Malayalam                               
    D4B : ma-oosign                                         mlOosign                 ma-oosign                               Malayalam                               
    D4A : ma-osign                                          mlOsign                  ma-osign                                Malayalam                               
@@ -2321,6 +2188,8 @@ Malayalam
    D0A : ma-uu                                             mlUu                     ma-uu                                   Malayalam                               
    D42 : ma-uusign                                         mlUusign                 ma-uusign                               Malayalam                               
    D35 : ma-va                                             mlVa                     ma-va                                   Malayalam                               
+   D4D : ma-viramasign                                     mlVirama                 ma-viramasign                           Malayalam                               
+   D03 : ma-visargasign                                    mlVisarga                ma-visargasign                          Malayalam                               
    D2F : ma-ya                                             mlYa                     ma-ya                                   Malayalam                               
    D66 : ma-zero                                           mlZero                   ma-zero                                 Malayalam                               
 
@@ -2353,7 +2222,6 @@ Mongolian
   1815 : mo-five                                           -                        mo-five                                 Mongolian                               
   1814 : mo-four                                           -                        mo-four                                 Mongolian                               
   182D : mo-ga                                             -                        mo-ga                                   Mongolian                               
-  183E : mo-haa                                            -                        mo-haa                                  Mongolian                               
   1822 : mo-i                                              -                        mo-i                                    Mongolian                               
   1835 : mo-ja                                             -                        mo-ja                                   Mongolian                               
   183A : mo-ka                                             -                        mo-ka                                   Mongolian                               
@@ -2384,7 +2252,6 @@ Mongolian
   1836 : mo-ya                                             -                        mo-ya                                   Mongolian                               
   183D : mo-za                                             -                        mo-za                                   Mongolian                               
   1810 : mo-zero                                           -                        mo-zero                                 Mongolian                               
-  1841 : mo-zhi                                            -                        mo-zhi                                  Mongolian                               
 
 Oriya
    B05 : ry-a                                              odA                      ry-a                                    Oriya                                   
@@ -2501,6 +2368,72 @@ Small Form Variants
 
 Spacing Modifier Letters
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                
+
+Tamil
+   B85 : tml-a                                             taA                      tml-a                                   Tamil                                   
+   B86 : tml-aa                                            taAa                     tml-aa                                  Tamil                                   
+   BBE : tml-aasign                                        taAasign                 tml-aasign                              Tamil                                   
+   B90 : tml-ai                                            taAi                     tml-ai                                  Tamil                                   
+   BC8 : tml-aisign                                        taAisign                 tml-aisign                              Tamil                                   
+   B82 : tml-anusvarasign                                  taAnusvara               tml-anusvarasign                        Tamil                                   
+   B94 : tml-au                                            taAu                     tml-au                                  Tamil                                   
+   BD7 : tml-aulengthmark                                  taAulength               tml-aulengthmark                        Tamil                                   
+   BCC : tml-ausign                                        taAusign                 tml-ausign                              Tamil                                   
+   B9A : tml-ca                                            taCa                     tml-ca                                  Tamil                                   
+   B8E : tml-e                                             taE                      tml-e                                   Tamil                                   
+   B8F : tml-ee                                            taEe                     tml-ee                                  Tamil                                   
+   BC7 : tml-eesign                                        taEesign                 tml-eesign                              Tamil                                   
+   BEE : tml-eight                                         taEight                  tml-eight                               Tamil                                   
+   BC6 : tml-esign                                         taEsign                  tml-esign                               Tamil                                   
+   BEB : tml-five                                          taFive                   tml-five                                Tamil                                   
+   BEA : tml-four                                          taFour                   tml-four                                Tamil                                   
+   BB9 : tml-ha                                            taHa                     tml-ha                                  Tamil                                   
+   B87 : tml-i                                             taI                      tml-i                                   Tamil                                   
+   B88 : tml-ii                                            taIi                     tml-ii                                  Tamil                                   
+   BC0 : tml-iisign                                        taIisign                 tml-iisign                              Tamil                                   
+   BBF : tml-isign                                         taIsign                  tml-isign                               Tamil                                   
+   B9C : tml-ja                                            taJa                     tml-ja                                  Tamil                                   
+   B95 : tml-ka                                            taKa                     tml-ka                                  Tamil                                   
+   BB2 : tml-la                                            taLa                     tml-la                                  Tamil                                   
+   BB3 : tml-lla                                           taLla                    tml-lla                                 Tamil                                   
+   BB4 : tml-llla                                          taLlla                   tml-llla                                Tamil                                   
+   BAE : tml-ma                                            taMa                     tml-ma                                  Tamil                                   
+   BA8 : tml-na                                            taNa                     tml-na                                  Tamil                                   
+   B99 : tml-nga                                           taNga                    tml-nga                                 Tamil                                   
+   BEF : tml-nine                                          taNine                   tml-nine                                Tamil                                   
+   BA3 : tml-nna                                           taNna                    tml-nna                                 Tamil                                   
+   BA9 : tml-nnna                                          taNnna                   tml-nnna                                Tamil                                   
+   B9E : tml-nya                                           taNya                    tml-nya                                 Tamil                                   
+   B92 : tml-o                                             taO                      tml-o                                   Tamil                                   
+   BD0 : tml-om                                            taOm                     tml-om                                  Tamil                                   
+   BE7 : tml-one                                           taOne                    tml-one                                 Tamil                                   
+   BF1 : tml-onehundred                                    taHundred                tml-onehundred                          Tamil                                   
+   BF2 : tml-onethousand                                   taThousand               tml-onethousand                         Tamil                                   
+   B93 : tml-oo                                            taOo                     tml-oo                                  Tamil                                   
+   BCB : tml-oosign                                        taOosign                 tml-oosign                              Tamil                                   
+   BCA : tml-osign                                         taOsign                  tml-osign                               Tamil                                   
+   BAA : tml-pa                                            taPa                     tml-pa                                  Tamil                                   
+   BB0 : tml-ra                                            taRa                     tml-ra                                  Tamil                                   
+   BB1 : tml-rra                                           taRra                    tml-rra                                 Tamil                                   
+   BB8 : tml-sa                                            taSa                     tml-sa                                  Tamil                                   
+   BED : tml-seven                                         taSeven                  tml-seven                               Tamil                                   
+   BB6 : tml-sha                                           taSha                    tml-sha                                 Tamil                                   
+   BEC : tml-six                                           taSix                    tml-six                                 Tamil                                   
+   BB7 : tml-ssa                                           taSsa                    tml-ssa                                 Tamil                                   
+   BA4 : tml-ta                                            taTa                     tml-ta                                  Tamil                                   
+   BF0 : tml-ten                                           taTen                    tml-ten                                 Tamil                                   
+   BE9 : tml-three                                         taThree                  tml-three                               Tamil                                   
+   B9F : tml-tta                                           taTta                    tml-tta                                 Tamil                                   
+   BE8 : tml-two                                           taTwo                    tml-two                                 Tamil                                   
+   B89 : tml-u                                             taU                      tml-u                                   Tamil                                   
+   BC1 : tml-usign                                         taUsign                  tml-usign                               Tamil                                   
+   B8A : tml-uu                                            taUu                     tml-uu                                  Tamil                                   
+   BC2 : tml-uusign                                        taUusign                 tml-uusign                              Tamil                                   
+   BB5 : tml-va                                            taVa                     tml-va                                  Tamil                                   
+   BCD : tml-viramasign                                    taVirama                 tml-viramasign                          Tamil                                   
+   B83 : tml-visargasign                                   taVisarga                tml-visargasign                         Tamil                                   
+   BAF : tml-ya                                            taYa                     tml-ya                                  Tamil                                   
+   BE6 : tml-zero                                          taZero                   tml-zero                                Tamil                                   
 
 Tibetan
    F60 : tb-AA                                             -                        tb-AA                                   Tibetan                                 
