@@ -31,10 +31,9 @@ def process(self):
     self.edit('HEBREW')
     self.edit("LETTER")
 
-    self.final("-hb")
-
     self.lower()
     self.compress()
+    self.scriptPrefix()
 
 
 if __name__ == "__main__":
