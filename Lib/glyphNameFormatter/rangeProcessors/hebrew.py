@@ -5,6 +5,9 @@ def process(self):
     self.replace("HEBREW LIGATURE YIDDISH DOUBLE YOD", "yod_yod")
     self.replace("HEBREW MARK UPPER DOT", "dotupper")
     self.replace("HEBREW MARK LOWER DOT", "dotlower")
+    self.replace("HEBREW PUNCTUATION GERESH", "gereshpunctuation")
+    self.replace("HEBREW PUNCTUATION GERSHAYIM", "gershayimpunctuation")
+    self.replace("HEBREW ACCENT SEGOL", "segolta")
 
     # used in alphabetic presentation forms
     self.edit("WIDE", "wide")
@@ -12,9 +15,9 @@ def process(self):
     self.edit("HEBREW LIGATURE YIDDISH YOD YOD PATAH", "yod_yod_patah")
     self.edit("ALTERNATIVE", "alt")
 
-    self.edit("ACCENT", "accent")
-    self.edit("FINAL", ".fina")    # .fina
-    self.edit("POINT", "pt")   # point?
+    self.edit("ACCENT", "")
+    self.edit("FINAL", "final")    # .fina
+    self.edit("POINT", "")   # point? or nikud?
     if self.has("YIDDISH"):
         if self.replace("YIDDISH"):
             self.suffix("yiddish")
