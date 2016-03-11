@@ -74,6 +74,7 @@
    53A : am-Zhe                                            Zhearmenian              am-Zhe                                  Armenian                                ARMENIAN CAPITAL LETTER ZHE
 
     61 : a                                                 a                        a                                       Basic Latin                             LATIN SMALL LETTER A
+   363 : cmb-a                                             acmb                     cmb-a                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER A
    430 : acyr                                              acyr                     acyr                                    Cyrillic                                CYRILLIC SMALL LETTER A
    905 : dv-a                                              dvA                      dv-a                                    Devanagari                              DEVANAGARI LETTER A 
    985 : bngl-a                                            beA                      bngl-a                                  Bengali                                 BENGALI LETTER A    
@@ -279,11 +280,15 @@
     7D : braceright                                        braceright               braceright                              Basic Latin                             RIGHT CURLY BRACKET 
   FE5C : smll-braceright                                   bracerightsmall          smll-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
 
+   2D8 : breve                                             breve                    breve                                   Spacing Modifier Letters                BREVE               
+   306 : cmb-breve                                         brevecmb                 cmb-breve                               Combining Diacritical Marks             COMBINING BREVE     
+
   1261 : et-bu                                             -                        et-bu                                   Ethiopic                                ETHIOPIC SYLLABLE BU
   3076 : hi-bu                                             buhiragana               hi-bu                                   Hiragana                                HIRAGANA LETTER BU  
   30D6 : ka-bu                                             bukatakana               ka-bu                                   Katakana                                KATAKANA LETTER BU  
 
     63 : c                                                 c                        c                                       Basic Latin                             LATIN SMALL LETTER C
+   368 : cmb-c                                             ccmb                     cmb-c                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER C
   3118 : bpmf-c                                            cbopomofo                bpmf-c                                  Bopomofo                                BOPOMOFO LETTER C   
 
    56E : am-ca                                             caarmenian               am-ca                                   Armenian                                ARMENIAN SMALL LETTER CA
@@ -300,9 +305,16 @@
   1278 : et-ca                                             -                        et-ca                                   Ethiopic                                ETHIOPIC SYLLABLE CA
   A995 : ja-ca                                             -                        ja-ca                                   Javanese                                JAVANESE LETTER CA  
 
+   310 : cmb-candrabindu                                   candrabinducmb           cmb-candrabindu                         Combining Diacritical Marks             COMBINING CANDRABINDU
    901 : dv-candrabindu                                    dvCandrabindu            dv-candrabindu                          Devanagari                              DEVANAGARI SIGN CANDRABINDU
    981 : bngl-candrabindu                                  beCandrabindu            bngl-candrabindu                        Bengali                                 BENGALI SIGN CANDRABINDU
    B01 : ry-candrabindu                                    odCandrabindu            ry-candrabindu                          Oriya                                   ORIYA SIGN CANDRABINDU
+
+   2C7 : caron                                             caron                    caron                                   Spacing Modifier Letters                CARON               
+   30C : cmb-caron                                         caroncmb                 cmb-caron                               Combining Diacritical Marks             COMBINING CARON     
+
+    B8 : cedilla                                           cedilla                  cedilla                                 Latin-1 Supplement                      CEDILLA             
+   327 : cmb-cedilla                                       cedillacmb               cmb-cedilla                             Combining Diacritical Marks             COMBINING CEDILLA   
 
    579 : am-cha                                            chaarmenian              am-cha                                  Armenian                                ARMENIAN SMALL LETTER CHA
    91B : dv-cha                                            dvCha                    dv-cha                                  Devanagari                              DEVANAGARI LETTER CHA
@@ -343,6 +355,7 @@
   221B : mthm-cuberoot                                     -                        mthm-cuberoot                           Mathematical Operators                  CUBE ROOT           
 
     64 : d                                                 d                        d                                       Basic Latin                             LATIN SMALL LETTER D
+   369 : cmb-d                                             dcmb                     cmb-d                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER D
   3109 : bpmf-d                                            dbopomofo                bpmf-d                                  Bopomofo                                BOPOMOFO LETTER D   
 
    564 : am-da                                             daarmenian               am-da                                   Armenian                                ARMENIAN SMALL LETTER DA
@@ -414,12 +427,18 @@
   25C7 : gmtr-diamondwhite                                 whitediamond             gmtr-diamondwhite                       Geometric Shapes                        WHITE DIAMOND       
   2662 : misc-diamondwhite                                 diamondopen              misc-diamondwhite                       Miscellaneous Symbols                   WHITE DIAMOND SUIT  
 
+    A8 : dieresis                                          dieresis                 dieresis                                Latin-1 Supplement                      DIAERESIS           
+   308 : cmb-dieresis                                      dieresiscmb              cmb-dieresis                            Combining Diacritical Marks             COMBINING DIAERESIS 
+
   12F6 : et-do                                             -                        et-do                                   Ethiopic                                ETHIOPIC SYLLABLE DO
   3069 : hi-do                                             dohiragana               hi-do                                   Hiragana                                HIRAGANA LETTER DO  
   30C9 : ka-do                                             dokatakana               ka-do                                   Katakana                                KATAKANA LETTER DO  
 
     24 : dollar                                            dollar                   dollar                                  Basic Latin                             DOLLAR SIGN         
   FE69 : smll-dollar                                       dollarsmall              smll-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
+
+   2D9 : dotaccent                                         dotaccent                dotaccent                               Spacing Modifier Letters                DOT ABOVE           
+   307 : cmb-dotaccent                                     dotaccentcmb             cmb-dotaccent                           Combining Diacritical Marks             COMBINING DOT ABOVE 
 
   12F1 : et-du                                             -                        et-du                                   Ethiopic                                ETHIOPIC SYLLABLE DU
   3065 : hi-du                                             duhiragana               hi-du                                   Hiragana                                HIRAGANA LETTER DU  
@@ -429,6 +448,7 @@
    F5B : tb-dza                                            -                        tb-dza                                  Tibetan                                 TIBETAN LETTER DZA  
 
     65 : e                                                 e                        e                                       Basic Latin                             LATIN SMALL LETTER E
+   364 : cmb-e                                             ecmb                     cmb-e                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER E
    6D0 : ar-e                                              arE                      ar-e                                    Arabic                                  ARABIC LETTER E     
    90F : dv-e                                              dvE                      dv-e                                    Devanagari                              DEVANAGARI LETTER E 
    98F : bngl-e                                            beE                      bngl-e                                  Bengali                                 BENGALI LETTER E    
@@ -657,6 +677,7 @@
   30B0 : ka-gu                                             gukatakana               ka-gu                                   Katakana                                KATAKANA LETTER GU  
 
     68 : h                                                 h                        h                                       Basic Latin                             LATIN SMALL LETTER H
+   36A : cmb-h                                             hcmb                     cmb-h                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER H
   310F : bpmf-h                                            hbopomofo                bpmf-h                                  Bopomofo                                BOPOMOFO LETTER H   
 
    445 : hacyr                                             ha                       hacyr                                   Cyrillic                                CYRILLIC SMALL LETTER HA
@@ -696,12 +717,16 @@
   3075 : hi-hu                                             huhiragana               hi-hu                                   Hiragana                                HIRAGANA LETTER HU  
   30D5 : ka-hu                                             hukatakana               ka-hu                                   Katakana                                KATAKANA LETTER HU  
 
+   2DD : hungarumlaut                                      hungarumlaut             hungarumlaut                            Spacing Modifier Letters                DOUBLE ACUTE ACCENT 
+   30B : cmb-hungarumlaut                                  hungarumlautcmb          cmb-hungarumlaut                        Combining Diacritical Marks             COMBINING DOUBLE ACUTE ACCENT
+
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             HYPHEN-MINUS        
    58A : am-hyphen                                         -                        am-hyphen                               Armenian                                ARMENIAN HYPHEN     
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     HYPHEN              
   FE63 : smll-hyphen                                       hyphensmall              smll-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
 
     69 : i                                                 i                        i                                       Basic Latin                             LATIN SMALL LETTER I
+   365 : cmb-i                                             icmb                     cmb-i                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER I
    438 : icyr                                              icyr                     icyr                                    Cyrillic                                CYRILLIC SMALL LETTER I
    907 : dv-i                                              dvI                      dv-i                                    Devanagari                              DEVANAGARI LETTER I 
    987 : bngl-i                                            beI                      bngl-i                                  Bengali                                 BENGALI LETTER I    
@@ -757,6 +782,9 @@
 
    269 : ipa-iota                                          iotalatin                ipa-iota                                IPA Extensions                          LATIN SMALL LETTER IOTA
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        GREEK SMALL LETTER IOTA
+
+   345 : cmb-iotasubscript                                 iotasubscriptcmb         cmb-iotasubscript                       Combining Diacritical Marks             COMBINING GREEK YPOGEGRAMMENI
+   37A : iotasubscript                                     iotasubscript            iotasubscript                           Greek and Coptic                        GREEK YPOGEGRAMMENI 
 
    93F : dv-isign                                          dvIsign                  dv-isign                                Devanagari                              DEVANAGARI VOWEL SIGN I
    9BF : bngl-isign                                        beIsign                  bngl-isign                              Bengali                                 BENGALI VOWEL SIGN I
@@ -936,6 +964,7 @@
    D62 : ma-lvocalsign                                     mlLvocalsign             ma-lvocalsign                           Malayalam                               MALAYALAM VOWEL SIGN VOCALIC L
 
     6D : m                                                 m                        m                                       Basic Latin                             LATIN SMALL LETTER M
+   36B : cmb-m                                             mcmb                     cmb-m                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER M
   3107 : bpmf-m                                            mbopomofo                bpmf-m                                  Bopomofo                                BOPOMOFO LETTER M   
 
    92E : dv-ma                                             dvMa                     dv-ma                                   Devanagari                              DEVANAGARI LETTER MA
@@ -953,6 +982,9 @@
   307E : hi-ma                                             mahiragana               hi-ma                                   Hiragana                                HIRAGANA LETTER MA  
   30DE : ka-ma                                             makatakana               ka-ma                                   Katakana                                KATAKANA LETTER MA  
   A9A9 : ja-ma                                             -                        ja-ma                                   Javanese                                JAVANESE LETTER MA  
+
+    AF : macron                                            macron                   macron                                  Latin-1 Supplement                      MACRON              
+   304 : cmb-macron                                        macroncmb                cmb-macron                              Combining Diacritical Marks             COMBINING MACRON    
 
   121D : et-me                                             -                        et-me                                   Ethiopic                                ETHIOPIC SYLLABLE ME
   3081 : hi-me                                             mehiragana               hi-me                                   Hiragana                                HIRAGANA LETTER ME  
@@ -1080,6 +1112,7 @@
   A99A : ja-nya                                            -                        ja-nya                                  Javanese                                JAVANESE LETTER NYA 
 
     6F : o                                                 o                        o                                       Basic Latin                             LATIN SMALL LETTER O
+   366 : cmb-o                                             ocmb                     cmb-o                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER O
    43E : ocyr                                              ocyr                     ocyr                                    Cyrillic                                CYRILLIC SMALL LETTER O
    913 : dv-o                                              dvO                      dv-o                                    Devanagari                              DEVANAGARI LETTER O 
    993 : bngl-o                                            beO                      bngl-o                                  Bengali                                 BENGALI LETTER O    
@@ -1106,6 +1139,9 @@
    6C6 : ar-oe                                             arOe                     ar-oe                                   Arabic                                  ARABIC LETTER OE    
   1825 : mo-oe                                             -                        mo-oe                                   Mongolian                               MONGOLIAN LETTER OE 
   315A : ko-oe                                             oekorean                 ko-oe                                   Hangul Compatibility Jamo               HANGUL LETTER OE    
+
+   2DB : ogonek                                            ogonek                   ogonek                                  Spacing Modifier Letters                OGONEK              
+   328 : cmb-ogonek                                        ogonekcmb                cmb-ogonek                              Combining Diacritical Marks             COMBINING OGONEK    
 
   FF75 : hlfw-ohalfwidth                                   okatakanahalfwidth       hlfw-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER O
   FFCC : hlfw-ohalfwidth                                   -                        hlfw-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER O
@@ -1176,6 +1212,9 @@
 
    223 : ou                                                -                        ou                                      Latin Extended-B                        LATIN SMALL LETTER OU
   3121 : bpmf-ou                                           oubopomofo               bpmf-ou                                 Bopomofo                                BOPOMOFO LETTER OU  
+
+   305 : cmb-overline                                      overlinecmb              cmb-overline                            Combining Diacritical Marks             COMBINING OVERLINE  
+  203E : overline                                          overline                 overline                                General Punctuation                     OVERLINE            
 
     70 : p                                                 p                        p                                       Basic Latin                             LATIN SMALL LETTER P
   3106 : bpmf-p                                            pbopomofo                bpmf-p                                  Bopomofo                                BOPOMOFO LETTER P   
@@ -1270,6 +1309,7 @@
   FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     SMALL QUESTION MARK 
 
     72 : r                                                 r                        r                                       Basic Latin                             LATIN SMALL LETTER R
+   36C : cmb-r                                             rcmb                     cmb-r                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER R
   3116 : bpmf-r                                            rbopomofo                bpmf-r                                  Bopomofo                                BOPOMOFO LETTER R   
 
    57C : am-ra                                             raarmenian               am-ra                                   Armenian                                ARMENIAN SMALL LETTER RA
@@ -1467,6 +1507,7 @@
   30B9 : ka-su                                             sukatakana               ka-su                                   Katakana                                KATAKANA LETTER SU  
 
     74 : t                                                 t                        t                                       Basic Latin                             LATIN SMALL LETTER T
+   36D : cmb-t                                             tcmb                     cmb-t                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER T
   310A : bpmf-t                                            tbopomofo                bpmf-t                                  Bopomofo                                BOPOMOFO LETTER T   
 
    924 : dv-ta                                             dvTa                     dv-ta                                   Devanagari                              DEVANAGARI LETTER TA
@@ -1541,6 +1582,9 @@
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                SMALL TILDE         
   1FC0 : gr-tilde                                          perispomeni              gr-tilde                                Greek Extended                          GREEK PERISPOMENI   
 
+   33E : cmb-tildevertical                                 tildeverticalcmb         cmb-tildevertical                       Combining Diacritical Marks             COMBINING VERTICAL TILDE
+  2E2F : tildevertical                                     -                        tildevertical                           Supplemental Punctuation                VERTICAL TILDE      
+
    569 : am-to                                             toarmenian               am-to                                   Armenian                                ARMENIAN SMALL LETTER TO
   1276 : et-to                                             -                        et-to                                   Ethiopic                                ETHIOPIC SYLLABLE TO
   3068 : hi-to                                             tohiragana               hi-to                                   Hiragana                                HIRAGANA LETTER TO  
@@ -1607,6 +1651,7 @@
   A9D2 : ja-two                                            -                        ja-two                                  Javanese                                JAVANESE DIGIT TWO  
 
     75 : u                                                 u                        u                                       Basic Latin                             LATIN SMALL LETTER U
+   367 : cmb-u                                             ucmb                     cmb-u                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER U
    443 : ucyr                                              ucyr                     ucyr                                    Cyrillic                                CYRILLIC SMALL LETTER U
    6C7 : ar-u                                              arU                      ar-u                                    Arabic                                  ARABIC LETTER U     
    909 : dv-u                                              dvU                      dv-u                                    Devanagari                              DEVANAGARI LETTER U 
@@ -1674,6 +1719,7 @@
    D42 : ma-uusign                                         mlUusign                 ma-uusign                               Malayalam                               MALAYALAM VOWEL SIGN UU
 
     76 : v                                                 v                        v                                       Basic Latin                             LATIN SMALL LETTER V
+   36E : cmb-v                                             vcmb                     cmb-v                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER V
   312A : bpmf-v                                            -                        bpmf-v                                  Bopomofo                                BOPOMOFO LETTER V   
 
    935 : dv-va                                             dvVa                     dv-va                                   Devanagari                              DEVANAGARI LETTER VA
@@ -1756,6 +1802,7 @@
   30F2 : ka-wo                                             wokatakana               ka-wo                                   Katakana                                KATAKANA LETTER WO  
 
     78 : x                                                 x                        x                                       Basic Latin                             LATIN SMALL LETTER X
+   36F : cmb-x                                             xcmb                     cmb-x                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER X
   3112 : bpmf-x                                            xbopomofo                bpmf-x                                  Bopomofo                                BOPOMOFO LETTER X   
 
    3BE : gr-xi                                             xi                       gr-xi                                   Greek and Coptic                        GREEK SMALL LETTER XI
@@ -1879,7 +1926,7 @@
   12D9 : et-zu                                             -                        et-zu                                   Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hi-zu                                             zuhiragana               hi-zu                                   Hiragana                                HIRAGANA LETTER ZU  
   30BA : ka-zu                                             zukatakana               ka-zu                                   Katakana                                KATAKANA LETTER ZU  
-# 334 names with conflicts, affecting 1545 unicodes
+# 345 names with conflicts, affecting 1581 unicodes
 
 
 Conflicts by rangename
@@ -2137,6 +2184,33 @@ CJK Symbols and Punctuation
   3001 : cjk-ideographiccomma                              ideographiccomma         cjk-ideographiccomma                    CJK Symbols and Punctuation             IDEOGRAPHIC COMMA   
   3014 : cjk-tortoiseshellbracketleft                      tortoiseshellbracketleft cjk-tortoiseshellbracketleft            CJK Symbols and Punctuation             LEFT TORTOISE SHELL BRACKET
   3015 : cjk-tortoiseshellbracketright                     tortoiseshellbracketrightcjk-tortoiseshellbracketright           CJK Symbols and Punctuation             RIGHT TORTOISE SHELL BRACKET
+
+Combining Diacritical Marks
+   363 : cmb-a                                             acmb                     cmb-a                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER A
+   306 : cmb-breve                                         brevecmb                 cmb-breve                               Combining Diacritical Marks             COMBINING BREVE     
+   368 : cmb-c                                             ccmb                     cmb-c                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER C
+   310 : cmb-candrabindu                                   candrabinducmb           cmb-candrabindu                         Combining Diacritical Marks             COMBINING CANDRABINDU
+   30C : cmb-caron                                         caroncmb                 cmb-caron                               Combining Diacritical Marks             COMBINING CARON     
+   327 : cmb-cedilla                                       cedillacmb               cmb-cedilla                             Combining Diacritical Marks             COMBINING CEDILLA   
+   369 : cmb-d                                             dcmb                     cmb-d                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER D
+   308 : cmb-dieresis                                      dieresiscmb              cmb-dieresis                            Combining Diacritical Marks             COMBINING DIAERESIS 
+   307 : cmb-dotaccent                                     dotaccentcmb             cmb-dotaccent                           Combining Diacritical Marks             COMBINING DOT ABOVE 
+   364 : cmb-e                                             ecmb                     cmb-e                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER E
+   36A : cmb-h                                             hcmb                     cmb-h                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER H
+   30B : cmb-hungarumlaut                                  hungarumlautcmb          cmb-hungarumlaut                        Combining Diacritical Marks             COMBINING DOUBLE ACUTE ACCENT
+   365 : cmb-i                                             icmb                     cmb-i                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER I
+   345 : cmb-iotasubscript                                 iotasubscriptcmb         cmb-iotasubscript                       Combining Diacritical Marks             COMBINING GREEK YPOGEGRAMMENI
+   36B : cmb-m                                             mcmb                     cmb-m                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER M
+   304 : cmb-macron                                        macroncmb                cmb-macron                              Combining Diacritical Marks             COMBINING MACRON    
+   366 : cmb-o                                             ocmb                     cmb-o                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER O
+   328 : cmb-ogonek                                        ogonekcmb                cmb-ogonek                              Combining Diacritical Marks             COMBINING OGONEK    
+   305 : cmb-overline                                      overlinecmb              cmb-overline                            Combining Diacritical Marks             COMBINING OVERLINE  
+   36C : cmb-r                                             rcmb                     cmb-r                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER R
+   36D : cmb-t                                             tcmb                     cmb-t                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER T
+   33E : cmb-tildevertical                                 tildeverticalcmb         cmb-tildevertical                       Combining Diacritical Marks             COMBINING VERTICAL TILDE
+   367 : cmb-u                                             ucmb                     cmb-u                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER U
+   36E : cmb-v                                             vcmb                     cmb-v                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER V
+   36F : cmb-x                                             xcmb                     cmb-x                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER X
 
 Control Pictures
   2407 : cntr-bell                                         -                        cntr-bell                               Control Pictures                        SYMBOL FOR BELL     
@@ -2439,6 +2513,7 @@ General Punctuation
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     HORIZONTAL ELLIPSIS 
   2014 : gnrl-emdash                                       emdash                   gnrl-emdash                             General Punctuation                     EM DASH             
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     HYPHEN              
+  203E : overline                                          overline                 overline                                General Punctuation                     OVERLINE            
   2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     PARAGRAPH SEPARATOR 
   2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     PER MILLE SIGN      
 
@@ -2458,6 +2533,7 @@ Greek and Coptic
    3C7 : chi                                               chi                      chi                                     Greek and Coptic                        GREEK SMALL LETTER CHI
    3B3 : gamma                                             gamma                    gamma                                   Greek and Coptic                        GREEK SMALL LETTER GAMMA
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        GREEK SMALL LETTER IOTA
+   37A : iotasubscript                                     iotasubscript            iotasubscript                           Greek and Coptic                        GREEK YPOGEGRAMMENI 
    3DF : koppa                                             -                        koppa                                   Greek and Coptic                        GREEK SMALL LETTER KOPPA
    3BC : gr-mu                                             mu                       gr-mu                                   Greek and Coptic                        GREEK SMALL LETTER MU
    3BD : gr-nu                                             nu                       gr-nu                                   Greek and Coptic                        GREEK SMALL LETTER NU
@@ -3021,8 +3097,11 @@ Latin-1 Supplement
     B4 : acute                                             acute                    acute                                   Latin-1 Supplement                      ACUTE ACCENT        
     E4 : adieresis                                         adieresis                adieresis                               Latin-1 Supplement                      LATIN SMALL LETTER A WITH DIAERESIS
     E6 : ae                                                ae                       ae                                      Latin-1 Supplement                      LATIN SMALL LETTER AE
+    B8 : cedilla                                           cedilla                  cedilla                                 Latin-1 Supplement                      CEDILLA             
+    A8 : dieresis                                          dieresis                 dieresis                                Latin-1 Supplement                      DIAERESIS           
     EF : idieresis                                         idieresis                idieresis                               Latin-1 Supplement                      LATIN SMALL LETTER I WITH DIAERESIS
     EC : igrave                                            igrave                   igrave                                  Latin-1 Supplement                      LATIN SMALL LETTER I WITH GRAVE
+    AF : macron                                            macron                   macron                                  Latin-1 Supplement                      MACRON              
     F6 : odieresis                                         odieresis                odieresis                               Latin-1 Supplement                      LATIN SMALL LETTER O WITH DIAERESIS
     BD : onehalf                                           onehalf                  onehalf                                 Latin-1 Supplement                      VULGAR FRACTION ONE HALF
     BC : onequarter                                        onequarter               onequarter                              Latin-1 Supplement                      VULGAR FRACTION ONE QUARTER
@@ -3312,7 +3391,15 @@ Small Form Variants
   FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
 
 Spacing Modifier Letters
+   2D8 : breve                                             breve                    breve                                   Spacing Modifier Letters                BREVE               
+   2C7 : caron                                             caron                    caron                                   Spacing Modifier Letters                CARON               
+   2D9 : dotaccent                                         dotaccent                dotaccent                               Spacing Modifier Letters                DOT ABOVE           
+   2DD : hungarumlaut                                      hungarumlaut             hungarumlaut                            Spacing Modifier Letters                DOUBLE ACUTE ACCENT 
+   2DB : ogonek                                            ogonek                   ogonek                                  Spacing Modifier Letters                OGONEK              
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                SMALL TILDE         
+
+Supplemental Punctuation
+  2E2F : tildevertical                                     -                        tildevertical                           Supplemental Punctuation                VERTICAL TILDE      
 
 Tamil
    B85 : tml-a                                             taA                      tml-a                                   Tamil                                   TAMIL LETTER A      

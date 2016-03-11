@@ -79,7 +79,7 @@ def process(self):
 
     self.edit("BREVE", "breve")
 
-    self.edit("COMBINING", "cmb")
+    self.edit("COMBINING")
     self.replace("X", "x")
 
     # oddballs
@@ -89,6 +89,7 @@ def process(self):
     self.handleCase()
     # self.lower()
     self.compress()
+    self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange

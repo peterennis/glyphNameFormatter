@@ -68,6 +68,7 @@ _scriptPrefixes = {
     'miscellaneous': 'misc',
     'musical': 'music',
     'optical character recognition': 'ocr',
+    'combining diacritical marks': "cmb",
     'vedic': 've',
 }
 

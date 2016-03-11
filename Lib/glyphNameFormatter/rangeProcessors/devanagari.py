@@ -33,6 +33,7 @@ def process(self):
 
     # AGD uses camelcase, but there do not seem to be casing differences between the letters
     self.lower()
+    self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange

@@ -40,7 +40,7 @@ class GlyphName(GlyphNameProcessor):
         self.suffixParts = []
         self.finalParts = []
         self.mustAddScript = False  # set to True if we need to add script to disambiguate
-        self.latinCentric = True    # admit latincentric naming, if we can leave out latin tags, go for it
+        self.statsPrefixRequested = False
         self._log = []
         self.verbose = verbose
 
@@ -205,6 +205,7 @@ class GlyphName(GlyphNameProcessor):
             self.suffixParts.append(namePart)
 
     def scriptPrefix(self):
+        self.statsPrefixRequested = True
         self.mustAddScript = True
 
     def final(self, namePart):
