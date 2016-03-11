@@ -10,16 +10,19 @@ import subprocess
 
 def getExportVersionNumber():
     commitNumber = subprocess.check_output(["git", "rev-list", "HEAD", "--count"])
+    commitNumber = commitNumber.strip()
     return "%s - git commit: %s" % (__version__, commitNumber)
 
 
 def generateFlat(path, onlySupported=True):
     data = [
-        "# glyph name formatted unicode list aka GNFUL",
+        "# Glyph Name Formatted Unicode List - GNFUL",
         "# GlyphNameFormatter version %s" % getExportVersionNumber(),
         "# generated on %s" % time.strftime("%Y %m %d %H:%M:%S"),
+        "#",
         "# format",
-        "# <glyphName> <hex unicode>"
+        "# <glyphName> <hex unicode>",
+        "#",
     ]
     for rangeName in getAllRangeNames():
         if onlySupported:
