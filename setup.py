@@ -1,11 +1,14 @@
 #!/usr/bin/env python
 
 from distutils.core import setup
+import re
+
 
 version = ''
 with open('Lib/glyphNameFormatter/__init__.py', 'r') as fd:
     version = re.search(r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]',
                         fd.read(), re.MULTILINE).group(1)
+
 
 setup(name = "Glyph Name Formatter",
       version = version,
