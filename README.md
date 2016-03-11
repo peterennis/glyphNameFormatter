@@ -19,16 +19,19 @@ Look at `/names/glyphNamesToUnicode.txt` for a useful name to unicode map.
 
 ### Contributions
 
-This release is not meant to be final. Many ranges have basic coverage but could be improved. Some Unicode names are wrong and then get translated wrong. If you find things wrong and would like to share this insight, we're accepting pull requests. A public discussion about the prefixing and suffixing of names would also be useful.
+This release is not meant to be final. Many ranges have basic coverage but could be improved. Some Unicode names are wrong and then get translated wrong. The list does not claim authority or completeness. 
+
+If you find things wrong and would like to share this insight, we're accepting comments, [open an issue](https://github.com/LettError/glyphNameFormatter/issues). If you see how the system works we will also gladly consider pull requests. If you would like to see certain ranges supported, let us know.
+
+A public discussion about the prefixing and suffixing of names would also be useful.
+
+This version acknowledges the help by Daniel, Bahman and Ilya. 
 
 ### Rules
 
-* Glyph names should, as much as possible, only have script tags to disambiguate. Otherwise all names are equal. So `gaf` rather than `arGaf` for `ARABIC LETTER GAF`, or `Uk` rather than `Ukcyrillic` for `CYRILLIC CAPITAL LETTER UK`.
-* Script specific prefix or suffix.
-* Short script prefix or suffix.
-* Disambiguation prefix or suffix can be added after clash detection with all names.
-* If a name needs to include a language, this is added to the end: `yehfarsi.isol` for	`ARABIC LETTER FARSI YEH ISOLATED FORM`
-* If an AGD name has a language but it is not needed for disambiguation and Unicode does not mention it, it can be ignored. For instance `kgreenlandic` can just be	`kra`.
+* Glyph names should, as much as possible, only have script tags to disambiguate.
+* Detect when script specific prefix or suffix is necessary
+* Keep script prefix or suffix short
 
 ## Making lists
 
