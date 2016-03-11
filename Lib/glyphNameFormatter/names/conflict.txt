@@ -52,6 +52,9 @@
    3A9 : Omega                                             Omega                    Omega                                   Greek and Coptic                        GREEK CAPITAL LETTER OMEGA
    460 : Omegacyr                                          Omegacyrillic            Omegacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER OMEGA
 
+   3A8 : Psi                                               Psi                      Psi                                     Greek and Coptic                        GREEK CAPITAL LETTER PSI
+   470 : Psicyr                                            Psicyrillic              Psicyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER PSI
+
    18F : Schwa                                             Schwa                    Schwa                                   Latin Extended-B                        LATIN CAPITAL LETTER SCHWA
    4D8 : Schwacyr                                          Schwacyr                 Schwacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER SCHWA
 
@@ -1294,6 +1297,9 @@
   307D : hi-po                                             pohiragana               hi-po                                   Hiragana                                HIRAGANA LETTER PO  
   30DD : ka-po                                             pokatakana               ka-po                                   Katakana                                KATAKANA LETTER PO  
 
+   3C8 : psi                                               psi                      psi                                     Greek and Coptic                        GREEK SMALL LETTER PSI
+   471 : psicyr                                            psicyrillic              psicyr                                  Cyrillic                                CYRILLIC SMALL LETTER PSI
+
   1351 : et-pu                                             -                        et-pu                                   Ethiopic                                ETHIOPIC SYLLABLE PU
   3077 : hi-pu                                             puhiragana               hi-pu                                   Hiragana                                HIRAGANA LETTER PU  
   30D7 : ka-pu                                             pukatakana               ka-pu                                   Katakana                                KATAKANA LETTER PU  
@@ -1930,7 +1936,7 @@
   12D9 : et-zu                                             -                        et-zu                                   Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hi-zu                                             zuhiragana               hi-zu                                   Hiragana                                HIRAGANA LETTER ZU  
   30BA : ka-zu                                             zukatakana               ka-zu                                   Katakana                                KATAKANA LETTER ZU  
-# 346 names with conflicts, affecting 1584 unicodes
+# 348 names with conflicts, affecting 1588 unicodes
 
 
 Conflicts by rangename
@@ -2238,6 +2244,7 @@ Cyrillic
    4E8 : Obarcyr                                           Obarcyr                  Obarcyr                                 Cyrillic                                CYRILLIC CAPITAL LETTER BARRED O
    4E6 : Odieresiscyr                                      Odieresiscyr             Odieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER O WITH DIAERESIS
    460 : Omegacyr                                          Omegacyrillic            Omegacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER OMEGA
+   470 : Psicyr                                            Psicyrillic              Psicyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER PSI
    4D8 : Schwacyr                                          Schwacyr                 Schwacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER SCHWA
    428 : Shacyr                                            Sha                      Shacyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER SHA
    423 : Ucyr                                              Ucyr                     Ucyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER U
@@ -2268,6 +2275,7 @@ Cyrillic
    4E7 : odieresiscyr                                      odieresiscyr             odieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER O WITH DIAERESIS
    461 : omegacyr                                          omegacyrillic            omegacyr                                Cyrillic                                CYRILLIC SMALL LETTER OMEGA
    43F : pecyr                                             pe                       pecyr                                   Cyrillic                                CYRILLIC SMALL LETTER PE
+   471 : psicyr                                            psicyrillic              psicyr                                  Cyrillic                                CYRILLIC SMALL LETTER PSI
    4D9 : schwacyr                                          schwacyr                 schwacyr                                Cyrillic                                CYRILLIC SMALL LETTER SCHWA
    448 : shacyr                                            sha                      shacyr                                  Cyrillic                                CYRILLIC SMALL LETTER SHA
    442 : tecyr                                             te                       tecyr                                   Cyrillic                                CYRILLIC SMALL LETTER TE
@@ -2533,6 +2541,7 @@ Greek Extended
 Greek and Coptic
    3DE : Koppa                                             Koppagreek               Koppa                                   Greek and Coptic                        GREEK LETTER KOPPA  
    3A9 : Omega                                             Omega                    Omega                                   Greek and Coptic                        GREEK CAPITAL LETTER OMEGA
+   3A8 : Psi                                               Psi                      Psi                                     Greek and Coptic                        GREEK CAPITAL LETTER PSI
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        GREEK SMALL LETTER ALPHA
    3C7 : chi                                               chi                      chi                                     Greek and Coptic                        GREEK SMALL LETTER CHI
    3B3 : gamma                                             gamma                    gamma                                   Greek and Coptic                        GREEK SMALL LETTER GAMMA
@@ -2544,6 +2553,7 @@ Greek and Coptic
    3C9 : omega                                             omega                    omega                                   Greek and Coptic                        GREEK SMALL LETTER OMEGA
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        GREEK SMALL LETTER PHI
    3C0 : gr-pi                                             pi                       gr-pi                                   Greek and Coptic                        GREEK SMALL LETTER PI
+   3C8 : psi                                               psi                      psi                                     Greek and Coptic                        GREEK SMALL LETTER PSI
    37E : gr-question                                       questiongreek            gr-question                             Greek and Coptic                        GREEK QUESTION MARK 
    3F8 : gr-sho                                            -                        gr-sho                                  Greek and Coptic                        GREEK SMALL LETTER SHO
    3C5 : upsilon                                           upsilon                  upsilon                                 Greek and Coptic                        GREEK SMALL LETTER UPSILON
