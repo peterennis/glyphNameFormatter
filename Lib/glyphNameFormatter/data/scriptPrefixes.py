@@ -1,6 +1,36 @@
+import os
 from glyphNameFormatter.tools import GlyphNameFormatterError
 
+
+SEPARATOR = "-"
+
+
+def loadScripTags():
+    data = {}
+    path = os.path.dirname(__file__)
+    path = os.path.join(path, "scriptTags.txt")
+
+    f = open(path, "r")
+    lines = f.readlines()
+    f.close()
+
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        elif line.startswith("#"):
+            continue
+        else:
+            script, tag = line.split(":")
+            script = script.strip()
+            tag = tag.strip()
+            data[script.lower()] = tag
+    return data
+
+
 class ScriptPrefixesDict(dict):
+
+    _fallbackScripPrefixes = loadScripTags()
 
     def __getitem__(self, key):
         # get the key
@@ -25,19 +55,22 @@ class ScriptPrefixesDict(dict):
                 # found it
                 return dict.__getitem__(self, existingKey)
         # fallback
+        if key in self._fallbackScripPrefixes:
+            return self._fallbackScripPrefixes[key]
+        # generate one
         # remove all vowels
         key = [c for c in key if c not in "aeiou -"]
         # return the first four values
         return "".join(key[:4])
 
 
-def addScriptPrefix(txt, tag=None, script=None):
+def addScriptPrefix(txt, tag=None, script=None, separator=SEPARATOR):
     if tag is None and script is None:
         raise GlyphNameFormatterError("Need a script or a tag")
     if tag is None:
         tag = scriptPrefixes[script]
     if "%s" not in tag:
-        tag = "%s-%%s" % tag
+        tag = "%s%s%%s" % (tag, separator)
     return tag % txt
 
 # script prefixes are abbreviations of a script
@@ -54,7 +87,7 @@ _scriptPrefixes = {
     'ethiopic': "et",
     'greek': 'gr',
     'hangul': 'ko',
-    'hebrew': '%s-hb',
+    'hebrew': '%%s%shb' % SEPARATOR,
     'hiragana': 'hi',
     'ipa': 'ipa',
     'kannada': "kn",
@@ -74,6 +107,7 @@ _scriptPrefixes = {
 
 scriptPrefixes = ScriptPrefixesDict(_scriptPrefixes)
 
+
 if __name__ == "__main__":
     import doctest
 
@@ -87,6 +121,8 @@ if __name__ == "__main__":
         'gr'
         >>> scriptPrefixes["Enclosed CJK letters and months"]
         'cjk'
+        >>> scriptPrefixes["Tai Le"]
+        'tale'
         """
 
     doctest.testmod()
