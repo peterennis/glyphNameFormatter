@@ -82,11 +82,6 @@ def process(self):
 
     self.edit("COMBINING", "cmb")
 
-    self.replace("CAPITAL LETTER KSI", addScriptPrefix("Ksi", script="Cyrillic"))
-    self.replace("SMALL LETTER KSI", addScriptPrefix("ksi", script="Cyrillic"))
-    self.replace("CAPITAL LETTER PSI", addScriptPrefix("Psi", script="Cyrillic"))
-    self.replace("SMALL LETTER PSI", addScriptPrefix("psi", script="Cyrillic"))
-
     self.processDiacritics()
     self.handleCase()
 
