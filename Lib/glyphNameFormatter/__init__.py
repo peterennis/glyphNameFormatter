@@ -13,6 +13,9 @@ from rangeProcessors import GlyphNameProcessor
 from tools import unicodeToChar
 
 
+__version__ = "0.1"
+
+
 def debug(uniNumber):
     # trace the processing of a specific number
     glyphName = GlyphName(uniNumber=uniNumber, verbose=True)

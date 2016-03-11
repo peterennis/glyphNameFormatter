@@ -1,12 +1,26 @@
-from glyphNameFormatter import GlyphName
+from glyphNameFormatter import GlyphName, __version__
 
 from glyphNameFormatter.unicodeRangeNames import getAllRangeNames, getRangeByName, rangeNameToModuleName
 
 import importlib
+import time
+
+import subprocess
+import pkg_resources
+
+
+
+def getExportVersionNumber():
+    commitNumber = subprocess.check_output(["git", "rev-list", "HEAD", "--count"])
+    __version__
+    return "%s - git commit: %s" % (__version__, commitNumber)
 
 
 def generateFlat(path, onlySupported=True):
     data = [
+        "# glyph name formatted unicode list aka GNFUL",
+        "# GlyphNameFormatter version %s" % getExportVersionNumber(),
+        "# generated on %s" % time.strftime("%Y %m %d %H:%M:%S"),
         "# format",
         "# <glyphName> <hex unicode>"
     ]

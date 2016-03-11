@@ -2,8 +2,13 @@
 
 from distutils.core import setup
 
+version = ''
+with open('Lib/glyphNameFormatter/__init__.py', 'r') as fd:
+    version = re.search(r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]',
+                        fd.read(), re.MULTILINE).group(1)
+
 setup(name = "Glyph Name Formatter",
-      version = "0.1",
+      version = version,
       description = "Generate list of glyphnames from unicode names.",
       author = "Erik van Blokland, Frederik Berlaen",
       author_email = "erik@letterror.com, frederik@typemytype.com",
