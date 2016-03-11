@@ -1,14 +1,25 @@
-# glyphNameFormatter
+# GlyphNameFormatter
 
-Experimental system for generating glyph name lists from unicode data. 
+A system for generating glyph name lists from unicode data. 
 
 * Unicode has long and descriptive names for each character.
 * Font editors need glyph names to easily identify the glyphs, short, unique, can't use space
 * Raw Unicode names are unsuitable for this purpose in font editors
-* Font editors then use their own lists that map names to unicode values.
+* Font editors use their own lists that map names to unicode values.
 * These lists only cover the glyphs that were needed in production, so there are often holes in the coverage.
 * These lists should not dictate what is useful or not in a font but offer reliable unicode to name mapping.
 * Adobe standardized some lists years ago, standard, but incomplete and immutable
+
+### Glyph Name Formatted Unicode List Release 0.1
+
+[download](https://github.com/LettError/glyphNameFormatter/releases)
+
+Release 0.1 offers (almost) the same coverage as the Adobe Glyph Dictionary, AGD.txt
+Look at `/names/glyphNamesToUnicode.txt` for a useful name to unicode map.
+
+### Contributions
+
+This release is not meant to be final. Many ranges have basic coverage but could be improved. Some Unicode names are wrong and then get translated wrong. If you find things wrong and would like to share this insight, we're accepting pull requests. A public discussion about the prefixing and suffixing of names would also be useful.
 
 ### Rules
 
