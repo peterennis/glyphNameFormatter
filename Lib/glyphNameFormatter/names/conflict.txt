@@ -143,6 +143,9 @@
   311E : bpmf-ai                                           aibopomofo               bpmf-ai                                 Bopomofo                                BOPOMOFO LETTER AI  
   A98D : ja-ai                                             -                        ja-ai                                   Javanese                                JAVANESE LETTER AI  
 
+   B56 : ry-ailengthmark                                   odAilength               ry-ailengthmark                         Oriya                                   ORIYA AI LENGTH MARK
+   C56 : tlg-ailengthmark                                  teAilength               tlg-ailengthmark                        Telugu                                  TELUGU AI LENGTH MARK
+
    639 : ar-ain                                            arAin                    ar-ain                                  Arabic                                  ARABIC LETTER AIN   
   1D25 : phnt-ain                                          -                        phnt-ain                                Phonetic Extensions                     LATIN LETTER AIN    
 
@@ -197,6 +200,7 @@
   A737 : au                                                -                        au                                      Latin Extended-D                        LATIN SMALL LETTER AU
 
    9D7 : bngl-aulengthmark                                 beAulength               bngl-aulengthmark                       Bengali                                 BENGALI AU LENGTH MARK
+   B57 : ry-aulengthmark                                   odAulength               ry-aulengthmark                         Oriya                                   ORIYA AU LENGTH MARK
    BD7 : tml-aulengthmark                                  taAulength               tml-aulengthmark                        Tamil                                   TAMIL AU LENGTH MARK
 
    94C : dv-ausign                                         dvAusign                 dv-ausign                               Devanagari                              DEVANAGARI VOWEL SIGN AU
@@ -280,7 +284,7 @@
     7D : braceright                                        braceright               braceright                              Basic Latin                             RIGHT CURLY BRACKET 
   FE5C : smll-braceright                                   bracerightsmall          smll-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
 
-   2D8 : breve                                             breve                    breve                                   Spacing Modifier Letters                BREVE               
+   2D8 : spcn-breve                                        breve                    spcn-breve                              Spacing Modifier Letters                BREVE               
    306 : cmb-breve                                         brevecmb                 cmb-breve                               Combining Diacritical Marks             COMBINING BREVE     
 
   1261 : et-bu                                             -                        et-bu                                   Ethiopic                                ETHIOPIC SYLLABLE BU
@@ -310,7 +314,7 @@
    981 : bngl-candrabindu                                  beCandrabindu            bngl-candrabindu                        Bengali                                 BENGALI SIGN CANDRABINDU
    B01 : ry-candrabindu                                    odCandrabindu            ry-candrabindu                          Oriya                                   ORIYA SIGN CANDRABINDU
 
-   2C7 : caron                                             caron                    caron                                   Spacing Modifier Letters                CARON               
+   2C7 : spcn-caron                                        caron                    spcn-caron                              Spacing Modifier Letters                CARON               
    30C : cmb-caron                                         caroncmb                 cmb-caron                               Combining Diacritical Marks             COMBINING CARON     
 
     B8 : cedilla                                           cedilla                  cedilla                                 Latin-1 Supplement                      CEDILLA             
@@ -437,7 +441,7 @@
     24 : dollar                                            dollar                   dollar                                  Basic Latin                             DOLLAR SIGN         
   FE69 : smll-dollar                                       dollarsmall              smll-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
 
-   2D9 : dotaccent                                         dotaccent                dotaccent                               Spacing Modifier Letters                DOT ABOVE           
+   2D9 : spcn-dotaccent                                    dotaccent                spcn-dotaccent                          Spacing Modifier Letters                DOT ABOVE           
    307 : cmb-dotaccent                                     dotaccentcmb             cmb-dotaccent                           Combining Diacritical Marks             COMBINING DOT ABOVE 
 
   12F1 : et-du                                             -                        et-du                                   Ethiopic                                ETHIOPIC SYLLABLE DU
@@ -717,7 +721,7 @@
   3075 : hi-hu                                             huhiragana               hi-hu                                   Hiragana                                HIRAGANA LETTER HU  
   30D5 : ka-hu                                             hukatakana               ka-hu                                   Katakana                                KATAKANA LETTER HU  
 
-   2DD : hungarumlaut                                      hungarumlaut             hungarumlaut                            Spacing Modifier Letters                DOUBLE ACUTE ACCENT 
+   2DD : spcn-hungarumlaut                                 hungarumlaut             spcn-hungarumlaut                       Spacing Modifier Letters                DOUBLE ACUTE ACCENT 
    30B : cmb-hungarumlaut                                  hungarumlautcmb          cmb-hungarumlaut                        Combining Diacritical Marks             COMBINING DOUBLE ACUTE ACCENT
 
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             HYPHEN-MINUS        
@@ -784,7 +788,7 @@
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        GREEK SMALL LETTER IOTA
 
    345 : cmb-iotasubscript                                 iotasubscriptcmb         cmb-iotasubscript                       Combining Diacritical Marks             COMBINING GREEK YPOGEGRAMMENI
-   37A : iotasubscript                                     iotasubscript            iotasubscript                           Greek and Coptic                        GREEK YPOGEGRAMMENI 
+   37A : gr-iotasubscript                                  iotasubscript            gr-iotasubscript                        Greek and Coptic                        GREEK YPOGEGRAMMENI 
 
    93F : dv-isign                                          dvIsign                  dv-isign                                Devanagari                              DEVANAGARI VOWEL SIGN I
    9BF : bngl-isign                                        beIsign                  bngl-isign                              Bengali                                 BENGALI VOWEL SIGN I
@@ -1140,7 +1144,7 @@
   1825 : mo-oe                                             -                        mo-oe                                   Mongolian                               MONGOLIAN LETTER OE 
   315A : ko-oe                                             oekorean                 ko-oe                                   Hangul Compatibility Jamo               HANGUL LETTER OE    
 
-   2DB : ogonek                                            ogonek                   ogonek                                  Spacing Modifier Letters                OGONEK              
+   2DB : spcn-ogonek                                       ogonek                   spcn-ogonek                             Spacing Modifier Letters                OGONEK              
    328 : cmb-ogonek                                        ogonekcmb                cmb-ogonek                              Combining Diacritical Marks             COMBINING OGONEK    
 
   FF75 : hlfw-ohalfwidth                                   okatakanahalfwidth       hlfw-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER O
@@ -1214,7 +1218,7 @@
   3121 : bpmf-ou                                           oubopomofo               bpmf-ou                                 Bopomofo                                BOPOMOFO LETTER OU  
 
    305 : cmb-overline                                      overlinecmb              cmb-overline                            Combining Diacritical Marks             COMBINING OVERLINE  
-  203E : overline                                          overline                 overline                                General Punctuation                     OVERLINE            
+  203E : gnrl-overline                                     overline                 gnrl-overline                           General Punctuation                     OVERLINE            
 
     70 : p                                                 p                        p                                       Basic Latin                             LATIN SMALL LETTER P
   3106 : bpmf-p                                            pbopomofo                bpmf-p                                  Bopomofo                                BOPOMOFO LETTER P   
@@ -1583,7 +1587,7 @@
   1FC0 : gr-tilde                                          perispomeni              gr-tilde                                Greek Extended                          GREEK PERISPOMENI   
 
    33E : cmb-tildevertical                                 tildeverticalcmb         cmb-tildevertical                       Combining Diacritical Marks             COMBINING VERTICAL TILDE
-  2E2F : tildevertical                                     -                        tildevertical                           Supplemental Punctuation                VERTICAL TILDE      
+  2E2F : sppl-tildevertical                                -                        sppl-tildevertical                      Supplemental Punctuation                VERTICAL TILDE      
 
    569 : am-to                                             toarmenian               am-to                                   Armenian                                ARMENIAN SMALL LETTER TO
   1276 : et-to                                             -                        et-to                                   Ethiopic                                ETHIOPIC SYLLABLE TO
@@ -1926,7 +1930,7 @@
   12D9 : et-zu                                             -                        et-zu                                   Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hi-zu                                             zuhiragana               hi-zu                                   Hiragana                                HIRAGANA LETTER ZU  
   30BA : ka-zu                                             zukatakana               ka-zu                                   Katakana                                KATAKANA LETTER ZU  
-# 345 names with conflicts, affecting 1581 unicodes
+# 346 names with conflicts, affecting 1584 unicodes
 
 
 Conflicts by rangename
@@ -2513,7 +2517,7 @@ General Punctuation
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     HORIZONTAL ELLIPSIS 
   2014 : gnrl-emdash                                       emdash                   gnrl-emdash                             General Punctuation                     EM DASH             
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     HYPHEN              
-  203E : overline                                          overline                 overline                                General Punctuation                     OVERLINE            
+  203E : gnrl-overline                                     overline                 gnrl-overline                           General Punctuation                     OVERLINE            
   2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     PARAGRAPH SEPARATOR 
   2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     PER MILLE SIGN      
 
@@ -2533,7 +2537,7 @@ Greek and Coptic
    3C7 : chi                                               chi                      chi                                     Greek and Coptic                        GREEK SMALL LETTER CHI
    3B3 : gamma                                             gamma                    gamma                                   Greek and Coptic                        GREEK SMALL LETTER GAMMA
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        GREEK SMALL LETTER IOTA
-   37A : iotasubscript                                     iotasubscript            iotasubscript                           Greek and Coptic                        GREEK YPOGEGRAMMENI 
+   37A : gr-iotasubscript                                  iotasubscript            gr-iotasubscript                        Greek and Coptic                        GREEK YPOGEGRAMMENI 
    3DF : koppa                                             -                        koppa                                   Greek and Coptic                        GREEK SMALL LETTER KOPPA
    3BC : gr-mu                                             mu                       gr-mu                                   Greek and Coptic                        GREEK SMALL LETTER MU
    3BD : gr-nu                                             nu                       gr-nu                                   Greek and Coptic                        GREEK SMALL LETTER NU
@@ -3282,9 +3286,11 @@ Oriya
    B06 : ry-aa                                             odAa                     ry-aa                                   Oriya                                   ORIYA LETTER AA     
    B3E : ry-aasign                                         odAasign                 ry-aasign                               Oriya                                   ORIYA VOWEL SIGN AA 
    B10 : ry-ai                                             odAi                     ry-ai                                   Oriya                                   ORIYA LETTER AI     
+   B56 : ry-ailengthmark                                   odAilength               ry-ailengthmark                         Oriya                                   ORIYA AI LENGTH MARK
    B48 : ry-aisign                                         odAisign                 ry-aisign                               Oriya                                   ORIYA VOWEL SIGN AI 
    B02 : ry-anusvara                                       odAnusvara               ry-anusvara                             Oriya                                   ORIYA SIGN ANUSVARA 
    B14 : ry-au                                             odAu                     ry-au                                   Oriya                                   ORIYA LETTER AU     
+   B57 : ry-aulengthmark                                   odAulength               ry-aulengthmark                         Oriya                                   ORIYA AU LENGTH MARK
    B4C : ry-ausign                                         odAusign                 ry-ausign                               Oriya                                   ORIYA VOWEL SIGN AU 
    B3D : ry-avagraha                                       odAvagraha               ry-avagraha                             Oriya                                   ORIYA SIGN AVAGRAHA 
    B2C : ry-ba                                             odBa                     ry-ba                                   Oriya                                   ORIYA LETTER BA     
@@ -3391,15 +3397,15 @@ Small Form Variants
   FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
 
 Spacing Modifier Letters
-   2D8 : breve                                             breve                    breve                                   Spacing Modifier Letters                BREVE               
-   2C7 : caron                                             caron                    caron                                   Spacing Modifier Letters                CARON               
-   2D9 : dotaccent                                         dotaccent                dotaccent                               Spacing Modifier Letters                DOT ABOVE           
-   2DD : hungarumlaut                                      hungarumlaut             hungarumlaut                            Spacing Modifier Letters                DOUBLE ACUTE ACCENT 
-   2DB : ogonek                                            ogonek                   ogonek                                  Spacing Modifier Letters                OGONEK              
+   2D8 : spcn-breve                                        breve                    spcn-breve                              Spacing Modifier Letters                BREVE               
+   2C7 : spcn-caron                                        caron                    spcn-caron                              Spacing Modifier Letters                CARON               
+   2D9 : spcn-dotaccent                                    dotaccent                spcn-dotaccent                          Spacing Modifier Letters                DOT ABOVE           
+   2DD : spcn-hungarumlaut                                 hungarumlaut             spcn-hungarumlaut                       Spacing Modifier Letters                DOUBLE ACUTE ACCENT 
+   2DB : spcn-ogonek                                       ogonek                   spcn-ogonek                             Spacing Modifier Letters                OGONEK              
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                SMALL TILDE         
 
 Supplemental Punctuation
-  2E2F : tildevertical                                     -                        tildevertical                           Supplemental Punctuation                VERTICAL TILDE      
+  2E2F : sppl-tildevertical                                -                        sppl-tildevertical                      Supplemental Punctuation                VERTICAL TILDE      
 
 Tamil
    B85 : tml-a                                             taA                      tml-a                                   Tamil                                   TAMIL LETTER A      
@@ -3472,6 +3478,7 @@ Telugu
    C06 : tlg-aa                                            teAa                     tlg-aa                                  Telugu                                  TELUGU LETTER AA    
    C3E : tlg-aasign                                        teAasign                 tlg-aasign                              Telugu                                  TELUGU VOWEL SIGN AA
    C10 : tlg-ai                                            teAi                     tlg-ai                                  Telugu                                  TELUGU LETTER AI    
+   C56 : tlg-ailengthmark                                  teAilength               tlg-ailengthmark                        Telugu                                  TELUGU AI LENGTH MARK
    C48 : tlg-aisign                                        teAisign                 tlg-aisign                              Telugu                                  TELUGU VOWEL SIGN AI
    C02 : tlg-anusvarasign                                  teAnusvara               tlg-anusvarasign                        Telugu                                  TELUGU SIGN ANUSVARA
    C14 : tlg-au                                            teAu                     tlg-au                                  Telugu                                  TELUGU LETTER AU    

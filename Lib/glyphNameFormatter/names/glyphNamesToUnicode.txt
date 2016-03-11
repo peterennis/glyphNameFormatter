@@ -440,7 +440,7 @@ dz 01F3
 Gacute 01F4
 gacute 01F5
 Hwair 01F6
-wynn 01F7
+Wynn 01F7
 Ngrave 01F8
 ngrave 01F9
 Aringacute 01FA

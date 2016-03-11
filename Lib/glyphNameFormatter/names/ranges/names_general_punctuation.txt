@@ -61,7 +61,7 @@
 203B	referencemark	REFERENCE MARK
 203C	exclamdbl	DOUBLE EXCLAMATION MARK
 203D	interrobang	INTERROBANG
-203E	overline	OVERLINE
+203E	gnrl-overline	OVERLINE
 203F	undertie	UNDERTIE
 2040	charactertie	CHARACTER TIE
 2041	caretinsertionpoint	CARET INSERTION POINT

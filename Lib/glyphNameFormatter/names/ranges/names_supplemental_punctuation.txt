@@ -46,6 +46,6 @@
 2E2C	dotsquarefour	SQUARED FOUR DOT PUNCTUATION
 2E2D	fivedot	FIVE DOT MARK
 2E2E	questionreversed	REVERSED QUESTION MARK
-2E2F	tildevertical	VERTICAL TILDE
+2E2F	sppl-tildevertical	VERTICAL TILDE
 2E30	pointring	RING POINT
 2E31	wordseparatormiddledot	WORD SEPARATOR MIDDLE DOT

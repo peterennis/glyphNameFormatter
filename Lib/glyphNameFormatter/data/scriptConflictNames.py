@@ -34,6 +34,7 @@ scriptConflictNames = [
     "ae",
     "ahalfwidth",
     "ai",
+    "ailengthmark",
     "ain",
     "aisign",
     "alef",
