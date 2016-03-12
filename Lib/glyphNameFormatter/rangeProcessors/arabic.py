@@ -23,7 +23,7 @@ def process(self):
     # ligatures
     self.edit("ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA", "sad_lam_alefmaksuraabove")
     self.edit("ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA", "qaf_lam_alefmaksuraabove")
-    self.edit("ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH", "alef_lam_yehabove")
+    self.edit("ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH", "alefLamYehabove")
     self.edit("ARABIC SMALL HIGH MEEM ISOLATED FORM", "meemabove")
 
     # letters
