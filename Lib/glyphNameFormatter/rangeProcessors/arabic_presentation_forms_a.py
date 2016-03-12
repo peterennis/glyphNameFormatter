@@ -7,6 +7,15 @@ def process(self):
     # Final ligature: the LAST component is FINA and the rest are MEDI
     # Isolate ligature: The LAST components is FINA, the fist components is INIT and the rest are MEDI
 
+    # and now we're using camelcase?
+    inevitableExceptions = {
+        "ARABIC LIGATURE SHADDA WITH DAMMATAN ISOLATED FORM":   "shaddadamatan",
+    }
+    for k, v in inevitableExceptions.items():
+        if k == self.uniName:
+            self.edit(k, v)
+            return
+
     if self.has("LIGATURE"):
         self.processAs("Helper Arabic Ligature")
     else:

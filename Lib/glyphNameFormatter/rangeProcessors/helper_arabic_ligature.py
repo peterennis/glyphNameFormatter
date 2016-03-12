@@ -13,6 +13,7 @@ def process(self):
 
     parts = self.uniName.split(" ")
 
+
     # get the type, initial, medial, final or isolated.
     ligatureType = 'other'
     lastNameIndex=len(parts)
@@ -107,3 +108,4 @@ if __name__ == "__main__":
     assert GlyphName(uniNumber=0xFC5D).getName() == "alefmaksura.init_superscriptalef.fina"
     assert GlyphName(uniNumber=0xFC40).getName() == "lam.init_hah.fina"
     assert GlyphName(uniNumber=0xFBFC).getName() == "yehfarsi.isol"
+    

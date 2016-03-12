@@ -1,6 +1,6 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 256
-# generated on 2016 03 12 16:13:09
+# GlyphNameFormatter version 0.1 - git commit: 257
+# generated on 2016 03 12 17:18:51
 #
 # format
 # <glyphName> <hex unicode>
@@ -1646,7 +1646,7 @@ RubElHizbstart 06DE
 roundedzeroabove 06DF
 zerosquareabove 06E0
 dotlesskhahabove 06E1
-meemabove.isol 06E2
+meemabove 06E2
 seenlow 06E3
 maddaabove 06E4
 wawsmall 06E5
@@ -7768,7 +7768,7 @@ yeh.init_yeh.fina FC5A
 thal.init_superscriptalef.fina FC5B
 reh.init_superscriptalef.fina FC5C
 alefmaksura.init_superscriptalef.fina FC5D
-shadda.init_dammatan.fina FC5E
+shaddadamatan FC5E
 shadda.init_kasratan.fina FC5F
 shadda.init_fatha.fina FC60
 shadda.init_damma.fina FC61
@@ -8201,7 +8201,7 @@ fathatan.isol FE70
 tatweelfathatanabove FE71
 dammatan.isol FE72
 tailfragment FE73
-kasratan.isol FE74
+kasratan FE74
 fatha.isol FE76
 fatha.medi FE77
 damma.isol FE78

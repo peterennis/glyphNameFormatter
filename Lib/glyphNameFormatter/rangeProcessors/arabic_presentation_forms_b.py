@@ -8,6 +8,7 @@ def process(self):
     # Isolate ligature: The LAST components is FINA, the fist components is INIT and the rest are MEDI
 
     self.edit("ARABIC TATWEEL WITH FATHATAN ABOVE", "tatweelfathatanabove")
+    self.edit("ARABIC KASRATAN ISOLATED FORM", "kasratan")
     if self.has("LIGATURE"):
         self.processAs("Helper Arabic Ligature")
     else:
