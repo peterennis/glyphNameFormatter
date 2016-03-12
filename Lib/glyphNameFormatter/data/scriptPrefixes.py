@@ -1,4 +1,6 @@
 import os
+from xml.etree import ElementTree as ET
+
 from glyphNameFormatter.tools import GlyphNameFormatterError
 
 
@@ -8,20 +10,13 @@ SEPARATOR = "-"
 def loadScripTags():
     data = {}
     path = os.path.dirname(__file__)
-    path = os.path.join(path, "scriptTags.txt")
+    path = os.path.join(path, "scriptTags.html")
+    doc = ET.parse(path)
+    table = doc.getroot()
 
-    f = open(path, "r")
-    lines = f.readlines()
-    f.close()
-
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-        elif line.startswith("#"):
-            continue
-        else:
-            script, tag = line.split(":")
+    for row in table:
+        for i in row[1:]:
+            script, tag = [col.text for col in i]
             script = script.strip()
             tag = tag.strip()
             data[script.lower()] = tag
