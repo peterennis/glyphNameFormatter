@@ -9,6 +9,9 @@ def process(self):
 
     self.edit("ARABIC TATWEEL WITH FATHATAN ABOVE", "tatweelfathatanabove")
     self.edit("ARABIC KASRATAN ISOLATED FORM", "kasratan")
+    self.edit("ARABIC FATHA MEDIAL FORM", "fathamedial")
+    self.edit("ARABIC LETTER ALEF WITH HAMZA ABOVE ISOLATED FORM", "alefhamzaabove.isol")
+
     if self.has("LIGATURE"):
         self.processAs("Helper Arabic Ligature")
     else:
