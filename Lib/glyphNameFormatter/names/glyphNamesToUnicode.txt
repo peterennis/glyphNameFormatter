@@ -1,6 +1,6 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 255
-# generated on 2016 03 12 14:59:41
+# GlyphNameFormatter version 0.1 - git commit: 256
+# generated on 2016 03 12 16:13:09
 #
 # format
 # <glyphName> <hex unicode>

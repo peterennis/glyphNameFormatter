@@ -4,7 +4,8 @@ from xml.etree import ElementTree as ET
 from glyphNameFormatter.tools import GlyphNameFormatterError
 
 
-SEPARATOR = "-"
+SCRIPTSEPARATOR = "-"
+SCRIPTASPREFIX = True
 
 
 def loadScripTags():
@@ -59,14 +60,22 @@ class ScriptPrefixesDict(dict):
         return "".join(key[:4])
 
 
-def addScriptPrefix(txt, tag=None, script=None, separator=SEPARATOR):
+def addScriptPrefix(txt, tag=None, script=None, separator=SCRIPTSEPARATOR, asPrefix=SCRIPTASPREFIX):
     if tag is None and script is None:
         raise GlyphNameFormatterError("Need a script or a tag")
     if tag is None:
         tag = scriptPrefixes[script]
     if "%s" not in tag:
-        tag = "%s%s%%s" % (tag, separator)
+        if asPrefix:
+            order = (tag, separator)
+            tag = "%s%s%%s" % order
+        else:
+            order = (separator, tag)
+            tag = "%%s%s%s" % order
+    if asPrefix:
+        return tag % txt
     return tag % txt
+
 
 # script prefixes are abbreviations of a script
 # optionally a pattern can be given:
@@ -82,7 +91,7 @@ _scriptPrefixes = {
     'ethiopic': "et",
     'greek': 'gr',
     'hangul': 'ko',
-    'hebrew': '%%s%shb' % SEPARATOR,
+    'hebrew': '%%s%shb' % SCRIPTSEPARATOR,
     'hiragana': 'hi',
     'ipa': 'ipa',
     'kannada': "kn",
@@ -120,6 +129,22 @@ if __name__ == "__main__":
         'tale'
         """
 
+    def _testAddScriptPrefix():
+        """
+        >>> addScriptPrefix("A", "latin", separator="", asPrefix=True)
+        'latinA'
+        >>> addScriptPrefix("A", "latin", separator="", asPrefix=False)
+        'Alatin'
+        >>> addScriptPrefix("A", "latin", separator="-", asPrefix=True)
+        'latin-A'
+        >>> addScriptPrefix("A", "latin", separator="-", asPrefix=False)
+        'A-latin'
+        >>> addScriptPrefix("A", "latin", separator=":", asPrefix=True)
+        'latin:A'
+        >>> addScriptPrefix("A", "latin", separator=":", asPrefix=False)
+        'A:latin'
+        """
+
     doctest.testmod()
 
 
@@ -135,4 +160,5 @@ if __name__ == "__main__":
             prefixes[pf].append(n)
         from pprint import pprint
         pprint(prefixes)
+    
     testAllPrefixes()
