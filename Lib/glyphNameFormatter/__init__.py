@@ -56,7 +56,7 @@ class GlyphName(GlyphNameProcessor):
             return
         try:
             self.uniLetter = unicodeToChar(self.uniNumber)
-        except ValueError:
+        except:
             print("GlyphName valueerror for %04X" % self.uniNumber)
             return
         try:

@@ -1,4 +1,4 @@
-
+from glyphNameFormatter.tools import debug
 def process(self):
     lowercaseOk = True
 
@@ -69,7 +69,7 @@ def process(self):
     self.edit("ARABIC SIGN ALAYHE ASSALLAM", "HonAA")
     self.edit("ARABIC SIGN RAHMATULLAH ALAYHE", "HonRA")
     self.edit("RABIC SIGN RADI ALLAHOU ANHU", "HonRAA")
-    self.edit("ARABIC SMALL HIGH DOTLESS HEAD OF KHAH", "khahdotlessabove")
+    self.edit("ARABIC SMALL HIGH DOTLESS HEAD OF KHAH", "dotlesskhahabove")
     self.edit("TATWEEL", "kashida")
     self.edit("RAY", 'ray')
     self.edit("ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO", 'zerosquareabove')
@@ -78,13 +78,13 @@ def process(self):
     self.edit("ARABIC PERCENT SIGN", "percent")
     self.edit("ARABIC NUMBER SIGN", "numbersign")
     self.edit("ARABIC COMMA", "comma")
-    self.edit("ARABIC FULL STOP", "period")
+    self.edit("ARABIC FULL STOP", "periodurdu")
     self.edit("ARABIC QUESTION MARK", "question")
-    self.edit("ARABIC DECIMAL SEPARATOR", "decimal")
-    self.edit("ARABIC THOUSANDS SEPARATOR", "thousands")
+    self.edit("ARABIC DECIMAL SEPARATOR", "decimal", "separator")
+    self.edit("ARABIC THOUSANDS SEPARATOR", "thousands", "separator")
     self.edit("ARABIC-INDIC PER MILLE SIGN", "permille")
     self.edit("ARABIC-INDIC PER TEN THOUSAND SIGN", 'perthousand')
-    self.edit("ARABIC DATE SEPARATOR", "date")
+    self.edit("ARABIC DATE SEPARATOR", "date", "separator")
     self.edit("ARABIC SEMICOLON", "semicolon")
     self.edit("ARABIC TRIPLE DOT PUNCTUATION MARK", 'tripledot')
     self.edit("POSTPOSITION MEN", "menpost")
@@ -94,7 +94,7 @@ def process(self):
     self.edit("WITH RING", "ring")
     self.edit("WITH TAIL", "tail")
     self.edit("SWASH", "swash")
-    self.edit("DOTLESS", "dotless")
+    self.replace("DOTLESS", "dotless")
 
     # dots
     self.edit("WITH DOT BELOW AND DOT ABOVE", "dotbelowdotabove")
@@ -102,15 +102,15 @@ def process(self):
     self.edit("WITH DOT ABOVE", "dotabove")
     self.edit("WITH DOT BELOW", "dotbelow")
     self.edit("DOT BELOW", "dotbelow")
-    self.edit("WITH TWO DOTS ABOVE", 'twoabove')
+    self.edit("WITH TWO DOTS ABOVE", 'twodotsabove')
     self.edit("WITH TWO DOTS VERTICAL ABOVE", "twodotsvertical")
-    self.edit("WITH TWO DOTS BELOW", 'twobelow')
-    self.edit("WITH TWO DOTS", "dotted")
-    self.edit("WITH THREE DOTS BELOW", 'threebelow')
+    self.edit("WITH TWO DOTS BELOW", 'twodotsbelow')
+    self.edit("WITH TWO DOTS", "twodotsdots")
+    self.edit("WITH THREE DOTS BELOW", 'threedotsbelow')
     self.edit("DOWNWARDS", "down")
-    self.edit("AND THREE DOTS ABOVE", 'threeabove')
-    self.edit("WITH THREE DOTS ABOVE", 'threeabove')
-    self.edit("THREE DOTS", "threeabove")
+    self.edit("AND THREE DOTS ABOVE", 'threedotsabove')
+    self.edit("WITH THREE DOTS ABOVE", 'threedotsabove')
+    self.edit("THREE DOTS", "threedotsabove")
     self.edit("WITH FOUR DOTS ABOVE", 'fourdotsabove')
     self.edit("HIGH HAMZA", "highhamza")
     self.edit("ARABIC LETTER SUPERSCRIPT ALEF", "alefabove")
@@ -140,3 +140,8 @@ def process(self):
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
     printRange("Arabic")
+    debug(0x066C)
+    debug(0x066F)
+    debug(0x0697)
+    debug(0x069B)
+    debug(0x06E1)
