@@ -1,15 +1,16 @@
-from glyphNameFormatter import GlyphName, __version__
-
-from glyphNameFormatter.unicodeRangeNames import getAllRangeNames, getRangeByName, rangeNameToModuleName
+import os
 
 import importlib
 import time
 
 import subprocess
 
+from glyphNameFormatter import GlyphName, __version__
+from glyphNameFormatter.unicodeRangeNames import getAllRangeNames, getRangeByName, rangeNameToModuleName
+
 
 def getExportVersionNumber():
-    commitNumber = subprocess.check_output(["git", "rev-list", "HEAD", "--count"])
+    commitNumber = subprocess.check_output(["git", "rev-list", "HEAD", "--count"], cwd=os.path.dirname(__file__))
     commitNumber = commitNumber.strip()
     return "%s - git commit: %s" % (__version__, commitNumber)
 
