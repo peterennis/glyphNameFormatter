@@ -1,6 +1,6 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 263
-# generated on 2016 03 13 10:19:40
+# GlyphNameFormatter version 0.1 - git commit: 264
+# generated on 2016 03 13 10:36:06
 #
 # format
 # <glyphName> <hex unicode>
@@ -3676,41 +3676,41 @@ mong-bhamanchualigali 18A8
 mong-dagalgaaligali 18A9
 mong-lhamanchualigali 18AA
 # Vedic Extensions
-karshanatone 1CD0
-sharatone 1CD1
-prenkhatone 1CD2
-nihshvasasign 1CD3
-yajurmidlinesvaritasign 1CD4
-yajuraggravatedindependentsvaritatone 1CD5
-yajurindependentsvaritatone 1CD6
-yajurkathakaindependentsvaritatone 1CD7
-belowtonecandra 1CD8
-yajurkathakaindependentsvaritaschroedertone 1CD9
-svaritatonedbl 1CDA
-svaritatonetpl 1CDB
-kathakaanudattatone 1CDC
-dotbelowtone 1CDD
-twodotsbelowtone 1CDE
-threedotsbelowtone 1CDF
-rigkashmiriindependentsvaritatone 1CE0
-atharvaindependentsvaritatone 1CE1
-visargasvaritasign 1CE2
-visargaudattasign 1CE3
-visargaudattasignreversed 1CE4
-visargaanudattasign 1CE5
-visargaanudattasignreversed 1CE6
-visargaudattawithtailsign 1CE7
-visargaanudattawithtailsign 1CE8
-anusvaraantargomukhasign 1CE9
-anusvarabahirgomukhasign 1CEA
-anusvaravamagomukhasign 1CEB
-anusvaravamagomukhawithtailsign 1CEC
-tiryaksign 1CED
-hexiformanusvarasignlong 1CEE
-anusvarasignlong 1CEF
-rthanganusvarasignlong 1CF0
-anusvaraubhayatomukhasign 1CF1
-ardhavisargasign 1CF2
+ve-karshanatone 1CD0
+ve-sharatone 1CD1
+ve-prenkhatone 1CD2
+ve-nihshvasasign 1CD3
+ve-yajurmidlinesvaritasign 1CD4
+ve-yajuraggravatedindependentsvaritatone 1CD5
+ve-yajurindependentsvaritatone 1CD6
+ve-yajurkathakaindependentsvaritatone 1CD7
+ve-belowtonecandra 1CD8
+ve-yajurkathakaindependentsvaritaschroedertone 1CD9
+ve-svaritatonedbl 1CDA
+ve-svaritatonetpl 1CDB
+ve-kathakaanudattatone 1CDC
+ve-dotbelowtone 1CDD
+ve-twodotsbelowtone 1CDE
+ve-threedotsbelowtone 1CDF
+ve-rigkashmiriindependentsvaritatone 1CE0
+ve-atharvaindependentsvaritatone 1CE1
+ve-visargasvaritasign 1CE2
+ve-visargaudattasign 1CE3
+ve-visargaudattasignreversed 1CE4
+ve-visargaanudattasign 1CE5
+ve-visargaanudattasignreversed 1CE6
+ve-visargaudattawithtailsign 1CE7
+ve-visargaanudattawithtailsign 1CE8
+ve-anusvaraantargomukhasign 1CE9
+ve-anusvarabahirgomukhasign 1CEA
+ve-anusvaravamagomukhasign 1CEB
+ve-anusvaravamagomukhawithtailsign 1CEC
+ve-tiryaksign 1CED
+ve-hexiformanusvarasignlong 1CEE
+ve-anusvarasignlong 1CEF
+ve-rthanganusvarasignlong 1CF0
+ve-anusvaraubhayatomukhasign 1CF1
+ve-ardhavisargasign 1CF2
 # Phonetic Extensions
 Asmall 1D00
 AEsmall 1D01
@@ -4882,8 +4882,8 @@ asteriskmath 2217
 ringoperator 2218
 bulletoperator 2219
 radical 221A
-mthm-cuberoot 221B
-mthm-fourthroot 221C
+math-cuberoot 221B
+math-fourthroot 221C
 proportional 221D
 infinity 221E
 orthogonal 221F
@@ -5017,10 +5017,10 @@ squaredplus 229E
 squaredminus 229F
 squaredtimes 22A0
 squareddotoperator 22A1
-mthm-tackright 22A2
-mthm-tackleft 22A3
+math-tackright 22A2
+math-tackleft 22A3
 tackdown 22A4
-mthm-perpendicular 22A5
+math-perpendicular 22A5
 assertion 22A6
 models 22A7
 true 22A8
@@ -5055,7 +5055,7 @@ diamondoperator 22C4
 dotmath 22C5
 staroperator 22C6
 divisiontimes 22C7
-mthm-bowtie 22C8
+math-bowtie 22C8
 normalfacrsemidirectproductleft 22C9
 normalfacrsemidirectproductright 22CA
 semidirectproductleft 22CB
@@ -8127,16 +8127,16 @@ Jallajalalouhou FDFB
 rial FDFC
 BismillahArRahmanArRaheem FDFD
 # Vertical Forms
-commavert FE10
-ideographiccommavert FE11
-ideographicfullstopvert FE12
-colonvert FE13
-semicolonvert FE14
-exclamvert FE15
-questionvert FE16
-bracketvertwhiteleft FE17
-brakcetvertwhiteright FE18
-ellipsisverthor FE19
+vert-comma FE10
+vert-ideographiccomma FE11
+ideographicfullstop FE12
+vert-colon FE13
+vert-semicolon FE14
+vert-exclam FE15
+vert-question FE16
+bracketwhiteleft FE17
+brakcetwhiteright FE18
+ellipsishor FE19
 # CJK Compatibility Forms
 twodotleadervertical FE30
 emdashvertical FE31

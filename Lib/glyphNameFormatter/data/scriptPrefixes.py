@@ -82,22 +82,24 @@ def addScriptPrefix(txt, tag=None, script=None, scriptSeparator=SCRIPTSEPARATOR,
 # '%scyr' will add 'cyr' to the end
 
 _scriptPrefixes = {
-    'cjk': 'cjk',
     'arabic': 'ar',
     'boxdrawings': 'bxd',
+    'cjk': 'cjk',
+    'combining diacritical marks': "cmb",
     'cyrillic': '%scyr',
     'greek': 'gr',
     'hangul': 'ko',
     'hebrew': '%%s%shb' % SCRIPTSEPARATOR,
     'hiragana': 'hira',
-    'katakana': 'kata',
     'ipa': 'ipa',
+    'katakana': 'kata',
     'latin': "lt",
+    'math': 'math',
     'miscellaneous': 'misc',
     'musical': 'music',
     'optical character recognition': 'ocr',
-    'combining diacritical marks': "cmb",
     'vedic': 've',
+    'vertical forms': 'vert',
 }
 
 scriptPrefixes = ScriptPrefixesDict(_scriptPrefixes)
@@ -122,17 +124,17 @@ if __name__ == "__main__":
 
     def _testAddScriptPrefix():
         """
-        >>> addScriptPrefix("A", "latin", separator="", asPrefix=True)
+        >>> addScriptPrefix("A", "latin", scriptSeparator="", scriptAsPrefix=True)
         'latinA'
-        >>> addScriptPrefix("A", "latin", separator="", asPrefix=False)
+        >>> addScriptPrefix("A", "latin", scriptSeparator="", scriptAsPrefix=False)
         'Alatin'
-        >>> addScriptPrefix("A", "latin", separator="-", asPrefix=True)
+        >>> addScriptPrefix("A", "latin", scriptSeparator="-", scriptAsPrefix=True)
         'latin-A'
-        >>> addScriptPrefix("A", "latin", separator="-", asPrefix=False)
+        >>> addScriptPrefix("A", "latin", scriptSeparator="-", scriptAsPrefix=False)
         'A-latin'
-        >>> addScriptPrefix("A", "latin", separator=":", asPrefix=True)
+        >>> addScriptPrefix("A", "latin", scriptSeparator=":", scriptAsPrefix=True)
         'latin:A'
-        >>> addScriptPrefix("A", "latin", separator=":", asPrefix=False)
+        >>> addScriptPrefix("A", "latin", scriptSeparator=":", scriptAsPrefix=False)
         'A:latin'
         """
 

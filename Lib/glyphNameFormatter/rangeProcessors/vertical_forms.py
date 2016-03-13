@@ -4,7 +4,7 @@ def process(self):
     self.edit("LENTICULAR")
     self.edit("EXCLAMATION MARK", "exclam")
     self.edit("QUESTION MARK", "question")
-    self.edit("VERTICAL", "vert")
+    self.edit("VERTICAL")
     self.edit("HORIZONTAL", "hor")
     self.edit("WHITE", "white")
     self.edit("LEFT", "left")

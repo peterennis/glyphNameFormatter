@@ -278,7 +278,7 @@
   307C : hira-bo                                           bohiragana               hira-bo                                 Hiragana                                HIRAGANA LETTER BO  
   30DC : kata-bo                                           bokatakana               kata-bo                                 Katakana                                KATAKANA LETTER BO  
 
-  22C8 : mthm-bowtie                                       -                        mthm-bowtie                             Mathematical Operators                  BOWTIE              
+  22C8 : math-bowtie                                       -                        math-bowtie                             Mathematical Operators                  BOWTIE              
   2445 : ocr-bowtie                                        -                        ocr-bowtie                              Optical Character Recognition           OCR BOW TIE         
 
     7B : braceleft                                         braceleft                braceleft                               Basic Latin                             LEFT CURLY BRACKET  
@@ -349,6 +349,7 @@
     3A : colon                                             colon                    colon                                   Basic Latin                             COLON               
   1365 : ethi-colon                                        -                        ethi-colon                              Ethiopic                                ETHIOPIC COLON      
   1804 : mong-colon                                        -                        mong-colon                              Mongolian                               MONGOLIAN COLON     
+  FE13 : vert-colon                                        colonvert                vert-colon                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COLON
   FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     SMALL COLON         
 
     2C : comma                                             comma                    comma                                   Basic Latin                             COMMA               
@@ -356,10 +357,11 @@
    60C : ar-comma                                          arComma                  ar-comma                                Arabic                                  ARABIC COMMA        
   1363 : ethi-comma                                        -                        ethi-comma                              Ethiopic                                ETHIOPIC COMMA      
   1802 : mong-comma                                        -                        mong-comma                              Mongolian                               MONGOLIAN COMMA     
+  FE10 : vert-comma                                        commavert                vert-comma                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COMMA
   FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     SMALL COMMA         
 
    606 : ar-cuberoot                                       -                        ar-cuberoot                             Arabic                                  ARABIC-INDIC CUBE ROOT
-  221B : mthm-cuberoot                                     -                        mthm-cuberoot                           Mathematical Operators                  CUBE ROOT           
+  221B : math-cuberoot                                     -                        math-cuberoot                           Mathematical Operators                  CUBE ROOT           
 
     64 : d                                                 d                        d                                       Basic Latin                             LATIN SMALL LETTER D
    369 : cmb-d                                             dcmb                     cmb-d                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER D
@@ -558,6 +560,7 @@
 
     21 : exclam                                            exclam                   exclam                                  Basic Latin                             EXCLAMATION MARK    
    55C : armn-exclam                                       exclamarmenian           armn-exclam                             Armenian                                ARMENIAN EXCLAMATION MARK
+  FE15 : vert-exclam                                       exclamvert               vert-exclam                             Vertical Forms                          PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK
   FE57 : smll-exclam                                       -                        smll-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
 
     66 : f                                                 f                        f                                       Basic Latin                             LATIN SMALL LETTER F
@@ -610,7 +613,7 @@
   A9D4 : java-four                                         -                        java-four                               Javanese                                JAVANESE DIGIT FOUR 
 
    607 : ar-fourthroot                                     -                        ar-fourthroot                           Arabic                                  ARABIC-INDIC FOURTH ROOT
-  221C : mthm-fourthroot                                   -                        mthm-fourthroot                         Mathematical Operators                  FOURTH ROOT         
+  221C : math-fourthroot                                   -                        math-fourthroot                         Mathematical Operators                  FOURTH ROOT         
 
     67 : g                                                 g                        g                                       Basic Latin                             LATIN SMALL LETTER G
   310D : bopo-g                                            gbopomofo                bopo-g                                  Bopomofo                                BOPOMOFO LETTER G   
@@ -752,6 +755,7 @@
   A986 : java-i                                            -                        java-i                                  Javanese                                JAVANESE LETTER I   
 
   3001 : cjk-ideographiccomma                              ideographiccomma         cjk-ideographiccomma                    CJK Symbols and Punctuation             IDEOGRAPHIC COMMA   
+  FE11 : vert-ideographiccomma                             -                        vert-ideographiccomma                   Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA
   FE51 : smll-ideographiccomma                             -                        smll-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
 
     EF : idieresis                                         idieresis                idieresis                               Latin-1 Supplement                      LATIN SMALL LETTER I WITH DIAERESIS
@@ -1266,7 +1270,7 @@
   1803 : mong-period                                       -                        mong-period                             Mongolian                               MONGOLIAN FULL STOP 
   FE52 : smll-period                                       periodsmall              smll-period                             Small Form Variants                     SMALL FULL STOP     
 
-  22A5 : mthm-perpendicular                                perpendicular            mthm-perpendicular                      Mathematical Operators                  UP TACK             
+  22A5 : math-perpendicular                                perpendicular            math-perpendicular                      Mathematical Operators                  UP TACK             
   27C2 : misc-perpendicular                                -                        misc-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
 
    60A : ar-perthousand                                    -                        ar-perthousand                          Arabic                                  ARABIC-INDIC PER TEN THOUSAND SIGN
@@ -1318,6 +1322,7 @@
    37E : gr-question                                       questiongreek            gr-question                             Greek and Coptic                        GREEK QUESTION MARK 
    55E : armn-question                                     questionarmenian         armn-question                           Armenian                                ARMENIAN QUESTION MARK
    61F : ar-question                                       arQuestion               ar-question                             Arabic                                  ARABIC QUESTION MARK
+  FE16 : vert-question                                     questionvert             vert-question                           Vertical Forms                          PRESENTATION FORM FOR VERTICAL QUESTION MARK
   FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     SMALL QUESTION MARK 
 
     72 : r                                                 r                        r                                       Basic Latin                             LATIN SMALL LETTER R
@@ -1439,6 +1444,7 @@
     3B : semicolon                                         semicolon                semicolon                               Basic Latin                             SEMICOLON           
    61B : ar-semicolon                                      arSemicolon              ar-semicolon                            Arabic                                  ARABIC SEMICOLON    
   1364 : ethi-semicolon                                    -                        ethi-semicolon                          Ethiopic                                ETHIOPIC SEMICOLON  
+  FE14 : vert-semicolon                                    semicolonvert            vert-semicolon                          Vertical Forms                          PRESENTATION FORM FOR VERTICAL SEMICOLON
   FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     SMALL SEMICOLON     
 
     37 : seven                                             seven                    seven                                   Basic Latin                             DIGIT SEVEN         
@@ -1538,10 +1544,10 @@
   30BF : kata-ta                                           takatakana               kata-ta                                 Katakana                                KATAKANA LETTER TA  
   A9A0 : java-ta                                           -                        java-ta                                 Javanese                                JAVANESE LETTER TA  
 
-  22A3 : mthm-tackleft                                     tackleft                 mthm-tackleft                           Mathematical Operators                  LEFT TACK           
+  22A3 : math-tackleft                                     tackleft                 math-tackleft                           Mathematical Operators                  LEFT TACK           
   27DE : misc-tackleft                                     -                        misc-tackleft                           Miscellaneous Mathematical Symbols-A    LONG LEFT TACK      
 
-  22A2 : mthm-tackright                                    -                        mthm-tackright                          Mathematical Operators                  RIGHT TACK          
+  22A2 : math-tackright                                    -                        math-tackright                          Mathematical Operators                  RIGHT TACK          
   27DD : misc-tackright                                    -                        misc-tackright                          Miscellaneous Mathematical Symbols-A    LONG RIGHT TACK     
 
    442 : tecyr                                             te                       tecyr                                   Cyrillic                                CYRILLIC SMALL LETTER TE
@@ -1935,7 +1941,7 @@
   12D9 : ethi-zu                                           -                        ethi-zu                                 Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hira-zu                                           zuhiragana               hira-zu                                 Hiragana                                HIRAGANA LETTER ZU  
   30BA : kata-zu                                           zukatakana               kata-zu                                 Katakana                                KATAKANA LETTER ZU  
-# 348 names with conflicts, affecting 1587 unicodes
+# 348 names with conflicts, affecting 1593 unicodes
 
 
 Conflicts by rangename
@@ -3218,12 +3224,12 @@ Malayalam
    D66 : mlym-zero                                         mlZero                   mlym-zero                               Malayalam                               MALAYALAM DIGIT ZERO
 
 Mathematical Operators
-  22C8 : mthm-bowtie                                       -                        mthm-bowtie                             Mathematical Operators                  BOWTIE              
-  221B : mthm-cuberoot                                     -                        mthm-cuberoot                           Mathematical Operators                  CUBE ROOT           
-  221C : mthm-fourthroot                                   -                        mthm-fourthroot                         Mathematical Operators                  FOURTH ROOT         
-  22A5 : mthm-perpendicular                                perpendicular            mthm-perpendicular                      Mathematical Operators                  UP TACK             
-  22A3 : mthm-tackleft                                     tackleft                 mthm-tackleft                           Mathematical Operators                  LEFT TACK           
-  22A2 : mthm-tackright                                    -                        mthm-tackright                          Mathematical Operators                  RIGHT TACK          
+  22C8 : math-bowtie                                       -                        math-bowtie                             Mathematical Operators                  BOWTIE              
+  221B : math-cuberoot                                     -                        math-cuberoot                           Mathematical Operators                  CUBE ROOT           
+  221C : math-fourthroot                                   -                        math-fourthroot                         Mathematical Operators                  FOURTH ROOT         
+  22A5 : math-perpendicular                                perpendicular            math-perpendicular                      Mathematical Operators                  UP TACK             
+  22A3 : math-tackleft                                     tackleft                 math-tackleft                           Mathematical Operators                  LEFT TACK           
+  22A2 : math-tackright                                    -                        math-tackright                          Mathematical Operators                  RIGHT TACK          
 
 Miscellaneous Mathematical Symbols-A
   27C2 : misc-perpendicular                                -                        misc-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
@@ -3628,3 +3634,11 @@ Tibetan
    F5F : tibt-za                                           -                        tibt-za                                 Tibetan                                 TIBETAN LETTER ZA   
    F20 : tibt-zero                                         -                        tibt-zero                               Tibetan                                 TIBETAN DIGIT ZERO  
    F5E : tibt-zha                                          -                        tibt-zha                                Tibetan                                 TIBETAN LETTER ZHA  
+
+Vertical Forms
+  FE13 : vert-colon                                        colonvert                vert-colon                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COLON
+  FE10 : vert-comma                                        commavert                vert-comma                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COMMA
+  FE15 : vert-exclam                                       exclamvert               vert-exclam                             Vertical Forms                          PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK
+  FE11 : vert-ideographiccomma                             -                        vert-ideographiccomma                   Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA
+  FE16 : vert-question                                     questionvert             vert-question                           Vertical Forms                          PRESENTATION FORM FOR VERTICAL QUESTION MARK
+  FE14 : vert-semicolon                                    semicolonvert            vert-semicolon                          Vertical Forms                          PRESENTATION FORM FOR VERTICAL SEMICOLON
