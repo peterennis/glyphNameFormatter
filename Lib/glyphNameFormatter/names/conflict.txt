@@ -13,14 +13,11 @@
     C4 : Adieresis                                         Adieresis                Adieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER A WITH DIAERESIS
    4D2 : Adieresiscyr                                      Adieresiscyr             Adieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER A WITH DIAERESIS
 
-   512 : Elhookcyr                                         -                        Elhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH HOOK
-   520 : Elhookcyr                                         -                        Elhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
+   512 : ELhookcyr                                         -                        ELhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH HOOK
+   520 : ELhookcyr                                         -                        ELhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
 
-   4C7 : Enhookcyr                                         Enhookcyrillic           Enhookcyr                               Cyrillic                                CYRILLIC CAPITAL LETTER EN WITH HOOK
-   522 : Enhookcyr                                         -                        Enhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK
-
-   18E : Ereversed                                         Eturned                  Ereversed                               Latin Extended-B                        LATIN CAPITAL LETTER REVERSED E
-   42D : Ereversedcyr                                      Ecyr                     Ereversedcyr                            Cyrillic                                CYRILLIC CAPITAL LETTER E
+   4C7 : ENhookcyr                                         Enhookcyrillic           ENhookcyr                               Cyrillic                                CYRILLIC CAPITAL LETTER EN WITH HOOK
+   522 : ENhookcyr                                         -                        ENhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK
 
    538 : armn-Et                                           Etarmenian               armn-Et                                 Armenian                                ARMENIAN CAPITAL LETTER ET
   A76A : Et                                                -                        Et                                      Latin Extended-D                        LATIN CAPITAL LETTER ET
@@ -37,9 +34,6 @@
    12A : Imacron                                           Imacron                  Imacron                                 Latin Extended-A                        LATIN CAPITAL LETTER I WITH MACRON
    4E2 : Imacroncyr                                        Imacroncyr               Imacroncyr                              Cyrillic                                CYRILLIC CAPITAL LETTER I WITH MACRON
 
-   3DE : Koppa                                             Koppagreek               Koppa                                   Greek and Coptic                        GREEK LETTER KOPPA  
-   480 : Koppacyr                                          Koppacyrillic            Koppacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER KOPPA
-
     4F : O                                                 O                        O                                       Basic Latin                             LATIN CAPITAL LETTER O
    41E : Ocyr                                              Ocyr                     Ocyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER O
 
@@ -49,17 +43,14 @@
     D6 : Odieresis                                         Odieresis                Odieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER O WITH DIAERESIS
    4E6 : Odieresiscyr                                      Odieresiscyr             Odieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER O WITH DIAERESIS
 
-   3A9 : Omega                                             Omega                    Omega                                   Greek and Coptic                        GREEK CAPITAL LETTER OMEGA
-   460 : Omegacyr                                          Omegacyrillic            Omegacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER OMEGA
+   513 : SMALL ELhookcyr                                   -                        SMALL ELhookcyr                         Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH HOOK
+   521 : SMALL ELhookcyr                                   -                        SMALL ELhookcyr                         Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
 
-   3A8 : Psi                                               Psi                      Psi                                     Greek and Coptic                        GREEK CAPITAL LETTER PSI
-   470 : Psicyr                                            Psicyrillic              Psicyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER PSI
+   4C8 : SMALL ENhookcyr                                   enhookcyrillic           SMALL ENhookcyr                         Cyrillic                                CYRILLIC SMALL LETTER EN WITH HOOK
+   523 : SMALL ENhookcyr                                   -                        SMALL ENhookcyr                         Cyrillic Supplement                     CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
 
-   18F : Schwa                                             Schwa                    Schwa                                   Latin Extended-B                        LATIN CAPITAL LETTER SCHWA
-   4D8 : Schwacyr                                          Schwacyr                 Schwacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER SCHWA
-
-   428 : Shacyr                                            Sha                      Shacyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER SHA
-   547 : armn-Sha                                          Shaarmenian              armn-Sha                                Armenian                                ARMENIAN CAPITAL LETTER SHA
+   437 : SMALL ZEcyr                                       ze                       SMALL ZEcyr                             Cyrillic                                CYRILLIC SMALL LETTER ZE
+   511 : SMALL ZEcyr                                       -                        SMALL ZEcyr                             Cyrillic Supplement                     CYRILLIC SMALL LETTER REVERSED ZE
 
     55 : U                                                 U                        U                                       Basic Latin                             LATIN CAPITAL LETTER U
    423 : Ucyr                                              Ucyr                     Ucyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER U
@@ -70,15 +61,11 @@
    16A : Umacron                                           Umacron                  Umacron                                 Latin Extended-A                        LATIN CAPITAL LETTER U WITH MACRON
    4EE : Umacroncyr                                        Umacroncyr               Umacroncyr                              Cyrillic                                CYRILLIC CAPITAL LETTER U WITH MACRON
 
-   417 : Zecyr                                             Ze                       Zecyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER ZE
-   510 : Zecyr                                             -                        Zecyr                                   Cyrillic Supplement                     CYRILLIC CAPITAL LETTER REVERSED ZE
-
-   416 : Zhecyr                                            Zhe                      Zhecyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER ZHE
-   53A : armn-Zhe                                          Zhearmenian              armn-Zhe                                Armenian                                ARMENIAN CAPITAL LETTER ZHE
+   417 : ZEcyr                                             Ze                       ZEcyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER ZE
+   510 : ZEcyr                                             -                        ZEcyr                                   Cyrillic Supplement                     CYRILLIC CAPITAL LETTER REVERSED ZE
 
     61 : a                                                 a                        a                                       Basic Latin                             LATIN SMALL LETTER A
    363 : cmb-a                                             acmb                     cmb-a                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER A
-   430 : acyr                                              acyr                     acyr                                    Cyrillic                                CYRILLIC SMALL LETTER A
    905 : deva-a                                            dvA                      deva-a                                  Devanagari                              DEVANAGARI LETTER A 
    985 : beng-a                                            beA                      beng-a                                  Bengali                                 BENGALI LETTER A    
    A05 : guru-a                                            guA                      guru-a                                  Gurmukhi                                GURMUKHI LETTER A   
@@ -117,22 +104,16 @@
    CBE : knda-aasign                                       knAasign                 knda-aasign                             Kannada                                 KANNADA VOWEL SIGN AA
    D3E : mlym-aasign                                       mlAasign                 mlym-aasign                             Malayalam                               MALAYALAM VOWEL SIGN AA
 
-   103 : abreve                                            abreve                   abreve                                  Latin Extended-A                        LATIN SMALL LETTER A WITH BREVE
-   4D1 : abrevecyr                                         abrevecyr                abrevecyr                               Cyrillic                                CYRILLIC SMALL LETTER A WITH BREVE
-
     B4 : acute                                             acute                    acute                                   Latin-1 Supplement                      ACUTE ACCENT        
    954 : deva-acute                                        dvAcute                  deva-acute                              Devanagari                              DEVANAGARI ACUTE ACCENT
   1FFD : gr-acute                                          oxia                     gr-acute                                Greek Extended                          GREEK OXIA          
-
-    E4 : adieresis                                         adieresis                adieresis                               Latin-1 Supplement                      LATIN SMALL LETTER A WITH DIAERESIS
-   4D3 : adieresiscyr                                      adieresiscyr             adieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER A WITH DIAERESIS
 
     E6 : ae                                                ae                       ae                                      Latin-1 Supplement                      LATIN SMALL LETTER AE
    6D5 : ar-ae                                             arAe                     ar-ae                                   Arabic                                  ARABIC LETTER AE    
   3150 : ko-ae                                             aekorean                 ko-ae                                   Hangul Compatibility Jamo               HANGUL LETTER AE    
 
-  FF71 : hlfw-ahalfwidth                                   akatakanahalfwidth       hlfw-ahalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER A
-  FFC2 : hlfw-ahalfwidth                                   -                        hlfw-ahalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER A
+  FF71 : kata-ahalfwidth                                   akatakanahalfwidth       kata-ahalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER A
+  FFC2 : ko-ahalfwidth                                     -                        ko-ahalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER A
 
    910 : deva-ai                                           dvAi                     deva-ai                                 Devanagari                              DEVANAGARI LETTER AI
    990 : beng-ai                                           beAi                     beng-ai                                 Bengali                                 BENGALI LETTER AI   
@@ -169,7 +150,7 @@
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        GREEK SMALL LETTER ALPHA
 
     26 : ampersand                                         ampersand                ampersand                               Basic Latin                             AMPERSAND           
-  FE60 : smll-ampersand                                    -                        smll-ampersand                          Small Form Variants                     SMALL AMPERSAND     
+  FE60 : gnrl-ampersand                                    -                        gnrl-ampersand                          Small Form Variants                     SMALL AMPERSAND     
 
   1829 : mong-ang                                          -                        mong-ang                                Mongolian                               MONGOLIAN LETTER ANG
   3124 : bopo-ang                                          angbopomofo              bopo-ang                                Bopomofo                                BOPOMOFO LETTER ANG 
@@ -188,7 +169,7 @@
   30A1 : kata-asmall                                       asmallkatakana           kata-asmall                             Katakana                                KATAKANA LETTER SMALL A
 
     2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             ASTERISK            
-  FE61 : smll-asterisk                                     asterisksmall            smll-asterisk                           Small Form Variants                     SMALL ASTERISK      
+  FE61 : gnrl-asterisk                                     asterisksmall            gnrl-asterisk                           Small Form Variants                     SMALL ASTERISK      
 
    914 : deva-au                                           dvAu                     deva-au                                 Devanagari                              DEVANAGARI LETTER AU
    994 : beng-au                                           beAu                     beng-au                                 Bengali                                 BENGALI LETTER AU   
@@ -244,12 +225,11 @@
   A9A7 : java-ba                                           -                        java-ba                                 Javanese                                JAVANESE LETTER BA  
 
     5C : backslash                                         backslash                backslash                               Basic Latin                             REVERSE SOLIDUS     
-  FE68 : smll-backslash                                    -                        smll-backslash                          Small Form Variants                     SMALL REVERSE SOLIDUS
+  FE68 : gnrl-backslash                                    -                        gnrl-backslash                          Small Form Variants                     SMALL REVERSE SOLIDUS
 
   3374 : cjk-barfullwidth                                  barfullwidth             cjk-barfullwidth                        CJK Compatibility                       SQUARE BAR          
-  FF5C : hlfw-barfullwidth                                 linevertfullwidth        hlfw-barfullwidth                       Halfwidth and Fullwidth Forms           FULLWIDTH VERTICAL LINE
+  FF5C : barfullwidth                                      linevertfullwidth        barfullwidth                            Halfwidth and Fullwidth Forms           FULLWIDTH VERTICAL LINE
 
-   431 : becyr                                             be                       becyr                                   Cyrillic                                CYRILLIC SMALL LETTER BE
   1265 : ethi-be                                           -                        ethi-be                                 Ethiopic                                ETHIOPIC SYLLABLE BE
   3079 : hira-be                                           behiragana               hira-be                                 Hiragana                                HIRAGANA LETTER BE  
   30D9 : kata-be                                           bekatakana               kata-be                                 Katakana                                KATAKANA LETTER BE  
@@ -282,10 +262,10 @@
   2445 : ocr-bowtie                                        -                        ocr-bowtie                              Optical Character Recognition           OCR BOW TIE         
 
     7B : braceleft                                         braceleft                braceleft                               Basic Latin                             LEFT CURLY BRACKET  
-  FE5B : smll-braceleft                                    braceleftsmall           smll-braceleft                          Small Form Variants                     SMALL LEFT CURLY BRACKET
+  FE5B : gnrl-braceleft                                    braceleftsmall           gnrl-braceleft                          Small Form Variants                     SMALL LEFT CURLY BRACKET
 
     7D : braceright                                        braceright               braceright                              Basic Latin                             RIGHT CURLY BRACKET 
-  FE5C : smll-braceright                                   bracerightsmall          smll-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
+  FE5C : gnrl-braceright                                   bracerightsmall          gnrl-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
 
    2D8 : spcn-breve                                        breve                    spcn-breve                              Spacing Modifier Letters                BREVE               
    306 : cmb-breve                                         brevecmb                 cmb-breve                               Combining Diacritical Marks             COMBINING BREVE     
@@ -336,9 +316,6 @@
   1328 : ethi-cha                                          -                        ethi-cha                                Ethiopic                                ETHIOPIC SYLLABLE CHA
   1834 : mong-cha                                          -                        mong-cha                                Mongolian                               MONGOLIAN LETTER CHA
 
-   447 : checyr                                            che                      checyr                                  Cyrillic                                CYRILLIC SMALL LETTER CHE
-  132D : ethi-che                                          -                        ethi-che                                Ethiopic                                ETHIOPIC SYLLABLE CHE
-
    3C7 : chi                                               chi                      chi                                     Greek and Coptic                        GREEK SMALL LETTER CHI
   132A : ethi-chi                                          -                        ethi-chi                                Ethiopic                                ETHIOPIC SYLLABLE CHI
   1842 : mong-chi                                          -                        mong-chi                                Mongolian                               MONGOLIAN LETTER CHI
@@ -350,7 +327,7 @@
   1365 : ethi-colon                                        -                        ethi-colon                              Ethiopic                                ETHIOPIC COLON      
   1804 : mong-colon                                        -                        mong-colon                              Mongolian                               MONGOLIAN COLON     
   FE13 : vert-colon                                        colonvert                vert-colon                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COLON
-  FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     SMALL COLON         
+  FE55 : gnrl-colon                                        colonsmall               gnrl-colon                              Small Form Variants                     SMALL COLON         
 
     2C : comma                                             comma                    comma                                   Basic Latin                             COMMA               
    55D : armn-comma                                        commaarmenian            armn-comma                              Armenian                                ARMENIAN COMMA      
@@ -358,7 +335,7 @@
   1363 : ethi-comma                                        -                        ethi-comma                              Ethiopic                                ETHIOPIC COMMA      
   1802 : mong-comma                                        -                        mong-comma                              Mongolian                               MONGOLIAN COMMA     
   FE10 : vert-comma                                        commavert                vert-comma                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COMMA
-  FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     SMALL COMMA         
+  FE50 : gnrl-comma                                        commasmall               gnrl-comma                              Small Form Variants                     SMALL COMMA         
 
    606 : ar-cuberoot                                       -                        ar-cuberoot                             Arabic                                  ARABIC-INDIC CUBE ROOT
   221B : math-cuberoot                                     -                        math-cuberoot                           Mathematical Operators                  CUBE ROOT           
@@ -408,7 +385,6 @@
    D22 : mlym-ddha                                         mlDdha                   mlym-ddha                               Malayalam                               MALAYALAM LETTER DDHA
    F4D : tibt-ddha                                         -                        tibt-ddha                               Tibetan                                 TIBETAN LETTER DDHA 
 
-   434 : decyr                                             de                       decyr                                   Cyrillic                                CYRILLIC SMALL LETTER DE
   12F5 : ethi-de                                           -                        ethi-de                                 Ethiopic                                ETHIOPIC SYLLABLE DE
   3067 : hira-de                                           dehiragana               hira-de                                 Hiragana                                HIRAGANA LETTER DE  
   30C7 : kata-de                                           dekatakana               kata-de                                 Katakana                                KATAKANA LETTER DE  
@@ -444,7 +420,7 @@
   30C9 : kata-do                                           dokatakana               kata-do                                 Katakana                                KATAKANA LETTER DO  
 
     24 : dollar                                            dollar                   dollar                                  Basic Latin                             DOLLAR SIGN         
-  FE69 : smll-dollar                                       dollarsmall              smll-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
+  FE69 : gnrl-dollar                                       dollarsmall              gnrl-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
 
    2D9 : spcn-dotaccent                                    dotaccent                spcn-dotaccent                          Spacing Modifier Letters                DOT ABOVE           
    307 : cmb-dotaccent                                     dotaccentcmb             cmb-dotaccent                           Combining Diacritical Marks             COMBINING DOT ABOVE 
@@ -493,8 +469,8 @@
    567 : armn-eh                                           eharmenian               armn-eh                                 Armenian                                ARMENIAN SMALL LETTER EH
   311D : bopo-eh                                           ehbopomofo               bopo-eh                                 Bopomofo                                BOPOMOFO LETTER EH  
 
-  FF74 : hlfw-ehalfwidth                                   ekatakanahalfwidth       hlfw-ehalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER E
-  FFC7 : hlfw-ehalfwidth                                   -                        hlfw-ehalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER E
+  FF74 : kata-ehalfwidth                                   ekatakanahalfwidth       kata-ehalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER E
+  FFC7 : ko-ehalfwidth                                     -                        ko-ehalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER E
 
     38 : eight                                             eight                    eight                                   Basic Latin                             DIGIT EIGHT         
    668 : ar-eight                                          arEight                  ar-eight                                Arabic                                  ARABIC-INDIC DIGIT EIGHT
@@ -513,29 +489,17 @@
   1818 : mong-eight                                        -                        mong-eight                              Mongolian                               MONGOLIAN DIGIT EIGHT
   A9D8 : java-eight                                        -                        java-eight                              Javanese                                JAVANESE DIGIT EIGHT
 
-   513 : elhookcyr                                         -                        elhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH HOOK
-   521 : elhookcyr                                         -                        elhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
-
   1801 : mong-ellipsis                                     -                        mong-ellipsis                           Mongolian                               MONGOLIAN ELLIPSIS  
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     HORIZONTAL ELLIPSIS 
 
   2014 : gnrl-emdash                                       emdash                   gnrl-emdash                             General Punctuation                     EM DASH             
-  FE58 : smll-emdash                                       -                        smll-emdash                             Small Form Variants                     SMALL EM DASH       
-
-   43D : encyr                                             en                       encyr                                   Cyrillic                                CYRILLIC SMALL LETTER EN
-  3123 : bopo-en                                           enbopomofo               bopo-en                                 Bopomofo                                BOPOMOFO LETTER EN  
+  FE58 : gnrl-emdash                                       -                        gnrl-emdash                             Small Form Variants                     SMALL EM DASH       
 
    14B : eng                                               eng                      eng                                     Latin Extended-A                        LATIN SMALL LETTER ENG
   3125 : bopo-eng                                          engbopomofo              bopo-eng                                Bopomofo                                BOPOMOFO LETTER ENG 
 
-   4C8 : enhookcyr                                         enhookcyrillic           enhookcyr                               Cyrillic                                CYRILLIC SMALL LETTER EN WITH HOOK
-   523 : enhookcyr                                         -                        enhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
-
     3D : equal                                             equal                    equal                                   Basic Latin                             EQUALS SIGN         
-  FE66 : smll-equal                                        equalsmall               smll-equal                              Small Form Variants                     SMALL EQUALS SIGN   
-
-   440 : ercyr                                             er                       ercyr                                   Cyrillic                                CYRILLIC SMALL LETTER ER
-  3126 : bopo-er                                           erbopomofo               bopo-er                                 Bopomofo                                BOPOMOFO LETTER ER  
+  FE66 : gnrl-equal                                        equalsmall               gnrl-equal                              Small Form Variants                     SMALL EQUALS SIGN   
 
    258 : ipa-ereversed                                     ereversed                ipa-ereversed                           IPA Extensions                          LATIN SMALL LETTER REVERSED E
    44D : ereversedcyr                                      ecyr                     ereversedcyr                            Cyrillic                                CYRILLIC SMALL LETTER E
@@ -561,7 +525,7 @@
     21 : exclam                                            exclam                   exclam                                  Basic Latin                             EXCLAMATION MARK    
    55C : armn-exclam                                       exclamarmenian           armn-exclam                             Armenian                                ARMENIAN EXCLAMATION MARK
   FE15 : vert-exclam                                       exclamvert               vert-exclam                             Vertical Forms                          PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK
-  FE57 : smll-exclam                                       -                        smll-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
+  FE57 : gnrl-exclam                                       -                        gnrl-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
 
     66 : f                                                 f                        f                                       Basic Latin                             LATIN SMALL LETTER F
   3108 : bopo-f                                            fbopomofo                bopo-f                                  Bopomofo                                BOPOMOFO LETTER F   
@@ -677,7 +641,7 @@
   1FEF : gr-grave                                          varia                    gr-grave                                Greek Extended                          GREEK VARIA         
 
     3E : greater                                           greater                  greater                                 Basic Latin                             GREATER-THAN SIGN   
-  FE65 : smll-greater                                      greatersmall             smll-greater                            Small Form Variants                     SMALL GREATER-THAN SIGN
+  FE65 : gnrl-greater                                      greatersmall             gnrl-greater                            Small Form Variants                     SMALL GREATER-THAN SIGN
 
    261 : ipa-gscript                                       gscript                  ipa-gscript                             IPA Extensions                          LATIN SMALL LETTER SCRIPT G
   210A : lttr-gscript                                      gscriptmath              lttr-gscript                            Letterlike Symbols                      SCRIPT SMALL G      
@@ -690,7 +654,6 @@
    36A : cmb-h                                             hcmb                     cmb-h                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER H
   310F : bopo-h                                            hbopomofo                bopo-h                                  Bopomofo                                BOPOMOFO LETTER H   
 
-   445 : hacyr                                             ha                       hacyr                                   Cyrillic                                CYRILLIC SMALL LETTER HA
    939 : deva-ha                                           dvHa                     deva-ha                                 Devanagari                              DEVANAGARI LETTER HA
    9B9 : beng-ha                                           beHa                     beng-ha                                 Bengali                                 BENGALI LETTER HA   
    A39 : guru-ha                                           guHa                     guru-ha                                 Gurmukhi                                GURMUKHI LETTER HA  
@@ -733,11 +696,10 @@
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             HYPHEN-MINUS        
    58A : armn-hyphen                                       -                        armn-hyphen                             Armenian                                ARMENIAN HYPHEN     
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     HYPHEN              
-  FE63 : smll-hyphen                                       hyphensmall              smll-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
+  FE63 : gnrl-hyphen                                       hyphensmall              gnrl-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
 
     69 : i                                                 i                        i                                       Basic Latin                             LATIN SMALL LETTER I
    365 : cmb-i                                             icmb                     cmb-i                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER I
-   438 : icyr                                              icyr                     icyr                                    Cyrillic                                CYRILLIC SMALL LETTER I
    907 : deva-i                                            dvI                      deva-i                                  Devanagari                              DEVANAGARI LETTER I 
    987 : beng-i                                            beI                      beng-i                                  Bengali                                 BENGALI LETTER I    
    A07 : guru-i                                            guI                      guru-i                                  Gurmukhi                                GURMUKHI LETTER I   
@@ -756,16 +718,10 @@
 
   3001 : cjk-ideographiccomma                              ideographiccomma         cjk-ideographiccomma                    CJK Symbols and Punctuation             IDEOGRAPHIC COMMA   
   FE11 : vert-ideographiccomma                             -                        vert-ideographiccomma                   Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA
-  FE51 : smll-ideographiccomma                             -                        smll-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
+  FE51 : gnrl-ideographiccomma                             -                        gnrl-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
 
-    EF : idieresis                                         idieresis                idieresis                               Latin-1 Supplement                      LATIN SMALL LETTER I WITH DIAERESIS
-   4E5 : idieresiscyr                                      idieresiscyr             idieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER I WITH DIAERESIS
-
-    EC : igrave                                            igrave                   igrave                                  Latin-1 Supplement                      LATIN SMALL LETTER I WITH GRAVE
-   45D : igravecyr                                         igravecyr                igravecyr                               Cyrillic                                CYRILLIC SMALL LETTER I WITH GRAVE
-
-  FF72 : hlfw-ihalfwidth                                   ikatakanahalfwidth       hlfw-ihalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER I
-  FFDC : hlfw-ihalfwidth                                   -                        hlfw-ihalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER I
+  FF72 : kata-ihalfwidth                                   ikatakanahalfwidth       kata-ihalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER I
+  FFDC : ko-ihalfwidth                                     -                        ko-ihalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER I
 
    908 : deva-ii                                           dvIi                     deva-ii                                 Devanagari                              DEVANAGARI LETTER II
    988 : beng-ii                                           beIi                     beng-ii                                 Bengali                                 BENGALI LETTER II   
@@ -787,9 +743,6 @@
    C40 : telu-iisign                                       teIisign                 telu-iisign                             Telugu                                  TELUGU VOWEL SIGN II
    CC0 : knda-iisign                                       knIisign                 knda-iisign                             Kannada                                 KANNADA VOWEL SIGN II
    D40 : mlym-iisign                                       mlIisign                 mlym-iisign                             Malayalam                               MALAYALAM VOWEL SIGN II
-
-   12B : imacron                                           imacron                  imacron                                 Latin Extended-A                        LATIN SMALL LETTER I WITH MACRON
-   4E3 : imacroncyr                                        imacroncyr               imacroncyr                              Cyrillic                                CYRILLIC SMALL LETTER I WITH MACRON
 
    269 : ipa-iota                                          iotalatin                ipa-iota                                IPA Extensions                          LATIN SMALL LETTER IOTA
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        GREEK SMALL LETTER IOTA
@@ -831,9 +784,6 @@
   1835 : mong-ja                                           -                        mong-ja                                 Mongolian                               MONGOLIAN LETTER JA 
   A997 : java-ja                                           -                        java-ja                                 Javanese                                JAVANESE LETTER JA  
 
-   458 : jecyr                                             je                       jecyr                                   Cyrillic                                CYRILLIC SMALL LETTER JE
-  1305 : ethi-je                                           -                        ethi-je                                 Ethiopic                                ETHIOPIC SYLLABLE JE
-
    91D : deva-jha                                          dvJha                    deva-jha                                Devanagari                              DEVANAGARI LETTER JHA
    99D : beng-jha                                          beJha                    beng-jha                                Bengali                                 BENGALI LETTER JHA  
    A1D : guru-jha                                          guJha                    guru-jha                                Gurmukhi                                GURMUKHI LETTER JHA 
@@ -846,7 +796,6 @@
     6B : k                                                 k                        k                                       Basic Latin                             LATIN SMALL LETTER K
   310E : bopo-k                                            kbopomofo                bopo-k                                  Bopomofo                                BOPOMOFO LETTER K   
 
-   43A : kacyr                                             ka                       kacyr                                   Cyrillic                                CYRILLIC SMALL LETTER KA
    915 : deva-ka                                           dvKa                     deva-ka                                 Devanagari                              DEVANAGARI LETTER KA
    995 : beng-ka                                           beKa                     beng-ka                                 Bengali                                 BENGALI LETTER KA   
    A15 : guru-ka                                           guKa                     guru-ka                                 Gurmukhi                                GURMUKHI LETTER KA  
@@ -901,9 +850,6 @@
   3053 : hira-ko                                           kohiragana               hira-ko                                 Hiragana                                HIRAGANA LETTER KO  
   30B3 : kata-ko                                           kokatakana               kata-ko                                 Katakana                                KATAKANA LETTER KO  
 
-   3DF : koppa                                             -                        koppa                                   Greek and Coptic                        GREEK SMALL LETTER KOPPA
-   481 : koppacyr                                          koppacyrillic            koppacyr                                Cyrillic                                CYRILLIC SMALL LETTER KOPPA
-
   12A9 : ethi-ku                                           -                        ethi-ku                                 Ethiopic                                ETHIOPIC SYLLABLE KU
   304F : hira-ku                                           kuhiragana               hira-ku                                 Hiragana                                HIRAGANA LETTER KU  
   30AF : kata-ku                                           kukatakana               kata-ku                                 Katakana                                KATAKANA LETTER KU  
@@ -926,10 +872,7 @@
   A9AD : java-la                                           -                        java-la                                 Javanese                                JAVANESE LETTER LA  
 
     3C : less                                              less                     less                                    Basic Latin                             LESS-THAN SIGN      
-  FE64 : smll-less                                         lesssmall                smll-less                               Small Form Variants                     SMALL LESS-THAN SIGN
-
-   515 : lhacyr                                            -                        lhacyr                                  Cyrillic Supplement                     CYRILLIC SMALL LETTER LHA
-  1840 : mong-lha                                          -                        mong-lha                                Mongolian                               MONGOLIAN LETTER LHA
+  FE64 : gnrl-less                                         lesssmall                gnrl-less                               Small Form Variants                     SMALL LESS-THAN SIGN
 
    933 : deva-lla                                          dvLla                    deva-lla                                Devanagari                              DEVANAGARI LETTER LLA
    A33 : guru-lla                                          guLla                    guru-lla                                Gurmukhi                                GURMUKHI LETTER LLA 
@@ -1110,7 +1053,7 @@
 
     23 : numbersign                                        numbersign               numbersign                              Basic Latin                             NUMBER SIGN         
    600 : ar-numbersign                                     arNumberSign             ar-numbersign                           Arabic                                  ARABIC NUMBER SIGN  
-  FE5F : smll-numbersign                                   numbersignsmall          smll-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
+  FE5F : gnrl-numbersign                                   numbersignsmall          gnrl-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
 
    91E : deva-nya                                          dvNya                    deva-nya                                Devanagari                              DEVANAGARI LETTER NYA
    99E : beng-nya                                          beNya                    beng-nya                                Bengali                                 BENGALI LETTER NYA  
@@ -1127,7 +1070,6 @@
 
     6F : o                                                 o                        o                                       Basic Latin                             LATIN SMALL LETTER O
    366 : cmb-o                                             ocmb                     cmb-o                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER O
-   43E : ocyr                                              ocyr                     ocyr                                    Cyrillic                                CYRILLIC SMALL LETTER O
    913 : deva-o                                            dvO                      deva-o                                  Devanagari                              DEVANAGARI LETTER O 
    993 : beng-o                                            beO                      beng-o                                  Bengali                                 BENGALI LETTER O    
    A93 : gujr-o                                            gjO                      gujr-o                                  Gujarati                                GUJARATI LETTER O   
@@ -1146,9 +1088,6 @@
    911 : deva-ocandra                                      dvOcandra                deva-ocandra                            Devanagari                              DEVANAGARI LETTER CANDRA O
    A91 : gujr-ocandra                                      gjOcandra                gujr-ocandra                            Gujarati                                GUJARATI VOWEL CANDRA O
 
-    F6 : odieresis                                         odieresis                odieresis                               Latin-1 Supplement                      LATIN SMALL LETTER O WITH DIAERESIS
-   4E7 : odieresiscyr                                      odieresiscyr             odieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER O WITH DIAERESIS
-
    153 : oe                                                oe                       oe                                      Latin Extended-A                        LATIN SMALL LIGATURE OE
    6C6 : ar-oe                                             arOe                     ar-oe                                   Arabic                                  ARABIC LETTER OE    
   1825 : mong-oe                                           -                        mong-oe                                 Mongolian                               MONGOLIAN LETTER OE 
@@ -1157,15 +1096,12 @@
    2DB : spcn-ogonek                                       ogonek                   spcn-ogonek                             Spacing Modifier Letters                OGONEK              
    328 : cmb-ogonek                                        ogonekcmb                cmb-ogonek                              Combining Diacritical Marks             COMBINING OGONEK    
 
-  FF75 : hlfw-ohalfwidth                                   okatakanahalfwidth       hlfw-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER O
-  FFCC : hlfw-ohalfwidth                                   -                        hlfw-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER O
+  FF75 : kata-ohalfwidth                                   okatakanahalfwidth       kata-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER O
+  FFCC : ko-ohalfwidth                                     -                        ko-ohalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER O
 
    950 : deva-om                                           dvOm                     deva-om                                 Devanagari                              DEVANAGARI OM       
    AD0 : gujr-om                                           gjOm                     gujr-om                                 Gujarati                                GUJARATI OM         
    BD0 : taml-om                                           taOm                     taml-om                                 Tamil                                   TAMIL OM            
-
-   3C9 : omega                                             omega                    omega                                   Greek and Coptic                        GREEK SMALL LETTER OMEGA
-   461 : omegacyr                                          omegacyrillic            omegacyr                                Cyrillic                                CYRILLIC SMALL LETTER OMEGA
 
     31 : one                                               one                      one                                     Basic Latin                             DIGIT ONE           
    661 : ar-one                                            arOne                    ar-one                                  Arabic                                  ARABIC-INDIC DIGIT ONE
@@ -1252,7 +1188,6 @@
   1368 : ethi-paragraphseparator                           -                        ethi-paragraphseparator                 Ethiopic                                ETHIOPIC PARAGRAPH SEPARATOR
   2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     PARAGRAPH SEPARATOR 
 
-   43F : pecyr                                             pe                       pecyr                                   Cyrillic                                CYRILLIC SMALL LETTER PE
   1355 : ethi-pe                                           -                        ethi-pe                                 Ethiopic                                ETHIOPIC SYLLABLE PE
   307A : hira-pe                                           pehiragana               hira-pe                                 Hiragana                                HIRAGANA LETTER PE  
   30DA : kata-pe                                           pekatakana               kata-pe                                 Katakana                                KATAKANA LETTER PE  
@@ -1263,15 +1198,15 @@
 
     25 : percent                                           percent                  percent                                 Basic Latin                             PERCENT SIGN        
    66A : ar-percent                                        arPercent                ar-percent                              Arabic                                  ARABIC PERCENT SIGN 
-  FE6A : smll-percent                                      percentsmall             smll-percent                            Small Form Variants                     SMALL PERCENT SIGN  
+  FE6A : gnrl-percent                                      percentsmall             gnrl-percent                            Small Form Variants                     SMALL PERCENT SIGN  
 
     2E : period                                            period                   period                                  Basic Latin                             FULL STOP           
    589 : armn-period                                       periodarmenian           armn-period                             Armenian                                ARMENIAN FULL STOP  
   1803 : mong-period                                       -                        mong-period                             Mongolian                               MONGOLIAN FULL STOP 
-  FE52 : smll-period                                       periodsmall              smll-period                             Small Form Variants                     SMALL FULL STOP     
+  FE52 : gnrl-period                                       periodsmall              gnrl-period                             Small Form Variants                     SMALL FULL STOP     
 
   22A5 : math-perpendicular                                perpendicular            math-perpendicular                      Mathematical Operators                  UP TACK             
-  27C2 : misc-perpendicular                                -                        misc-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
+  27C2 : math-perpendicular                                -                        math-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
 
    60A : ar-perthousand                                    -                        ar-perthousand                          Arabic                                  ARABIC-INDIC PER TEN THOUSAND SIGN
   2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     PER MILLE SIGN      
@@ -1300,14 +1235,11 @@
   30D4 : kata-pi                                           pikatakana               kata-pi                                 Katakana                                KATAKANA LETTER PI  
 
     2B : plus                                              plus                     plus                                    Basic Latin                             PLUS SIGN           
-  FE62 : smll-plus                                         plussmall                smll-plus                               Small Form Variants                     SMALL PLUS SIGN     
+  FE62 : gnrl-plus                                         plussmall                gnrl-plus                               Small Form Variants                     SMALL PLUS SIGN     
 
   1356 : ethi-po                                           -                        ethi-po                                 Ethiopic                                ETHIOPIC SYLLABLE PO
   307D : hira-po                                           pohiragana               hira-po                                 Hiragana                                HIRAGANA LETTER PO  
   30DD : kata-po                                           pokatakana               kata-po                                 Katakana                                KATAKANA LETTER PO  
-
-   3C8 : psi                                               psi                      psi                                     Greek and Coptic                        GREEK SMALL LETTER PSI
-   471 : psicyr                                            psicyrillic              psicyr                                  Cyrillic                                CYRILLIC SMALL LETTER PSI
 
   1351 : ethi-pu                                           -                        ethi-pu                                 Ethiopic                                ETHIOPIC SYLLABLE PU
   3077 : hira-pu                                           puhiragana               hira-pu                                 Hiragana                                HIRAGANA LETTER PU  
@@ -1316,7 +1248,6 @@
     71 : q                                                 q                        q                                       Basic Latin                             LATIN SMALL LETTER Q
   3111 : bopo-q                                            qbopomofo                bopo-q                                  Bopomofo                                BOPOMOFO LETTER Q   
 
-   51B : qacyr                                             qa                       qacyr                                   Cyrillic Supplement                     CYRILLIC SMALL LETTER QA
    958 : deva-qa                                           dvQa                     deva-qa                                 Devanagari                              DEVANAGARI LETTER QA
   1240 : ethi-qa                                           -                        ethi-qa                                 Ethiopic                                ETHIOPIC SYLLABLE QA
   182C : mong-qa                                           -                        mong-qa                                 Mongolian                               MONGOLIAN LETTER QA 
@@ -1326,7 +1257,7 @@
    55E : armn-question                                     questionarmenian         armn-question                           Armenian                                ARMENIAN QUESTION MARK
    61F : ar-question                                       arQuestion               ar-question                             Arabic                                  ARABIC QUESTION MARK
   FE16 : vert-question                                     questionvert             vert-question                           Vertical Forms                          PRESENTATION FORM FOR VERTICAL QUESTION MARK
-  FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     SMALL QUESTION MARK 
+  FE56 : gnrl-question                                     -                        gnrl-question                           Small Form Variants                     SMALL QUESTION MARK 
 
     72 : r                                                 r                        r                                       Basic Latin                             LATIN SMALL LETTER R
    36C : cmb-r                                             rcmb                     cmb-r                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER R
@@ -1356,7 +1287,6 @@
    580 : armn-reh                                          reharmenian              armn-reh                                Armenian                                ARMENIAN SMALL LETTER REH
    631 : ar-reh                                            arReh                    ar-reh                                  Arabic                                  ARABIC LETTER REH   
 
-   517 : rhacyr                                            -                        rhacyr                                  Cyrillic Supplement                     CYRILLIC SMALL LETTER RHA
    95D : deva-rha                                          dvRha                    deva-rha                                Devanagari                              DEVANAGARI LETTER RHA
    9DD : beng-rha                                          beRha                    beng-rha                                Bengali                                 BENGALI LETTER RHA  
    B5D : orya-rha                                          odRha                    orya-rha                                Oriya                                   ORIYA LETTER RHA    
@@ -1437,9 +1367,6 @@
   30B5 : kata-sa                                           sakatakana               kata-sa                                 Katakana                                KATAKANA LETTER SA  
   A9B1 : java-sa                                           -                        java-sa                                 Javanese                                JAVANESE LETTER SA  
 
-   259 : ipa-schwa                                         schwa                    ipa-schwa                               IPA Extensions                          LATIN SMALL LETTER SCHWA
-   4D9 : schwacyr                                          schwacyr                 schwacyr                                Cyrillic                                CYRILLIC SMALL LETTER SCHWA
-
   1235 : ethi-se                                           -                        ethi-se                                 Ethiopic                                ETHIOPIC SYLLABLE SE
   305B : hira-se                                           sehiragana               hira-se                                 Hiragana                                HIRAGANA LETTER SE  
   30BB : kata-se                                           sekatakana               kata-se                                 Katakana                                KATAKANA LETTER SE  
@@ -1448,7 +1375,7 @@
    61B : ar-semicolon                                      arSemicolon              ar-semicolon                            Arabic                                  ARABIC SEMICOLON    
   1364 : ethi-semicolon                                    -                        ethi-semicolon                          Ethiopic                                ETHIOPIC SEMICOLON  
   FE14 : vert-semicolon                                    semicolonvert            vert-semicolon                          Vertical Forms                          PRESENTATION FORM FOR VERTICAL SEMICOLON
-  FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     SMALL SEMICOLON     
+  FE54 : gnrl-semicolon                                    semicolonsmall           gnrl-semicolon                          Small Form Variants                     SMALL SEMICOLON     
 
     37 : seven                                             seven                    seven                                   Basic Latin                             DIGIT SEVEN         
    667 : ar-seven                                          arSeven                  ar-seven                                Arabic                                  ARABIC-INDIC DIGIT SEVEN
@@ -1467,7 +1394,6 @@
   1817 : mong-seven                                        -                        mong-seven                              Mongolian                               MONGOLIAN DIGIT SEVEN
   A9D7 : java-seven                                        -                        java-seven                              Javanese                                JAVANESE DIGIT SEVEN
 
-   448 : shacyr                                            sha                      shacyr                                  Cyrillic                                CYRILLIC SMALL LETTER SHA
    577 : armn-sha                                          shaarmenian              armn-sha                                Armenian                                ARMENIAN SMALL LETTER SHA
    936 : deva-sha                                          dvSha                    deva-sha                                Devanagari                              DEVANAGARI LETTER SHA
    9B6 : beng-sha                                          beSha                    beng-sha                                Bengali                                 BENGALI LETTER SHA  
@@ -1548,12 +1474,11 @@
   A9A0 : java-ta                                           -                        java-ta                                 Javanese                                JAVANESE LETTER TA  
 
   22A3 : math-tackleft                                     tackleft                 math-tackleft                           Mathematical Operators                  LEFT TACK           
-  27DE : misc-tackleft                                     -                        misc-tackleft                           Miscellaneous Mathematical Symbols-A    LONG LEFT TACK      
+  27DE : math-tackleft                                     -                        math-tackleft                           Miscellaneous Mathematical Symbols-A    LONG LEFT TACK      
 
   22A2 : math-tackright                                    -                        math-tackright                          Mathematical Operators                  RIGHT TACK          
-  27DD : misc-tackright                                    -                        misc-tackright                          Miscellaneous Mathematical Symbols-A    LONG RIGHT TACK     
+  27DD : math-tackright                                    -                        math-tackright                          Miscellaneous Mathematical Symbols-A    LONG RIGHT TACK     
 
-   442 : tecyr                                             te                       tecyr                                   Cyrillic                                CYRILLIC SMALL LETTER TE
   1275 : ethi-te                                           -                        ethi-te                                 Ethiopic                                ETHIOPIC SYLLABLE TE
   3066 : hira-te                                           tehiragana               hira-te                                 Hiragana                                HIRAGANA LETTER TE  
   30C6 : kata-te                                           tekatakana               kata-te                                 Katakana                                KATAKANA LETTER TE  
@@ -1609,18 +1534,15 @@
   30C8 : kata-to                                           tokatakana               kata-to                                 Katakana                                KATAKANA LETTER TO  
 
   3014 : cjk-tortoiseshellbracketleft                      tortoiseshellbracketleft cjk-tortoiseshellbracketleft            CJK Symbols and Punctuation             LEFT TORTOISE SHELL BRACKET
-  FE5D : smll-tortoiseshellbracketleft                     tortoiseshellbracketleftssmll-tortoiseshellbracketleft           Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
+  FE5D : gnrl-tortoiseshellbracketleft                     tortoiseshellbracketleftsgnrl-tortoiseshellbracketleft           Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
 
   3015 : cjk-tortoiseshellbracketright                     tortoiseshellbracketrightcjk-tortoiseshellbracketright           CJK Symbols and Punctuation             RIGHT TORTOISE SHELL BRACKET
-  FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
+  FE5E : gnrl-tortoiseshellbracketright                    tortoiseshellbracketrightgnrl-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
 
    C58 : telu-tsa                                          teTsa                    telu-tsa                                Telugu                                  TELUGU LETTER TSA   
    F59 : tibt-tsa                                          -                        tibt-tsa                                Tibetan                                 TIBETAN LETTER TSA  
   1338 : ethi-tsa                                          -                        ethi-tsa                                Ethiopic                                ETHIOPIC SYLLABLE TSA
   183C : mong-tsa                                          -                        mong-tsa                                Mongolian                               MONGOLIAN LETTER TSA
-
-   446 : tsecyr                                            tse                      tsecyr                                  Cyrillic                                CYRILLIC SMALL LETTER TSE
-  133D : ethi-tse                                          -                        ethi-tse                                Ethiopic                                ETHIOPIC SYLLABLE TSE
 
    91F : deva-tta                                          dvTta                    deva-tta                                Devanagari                              DEVANAGARI LETTER TTA
    99F : beng-tta                                          beTta                    beng-tta                                Bengali                                 BENGALI LETTER TTA  
@@ -1670,7 +1592,6 @@
 
     75 : u                                                 u                        u                                       Basic Latin                             LATIN SMALL LETTER U
    367 : cmb-u                                             ucmb                     cmb-u                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER U
-   443 : ucyr                                              ucyr                     ucyr                                    Cyrillic                                CYRILLIC SMALL LETTER U
    6C7 : ar-u                                              arU                      ar-u                                    Arabic                                  ARABIC LETTER U     
    909 : deva-u                                            dvU                      deva-u                                  Devanagari                              DEVANAGARI LETTER U 
    989 : beng-u                                            beU                      beng-u                                  Bengali                                 BENGALI LETTER U    
@@ -1688,17 +1609,11 @@
   315C : ko-u                                              ukorean                  ko-u                                    Hangul Compatibility Jamo               HANGUL LETTER U     
   A988 : java-u                                            -                        java-u                                  Javanese                                JAVANESE LETTER U   
 
-    FC : udieresis                                         udieresis                udieresis                               Latin-1 Supplement                      LATIN SMALL LETTER U WITH DIAERESIS
-   4F1 : udieresiscyr                                      udieresiscyr             udieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER U WITH DIAERESIS
-
   1826 : mong-ue                                           -                        mong-ue                                 Mongolian                               MONGOLIAN LETTER UE 
   1D6B : phon-ue                                           -                        phon-ue                                 Phonetic Extensions                     LATIN SMALL LETTER UE
 
-  FF73 : hlfw-uhalfwidth                                   ukatakanahalfwidth       hlfw-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER U
-  FFD3 : hlfw-uhalfwidth                                   -                        hlfw-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER U
-
-   16B : umacron                                           umacron                  umacron                                 Latin Extended-A                        LATIN SMALL LETTER U WITH MACRON
-   4EF : umacroncyr                                        umacroncyr               umacroncyr                              Cyrillic                                CYRILLIC SMALL LETTER U WITH MACRON
+  FF73 : kata-uhalfwidth                                   ukatakanahalfwidth       kata-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER U
+  FFD3 : ko-uhalfwidth                                     -                        ko-uhalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER U
 
    28A : ipa-upsilon                                       upsilonlatin             ipa-upsilon                             IPA Extensions                          LATIN SMALL LETTER UPSILON
    3C5 : upsilon                                           upsilon                  upsilon                                 Greek and Coptic                        GREEK SMALL LETTER UPSILON
@@ -1751,7 +1666,6 @@
   1268 : ethi-va                                           -                        ethi-va                                 Ethiopic                                ETHIOPIC SYLLABLE VA
   30F7 : kata-va                                           vakatakana               kata-va                                 Katakana                                KATAKANA LETTER VA  
 
-   432 : vecyr                                             ve                       vecyr                                   Cyrillic                                CYRILLIC SMALL LETTER VE
    6CB : ar-ve                                             arVe                     ar-ve                                   Arabic                                  ARABIC LETTER VE    
   126D : ethi-ve                                           -                        ethi-ve                                 Ethiopic                                ETHIOPIC SYLLABLE VE
   30F9 : kata-ve                                           vekatakana               kata-ve                                 Katakana                                KATAKANA LETTER VE  
@@ -1798,13 +1712,12 @@
   3158 : ko-wa                                             wakorean                 ko-wa                                   Hangul Compatibility Jamo               HANGUL LETTER WA    
   A9AE : java-wa                                           -                        java-wa                                 Javanese                                JAVANESE LETTER WA  
 
-  FF9C : hlfw-wahalfwidth                                  wakatakanahalfwidth      hlfw-wahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER WA
-  FFCD : hlfw-wahalfwidth                                  -                        hlfw-wahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WA
+  FF9C : kata-wahalfwidth                                  wakatakanahalfwidth      kata-wahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER WA
+  FFCD : ko-wahalfwidth                                    -                        ko-wahalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WA
 
   308E : hira-wasmall                                      wasmallhiragana          hira-wasmall                            Hiragana                                HIRAGANA LETTER SMALL WA
   30EE : kata-wasmall                                      wasmallkatakana          kata-wasmall                            Katakana                                KATAKANA LETTER SMALL WA
 
-   51D : wecyr                                             we                       wecyr                                   Cyrillic Supplement                     CYRILLIC SMALL LETTER WE
   12CD : ethi-we                                           -                        ethi-we                                 Ethiopic                                ETHIOPIC SYLLABLE WE
   3091 : hira-we                                           wehiragana               hira-we                                 Hiragana                                HIRAGANA LETTER WE  
   30F1 : kata-we                                           wekatakana               kata-we                                 Katakana                                KATAKANA LETTER WE  
@@ -1826,7 +1739,6 @@
    3BE : gr-xi                                             xi                       gr-xi                                   Greek and Coptic                        GREEK SMALL LETTER XI
   1282 : ethi-xi                                           -                        ethi-xi                                 Ethiopic                                ETHIOPIC SYLLABLE XI
 
-   44F : yacyr                                             ya                       yacyr                                   Cyrillic                                CYRILLIC SMALL LETTER YA
    92F : deva-ya                                           dvYa                     deva-ya                                 Devanagari                              DEVANAGARI LETTER YA
    9AF : beng-ya                                           beYa                     beng-ya                                 Bengali                                 BENGALI LETTER YA   
    A2F : guru-ya                                           guYa                     guru-ya                                 Gurmukhi                                GURMUKHI LETTER YA  
@@ -1844,11 +1756,8 @@
   3151 : ko-ya                                             yakorean                 ko-ya                                   Hangul Compatibility Jamo               HANGUL LETTER YA    
   A9AA : java-ya                                           -                        java-ya                                 Javanese                                JAVANESE LETTER YA  
 
-   519 : yaecyr                                            -                        yaecyr                                  Cyrillic Supplement                     CYRILLIC SMALL LETTER YAE
-  3152 : ko-yae                                            yaekorean                ko-yae                                  Hangul Compatibility Jamo               HANGUL LETTER YAE   
-
-  FF94 : hlfw-yahalfwidth                                  yakatakanahalfwidth      hlfw-yahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YA
-  FFC4 : hlfw-yahalfwidth                                  -                        hlfw-yahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YA
+  FF94 : kata-yahalfwidth                                  yakatakanahalfwidth      kata-yahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YA
+  FFC4 : ko-yahalfwidth                                    -                        ko-yahalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YA
 
   3083 : hira-yasmall                                      yasmallhiragana          hira-yasmall                            Hiragana                                HIRAGANA LETTER SMALL YA
   30E3 : kata-yasmall                                      yasmallkatakana          kata-yasmall                            Katakana                                KATAKANA LETTER SMALL YA
@@ -1865,21 +1774,20 @@
   30E8 : kata-yo                                           yokatakana               kata-yo                                 Katakana                                KATAKANA LETTER YO  
   315B : ko-yo                                             yokorean                 ko-yo                                   Hangul Compatibility Jamo               HANGUL LETTER YO    
 
-  FF96 : hlfw-yohalfwidth                                  yokatakanahalfwidth      hlfw-yohalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YO
-  FFD2 : hlfw-yohalfwidth                                  -                        hlfw-yohalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YO
+  FF96 : kata-yohalfwidth                                  yokatakanahalfwidth      kata-yohalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YO
+  FFD2 : ko-yohalfwidth                                    -                        ko-yohalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YO
 
   3087 : hira-yosmall                                      yosmallhiragana          hira-yosmall                            Hiragana                                HIRAGANA LETTER SMALL YO
   30E7 : kata-yosmall                                      yosmallkatakana          kata-yosmall                            Katakana                                KATAKANA LETTER SMALL YO
 
-   44E : yucyr                                             yu                       yucyr                                   Cyrillic                                CYRILLIC SMALL LETTER YU
    6C8 : ar-yu                                             arYu                     ar-yu                                   Arabic                                  ARABIC LETTER YU    
   12E9 : ethi-yu                                           -                        ethi-yu                                 Ethiopic                                ETHIOPIC SYLLABLE YU
   3086 : hira-yu                                           yuhiragana               hira-yu                                 Hiragana                                HIRAGANA LETTER YU  
   30E6 : kata-yu                                           yukatakana               kata-yu                                 Katakana                                KATAKANA LETTER YU  
   3160 : ko-yu                                             yukorean                 ko-yu                                   Hangul Compatibility Jamo               HANGUL LETTER YU    
 
-  FF95 : hlfw-yuhalfwidth                                  yukatakanahalfwidth      hlfw-yuhalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YU
-  FFD7 : hlfw-yuhalfwidth                                  -                        hlfw-yuhalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YU
+  FF95 : kata-yuhalfwidth                                  yukatakanahalfwidth      kata-yuhalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YU
+  FFD7 : ko-yuhalfwidth                                    -                        ko-yuhalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YU
 
   3085 : hira-yusmall                                      yusmallhiragana          hira-yusmall                            Hiragana                                HIRAGANA LETTER SMALL YU
   30E5 : kata-yusmall                                      yusmallkatakana          kata-yusmall                            Katakana                                KATAKANA LETTER SMALL YU
@@ -1900,8 +1808,6 @@
   3056 : hira-za                                           zahiragana               hira-za                                 Hiragana                                HIRAGANA LETTER ZA  
   30B6 : kata-za                                           zakatakana               kata-za                                 Katakana                                KATAKANA LETTER ZA  
 
-   437 : zecyr                                             ze                       zecyr                                   Cyrillic                                CYRILLIC SMALL LETTER ZE
-   511 : zecyr                                             -                        zecyr                                   Cyrillic Supplement                     CYRILLIC SMALL LETTER REVERSED ZE
   12DD : ethi-ze                                           -                        ethi-ze                                 Ethiopic                                ETHIOPIC SYLLABLE ZE
   305C : hira-ze                                           zehiragana               hira-ze                                 Hiragana                                HIRAGANA LETTER ZE  
   30BC : kata-ze                                           zekatakana               kata-ze                                 Katakana                                KATAKANA LETTER ZE  
@@ -1926,7 +1832,6 @@
    F5E : tibt-zha                                          -                        tibt-zha                                Tibetan                                 TIBETAN LETTER ZHA  
   12E0 : ethi-zha                                          -                        ethi-zha                                Ethiopic                                ETHIOPIC SYLLABLE ZHA
 
-   436 : zhecyr                                            zhe                      zhecyr                                  Cyrillic                                CYRILLIC SMALL LETTER ZHE
    56A : armn-zhe                                          zhearmenian              armn-zhe                                Armenian                                ARMENIAN SMALL LETTER ZHE
   12E5 : ethi-zhe                                          -                        ethi-zhe                                Ethiopic                                ETHIOPIC SYLLABLE ZHE
 
@@ -1944,7 +1849,7 @@
   12D9 : ethi-zu                                           -                        ethi-zu                                 Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hira-zu                                           zuhiragana               hira-zu                                 Hiragana                                HIRAGANA LETTER ZU  
   30BA : kata-zu                                           zukatakana               kata-zu                                 Katakana                                KATAKANA LETTER ZU  
-# 349 names with conflicts, affecting 1595 unicodes
+# 324 names with conflicts, affecting 1525 unicodes
 
 
 Conflicts by rangename
@@ -1992,8 +1897,6 @@ Arabic Presentation Forms-B
 
 Armenian
    538 : armn-Et                                           Etarmenian               armn-Et                                 Armenian                                ARMENIAN CAPITAL LETTER ET
-   547 : armn-Sha                                          Shaarmenian              armn-Sha                                Armenian                                ARMENIAN CAPITAL LETTER SHA
-   53A : armn-Zhe                                          Zhearmenian              armn-Zhe                                Armenian                                ARMENIAN CAPITAL LETTER ZHE
    56E : armn-ca                                           caarmenian               armn-ca                                 Armenian                                ARMENIAN SMALL LETTER CA
    579 : armn-cha                                          chaarmenian              armn-cha                                Armenian                                ARMENIAN SMALL LETTER CHA
    581 : armn-co                                           coarmenian               armn-co                                 Armenian                                ARMENIAN SMALL LETTER CO
@@ -2172,9 +2075,7 @@ Bopomofo
   3109 : bopo-d                                            dbopomofo                bopo-d                                  Bopomofo                                BOPOMOFO LETTER D   
   311C : bopo-e                                            ebopomofo                bopo-e                                  Bopomofo                                BOPOMOFO LETTER E   
   311D : bopo-eh                                           ehbopomofo               bopo-eh                                 Bopomofo                                BOPOMOFO LETTER EH  
-  3123 : bopo-en                                           enbopomofo               bopo-en                                 Bopomofo                                BOPOMOFO LETTER EN  
   3125 : bopo-eng                                          engbopomofo              bopo-eng                                Bopomofo                                BOPOMOFO LETTER ENG 
-  3126 : bopo-er                                           erbopomofo               bopo-er                                 Bopomofo                                BOPOMOFO LETTER ER  
   3108 : bopo-f                                            fbopomofo                bopo-f                                  Bopomofo                                BOPOMOFO LETTER F   
   310D : bopo-g                                            gbopomofo                bopo-g                                  Bopomofo                                BOPOMOFO LETTER G   
   310F : bopo-h                                            hbopomofo                bopo-h                                  Bopomofo                                BOPOMOFO LETTER H   
@@ -2243,76 +2144,32 @@ Cyrillic
    410 : Acyr                                              Acyr                     Acyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER A
    4D0 : Abrevecyr                                         Abrevecyr                Abrevecyr                               Cyrillic                                CYRILLIC CAPITAL LETTER A WITH BREVE
    4D2 : Adieresiscyr                                      Adieresiscyr             Adieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER A WITH DIAERESIS
-   4C7 : Enhookcyr                                         Enhookcyrillic           Enhookcyr                               Cyrillic                                CYRILLIC CAPITAL LETTER EN WITH HOOK
-   42D : Ereversedcyr                                      Ecyr                     Ereversedcyr                            Cyrillic                                CYRILLIC CAPITAL LETTER E
+   4C7 : ENhookcyr                                         Enhookcyrillic           ENhookcyr                               Cyrillic                                CYRILLIC CAPITAL LETTER EN WITH HOOK
    418 : Icyr                                              Icyr                     Icyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER I
    4E4 : Idieresiscyr                                      Idieresiscyr             Idieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER I WITH DIAERESIS
    40D : Igravecyr                                         Igravecyr                Igravecyr                               Cyrillic                                CYRILLIC CAPITAL LETTER I WITH GRAVE
    4E2 : Imacroncyr                                        Imacroncyr               Imacroncyr                              Cyrillic                                CYRILLIC CAPITAL LETTER I WITH MACRON
-   480 : Koppacyr                                          Koppacyrillic            Koppacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER KOPPA
    41E : Ocyr                                              Ocyr                     Ocyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER O
    4E8 : Obarcyr                                           Obarcyr                  Obarcyr                                 Cyrillic                                CYRILLIC CAPITAL LETTER BARRED O
    4E6 : Odieresiscyr                                      Odieresiscyr             Odieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER O WITH DIAERESIS
-   460 : Omegacyr                                          Omegacyrillic            Omegacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER OMEGA
-   470 : Psicyr                                            Psicyrillic              Psicyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER PSI
-   4D8 : Schwacyr                                          Schwacyr                 Schwacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER SCHWA
-   428 : Shacyr                                            Sha                      Shacyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER SHA
+   4C8 : SMALL ENhookcyr                                   enhookcyrillic           SMALL ENhookcyr                         Cyrillic                                CYRILLIC SMALL LETTER EN WITH HOOK
+   437 : SMALL ZEcyr                                       ze                       SMALL ZEcyr                             Cyrillic                                CYRILLIC SMALL LETTER ZE
    423 : Ucyr                                              Ucyr                     Ucyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER U
    4F0 : Udieresiscyr                                      Udieresiscyr             Udieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER U WITH DIAERESIS
    4EE : Umacroncyr                                        Umacroncyr               Umacroncyr                              Cyrillic                                CYRILLIC CAPITAL LETTER U WITH MACRON
-   417 : Zecyr                                             Ze                       Zecyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER ZE
-   416 : Zhecyr                                            Zhe                      Zhecyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER ZHE
-   430 : acyr                                              acyr                     acyr                                    Cyrillic                                CYRILLIC SMALL LETTER A
-   4D1 : abrevecyr                                         abrevecyr                abrevecyr                               Cyrillic                                CYRILLIC SMALL LETTER A WITH BREVE
-   4D3 : adieresiscyr                                      adieresiscyr             adieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER A WITH DIAERESIS
-   431 : becyr                                             be                       becyr                                   Cyrillic                                CYRILLIC SMALL LETTER BE
-   447 : checyr                                            che                      checyr                                  Cyrillic                                CYRILLIC SMALL LETTER CHE
-   434 : decyr                                             de                       decyr                                   Cyrillic                                CYRILLIC SMALL LETTER DE
-   43D : encyr                                             en                       encyr                                   Cyrillic                                CYRILLIC SMALL LETTER EN
-   4C8 : enhookcyr                                         enhookcyrillic           enhookcyr                               Cyrillic                                CYRILLIC SMALL LETTER EN WITH HOOK
-   440 : ercyr                                             er                       ercyr                                   Cyrillic                                CYRILLIC SMALL LETTER ER
+   417 : ZEcyr                                             Ze                       ZEcyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER ZE
    44D : ereversedcyr                                      ecyr                     ereversedcyr                            Cyrillic                                CYRILLIC SMALL LETTER E
    433 : gecyr                                             ghe                      gecyr                                   Cyrillic                                CYRILLIC SMALL LETTER GHE
-   445 : hacyr                                             ha                       hacyr                                   Cyrillic                                CYRILLIC SMALL LETTER HA
-   438 : icyr                                              icyr                     icyr                                    Cyrillic                                CYRILLIC SMALL LETTER I
-   4E5 : idieresiscyr                                      idieresiscyr             idieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER I WITH DIAERESIS
-   45D : igravecyr                                         igravecyr                igravecyr                               Cyrillic                                CYRILLIC SMALL LETTER I WITH GRAVE
-   4E3 : imacroncyr                                        imacroncyr               imacroncyr                              Cyrillic                                CYRILLIC SMALL LETTER I WITH MACRON
-   458 : jecyr                                             je                       jecyr                                   Cyrillic                                CYRILLIC SMALL LETTER JE
-   43A : kacyr                                             ka                       kacyr                                   Cyrillic                                CYRILLIC SMALL LETTER KA
-   481 : koppacyr                                          koppacyrillic            koppacyr                                Cyrillic                                CYRILLIC SMALL LETTER KOPPA
-   43E : ocyr                                              ocyr                     ocyr                                    Cyrillic                                CYRILLIC SMALL LETTER O
-   4E7 : odieresiscyr                                      odieresiscyr             odieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER O WITH DIAERESIS
-   461 : omegacyr                                          omegacyrillic            omegacyr                                Cyrillic                                CYRILLIC SMALL LETTER OMEGA
-   43F : pecyr                                             pe                       pecyr                                   Cyrillic                                CYRILLIC SMALL LETTER PE
-   471 : psicyr                                            psicyrillic              psicyr                                  Cyrillic                                CYRILLIC SMALL LETTER PSI
-   4D9 : schwacyr                                          schwacyr                 schwacyr                                Cyrillic                                CYRILLIC SMALL LETTER SCHWA
-   448 : shacyr                                            sha                      shacyr                                  Cyrillic                                CYRILLIC SMALL LETTER SHA
-   442 : tecyr                                             te                       tecyr                                   Cyrillic                                CYRILLIC SMALL LETTER TE
-   446 : tsecyr                                            tse                      tsecyr                                  Cyrillic                                CYRILLIC SMALL LETTER TSE
-   443 : ucyr                                              ucyr                     ucyr                                    Cyrillic                                CYRILLIC SMALL LETTER U
-   4F1 : udieresiscyr                                      udieresiscyr             udieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER U WITH DIAERESIS
-   4EF : umacroncyr                                        umacroncyr               umacroncyr                              Cyrillic                                CYRILLIC SMALL LETTER U WITH MACRON
-   432 : vecyr                                             ve                       vecyr                                   Cyrillic                                CYRILLIC SMALL LETTER VE
-   44F : yacyr                                             ya                       yacyr                                   Cyrillic                                CYRILLIC SMALL LETTER YA
-   44E : yucyr                                             yu                       yucyr                                   Cyrillic                                CYRILLIC SMALL LETTER YU
-   437 : zecyr                                             ze                       zecyr                                   Cyrillic                                CYRILLIC SMALL LETTER ZE
-   436 : zhecyr                                            zhe                      zhecyr                                  Cyrillic                                CYRILLIC SMALL LETTER ZHE
 
 Cyrillic Supplement
-   512 : Elhookcyr                                         -                        Elhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH HOOK
-   520 : Elhookcyr                                         -                        Elhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
-   522 : Enhookcyr                                         -                        Enhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK
-   510 : Zecyr                                             -                        Zecyr                                   Cyrillic Supplement                     CYRILLIC CAPITAL LETTER REVERSED ZE
-   513 : elhookcyr                                         -                        elhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH HOOK
-   521 : elhookcyr                                         -                        elhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
-   523 : enhookcyr                                         -                        enhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
-   515 : lhacyr                                            -                        lhacyr                                  Cyrillic Supplement                     CYRILLIC SMALL LETTER LHA
-   51B : qacyr                                             qa                       qacyr                                   Cyrillic Supplement                     CYRILLIC SMALL LETTER QA
-   517 : rhacyr                                            -                        rhacyr                                  Cyrillic Supplement                     CYRILLIC SMALL LETTER RHA
-   51D : wecyr                                             we                       wecyr                                   Cyrillic Supplement                     CYRILLIC SMALL LETTER WE
-   519 : yaecyr                                            -                        yaecyr                                  Cyrillic Supplement                     CYRILLIC SMALL LETTER YAE
-   511 : zecyr                                             -                        zecyr                                   Cyrillic Supplement                     CYRILLIC SMALL LETTER REVERSED ZE
+   512 : ELhookcyr                                         -                        ELhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH HOOK
+   520 : ELhookcyr                                         -                        ELhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
+   522 : ENhookcyr                                         -                        ENhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK
+   513 : SMALL ELhookcyr                                   -                        SMALL ELhookcyr                         Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH HOOK
+   521 : SMALL ELhookcyr                                   -                        SMALL ELhookcyr                         Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
+   523 : SMALL ENhookcyr                                   -                        SMALL ENhookcyr                         Cyrillic Supplement                     CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
+   511 : SMALL ZEcyr                                       -                        SMALL ZEcyr                             Cyrillic Supplement                     CYRILLIC SMALL LETTER REVERSED ZE
+   510 : ZEcyr                                             -                        ZEcyr                                   Cyrillic Supplement                     CYRILLIC CAPITAL LETTER REVERSED ZE
 
 Devanagari
    905 : deva-a                                            dvA                      deva-a                                  Devanagari                              DEVANAGARI LETTER A 
@@ -2421,7 +2278,6 @@ Ethiopic
   1261 : ethi-bu                                           -                        ethi-bu                                 Ethiopic                                ETHIOPIC SYLLABLE BU
   1278 : ethi-ca                                           -                        ethi-ca                                 Ethiopic                                ETHIOPIC SYLLABLE CA
   1328 : ethi-cha                                          -                        ethi-cha                                Ethiopic                                ETHIOPIC SYLLABLE CHA
-  132D : ethi-che                                          -                        ethi-che                                Ethiopic                                ETHIOPIC SYLLABLE CHE
   132A : ethi-chi                                          -                        ethi-chi                                Ethiopic                                ETHIOPIC SYLLABLE CHI
   127E : ethi-co                                           -                        ethi-co                                 Ethiopic                                ETHIOPIC SYLLABLE CO
   1365 : ethi-colon                                        -                        ethi-colon                              Ethiopic                                ETHIOPIC COLON      
@@ -2450,7 +2306,6 @@ Ethiopic
   1206 : ethi-ho                                           -                        ethi-ho                                 Ethiopic                                ETHIOPIC SYLLABLE HO
   1201 : ethi-hu                                           -                        ethi-hu                                 Ethiopic                                ETHIOPIC SYLLABLE HU
   1300 : ethi-ja                                           -                        ethi-ja                                 Ethiopic                                ETHIOPIC SYLLABLE JA
-  1305 : ethi-je                                           -                        ethi-je                                 Ethiopic                                ETHIOPIC SYLLABLE JE
   12A8 : ethi-ka                                           -                        ethi-ka                                 Ethiopic                                ETHIOPIC SYLLABLE KA
   12AD : ethi-ke                                           -                        ethi-ke                                 Ethiopic                                ETHIOPIC SYLLABLE KE
   12AA : ethi-ki                                           -                        ethi-ki                                 Ethiopic                                ETHIOPIC SYLLABLE KI
@@ -2503,7 +2358,6 @@ Ethiopic
   1272 : ethi-ti                                           -                        ethi-ti                                 Ethiopic                                ETHIOPIC SYLLABLE TI
   1276 : ethi-to                                           -                        ethi-to                                 Ethiopic                                ETHIOPIC SYLLABLE TO
   1338 : ethi-tsa                                          -                        ethi-tsa                                Ethiopic                                ETHIOPIC SYLLABLE TSA
-  133D : ethi-tse                                          -                        ethi-tse                                Ethiopic                                ETHIOPIC SYLLABLE TSE
   1271 : ethi-tu                                           -                        ethi-tu                                 Ethiopic                                ETHIOPIC SYLLABLE TU
   136A : ethi-two                                          -                        ethi-two                                Ethiopic                                ETHIOPIC DIGIT TWO  
   1268 : ethi-va                                           -                        ethi-va                                 Ethiopic                                ETHIOPIC SYLLABLE VA
@@ -2548,21 +2402,15 @@ Greek Extended
   1FC0 : gr-tilde                                          perispomeni              gr-tilde                                Greek Extended                          GREEK PERISPOMENI   
 
 Greek and Coptic
-   3DE : Koppa                                             Koppagreek               Koppa                                   Greek and Coptic                        GREEK LETTER KOPPA  
-   3A9 : Omega                                             Omega                    Omega                                   Greek and Coptic                        GREEK CAPITAL LETTER OMEGA
-   3A8 : Psi                                               Psi                      Psi                                     Greek and Coptic                        GREEK CAPITAL LETTER PSI
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        GREEK SMALL LETTER ALPHA
    3C7 : chi                                               chi                      chi                                     Greek and Coptic                        GREEK SMALL LETTER CHI
    3B3 : gamma                                             gamma                    gamma                                   Greek and Coptic                        GREEK SMALL LETTER GAMMA
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        GREEK SMALL LETTER IOTA
    37A : gr-iotasubscript                                  iotasubscript            gr-iotasubscript                        Greek and Coptic                        GREEK YPOGEGRAMMENI 
-   3DF : koppa                                             -                        koppa                                   Greek and Coptic                        GREEK SMALL LETTER KOPPA
    3BC : gr-mu                                             mu                       gr-mu                                   Greek and Coptic                        GREEK SMALL LETTER MU
    3BD : gr-nu                                             nu                       gr-nu                                   Greek and Coptic                        GREEK SMALL LETTER NU
-   3C9 : omega                                             omega                    omega                                   Greek and Coptic                        GREEK SMALL LETTER OMEGA
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        GREEK SMALL LETTER PHI
    3C0 : gr-pi                                             pi                       gr-pi                                   Greek and Coptic                        GREEK SMALL LETTER PI
-   3C8 : psi                                               psi                      psi                                     Greek and Coptic                        GREEK SMALL LETTER PSI
    37E : gr-question                                       questiongreek            gr-question                             Greek and Coptic                        GREEK QUESTION MARK 
    3F8 : gr-sho                                            -                        gr-sho                                  Greek and Coptic                        GREEK SMALL LETTER SHO
    3C5 : upsilon                                           upsilon                  upsilon                                 Greek and Coptic                        GREEK SMALL LETTER UPSILON
@@ -2725,25 +2573,25 @@ Gurmukhi
    A66 : guru-zero                                         guZero                   guru-zero                               Gurmukhi                                GURMUKHI DIGIT ZERO 
 
 Halfwidth and Fullwidth Forms
-  FF71 : hlfw-ahalfwidth                                   akatakanahalfwidth       hlfw-ahalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER A
-  FFC2 : hlfw-ahalfwidth                                   -                        hlfw-ahalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER A
-  FF5C : hlfw-barfullwidth                                 linevertfullwidth        hlfw-barfullwidth                       Halfwidth and Fullwidth Forms           FULLWIDTH VERTICAL LINE
-  FF74 : hlfw-ehalfwidth                                   ekatakanahalfwidth       hlfw-ehalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER E
-  FFC7 : hlfw-ehalfwidth                                   -                        hlfw-ehalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER E
-  FF72 : hlfw-ihalfwidth                                   ikatakanahalfwidth       hlfw-ihalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER I
-  FFDC : hlfw-ihalfwidth                                   -                        hlfw-ihalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER I
-  FF75 : hlfw-ohalfwidth                                   okatakanahalfwidth       hlfw-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER O
-  FFCC : hlfw-ohalfwidth                                   -                        hlfw-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER O
-  FF73 : hlfw-uhalfwidth                                   ukatakanahalfwidth       hlfw-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER U
-  FFD3 : hlfw-uhalfwidth                                   -                        hlfw-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER U
-  FF9C : hlfw-wahalfwidth                                  wakatakanahalfwidth      hlfw-wahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER WA
-  FFCD : hlfw-wahalfwidth                                  -                        hlfw-wahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WA
-  FF94 : hlfw-yahalfwidth                                  yakatakanahalfwidth      hlfw-yahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YA
-  FFC4 : hlfw-yahalfwidth                                  -                        hlfw-yahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YA
-  FF96 : hlfw-yohalfwidth                                  yokatakanahalfwidth      hlfw-yohalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YO
-  FFD2 : hlfw-yohalfwidth                                  -                        hlfw-yohalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YO
-  FF95 : hlfw-yuhalfwidth                                  yukatakanahalfwidth      hlfw-yuhalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YU
-  FFD7 : hlfw-yuhalfwidth                                  -                        hlfw-yuhalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YU
+  FF71 : kata-ahalfwidth                                   akatakanahalfwidth       kata-ahalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER A
+  FFC2 : ko-ahalfwidth                                     -                        ko-ahalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER A
+  FF5C : barfullwidth                                      linevertfullwidth        barfullwidth                            Halfwidth and Fullwidth Forms           FULLWIDTH VERTICAL LINE
+  FF74 : kata-ehalfwidth                                   ekatakanahalfwidth       kata-ehalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER E
+  FFC7 : ko-ehalfwidth                                     -                        ko-ehalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER E
+  FF72 : kata-ihalfwidth                                   ikatakanahalfwidth       kata-ihalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER I
+  FFDC : ko-ihalfwidth                                     -                        ko-ihalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER I
+  FF75 : kata-ohalfwidth                                   okatakanahalfwidth       kata-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER O
+  FFCC : ko-ohalfwidth                                     -                        ko-ohalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER O
+  FF73 : kata-uhalfwidth                                   ukatakanahalfwidth       kata-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER U
+  FFD3 : ko-uhalfwidth                                     -                        ko-uhalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER U
+  FF9C : kata-wahalfwidth                                  wakatakanahalfwidth      kata-wahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER WA
+  FFCD : ko-wahalfwidth                                    -                        ko-wahalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WA
+  FF94 : kata-yahalfwidth                                  yakatakanahalfwidth      kata-yahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YA
+  FFC4 : ko-yahalfwidth                                    -                        ko-yahalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YA
+  FF96 : kata-yohalfwidth                                  yokatakanahalfwidth      kata-yohalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YO
+  FFD2 : ko-yohalfwidth                                    -                        ko-yohalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YO
+  FF95 : kata-yuhalfwidth                                  yukatakanahalfwidth      kata-yuhalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YU
+  FFD7 : ko-yuhalfwidth                                    -                        ko-yuhalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YU
 
 Hangul Compatibility Jamo
   314F : ko-a                                              akorean                  ko-a                                    Hangul Compatibility Jamo               HANGUL LETTER A     
@@ -2757,7 +2605,6 @@ Hangul Compatibility Jamo
   315E : ko-we                                             wekorean                 ko-we                                   Hangul Compatibility Jamo               HANGUL LETTER WE    
   315F : ko-wi                                             wikorean                 ko-wi                                   Hangul Compatibility Jamo               HANGUL LETTER WI    
   3151 : ko-ya                                             yakorean                 ko-ya                                   Hangul Compatibility Jamo               HANGUL LETTER YA    
-  3152 : ko-yae                                            yaekorean                ko-yae                                  Hangul Compatibility Jamo               HANGUL LETTER YAE   
   3156 : ko-ye                                             yekorean                 ko-ye                                   Hangul Compatibility Jamo               HANGUL LETTER YE    
   3162 : ko-yi                                             yikorean                 ko-yi                                   Hangul Compatibility Jamo               HANGUL LETTER YI    
   315B : ko-yo                                             yokorean                 ko-yo                                   Hangul Compatibility Jamo               HANGUL LETTER YO    
@@ -2868,7 +2715,6 @@ IPA Extensions
    261 : ipa-gscript                                       gscript                  ipa-gscript                             IPA Extensions                          LATIN SMALL LETTER SCRIPT G
    269 : ipa-iota                                          iotalatin                ipa-iota                                IPA Extensions                          LATIN SMALL LETTER IOTA
    278 : ipa-phi                                           philatin                 ipa-phi                                 IPA Extensions                          LATIN SMALL LETTER PHI
-   259 : ipa-schwa                                         schwa                    ipa-schwa                               IPA Extensions                          LATIN SMALL LETTER SCHWA
    28A : ipa-upsilon                                       upsilonlatin             ipa-upsilon                             IPA Extensions                          LATIN SMALL LETTER UPSILON
 
 Javanese
@@ -3090,16 +2936,11 @@ Latin Extended-A
    102 : Abreve                                            Abreve                   Abreve                                  Latin Extended-A                        LATIN CAPITAL LETTER A WITH BREVE
    12A : Imacron                                           Imacron                  Imacron                                 Latin Extended-A                        LATIN CAPITAL LETTER I WITH MACRON
    16A : Umacron                                           Umacron                  Umacron                                 Latin Extended-A                        LATIN CAPITAL LETTER U WITH MACRON
-   103 : abreve                                            abreve                   abreve                                  Latin Extended-A                        LATIN SMALL LETTER A WITH BREVE
    14B : eng                                               eng                      eng                                     Latin Extended-A                        LATIN SMALL LETTER ENG
-   12B : imacron                                           imacron                  imacron                                 Latin Extended-A                        LATIN SMALL LETTER I WITH MACRON
    153 : oe                                                oe                       oe                                      Latin Extended-A                        LATIN SMALL LIGATURE OE
-   16B : umacron                                           umacron                  umacron                                 Latin Extended-A                        LATIN SMALL LETTER U WITH MACRON
 
 Latin Extended-B
-   18E : Ereversed                                         Eturned                  Ereversed                               Latin Extended-B                        LATIN CAPITAL LETTER REVERSED E
    19F : Obar                                              Obar                     Obar                                    Latin Extended-B                        LATIN CAPITAL LETTER O WITH MIDDLE TILDE
-   18F : Schwa                                             Schwa                    Schwa                                   Latin Extended-B                        LATIN CAPITAL LETTER SCHWA
    242 : glottalstop                                       glottalstoplatin         glottalstop                             Latin Extended-B                        LATIN SMALL LETTER GLOTTAL STOP
    223 : ou                                                -                        ou                                      Latin Extended-B                        LATIN SMALL LETTER OU
 
@@ -3118,18 +2959,13 @@ Latin-1 Supplement
     D6 : Odieresis                                         Odieresis                Odieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER O WITH DIAERESIS
     DC : Udieresis                                         Udieresis                Udieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER U WITH DIAERESIS
     B4 : acute                                             acute                    acute                                   Latin-1 Supplement                      ACUTE ACCENT        
-    E4 : adieresis                                         adieresis                adieresis                               Latin-1 Supplement                      LATIN SMALL LETTER A WITH DIAERESIS
     E6 : ae                                                ae                       ae                                      Latin-1 Supplement                      LATIN SMALL LETTER AE
     B8 : cedilla                                           cedilla                  cedilla                                 Latin-1 Supplement                      CEDILLA             
     A8 : dieresis                                          dieresis                 dieresis                                Latin-1 Supplement                      DIAERESIS           
-    EF : idieresis                                         idieresis                idieresis                               Latin-1 Supplement                      LATIN SMALL LETTER I WITH DIAERESIS
-    EC : igrave                                            igrave                   igrave                                  Latin-1 Supplement                      LATIN SMALL LETTER I WITH GRAVE
     AF : macron                                            macron                   macron                                  Latin-1 Supplement                      MACRON              
-    F6 : odieresis                                         odieresis                odieresis                               Latin-1 Supplement                      LATIN SMALL LETTER O WITH DIAERESIS
     BD : onehalf                                           onehalf                  onehalf                                 Latin-1 Supplement                      VULGAR FRACTION ONE HALF
     BC : onequarter                                        onequarter               onequarter                              Latin-1 Supplement                      VULGAR FRACTION ONE QUARTER
     BE : threequarters                                     threequarters            threequarters                           Latin-1 Supplement                      VULGAR FRACTION THREE QUARTERS
-    FC : udieresis                                         udieresis                udieresis                               Latin-1 Supplement                      LATIN SMALL LETTER U WITH DIAERESIS
 
 Letterlike Symbols
   2136 : lttr-bet                                          -                        lttr-bet                                Letterlike Symbols                      BET SYMBOL          
@@ -3235,9 +3071,9 @@ Mathematical Operators
   22A2 : math-tackright                                    -                        math-tackright                          Mathematical Operators                  RIGHT TACK          
 
 Miscellaneous Mathematical Symbols-A
-  27C2 : misc-perpendicular                                -                        misc-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
-  27DE : misc-tackleft                                     -                        misc-tackleft                           Miscellaneous Mathematical Symbols-A    LONG LEFT TACK      
-  27DD : misc-tackright                                    -                        misc-tackright                          Miscellaneous Mathematical Symbols-A    LONG RIGHT TACK     
+  27C2 : math-perpendicular                                -                        math-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
+  27DE : math-tackleft                                     -                        math-tackleft                           Miscellaneous Mathematical Symbols-A    LONG LEFT TACK      
+  27DD : math-tackright                                    -                        math-tackright                          Miscellaneous Mathematical Symbols-A    LONG RIGHT TACK     
 
 Miscellaneous Symbols
   2666 : misc-diamondblack                                 diamond                  misc-diamondblack                       Miscellaneous Symbols                   BLACK DIAMOND SUIT  
@@ -3270,7 +3106,6 @@ Mongolian
   183A : mong-ka                                           -                        mong-ka                                 Mongolian                               MONGOLIAN LETTER KA 
   183B : mong-kha                                          -                        mong-kha                                Mongolian                               MONGOLIAN LETTER KHA
   182F : mong-la                                           -                        mong-la                                 Mongolian                               MONGOLIAN LETTER LA 
-  1840 : mong-lha                                          -                        mong-lha                                Mongolian                               MONGOLIAN LETTER LHA
   182E : mong-ma                                           -                        mong-ma                                 Mongolian                               MONGOLIAN LETTER MA 
   1828 : mong-na                                           -                        mong-na                                 Mongolian                               MONGOLIAN LETTER NA 
   1819 : mong-nine                                         -                        mong-nine                               Mongolian                               MONGOLIAN DIGIT NINE
@@ -3395,29 +3230,29 @@ Phonetic Extensions Supplement
   1DB2 : phon-phimod                                       -                        phon-phimod                             Phonetic Extensions Supplement          MODIFIER LETTER SMALL PHI
 
 Small Form Variants
-  FE60 : smll-ampersand                                    -                        smll-ampersand                          Small Form Variants                     SMALL AMPERSAND     
-  FE61 : smll-asterisk                                     asterisksmall            smll-asterisk                           Small Form Variants                     SMALL ASTERISK      
-  FE68 : smll-backslash                                    -                        smll-backslash                          Small Form Variants                     SMALL REVERSE SOLIDUS
-  FE5B : smll-braceleft                                    braceleftsmall           smll-braceleft                          Small Form Variants                     SMALL LEFT CURLY BRACKET
-  FE5C : smll-braceright                                   bracerightsmall          smll-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
-  FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     SMALL COLON         
-  FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     SMALL COMMA         
-  FE69 : smll-dollar                                       dollarsmall              smll-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
-  FE58 : smll-emdash                                       -                        smll-emdash                             Small Form Variants                     SMALL EM DASH       
-  FE66 : smll-equal                                        equalsmall               smll-equal                              Small Form Variants                     SMALL EQUALS SIGN   
-  FE57 : smll-exclam                                       -                        smll-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
-  FE65 : smll-greater                                      greatersmall             smll-greater                            Small Form Variants                     SMALL GREATER-THAN SIGN
-  FE63 : smll-hyphen                                       hyphensmall              smll-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
-  FE51 : smll-ideographiccomma                             -                        smll-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
-  FE64 : smll-less                                         lesssmall                smll-less                               Small Form Variants                     SMALL LESS-THAN SIGN
-  FE5F : smll-numbersign                                   numbersignsmall          smll-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
-  FE6A : smll-percent                                      percentsmall             smll-percent                            Small Form Variants                     SMALL PERCENT SIGN  
-  FE52 : smll-period                                       periodsmall              smll-period                             Small Form Variants                     SMALL FULL STOP     
-  FE62 : smll-plus                                         plussmall                smll-plus                               Small Form Variants                     SMALL PLUS SIGN     
-  FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     SMALL QUESTION MARK 
-  FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     SMALL SEMICOLON     
-  FE5D : smll-tortoiseshellbracketleft                     tortoiseshellbracketleftssmll-tortoiseshellbracketleft           Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
-  FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
+  FE60 : gnrl-ampersand                                    -                        gnrl-ampersand                          Small Form Variants                     SMALL AMPERSAND     
+  FE61 : gnrl-asterisk                                     asterisksmall            gnrl-asterisk                           Small Form Variants                     SMALL ASTERISK      
+  FE68 : gnrl-backslash                                    -                        gnrl-backslash                          Small Form Variants                     SMALL REVERSE SOLIDUS
+  FE5B : gnrl-braceleft                                    braceleftsmall           gnrl-braceleft                          Small Form Variants                     SMALL LEFT CURLY BRACKET
+  FE5C : gnrl-braceright                                   bracerightsmall          gnrl-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
+  FE55 : gnrl-colon                                        colonsmall               gnrl-colon                              Small Form Variants                     SMALL COLON         
+  FE50 : gnrl-comma                                        commasmall               gnrl-comma                              Small Form Variants                     SMALL COMMA         
+  FE69 : gnrl-dollar                                       dollarsmall              gnrl-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
+  FE58 : gnrl-emdash                                       -                        gnrl-emdash                             Small Form Variants                     SMALL EM DASH       
+  FE66 : gnrl-equal                                        equalsmall               gnrl-equal                              Small Form Variants                     SMALL EQUALS SIGN   
+  FE57 : gnrl-exclam                                       -                        gnrl-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
+  FE65 : gnrl-greater                                      greatersmall             gnrl-greater                            Small Form Variants                     SMALL GREATER-THAN SIGN
+  FE63 : gnrl-hyphen                                       hyphensmall              gnrl-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
+  FE51 : gnrl-ideographiccomma                             -                        gnrl-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
+  FE64 : gnrl-less                                         lesssmall                gnrl-less                               Small Form Variants                     SMALL LESS-THAN SIGN
+  FE5F : gnrl-numbersign                                   numbersignsmall          gnrl-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
+  FE6A : gnrl-percent                                      percentsmall             gnrl-percent                            Small Form Variants                     SMALL PERCENT SIGN  
+  FE52 : gnrl-period                                       periodsmall              gnrl-period                             Small Form Variants                     SMALL FULL STOP     
+  FE62 : gnrl-plus                                         plussmall                gnrl-plus                               Small Form Variants                     SMALL PLUS SIGN     
+  FE56 : gnrl-question                                     -                        gnrl-question                           Small Form Variants                     SMALL QUESTION MARK 
+  FE54 : gnrl-semicolon                                    semicolonsmall           gnrl-semicolon                          Small Form Variants                     SMALL SEMICOLON     
+  FE5D : gnrl-tortoiseshellbracketleft                     tortoiseshellbracketleftsgnrl-tortoiseshellbracketleft           Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
+  FE5E : gnrl-tortoiseshellbracketright                    tortoiseshellbracketrightgnrl-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
 
 Spacing Modifier Letters
    2D8 : spcn-breve                                        breve                    spcn-breve                              Spacing Modifier Letters                BREVE               
