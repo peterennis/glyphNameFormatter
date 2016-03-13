@@ -34,7 +34,7 @@ def process(self):
     self.edit("RAISED", "raised")
     self.edit("SHELF", "shelf")
 
-    self.processShape()
+    self.processAs("Helper Shapes")
 
     self.replace("ACCENT")
     self.replace("LETTER")
