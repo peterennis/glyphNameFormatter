@@ -15,8 +15,9 @@ def process(self):
     self.editToFinal("COMBINING", "cmb")
     self.edit("OPEN")
     self.edit("FLATTENED", "flat")
+
     self.processAs("Helper Diacritics")
-    self.processAs("Helper Shapes")
+    self.handleCase()
 
     self.lower()
     self.compress()
