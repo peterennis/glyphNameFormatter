@@ -3,6 +3,7 @@
 
     41 : A                                                 A                        A                                       Basic Latin                             LATIN CAPITAL LETTER A
    410 : Acyr                                              Acyr                     Acyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER A
+  FF21 : fwd-A                                             Afullwidth               fwd-A                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER A
 
    F60 : tibt-AA                                           -                        tibt-AA                                 Tibetan                                 TIBETAN LETTER -A   
   A732 : AA                                                -                        AA                                      Latin Extended-D                        LATIN CAPITAL LETTER AA
@@ -13,17 +14,42 @@
     C4 : Adieresis                                         Adieresis                Adieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER A WITH DIAERESIS
    4D2 : Adieresiscyr                                      Adieresiscyr             Adieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER A WITH DIAERESIS
 
+    42 : B                                                 B                        B                                       Basic Latin                             LATIN CAPITAL LETTER B
+  FF22 : fwd-B                                             Bfullwidth               fwd-B                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER B
+
+    43 : C                                                 C                        C                                       Basic Latin                             LATIN CAPITAL LETTER C
+  FF23 : fwd-C                                             Cfullwidth               fwd-C                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER C
+
+    44 : D                                                 D                        D                                       Basic Latin                             LATIN CAPITAL LETTER D
+  FF24 : fwd-D                                             Dfullwidth               fwd-D                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER D
+
+    45 : E                                                 E                        E                                       Basic Latin                             LATIN CAPITAL LETTER E
+  FF25 : fwd-E                                             Efullwidth               fwd-E                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER E
+
    512 : ELhookcyr                                         -                        ELhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH HOOK
    520 : ELhookcyr                                         -                        ELhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
 
    4C7 : ENhookcyr                                         Enhookcyrillic           ENhookcyr                               Cyrillic                                CYRILLIC CAPITAL LETTER EN WITH HOOK
    522 : ENhookcyr                                         -                        ENhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK
 
+   18E : Ereversed                                         Eturned                  Ereversed                               Latin Extended-B                        LATIN CAPITAL LETTER REVERSED E
+   42D : Ereversed                                         Ecyr                     Ereversed                               Cyrillic                                CYRILLIC CAPITAL LETTER E
+
    538 : armn-Et                                           Etarmenian               armn-Et                                 Armenian                                ARMENIAN CAPITAL LETTER ET
   A76A : Et                                                -                        Et                                      Latin Extended-D                        LATIN CAPITAL LETTER ET
 
+    46 : F                                                 F                        F                                       Basic Latin                             LATIN CAPITAL LETTER F
+  FF26 : fwd-F                                             Ffullwidth               fwd-F                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER F
+
+    47 : G                                                 G                        G                                       Basic Latin                             LATIN CAPITAL LETTER G
+  FF27 : fwd-G                                             Gfullwidth               fwd-G                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER G
+
+    48 : H                                                 H                        H                                       Basic Latin                             LATIN CAPITAL LETTER H
+  FF28 : fwd-H                                             Hfullwidth               fwd-H                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER H
+
     49 : I                                                 I                        I                                       Basic Latin                             LATIN CAPITAL LETTER I
    418 : Icyr                                              Icyr                     Icyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER I
+  FF29 : fwd-I                                             Ifullwidth               fwd-I                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER I
 
     CF : Idieresis                                         Idieresis                Idieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER I WITH DIAERESIS
    4E4 : Idieresiscyr                                      Idieresiscyr             Idieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER I WITH DIAERESIS
@@ -34,14 +60,42 @@
    12A : Imacron                                           Imacron                  Imacron                                 Latin Extended-A                        LATIN CAPITAL LETTER I WITH MACRON
    4E2 : Imacroncyr                                        Imacroncyr               Imacroncyr                              Cyrillic                                CYRILLIC CAPITAL LETTER I WITH MACRON
 
+    4A : J                                                 J                        J                                       Basic Latin                             LATIN CAPITAL LETTER J
+  FF2A : fwd-J                                             Jfullwidth               fwd-J                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER J
+
+    4B : K                                                 K                        K                                       Basic Latin                             LATIN CAPITAL LETTER K
+  FF2B : fwd-K                                             Kfullwidth               fwd-K                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER K
+
+    4C : L                                                 L                        L                                       Basic Latin                             LATIN CAPITAL LETTER L
+  FF2C : fwd-L                                             Lfullwidth               fwd-L                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER L
+
+    4D : M                                                 M                        M                                       Basic Latin                             LATIN CAPITAL LETTER M
+  FF2D : fwd-M                                             Mfullwidth               fwd-M                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER M
+
+    4E : N                                                 N                        N                                       Basic Latin                             LATIN CAPITAL LETTER N
+  FF2E : fwd-N                                             Nfullwidth               fwd-N                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER N
+
     4F : O                                                 O                        O                                       Basic Latin                             LATIN CAPITAL LETTER O
    41E : Ocyr                                              Ocyr                     Ocyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER O
+  FF2F : fwd-O                                             Ofullwidth               fwd-O                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER O
 
    19F : Obar                                              Obar                     Obar                                    Latin Extended-B                        LATIN CAPITAL LETTER O WITH MIDDLE TILDE
    4E8 : Obarcyr                                           Obarcyr                  Obarcyr                                 Cyrillic                                CYRILLIC CAPITAL LETTER BARRED O
 
     D6 : Odieresis                                         Odieresis                Odieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER O WITH DIAERESIS
    4E6 : Odieresiscyr                                      Odieresiscyr             Odieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER O WITH DIAERESIS
+
+    50 : P                                                 P                        P                                       Basic Latin                             LATIN CAPITAL LETTER P
+  FF30 : fwd-P                                             Pfullwidth               fwd-P                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER P
+
+    51 : Q                                                 Q                        Q                                       Basic Latin                             LATIN CAPITAL LETTER Q
+  FF31 : fwd-Q                                             Qfullwidth               fwd-Q                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER Q
+
+    52 : R                                                 R                        R                                       Basic Latin                             LATIN CAPITAL LETTER R
+  FF32 : fwd-R                                             Rfullwidth               fwd-R                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER R
+
+    53 : S                                                 S                        S                                       Basic Latin                             LATIN CAPITAL LETTER S
+  FF33 : fwd-S                                             Sfullwidth               fwd-S                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER S
 
    513 : SMALL ELhookcyr                                   -                        SMALL ELhookcyr                         Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH HOOK
    521 : SMALL ELhookcyr                                   -                        SMALL ELhookcyr                         Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
@@ -52,14 +106,33 @@
    437 : SMALL ZEcyr                                       ze                       SMALL ZEcyr                             Cyrillic                                CYRILLIC SMALL LETTER ZE
    511 : SMALL ZEcyr                                       -                        SMALL ZEcyr                             Cyrillic Supplement                     CYRILLIC SMALL LETTER REVERSED ZE
 
+    54 : T                                                 T                        T                                       Basic Latin                             LATIN CAPITAL LETTER T
+  FF34 : fwd-T                                             Tfullwidth               fwd-T                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER T
+
     55 : U                                                 U                        U                                       Basic Latin                             LATIN CAPITAL LETTER U
    423 : Ucyr                                              Ucyr                     Ucyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER U
+  FF35 : fwd-U                                             Ufullwidth               fwd-U                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER U
 
     DC : Udieresis                                         Udieresis                Udieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER U WITH DIAERESIS
    4F0 : Udieresiscyr                                      Udieresiscyr             Udieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER U WITH DIAERESIS
 
    16A : Umacron                                           Umacron                  Umacron                                 Latin Extended-A                        LATIN CAPITAL LETTER U WITH MACRON
    4EE : Umacroncyr                                        Umacroncyr               Umacroncyr                              Cyrillic                                CYRILLIC CAPITAL LETTER U WITH MACRON
+
+    56 : V                                                 V                        V                                       Basic Latin                             LATIN CAPITAL LETTER V
+  FF36 : fwd-V                                             Vfullwidth               fwd-V                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER V
+
+    57 : W                                                 W                        W                                       Basic Latin                             LATIN CAPITAL LETTER W
+  FF37 : fwd-W                                             Wfullwidth               fwd-W                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER W
+
+    58 : X                                                 X                        X                                       Basic Latin                             LATIN CAPITAL LETTER X
+  FF38 : fwd-X                                             Xfullwidth               fwd-X                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER X
+
+    59 : Y                                                 Y                        Y                                       Basic Latin                             LATIN CAPITAL LETTER Y
+  FF39 : fwd-Y                                             Yfullwidth               fwd-Y                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER Y
+
+    5A : Z                                                 Z                        Z                                       Basic Latin                             LATIN CAPITAL LETTER Z
+  FF3A : fwd-Z                                             Zfullwidth               fwd-Z                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER Z
 
    417 : ZEcyr                                             Ze                       ZEcyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER ZE
    510 : ZEcyr                                             -                        ZEcyr                                   Cyrillic Supplement                     CYRILLIC CAPITAL LETTER REVERSED ZE
@@ -82,6 +155,8 @@
   311A : bopo-a                                            abopomofo                bopo-a                                  Bopomofo                                BOPOMOFO LETTER A   
   314F : ko-a                                              akorean                  ko-a                                    Hangul Compatibility Jamo               HANGUL LETTER A     
   A984 : java-a                                            -                        java-a                                  Javanese                                JAVANESE LETTER A   
+  FF41 : fwd-a                                             afullwidth               fwd-a                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER A
+  FFC2 : hwd-a                                             -                        hwd-a                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER A
 
    906 : deva-aa                                           dvAa                     deva-aa                                 Devanagari                              DEVANAGARI LETTER AA
    986 : beng-aa                                           beAa                     beng-aa                                 Bengali                                 BENGALI LETTER AA   
@@ -111,9 +186,7 @@
     E6 : ae                                                ae                       ae                                      Latin-1 Supplement                      LATIN SMALL LETTER AE
    6D5 : ar-ae                                             arAe                     ar-ae                                   Arabic                                  ARABIC LETTER AE    
   3150 : ko-ae                                             aekorean                 ko-ae                                   Hangul Compatibility Jamo               HANGUL LETTER AE    
-
-  FF71 : kata-ahalfwidth                                   akatakanahalfwidth       kata-ahalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER A
-  FFC2 : ko-ahalfwidth                                     -                        ko-ahalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER A
+  FFC3 : hwd-ae                                            -                        hwd-ae                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER AE
 
    910 : deva-ai                                           dvAi                     deva-ai                                 Devanagari                              DEVANAGARI LETTER AI
    990 : beng-ai                                           beAi                     beng-ai                                 Bengali                                 BENGALI LETTER AI   
@@ -151,6 +224,7 @@
 
     26 : ampersand                                         ampersand                ampersand                               Basic Latin                             AMPERSAND           
   FE60 : gnrl-ampersand                                    -                        gnrl-ampersand                          Small Form Variants                     SMALL AMPERSAND     
+  FF06 : fwd-ampersand                                     ampersandfullwidth       fwd-ampersand                           Halfwidth and Fullwidth Forms           FULLWIDTH AMPERSAND 
 
   1829 : mong-ang                                          -                        mong-ang                                Mongolian                               MONGOLIAN LETTER ANG
   3124 : bopo-ang                                          angbopomofo              bopo-ang                                Bopomofo                                BOPOMOFO LETTER ANG 
@@ -165,11 +239,21 @@
    C02 : telu-anusvarasign                                 teAnusvara               telu-anusvarasign                       Telugu                                  TELUGU SIGN ANUSVARA
    D02 : mlym-anusvarasign                                 mlAnusvara               mlym-anusvarasign                       Malayalam                               MALAYALAM SIGN ANUSVARA
 
+    5E : asciicircum                                       asciicircum              asciicircum                             Basic Latin                             CIRCUMFLEX ACCENT   
+  FF3E : fwd-asciicircum                                   asciicircumfullwidth     fwd-asciicircum                         Halfwidth and Fullwidth Forms           FULLWIDTH CIRCUMFLEX ACCENT
+
+    7E : asciitilde                                        asciitilde               asciitilde                              Basic Latin                             TILDE               
+  FF5E : fwd-asciitilde                                    asciitildefullwidth      fwd-asciitilde                          Halfwidth and Fullwidth Forms           FULLWIDTH TILDE     
+
   3041 : hira-asmall                                       asmallhiragana           hira-asmall                             Hiragana                                HIRAGANA LETTER SMALL A
   30A1 : kata-asmall                                       asmallkatakana           kata-asmall                             Katakana                                KATAKANA LETTER SMALL A
 
     2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             ASTERISK            
   FE61 : gnrl-asterisk                                     asterisksmall            gnrl-asterisk                           Small Form Variants                     SMALL ASTERISK      
+  FF0A : fwd-asterisk                                      asteriskfullwidth        fwd-asterisk                            Halfwidth and Fullwidth Forms           FULLWIDTH ASTERISK  
+
+    40 : at                                                at                       at                                      Basic Latin                             COMMERCIAL AT       
+  FF20 : fwd-at                                            atfullwidth              fwd-at                                  Halfwidth and Fullwidth Forms           FULLWIDTH COMMERCIAL AT
 
    914 : deva-au                                           dvAu                     deva-au                                 Devanagari                              DEVANAGARI LETTER AU
    994 : beng-au                                           beAu                     beng-au                                 Bengali                                 BENGALI LETTER AU   
@@ -208,6 +292,7 @@
 
     62 : b                                                 b                        b                                       Basic Latin                             LATIN SMALL LETTER B
   3105 : bopo-b                                            bbopomofo                bopo-b                                  Bopomofo                                BOPOMOFO LETTER B   
+  FF42 : fwd-b                                             bfullwidth               fwd-b                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER B
 
    92C : deva-ba                                           dvBa                     deva-ba                                 Devanagari                              DEVANAGARI LETTER BA
    9AC : beng-ba                                           beBa                     beng-ba                                 Bengali                                 BENGALI LETTER BA   
@@ -226,9 +311,10 @@
 
     5C : backslash                                         backslash                backslash                               Basic Latin                             REVERSE SOLIDUS     
   FE68 : gnrl-backslash                                    -                        gnrl-backslash                          Small Form Variants                     SMALL REVERSE SOLIDUS
+  FF3C : fwd-backslash                                     backslashfullwidth       fwd-backslash                           Halfwidth and Fullwidth Forms           FULLWIDTH REVERSE SOLIDUS
 
-  3374 : cjk-barfullwidth                                  barfullwidth             cjk-barfullwidth                        CJK Compatibility                       SQUARE BAR          
-  FF5C : barfullwidth                                      linevertfullwidth        barfullwidth                            Halfwidth and Fullwidth Forms           FULLWIDTH VERTICAL LINE
+    7C : bar                                               bar                      bar                                     Basic Latin                             VERTICAL LINE       
+  FF5C : fwd-bar                                           linevertfullwidth        fwd-bar                                 Halfwidth and Fullwidth Forms           FULLWIDTH VERTICAL LINE
 
   1265 : ethi-be                                           -                        ethi-be                                 Ethiopic                                ETHIOPIC SYLLABLE BE
   3079 : hira-be                                           behiragana               hira-be                                 Hiragana                                HIRAGANA LETTER BE  
@@ -263,12 +349,23 @@
 
     7B : braceleft                                         braceleft                braceleft                               Basic Latin                             LEFT CURLY BRACKET  
   FE5B : gnrl-braceleft                                    braceleftsmall           gnrl-braceleft                          Small Form Variants                     SMALL LEFT CURLY BRACKET
+  FF5B : fwd-braceleft                                     braceleftfullwidth       fwd-braceleft                           Halfwidth and Fullwidth Forms           FULLWIDTH LEFT CURLY BRACKET
 
     7D : braceright                                        braceright               braceright                              Basic Latin                             RIGHT CURLY BRACKET 
   FE5C : gnrl-braceright                                   bracerightsmall          gnrl-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
+  FF5D : fwd-braceright                                    bracerightfullwidth      fwd-braceright                          Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT CURLY BRACKET
+
+    5B : bracketleft                                       bracketleft              bracketleft                             Basic Latin                             LEFT SQUARE BRACKET 
+  FF3B : fwd-bracketleft                                   bracketleftfullwidth     fwd-bracketleft                         Halfwidth and Fullwidth Forms           FULLWIDTH LEFT SQUARE BRACKET
+
+    5D : bracketright                                      bracketright             bracketright                            Basic Latin                             RIGHT SQUARE BRACKET
+  FF3D : fwd-bracketright                                  bracketrightfullwidth    fwd-bracketright                        Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT SQUARE BRACKET
 
    2D8 : spcn-breve                                        breve                    spcn-breve                              Spacing Modifier Letters                BREVE               
    306 : cmb-breve                                         brevecmb                 cmb-breve                               Combining Diacritical Marks             COMBINING BREVE     
+
+    A6 : brokenbar                                         brokenbar                brokenbar                               Latin-1 Supplement                      BROKEN BAR          
+  FFE4 : fwd-brokenbar                                     -                        fwd-brokenbar                           Halfwidth and Fullwidth Forms           FULLWIDTH BROKEN BAR
 
   1261 : ethi-bu                                           -                        ethi-bu                                 Ethiopic                                ETHIOPIC SYLLABLE BU
   3076 : hira-bu                                           buhiragana               hira-bu                                 Hiragana                                HIRAGANA LETTER BU  
@@ -277,6 +374,7 @@
     63 : c                                                 c                        c                                       Basic Latin                             LATIN SMALL LETTER C
    368 : cmb-c                                             ccmb                     cmb-c                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER C
   3118 : bopo-c                                            cbopomofo                bopo-c                                  Bopomofo                                BOPOMOFO LETTER C   
+  FF43 : fwd-c                                             cfullwidth               fwd-c                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER C
 
    56E : armn-ca                                           caarmenian               armn-ca                                 Armenian                                ARMENIAN SMALL LETTER CA
    91A : deva-ca                                           dvCa                     deva-ca                                 Devanagari                              DEVANAGARI LETTER CA
@@ -320,6 +418,12 @@
   132A : ethi-chi                                          -                        ethi-chi                                Ethiopic                                ETHIOPIC SYLLABLE CHI
   1842 : mong-chi                                          -                        mong-chi                                Mongolian                               MONGOLIAN LETTER CHI
 
+  314A : ko-chieuch                                        chieuchkorean            ko-chieuch                              Hangul Compatibility Jamo               HANGUL LETTER CHIEUCH
+  FFBA : hwd-chieuch                                       -                        hwd-chieuch                             Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER CHIEUCH
+
+  3148 : ko-cieuc                                          cieuckorean              ko-cieuc                                Hangul Compatibility Jamo               HANGUL LETTER CIEUC 
+  FFB8 : hwd-cieuc                                         -                        hwd-cieuc                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER CIEUC
+
    581 : armn-co                                           coarmenian               armn-co                                 Armenian                                ARMENIAN SMALL LETTER CO
   127E : ethi-co                                           -                        ethi-co                                 Ethiopic                                ETHIOPIC SYLLABLE CO
 
@@ -328,6 +432,7 @@
   1804 : mong-colon                                        -                        mong-colon                              Mongolian                               MONGOLIAN COLON     
   FE13 : vert-colon                                        colonvert                vert-colon                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COLON
   FE55 : gnrl-colon                                        colonsmall               gnrl-colon                              Small Form Variants                     SMALL COLON         
+  FF1A : fwd-colon                                         colonfullwidth           fwd-colon                               Halfwidth and Fullwidth Forms           FULLWIDTH COLON     
 
     2C : comma                                             comma                    comma                                   Basic Latin                             COMMA               
    55D : armn-comma                                        commaarmenian            armn-comma                              Armenian                                ARMENIAN COMMA      
@@ -336,6 +441,7 @@
   1802 : mong-comma                                        -                        mong-comma                              Mongolian                               MONGOLIAN COMMA     
   FE10 : vert-comma                                        commavert                vert-comma                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COMMA
   FE50 : gnrl-comma                                        commasmall               gnrl-comma                              Small Form Variants                     SMALL COMMA         
+  FF0C : fwd-comma                                         commafullwidth           fwd-comma                               Halfwidth and Fullwidth Forms           FULLWIDTH COMMA     
 
    606 : ar-cuberoot                                       -                        ar-cuberoot                             Arabic                                  ARABIC-INDIC CUBE ROOT
   221B : math-cuberoot                                     -                        math-cuberoot                           Mathematical Operators                  CUBE ROOT           
@@ -343,6 +449,7 @@
     64 : d                                                 d                        d                                       Basic Latin                             LATIN SMALL LETTER D
    369 : cmb-d                                             dcmb                     cmb-d                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER D
   3109 : bopo-d                                            dbopomofo                bopo-d                                  Bopomofo                                BOPOMOFO LETTER D   
+  FF44 : fwd-d                                             dfullwidth               fwd-d                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER D
 
    564 : armn-da                                           daarmenian               armn-da                                 Armenian                                ARMENIAN SMALL LETTER DA
    926 : deva-da                                           dvDa                     deva-da                                 Devanagari                              DEVANAGARI LETTER DA
@@ -421,6 +528,7 @@
 
     24 : dollar                                            dollar                   dollar                                  Basic Latin                             DOLLAR SIGN         
   FE69 : gnrl-dollar                                       dollarsmall              gnrl-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
+  FF04 : fwd-dollar                                        dollarfullwidth          fwd-dollar                              Halfwidth and Fullwidth Forms           FULLWIDTH DOLLAR SIGN
 
    2D9 : spcn-dotaccent                                    dotaccent                spcn-dotaccent                          Spacing Modifier Letters                DOT ABOVE           
    307 : cmb-dotaccent                                     dotaccentcmb             cmb-dotaccent                           Combining Diacritical Marks             COMBINING DOT ABOVE 
@@ -449,6 +557,8 @@
   311C : bopo-e                                            ebopomofo                bopo-e                                  Bopomofo                                BOPOMOFO LETTER E   
   3154 : ko-e                                              ekorean                  ko-e                                    Hangul Compatibility Jamo               HANGUL LETTER E     
   A98C : java-e                                            -                        java-e                                  Javanese                                JAVANESE LETTER E   
+  FF45 : fwd-e                                             efullwidth               fwd-e                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER E
+  FFC7 : hwd-e                                             -                        hwd-e                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER E
 
    90D : deva-ecandra                                      dvEcandra                deva-ecandra                            Devanagari                              DEVANAGARI LETTER CANDRA E
    A8D : gujr-ecandra                                      gjEcandra                gujr-ecandra                            Gujarati                                GUJARATI VOWEL CANDRA E
@@ -469,9 +579,6 @@
    567 : armn-eh                                           eharmenian               armn-eh                                 Armenian                                ARMENIAN SMALL LETTER EH
   311D : bopo-eh                                           ehbopomofo               bopo-eh                                 Bopomofo                                BOPOMOFO LETTER EH  
 
-  FF74 : kata-ehalfwidth                                   ekatakanahalfwidth       kata-ehalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER E
-  FFC7 : ko-ehalfwidth                                     -                        ko-ehalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER E
-
     38 : eight                                             eight                    eight                                   Basic Latin                             DIGIT EIGHT         
    668 : ar-eight                                          arEight                  ar-eight                                Arabic                                  ARABIC-INDIC DIGIT EIGHT
    96E : deva-eight                                        dvEight                  deva-eight                              Devanagari                              DEVANAGARI DIGIT EIGHT
@@ -488,6 +595,7 @@
   1370 : ethi-eight                                        -                        ethi-eight                              Ethiopic                                ETHIOPIC DIGIT EIGHT
   1818 : mong-eight                                        -                        mong-eight                              Mongolian                               MONGOLIAN DIGIT EIGHT
   A9D8 : java-eight                                        -                        java-eight                              Javanese                                JAVANESE DIGIT EIGHT
+  FF18 : fwd-eight                                         eightfullwidth           fwd-eight                               Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT EIGHT
 
   1801 : mong-ellipsis                                     -                        mong-ellipsis                           Mongolian                               MONGOLIAN ELLIPSIS  
   2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     HORIZONTAL ELLIPSIS 
@@ -498,8 +606,12 @@
    14B : eng                                               eng                      eng                                     Latin Extended-A                        LATIN SMALL LETTER ENG
   3125 : bopo-eng                                          engbopomofo              bopo-eng                                Bopomofo                                BOPOMOFO LETTER ENG 
 
+  3153 : ko-eo                                             eokorean                 ko-eo                                   Hangul Compatibility Jamo               HANGUL LETTER EO    
+  FFC6 : hwd-eo                                            -                        hwd-eo                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER EO
+
     3D : equal                                             equal                    equal                                   Basic Latin                             EQUALS SIGN         
   FE66 : gnrl-equal                                        equalsmall               gnrl-equal                              Small Form Variants                     SMALL EQUALS SIGN   
+  FF1D : fwd-equal                                         equalfullwidth           fwd-equal                               Halfwidth and Fullwidth Forms           FULLWIDTH EQUALS SIGN
 
    258 : ipa-ereversed                                     ereversed                ipa-ereversed                           IPA Extensions                          LATIN SMALL LETTER REVERSED E
    44D : ereversedcyr                                      ecyr                     ereversedcyr                            Cyrillic                                CYRILLIC SMALL LETTER E
@@ -522,13 +634,18 @@
    568 : armn-et                                           etarmenian               armn-et                                 Armenian                                ARMENIAN SMALL LETTER ET
   A76B : et                                                -                        et                                      Latin Extended-D                        LATIN SMALL LETTER ET
 
+  3161 : ko-eu                                             eukorean                 ko-eu                                   Hangul Compatibility Jamo               HANGUL LETTER EU    
+  FFDA : hwd-eu                                            -                        hwd-eu                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER EU
+
     21 : exclam                                            exclam                   exclam                                  Basic Latin                             EXCLAMATION MARK    
    55C : armn-exclam                                       exclamarmenian           armn-exclam                             Armenian                                ARMENIAN EXCLAMATION MARK
   FE15 : vert-exclam                                       exclamvert               vert-exclam                             Vertical Forms                          PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK
   FE57 : gnrl-exclam                                       -                        gnrl-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
+  FF01 : fwd-exclam                                        exclamfullwidth          fwd-exclam                              Halfwidth and Fullwidth Forms           FULLWIDTH EXCLAMATION MARK
 
     66 : f                                                 f                        f                                       Basic Latin                             LATIN SMALL LETTER F
   3108 : bopo-f                                            fbopomofo                bopo-f                                  Bopomofo                                BOPOMOFO LETTER F   
+  FF46 : fwd-f                                             ffullwidth               fwd-f                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER F
 
    95E : deva-fa                                           dvFa                     deva-fa                                 Devanagari                              DEVANAGARI LETTER FA
    A5E : guru-fa                                           guFa                     guru-fa                                 Gurmukhi                                GURMUKHI LETTER FA  
@@ -558,6 +675,7 @@
   136D : ethi-five                                         -                        ethi-five                               Ethiopic                                ETHIOPIC DIGIT FIVE 
   1815 : mong-five                                         -                        mong-five                               Mongolian                               MONGOLIAN DIGIT FIVE
   A9D5 : java-five                                         -                        java-five                               Javanese                                JAVANESE DIGIT FIVE 
+  FF15 : fwd-five                                          fivefullwidth            fwd-five                                Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT FIVE
 
     34 : four                                              four                     four                                    Basic Latin                             DIGIT FOUR          
    664 : ar-four                                           arFour                   ar-four                                 Arabic                                  ARABIC-INDIC DIGIT FOUR
@@ -575,12 +693,14 @@
   136C : ethi-four                                         -                        ethi-four                               Ethiopic                                ETHIOPIC DIGIT FOUR 
   1814 : mong-four                                         -                        mong-four                               Mongolian                               MONGOLIAN DIGIT FOUR
   A9D4 : java-four                                         -                        java-four                               Javanese                                JAVANESE DIGIT FOUR 
+  FF14 : fwd-four                                          fourfullwidth            fwd-four                                Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT FOUR
 
    607 : ar-fourthroot                                     -                        ar-fourthroot                           Arabic                                  ARABIC-INDIC FOURTH ROOT
   221C : math-fourthroot                                   -                        math-fourthroot                         Mathematical Operators                  FOURTH ROOT         
 
     67 : g                                                 g                        g                                       Basic Latin                             LATIN SMALL LETTER G
   310D : bopo-g                                            gbopomofo                bopo-g                                  Bopomofo                                BOPOMOFO LETTER G   
+  FF47 : fwd-g                                             gfullwidth               fwd-g                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER G
 
    917 : deva-ga                                           dvGa                     deva-ga                                 Devanagari                              DEVANAGARI LETTER GA
    997 : beng-ga                                           beGa                     beng-ga                                 Bengali                                 BENGALI LETTER GA   
@@ -639,9 +759,11 @@
     60 : grave                                             grave                    grave                                   Basic Latin                             GRAVE ACCENT        
    953 : deva-grave                                        dvGrave                  deva-grave                              Devanagari                              DEVANAGARI GRAVE ACCENT
   1FEF : gr-grave                                          varia                    gr-grave                                Greek Extended                          GREEK VARIA         
+  FF40 : fwd-grave                                         gravefullwidth           fwd-grave                               Halfwidth and Fullwidth Forms           FULLWIDTH GRAVE ACCENT
 
     3E : greater                                           greater                  greater                                 Basic Latin                             GREATER-THAN SIGN   
   FE65 : gnrl-greater                                      greatersmall             gnrl-greater                            Small Form Variants                     SMALL GREATER-THAN SIGN
+  FF1E : fwd-greater                                       greaterfullwidth         fwd-greater                             Halfwidth and Fullwidth Forms           FULLWIDTH GREATER-THAN SIGN
 
    261 : ipa-gscript                                       gscript                  ipa-gscript                             IPA Extensions                          LATIN SMALL LETTER SCRIPT G
   210A : lttr-gscript                                      gscriptmath              lttr-gscript                            Letterlike Symbols                      SCRIPT SMALL G      
@@ -653,6 +775,7 @@
     68 : h                                                 h                        h                                       Basic Latin                             LATIN SMALL LETTER H
    36A : cmb-h                                             hcmb                     cmb-h                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER H
   310F : bopo-h                                            hbopomofo                bopo-h                                  Bopomofo                                BOPOMOFO LETTER H   
+  FF48 : fwd-h                                             hfullwidth               fwd-h                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER H
 
    939 : deva-ha                                           dvHa                     deva-ha                                 Devanagari                              DEVANAGARI LETTER HA
    9B9 : beng-ha                                           beHa                     beng-ha                                 Bengali                                 BENGALI LETTER HA   
@@ -681,6 +804,9 @@
   3072 : hira-hi                                           hihiragana               hira-hi                                 Hiragana                                HIRAGANA LETTER HI  
   30D2 : kata-hi                                           hikatakana               kata-hi                                 Katakana                                KATAKANA LETTER HI  
 
+  314E : ko-hieuh                                          hieuhkorean              ko-hieuh                                Hangul Compatibility Jamo               HANGUL LETTER HIEUH 
+  FFBE : hwd-hieuh                                         -                        hwd-hieuh                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER HIEUH
+
    570 : armn-ho                                           hoarmenian               armn-ho                                 Armenian                                ARMENIAN SMALL LETTER HO
   1206 : ethi-ho                                           -                        ethi-ho                                 Ethiopic                                ETHIOPIC SYLLABLE HO
   307B : hira-ho                                           hohiragana               hira-ho                                 Hiragana                                HIRAGANA LETTER HO  
@@ -697,6 +823,7 @@
    58A : armn-hyphen                                       -                        armn-hyphen                             Armenian                                ARMENIAN HYPHEN     
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     HYPHEN              
   FE63 : gnrl-hyphen                                       hyphensmall              gnrl-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
+  FF0D : fwd-hyphen                                        hyphenfullwidth          fwd-hyphen                              Halfwidth and Fullwidth Forms           FULLWIDTH HYPHEN-MINUS
 
     69 : i                                                 i                        i                                       Basic Latin                             LATIN SMALL LETTER I
    365 : cmb-i                                             icmb                     cmb-i                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER I
@@ -715,13 +842,19 @@
   3127 : bopo-i                                            ibopomofo                bopo-i                                  Bopomofo                                BOPOMOFO LETTER I   
   3163 : ko-i                                              ikorean                  ko-i                                    Hangul Compatibility Jamo               HANGUL LETTER I     
   A986 : java-i                                            -                        java-i                                  Javanese                                JAVANESE LETTER I   
+  FF49 : fwd-i                                             ifullwidth               fwd-i                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER I
+  FFDC : hwd-i                                             -                        hwd-i                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER I
 
   3001 : cjk-ideographiccomma                              ideographiccomma         cjk-ideographiccomma                    CJK Symbols and Punctuation             IDEOGRAPHIC COMMA   
   FE11 : vert-ideographiccomma                             -                        vert-ideographiccomma                   Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA
   FE51 : gnrl-ideographiccomma                             -                        gnrl-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
+  FF64 : hwd-ideographiccomma                              ideographiccommaleft     hwd-ideographiccomma                    Halfwidth and Fullwidth Forms           HALFWIDTH IDEOGRAPHIC COMMA
 
-  FF72 : kata-ihalfwidth                                   ikatakanahalfwidth       kata-ihalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER I
-  FFDC : ko-ihalfwidth                                     -                        ko-ihalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER I
+  FE12 : vert-ideographicfullstop                          -                        vert-ideographicfullstop                Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP
+  FF61 : hwd-ideographicfullstop                           periodhalfwidth          hwd-ideographicfullstop                 Halfwidth and Fullwidth Forms           HALFWIDTH IDEOGRAPHIC FULL STOP
+
+  3147 : ko-ieung                                          ieungkorean              ko-ieung                                Hangul Compatibility Jamo               HANGUL LETTER IEUNG 
+  FFB7 : hwd-ieung                                         -                        hwd-ieung                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER IEUNG
 
    908 : deva-ii                                           dvIi                     deva-ii                                 Devanagari                              DEVANAGARI LETTER II
    988 : beng-ii                                           beIi                     beng-ii                                 Bengali                                 BENGALI LETTER II   
@@ -768,6 +901,7 @@
 
     6A : j                                                 j                        j                                       Basic Latin                             LATIN SMALL LETTER J
   3110 : bopo-j                                            jbopomofo                bopo-j                                  Bopomofo                                BOPOMOFO LETTER J   
+  FF4A : fwd-j                                             jfullwidth               fwd-j                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER J
 
    571 : armn-ja                                           jaarmenian               armn-ja                                 Armenian                                ARMENIAN SMALL LETTER JA
    91C : deva-ja                                           dvJa                     deva-ja                                 Devanagari                              DEVANAGARI LETTER JA
@@ -795,6 +929,7 @@
 
     6B : k                                                 k                        k                                       Basic Latin                             LATIN SMALL LETTER K
   310E : bopo-k                                            kbopomofo                bopo-k                                  Bopomofo                                BOPOMOFO LETTER K   
+  FF4B : fwd-k                                             kfullwidth               fwd-k                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER K
 
    915 : deva-ka                                           dvKa                     deva-ka                                 Devanagari                              DEVANAGARI LETTER KA
    995 : beng-ka                                           beKa                     beng-ka                                 Bengali                                 BENGALI LETTER KA   
@@ -842,9 +977,18 @@
    959 : deva-khha                                         dvKhha                   deva-khha                               Devanagari                              DEVANAGARI LETTER KHHA
    A59 : guru-khha                                         guKhha                   guru-khha                               Gurmukhi                                GURMUKHI LETTER KHHA
 
+  314B : ko-khieukh                                        khieukhkorean            ko-khieukh                              Hangul Compatibility Jamo               HANGUL LETTER KHIEUKH
+  FFBB : hwd-khieukh                                       -                        hwd-khieukh                             Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER KHIEUKH
+
   12AA : ethi-ki                                           -                        ethi-ki                                 Ethiopic                                ETHIOPIC SYLLABLE KI
   304D : hira-ki                                           kihiragana               hira-ki                                 Hiragana                                HIRAGANA LETTER KI  
   30AD : kata-ki                                           kikatakana               kata-ki                                 Katakana                                KATAKANA LETTER KI  
+
+  3131 : ko-kiyeok                                         kiyeokkorean             ko-kiyeok                               Hangul Compatibility Jamo               HANGUL LETTER KIYEOK
+  FFA1 : hwd-kiyeok                                        -                        hwd-kiyeok                              Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER KIYEOK
+
+  3133 : ko-kiyeoksios                                     kiyeoksioskorean         ko-kiyeoksios                           Hangul Compatibility Jamo               HANGUL LETTER KIYEOK-SIOS
+  FFA3 : hwd-kiyeoksios                                    -                        hwd-kiyeoksios                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER KIYEOK-SIOS
 
   12AE : ethi-ko                                           -                        ethi-ko                                 Ethiopic                                ETHIOPIC SYLLABLE KO
   3053 : hira-ko                                           kohiragana               hira-ko                                 Hiragana                                HIRAGANA LETTER KO  
@@ -856,6 +1000,7 @@
 
     6C : l                                                 l                        l                                       Basic Latin                             LATIN SMALL LETTER L
   310C : bopo-l                                            lbopomofo                bopo-l                                  Bopomofo                                BOPOMOFO LETTER L   
+  FF4C : fwd-l                                             lfullwidth               fwd-l                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER L
 
    932 : deva-la                                           dvLa                     deva-la                                 Devanagari                              DEVANAGARI LETTER LA
    9B2 : beng-la                                           beLa                     beng-la                                 Bengali                                 BENGALI LETTER LA   
@@ -871,8 +1016,12 @@
   182F : mong-la                                           -                        mong-la                                 Mongolian                               MONGOLIAN LETTER LA 
   A9AD : java-la                                           -                        java-la                                 Javanese                                JAVANESE LETTER LA  
 
+  2985 : leftwhiteparenthesis                              -                        leftwhiteparenthesis                    Miscellaneous Mathematical Symbols-B    LEFT WHITE PARENTHESIS
+  FF5F : fwd-leftwhiteparenthesis                          -                        fwd-leftwhiteparenthesis                Halfwidth and Fullwidth Forms           FULLWIDTH LEFT WHITE PARENTHESIS
+
     3C : less                                              less                     less                                    Basic Latin                             LESS-THAN SIGN      
   FE64 : gnrl-less                                         lesssmall                gnrl-less                               Small Form Variants                     SMALL LESS-THAN SIGN
+  FF1C : fwd-less                                          lessfullwidth            fwd-less                                Halfwidth and Fullwidth Forms           FULLWIDTH LESS-THAN SIGN
 
    933 : deva-lla                                          dvLla                    deva-lla                                Devanagari                              DEVANAGARI LETTER LLA
    A33 : guru-lla                                          guLla                    guru-lla                                Gurmukhi                                GURMUKHI LETTER LLA 
@@ -923,6 +1072,7 @@
     6D : m                                                 m                        m                                       Basic Latin                             LATIN SMALL LETTER M
    36B : cmb-m                                             mcmb                     cmb-m                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER M
   3107 : bopo-m                                            mbopomofo                bopo-m                                  Bopomofo                                BOPOMOFO LETTER M   
+  FF4D : fwd-m                                             mfullwidth               fwd-m                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER M
 
    92E : deva-ma                                           dvMa                     deva-ma                                 Devanagari                              DEVANAGARI LETTER MA
    9AE : beng-ma                                           beMa                     beng-ma                                 Bengali                                 BENGALI LETTER MA   
@@ -942,6 +1092,7 @@
 
     AF : macron                                            macron                   macron                                  Latin-1 Supplement                      MACRON              
    304 : cmb-macron                                        macroncmb                cmb-macron                              Combining Diacritical Marks             COMBINING MACRON    
+  FFE3 : fwd-macron                                        macronfullwidth          fwd-macron                              Halfwidth and Fullwidth Forms           FULLWIDTH MACRON    
 
   121D : ethi-me                                           -                        ethi-me                                 Ethiopic                                ETHIOPIC SYLLABLE ME
   3081 : hira-me                                           mehiragana               hira-me                                 Hiragana                                HIRAGANA LETTER ME  
@@ -950,6 +1101,9 @@
   121A : ethi-mi                                           -                        ethi-mi                                 Ethiopic                                ETHIOPIC SYLLABLE MI
   307F : hira-mi                                           mihiragana               hira-mi                                 Hiragana                                HIRAGANA LETTER MI  
   30DF : kata-mi                                           mikatakana               kata-mi                                 Katakana                                KATAKANA LETTER MI  
+
+  3141 : ko-mieum                                          mieumkorean              ko-mieum                                Hangul Compatibility Jamo               HANGUL LETTER MIEUM 
+  FFB1 : hwd-mieum                                         -                        hwd-mieum                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER MIEUM
 
   121E : ethi-mo                                           -                        ethi-mo                                 Ethiopic                                ETHIOPIC SYLLABLE MO
   3082 : hira-mo                                           mohiragana               hira-mo                                 Hiragana                                HIRAGANA LETTER MO  
@@ -964,6 +1118,7 @@
   3093 : hira-n                                            nhiragana                hira-n                                  Hiragana                                HIRAGANA LETTER N   
   30F3 : kata-n                                            nkatakana                kata-n                                  Katakana                                KATAKANA LETTER N   
   310B : bopo-n                                            nbopomofo                bopo-n                                  Bopomofo                                BOPOMOFO LETTER N   
+  FF4E : fwd-n                                             nfullwidth               fwd-n                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER N
 
    928 : deva-na                                           dvNa                     deva-na                                 Devanagari                              DEVANAGARI LETTER NA
    9A8 : beng-na                                           beNa                     beng-na                                 Bengali                                 BENGALI LETTER NA   
@@ -1004,6 +1159,15 @@
   306B : hira-ni                                           nihiragana               hira-ni                                 Hiragana                                HIRAGANA LETTER NI  
   30CB : kata-ni                                           nikatakana               kata-ni                                 Katakana                                KATAKANA LETTER NI  
 
+  3134 : ko-nieun                                          nieunkorean              ko-nieun                                Hangul Compatibility Jamo               HANGUL LETTER NIEUN 
+  FFA4 : hwd-nieun                                         -                        hwd-nieun                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER NIEUN
+
+  3135 : ko-nieuncieuc                                     nieuncieuckorean         ko-nieuncieuc                           Hangul Compatibility Jamo               HANGUL LETTER NIEUN-CIEUC
+  FFA5 : hwd-nieuncieuc                                    -                        hwd-nieuncieuc                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER NIEUN-CIEUC
+
+  3136 : ko-nieunhieuh                                     nieunhieuhkorean         ko-nieunhieuh                           Hangul Compatibility Jamo               HANGUL LETTER NIEUN-HIEUH
+  FFA6 : hwd-nieunhieuh                                    -                        hwd-nieunhieuh                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER NIEUN-HIEUH
+
     39 : nine                                              nine                     nine                                    Basic Latin                             DIGIT NINE          
    669 : ar-nine                                           arNine                   ar-nine                                 Arabic                                  ARABIC-INDIC DIGIT NINE
    96F : deva-nine                                         dvNine                   deva-nine                               Devanagari                              DEVANAGARI DIGIT NINE
@@ -1020,6 +1184,7 @@
   1371 : ethi-nine                                         -                        ethi-nine                               Ethiopic                                ETHIOPIC DIGIT NINE 
   1819 : mong-nine                                         -                        mong-nine                               Mongolian                               MONGOLIAN DIGIT NINE
   A9D9 : java-nine                                         -                        java-nine                               Javanese                                JAVANESE DIGIT NINE 
+  FF19 : fwd-nine                                          ninefullwidth            fwd-nine                                Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT NINE
 
    923 : deva-nna                                          dvNna                    deva-nna                                Devanagari                              DEVANAGARI LETTER NNA
    9A3 : beng-nna                                          beNna                    beng-nna                                Bengali                                 BENGALI LETTER NNA  
@@ -1054,6 +1219,7 @@
     23 : numbersign                                        numbersign               numbersign                              Basic Latin                             NUMBER SIGN         
    600 : ar-numbersign                                     arNumberSign             ar-numbersign                           Arabic                                  ARABIC NUMBER SIGN  
   FE5F : gnrl-numbersign                                   numbersignsmall          gnrl-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
+  FF03 : fwd-numbersign                                    numbersignfullwidth      fwd-numbersign                          Halfwidth and Fullwidth Forms           FULLWIDTH NUMBER SIGN
 
    91E : deva-nya                                          dvNya                    deva-nya                                Devanagari                              DEVANAGARI LETTER NYA
    99E : beng-nya                                          beNya                    beng-nya                                Bengali                                 BENGALI LETTER NYA  
@@ -1084,6 +1250,8 @@
   311B : bopo-o                                            obopomofo                bopo-o                                  Bopomofo                                BOPOMOFO LETTER O   
   3157 : ko-o                                              okorean                  ko-o                                    Hangul Compatibility Jamo               HANGUL LETTER O     
   A98E : java-o                                            -                        java-o                                  Javanese                                JAVANESE LETTER O   
+  FF4F : fwd-o                                             ofullwidth               fwd-o                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER O
+  FFCC : hwd-o                                             -                        hwd-o                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER O
 
    911 : deva-ocandra                                      dvOcandra                deva-ocandra                            Devanagari                              DEVANAGARI LETTER CANDRA O
    A91 : gujr-ocandra                                      gjOcandra                gujr-ocandra                            Gujarati                                GUJARATI VOWEL CANDRA O
@@ -1092,12 +1260,10 @@
    6C6 : ar-oe                                             arOe                     ar-oe                                   Arabic                                  ARABIC LETTER OE    
   1825 : mong-oe                                           -                        mong-oe                                 Mongolian                               MONGOLIAN LETTER OE 
   315A : ko-oe                                             oekorean                 ko-oe                                   Hangul Compatibility Jamo               HANGUL LETTER OE    
+  FFCF : hwd-oe                                            -                        hwd-oe                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER OE
 
    2DB : spcn-ogonek                                       ogonek                   spcn-ogonek                             Spacing Modifier Letters                OGONEK              
    328 : cmb-ogonek                                        ogonekcmb                cmb-ogonek                              Combining Diacritical Marks             COMBINING OGONEK    
-
-  FF75 : kata-ohalfwidth                                   okatakanahalfwidth       kata-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER O
-  FFCC : ko-ohalfwidth                                     -                        ko-ohalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER O
 
    950 : deva-om                                           dvOm                     deva-om                                 Devanagari                              DEVANAGARI OM       
    AD0 : gujr-om                                           gjOm                     gujr-om                                 Gujarati                                GUJARATI OM         
@@ -1119,6 +1285,7 @@
   1369 : ethi-one                                          -                        ethi-one                                Ethiopic                                ETHIOPIC DIGIT ONE  
   1811 : mong-one                                          -                        mong-one                                Mongolian                               MONGOLIAN DIGIT ONE 
   A9D1 : java-one                                          -                        java-one                                Javanese                                JAVANESE DIGIT ONE  
+  FF11 : fwd-one                                           onefullwidth             fwd-one                                 Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT ONE 
 
     BD : onehalf                                           onehalf                  onehalf                                 Latin-1 Supplement                      VULGAR FRACTION ONE HALF
    D74 : mlym-onehalf                                      mlOneHalf                mlym-onehalf                            Malayalam                               MALAYALAM FRACTION ONE HALF
@@ -1168,6 +1335,7 @@
 
     70 : p                                                 p                        p                                       Basic Latin                             LATIN SMALL LETTER P
   3106 : bopo-p                                            pbopomofo                bopo-p                                  Bopomofo                                BOPOMOFO LETTER P   
+  FF50 : fwd-p                                             pfullwidth               fwd-p                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER P
 
    92A : deva-pa                                           dvPa                     deva-pa                                 Devanagari                              DEVANAGARI LETTER PA
    9AA : beng-pa                                           bePa                     beng-pa                                 Bengali                                 BENGALI LETTER PA   
@@ -1188,6 +1356,12 @@
   1368 : ethi-paragraphseparator                           -                        ethi-paragraphseparator                 Ethiopic                                ETHIOPIC PARAGRAPH SEPARATOR
   2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     PARAGRAPH SEPARATOR 
 
+  FE59 : parenthesisleft                                   parenleftsmall           parenthesisleft                         Small Form Variants                     SMALL LEFT PARENTHESIS
+  FF08 : fwd-parenthesisleft                               parenleftfullwidth       fwd-parenthesisleft                     Halfwidth and Fullwidth Forms           FULLWIDTH LEFT PARENTHESIS
+
+  FE5A : parenthesisright                                  parenrightsmall          parenthesisright                        Small Form Variants                     SMALL RIGHT PARENTHESIS
+  FF09 : fwd-parenthesisright                              parenrightfullwidth      fwd-parenthesisright                    Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT PARENTHESIS
+
   1355 : ethi-pe                                           -                        ethi-pe                                 Ethiopic                                ETHIOPIC SYLLABLE PE
   307A : hira-pe                                           pehiragana               hira-pe                                 Hiragana                                HIRAGANA LETTER PE  
   30DA : kata-pe                                           pekatakana               kata-pe                                 Katakana                                KATAKANA LETTER PE  
@@ -1199,11 +1373,13 @@
     25 : percent                                           percent                  percent                                 Basic Latin                             PERCENT SIGN        
    66A : ar-percent                                        arPercent                ar-percent                              Arabic                                  ARABIC PERCENT SIGN 
   FE6A : gnrl-percent                                      percentsmall             gnrl-percent                            Small Form Variants                     SMALL PERCENT SIGN  
+  FF05 : fwd-percent                                       percentfullwidth         fwd-percent                             Halfwidth and Fullwidth Forms           FULLWIDTH PERCENT SIGN
 
     2E : period                                            period                   period                                  Basic Latin                             FULL STOP           
    589 : armn-period                                       periodarmenian           armn-period                             Armenian                                ARMENIAN FULL STOP  
   1803 : mong-period                                       -                        mong-period                             Mongolian                               MONGOLIAN FULL STOP 
   FE52 : gnrl-period                                       periodsmall              gnrl-period                             Small Form Variants                     SMALL FULL STOP     
+  FF0E : fwd-period                                        periodfullwidth          fwd-period                              Halfwidth and Fullwidth Forms           FULLWIDTH FULL STOP 
 
   22A5 : math-perpendicular                                perpendicular            math-perpendicular                      Mathematical Operators                  UP TACK             
   27C2 : math-perpendicular                                -                        math-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
@@ -1226,6 +1402,9 @@
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        GREEK SMALL LETTER PHI
   1332 : ethi-phi                                          -                        ethi-phi                                Ethiopic                                ETHIOPIC SYLLABLE PHI
 
+  314D : ko-phieuph                                        phieuphkorean            ko-phieuph                              Hangul Compatibility Jamo               HANGUL LETTER PHIEUPH
+  FFBD : hwd-phieuph                                       -                        hwd-phieuph                             Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER PHIEUPH
+
   1D60 : phon-phimod                                       phisupmod                phon-phimod                             Phonetic Extensions                     MODIFIER LETTER SMALL GREEK PHI
   1DB2 : phon-phimod                                       -                        phon-phimod                             Phonetic Extensions Supplement          MODIFIER LETTER SMALL PHI
 
@@ -1234,8 +1413,15 @@
   3074 : hira-pi                                           pihiragana               hira-pi                                 Hiragana                                HIRAGANA LETTER PI  
   30D4 : kata-pi                                           pikatakana               kata-pi                                 Katakana                                KATAKANA LETTER PI  
 
+  3142 : ko-pieup                                          pieupkorean              ko-pieup                                Hangul Compatibility Jamo               HANGUL LETTER PIEUP 
+  FFB2 : hwd-pieup                                         -                        hwd-pieup                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER PIEUP
+
+  3144 : ko-pieupsios                                      pieupsioskorean          ko-pieupsios                            Hangul Compatibility Jamo               HANGUL LETTER PIEUP-SIOS
+  FFB4 : hwd-pieupsios                                     -                        hwd-pieupsios                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER PIEUP-SIOS
+
     2B : plus                                              plus                     plus                                    Basic Latin                             PLUS SIGN           
   FE62 : gnrl-plus                                         plussmall                gnrl-plus                               Small Form Variants                     SMALL PLUS SIGN     
+  FF0B : fwd-plus                                          plusfullwidth            fwd-plus                                Halfwidth and Fullwidth Forms           FULLWIDTH PLUS SIGN 
 
   1356 : ethi-po                                           -                        ethi-po                                 Ethiopic                                ETHIOPIC SYLLABLE PO
   307D : hira-po                                           pohiragana               hira-po                                 Hiragana                                HIRAGANA LETTER PO  
@@ -1247,6 +1433,7 @@
 
     71 : q                                                 q                        q                                       Basic Latin                             LATIN SMALL LETTER Q
   3111 : bopo-q                                            qbopomofo                bopo-q                                  Bopomofo                                BOPOMOFO LETTER Q   
+  FF51 : fwd-q                                             qfullwidth               fwd-q                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER Q
 
    958 : deva-qa                                           dvQa                     deva-qa                                 Devanagari                              DEVANAGARI LETTER QA
   1240 : ethi-qa                                           -                        ethi-qa                                 Ethiopic                                ETHIOPIC SYLLABLE QA
@@ -1258,10 +1445,18 @@
    61F : ar-question                                       arQuestion               ar-question                             Arabic                                  ARABIC QUESTION MARK
   FE16 : vert-question                                     questionvert             vert-question                           Vertical Forms                          PRESENTATION FORM FOR VERTICAL QUESTION MARK
   FE56 : gnrl-question                                     -                        gnrl-question                           Small Form Variants                     SMALL QUESTION MARK 
+  FF1F : fwd-question                                      questionfullwidth        fwd-question                            Halfwidth and Fullwidth Forms           FULLWIDTH QUESTION MARK
+
+    22 : quotedbl                                          quotedbl                 quotedbl                                Basic Latin                             QUOTATION MARK      
+  FF02 : fwd-quotedbl                                      quotedblfullwidth        fwd-quotedbl                            Halfwidth and Fullwidth Forms           FULLWIDTH QUOTATION MARK
+
+    27 : quotesingle                                       quotesingle              quotesingle                             Basic Latin                             APOSTROPHE          
+  FF07 : fwd-quotesingle                                   quotesinglefullwidth     fwd-quotesingle                         Halfwidth and Fullwidth Forms           FULLWIDTH APOSTROPHE
 
     72 : r                                                 r                        r                                       Basic Latin                             LATIN SMALL LETTER R
    36C : cmb-r                                             rcmb                     cmb-r                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER R
   3116 : bopo-r                                            rbopomofo                bopo-r                                  Bopomofo                                BOPOMOFO LETTER R   
+  FF52 : fwd-r                                             rfullwidth               fwd-r                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER R
 
    57C : armn-ra                                           raarmenian               armn-ra                                 Armenian                                ARMENIAN SMALL LETTER RA
    930 : deva-ra                                           dvRa                     deva-ra                                 Devanagari                              DEVANAGARI LETTER RA
@@ -1294,6 +1489,33 @@
   122A : ethi-ri                                           -                        ethi-ri                                 Ethiopic                                ETHIOPIC SYLLABLE RI
   308A : hira-ri                                           rihiragana               hira-ri                                 Hiragana                                HIRAGANA LETTER RI  
   30EA : kata-ri                                           rikatakana               kata-ri                                 Katakana                                KATAKANA LETTER RI  
+
+  3139 : ko-rieul                                          rieulkorean              ko-rieul                                Hangul Compatibility Jamo               HANGUL LETTER RIEUL 
+  FFA9 : hwd-rieul                                         -                        hwd-rieul                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL
+
+  3140 : ko-rieulhieuh                                     rieulhieuhkorean         ko-rieulhieuh                           Hangul Compatibility Jamo               HANGUL LETTER RIEUL-HIEUH
+  FFB0 : hwd-rieulhieuh                                    -                        hwd-rieulhieuh                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-HIEUH
+
+  313A : ko-rieulkiyeok                                    rieulkiyeokkorean        ko-rieulkiyeok                          Hangul Compatibility Jamo               HANGUL LETTER RIEUL-KIYEOK
+  FFAA : hwd-rieulkiyeok                                   -                        hwd-rieulkiyeok                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-KIYEOK
+
+  313B : ko-rieulmieum                                     rieulmieumkorean         ko-rieulmieum                           Hangul Compatibility Jamo               HANGUL LETTER RIEUL-MIEUM
+  FFAB : hwd-rieulmieum                                    -                        hwd-rieulmieum                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-MIEUM
+
+  313F : ko-rieulphieuph                                   rieulphieuphkorean       ko-rieulphieuph                         Hangul Compatibility Jamo               HANGUL LETTER RIEUL-PHIEUPH
+  FFAF : hwd-rieulphieuph                                  -                        hwd-rieulphieuph                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-PHIEUPH
+
+  313C : ko-rieulpieup                                     rieulpieupkorean         ko-rieulpieup                           Hangul Compatibility Jamo               HANGUL LETTER RIEUL-PIEUP
+  FFAC : hwd-rieulpieup                                    -                        hwd-rieulpieup                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-PIEUP
+
+  313D : ko-rieulsios                                      rieulsioskorean          ko-rieulsios                            Hangul Compatibility Jamo               HANGUL LETTER RIEUL-SIOS
+  FFAD : hwd-rieulsios                                     -                        hwd-rieulsios                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-SIOS
+
+  313E : ko-rieulthieuth                                   rieulthieuthkorean       ko-rieulthieuth                         Hangul Compatibility Jamo               HANGUL LETTER RIEUL-THIEUTH
+  FFAE : hwd-rieulthieuth                                  -                        hwd-rieulthieuth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-THIEUTH
+
+  2986 : rightwhiteparenthesis                             -                        rightwhiteparenthesis                   Miscellaneous Mathematical Symbols-B    RIGHT WHITE PARENTHESIS
+  FF60 : fwd-rightwhiteparenthesis                         -                        fwd-rightwhiteparenthesis               Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT WHITE PARENTHESIS
 
   122E : ethi-ro                                           -                        ethi-ro                                 Ethiopic                                ETHIOPIC SYLLABLE RO
   308D : hira-ro                                           rohiragana               hira-ro                                 Hiragana                                HIRAGANA LETTER RO  
@@ -1350,6 +1572,7 @@
 
     73 : s                                                 s                        s                                       Basic Latin                             LATIN SMALL LETTER S
   3119 : bopo-s                                            sbopomofo                bopo-s                                  Bopomofo                                BOPOMOFO LETTER S   
+  FF53 : fwd-s                                             sfullwidth               fwd-s                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER S
 
    938 : deva-sa                                           dvSa                     deva-sa                                 Devanagari                              DEVANAGARI LETTER SA
    9B8 : beng-sa                                           beSa                     beng-sa                                 Bengali                                 BENGALI LETTER SA   
@@ -1376,6 +1599,7 @@
   1364 : ethi-semicolon                                    -                        ethi-semicolon                          Ethiopic                                ETHIOPIC SEMICOLON  
   FE14 : vert-semicolon                                    semicolonvert            vert-semicolon                          Vertical Forms                          PRESENTATION FORM FOR VERTICAL SEMICOLON
   FE54 : gnrl-semicolon                                    semicolonsmall           gnrl-semicolon                          Small Form Variants                     SMALL SEMICOLON     
+  FF1B : fwd-semicolon                                     semicolonfullwidth       fwd-semicolon                           Halfwidth and Fullwidth Forms           FULLWIDTH SEMICOLON 
 
     37 : seven                                             seven                    seven                                   Basic Latin                             DIGIT SEVEN         
    667 : ar-seven                                          arSeven                  ar-seven                                Arabic                                  ARABIC-INDIC DIGIT SEVEN
@@ -1393,6 +1617,7 @@
   136F : ethi-seven                                        -                        ethi-seven                              Ethiopic                                ETHIOPIC DIGIT SEVEN
   1817 : mong-seven                                        -                        mong-seven                              Mongolian                               MONGOLIAN DIGIT SEVEN
   A9D7 : java-seven                                        -                        java-seven                              Javanese                                JAVANESE DIGIT SEVEN
+  FF17 : fwd-seven                                         sevenfullwidth           fwd-seven                               Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT SEVEN
 
    577 : armn-sha                                          shaarmenian              armn-sha                                Armenian                                ARMENIAN SMALL LETTER SHA
    936 : deva-sha                                          dvSha                    deva-sha                                Devanagari                              DEVANAGARI LETTER SHA
@@ -1415,6 +1640,9 @@
   3057 : hira-si                                           sihiragana               hira-si                                 Hiragana                                HIRAGANA LETTER SI  
   30B7 : kata-si                                           sikatakana               kata-si                                 Katakana                                KATAKANA LETTER SI  
 
+  3145 : ko-sios                                           sioskorean               ko-sios                                 Hangul Compatibility Jamo               HANGUL LETTER SIOS  
+  FFB5 : hwd-sios                                          -                        hwd-sios                                Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SIOS
+
     36 : six                                               six                      six                                     Basic Latin                             DIGIT SIX           
    666 : ar-six                                            arSix                    ar-six                                  Arabic                                  ARABIC-INDIC DIGIT SIX
    96C : deva-six                                          dvSix                    deva-six                                Devanagari                              DEVANAGARI DIGIT SIX
@@ -1431,6 +1659,10 @@
   136E : ethi-six                                          -                        ethi-six                                Ethiopic                                ETHIOPIC DIGIT SIX  
   1816 : mong-six                                          -                        mong-six                                Mongolian                               MONGOLIAN DIGIT SIX 
   A9D6 : java-six                                          -                        java-six                                Javanese                                JAVANESE DIGIT SIX  
+  FF16 : fwd-six                                           sixfullwidth             fwd-six                                 Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT SIX 
+
+    2F : slash                                             slash                    slash                                   Basic Latin                             SOLIDUS             
+  FF0F : fwd-slash                                         slashfullwidth           fwd-slash                               Halfwidth and Fullwidth Forms           FULLWIDTH SOLIDUS   
 
   1236 : ethi-so                                           -                        ethi-so                                 Ethiopic                                ETHIOPIC SYLLABLE SO
   305D : hira-so                                           sohiragana               hira-so                                 Hiragana                                HIRAGANA LETTER SO  
@@ -1449,6 +1681,21 @@
    D37 : mlym-ssa                                          mlSsa                    mlym-ssa                                Malayalam                               MALAYALAM LETTER SSA
    F65 : tibt-ssa                                          -                        tibt-ssa                                Tibetan                                 TIBETAN LETTER SSA  
 
+  3149 : ko-ssangcieuc                                     ssangcieuckorean         ko-ssangcieuc                           Hangul Compatibility Jamo               HANGUL LETTER SSANGCIEUC
+  FFB9 : hwd-ssangcieuc                                    -                        hwd-ssangcieuc                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGCIEUC
+
+  3132 : ko-ssangkiyeok                                    ssangkiyeokkorean        ko-ssangkiyeok                          Hangul Compatibility Jamo               HANGUL LETTER SSANGKIYEOK
+  FFA2 : hwd-ssangkiyeok                                   -                        hwd-ssangkiyeok                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGKIYEOK
+
+  3143 : ko-ssangpieup                                     ssangpieupkorean         ko-ssangpieup                           Hangul Compatibility Jamo               HANGUL LETTER SSANGPIEUP
+  FFB3 : hwd-ssangpieup                                    -                        hwd-ssangpieup                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGPIEUP
+
+  3146 : ko-ssangsios                                      ssangsioskorean          ko-ssangsios                            Hangul Compatibility Jamo               HANGUL LETTER SSANGSIOS
+  FFB6 : hwd-ssangsios                                     -                        hwd-ssangsios                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGSIOS
+
+  3138 : ko-ssangtikeut                                    ssangtikeutkorean        ko-ssangtikeut                          Hangul Compatibility Jamo               HANGUL LETTER SSANGTIKEUT
+  FFA8 : hwd-ssangtikeut                                   -                        hwd-ssangtikeut                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGTIKEUT
+
   1231 : ethi-su                                           -                        ethi-su                                 Ethiopic                                ETHIOPIC SYLLABLE SU
   3059 : hira-su                                           suhiragana               hira-su                                 Hiragana                                HIRAGANA LETTER SU  
   30B9 : kata-su                                           sukatakana               kata-su                                 Katakana                                KATAKANA LETTER SU  
@@ -1456,6 +1703,7 @@
     74 : t                                                 t                        t                                       Basic Latin                             LATIN SMALL LETTER T
    36D : cmb-t                                             tcmb                     cmb-t                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER T
   310A : bopo-t                                            tbopomofo                bopo-t                                  Bopomofo                                BOPOMOFO LETTER T   
+  FF54 : fwd-t                                             tfullwidth               fwd-t                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER T
 
    924 : deva-ta                                           dvTa                     deva-ta                                 Devanagari                              DEVANAGARI LETTER TA
    9A4 : beng-ta                                           beTa                     beng-ta                                 Bengali                                 BENGALI LETTER TA   
@@ -1498,6 +1746,9 @@
    F50 : tibt-tha                                          -                        tibt-tha                                Tibetan                                 TIBETAN LETTER THA  
   1320 : ethi-tha                                          -                        ethi-tha                                Ethiopic                                ETHIOPIC SYLLABLE THA
 
+  314C : ko-thieuth                                        thieuthkorean            ko-thieuth                              Hangul Compatibility Jamo               HANGUL LETTER THIEUTH
+  FFBC : hwd-thieuth                                       -                        hwd-thieuth                             Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER THIEUTH
+
     33 : three                                             three                    three                                   Basic Latin                             DIGIT THREE         
    663 : ar-three                                          arThree                  ar-three                                Arabic                                  ARABIC-INDIC DIGIT THREE
    969 : deva-three                                        dvThree                  deva-three                              Devanagari                              DEVANAGARI DIGIT THREE
@@ -1514,6 +1765,7 @@
   136B : ethi-three                                        -                        ethi-three                              Ethiopic                                ETHIOPIC DIGIT THREE
   1813 : mong-three                                        -                        mong-three                              Mongolian                               MONGOLIAN DIGIT THREE
   A9D3 : java-three                                        -                        java-three                              Javanese                                JAVANESE DIGIT THREE
+  FF13 : fwd-three                                         threefullwidth           fwd-three                               Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT THREE
 
     BE : threequarters                                     threequarters            threequarters                           Latin-1 Supplement                      VULGAR FRACTION THREE QUARTERS
    D75 : mlym-threequarters                                mlThreeQuarters          mlym-threequarters                      Malayalam                               MALAYALAM FRACTION THREE QUARTERS
@@ -1521,6 +1773,9 @@
   1272 : ethi-ti                                           -                        ethi-ti                                 Ethiopic                                ETHIOPIC SYLLABLE TI
   3061 : hira-ti                                           tihiragana               hira-ti                                 Hiragana                                HIRAGANA LETTER TI  
   30C1 : kata-ti                                           tikatakana               kata-ti                                 Katakana                                KATAKANA LETTER TI  
+
+  3137 : ko-tikeut                                         tikeutkorean             ko-tikeut                               Hangul Compatibility Jamo               HANGUL LETTER TIKEUT
+  FFA7 : hwd-tikeut                                        -                        hwd-tikeut                              Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER TIKEUT
 
    2DC : spcn-tilde                                        tilde                    spcn-tilde                              Spacing Modifier Letters                SMALL TILDE         
   1FC0 : gr-tilde                                          perispomeni              gr-tilde                                Greek Extended                          GREEK PERISPOMENI   
@@ -1589,6 +1844,7 @@
   136A : ethi-two                                          -                        ethi-two                                Ethiopic                                ETHIOPIC DIGIT TWO  
   1812 : mong-two                                          -                        mong-two                                Mongolian                               MONGOLIAN DIGIT TWO 
   A9D2 : java-two                                          -                        java-two                                Javanese                                JAVANESE DIGIT TWO  
+  FF12 : fwd-two                                           twofullwidth             fwd-two                                 Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT TWO 
 
     75 : u                                                 u                        u                                       Basic Latin                             LATIN SMALL LETTER U
    367 : cmb-u                                             ucmb                     cmb-u                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER U
@@ -1608,12 +1864,14 @@
   3128 : bopo-u                                            ubopomofo                bopo-u                                  Bopomofo                                BOPOMOFO LETTER U   
   315C : ko-u                                              ukorean                  ko-u                                    Hangul Compatibility Jamo               HANGUL LETTER U     
   A988 : java-u                                            -                        java-u                                  Javanese                                JAVANESE LETTER U   
+  FF55 : fwd-u                                             ufullwidth               fwd-u                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER U
+  FFD3 : hwd-u                                             -                        hwd-u                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER U
 
   1826 : mong-ue                                           -                        mong-ue                                 Mongolian                               MONGOLIAN LETTER UE 
   1D6B : phon-ue                                           -                        phon-ue                                 Phonetic Extensions                     LATIN SMALL LETTER UE
 
-  FF73 : kata-uhalfwidth                                   ukatakanahalfwidth       kata-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER U
-  FFD3 : ko-uhalfwidth                                     -                        ko-uhalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER U
+    5F : underscore                                        underscore               underscore                              Basic Latin                             LOW LINE            
+  FF3F : fwd-underscore                                    underscorefullwidth      fwd-underscore                          Halfwidth and Fullwidth Forms           FULLWIDTH LOW LINE  
 
    28A : ipa-upsilon                                       upsilonlatin             ipa-upsilon                             IPA Extensions                          LATIN SMALL LETTER UPSILON
    3C5 : upsilon                                           upsilon                  upsilon                                 Greek and Coptic                        GREEK SMALL LETTER UPSILON
@@ -1654,6 +1912,7 @@
     76 : v                                                 v                        v                                       Basic Latin                             LATIN SMALL LETTER V
    36E : cmb-v                                             vcmb                     cmb-v                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER V
   312A : bopo-v                                            -                        bopo-v                                  Bopomofo                                BOPOMOFO LETTER V   
+  FF56 : fwd-v                                             vfullwidth               fwd-v                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER V
 
    935 : deva-va                                           dvVa                     deva-va                                 Devanagari                              DEVANAGARI LETTER VA
    A35 : guru-va                                           guVa                     guru-va                                 Gurmukhi                                GURMUKHI LETTER VA  
@@ -1703,6 +1962,9 @@
   3094 : hira-vu                                           vuhiragana               hira-vu                                 Hiragana                                HIRAGANA LETTER VU  
   30F4 : kata-vu                                           vukatakana               kata-vu                                 Katakana                                KATAKANA LETTER VU  
 
+    77 : w                                                 w                        w                                       Basic Latin                             LATIN SMALL LETTER W
+  FF57 : fwd-w                                             wfullwidth               fwd-w                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER W
+
    B71 : orya-wa                                           odWa                     orya-wa                                 Oriya                                   ORIYA LETTER WA     
    F5D : tibt-wa                                           -                        tibt-wa                                 Tibetan                                 TIBETAN LETTER WA   
   12C8 : ethi-wa                                           -                        ethi-wa                                 Ethiopic                                ETHIOPIC SYLLABLE WA
@@ -1711,9 +1973,10 @@
   30EF : kata-wa                                           wakatakana               kata-wa                                 Katakana                                KATAKANA LETTER WA  
   3158 : ko-wa                                             wakorean                 ko-wa                                   Hangul Compatibility Jamo               HANGUL LETTER WA    
   A9AE : java-wa                                           -                        java-wa                                 Javanese                                JAVANESE LETTER WA  
+  FFCD : hwd-wa                                            -                        hwd-wa                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WA
 
-  FF9C : kata-wahalfwidth                                  wakatakanahalfwidth      kata-wahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER WA
-  FFCD : ko-wahalfwidth                                    -                        ko-wahalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WA
+  3159 : ko-wae                                            waekorean                ko-wae                                  Hangul Compatibility Jamo               HANGUL LETTER WAE   
+  FFCE : hwd-wae                                           -                        hwd-wae                                 Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WAE
 
   308E : hira-wasmall                                      wasmallhiragana          hira-wasmall                            Hiragana                                HIRAGANA LETTER SMALL WA
   30EE : kata-wasmall                                      wasmallkatakana          kata-wasmall                            Katakana                                KATAKANA LETTER SMALL WA
@@ -1722,11 +1985,16 @@
   3091 : hira-we                                           wehiragana               hira-we                                 Hiragana                                HIRAGANA LETTER WE  
   30F1 : kata-we                                           wekatakana               kata-we                                 Katakana                                KATAKANA LETTER WE  
   315E : ko-we                                             wekorean                 ko-we                                   Hangul Compatibility Jamo               HANGUL LETTER WE    
+  FFD5 : hwd-we                                            -                        hwd-we                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WE
+
+  315D : ko-weo                                            weokorean                ko-weo                                  Hangul Compatibility Jamo               HANGUL LETTER WEO   
+  FFD4 : hwd-weo                                           -                        hwd-weo                                 Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WEO
 
   12CA : ethi-wi                                           -                        ethi-wi                                 Ethiopic                                ETHIOPIC SYLLABLE WI
   3090 : hira-wi                                           wihiragana               hira-wi                                 Hiragana                                HIRAGANA LETTER WI  
   30F0 : kata-wi                                           wikatakana               kata-wi                                 Katakana                                KATAKANA LETTER WI  
   315F : ko-wi                                             wikorean                 ko-wi                                   Hangul Compatibility Jamo               HANGUL LETTER WI    
+  FFD6 : hwd-wi                                            -                        hwd-wi                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WI
 
   12CE : ethi-wo                                           -                        ethi-wo                                 Ethiopic                                ETHIOPIC SYLLABLE WO
   3092 : hira-wo                                           wohiragana               hira-wo                                 Hiragana                                HIRAGANA LETTER WO  
@@ -1735,9 +2003,13 @@
     78 : x                                                 x                        x                                       Basic Latin                             LATIN SMALL LETTER X
    36F : cmb-x                                             xcmb                     cmb-x                                   Combining Diacritical Marks             COMBINING LATIN SMALL LETTER X
   3112 : bopo-x                                            xbopomofo                bopo-x                                  Bopomofo                                BOPOMOFO LETTER X   
+  FF58 : fwd-x                                             xfullwidth               fwd-x                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER X
 
    3BE : gr-xi                                             xi                       gr-xi                                   Greek and Coptic                        GREEK SMALL LETTER XI
   1282 : ethi-xi                                           -                        ethi-xi                                 Ethiopic                                ETHIOPIC SYLLABLE XI
+
+    79 : y                                                 y                        y                                       Basic Latin                             LATIN SMALL LETTER Y
+  FF59 : fwd-y                                             yfullwidth               fwd-y                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER Y
 
    92F : deva-ya                                           dvYa                     deva-ya                                 Devanagari                              DEVANAGARI LETTER YA
    9AF : beng-ya                                           beYa                     beng-ya                                 Bengali                                 BENGALI LETTER YA   
@@ -1755,27 +2027,31 @@
   30E4 : kata-ya                                           yakatakana               kata-ya                                 Katakana                                KATAKANA LETTER YA  
   3151 : ko-ya                                             yakorean                 ko-ya                                   Hangul Compatibility Jamo               HANGUL LETTER YA    
   A9AA : java-ya                                           -                        java-ya                                 Javanese                                JAVANESE LETTER YA  
+  FFC4 : hwd-ya                                            -                        hwd-ya                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YA
 
-  FF94 : kata-yahalfwidth                                  yakatakanahalfwidth      kata-yahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YA
-  FFC4 : ko-yahalfwidth                                    -                        ko-yahalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YA
+  3152 : ko-yae                                            yaekorean                ko-yae                                  Hangul Compatibility Jamo               HANGUL LETTER YAE   
+  FFC5 : hwd-yae                                           -                        hwd-yae                                 Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YAE
 
   3083 : hira-yasmall                                      yasmallhiragana          hira-yasmall                            Hiragana                                HIRAGANA LETTER SMALL YA
   30E3 : kata-yasmall                                      yasmallkatakana          kata-yasmall                            Katakana                                KATAKANA LETTER SMALL YA
 
   12ED : ethi-ye                                           -                        ethi-ye                                 Ethiopic                                ETHIOPIC SYLLABLE YE
   3156 : ko-ye                                             yekorean                 ko-ye                                   Hangul Compatibility Jamo               HANGUL LETTER YE    
+  FFCB : hwd-ye                                            -                        hwd-ye                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YE
+
+  3155 : ko-yeo                                            yeokorean                ko-yeo                                  Hangul Compatibility Jamo               HANGUL LETTER YEO   
+  FFCA : hwd-yeo                                           -                        hwd-yeo                                 Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YEO
 
    575 : armn-yi                                           yiarmenian               armn-yi                                 Armenian                                ARMENIAN SMALL LETTER YI
   12EA : ethi-yi                                           -                        ethi-yi                                 Ethiopic                                ETHIOPIC SYLLABLE YI
   3162 : ko-yi                                             yikorean                 ko-yi                                   Hangul Compatibility Jamo               HANGUL LETTER YI    
+  FFDB : hwd-yi                                            -                        hwd-yi                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YI
 
   12EE : ethi-yo                                           -                        ethi-yo                                 Ethiopic                                ETHIOPIC SYLLABLE YO
   3088 : hira-yo                                           yohiragana               hira-yo                                 Hiragana                                HIRAGANA LETTER YO  
   30E8 : kata-yo                                           yokatakana               kata-yo                                 Katakana                                KATAKANA LETTER YO  
   315B : ko-yo                                             yokorean                 ko-yo                                   Hangul Compatibility Jamo               HANGUL LETTER YO    
-
-  FF96 : kata-yohalfwidth                                  yokatakanahalfwidth      kata-yohalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YO
-  FFD2 : ko-yohalfwidth                                    -                        ko-yohalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YO
+  FFD2 : hwd-yo                                            -                        hwd-yo                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YO
 
   3087 : hira-yosmall                                      yosmallhiragana          hira-yosmall                            Hiragana                                HIRAGANA LETTER SMALL YO
   30E7 : kata-yosmall                                      yosmallkatakana          kata-yosmall                            Katakana                                KATAKANA LETTER SMALL YO
@@ -1785,9 +2061,7 @@
   3086 : hira-yu                                           yuhiragana               hira-yu                                 Hiragana                                HIRAGANA LETTER YU  
   30E6 : kata-yu                                           yukatakana               kata-yu                                 Katakana                                KATAKANA LETTER YU  
   3160 : ko-yu                                             yukorean                 ko-yu                                   Hangul Compatibility Jamo               HANGUL LETTER YU    
-
-  FF95 : kata-yuhalfwidth                                  yukatakanahalfwidth      kata-yuhalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YU
-  FFD7 : ko-yuhalfwidth                                    -                        ko-yuhalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YU
+  FFD7 : hwd-yu                                            -                        hwd-yu                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YU
 
   3085 : hira-yusmall                                      yusmallhiragana          hira-yusmall                            Hiragana                                HIRAGANA LETTER SMALL YU
   30E5 : kata-yusmall                                      yusmallkatakana          kata-yusmall                            Katakana                                KATAKANA LETTER SMALL YU
@@ -1798,6 +2072,7 @@
 
     7A : z                                                 z                        z                                       Basic Latin                             LATIN SMALL LETTER Z
   3117 : bopo-z                                            zbopomofo                bopo-z                                  Bopomofo                                BOPOMOFO LETTER Z   
+  FF5A : fwd-z                                             zfullwidth               fwd-z                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER Z
 
    566 : armn-za                                           zaarmenian               armn-za                                 Armenian                                ARMENIAN SMALL LETTER ZA
    95B : deva-za                                           dvZa                     deva-za                                 Devanagari                              DEVANAGARI LETTER ZA
@@ -1827,6 +2102,7 @@
    F20 : tibt-zero                                         -                        tibt-zero                               Tibetan                                 TIBETAN DIGIT ZERO  
   1810 : mong-zero                                         -                        mong-zero                               Mongolian                               MONGOLIAN DIGIT ZERO
   A9D0 : java-zero                                         -                        java-zero                               Javanese                                JAVANESE DIGIT ZERO 
+  FF10 : fwd-zero                                          zerofullwidth            fwd-zero                                Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT ZERO
 
    979 : deva-zha                                          dvZha                    deva-zha                                Devanagari                              DEVANAGARI LETTER ZHA
    F5E : tibt-zha                                          -                        tibt-zha                                Tibetan                                 TIBETAN LETTER ZHA  
@@ -1849,7 +2125,7 @@
   12D9 : ethi-zu                                           -                        ethi-zu                                 Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hira-zu                                           zuhiragana               hira-zu                                 Hiragana                                HIRAGANA LETTER ZU  
   30BA : kata-zu                                           zukatakana               kata-zu                                 Katakana                                KATAKANA LETTER ZU  
-# 324 names with conflicts, affecting 1525 unicodes
+# 391 names with conflicts, affecting 1734 unicodes
 
 
 Conflicts by rangename
@@ -1923,16 +2199,44 @@ Armenian
 
 Basic Latin
     41 : A                                                 A                        A                                       Basic Latin                             LATIN CAPITAL LETTER A
+    42 : B                                                 B                        B                                       Basic Latin                             LATIN CAPITAL LETTER B
+    43 : C                                                 C                        C                                       Basic Latin                             LATIN CAPITAL LETTER C
+    44 : D                                                 D                        D                                       Basic Latin                             LATIN CAPITAL LETTER D
+    45 : E                                                 E                        E                                       Basic Latin                             LATIN CAPITAL LETTER E
+    46 : F                                                 F                        F                                       Basic Latin                             LATIN CAPITAL LETTER F
+    47 : G                                                 G                        G                                       Basic Latin                             LATIN CAPITAL LETTER G
+    48 : H                                                 H                        H                                       Basic Latin                             LATIN CAPITAL LETTER H
     49 : I                                                 I                        I                                       Basic Latin                             LATIN CAPITAL LETTER I
+    4A : J                                                 J                        J                                       Basic Latin                             LATIN CAPITAL LETTER J
+    4B : K                                                 K                        K                                       Basic Latin                             LATIN CAPITAL LETTER K
+    4C : L                                                 L                        L                                       Basic Latin                             LATIN CAPITAL LETTER L
+    4D : M                                                 M                        M                                       Basic Latin                             LATIN CAPITAL LETTER M
+    4E : N                                                 N                        N                                       Basic Latin                             LATIN CAPITAL LETTER N
     4F : O                                                 O                        O                                       Basic Latin                             LATIN CAPITAL LETTER O
+    50 : P                                                 P                        P                                       Basic Latin                             LATIN CAPITAL LETTER P
+    51 : Q                                                 Q                        Q                                       Basic Latin                             LATIN CAPITAL LETTER Q
+    52 : R                                                 R                        R                                       Basic Latin                             LATIN CAPITAL LETTER R
+    53 : S                                                 S                        S                                       Basic Latin                             LATIN CAPITAL LETTER S
+    54 : T                                                 T                        T                                       Basic Latin                             LATIN CAPITAL LETTER T
     55 : U                                                 U                        U                                       Basic Latin                             LATIN CAPITAL LETTER U
+    56 : V                                                 V                        V                                       Basic Latin                             LATIN CAPITAL LETTER V
+    57 : W                                                 W                        W                                       Basic Latin                             LATIN CAPITAL LETTER W
+    58 : X                                                 X                        X                                       Basic Latin                             LATIN CAPITAL LETTER X
+    59 : Y                                                 Y                        Y                                       Basic Latin                             LATIN CAPITAL LETTER Y
+    5A : Z                                                 Z                        Z                                       Basic Latin                             LATIN CAPITAL LETTER Z
     61 : a                                                 a                        a                                       Basic Latin                             LATIN SMALL LETTER A
     26 : ampersand                                         ampersand                ampersand                               Basic Latin                             AMPERSAND           
+    5E : asciicircum                                       asciicircum              asciicircum                             Basic Latin                             CIRCUMFLEX ACCENT   
+    7E : asciitilde                                        asciitilde               asciitilde                              Basic Latin                             TILDE               
     2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             ASTERISK            
+    40 : at                                                at                       at                                      Basic Latin                             COMMERCIAL AT       
     62 : b                                                 b                        b                                       Basic Latin                             LATIN SMALL LETTER B
     5C : backslash                                         backslash                backslash                               Basic Latin                             REVERSE SOLIDUS     
+    7C : bar                                               bar                      bar                                     Basic Latin                             VERTICAL LINE       
     7B : braceleft                                         braceleft                braceleft                               Basic Latin                             LEFT CURLY BRACKET  
     7D : braceright                                        braceright               braceright                              Basic Latin                             RIGHT CURLY BRACKET 
+    5B : bracketleft                                       bracketleft              bracketleft                             Basic Latin                             LEFT SQUARE BRACKET 
+    5D : bracketright                                      bracketright             bracketright                            Basic Latin                             RIGHT SQUARE BRACKET
     63 : c                                                 c                        c                                       Basic Latin                             LATIN SMALL LETTER C
     3A : colon                                             colon                    colon                                   Basic Latin                             COLON               
     2C : comma                                             comma                    comma                                   Basic Latin                             COMMA               
@@ -1967,18 +2271,24 @@ Basic Latin
     2B : plus                                              plus                     plus                                    Basic Latin                             PLUS SIGN           
     71 : q                                                 q                        q                                       Basic Latin                             LATIN SMALL LETTER Q
     3F : question                                          question                 question                                Basic Latin                             QUESTION MARK       
+    22 : quotedbl                                          quotedbl                 quotedbl                                Basic Latin                             QUOTATION MARK      
+    27 : quotesingle                                       quotesingle              quotesingle                             Basic Latin                             APOSTROPHE          
     72 : r                                                 r                        r                                       Basic Latin                             LATIN SMALL LETTER R
     73 : s                                                 s                        s                                       Basic Latin                             LATIN SMALL LETTER S
     3B : semicolon                                         semicolon                semicolon                               Basic Latin                             SEMICOLON           
     37 : seven                                             seven                    seven                                   Basic Latin                             DIGIT SEVEN         
     36 : six                                               six                      six                                     Basic Latin                             DIGIT SIX           
+    2F : slash                                             slash                    slash                                   Basic Latin                             SOLIDUS             
     20 : space                                             space                    space                                   Basic Latin                             SPACE               
     74 : t                                                 t                        t                                       Basic Latin                             LATIN SMALL LETTER T
     33 : three                                             three                    three                                   Basic Latin                             DIGIT THREE         
     32 : two                                               two                      two                                     Basic Latin                             DIGIT TWO           
     75 : u                                                 u                        u                                       Basic Latin                             LATIN SMALL LETTER U
+    5F : underscore                                        underscore               underscore                              Basic Latin                             LOW LINE            
     76 : v                                                 v                        v                                       Basic Latin                             LATIN SMALL LETTER V
+    77 : w                                                 w                        w                                       Basic Latin                             LATIN SMALL LETTER W
     78 : x                                                 x                        x                                       Basic Latin                             LATIN SMALL LETTER X
+    79 : y                                                 y                        y                                       Basic Latin                             LATIN SMALL LETTER Y
     7A : z                                                 z                        z                                       Basic Latin                             LATIN SMALL LETTER Z
     30 : zero                                              zero                     zero                                    Basic Latin                             DIGIT ZERO          
 
@@ -2098,9 +2408,6 @@ Bopomofo
   3112 : bopo-x                                            xbopomofo                bopo-x                                  Bopomofo                                BOPOMOFO LETTER X   
   3117 : bopo-z                                            zbopomofo                bopo-z                                  Bopomofo                                BOPOMOFO LETTER Z   
 
-CJK Compatibility
-  3374 : cjk-barfullwidth                                  barfullwidth             cjk-barfullwidth                        CJK Compatibility                       SQUARE BAR          
-
 CJK Symbols and Punctuation
   3001 : cjk-ideographiccomma                              ideographiccomma         cjk-ideographiccomma                    CJK Symbols and Punctuation             IDEOGRAPHIC COMMA   
   3014 : cjk-tortoiseshellbracketleft                      tortoiseshellbracketleft cjk-tortoiseshellbracketleft            CJK Symbols and Punctuation             LEFT TORTOISE SHELL BRACKET
@@ -2145,6 +2452,7 @@ Cyrillic
    4D0 : Abrevecyr                                         Abrevecyr                Abrevecyr                               Cyrillic                                CYRILLIC CAPITAL LETTER A WITH BREVE
    4D2 : Adieresiscyr                                      Adieresiscyr             Adieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER A WITH DIAERESIS
    4C7 : ENhookcyr                                         Enhookcyrillic           ENhookcyr                               Cyrillic                                CYRILLIC CAPITAL LETTER EN WITH HOOK
+   42D : Ereversed                                         Ecyr                     Ereversed                               Cyrillic                                CYRILLIC CAPITAL LETTER E
    418 : Icyr                                              Icyr                     Icyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER I
    4E4 : Idieresiscyr                                      Idieresiscyr             Idieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER I WITH DIAERESIS
    40D : Igravecyr                                         Igravecyr                Igravecyr                               Cyrillic                                CYRILLIC CAPITAL LETTER I WITH GRAVE
@@ -2573,39 +2881,207 @@ Gurmukhi
    A66 : guru-zero                                         guZero                   guru-zero                               Gurmukhi                                GURMUKHI DIGIT ZERO 
 
 Halfwidth and Fullwidth Forms
-  FF71 : kata-ahalfwidth                                   akatakanahalfwidth       kata-ahalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER A
-  FFC2 : ko-ahalfwidth                                     -                        ko-ahalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER A
-  FF5C : barfullwidth                                      linevertfullwidth        barfullwidth                            Halfwidth and Fullwidth Forms           FULLWIDTH VERTICAL LINE
-  FF74 : kata-ehalfwidth                                   ekatakanahalfwidth       kata-ehalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER E
-  FFC7 : ko-ehalfwidth                                     -                        ko-ehalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER E
-  FF72 : kata-ihalfwidth                                   ikatakanahalfwidth       kata-ihalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER I
-  FFDC : ko-ihalfwidth                                     -                        ko-ihalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER I
-  FF75 : kata-ohalfwidth                                   okatakanahalfwidth       kata-ohalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER O
-  FFCC : ko-ohalfwidth                                     -                        ko-ohalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER O
-  FF73 : kata-uhalfwidth                                   ukatakanahalfwidth       kata-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER U
-  FFD3 : ko-uhalfwidth                                     -                        ko-uhalfwidth                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER U
-  FF9C : kata-wahalfwidth                                  wakatakanahalfwidth      kata-wahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER WA
-  FFCD : ko-wahalfwidth                                    -                        ko-wahalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WA
-  FF94 : kata-yahalfwidth                                  yakatakanahalfwidth      kata-yahalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YA
-  FFC4 : ko-yahalfwidth                                    -                        ko-yahalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YA
-  FF96 : kata-yohalfwidth                                  yokatakanahalfwidth      kata-yohalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YO
-  FFD2 : ko-yohalfwidth                                    -                        ko-yohalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YO
-  FF95 : kata-yuhalfwidth                                  yukatakanahalfwidth      kata-yuhalfwidth                        Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER YU
-  FFD7 : ko-yuhalfwidth                                    -                        ko-yuhalfwidth                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YU
+  FF21 : fwd-A                                             Afullwidth               fwd-A                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER A
+  FF22 : fwd-B                                             Bfullwidth               fwd-B                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER B
+  FF23 : fwd-C                                             Cfullwidth               fwd-C                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER C
+  FF24 : fwd-D                                             Dfullwidth               fwd-D                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER D
+  FF25 : fwd-E                                             Efullwidth               fwd-E                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER E
+  FF26 : fwd-F                                             Ffullwidth               fwd-F                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER F
+  FF27 : fwd-G                                             Gfullwidth               fwd-G                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER G
+  FF28 : fwd-H                                             Hfullwidth               fwd-H                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER H
+  FF29 : fwd-I                                             Ifullwidth               fwd-I                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER I
+  FF2A : fwd-J                                             Jfullwidth               fwd-J                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER J
+  FF2B : fwd-K                                             Kfullwidth               fwd-K                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER K
+  FF2C : fwd-L                                             Lfullwidth               fwd-L                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER L
+  FF2D : fwd-M                                             Mfullwidth               fwd-M                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER M
+  FF2E : fwd-N                                             Nfullwidth               fwd-N                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER N
+  FF2F : fwd-O                                             Ofullwidth               fwd-O                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER O
+  FF30 : fwd-P                                             Pfullwidth               fwd-P                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER P
+  FF31 : fwd-Q                                             Qfullwidth               fwd-Q                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER Q
+  FF32 : fwd-R                                             Rfullwidth               fwd-R                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER R
+  FF33 : fwd-S                                             Sfullwidth               fwd-S                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER S
+  FF34 : fwd-T                                             Tfullwidth               fwd-T                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER T
+  FF35 : fwd-U                                             Ufullwidth               fwd-U                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER U
+  FF36 : fwd-V                                             Vfullwidth               fwd-V                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER V
+  FF37 : fwd-W                                             Wfullwidth               fwd-W                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER W
+  FF38 : fwd-X                                             Xfullwidth               fwd-X                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER X
+  FF39 : fwd-Y                                             Yfullwidth               fwd-Y                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER Y
+  FF3A : fwd-Z                                             Zfullwidth               fwd-Z                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER Z
+  FF41 : fwd-a                                             afullwidth               fwd-a                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER A
+  FFC2 : hwd-a                                             -                        hwd-a                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER A
+  FFC3 : hwd-ae                                            -                        hwd-ae                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER AE
+  FF06 : fwd-ampersand                                     ampersandfullwidth       fwd-ampersand                           Halfwidth and Fullwidth Forms           FULLWIDTH AMPERSAND 
+  FF3E : fwd-asciicircum                                   asciicircumfullwidth     fwd-asciicircum                         Halfwidth and Fullwidth Forms           FULLWIDTH CIRCUMFLEX ACCENT
+  FF5E : fwd-asciitilde                                    asciitildefullwidth      fwd-asciitilde                          Halfwidth and Fullwidth Forms           FULLWIDTH TILDE     
+  FF0A : fwd-asterisk                                      asteriskfullwidth        fwd-asterisk                            Halfwidth and Fullwidth Forms           FULLWIDTH ASTERISK  
+  FF20 : fwd-at                                            atfullwidth              fwd-at                                  Halfwidth and Fullwidth Forms           FULLWIDTH COMMERCIAL AT
+  FF42 : fwd-b                                             bfullwidth               fwd-b                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER B
+  FF3C : fwd-backslash                                     backslashfullwidth       fwd-backslash                           Halfwidth and Fullwidth Forms           FULLWIDTH REVERSE SOLIDUS
+  FF5C : fwd-bar                                           linevertfullwidth        fwd-bar                                 Halfwidth and Fullwidth Forms           FULLWIDTH VERTICAL LINE
+  FF5B : fwd-braceleft                                     braceleftfullwidth       fwd-braceleft                           Halfwidth and Fullwidth Forms           FULLWIDTH LEFT CURLY BRACKET
+  FF5D : fwd-braceright                                    bracerightfullwidth      fwd-braceright                          Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT CURLY BRACKET
+  FF3B : fwd-bracketleft                                   bracketleftfullwidth     fwd-bracketleft                         Halfwidth and Fullwidth Forms           FULLWIDTH LEFT SQUARE BRACKET
+  FF3D : fwd-bracketright                                  bracketrightfullwidth    fwd-bracketright                        Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT SQUARE BRACKET
+  FFE4 : fwd-brokenbar                                     -                        fwd-brokenbar                           Halfwidth and Fullwidth Forms           FULLWIDTH BROKEN BAR
+  FF43 : fwd-c                                             cfullwidth               fwd-c                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER C
+  FFBA : hwd-chieuch                                       -                        hwd-chieuch                             Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER CHIEUCH
+  FFB8 : hwd-cieuc                                         -                        hwd-cieuc                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER CIEUC
+  FF1A : fwd-colon                                         colonfullwidth           fwd-colon                               Halfwidth and Fullwidth Forms           FULLWIDTH COLON     
+  FF0C : fwd-comma                                         commafullwidth           fwd-comma                               Halfwidth and Fullwidth Forms           FULLWIDTH COMMA     
+  FF44 : fwd-d                                             dfullwidth               fwd-d                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER D
+  FF04 : fwd-dollar                                        dollarfullwidth          fwd-dollar                              Halfwidth and Fullwidth Forms           FULLWIDTH DOLLAR SIGN
+  FF45 : fwd-e                                             efullwidth               fwd-e                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER E
+  FFC7 : hwd-e                                             -                        hwd-e                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER E
+  FF18 : fwd-eight                                         eightfullwidth           fwd-eight                               Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT EIGHT
+  FFC6 : hwd-eo                                            -                        hwd-eo                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER EO
+  FF1D : fwd-equal                                         equalfullwidth           fwd-equal                               Halfwidth and Fullwidth Forms           FULLWIDTH EQUALS SIGN
+  FFDA : hwd-eu                                            -                        hwd-eu                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER EU
+  FF01 : fwd-exclam                                        exclamfullwidth          fwd-exclam                              Halfwidth and Fullwidth Forms           FULLWIDTH EXCLAMATION MARK
+  FF46 : fwd-f                                             ffullwidth               fwd-f                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER F
+  FF15 : fwd-five                                          fivefullwidth            fwd-five                                Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT FIVE
+  FF14 : fwd-four                                          fourfullwidth            fwd-four                                Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT FOUR
+  FF47 : fwd-g                                             gfullwidth               fwd-g                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER G
+  FF40 : fwd-grave                                         gravefullwidth           fwd-grave                               Halfwidth and Fullwidth Forms           FULLWIDTH GRAVE ACCENT
+  FF1E : fwd-greater                                       greaterfullwidth         fwd-greater                             Halfwidth and Fullwidth Forms           FULLWIDTH GREATER-THAN SIGN
+  FF48 : fwd-h                                             hfullwidth               fwd-h                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER H
+  FFBE : hwd-hieuh                                         -                        hwd-hieuh                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER HIEUH
+  FF0D : fwd-hyphen                                        hyphenfullwidth          fwd-hyphen                              Halfwidth and Fullwidth Forms           FULLWIDTH HYPHEN-MINUS
+  FF49 : fwd-i                                             ifullwidth               fwd-i                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER I
+  FFDC : hwd-i                                             -                        hwd-i                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER I
+  FF64 : hwd-ideographiccomma                              ideographiccommaleft     hwd-ideographiccomma                    Halfwidth and Fullwidth Forms           HALFWIDTH IDEOGRAPHIC COMMA
+  FF61 : hwd-ideographicfullstop                           periodhalfwidth          hwd-ideographicfullstop                 Halfwidth and Fullwidth Forms           HALFWIDTH IDEOGRAPHIC FULL STOP
+  FFB7 : hwd-ieung                                         -                        hwd-ieung                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER IEUNG
+  FF4A : fwd-j                                             jfullwidth               fwd-j                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER J
+  FF4B : fwd-k                                             kfullwidth               fwd-k                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER K
+  FFBB : hwd-khieukh                                       -                        hwd-khieukh                             Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER KHIEUKH
+  FFA1 : hwd-kiyeok                                        -                        hwd-kiyeok                              Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER KIYEOK
+  FFA3 : hwd-kiyeoksios                                    -                        hwd-kiyeoksios                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER KIYEOK-SIOS
+  FF4C : fwd-l                                             lfullwidth               fwd-l                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER L
+  FF5F : fwd-leftwhiteparenthesis                          -                        fwd-leftwhiteparenthesis                Halfwidth and Fullwidth Forms           FULLWIDTH LEFT WHITE PARENTHESIS
+  FF1C : fwd-less                                          lessfullwidth            fwd-less                                Halfwidth and Fullwidth Forms           FULLWIDTH LESS-THAN SIGN
+  FF4D : fwd-m                                             mfullwidth               fwd-m                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER M
+  FFE3 : fwd-macron                                        macronfullwidth          fwd-macron                              Halfwidth and Fullwidth Forms           FULLWIDTH MACRON    
+  FFB1 : hwd-mieum                                         -                        hwd-mieum                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER MIEUM
+  FF4E : fwd-n                                             nfullwidth               fwd-n                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER N
+  FFA4 : hwd-nieun                                         -                        hwd-nieun                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER NIEUN
+  FFA5 : hwd-nieuncieuc                                    -                        hwd-nieuncieuc                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER NIEUN-CIEUC
+  FFA6 : hwd-nieunhieuh                                    -                        hwd-nieunhieuh                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER NIEUN-HIEUH
+  FF19 : fwd-nine                                          ninefullwidth            fwd-nine                                Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT NINE
+  FF03 : fwd-numbersign                                    numbersignfullwidth      fwd-numbersign                          Halfwidth and Fullwidth Forms           FULLWIDTH NUMBER SIGN
+  FF4F : fwd-o                                             ofullwidth               fwd-o                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER O
+  FFCC : hwd-o                                             -                        hwd-o                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER O
+  FFCF : hwd-oe                                            -                        hwd-oe                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER OE
+  FF11 : fwd-one                                           onefullwidth             fwd-one                                 Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT ONE 
+  FF50 : fwd-p                                             pfullwidth               fwd-p                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER P
+  FF08 : fwd-parenthesisleft                               parenleftfullwidth       fwd-parenthesisleft                     Halfwidth and Fullwidth Forms           FULLWIDTH LEFT PARENTHESIS
+  FF09 : fwd-parenthesisright                              parenrightfullwidth      fwd-parenthesisright                    Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT PARENTHESIS
+  FF05 : fwd-percent                                       percentfullwidth         fwd-percent                             Halfwidth and Fullwidth Forms           FULLWIDTH PERCENT SIGN
+  FF0E : fwd-period                                        periodfullwidth          fwd-period                              Halfwidth and Fullwidth Forms           FULLWIDTH FULL STOP 
+  FFBD : hwd-phieuph                                       -                        hwd-phieuph                             Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER PHIEUPH
+  FFB2 : hwd-pieup                                         -                        hwd-pieup                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER PIEUP
+  FFB4 : hwd-pieupsios                                     -                        hwd-pieupsios                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER PIEUP-SIOS
+  FF0B : fwd-plus                                          plusfullwidth            fwd-plus                                Halfwidth and Fullwidth Forms           FULLWIDTH PLUS SIGN 
+  FF51 : fwd-q                                             qfullwidth               fwd-q                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER Q
+  FF1F : fwd-question                                      questionfullwidth        fwd-question                            Halfwidth and Fullwidth Forms           FULLWIDTH QUESTION MARK
+  FF02 : fwd-quotedbl                                      quotedblfullwidth        fwd-quotedbl                            Halfwidth and Fullwidth Forms           FULLWIDTH QUOTATION MARK
+  FF07 : fwd-quotesingle                                   quotesinglefullwidth     fwd-quotesingle                         Halfwidth and Fullwidth Forms           FULLWIDTH APOSTROPHE
+  FF52 : fwd-r                                             rfullwidth               fwd-r                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER R
+  FFA9 : hwd-rieul                                         -                        hwd-rieul                               Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL
+  FFB0 : hwd-rieulhieuh                                    -                        hwd-rieulhieuh                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-HIEUH
+  FFAA : hwd-rieulkiyeok                                   -                        hwd-rieulkiyeok                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-KIYEOK
+  FFAB : hwd-rieulmieum                                    -                        hwd-rieulmieum                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-MIEUM
+  FFAF : hwd-rieulphieuph                                  -                        hwd-rieulphieuph                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-PHIEUPH
+  FFAC : hwd-rieulpieup                                    -                        hwd-rieulpieup                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-PIEUP
+  FFAD : hwd-rieulsios                                     -                        hwd-rieulsios                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-SIOS
+  FFAE : hwd-rieulthieuth                                  -                        hwd-rieulthieuth                        Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER RIEUL-THIEUTH
+  FF60 : fwd-rightwhiteparenthesis                         -                        fwd-rightwhiteparenthesis               Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT WHITE PARENTHESIS
+  FF53 : fwd-s                                             sfullwidth               fwd-s                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER S
+  FF1B : fwd-semicolon                                     semicolonfullwidth       fwd-semicolon                           Halfwidth and Fullwidth Forms           FULLWIDTH SEMICOLON 
+  FF17 : fwd-seven                                         sevenfullwidth           fwd-seven                               Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT SEVEN
+  FFB5 : hwd-sios                                          -                        hwd-sios                                Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SIOS
+  FF16 : fwd-six                                           sixfullwidth             fwd-six                                 Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT SIX 
+  FF0F : fwd-slash                                         slashfullwidth           fwd-slash                               Halfwidth and Fullwidth Forms           FULLWIDTH SOLIDUS   
+  FFB9 : hwd-ssangcieuc                                    -                        hwd-ssangcieuc                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGCIEUC
+  FFA2 : hwd-ssangkiyeok                                   -                        hwd-ssangkiyeok                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGKIYEOK
+  FFB3 : hwd-ssangpieup                                    -                        hwd-ssangpieup                          Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGPIEUP
+  FFB6 : hwd-ssangsios                                     -                        hwd-ssangsios                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGSIOS
+  FFA8 : hwd-ssangtikeut                                   -                        hwd-ssangtikeut                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER SSANGTIKEUT
+  FF54 : fwd-t                                             tfullwidth               fwd-t                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER T
+  FFBC : hwd-thieuth                                       -                        hwd-thieuth                             Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER THIEUTH
+  FF13 : fwd-three                                         threefullwidth           fwd-three                               Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT THREE
+  FFA7 : hwd-tikeut                                        -                        hwd-tikeut                              Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER TIKEUT
+  FF12 : fwd-two                                           twofullwidth             fwd-two                                 Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT TWO 
+  FF55 : fwd-u                                             ufullwidth               fwd-u                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER U
+  FFD3 : hwd-u                                             -                        hwd-u                                   Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER U
+  FF3F : fwd-underscore                                    underscorefullwidth      fwd-underscore                          Halfwidth and Fullwidth Forms           FULLWIDTH LOW LINE  
+  FF56 : fwd-v                                             vfullwidth               fwd-v                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER V
+  FF57 : fwd-w                                             wfullwidth               fwd-w                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER W
+  FFCD : hwd-wa                                            -                        hwd-wa                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WA
+  FFCE : hwd-wae                                           -                        hwd-wae                                 Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WAE
+  FFD5 : hwd-we                                            -                        hwd-we                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WE
+  FFD4 : hwd-weo                                           -                        hwd-weo                                 Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WEO
+  FFD6 : hwd-wi                                            -                        hwd-wi                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER WI
+  FF58 : fwd-x                                             xfullwidth               fwd-x                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER X
+  FF59 : fwd-y                                             yfullwidth               fwd-y                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER Y
+  FFC4 : hwd-ya                                            -                        hwd-ya                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YA
+  FFC5 : hwd-yae                                           -                        hwd-yae                                 Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YAE
+  FFCB : hwd-ye                                            -                        hwd-ye                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YE
+  FFCA : hwd-yeo                                           -                        hwd-yeo                                 Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YEO
+  FFDB : hwd-yi                                            -                        hwd-yi                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YI
+  FFD2 : hwd-yo                                            -                        hwd-yo                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YO
+  FFD7 : hwd-yu                                            -                        hwd-yu                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER YU
+  FF5A : fwd-z                                             zfullwidth               fwd-z                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN SMALL LETTER Z
+  FF10 : fwd-zero                                          zerofullwidth            fwd-zero                                Halfwidth and Fullwidth Forms           FULLWIDTH DIGIT ZERO
 
 Hangul Compatibility Jamo
   314F : ko-a                                              akorean                  ko-a                                    Hangul Compatibility Jamo               HANGUL LETTER A     
   3150 : ko-ae                                             aekorean                 ko-ae                                   Hangul Compatibility Jamo               HANGUL LETTER AE    
+  314A : ko-chieuch                                        chieuchkorean            ko-chieuch                              Hangul Compatibility Jamo               HANGUL LETTER CHIEUCH
+  3148 : ko-cieuc                                          cieuckorean              ko-cieuc                                Hangul Compatibility Jamo               HANGUL LETTER CIEUC 
   3154 : ko-e                                              ekorean                  ko-e                                    Hangul Compatibility Jamo               HANGUL LETTER E     
+  3153 : ko-eo                                             eokorean                 ko-eo                                   Hangul Compatibility Jamo               HANGUL LETTER EO    
+  3161 : ko-eu                                             eukorean                 ko-eu                                   Hangul Compatibility Jamo               HANGUL LETTER EU    
+  314E : ko-hieuh                                          hieuhkorean              ko-hieuh                                Hangul Compatibility Jamo               HANGUL LETTER HIEUH 
   3163 : ko-i                                              ikorean                  ko-i                                    Hangul Compatibility Jamo               HANGUL LETTER I     
+  3147 : ko-ieung                                          ieungkorean              ko-ieung                                Hangul Compatibility Jamo               HANGUL LETTER IEUNG 
+  314B : ko-khieukh                                        khieukhkorean            ko-khieukh                              Hangul Compatibility Jamo               HANGUL LETTER KHIEUKH
+  3131 : ko-kiyeok                                         kiyeokkorean             ko-kiyeok                               Hangul Compatibility Jamo               HANGUL LETTER KIYEOK
+  3133 : ko-kiyeoksios                                     kiyeoksioskorean         ko-kiyeoksios                           Hangul Compatibility Jamo               HANGUL LETTER KIYEOK-SIOS
+  3141 : ko-mieum                                          mieumkorean              ko-mieum                                Hangul Compatibility Jamo               HANGUL LETTER MIEUM 
+  3134 : ko-nieun                                          nieunkorean              ko-nieun                                Hangul Compatibility Jamo               HANGUL LETTER NIEUN 
+  3135 : ko-nieuncieuc                                     nieuncieuckorean         ko-nieuncieuc                           Hangul Compatibility Jamo               HANGUL LETTER NIEUN-CIEUC
+  3136 : ko-nieunhieuh                                     nieunhieuhkorean         ko-nieunhieuh                           Hangul Compatibility Jamo               HANGUL LETTER NIEUN-HIEUH
   3157 : ko-o                                              okorean                  ko-o                                    Hangul Compatibility Jamo               HANGUL LETTER O     
   315A : ko-oe                                             oekorean                 ko-oe                                   Hangul Compatibility Jamo               HANGUL LETTER OE    
+  314D : ko-phieuph                                        phieuphkorean            ko-phieuph                              Hangul Compatibility Jamo               HANGUL LETTER PHIEUPH
+  3142 : ko-pieup                                          pieupkorean              ko-pieup                                Hangul Compatibility Jamo               HANGUL LETTER PIEUP 
+  3144 : ko-pieupsios                                      pieupsioskorean          ko-pieupsios                            Hangul Compatibility Jamo               HANGUL LETTER PIEUP-SIOS
+  3139 : ko-rieul                                          rieulkorean              ko-rieul                                Hangul Compatibility Jamo               HANGUL LETTER RIEUL 
+  3140 : ko-rieulhieuh                                     rieulhieuhkorean         ko-rieulhieuh                           Hangul Compatibility Jamo               HANGUL LETTER RIEUL-HIEUH
+  313A : ko-rieulkiyeok                                    rieulkiyeokkorean        ko-rieulkiyeok                          Hangul Compatibility Jamo               HANGUL LETTER RIEUL-KIYEOK
+  313B : ko-rieulmieum                                     rieulmieumkorean         ko-rieulmieum                           Hangul Compatibility Jamo               HANGUL LETTER RIEUL-MIEUM
+  313F : ko-rieulphieuph                                   rieulphieuphkorean       ko-rieulphieuph                         Hangul Compatibility Jamo               HANGUL LETTER RIEUL-PHIEUPH
+  313C : ko-rieulpieup                                     rieulpieupkorean         ko-rieulpieup                           Hangul Compatibility Jamo               HANGUL LETTER RIEUL-PIEUP
+  313D : ko-rieulsios                                      rieulsioskorean          ko-rieulsios                            Hangul Compatibility Jamo               HANGUL LETTER RIEUL-SIOS
+  313E : ko-rieulthieuth                                   rieulthieuthkorean       ko-rieulthieuth                         Hangul Compatibility Jamo               HANGUL LETTER RIEUL-THIEUTH
+  3145 : ko-sios                                           sioskorean               ko-sios                                 Hangul Compatibility Jamo               HANGUL LETTER SIOS  
+  3149 : ko-ssangcieuc                                     ssangcieuckorean         ko-ssangcieuc                           Hangul Compatibility Jamo               HANGUL LETTER SSANGCIEUC
+  3132 : ko-ssangkiyeok                                    ssangkiyeokkorean        ko-ssangkiyeok                          Hangul Compatibility Jamo               HANGUL LETTER SSANGKIYEOK
+  3143 : ko-ssangpieup                                     ssangpieupkorean         ko-ssangpieup                           Hangul Compatibility Jamo               HANGUL LETTER SSANGPIEUP
+  3146 : ko-ssangsios                                      ssangsioskorean          ko-ssangsios                            Hangul Compatibility Jamo               HANGUL LETTER SSANGSIOS
+  3138 : ko-ssangtikeut                                    ssangtikeutkorean        ko-ssangtikeut                          Hangul Compatibility Jamo               HANGUL LETTER SSANGTIKEUT
+  314C : ko-thieuth                                        thieuthkorean            ko-thieuth                              Hangul Compatibility Jamo               HANGUL LETTER THIEUTH
+  3137 : ko-tikeut                                         tikeutkorean             ko-tikeut                               Hangul Compatibility Jamo               HANGUL LETTER TIKEUT
   315C : ko-u                                              ukorean                  ko-u                                    Hangul Compatibility Jamo               HANGUL LETTER U     
   3158 : ko-wa                                             wakorean                 ko-wa                                   Hangul Compatibility Jamo               HANGUL LETTER WA    
+  3159 : ko-wae                                            waekorean                ko-wae                                  Hangul Compatibility Jamo               HANGUL LETTER WAE   
   315E : ko-we                                             wekorean                 ko-we                                   Hangul Compatibility Jamo               HANGUL LETTER WE    
+  315D : ko-weo                                            weokorean                ko-weo                                  Hangul Compatibility Jamo               HANGUL LETTER WEO   
   315F : ko-wi                                             wikorean                 ko-wi                                   Hangul Compatibility Jamo               HANGUL LETTER WI    
   3151 : ko-ya                                             yakorean                 ko-ya                                   Hangul Compatibility Jamo               HANGUL LETTER YA    
+  3152 : ko-yae                                            yaekorean                ko-yae                                  Hangul Compatibility Jamo               HANGUL LETTER YAE   
   3156 : ko-ye                                             yekorean                 ko-ye                                   Hangul Compatibility Jamo               HANGUL LETTER YE    
+  3155 : ko-yeo                                            yeokorean                ko-yeo                                  Hangul Compatibility Jamo               HANGUL LETTER YEO   
   3162 : ko-yi                                             yikorean                 ko-yi                                   Hangul Compatibility Jamo               HANGUL LETTER YI    
   315B : ko-yo                                             yokorean                 ko-yo                                   Hangul Compatibility Jamo               HANGUL LETTER YO    
   3160 : ko-yu                                             yukorean                 ko-yu                                   Hangul Compatibility Jamo               HANGUL LETTER YU    
@@ -2940,6 +3416,7 @@ Latin Extended-A
    153 : oe                                                oe                       oe                                      Latin Extended-A                        LATIN SMALL LIGATURE OE
 
 Latin Extended-B
+   18E : Ereversed                                         Eturned                  Ereversed                               Latin Extended-B                        LATIN CAPITAL LETTER REVERSED E
    19F : Obar                                              Obar                     Obar                                    Latin Extended-B                        LATIN CAPITAL LETTER O WITH MIDDLE TILDE
    242 : glottalstop                                       glottalstoplatin         glottalstop                             Latin Extended-B                        LATIN SMALL LETTER GLOTTAL STOP
    223 : ou                                                -                        ou                                      Latin Extended-B                        LATIN SMALL LETTER OU
@@ -2960,6 +3437,7 @@ Latin-1 Supplement
     DC : Udieresis                                         Udieresis                Udieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER U WITH DIAERESIS
     B4 : acute                                             acute                    acute                                   Latin-1 Supplement                      ACUTE ACCENT        
     E6 : ae                                                ae                       ae                                      Latin-1 Supplement                      LATIN SMALL LETTER AE
+    A6 : brokenbar                                         brokenbar                brokenbar                               Latin-1 Supplement                      BROKEN BAR          
     B8 : cedilla                                           cedilla                  cedilla                                 Latin-1 Supplement                      CEDILLA             
     A8 : dieresis                                          dieresis                 dieresis                                Latin-1 Supplement                      DIAERESIS           
     AF : macron                                            macron                   macron                                  Latin-1 Supplement                      MACRON              
@@ -3074,6 +3552,10 @@ Miscellaneous Mathematical Symbols-A
   27C2 : math-perpendicular                                -                        math-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
   27DE : math-tackleft                                     -                        math-tackleft                           Miscellaneous Mathematical Symbols-A    LONG LEFT TACK      
   27DD : math-tackright                                    -                        math-tackright                          Miscellaneous Mathematical Symbols-A    LONG RIGHT TACK     
+
+Miscellaneous Mathematical Symbols-B
+  2985 : leftwhiteparenthesis                              -                        leftwhiteparenthesis                    Miscellaneous Mathematical Symbols-B    LEFT WHITE PARENTHESIS
+  2986 : rightwhiteparenthesis                             -                        rightwhiteparenthesis                   Miscellaneous Mathematical Symbols-B    RIGHT WHITE PARENTHESIS
 
 Miscellaneous Symbols
   2666 : misc-diamondblack                                 diamond                  misc-diamondblack                       Miscellaneous Symbols                   BLACK DIAMOND SUIT  
@@ -3246,6 +3728,8 @@ Small Form Variants
   FE51 : gnrl-ideographiccomma                             -                        gnrl-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
   FE64 : gnrl-less                                         lesssmall                gnrl-less                               Small Form Variants                     SMALL LESS-THAN SIGN
   FE5F : gnrl-numbersign                                   numbersignsmall          gnrl-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
+  FE59 : parenthesisleft                                   parenleftsmall           parenthesisleft                         Small Form Variants                     SMALL LEFT PARENTHESIS
+  FE5A : parenthesisright                                  parenrightsmall          parenthesisright                        Small Form Variants                     SMALL RIGHT PARENTHESIS
   FE6A : gnrl-percent                                      percentsmall             gnrl-percent                            Small Form Variants                     SMALL PERCENT SIGN  
   FE52 : gnrl-period                                       periodsmall              gnrl-period                             Small Form Variants                     SMALL FULL STOP     
   FE62 : gnrl-plus                                         plussmall                gnrl-plus                               Small Form Variants                     SMALL PLUS SIGN     
@@ -3482,5 +3966,6 @@ Vertical Forms
   FE10 : vert-comma                                        commavert                vert-comma                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COMMA
   FE15 : vert-exclam                                       exclamvert               vert-exclam                             Vertical Forms                          PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK
   FE11 : vert-ideographiccomma                             -                        vert-ideographiccomma                   Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA
+  FE12 : vert-ideographicfullstop                          -                        vert-ideographicfullstop                Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP
   FE16 : vert-question                                     questionvert             vert-question                           Vertical Forms                          PRESENTATION FORM FOR VERTICAL QUESTION MARK
   FE14 : vert-semicolon                                    semicolonvert            vert-semicolon                          Vertical Forms                          PRESENTATION FORM FOR VERTICAL SEMICOLON

@@ -1,4 +1,5 @@
-from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes, addScriptPrefix
+
 
 def process(self):
 
@@ -10,12 +11,11 @@ def process(self):
     self.replace("FULLWIDTH")
     self.replace("HALFWIDTH")
     if 0xFF01 <= self.uniNumber <= 0xFF5E:
-        self.edit("LATIN", "latin")
         self.processAs('Basic Latin')
         self.edit("COMMERCIAL AT", "at")
     elif 0xFF65 <= self.uniNumber <= 0xFF9F:
-        self.edit("KATAKANA", "katakana")
         self.processAs('Katakana')
+        self.replace(self.uniNameProcessed, addScriptPrefix(self.uniNameProcessed, script="katakana"))
     elif 0xFFA0 <= self.uniNumber <= 0xFFDC:
         self.edit("HANGUL LETTER")
         self.processAs('Hangul')
