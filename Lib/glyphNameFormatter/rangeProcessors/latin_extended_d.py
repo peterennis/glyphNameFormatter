@@ -24,8 +24,8 @@ def process(self):
     self.edit("SIGN")
     self.replace("SHORT", "short")
 
-    self.processDiacritics()
-    self.processShape()
+    self.processAs("Helper Diacritics")
+    self.processAs("Helper Shapes")
 
     self.edit("LONG")
     self.edit("OVERLAY")

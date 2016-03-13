@@ -37,8 +37,8 @@ def process(self):
     self.replace("CAPITAL LETTER IOTA", addScriptPrefix("Iota", script="latin"))
     self.replace("CAPITAL LETTER UPSILON", addScriptPrefix("Upsilon", script="latin"))
 
-    self.processDiacritics()
-    self.processShape()
+    self.processAs("Helper Diacritics")
+    self.processAs("Helper Shapes")
     self.handleCase()
     self.compress()
 

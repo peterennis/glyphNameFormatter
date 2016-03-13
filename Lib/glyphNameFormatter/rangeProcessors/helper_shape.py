@@ -1,6 +1,6 @@
-from __future__ import print_function
 
-def processShape(self):
+
+def process(self):
     self.edit("LITTLE", "little")
     self.edit("BIG", "big")
     self.edit("ROUND", "round")

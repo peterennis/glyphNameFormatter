@@ -36,7 +36,7 @@ def process(self):
     self.replace("LETTER SMALL CAPITAL OU", "OUsmall")
 
     self.edit("FISHHOOK AND MIDDLE TILDE", "fishmiddletilde")
-    self.processDiacritics()
+    self.processAs("Helper Diacritics")
 
     if self.has("GREEK"):
         self.edit("GREEK")

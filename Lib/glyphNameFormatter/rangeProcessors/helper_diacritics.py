@@ -1,5 +1,5 @@
 
-def processDiacritics(self):
+def process(self):
     # WITH ___ AND ___
     self.edit("WITH CIRCUMFLEX AND HOOK ABOVE", "circumflex", "hoi")
     self.edit("WITH CIRCUMFLEX AND DOT BELOW", "circumflex", "dotbelow")

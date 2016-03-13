@@ -16,7 +16,7 @@ def process(self):
 
     self.replace("SMALL LETTER DELTA", addScriptPrefix("delta", script="latin"))
 
-    self.processDiacritics()
+    self.processAs("Helper Diacritics")
     self.handleCase()
     self.compress()
 

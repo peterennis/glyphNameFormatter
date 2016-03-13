@@ -30,8 +30,9 @@ def process(self):
     self.replace("LETTER GLOTTAL STOP WITH STROKE", "glottalstopstroke")
     self.replace("LETTER SMALL CAPITAL OE", "OEsmall")
 
-    self.processDiacritics()
-    self.processShape()
+    self.processAs("Helper Diacritics")
+    self.processAs("Helper Shapes")
+
     self.handleCase()
     self.replace("LETTER")
     self.compress()

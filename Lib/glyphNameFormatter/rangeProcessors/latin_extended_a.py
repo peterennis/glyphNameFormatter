@@ -22,7 +22,8 @@ def process(self):
     self.replace("SMALL LIGATURE OE", "oe")
     self.replace("CAPITAL LIGATURE OE", "OE")
 
-    self.processDiacritics()
+    self.processAs("Helper Diacritics")
+
     self.editSuffix("dot", 'dotaccent')
     self.handleCase()
     self.compress()

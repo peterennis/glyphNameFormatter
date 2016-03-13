@@ -19,8 +19,8 @@ def process(self):
     self.edit("DIAGONAL")
     self.edit("WITH")
 
-    self.processDiacritics()
-    self.processShape()
+    self.processAs("Helper Diacritics")
+    self.processAs("Helper Shapes")
     self.handleCase()
     self.compress()
 

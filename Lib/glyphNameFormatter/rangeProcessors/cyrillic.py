@@ -82,8 +82,8 @@ def process(self):
 
     self.edit("COMBINING", "cmb")
 
-    self.processDiacritics()
-    self.handleCase()
+    self.processAs("Helper Diacritics")
+    self.processAs("Helper Shapes")
 
     # cleanup
     self.edit("CAPITAL")

@@ -49,7 +49,8 @@ def process(self):
     self.replace("WITH STROKE", "slash")
     self.replace("SMALL LETTER SHARP S", "germandbls")
 
-    self.processDiacritics()
+    self.processAs("Helper Diacritics")
+
     self.handleCase()
     self.compress()
 
