@@ -1,7 +1,8 @@
 import struct
 
+
 def camelCase(pattern):
-    if len(pattern)==0:
+    if len(pattern) == 0:
         return ""
     if "-" in pattern:
         t = ""
@@ -23,23 +24,26 @@ def charToUnicode(char):
         return ord(char)
     return 0x10000 + (ord(char[0]) - 0xD800) * 0x400 + (ord(char[1]) - 0xDC00)
 
+
 def debug(uniNumber):
     # dump the steps of building the name
     import glyphNameFormatter
     g = glyphNameFormatter.GlyphName(uniNumber)
     name = g.getName(extension=True)
     count = 0
-    print("Debugging: %s"%name)
-    print("uninumber: %04X"%uniNumber)
-    print("uni range: %s"%g.uniRangeName)
+    print("Debugging: %s" % name)
+    print("uninumber: %04X" % uniNumber)
+    print("uni range: %s" % g.uniRangeName)
     print("{0:<5} {1:<30} {2:<30} {3:<30} {4:<30}".format("Step", "Look For", "Replace With", "Before", "After"))
     for lookFor, replaceWith, before, after in g._log:
         count += 1
         print("{0:<5} {0:<30} {1:<30} {2:<30} {3:<30}".format(count, lookFor, replaceWith, before, after))
-    print("\nSuffixes: %s"%" ".join(g.suffixParts))
+    print("\nSuffixes: %s" % " ".join(g.suffixParts))
+
 
 class GlyphNameFormatterError(Exception):
     pass
+
 
 if __name__ == "__main__":
     assert camelCase("aaaa") == "Aaaa"

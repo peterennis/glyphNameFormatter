@@ -26,9 +26,9 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
         "# <glyphName> <hex unicode>",
     ]
     if scriptSeparator is not None:
-        data.append("# Separator \"%s\""%scriptSeparator)
+        data.append("# Separator \"%s\"" % scriptSeparator)
     if scriptAsPrefix is not None:
-        data.append("# Prefixed \"%s\""%scriptAsPrefix)
+        data.append("# Prefixed \"%s\"" % scriptAsPrefix)
     data.append("#")
     for rangeName in getAllRangeNames():
         if onlySupported:
@@ -61,12 +61,12 @@ if __name__ == "__main__":
             ("-", "hyphen")
             ]:
         for asPrefix, pn in [
-                (True, "prefixed"), 
+                (True, "prefixed"),
                 (False, "suffixed")
                 ]:
             for onlySupported, sp in [
-                    (True, "AGDonly"), 
-                    #(False, "full")    # large files, proceed at own leisurely pace.
+                    (True, "AGDonly"),
+                    # (False, "full")    # large files, proceed at own leisurely pace.
                     ]:
-                path = "./../names/glyphNamesToUnicode_%s_%s_%s.txt"%(sp, sn, pn)
+                path = "./../names/glyphNamesToUnicode_%s_%s_%s.txt" % (sp, sn, pn)
                 generateFlat(path, onlySupported=onlySupported, scriptSeparator=separator, scriptAsPrefix=asPrefix)
