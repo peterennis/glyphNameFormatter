@@ -62,9 +62,11 @@ class GlyphName(GlyphNameProcessor):
         try:
             self.uniName = unicodedata.name(self.uniLetter)
             self.uniNameProcessed = self.uniName
+            self.bidiType = unicodedata.bidirectional(self.uniLetter)
         except ValueError:
             self.uniName = None
             self.uniLetter = None
+            self.bidiType = None
         self.uniRangeName = getRangeName(self.uniNumber)
 
     def hasName(self):
