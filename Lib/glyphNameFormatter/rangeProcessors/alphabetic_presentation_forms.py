@@ -1,7 +1,9 @@
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
+
 
 def process(self):
-    # if self.has("LATIN"):
-    #     self.scriptTag = scriptPrefixes['latin']
+    if self.has("LATIN"):
+        self.scriptTag = scriptPrefixes['latin']
     if self.has("ARMENIAN"):
         # self.scriptTag = scriptPrefixes['armenian']
         self.processAs("Armenian")
