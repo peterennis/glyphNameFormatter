@@ -11,6 +11,8 @@ inevitableExceptions = [
     1553,
     1554,
     1555,
+    1758,
+    1772,
 ]
 
 biditypes = {}

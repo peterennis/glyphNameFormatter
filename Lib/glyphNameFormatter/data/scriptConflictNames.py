@@ -168,6 +168,7 @@ scriptConflictNames = [
     "ka",
     "kaf",
     "kasmall",
+    "kasratan",
     "ke",
     "kesmall",
     "kha",
