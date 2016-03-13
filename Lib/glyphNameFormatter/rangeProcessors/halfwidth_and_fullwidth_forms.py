@@ -1,29 +1,30 @@
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
 
 def process(self):
 
+    size = "NOSIZE"
+    if self.has("FULLWIDTH"):
+        size = "fullwidth"
+    elif self.has("HALFWIDTH"):
+        size = "halfwidth"
+    self.replace("FULLWIDTH")
+    self.replace("HALFWIDTH")
     if 0xFF01 <= self.uniNumber <= 0xFF5E:
-        self.editToFinal("FULLWIDTH", 'fullwidth')
+        self.edit("LATIN", "latin")
         self.processAs('Basic Latin')
         self.edit("COMMERCIAL AT", "at")
     elif 0xFF65 <= self.uniNumber <= 0xFF9F:
-        self.editToFinal("HALFWIDTH", 'halfwidth')
+        self.edit("KATAKANA", "katakana")
         self.processAs('Katakana')
     elif 0xFFA0 <= self.uniNumber <= 0xFFDC:
-        self.editToFinal("HALFWIDTH", 'halfwidth')
-        self.editToFinal("FULLWIDTH", 'fullwidth')
-        self.replace("-", "_")
         self.edit("HANGUL LETTER")
         self.processAs('Hangul')
-        self.lower()
     else:
-        self.editToFinal("HALFWIDTH", 'halfwidth')
-        self.editToFinal("FULLWIDTH", 'fullwidth')
-        self.edit('CENT SIGN', "cent")
-        self.edit('POUND SIGN', "sterling")
         self.lower()
-
-    # XXXXX add support for HANGUL
+    self.scriptTag = scriptPrefixes[size]
+    self.scriptPrefix()
     self.compress()
+
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
