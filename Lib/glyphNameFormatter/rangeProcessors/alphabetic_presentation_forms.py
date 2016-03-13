@@ -9,11 +9,11 @@ def process(self):
         # self.scriptTag = scriptPrefixes['hebrew']
         self.processAs("Hebrew")
 
+    self.edit("LATIN SMALL LIGATURE FFI", "f_f_i")
+    self.edit("LATIN SMALL LIGATURE FFL", "f_f_l")
     self.edit("LATIN SMALL LIGATURE FF", "f_f")
     self.edit("LATIN SMALL LIGATURE FI", "fi")
     self.edit("LATIN SMALL LIGATURE FL", "fl")
-    self.edit("LATIN SMALL LIGATURE FFI", "f_f_i")
-    self.edit("LATIN SMALL LIGATURE FFL", "f_f_l")
     self.edit("LATIN SMALL LIGATURE LONG S T", "longs_t")
     self.edit("LATIN SMALL LIGATURE ST", "s_t")
 
