@@ -4,8 +4,8 @@
 2982	znotationtypecolon	Z NOTATION TYPE COLON
 2983	leftwhitecurlybracket	LEFT WHITE CURLY BRACKET
 2984	rightwhitecurlybracket	RIGHT WHITE CURLY BRACKET
-2985	leftwhiteparenthesis	LEFT WHITE PARENTHESIS
-2986	rightwhiteparenthesis	RIGHT WHITE PARENTHESIS
+2985	misc-leftwhiteparenthesis	LEFT WHITE PARENTHESIS
+2986	misc-rightwhiteparenthesis	RIGHT WHITE PARENTHESIS
 2987	znotationleftimagebracket	Z NOTATION LEFT IMAGE BRACKET
 2988	znotationrightimagebracket	Z NOTATION RIGHT IMAGE BRACKET
 2989	znotationleftbindingbracket	Z NOTATION LEFT BINDING BRACKET
