@@ -98,6 +98,8 @@ _scriptPrefixes = {
     'miscellaneous': 'misc',
     'musical': 'music',
     'optical character recognition': 'ocr',
+    'oriya': "orya", # "odia"
+    'phonetic': "phon",
     'vedic': 've',
     'vertical forms': 'vert',
 }

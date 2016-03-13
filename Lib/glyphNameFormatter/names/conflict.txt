@@ -83,7 +83,7 @@
    985 : beng-a                                            beA                      beng-a                                  Bengali                                 BENGALI LETTER A    
    A05 : guru-a                                            guA                      guru-a                                  Gurmukhi                                GURMUKHI LETTER A   
    A85 : gujr-a                                            gjA                      gujr-a                                  Gujarati                                GUJARATI LETTER A   
-   B05 : ry-a                                              odA                      ry-a                                    Oriya                                   ORIYA LETTER A      
+   B05 : orya-a                                            odA                      orya-a                                  Oriya                                   ORIYA LETTER A      
    B85 : taml-a                                            taA                      taml-a                                  Tamil                                   TAMIL LETTER A      
    C05 : telu-a                                            teA                      telu-a                                  Telugu                                  TELUGU LETTER A     
    C85 : knda-a                                            knA                      knda-a                                  Kannada                                 KANNADA LETTER A    
@@ -100,7 +100,7 @@
    986 : beng-aa                                           beAa                     beng-aa                                 Bengali                                 BENGALI LETTER AA   
    A06 : guru-aa                                           guAa                     guru-aa                                 Gurmukhi                                GURMUKHI LETTER AA  
    A86 : gujr-aa                                           gjAa                     gujr-aa                                 Gujarati                                GUJARATI LETTER AA  
-   B06 : ry-aa                                             odAa                     ry-aa                                   Oriya                                   ORIYA LETTER AA     
+   B06 : orya-aa                                           odAa                     orya-aa                                 Oriya                                   ORIYA LETTER AA     
    B86 : taml-aa                                           taAa                     taml-aa                                 Tamil                                   TAMIL LETTER AA     
    C06 : telu-aa                                           teAa                     telu-aa                                 Telugu                                  TELUGU LETTER AA    
    C86 : knda-aa                                           knAa                     knda-aa                                 Kannada                                 KANNADA LETTER AA   
@@ -111,7 +111,7 @@
    9BE : beng-aasign                                       beAasign                 beng-aasign                             Bengali                                 BENGALI VOWEL SIGN AA
    A3E : guru-aasign                                       guAasign                 guru-aasign                             Gurmukhi                                GURMUKHI VOWEL SIGN AA
    ABE : gujr-aasign                                       gjAasign                 gujr-aasign                             Gujarati                                GUJARATI VOWEL SIGN AA
-   B3E : ry-aasign                                         odAasign                 ry-aasign                               Oriya                                   ORIYA VOWEL SIGN AA 
+   B3E : orya-aasign                                       odAasign                 orya-aasign                             Oriya                                   ORIYA VOWEL SIGN AA 
    BBE : taml-aasign                                       taAasign                 taml-aasign                             Tamil                                   TAMIL VOWEL SIGN AA 
    C3E : telu-aasign                                       teAasign                 telu-aasign                             Telugu                                  TELUGU VOWEL SIGN AA
    CBE : knda-aasign                                       knAasign                 knda-aasign                             Kannada                                 KANNADA VOWEL SIGN AA
@@ -138,7 +138,7 @@
    990 : beng-ai                                           beAi                     beng-ai                                 Bengali                                 BENGALI LETTER AI   
    A10 : guru-ai                                           guAi                     guru-ai                                 Gurmukhi                                GURMUKHI LETTER AI  
    A90 : gujr-ai                                           gjAi                     gujr-ai                                 Gujarati                                GUJARATI LETTER AI  
-   B10 : ry-ai                                             odAi                     ry-ai                                   Oriya                                   ORIYA LETTER AI     
+   B10 : orya-ai                                           odAi                     orya-ai                                 Oriya                                   ORIYA LETTER AI     
    B90 : taml-ai                                           taAi                     taml-ai                                 Tamil                                   TAMIL LETTER AI     
    C10 : telu-ai                                           teAi                     telu-ai                                 Telugu                                  TELUGU LETTER AI    
    C90 : knda-ai                                           knAi                     knda-ai                                 Kannada                                 KANNADA LETTER AI   
@@ -146,17 +146,17 @@
   311E : bopo-ai                                           aibopomofo               bopo-ai                                 Bopomofo                                BOPOMOFO LETTER AI  
   A98D : java-ai                                           -                        java-ai                                 Javanese                                JAVANESE LETTER AI  
 
-   B56 : ry-ailengthmark                                   odAilength               ry-ailengthmark                         Oriya                                   ORIYA AI LENGTH MARK
+   B56 : orya-ailengthmark                                 odAilength               orya-ailengthmark                       Oriya                                   ORIYA AI LENGTH MARK
    C56 : telu-ailengthmark                                 teAilength               telu-ailengthmark                       Telugu                                  TELUGU AI LENGTH MARK
 
    639 : ar-ain                                            arAin                    ar-ain                                  Arabic                                  ARABIC LETTER AIN   
-  1D25 : phnt-ain                                          -                        phnt-ain                                Phonetic Extensions                     LATIN LETTER AIN    
+  1D25 : phon-ain                                          -                        phon-ain                                Phonetic Extensions                     LATIN LETTER AIN    
 
    948 : deva-aisign                                       dvAisign                 deva-aisign                             Devanagari                              DEVANAGARI VOWEL SIGN AI
    9C8 : beng-aisign                                       beAisign                 beng-aisign                             Bengali                                 BENGALI VOWEL SIGN AI
    A48 : guru-aisign                                       guAisign                 guru-aisign                             Gurmukhi                                GURMUKHI VOWEL SIGN AI
    AC8 : gujr-aisign                                       gjAisign                 gujr-aisign                             Gujarati                                GUJARATI VOWEL SIGN AI
-   B48 : ry-aisign                                         odAisign                 ry-aisign                               Oriya                                   ORIYA VOWEL SIGN AI 
+   B48 : orya-aisign                                       odAisign                 orya-aisign                             Oriya                                   ORIYA VOWEL SIGN AI 
    BC8 : taml-aisign                                       taAisign                 taml-aisign                             Tamil                                   TAMIL VOWEL SIGN AI 
    C48 : telu-aisign                                       teAisign                 telu-aisign                             Telugu                                  TELUGU VOWEL SIGN AI
    CC8 : knda-aisign                                       knAisign                 knda-aisign                             Kannada                                 KANNADA VOWEL SIGN AI
@@ -177,7 +177,7 @@
    902 : deva-anusvara                                     dvAnusvara               deva-anusvara                           Devanagari                              DEVANAGARI SIGN ANUSVARA
    982 : beng-anusvara                                     beAnusvara               beng-anusvara                           Bengali                                 BENGALI SIGN ANUSVARA
    A82 : gujr-anusvara                                     gjAnusvara               gujr-anusvara                           Gujarati                                GUJARATI SIGN ANUSVARA
-   B02 : ry-anusvara                                       odAnusvara               ry-anusvara                             Oriya                                   ORIYA SIGN ANUSVARA 
+   B02 : orya-anusvara                                     odAnusvara               orya-anusvara                           Oriya                                   ORIYA SIGN ANUSVARA 
    C82 : knda-anusvara                                     knAnusvara               knda-anusvara                           Kannada                                 KANNADA SIGN ANUSVARA
 
    B82 : taml-anusvarasign                                 taAnusvara               taml-anusvarasign                       Tamil                                   TAMIL SIGN ANUSVARA 
@@ -194,7 +194,7 @@
    994 : beng-au                                           beAu                     beng-au                                 Bengali                                 BENGALI LETTER AU   
    A14 : guru-au                                           guAu                     guru-au                                 Gurmukhi                                GURMUKHI LETTER AU  
    A94 : gujr-au                                           gjAu                     gujr-au                                 Gujarati                                GUJARATI LETTER AU  
-   B14 : ry-au                                             odAu                     ry-au                                   Oriya                                   ORIYA LETTER AU     
+   B14 : orya-au                                           odAu                     orya-au                                 Oriya                                   ORIYA LETTER AU     
    B94 : taml-au                                           taAu                     taml-au                                 Tamil                                   TAMIL LETTER AU     
    C14 : telu-au                                           teAu                     telu-au                                 Telugu                                  TELUGU LETTER AU    
    C94 : knda-au                                           knAu                     knda-au                                 Kannada                                 KANNADA LETTER AU   
@@ -203,14 +203,14 @@
   A737 : au                                                -                        au                                      Latin Extended-D                        LATIN SMALL LETTER AU
 
    9D7 : beng-aulengthmark                                 beAulength               beng-aulengthmark                       Bengali                                 BENGALI AU LENGTH MARK
-   B57 : ry-aulengthmark                                   odAulength               ry-aulengthmark                         Oriya                                   ORIYA AU LENGTH MARK
+   B57 : orya-aulengthmark                                 odAulength               orya-aulengthmark                       Oriya                                   ORIYA AU LENGTH MARK
    BD7 : taml-aulengthmark                                 taAulength               taml-aulengthmark                       Tamil                                   TAMIL AU LENGTH MARK
 
    94C : deva-ausign                                       dvAusign                 deva-ausign                             Devanagari                              DEVANAGARI VOWEL SIGN AU
    9CC : beng-ausign                                       beAusign                 beng-ausign                             Bengali                                 BENGALI VOWEL SIGN AU
    A4C : guru-ausign                                       guAusign                 guru-ausign                             Gurmukhi                                GURMUKHI VOWEL SIGN AU
    ACC : gujr-ausign                                       gjAusign                 gujr-ausign                             Gujarati                                GUJARATI VOWEL SIGN AU
-   B4C : ry-ausign                                         odAusign                 ry-ausign                               Oriya                                   ORIYA VOWEL SIGN AU 
+   B4C : orya-ausign                                       odAusign                 orya-ausign                             Oriya                                   ORIYA VOWEL SIGN AU 
    BCC : taml-ausign                                       taAusign                 taml-ausign                             Tamil                                   TAMIL VOWEL SIGN AU 
    C4C : telu-ausign                                       teAusign                 telu-ausign                             Telugu                                  TELUGU VOWEL SIGN AU
    CCC : knda-ausign                                       knAusign                 knda-ausign                             Kannada                                 KANNADA VOWEL SIGN AU
@@ -219,7 +219,7 @@
    93D : deva-avagraha                                     dvAvagraha               deva-avagraha                           Devanagari                              DEVANAGARI SIGN AVAGRAHA
    9BD : beng-avagraha                                     beAvagraha               beng-avagraha                           Bengali                                 BENGALI SIGN AVAGRAHA
    ABD : gujr-avagraha                                     gjAvagraha               gujr-avagraha                           Gujarati                                GUJARATI SIGN AVAGRAHA
-   B3D : ry-avagraha                                       odAvagraha               ry-avagraha                             Oriya                                   ORIYA SIGN AVAGRAHA 
+   B3D : orya-avagraha                                     odAvagraha               orya-avagraha                           Oriya                                   ORIYA SIGN AVAGRAHA 
    CBD : knda-avagraha                                     knAvagraha               knda-avagraha                           Kannada                                 KANNADA SIGN AVAGRAHA
 
    C3D : telu-avagrahasign                                 teAvagraha               telu-avagrahasign                       Telugu                                  TELUGU SIGN AVAGRAHA
@@ -232,7 +232,7 @@
    9AC : beng-ba                                           beBa                     beng-ba                                 Bengali                                 BENGALI LETTER BA   
    A2C : guru-ba                                           guBa                     guru-ba                                 Gurmukhi                                GURMUKHI LETTER BA  
    AAC : gujr-ba                                           gjBa                     gujr-ba                                 Gujarati                                GUJARATI LETTER BA  
-   B2C : ry-ba                                             odBa                     ry-ba                                   Oriya                                   ORIYA LETTER BA     
+   B2C : orya-ba                                           odBa                     orya-ba                                 Oriya                                   ORIYA LETTER BA     
    C2C : telu-ba                                           teBa                     telu-ba                                 Telugu                                  TELUGU LETTER BA    
    CAC : knda-ba                                           knBa                     knda-ba                                 Kannada                                 KANNADA LETTER BA   
    D2C : mlym-ba                                           mlBa                     mlym-ba                                 Malayalam                               MALAYALAM LETTER BA 
@@ -264,7 +264,7 @@
    9AD : beng-bha                                          beBha                    beng-bha                                Bengali                                 BENGALI LETTER BHA  
    A2D : guru-bha                                          guBha                    guru-bha                                Gurmukhi                                GURMUKHI LETTER BHA 
    AAD : gujr-bha                                          gjBha                    gujr-bha                                Gujarati                                GUJARATI LETTER BHA 
-   B2D : ry-bha                                            odBha                    ry-bha                                  Oriya                                   ORIYA LETTER BHA    
+   B2D : orya-bha                                          odBha                    orya-bha                                Oriya                                   ORIYA LETTER BHA    
    C2D : telu-bha                                          teBha                    telu-bha                                Telugu                                  TELUGU LETTER BHA   
    CAD : knda-bha                                          knBha                    knda-bha                                Kannada                                 KANNADA LETTER BHA  
    D2D : mlym-bha                                          mlBha                    mlym-bha                                Malayalam                               MALAYALAM LETTER BHA
@@ -303,7 +303,7 @@
    99A : beng-ca                                           beCa                     beng-ca                                 Bengali                                 BENGALI LETTER CA   
    A1A : guru-ca                                           guCa                     guru-ca                                 Gurmukhi                                GURMUKHI LETTER CA  
    A9A : gujr-ca                                           gjCa                     gujr-ca                                 Gujarati                                GUJARATI LETTER CA  
-   B1A : ry-ca                                             odCa                     ry-ca                                   Oriya                                   ORIYA LETTER CA     
+   B1A : orya-ca                                           odCa                     orya-ca                                 Oriya                                   ORIYA LETTER CA     
    B9A : taml-ca                                           taCa                     taml-ca                                 Tamil                                   TAMIL LETTER CA     
    C1A : telu-ca                                           teCa                     telu-ca                                 Telugu                                  TELUGU LETTER CA    
    C9A : knda-ca                                           knCa                     knda-ca                                 Kannada                                 KANNADA LETTER CA   
@@ -315,7 +315,7 @@
    310 : cmb-candrabindu                                   candrabinducmb           cmb-candrabindu                         Combining Diacritical Marks             COMBINING CANDRABINDU
    901 : deva-candrabindu                                  dvCandrabindu            deva-candrabindu                        Devanagari                              DEVANAGARI SIGN CANDRABINDU
    981 : beng-candrabindu                                  beCandrabindu            beng-candrabindu                        Bengali                                 BENGALI SIGN CANDRABINDU
-   B01 : ry-candrabindu                                    odCandrabindu            ry-candrabindu                          Oriya                                   ORIYA SIGN CANDRABINDU
+   B01 : orya-candrabindu                                  odCandrabindu            orya-candrabindu                        Oriya                                   ORIYA SIGN CANDRABINDU
 
    2C7 : spcn-caron                                        caron                    spcn-caron                              Spacing Modifier Letters                CARON               
    30C : cmb-caron                                         caroncmb                 cmb-caron                               Combining Diacritical Marks             COMBINING CARON     
@@ -328,7 +328,7 @@
    99B : beng-cha                                          beCha                    beng-cha                                Bengali                                 BENGALI LETTER CHA  
    A1B : guru-cha                                          guCha                    guru-cha                                Gurmukhi                                GURMUKHI LETTER CHA 
    A9B : gujr-cha                                          gjCha                    gujr-cha                                Gujarati                                GUJARATI LETTER CHA 
-   B1B : ry-cha                                            odCha                    ry-cha                                  Oriya                                   ORIYA LETTER CHA    
+   B1B : orya-cha                                          odCha                    orya-cha                                Oriya                                   ORIYA LETTER CHA    
    C1B : telu-cha                                          teCha                    telu-cha                                Telugu                                  TELUGU LETTER CHA   
    C9B : knda-cha                                          knCha                    knda-cha                                Kannada                                 KANNADA LETTER CHA  
    D1B : mlym-cha                                          mlCha                    mlym-cha                                Malayalam                               MALAYALAM LETTER CHA
@@ -372,7 +372,7 @@
    9A6 : beng-da                                           beDa                     beng-da                                 Bengali                                 BENGALI LETTER DA   
    A26 : guru-da                                           guDa                     guru-da                                 Gurmukhi                                GURMUKHI LETTER DA  
    AA6 : gujr-da                                           gjDa                     gujr-da                                 Gujarati                                GUJARATI LETTER DA  
-   B26 : ry-da                                             odDa                     ry-da                                   Oriya                                   ORIYA LETTER DA     
+   B26 : orya-da                                           odDa                     orya-da                                 Oriya                                   ORIYA LETTER DA     
    C26 : telu-da                                           teDa                     telu-da                                 Telugu                                  TELUGU LETTER DA    
    CA6 : knda-da                                           knDa                     knda-da                                 Kannada                                 KANNADA LETTER DA   
    D26 : mlym-da                                           mlDa                     mlym-da                                 Malayalam                               MALAYALAM LETTER DA 
@@ -390,7 +390,7 @@
    9A1 : beng-dda                                          beDda                    beng-dda                                Bengali                                 BENGALI LETTER DDA  
    A21 : guru-dda                                          guDda                    guru-dda                                Gurmukhi                                GURMUKHI LETTER DDA 
    AA1 : gujr-dda                                          gjDda                    gujr-dda                                Gujarati                                GUJARATI LETTER DDA 
-   B21 : ry-dda                                            odDda                    ry-dda                                  Oriya                                   ORIYA LETTER DDA    
+   B21 : orya-dda                                          odDda                    orya-dda                                Oriya                                   ORIYA LETTER DDA    
    C21 : telu-dda                                          teDda                    telu-dda                                Telugu                                  TELUGU LETTER DDA   
    CA1 : knda-dda                                          knDda                    knda-dda                                Kannada                                 KANNADA LETTER DDA  
    D21 : mlym-dda                                          mlDda                    mlym-dda                                Malayalam                               MALAYALAM LETTER DDA
@@ -402,7 +402,7 @@
    9A2 : beng-ddha                                         beDdha                   beng-ddha                               Bengali                                 BENGALI LETTER DDHA 
    A22 : guru-ddha                                         guDdha                   guru-ddha                               Gurmukhi                                GURMUKHI LETTER DDHA
    AA2 : gujr-ddha                                         gjDdha                   gujr-ddha                               Gujarati                                GUJARATI LETTER DDHA
-   B22 : ry-ddha                                           odDdha                   ry-ddha                                 Oriya                                   ORIYA LETTER DDHA   
+   B22 : orya-ddha                                         odDdha                   orya-ddha                               Oriya                                   ORIYA LETTER DDHA   
    C22 : telu-ddha                                         teDdha                   telu-ddha                               Telugu                                  TELUGU LETTER DDHA  
    CA2 : knda-ddha                                         knDdha                   knda-ddha                               Kannada                                 KANNADA LETTER DDHA 
    D22 : mlym-ddha                                         mlDdha                   mlym-ddha                               Malayalam                               MALAYALAM LETTER DDHA
@@ -420,7 +420,7 @@
    9A7 : beng-dha                                          beDha                    beng-dha                                Bengali                                 BENGALI LETTER DHA  
    A27 : guru-dha                                          guDha                    guru-dha                                Gurmukhi                                GURMUKHI LETTER DHA 
    AA7 : gujr-dha                                          gjDha                    gujr-dha                                Gujarati                                GUJARATI LETTER DHA 
-   B27 : ry-dha                                            odDha                    ry-dha                                  Oriya                                   ORIYA LETTER DHA    
+   B27 : orya-dha                                          odDha                    orya-dha                                Oriya                                   ORIYA LETTER DHA    
    C27 : telu-dha                                          teDha                    telu-dha                                Telugu                                  TELUGU LETTER DHA   
    CA7 : knda-dha                                          knDha                    knda-dha                                Kannada                                 KANNADA LETTER DHA  
    D27 : mlym-dha                                          mlDha                    mlym-dha                                Malayalam                               MALAYALAM LETTER DHA
@@ -462,7 +462,7 @@
    90F : deva-e                                            dvE                      deva-e                                  Devanagari                              DEVANAGARI LETTER E 
    98F : beng-e                                            beE                      beng-e                                  Bengali                                 BENGALI LETTER E    
    A8F : gujr-e                                            gjE                      gujr-e                                  Gujarati                                GUJARATI LETTER E   
-   B0F : ry-e                                              odE                      ry-e                                    Oriya                                   ORIYA LETTER E      
+   B0F : orya-e                                            odE                      orya-e                                  Oriya                                   ORIYA LETTER E      
    B8E : taml-e                                            taE                      taml-e                                  Tamil                                   TAMIL LETTER E      
    C0E : telu-e                                            teE                      telu-e                                  Telugu                                  TELUGU LETTER E     
    C8E : knda-e                                            knE                      knda-e                                  Kannada                                 KANNADA LETTER E    
@@ -502,7 +502,7 @@
    9EE : beng-eight                                        beEight                  beng-eight                              Bengali                                 BENGALI DIGIT EIGHT 
    A6E : guru-eight                                        guEight                  guru-eight                              Gurmukhi                                GURMUKHI DIGIT EIGHT
    AEE : gujr-eight                                        gjEight                  gujr-eight                              Gujarati                                GUJARATI DIGIT EIGHT
-   B6E : ry-eight                                          odEight                  ry-eight                                Oriya                                   ORIYA DIGIT EIGHT   
+   B6E : orya-eight                                        odEight                  orya-eight                              Oriya                                   ORIYA DIGIT EIGHT   
    BEE : taml-eight                                        taEight                  taml-eight                              Tamil                                   TAMIL DIGIT EIGHT   
    C6E : telu-eight                                        teEight                  telu-eight                              Telugu                                  TELUGU DIGIT EIGHT  
    CEE : knda-eight                                        knEight                  knda-eight                              Kannada                                 KANNADA DIGIT EIGHT 
@@ -543,7 +543,7 @@
    947 : deva-esign                                        dvEsign                  deva-esign                              Devanagari                              DEVANAGARI VOWEL SIGN E
    9C7 : beng-esign                                        beEsign                  beng-esign                              Bengali                                 BENGALI VOWEL SIGN E
    AC7 : gujr-esign                                        gjEsign                  gujr-esign                              Gujarati                                GUJARATI VOWEL SIGN E
-   B47 : ry-esign                                          odEsign                  ry-esign                                Oriya                                   ORIYA VOWEL SIGN E  
+   B47 : orya-esign                                        odEsign                  orya-esign                              Oriya                                   ORIYA VOWEL SIGN E  
    BC6 : taml-esign                                        taEsign                  taml-esign                              Tamil                                   TAMIL VOWEL SIGN E  
    C46 : telu-esign                                        teEsign                  telu-esign                              Telugu                                  TELUGU VOWEL SIGN E 
    CC6 : knda-esign                                        knEsign                  knda-esign                              Kannada                                 KANNADA VOWEL SIGN E
@@ -584,7 +584,7 @@
    9EB : beng-five                                         beFive                   beng-five                               Bengali                                 BENGALI DIGIT FIVE  
    A6B : guru-five                                         guFive                   guru-five                               Gurmukhi                                GURMUKHI DIGIT FIVE 
    AEB : gujr-five                                         gjFive                   gujr-five                               Gujarati                                GUJARATI DIGIT FIVE 
-   B6B : ry-five                                           odFive                   ry-five                                 Oriya                                   ORIYA DIGIT FIVE    
+   B6B : orya-five                                         odFive                   orya-five                               Oriya                                   ORIYA DIGIT FIVE    
    BEB : taml-five                                         taFive                   taml-five                               Tamil                                   TAMIL DIGIT FIVE    
    C6B : telu-five                                         teFive                   telu-five                               Telugu                                  TELUGU DIGIT FIVE   
    CEB : knda-five                                         knFive                   knda-five                               Kannada                                 KANNADA DIGIT FIVE  
@@ -601,7 +601,7 @@
    9EA : beng-four                                         beFour                   beng-four                               Bengali                                 BENGALI DIGIT FOUR  
    A6A : guru-four                                         guFour                   guru-four                               Gurmukhi                                GURMUKHI DIGIT FOUR 
    AEA : gujr-four                                         gjFour                   gujr-four                               Gujarati                                GUJARATI DIGIT FOUR 
-   B6A : ry-four                                           odFour                   ry-four                                 Oriya                                   ORIYA DIGIT FOUR    
+   B6A : orya-four                                         odFour                   orya-four                               Oriya                                   ORIYA DIGIT FOUR    
    BEA : taml-four                                         taFour                   taml-four                               Tamil                                   TAMIL DIGIT FOUR    
    C6A : telu-four                                         teFour                   telu-four                               Telugu                                  TELUGU DIGIT FOUR   
    CEA : knda-four                                         knFour                   knda-four                               Kannada                                 KANNADA DIGIT FOUR  
@@ -622,7 +622,7 @@
    997 : beng-ga                                           beGa                     beng-ga                                 Bengali                                 BENGALI LETTER GA   
    A17 : guru-ga                                           guGa                     guru-ga                                 Gurmukhi                                GURMUKHI LETTER GA  
    A97 : gujr-ga                                           gjGa                     gujr-ga                                 Gujarati                                GUJARATI LETTER GA  
-   B17 : ry-ga                                             odGa                     ry-ga                                   Oriya                                   ORIYA LETTER GA     
+   B17 : orya-ga                                           odGa                     orya-ga                                 Oriya                                   ORIYA LETTER GA     
    C17 : telu-ga                                           teGa                     telu-ga                                 Telugu                                  TELUGU LETTER GA    
    C97 : knda-ga                                           knGa                     knda-ga                                 Kannada                                 KANNADA LETTER GA   
    D17 : mlym-ga                                           mlGa                     mlym-ga                                 Malayalam                               MALAYALAM LETTER GA 
@@ -648,7 +648,7 @@
    998 : beng-gha                                          beGha                    beng-gha                                Bengali                                 BENGALI LETTER GHA  
    A18 : guru-gha                                          guGha                    guru-gha                                Gurmukhi                                GURMUKHI LETTER GHA 
    A98 : gujr-gha                                          gjGha                    gujr-gha                                Gujarati                                GUJARATI LETTER GHA 
-   B18 : ry-gha                                            odGha                    ry-gha                                  Oriya                                   ORIYA LETTER GHA    
+   B18 : orya-gha                                          odGha                    orya-gha                                Oriya                                   ORIYA LETTER GHA    
    C18 : telu-gha                                          teGha                    telu-gha                                Telugu                                  TELUGU LETTER GHA   
    C98 : knda-gha                                          knGha                    knda-gha                                Kannada                                 KANNADA LETTER GHA  
    D18 : mlym-gha                                          mlGha                    mlym-gha                                Malayalam                               MALAYALAM LETTER GHA
@@ -695,7 +695,7 @@
    9B9 : beng-ha                                           beHa                     beng-ha                                 Bengali                                 BENGALI LETTER HA   
    A39 : guru-ha                                           guHa                     guru-ha                                 Gurmukhi                                GURMUKHI LETTER HA  
    AB9 : gujr-ha                                           gjHa                     gujr-ha                                 Gujarati                                GUJARATI LETTER HA  
-   B39 : ry-ha                                             odHa                     ry-ha                                   Oriya                                   ORIYA LETTER HA     
+   B39 : orya-ha                                           odHa                     orya-ha                                 Oriya                                   ORIYA LETTER HA     
    BB9 : taml-ha                                           taHa                     taml-ha                                 Tamil                                   TAMIL LETTER HA     
    C39 : telu-ha                                           teHa                     telu-ha                                 Telugu                                  TELUGU LETTER HA    
    CB9 : knda-ha                                           knHa                     knda-ha                                 Kannada                                 KANNADA LETTER HA   
@@ -742,7 +742,7 @@
    987 : beng-i                                            beI                      beng-i                                  Bengali                                 BENGALI LETTER I    
    A07 : guru-i                                            guI                      guru-i                                  Gurmukhi                                GURMUKHI LETTER I   
    A87 : gujr-i                                            gjI                      gujr-i                                  Gujarati                                GUJARATI LETTER I   
-   B07 : ry-i                                              odI                      ry-i                                    Oriya                                   ORIYA LETTER I      
+   B07 : orya-i                                            odI                      orya-i                                  Oriya                                   ORIYA LETTER I      
    B87 : taml-i                                            taI                      taml-i                                  Tamil                                   TAMIL LETTER I      
    C07 : telu-i                                            teI                      telu-i                                  Telugu                                  TELUGU LETTER I     
    C87 : knda-i                                            knI                      knda-i                                  Kannada                                 KANNADA LETTER I    
@@ -771,7 +771,7 @@
    988 : beng-ii                                           beIi                     beng-ii                                 Bengali                                 BENGALI LETTER II   
    A08 : guru-ii                                           guIi                     guru-ii                                 Gurmukhi                                GURMUKHI LETTER II  
    A88 : gujr-ii                                           gjIi                     gujr-ii                                 Gujarati                                GUJARATI LETTER II  
-   B08 : ry-ii                                             odIi                     ry-ii                                   Oriya                                   ORIYA LETTER II     
+   B08 : orya-ii                                           odIi                     orya-ii                                 Oriya                                   ORIYA LETTER II     
    B88 : taml-ii                                           taIi                     taml-ii                                 Tamil                                   TAMIL LETTER II     
    C08 : telu-ii                                           teIi                     telu-ii                                 Telugu                                  TELUGU LETTER II    
    C88 : knda-ii                                           knIi                     knda-ii                                 Kannada                                 KANNADA LETTER II   
@@ -782,7 +782,7 @@
    9C0 : beng-iisign                                       beIisign                 beng-iisign                             Bengali                                 BENGALI VOWEL SIGN II
    A40 : guru-iisign                                       guIisign                 guru-iisign                             Gurmukhi                                GURMUKHI VOWEL SIGN II
    AC0 : gujr-iisign                                       gjIisign                 gujr-iisign                             Gujarati                                GUJARATI VOWEL SIGN II
-   B40 : ry-iisign                                         odIisign                 ry-iisign                               Oriya                                   ORIYA VOWEL SIGN II 
+   B40 : orya-iisign                                       odIisign                 orya-iisign                             Oriya                                   ORIYA VOWEL SIGN II 
    BC0 : taml-iisign                                       taIisign                 taml-iisign                             Tamil                                   TAMIL VOWEL SIGN II 
    C40 : telu-iisign                                       teIisign                 telu-iisign                             Telugu                                  TELUGU VOWEL SIGN II
    CC0 : knda-iisign                                       knIisign                 knda-iisign                             Kannada                                 KANNADA VOWEL SIGN II
@@ -801,7 +801,7 @@
    9BF : beng-isign                                        beIsign                  beng-isign                              Bengali                                 BENGALI VOWEL SIGN I
    A3F : guru-isign                                        guIsign                  guru-isign                              Gurmukhi                                GURMUKHI VOWEL SIGN I
    ABF : gujr-isign                                        gjIsign                  gujr-isign                              Gujarati                                GUJARATI VOWEL SIGN I
-   B3F : ry-isign                                          odIsign                  ry-isign                                Oriya                                   ORIYA VOWEL SIGN I  
+   B3F : orya-isign                                        odIsign                  orya-isign                              Oriya                                   ORIYA VOWEL SIGN I  
    BBF : taml-isign                                        taIsign                  taml-isign                              Tamil                                   TAMIL VOWEL SIGN I  
    C3F : telu-isign                                        teIsign                  telu-isign                              Telugu                                  TELUGU VOWEL SIGN I 
    CBF : knda-isign                                        knIsign                  knda-isign                              Kannada                                 KANNADA VOWEL SIGN I
@@ -811,7 +811,7 @@
   30A3 : kata-ismall                                       ismallkatakana           kata-ismall                             Katakana                                KATAKANA LETTER SMALL I
 
    9FA : beng-isshar                                       beIsshar                 beng-isshar                             Bengali                                 BENGALI ISSHAR      
-   B70 : ry-isshar                                         odIsshar                 ry-isshar                               Oriya                                   ORIYA ISSHAR        
+   B70 : orya-isshar                                       odIsshar                 orya-isshar                             Oriya                                   ORIYA ISSHAR        
 
     6A : j                                                 j                        j                                       Basic Latin                             LATIN SMALL LETTER J
   3110 : bopo-j                                            jbopomofo                bopo-j                                  Bopomofo                                BOPOMOFO LETTER J   
@@ -821,7 +821,7 @@
    99C : beng-ja                                           beJa                     beng-ja                                 Bengali                                 BENGALI LETTER JA   
    A1C : guru-ja                                           guJa                     guru-ja                                 Gurmukhi                                GURMUKHI LETTER JA  
    A9C : gujr-ja                                           gjJa                     gujr-ja                                 Gujarati                                GUJARATI LETTER JA  
-   B1C : ry-ja                                             odJa                     ry-ja                                   Oriya                                   ORIYA LETTER JA     
+   B1C : orya-ja                                           odJa                     orya-ja                                 Oriya                                   ORIYA LETTER JA     
    B9C : taml-ja                                           taJa                     taml-ja                                 Tamil                                   TAMIL LETTER JA     
    C1C : telu-ja                                           teJa                     telu-ja                                 Telugu                                  TELUGU LETTER JA    
    C9C : knda-ja                                           knJa                     knda-ja                                 Kannada                                 KANNADA LETTER JA   
@@ -838,7 +838,7 @@
    99D : beng-jha                                          beJha                    beng-jha                                Bengali                                 BENGALI LETTER JHA  
    A1D : guru-jha                                          guJha                    guru-jha                                Gurmukhi                                GURMUKHI LETTER JHA 
    A9D : gujr-jha                                          gjJha                    gujr-jha                                Gujarati                                GUJARATI LETTER JHA 
-   B1D : ry-jha                                            odJha                    ry-jha                                  Oriya                                   ORIYA LETTER JHA    
+   B1D : orya-jha                                          odJha                    orya-jha                                Oriya                                   ORIYA LETTER JHA    
    C1D : telu-jha                                          teJha                    telu-jha                                Telugu                                  TELUGU LETTER JHA   
    C9D : knda-jha                                          knJha                    knda-jha                                Kannada                                 KANNADA LETTER JHA  
    D1D : mlym-jha                                          mlJha                    mlym-jha                                Malayalam                               MALAYALAM LETTER JHA
@@ -851,7 +851,7 @@
    995 : beng-ka                                           beKa                     beng-ka                                 Bengali                                 BENGALI LETTER KA   
    A15 : guru-ka                                           guKa                     guru-ka                                 Gurmukhi                                GURMUKHI LETTER KA  
    A95 : gujr-ka                                           gjKa                     gujr-ka                                 Gujarati                                GUJARATI LETTER KA  
-   B15 : ry-ka                                             odKa                     ry-ka                                   Oriya                                   ORIYA LETTER KA     
+   B15 : orya-ka                                           odKa                     orya-ka                                 Oriya                                   ORIYA LETTER KA     
    B95 : taml-ka                                           taKa                     taml-ka                                 Tamil                                   TAMIL LETTER KA     
    C15 : telu-ka                                           teKa                     telu-ka                                 Telugu                                  TELUGU LETTER KA    
    C95 : knda-ka                                           knKa                     knda-ka                                 Kannada                                 KANNADA LETTER KA   
@@ -883,7 +883,7 @@
    996 : beng-kha                                          beKha                    beng-kha                                Bengali                                 BENGALI LETTER KHA  
    A16 : guru-kha                                          guKha                    guru-kha                                Gurmukhi                                GURMUKHI LETTER KHA 
    A96 : gujr-kha                                          gjKha                    gujr-kha                                Gujarati                                GUJARATI LETTER KHA 
-   B16 : ry-kha                                            odKha                    ry-kha                                  Oriya                                   ORIYA LETTER KHA    
+   B16 : orya-kha                                          odKha                    orya-kha                                Oriya                                   ORIYA LETTER KHA    
    C16 : telu-kha                                          teKha                    telu-kha                                Telugu                                  TELUGU LETTER KHA   
    C96 : knda-kha                                          knKha                    knda-kha                                Kannada                                 KANNADA LETTER KHA  
    D16 : mlym-kha                                          mlKha                    mlym-kha                                Malayalam                               MALAYALAM LETTER KHA
@@ -915,7 +915,7 @@
    9B2 : beng-la                                           beLa                     beng-la                                 Bengali                                 BENGALI LETTER LA   
    A32 : guru-la                                           guLa                     guru-la                                 Gurmukhi                                GURMUKHI LETTER LA  
    AB2 : gujr-la                                           gjLa                     gujr-la                                 Gujarati                                GUJARATI LETTER LA  
-   B32 : ry-la                                             odLa                     ry-la                                   Oriya                                   ORIYA LETTER LA     
+   B32 : orya-la                                           odLa                     orya-la                                 Oriya                                   ORIYA LETTER LA     
    BB2 : taml-la                                           taLa                     taml-la                                 Tamil                                   TAMIL LETTER LA     
    C32 : telu-la                                           teLa                     telu-la                                 Telugu                                  TELUGU LETTER LA    
    CB2 : knda-la                                           knLa                     knda-la                                 Kannada                                 KANNADA LETTER LA   
@@ -934,7 +934,7 @@
    933 : deva-lla                                          dvLla                    deva-lla                                Devanagari                              DEVANAGARI LETTER LLA
    A33 : guru-lla                                          guLla                    guru-lla                                Gurmukhi                                GURMUKHI LETTER LLA 
    AB3 : gujr-lla                                          gjLla                    gujr-lla                                Gujarati                                GUJARATI LETTER LLA 
-   B33 : ry-lla                                            odLla                    ry-lla                                  Oriya                                   ORIYA LETTER LLA    
+   B33 : orya-lla                                          odLla                    orya-lla                                Oriya                                   ORIYA LETTER LLA    
    BB3 : taml-lla                                          taLla                    taml-lla                                Tamil                                   TAMIL LETTER LLA    
    C33 : telu-lla                                          teLla                    telu-lla                                Telugu                                  TELUGU LETTER LLA   
    CB3 : knda-lla                                          knLla                    knda-lla                                Kannada                                 KANNADA LETTER LLA  
@@ -947,7 +947,7 @@
    961 : deva-llvocal                                      dvLlvocal                deva-llvocal                            Devanagari                              DEVANAGARI LETTER VOCALIC LL
    9E1 : beng-llvocal                                      beLlvocal                beng-llvocal                            Bengali                                 BENGALI LETTER VOCALIC LL
    AE1 : gujr-llvocal                                      gjLlvocal                gujr-llvocal                            Gujarati                                GUJARATI LETTER VOCALIC LL
-   B61 : ry-llvocal                                        odLlvocal                ry-llvocal                              Oriya                                   ORIYA LETTER VOCALIC LL
+   B61 : orya-llvocal                                      odLlvocal                orya-llvocal                            Oriya                                   ORIYA LETTER VOCALIC LL
    C61 : telu-llvocal                                      teLlvocal                telu-llvocal                            Telugu                                  TELUGU LETTER VOCALIC LL
    CE1 : knda-llvocal                                      knLlvocal                knda-llvocal                            Kannada                                 KANNADA LETTER VOCALIC LL
    D61 : mlym-llvocal                                      mlLlvocal                mlym-llvocal                            Malayalam                               MALAYALAM LETTER VOCALIC LL
@@ -955,7 +955,7 @@
    963 : deva-llvocalsign                                  dvLlvocalsign            deva-llvocalsign                        Devanagari                              DEVANAGARI VOWEL SIGN VOCALIC LL
    9E3 : beng-llvocalsign                                  beLlvocalsign            beng-llvocalsign                        Bengali                                 BENGALI VOWEL SIGN VOCALIC LL
    AE3 : gujr-llvocalsign                                  gjLlvocalsign            gujr-llvocalsign                        Gujarati                                GUJARATI VOWEL SIGN VOCALIC LL
-   B63 : ry-llvocalsign                                    odLlvocalsign            ry-llvocalsign                          Oriya                                   ORIYA VOWEL SIGN VOCALIC LL
+   B63 : orya-llvocalsign                                  odLlvocalsign            orya-llvocalsign                        Oriya                                   ORIYA VOWEL SIGN VOCALIC LL
    CE3 : knda-llvocalsign                                  knLlvocalsign            knda-llvocalsign                        Kannada                                 KANNADA VOWEL SIGN VOCALIC LL
    D63 : mlym-llvocalsign                                  mlLlvocalsign            mlym-llvocalsign                        Malayalam                               MALAYALAM VOWEL SIGN VOCALIC LL
 
@@ -965,7 +965,7 @@
    90C : deva-lvocal                                       dvLvocal                 deva-lvocal                             Devanagari                              DEVANAGARI LETTER VOCALIC L
    98C : beng-lvocal                                       beLvocal                 beng-lvocal                             Bengali                                 BENGALI LETTER VOCALIC L
    A8C : gujr-lvocal                                       gjLvocal                 gujr-lvocal                             Gujarati                                GUJARATI LETTER VOCALIC L
-   B0C : ry-lvocal                                         odLvocal                 ry-lvocal                               Oriya                                   ORIYA LETTER VOCALIC L
+   B0C : orya-lvocal                                       odLvocal                 orya-lvocal                             Oriya                                   ORIYA LETTER VOCALIC L
    C0C : telu-lvocal                                       teLvocal                 telu-lvocal                             Telugu                                  TELUGU LETTER VOCALIC L
    C8C : knda-lvocal                                       knLvocal                 knda-lvocal                             Kannada                                 KANNADA LETTER VOCALIC L
    D0C : mlym-lvocal                                       mlLvocal                 mlym-lvocal                             Malayalam                               MALAYALAM LETTER VOCALIC L
@@ -973,7 +973,7 @@
    962 : deva-lvocalsign                                   dvLvocalsign             deva-lvocalsign                         Devanagari                              DEVANAGARI VOWEL SIGN VOCALIC L
    9E2 : beng-lvocalsign                                   beLvocalsign             beng-lvocalsign                         Bengali                                 BENGALI VOWEL SIGN VOCALIC L
    AE2 : gujr-lvocalsign                                   gjLvocalsign             gujr-lvocalsign                         Gujarati                                GUJARATI VOWEL SIGN VOCALIC L
-   B62 : ry-lvocalsign                                     odLvocalsign             ry-lvocalsign                           Oriya                                   ORIYA VOWEL SIGN VOCALIC L
+   B62 : orya-lvocalsign                                   odLvocalsign             orya-lvocalsign                         Oriya                                   ORIYA VOWEL SIGN VOCALIC L
    CE2 : knda-lvocalsign                                   knLvocalsign             knda-lvocalsign                         Kannada                                 KANNADA VOWEL SIGN VOCALIC L
    D62 : mlym-lvocalsign                                   mlLvocalsign             mlym-lvocalsign                         Malayalam                               MALAYALAM VOWEL SIGN VOCALIC L
 
@@ -985,7 +985,7 @@
    9AE : beng-ma                                           beMa                     beng-ma                                 Bengali                                 BENGALI LETTER MA   
    A2E : guru-ma                                           guMa                     guru-ma                                 Gurmukhi                                GURMUKHI LETTER MA  
    AAE : gujr-ma                                           gjMa                     gujr-ma                                 Gujarati                                GUJARATI LETTER MA  
-   B2E : ry-ma                                             odMa                     ry-ma                                   Oriya                                   ORIYA LETTER MA     
+   B2E : orya-ma                                           odMa                     orya-ma                                 Oriya                                   ORIYA LETTER MA     
    BAE : taml-ma                                           taMa                     taml-ma                                 Tamil                                   TAMIL LETTER MA     
    C2E : telu-ma                                           teMa                     telu-ma                                 Telugu                                  TELUGU LETTER MA    
    CAE : knda-ma                                           knMa                     knda-ma                                 Kannada                                 KANNADA LETTER MA   
@@ -1026,7 +1026,7 @@
    9A8 : beng-na                                           beNa                     beng-na                                 Bengali                                 BENGALI LETTER NA   
    A28 : guru-na                                           guNa                     guru-na                                 Gurmukhi                                GURMUKHI LETTER NA  
    AA8 : gujr-na                                           gjNa                     gujr-na                                 Gujarati                                GUJARATI LETTER NA  
-   B28 : ry-na                                             odNa                     ry-na                                   Oriya                                   ORIYA LETTER NA     
+   B28 : orya-na                                           odNa                     orya-na                                 Oriya                                   ORIYA LETTER NA     
    BA8 : taml-na                                           taNa                     taml-na                                 Tamil                                   TAMIL LETTER NA     
    C28 : telu-na                                           teNa                     telu-na                                 Telugu                                  TELUGU LETTER NA    
    CA8 : knda-na                                           knNa                     knda-na                                 Kannada                                 KANNADA LETTER NA   
@@ -1049,7 +1049,7 @@
    999 : beng-nga                                          beNga                    beng-nga                                Bengali                                 BENGALI LETTER NGA  
    A19 : guru-nga                                          guNga                    guru-nga                                Gurmukhi                                GURMUKHI LETTER NGA 
    A99 : gujr-nga                                          gjNga                    gujr-nga                                Gujarati                                GUJARATI LETTER NGA 
-   B19 : ry-nga                                            odNga                    ry-nga                                  Oriya                                   ORIYA LETTER NGA    
+   B19 : orya-nga                                          odNga                    orya-nga                                Oriya                                   ORIYA LETTER NGA    
    B99 : taml-nga                                          taNga                    taml-nga                                Tamil                                   TAMIL LETTER NGA    
    C19 : telu-nga                                          teNga                    telu-nga                                Telugu                                  TELUGU LETTER NGA   
    C99 : knda-nga                                          knNga                    knda-nga                                Kannada                                 KANNADA LETTER NGA  
@@ -1067,7 +1067,7 @@
    9EF : beng-nine                                         beNine                   beng-nine                               Bengali                                 BENGALI DIGIT NINE  
    A6F : guru-nine                                         guNine                   guru-nine                               Gurmukhi                                GURMUKHI DIGIT NINE 
    AEF : gujr-nine                                         gjNine                   gujr-nine                               Gujarati                                GUJARATI DIGIT NINE 
-   B6F : ry-nine                                           odNine                   ry-nine                                 Oriya                                   ORIYA DIGIT NINE    
+   B6F : orya-nine                                         odNine                   orya-nine                               Oriya                                   ORIYA DIGIT NINE    
    BEF : taml-nine                                         taNine                   taml-nine                               Tamil                                   TAMIL DIGIT NINE    
    C6F : telu-nine                                         teNine                   telu-nine                               Telugu                                  TELUGU DIGIT NINE   
    CEF : knda-nine                                         knNine                   knda-nine                               Kannada                                 KANNADA DIGIT NINE  
@@ -1082,7 +1082,7 @@
    9A3 : beng-nna                                          beNna                    beng-nna                                Bengali                                 BENGALI LETTER NNA  
    A23 : guru-nna                                          guNna                    guru-nna                                Gurmukhi                                GURMUKHI LETTER NNA 
    AA3 : gujr-nna                                          gjNna                    gujr-nna                                Gujarati                                GUJARATI LETTER NNA 
-   B23 : ry-nna                                            odNna                    ry-nna                                  Oriya                                   ORIYA LETTER NNA    
+   B23 : orya-nna                                          odNna                    orya-nna                                Oriya                                   ORIYA LETTER NNA    
    BA3 : taml-nna                                          taNna                    taml-nna                                Tamil                                   TAMIL LETTER NNA    
    C23 : telu-nna                                          teNna                    telu-nna                                Telugu                                  TELUGU LETTER NNA   
    CA3 : knda-nna                                          knNna                    knda-nna                                Kannada                                 KANNADA LETTER NNA  
@@ -1105,7 +1105,7 @@
    9BC : beng-nukta                                        beNukta                  beng-nukta                              Bengali                                 BENGALI SIGN NUKTA  
    A3C : guru-nukta                                        guNukta                  guru-nukta                              Gurmukhi                                GURMUKHI SIGN NUKTA 
    ABC : gujr-nukta                                        gjNukta                  gujr-nukta                              Gujarati                                GUJARATI SIGN NUKTA 
-   B3C : ry-nukta                                          odNukta                  ry-nukta                                Oriya                                   ORIYA SIGN NUKTA    
+   B3C : orya-nukta                                        odNukta                  orya-nukta                              Oriya                                   ORIYA SIGN NUKTA    
    CBC : knda-nukta                                        knNukta                  knda-nukta                              Kannada                                 KANNADA SIGN NUKTA  
 
     23 : numbersign                                        numbersign               numbersign                              Basic Latin                             NUMBER SIGN         
@@ -1116,7 +1116,7 @@
    99E : beng-nya                                          beNya                    beng-nya                                Bengali                                 BENGALI LETTER NYA  
    A1E : guru-nya                                          guNya                    guru-nya                                Gurmukhi                                GURMUKHI LETTER NYA 
    A9E : gujr-nya                                          gjNya                    gujr-nya                                Gujarati                                GUJARATI LETTER NYA 
-   B1E : ry-nya                                            odNya                    ry-nya                                  Oriya                                   ORIYA LETTER NYA    
+   B1E : orya-nya                                          odNya                    orya-nya                                Oriya                                   ORIYA LETTER NYA    
    B9E : taml-nya                                          taNya                    taml-nya                                Tamil                                   TAMIL LETTER NYA    
    C1E : telu-nya                                          teNya                    telu-nya                                Telugu                                  TELUGU LETTER NYA   
    C9E : knda-nya                                          knNya                    knda-nya                                Kannada                                 KANNADA LETTER NYA  
@@ -1131,7 +1131,7 @@
    913 : deva-o                                            dvO                      deva-o                                  Devanagari                              DEVANAGARI LETTER O 
    993 : beng-o                                            beO                      beng-o                                  Bengali                                 BENGALI LETTER O    
    A93 : gujr-o                                            gjO                      gujr-o                                  Gujarati                                GUJARATI LETTER O   
-   B13 : ry-o                                              odO                      ry-o                                    Oriya                                   ORIYA LETTER O      
+   B13 : orya-o                                            odO                      orya-o                                  Oriya                                   ORIYA LETTER O      
    B92 : taml-o                                            taO                      taml-o                                  Tamil                                   TAMIL LETTER O      
    C12 : telu-o                                            teO                      telu-o                                  Telugu                                  TELUGU LETTER O     
    C92 : knda-o                                            knO                      knda-o                                  Kannada                                 KANNADA LETTER O    
@@ -1173,7 +1173,7 @@
    9E7 : beng-one                                          beOne                    beng-one                                Bengali                                 BENGALI DIGIT ONE   
    A67 : guru-one                                          guOne                    guru-one                                Gurmukhi                                GURMUKHI DIGIT ONE  
    AE7 : gujr-one                                          gjOne                    gujr-one                                Gujarati                                GUJARATI DIGIT ONE  
-   B67 : ry-one                                            odOne                    ry-one                                  Oriya                                   ORIYA DIGIT ONE     
+   B67 : orya-one                                          odOne                    orya-one                                Oriya                                   ORIYA DIGIT ONE     
    BE7 : taml-one                                          taOne                    taml-one                                Tamil                                   TAMIL DIGIT ONE     
    C67 : telu-one                                          teOne                    telu-one                                Telugu                                  TELUGU DIGIT ONE    
    CE7 : knda-one                                          knOne                    knda-one                                Kannada                                 KANNADA DIGIT ONE   
@@ -1212,7 +1212,7 @@
    94B : deva-osign                                        dvOsign                  deva-osign                              Devanagari                              DEVANAGARI VOWEL SIGN O
    9CB : beng-osign                                        beOsign                  beng-osign                              Bengali                                 BENGALI VOWEL SIGN O
    ACB : gujr-osign                                        gjOsign                  gujr-osign                              Gujarati                                GUJARATI VOWEL SIGN O
-   B4B : ry-osign                                          odOsign                  ry-osign                                Oriya                                   ORIYA VOWEL SIGN O  
+   B4B : orya-osign                                        odOsign                  orya-osign                              Oriya                                   ORIYA VOWEL SIGN O  
    BCA : taml-osign                                        taOsign                  taml-osign                              Tamil                                   TAMIL VOWEL SIGN O  
    C4A : telu-osign                                        teOsign                  telu-osign                              Telugu                                  TELUGU VOWEL SIGN O 
    CCA : knda-osign                                        knOsign                  knda-osign                              Kannada                                 KANNADA VOWEL SIGN O
@@ -1237,7 +1237,7 @@
    9AA : beng-pa                                           bePa                     beng-pa                                 Bengali                                 BENGALI LETTER PA   
    A2A : guru-pa                                           guPa                     guru-pa                                 Gurmukhi                                GURMUKHI LETTER PA  
    AAA : gujr-pa                                           gjPa                     gujr-pa                                 Gujarati                                GUJARATI LETTER PA  
-   B2A : ry-pa                                             odPa                     ry-pa                                   Oriya                                   ORIYA LETTER PA     
+   B2A : orya-pa                                           odPa                     orya-pa                                 Oriya                                   ORIYA LETTER PA     
    BAA : taml-pa                                           taPa                     taml-pa                                 Tamil                                   TAMIL LETTER PA     
    C2A : telu-pa                                           tePa                     telu-pa                                 Telugu                                  TELUGU LETTER PA    
    CAA : knda-pa                                           knPa                     knda-pa                                 Kannada                                 KANNADA LETTER PA   
@@ -1280,7 +1280,7 @@
    9AB : beng-pha                                          bePha                    beng-pha                                Bengali                                 BENGALI LETTER PHA  
    A2B : guru-pha                                          guPha                    guru-pha                                Gurmukhi                                GURMUKHI LETTER PHA 
    AAB : gujr-pha                                          gjPha                    gujr-pha                                Gujarati                                GUJARATI LETTER PHA 
-   B2B : ry-pha                                            odPha                    ry-pha                                  Oriya                                   ORIYA LETTER PHA    
+   B2B : orya-pha                                          odPha                    orya-pha                                Oriya                                   ORIYA LETTER PHA    
    C2B : telu-pha                                          tePha                    telu-pha                                Telugu                                  TELUGU LETTER PHA   
    CAB : knda-pha                                          knPha                    knda-pha                                Kannada                                 KANNADA LETTER PHA  
    D2B : mlym-pha                                          mlPha                    mlym-pha                                Malayalam                               MALAYALAM LETTER PHA
@@ -1290,6 +1290,9 @@
    278 : ipa-phi                                           philatin                 ipa-phi                                 IPA Extensions                          LATIN SMALL LETTER PHI
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        GREEK SMALL LETTER PHI
   1332 : ethi-phi                                          -                        ethi-phi                                Ethiopic                                ETHIOPIC SYLLABLE PHI
+
+  1D60 : phon-phimod                                       phisupmod                phon-phimod                             Phonetic Extensions                     MODIFIER LETTER SMALL GREEK PHI
+  1DB2 : phon-phimod                                       -                        phon-phimod                             Phonetic Extensions Supplement          MODIFIER LETTER SMALL PHI
 
    3C0 : gr-pi                                             pi                       gr-pi                                   Greek and Coptic                        GREEK SMALL LETTER PI
   1352 : ethi-pi                                           -                        ethi-pi                                 Ethiopic                                ETHIOPIC SYLLABLE PI
@@ -1334,7 +1337,7 @@
    9B0 : beng-ra                                           beRa                     beng-ra                                 Bengali                                 BENGALI LETTER RA   
    A30 : guru-ra                                           guRa                     guru-ra                                 Gurmukhi                                GURMUKHI LETTER RA  
    AB0 : gujr-ra                                           gjRa                     gujr-ra                                 Gujarati                                GUJARATI LETTER RA  
-   B30 : ry-ra                                             odRa                     ry-ra                                   Oriya                                   ORIYA LETTER RA     
+   B30 : orya-ra                                           odRa                     orya-ra                                 Oriya                                   ORIYA LETTER RA     
    BB0 : taml-ra                                           taRa                     taml-ra                                 Tamil                                   TAMIL LETTER RA     
    C30 : telu-ra                                           teRa                     telu-ra                                 Telugu                                  TELUGU LETTER RA    
    CB0 : knda-ra                                           knRa                     knda-ra                                 Kannada                                 KANNADA LETTER RA   
@@ -1356,7 +1359,7 @@
    517 : rhacyr                                            -                        rhacyr                                  Cyrillic Supplement                     CYRILLIC SMALL LETTER RHA
    95D : deva-rha                                          dvRha                    deva-rha                                Devanagari                              DEVANAGARI LETTER RHA
    9DD : beng-rha                                          beRha                    beng-rha                                Bengali                                 BENGALI LETTER RHA  
-   B5D : ry-rha                                            odRha                    ry-rha                                  Oriya                                   ORIYA LETTER RHA    
+   B5D : orya-rha                                          odRha                    orya-rha                                Oriya                                   ORIYA LETTER RHA    
 
   122A : ethi-ri                                           -                        ethi-ri                                 Ethiopic                                ETHIOPIC SYLLABLE RI
   308A : hira-ri                                           rihiragana               hira-ri                                 Hiragana                                HIRAGANA LETTER RI  
@@ -1369,7 +1372,7 @@
    931 : deva-rra                                          dvRra                    deva-rra                                Devanagari                              DEVANAGARI LETTER RRA
    9DC : beng-rra                                          beRra                    beng-rra                                Bengali                                 BENGALI LETTER RRA  
    A5C : guru-rra                                          guRra                    guru-rra                                Gurmukhi                                GURMUKHI LETTER RRA 
-   B5C : ry-rra                                            odRra                    ry-rra                                  Oriya                                   ORIYA LETTER RRA    
+   B5C : orya-rra                                          odRra                    orya-rra                                Oriya                                   ORIYA LETTER RRA    
    BB1 : taml-rra                                          taRra                    taml-rra                                Tamil                                   TAMIL LETTER RRA    
    C31 : telu-rra                                          teRra                    telu-rra                                Telugu                                  TELUGU LETTER RRA   
    CB1 : knda-rra                                          knRra                    knda-rra                                Kannada                                 KANNADA LETTER RRA  
@@ -1379,7 +1382,7 @@
    960 : deva-rrvocal                                      dvRrvocal                deva-rrvocal                            Devanagari                              DEVANAGARI LETTER VOCALIC RR
    9E0 : beng-rrvocal                                      beRrvocal                beng-rrvocal                            Bengali                                 BENGALI LETTER VOCALIC RR
    AE0 : gujr-rrvocal                                      gjRrvocal                gujr-rrvocal                            Gujarati                                GUJARATI LETTER VOCALIC RR
-   B60 : ry-rrvocal                                        odRrvocal                ry-rrvocal                              Oriya                                   ORIYA LETTER VOCALIC RR
+   B60 : orya-rrvocal                                      odRrvocal                orya-rrvocal                            Oriya                                   ORIYA LETTER VOCALIC RR
    C60 : telu-rrvocal                                      teRrvocal                telu-rrvocal                            Telugu                                  TELUGU LETTER VOCALIC RR
    CE0 : knda-rrvocal                                      knRrvocal                knda-rrvocal                            Kannada                                 KANNADA LETTER VOCALIC RR
    D60 : mlym-rrvocal                                      mlRrvocal                mlym-rrvocal                            Malayalam                               MALAYALAM LETTER VOCALIC RR
@@ -1387,7 +1390,7 @@
    944 : deva-rrvocalsign                                  dvRrvocalsign            deva-rrvocalsign                        Devanagari                              DEVANAGARI VOWEL SIGN VOCALIC RR
    9C4 : beng-rrvocalsign                                  beRrvocalsign            beng-rrvocalsign                        Bengali                                 BENGALI VOWEL SIGN VOCALIC RR
    AC4 : gujr-rrvocalsign                                  gjRrvocalsign            gujr-rrvocalsign                        Gujarati                                GUJARATI VOWEL SIGN VOCALIC RR
-   B44 : ry-rrvocalsign                                    odRrvocalsign            ry-rrvocalsign                          Oriya                                   ORIYA VOWEL SIGN VOCALIC RR
+   B44 : orya-rrvocalsign                                  odRrvocalsign            orya-rrvocalsign                        Oriya                                   ORIYA VOWEL SIGN VOCALIC RR
    CC4 : knda-rrvocalsign                                  knRrvocalsign            knda-rrvocalsign                        Kannada                                 KANNADA VOWEL SIGN VOCALIC RR
    D44 : mlym-rrvocalsign                                  mlRrvocalsign            mlym-rrvocalsign                        Malayalam                               MALAYALAM VOWEL SIGN VOCALIC RR
 
@@ -1403,7 +1406,7 @@
    90B : deva-rvocal                                       dvRvocal                 deva-rvocal                             Devanagari                              DEVANAGARI LETTER VOCALIC R
    98B : beng-rvocal                                       beRvocal                 beng-rvocal                             Bengali                                 BENGALI LETTER VOCALIC R
    A8B : gujr-rvocal                                       gjRvocal                 gujr-rvocal                             Gujarati                                GUJARATI LETTER VOCALIC R
-   B0B : ry-rvocal                                         odRvocal                 ry-rvocal                               Oriya                                   ORIYA LETTER VOCALIC R
+   B0B : orya-rvocal                                       odRvocal                 orya-rvocal                             Oriya                                   ORIYA LETTER VOCALIC R
    C0B : telu-rvocal                                       teRvocal                 telu-rvocal                             Telugu                                  TELUGU LETTER VOCALIC R
    C8B : knda-rvocal                                       knRvocal                 knda-rvocal                             Kannada                                 KANNADA LETTER VOCALIC R
    D0B : mlym-rvocal                                       mlRvocal                 mlym-rvocal                             Malayalam                               MALAYALAM LETTER VOCALIC R
@@ -1411,7 +1414,7 @@
    943 : deva-rvocalsign                                   dvRvocalsign             deva-rvocalsign                         Devanagari                              DEVANAGARI VOWEL SIGN VOCALIC R
    9C3 : beng-rvocalsign                                   beRvocalsign             beng-rvocalsign                         Bengali                                 BENGALI VOWEL SIGN VOCALIC R
    AC3 : gujr-rvocalsign                                   gjRvocalsign             gujr-rvocalsign                         Gujarati                                GUJARATI VOWEL SIGN VOCALIC R
-   B43 : ry-rvocalsign                                     odRvocalsign             ry-rvocalsign                           Oriya                                   ORIYA VOWEL SIGN VOCALIC R
+   B43 : orya-rvocalsign                                   odRvocalsign             orya-rvocalsign                         Oriya                                   ORIYA VOWEL SIGN VOCALIC R
    CC3 : knda-rvocalsign                                   knRvocalsign             knda-rvocalsign                         Kannada                                 KANNADA VOWEL SIGN VOCALIC R
    D43 : mlym-rvocalsign                                   mlRvocalsign             mlym-rvocalsign                         Malayalam                               MALAYALAM VOWEL SIGN VOCALIC R
 
@@ -1422,7 +1425,7 @@
    9B8 : beng-sa                                           beSa                     beng-sa                                 Bengali                                 BENGALI LETTER SA   
    A38 : guru-sa                                           guSa                     guru-sa                                 Gurmukhi                                GURMUKHI LETTER SA  
    AB8 : gujr-sa                                           gjSa                     gujr-sa                                 Gujarati                                GUJARATI LETTER SA  
-   B38 : ry-sa                                             odSa                     ry-sa                                   Oriya                                   ORIYA LETTER SA     
+   B38 : orya-sa                                           odSa                     orya-sa                                 Oriya                                   ORIYA LETTER SA     
    BB8 : taml-sa                                           taSa                     taml-sa                                 Tamil                                   TAMIL LETTER SA     
    C38 : telu-sa                                           teSa                     telu-sa                                 Telugu                                  TELUGU LETTER SA    
    CB8 : knda-sa                                           knSa                     knda-sa                                 Kannada                                 KANNADA LETTER SA   
@@ -1453,7 +1456,7 @@
    9ED : beng-seven                                        beSeven                  beng-seven                              Bengali                                 BENGALI DIGIT SEVEN 
    A6D : guru-seven                                        guSeven                  guru-seven                              Gurmukhi                                GURMUKHI DIGIT SEVEN
    AED : gujr-seven                                        gjSeven                  gujr-seven                              Gujarati                                GUJARATI DIGIT SEVEN
-   B6D : ry-seven                                          odSeven                  ry-seven                                Oriya                                   ORIYA DIGIT SEVEN   
+   B6D : orya-seven                                        odSeven                  orya-seven                              Oriya                                   ORIYA DIGIT SEVEN   
    BED : taml-seven                                        taSeven                  taml-seven                              Tamil                                   TAMIL DIGIT SEVEN   
    C6D : telu-seven                                        teSeven                  telu-seven                              Telugu                                  TELUGU DIGIT SEVEN  
    CED : knda-seven                                        knSeven                  knda-seven                              Kannada                                 KANNADA DIGIT SEVEN 
@@ -1470,7 +1473,7 @@
    9B6 : beng-sha                                          beSha                    beng-sha                                Bengali                                 BENGALI LETTER SHA  
    A36 : guru-sha                                          guSha                    guru-sha                                Gurmukhi                                GURMUKHI LETTER SHA 
    AB6 : gujr-sha                                          gjSha                    gujr-sha                                Gujarati                                GUJARATI LETTER SHA 
-   B36 : ry-sha                                            odSha                    ry-sha                                  Oriya                                   ORIYA LETTER SHA    
+   B36 : orya-sha                                          odSha                    orya-sha                                Oriya                                   ORIYA LETTER SHA    
    BB6 : taml-sha                                          taSha                    taml-sha                                Tamil                                   TAMIL LETTER SHA    
    C36 : telu-sha                                          teSha                    telu-sha                                Telugu                                  TELUGU LETTER SHA   
    CB6 : knda-sha                                          knSha                    knda-sha                                Kannada                                 KANNADA LETTER SHA  
@@ -1492,7 +1495,7 @@
    9EC : beng-six                                          beSix                    beng-six                                Bengali                                 BENGALI DIGIT SIX   
    A6C : guru-six                                          guSix                    guru-six                                Gurmukhi                                GURMUKHI DIGIT SIX  
    AEC : gujr-six                                          gjSix                    gujr-six                                Gujarati                                GUJARATI DIGIT SIX  
-   B6C : ry-six                                            odSix                    ry-six                                  Oriya                                   ORIYA DIGIT SIX     
+   B6C : orya-six                                          odSix                    orya-six                                Oriya                                   ORIYA DIGIT SIX     
    BEC : taml-six                                          taSix                    taml-six                                Tamil                                   TAMIL DIGIT SIX     
    C6C : telu-six                                          teSix                    telu-six                                Telugu                                  TELUGU DIGIT SIX    
    CEC : knda-six                                          knSix                    knda-six                                Kannada                                 KANNADA DIGIT SIX   
@@ -1513,7 +1516,7 @@
    937 : deva-ssa                                          dvSsa                    deva-ssa                                Devanagari                              DEVANAGARI LETTER SSA
    9B7 : beng-ssa                                          beSsa                    beng-ssa                                Bengali                                 BENGALI LETTER SSA  
    AB7 : gujr-ssa                                          gjSsa                    gujr-ssa                                Gujarati                                GUJARATI LETTER SSA 
-   B37 : ry-ssa                                            odSsa                    ry-ssa                                  Oriya                                   ORIYA LETTER SSA    
+   B37 : orya-ssa                                          odSsa                    orya-ssa                                Oriya                                   ORIYA LETTER SSA    
    BB7 : taml-ssa                                          taSsa                    taml-ssa                                Tamil                                   TAMIL LETTER SSA    
    C37 : telu-ssa                                          teSsa                    telu-ssa                                Telugu                                  TELUGU LETTER SSA   
    CB7 : knda-ssa                                          knSsa                    knda-ssa                                Kannada                                 KANNADA LETTER SSA  
@@ -1532,7 +1535,7 @@
    9A4 : beng-ta                                           beTa                     beng-ta                                 Bengali                                 BENGALI LETTER TA   
    A24 : guru-ta                                           guTa                     guru-ta                                 Gurmukhi                                GURMUKHI LETTER TA  
    AA4 : gujr-ta                                           gjTa                     gujr-ta                                 Gujarati                                GUJARATI LETTER TA  
-   B24 : ry-ta                                             odTa                     ry-ta                                   Oriya                                   ORIYA LETTER TA     
+   B24 : orya-ta                                           odTa                     orya-ta                                 Oriya                                   ORIYA LETTER TA     
    BA4 : taml-ta                                           taTa                     taml-ta                                 Tamil                                   TAMIL LETTER TA     
    C24 : telu-ta                                           teTa                     telu-ta                                 Telugu                                  TELUGU LETTER TA    
    CA4 : knda-ta                                           knTa                     knda-ta                                 Kannada                                 KANNADA LETTER TA   
@@ -1563,7 +1566,7 @@
    9A5 : beng-tha                                          beTha                    beng-tha                                Bengali                                 BENGALI LETTER THA  
    A25 : guru-tha                                          guTha                    guru-tha                                Gurmukhi                                GURMUKHI LETTER THA 
    AA5 : gujr-tha                                          gjTha                    gujr-tha                                Gujarati                                GUJARATI LETTER THA 
-   B25 : ry-tha                                            odTha                    ry-tha                                  Oriya                                   ORIYA LETTER THA    
+   B25 : orya-tha                                          odTha                    orya-tha                                Oriya                                   ORIYA LETTER THA    
    C25 : telu-tha                                          teTha                    telu-tha                                Telugu                                  TELUGU LETTER THA   
    CA5 : knda-tha                                          knTha                    knda-tha                                Kannada                                 KANNADA LETTER THA  
    D25 : mlym-tha                                          mlTha                    mlym-tha                                Malayalam                               MALAYALAM LETTER THA
@@ -1576,7 +1579,7 @@
    9E9 : beng-three                                        beThree                  beng-three                              Bengali                                 BENGALI DIGIT THREE 
    A69 : guru-three                                        guThree                  guru-three                              Gurmukhi                                GURMUKHI DIGIT THREE
    AE9 : gujr-three                                        gjThree                  gujr-three                              Gujarati                                GUJARATI DIGIT THREE
-   B69 : ry-three                                          odThree                  ry-three                                Oriya                                   ORIYA DIGIT THREE   
+   B69 : orya-three                                        odThree                  orya-three                              Oriya                                   ORIYA DIGIT THREE   
    BE9 : taml-three                                        taThree                  taml-three                              Tamil                                   TAMIL DIGIT THREE   
    C69 : telu-three                                        teThree                  telu-three                              Telugu                                  TELUGU DIGIT THREE  
    CE9 : knda-three                                        knThree                  knda-three                              Kannada                                 KANNADA DIGIT THREE 
@@ -1623,7 +1626,7 @@
    99F : beng-tta                                          beTta                    beng-tta                                Bengali                                 BENGALI LETTER TTA  
    A1F : guru-tta                                          guTta                    guru-tta                                Gurmukhi                                GURMUKHI LETTER TTA 
    A9F : gujr-tta                                          gjTta                    gujr-tta                                Gujarati                                GUJARATI LETTER TTA 
-   B1F : ry-tta                                            odTta                    ry-tta                                  Oriya                                   ORIYA LETTER TTA    
+   B1F : orya-tta                                          odTta                    orya-tta                                Oriya                                   ORIYA LETTER TTA    
    B9F : taml-tta                                          taTta                    taml-tta                                Tamil                                   TAMIL LETTER TTA    
    C1F : telu-tta                                          teTta                    telu-tta                                Telugu                                  TELUGU LETTER TTA   
    C9F : knda-tta                                          knTta                    knda-tta                                Kannada                                 KANNADA LETTER TTA  
@@ -1635,7 +1638,7 @@
    9A0 : beng-ttha                                         beTtha                   beng-ttha                               Bengali                                 BENGALI LETTER TTHA 
    A20 : guru-ttha                                         guTtha                   guru-ttha                               Gurmukhi                                GURMUKHI LETTER TTHA
    AA0 : gujr-ttha                                         gjTtha                   gujr-ttha                               Gujarati                                GUJARATI LETTER TTHA
-   B20 : ry-ttha                                           odTtha                   ry-ttha                                 Oriya                                   ORIYA LETTER TTHA   
+   B20 : orya-ttha                                         odTtha                   orya-ttha                               Oriya                                   ORIYA LETTER TTHA   
    C20 : telu-ttha                                         teTtha                   telu-ttha                               Telugu                                  TELUGU LETTER TTHA  
    CA0 : knda-ttha                                         knTtha                   knda-ttha                               Kannada                                 KANNADA LETTER TTHA 
    D20 : mlym-ttha                                         mlTtha                   mlym-ttha                               Malayalam                               MALAYALAM LETTER TTHA
@@ -1654,7 +1657,7 @@
    9E8 : beng-two                                          beTwo                    beng-two                                Bengali                                 BENGALI DIGIT TWO   
    A68 : guru-two                                          guTwo                    guru-two                                Gurmukhi                                GURMUKHI DIGIT TWO  
    AE8 : gujr-two                                          gjTwo                    gujr-two                                Gujarati                                GUJARATI DIGIT TWO  
-   B68 : ry-two                                            odTwo                    ry-two                                  Oriya                                   ORIYA DIGIT TWO     
+   B68 : orya-two                                          odTwo                    orya-two                                Oriya                                   ORIYA DIGIT TWO     
    BE8 : taml-two                                          taTwo                    taml-two                                Tamil                                   TAMIL DIGIT TWO     
    C68 : telu-two                                          teTwo                    telu-two                                Telugu                                  TELUGU DIGIT TWO    
    CE8 : knda-two                                          knTwo                    knda-two                                Kannada                                 KANNADA DIGIT TWO   
@@ -1673,7 +1676,7 @@
    989 : beng-u                                            beU                      beng-u                                  Bengali                                 BENGALI LETTER U    
    A09 : guru-u                                            guU                      guru-u                                  Gurmukhi                                GURMUKHI LETTER U   
    A89 : gujr-u                                            gjU                      gujr-u                                  Gujarati                                GUJARATI LETTER U   
-   B09 : ry-u                                              odU                      ry-u                                    Oriya                                   ORIYA LETTER U      
+   B09 : orya-u                                            odU                      orya-u                                  Oriya                                   ORIYA LETTER U      
    B89 : taml-u                                            taU                      taml-u                                  Tamil                                   TAMIL LETTER U      
    C09 : telu-u                                            teU                      telu-u                                  Telugu                                  TELUGU LETTER U     
    C89 : knda-u                                            knU                      knda-u                                  Kannada                                 KANNADA LETTER U    
@@ -1689,7 +1692,7 @@
    4F1 : udieresiscyr                                      udieresiscyr             udieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER U WITH DIAERESIS
 
   1826 : mong-ue                                           -                        mong-ue                                 Mongolian                               MONGOLIAN LETTER UE 
-  1D6B : phnt-ue                                           -                        phnt-ue                                 Phonetic Extensions                     LATIN SMALL LETTER UE
+  1D6B : phon-ue                                           -                        phon-ue                                 Phonetic Extensions                     LATIN SMALL LETTER UE
 
   FF73 : hlfw-uhalfwidth                                   ukatakanahalfwidth       hlfw-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH KATAKANA LETTER U
   FFD3 : hlfw-uhalfwidth                                   -                        hlfw-uhalfwidth                         Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER U
@@ -1704,7 +1707,7 @@
    9C1 : beng-usign                                        beUsign                  beng-usign                              Bengali                                 BENGALI VOWEL SIGN U
    A41 : guru-usign                                        guUsign                  guru-usign                              Gurmukhi                                GURMUKHI VOWEL SIGN U
    AC1 : gujr-usign                                        gjUsign                  gujr-usign                              Gujarati                                GUJARATI VOWEL SIGN U
-   B41 : ry-usign                                          odUsign                  ry-usign                                Oriya                                   ORIYA VOWEL SIGN U  
+   B41 : orya-usign                                        odUsign                  orya-usign                              Oriya                                   ORIYA VOWEL SIGN U  
    BC1 : taml-usign                                        taUsign                  taml-usign                              Tamil                                   TAMIL VOWEL SIGN U  
    C41 : telu-usign                                        teUsign                  telu-usign                              Telugu                                  TELUGU VOWEL SIGN U 
    CC1 : knda-usign                                        knUsign                  knda-usign                              Kannada                                 KANNADA VOWEL SIGN U
@@ -1717,7 +1720,7 @@
    98A : beng-uu                                           beUu                     beng-uu                                 Bengali                                 BENGALI LETTER UU   
    A0A : guru-uu                                           guUu                     guru-uu                                 Gurmukhi                                GURMUKHI LETTER UU  
    A8A : gujr-uu                                           gjUu                     gujr-uu                                 Gujarati                                GUJARATI LETTER UU  
-   B0A : ry-uu                                             odUu                     ry-uu                                   Oriya                                   ORIYA LETTER UU     
+   B0A : orya-uu                                           odUu                     orya-uu                                 Oriya                                   ORIYA LETTER UU     
    B8A : taml-uu                                           taUu                     taml-uu                                 Tamil                                   TAMIL LETTER UU     
    C0A : telu-uu                                           teUu                     telu-uu                                 Telugu                                  TELUGU LETTER UU    
    C8A : knda-uu                                           knUu                     knda-uu                                 Kannada                                 KANNADA LETTER UU   
@@ -1727,7 +1730,7 @@
    9C2 : beng-uusign                                       beUusign                 beng-uusign                             Bengali                                 BENGALI VOWEL SIGN UU
    A42 : guru-uusign                                       guUusign                 guru-uusign                             Gurmukhi                                GURMUKHI VOWEL SIGN UU
    AC2 : gujr-uusign                                       gjUusign                 gujr-uusign                             Gujarati                                GUJARATI VOWEL SIGN UU
-   B42 : ry-uusign                                         odUusign                 ry-uusign                               Oriya                                   ORIYA VOWEL SIGN UU 
+   B42 : orya-uusign                                       odUusign                 orya-uusign                             Oriya                                   ORIYA VOWEL SIGN UU 
    BC2 : taml-uusign                                       taUusign                 taml-uusign                             Tamil                                   TAMIL VOWEL SIGN UU 
    C42 : telu-uusign                                       teUusign                 telu-uusign                             Telugu                                  TELUGU VOWEL SIGN UU
    CC2 : knda-uusign                                       knUusign                 knda-uusign                             Kannada                                 KANNADA VOWEL SIGN UU
@@ -1740,7 +1743,7 @@
    935 : deva-va                                           dvVa                     deva-va                                 Devanagari                              DEVANAGARI LETTER VA
    A35 : guru-va                                           guVa                     guru-va                                 Gurmukhi                                GURMUKHI LETTER VA  
    AB5 : gujr-va                                           gjVa                     gujr-va                                 Gujarati                                GUJARATI LETTER VA  
-   B35 : ry-va                                             odVa                     ry-va                                   Oriya                                   ORIYA LETTER VA     
+   B35 : orya-va                                           odVa                     orya-va                                 Oriya                                   ORIYA LETTER VA     
    BB5 : taml-va                                           taVa                     taml-va                                 Tamil                                   TAMIL LETTER VA     
    C35 : telu-va                                           teVa                     telu-va                                 Telugu                                  TELUGU LETTER VA    
    CB5 : knda-va                                           knVa                     knda-va                                 Kannada                                 KANNADA LETTER VA   
@@ -1760,7 +1763,7 @@
    9CD : beng-virama                                       beVirama                 beng-virama                             Bengali                                 BENGALI SIGN VIRAMA 
    A4D : guru-virama                                       guVirama                 guru-virama                             Gurmukhi                                GURMUKHI SIGN VIRAMA
    ACD : gujr-virama                                       gjVirama                 gujr-virama                             Gujarati                                GUJARATI SIGN VIRAMA
-   B4D : ry-virama                                         odVirama                 ry-virama                               Oriya                                   ORIYA SIGN VIRAMA   
+   B4D : orya-virama                                       odVirama                 orya-virama                             Oriya                                   ORIYA SIGN VIRAMA   
    CCD : knda-virama                                       knVirama                 knda-virama                             Kannada                                 KANNADA SIGN VIRAMA 
 
    BCD : taml-viramasign                                   taVirama                 taml-viramasign                         Tamil                                   TAMIL SIGN VIRAMA   
@@ -1771,7 +1774,7 @@
    983 : beng-visarga                                      beVisarga                beng-visarga                            Bengali                                 BENGALI SIGN VISARGA
    A03 : guru-visarga                                      guVisarga                guru-visarga                            Gurmukhi                                GURMUKHI SIGN VISARGA
    A83 : gujr-visarga                                      gjVisarga                gujr-visarga                            Gujarati                                GUJARATI SIGN VISARGA
-   B03 : ry-visarga                                        odVisarga                ry-visarga                              Oriya                                   ORIYA SIGN VISARGA  
+   B03 : orya-visarga                                      odVisarga                orya-visarga                            Oriya                                   ORIYA SIGN VISARGA  
    C83 : knda-visarga                                      knVisarga                knda-visarga                            Kannada                                 KANNADA SIGN VISARGA
 
    B83 : taml-visargasign                                  taVisarga                taml-visargasign                        Tamil                                   TAMIL SIGN VISARGA  
@@ -1786,7 +1789,7 @@
   3094 : hira-vu                                           vuhiragana               hira-vu                                 Hiragana                                HIRAGANA LETTER VU  
   30F4 : kata-vu                                           vukatakana               kata-vu                                 Katakana                                KATAKANA LETTER VU  
 
-   B71 : ry-wa                                             odWa                     ry-wa                                   Oriya                                   ORIYA LETTER WA     
+   B71 : orya-wa                                           odWa                     orya-wa                                 Oriya                                   ORIYA LETTER WA     
    F5D : tibt-wa                                           -                        tibt-wa                                 Tibetan                                 TIBETAN LETTER WA   
   12C8 : ethi-wa                                           -                        ethi-wa                                 Ethiopic                                ETHIOPIC SYLLABLE WA
   1838 : mong-wa                                           -                        mong-wa                                 Mongolian                               MONGOLIAN LETTER WA 
@@ -1828,7 +1831,7 @@
    9AF : beng-ya                                           beYa                     beng-ya                                 Bengali                                 BENGALI LETTER YA   
    A2F : guru-ya                                           guYa                     guru-ya                                 Gurmukhi                                GURMUKHI LETTER YA  
    AAF : gujr-ya                                           gjYa                     gujr-ya                                 Gujarati                                GUJARATI LETTER YA  
-   B2F : ry-ya                                             odYa                     ry-ya                                   Oriya                                   ORIYA LETTER YA     
+   B2F : orya-ya                                           odYa                     orya-ya                                 Oriya                                   ORIYA LETTER YA     
    BAF : taml-ya                                           taYa                     taml-ya                                 Tamil                                   TAMIL LETTER YA     
    C2F : telu-ya                                           teYa                     telu-ya                                 Telugu                                  TELUGU LETTER YA    
    CAF : knda-ya                                           knYa                     knda-ya                                 Kannada                                 KANNADA LETTER YA   
@@ -1883,7 +1886,7 @@
 
    95F : deva-yya                                          dvYya                    deva-yya                                Devanagari                              DEVANAGARI LETTER YYA
    9DF : beng-yya                                          beYya                    beng-yya                                Bengali                                 BENGALI LETTER YYA  
-   B5F : ry-yya                                            odYya                    ry-yya                                  Oriya                                   ORIYA LETTER YYA    
+   B5F : orya-yya                                          odYya                    orya-yya                                Oriya                                   ORIYA LETTER YYA    
 
     7A : z                                                 z                        z                                       Basic Latin                             LATIN SMALL LETTER Z
   3117 : bopo-z                                            zbopomofo                bopo-z                                  Bopomofo                                BOPOMOFO LETTER Z   
@@ -1909,7 +1912,7 @@
    9E6 : beng-zero                                         beZero                   beng-zero                               Bengali                                 BENGALI DIGIT ZERO  
    A66 : guru-zero                                         guZero                   guru-zero                               Gurmukhi                                GURMUKHI DIGIT ZERO 
    AE6 : gujr-zero                                         gjZero                   gujr-zero                               Gujarati                                GUJARATI DIGIT ZERO 
-   B66 : ry-zero                                           odZero                   ry-zero                                 Oriya                                   ORIYA DIGIT ZERO    
+   B66 : orya-zero                                         odZero                   orya-zero                               Oriya                                   ORIYA DIGIT ZERO    
    BE6 : taml-zero                                         taZero                   taml-zero                               Tamil                                   TAMIL DIGIT ZERO    
    C66 : telu-zero                                         teZero                   telu-zero                               Telugu                                  TELUGU DIGIT ZERO   
    CE6 : knda-zero                                         knZero                   knda-zero                               Kannada                                 KANNADA DIGIT ZERO  
@@ -1941,7 +1944,7 @@
   12D9 : ethi-zu                                           -                        ethi-zu                                 Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hira-zu                                           zuhiragana               hira-zu                                 Hiragana                                HIRAGANA LETTER ZU  
   30BA : kata-zu                                           zukatakana               kata-zu                                 Katakana                                KATAKANA LETTER ZU  
-# 348 names with conflicts, affecting 1593 unicodes
+# 349 names with conflicts, affecting 1595 unicodes
 
 
 Conflicts by rangename
@@ -3298,94 +3301,98 @@ Optical Character Recognition
   2445 : ocr-bowtie                                        -                        ocr-bowtie                              Optical Character Recognition           OCR BOW TIE         
 
 Oriya
-   B05 : ry-a                                              odA                      ry-a                                    Oriya                                   ORIYA LETTER A      
-   B06 : ry-aa                                             odAa                     ry-aa                                   Oriya                                   ORIYA LETTER AA     
-   B3E : ry-aasign                                         odAasign                 ry-aasign                               Oriya                                   ORIYA VOWEL SIGN AA 
-   B10 : ry-ai                                             odAi                     ry-ai                                   Oriya                                   ORIYA LETTER AI     
-   B56 : ry-ailengthmark                                   odAilength               ry-ailengthmark                         Oriya                                   ORIYA AI LENGTH MARK
-   B48 : ry-aisign                                         odAisign                 ry-aisign                               Oriya                                   ORIYA VOWEL SIGN AI 
-   B02 : ry-anusvara                                       odAnusvara               ry-anusvara                             Oriya                                   ORIYA SIGN ANUSVARA 
-   B14 : ry-au                                             odAu                     ry-au                                   Oriya                                   ORIYA LETTER AU     
-   B57 : ry-aulengthmark                                   odAulength               ry-aulengthmark                         Oriya                                   ORIYA AU LENGTH MARK
-   B4C : ry-ausign                                         odAusign                 ry-ausign                               Oriya                                   ORIYA VOWEL SIGN AU 
-   B3D : ry-avagraha                                       odAvagraha               ry-avagraha                             Oriya                                   ORIYA SIGN AVAGRAHA 
-   B2C : ry-ba                                             odBa                     ry-ba                                   Oriya                                   ORIYA LETTER BA     
-   B2D : ry-bha                                            odBha                    ry-bha                                  Oriya                                   ORIYA LETTER BHA    
-   B1A : ry-ca                                             odCa                     ry-ca                                   Oriya                                   ORIYA LETTER CA     
-   B01 : ry-candrabindu                                    odCandrabindu            ry-candrabindu                          Oriya                                   ORIYA SIGN CANDRABINDU
-   B1B : ry-cha                                            odCha                    ry-cha                                  Oriya                                   ORIYA LETTER CHA    
-   B26 : ry-da                                             odDa                     ry-da                                   Oriya                                   ORIYA LETTER DA     
-   B21 : ry-dda                                            odDda                    ry-dda                                  Oriya                                   ORIYA LETTER DDA    
-   B22 : ry-ddha                                           odDdha                   ry-ddha                                 Oriya                                   ORIYA LETTER DDHA   
-   B27 : ry-dha                                            odDha                    ry-dha                                  Oriya                                   ORIYA LETTER DHA    
-   B0F : ry-e                                              odE                      ry-e                                    Oriya                                   ORIYA LETTER E      
-   B6E : ry-eight                                          odEight                  ry-eight                                Oriya                                   ORIYA DIGIT EIGHT   
-   B47 : ry-esign                                          odEsign                  ry-esign                                Oriya                                   ORIYA VOWEL SIGN E  
-   B6B : ry-five                                           odFive                   ry-five                                 Oriya                                   ORIYA DIGIT FIVE    
-   B6A : ry-four                                           odFour                   ry-four                                 Oriya                                   ORIYA DIGIT FOUR    
-   B17 : ry-ga                                             odGa                     ry-ga                                   Oriya                                   ORIYA LETTER GA     
-   B18 : ry-gha                                            odGha                    ry-gha                                  Oriya                                   ORIYA LETTER GHA    
-   B39 : ry-ha                                             odHa                     ry-ha                                   Oriya                                   ORIYA LETTER HA     
-   B07 : ry-i                                              odI                      ry-i                                    Oriya                                   ORIYA LETTER I      
-   B08 : ry-ii                                             odIi                     ry-ii                                   Oriya                                   ORIYA LETTER II     
-   B40 : ry-iisign                                         odIisign                 ry-iisign                               Oriya                                   ORIYA VOWEL SIGN II 
-   B3F : ry-isign                                          odIsign                  ry-isign                                Oriya                                   ORIYA VOWEL SIGN I  
-   B70 : ry-isshar                                         odIsshar                 ry-isshar                               Oriya                                   ORIYA ISSHAR        
-   B1C : ry-ja                                             odJa                     ry-ja                                   Oriya                                   ORIYA LETTER JA     
-   B1D : ry-jha                                            odJha                    ry-jha                                  Oriya                                   ORIYA LETTER JHA    
-   B15 : ry-ka                                             odKa                     ry-ka                                   Oriya                                   ORIYA LETTER KA     
-   B16 : ry-kha                                            odKha                    ry-kha                                  Oriya                                   ORIYA LETTER KHA    
-   B32 : ry-la                                             odLa                     ry-la                                   Oriya                                   ORIYA LETTER LA     
-   B33 : ry-lla                                            odLla                    ry-lla                                  Oriya                                   ORIYA LETTER LLA    
-   B61 : ry-llvocal                                        odLlvocal                ry-llvocal                              Oriya                                   ORIYA LETTER VOCALIC LL
-   B63 : ry-llvocalsign                                    odLlvocalsign            ry-llvocalsign                          Oriya                                   ORIYA VOWEL SIGN VOCALIC LL
-   B0C : ry-lvocal                                         odLvocal                 ry-lvocal                               Oriya                                   ORIYA LETTER VOCALIC L
-   B62 : ry-lvocalsign                                     odLvocalsign             ry-lvocalsign                           Oriya                                   ORIYA VOWEL SIGN VOCALIC L
-   B2E : ry-ma                                             odMa                     ry-ma                                   Oriya                                   ORIYA LETTER MA     
-   B28 : ry-na                                             odNa                     ry-na                                   Oriya                                   ORIYA LETTER NA     
-   B19 : ry-nga                                            odNga                    ry-nga                                  Oriya                                   ORIYA LETTER NGA    
-   B6F : ry-nine                                           odNine                   ry-nine                                 Oriya                                   ORIYA DIGIT NINE    
-   B23 : ry-nna                                            odNna                    ry-nna                                  Oriya                                   ORIYA LETTER NNA    
-   B3C : ry-nukta                                          odNukta                  ry-nukta                                Oriya                                   ORIYA SIGN NUKTA    
-   B1E : ry-nya                                            odNya                    ry-nya                                  Oriya                                   ORIYA LETTER NYA    
-   B13 : ry-o                                              odO                      ry-o                                    Oriya                                   ORIYA LETTER O      
-   B67 : ry-one                                            odOne                    ry-one                                  Oriya                                   ORIYA DIGIT ONE     
-   B4B : ry-osign                                          odOsign                  ry-osign                                Oriya                                   ORIYA VOWEL SIGN O  
-   B2A : ry-pa                                             odPa                     ry-pa                                   Oriya                                   ORIYA LETTER PA     
-   B2B : ry-pha                                            odPha                    ry-pha                                  Oriya                                   ORIYA LETTER PHA    
-   B30 : ry-ra                                             odRa                     ry-ra                                   Oriya                                   ORIYA LETTER RA     
-   B5D : ry-rha                                            odRha                    ry-rha                                  Oriya                                   ORIYA LETTER RHA    
-   B5C : ry-rra                                            odRra                    ry-rra                                  Oriya                                   ORIYA LETTER RRA    
-   B60 : ry-rrvocal                                        odRrvocal                ry-rrvocal                              Oriya                                   ORIYA LETTER VOCALIC RR
-   B44 : ry-rrvocalsign                                    odRrvocalsign            ry-rrvocalsign                          Oriya                                   ORIYA VOWEL SIGN VOCALIC RR
-   B0B : ry-rvocal                                         odRvocal                 ry-rvocal                               Oriya                                   ORIYA LETTER VOCALIC R
-   B43 : ry-rvocalsign                                     odRvocalsign             ry-rvocalsign                           Oriya                                   ORIYA VOWEL SIGN VOCALIC R
-   B38 : ry-sa                                             odSa                     ry-sa                                   Oriya                                   ORIYA LETTER SA     
-   B6D : ry-seven                                          odSeven                  ry-seven                                Oriya                                   ORIYA DIGIT SEVEN   
-   B36 : ry-sha                                            odSha                    ry-sha                                  Oriya                                   ORIYA LETTER SHA    
-   B6C : ry-six                                            odSix                    ry-six                                  Oriya                                   ORIYA DIGIT SIX     
-   B37 : ry-ssa                                            odSsa                    ry-ssa                                  Oriya                                   ORIYA LETTER SSA    
-   B24 : ry-ta                                             odTa                     ry-ta                                   Oriya                                   ORIYA LETTER TA     
-   B25 : ry-tha                                            odTha                    ry-tha                                  Oriya                                   ORIYA LETTER THA    
-   B69 : ry-three                                          odThree                  ry-three                                Oriya                                   ORIYA DIGIT THREE   
-   B1F : ry-tta                                            odTta                    ry-tta                                  Oriya                                   ORIYA LETTER TTA    
-   B20 : ry-ttha                                           odTtha                   ry-ttha                                 Oriya                                   ORIYA LETTER TTHA   
-   B68 : ry-two                                            odTwo                    ry-two                                  Oriya                                   ORIYA DIGIT TWO     
-   B09 : ry-u                                              odU                      ry-u                                    Oriya                                   ORIYA LETTER U      
-   B41 : ry-usign                                          odUsign                  ry-usign                                Oriya                                   ORIYA VOWEL SIGN U  
-   B0A : ry-uu                                             odUu                     ry-uu                                   Oriya                                   ORIYA LETTER UU     
-   B42 : ry-uusign                                         odUusign                 ry-uusign                               Oriya                                   ORIYA VOWEL SIGN UU 
-   B35 : ry-va                                             odVa                     ry-va                                   Oriya                                   ORIYA LETTER VA     
-   B4D : ry-virama                                         odVirama                 ry-virama                               Oriya                                   ORIYA SIGN VIRAMA   
-   B03 : ry-visarga                                        odVisarga                ry-visarga                              Oriya                                   ORIYA SIGN VISARGA  
-   B71 : ry-wa                                             odWa                     ry-wa                                   Oriya                                   ORIYA LETTER WA     
-   B2F : ry-ya                                             odYa                     ry-ya                                   Oriya                                   ORIYA LETTER YA     
-   B5F : ry-yya                                            odYya                    ry-yya                                  Oriya                                   ORIYA LETTER YYA    
-   B66 : ry-zero                                           odZero                   ry-zero                                 Oriya                                   ORIYA DIGIT ZERO    
+   B05 : orya-a                                            odA                      orya-a                                  Oriya                                   ORIYA LETTER A      
+   B06 : orya-aa                                           odAa                     orya-aa                                 Oriya                                   ORIYA LETTER AA     
+   B3E : orya-aasign                                       odAasign                 orya-aasign                             Oriya                                   ORIYA VOWEL SIGN AA 
+   B10 : orya-ai                                           odAi                     orya-ai                                 Oriya                                   ORIYA LETTER AI     
+   B56 : orya-ailengthmark                                 odAilength               orya-ailengthmark                       Oriya                                   ORIYA AI LENGTH MARK
+   B48 : orya-aisign                                       odAisign                 orya-aisign                             Oriya                                   ORIYA VOWEL SIGN AI 
+   B02 : orya-anusvara                                     odAnusvara               orya-anusvara                           Oriya                                   ORIYA SIGN ANUSVARA 
+   B14 : orya-au                                           odAu                     orya-au                                 Oriya                                   ORIYA LETTER AU     
+   B57 : orya-aulengthmark                                 odAulength               orya-aulengthmark                       Oriya                                   ORIYA AU LENGTH MARK
+   B4C : orya-ausign                                       odAusign                 orya-ausign                             Oriya                                   ORIYA VOWEL SIGN AU 
+   B3D : orya-avagraha                                     odAvagraha               orya-avagraha                           Oriya                                   ORIYA SIGN AVAGRAHA 
+   B2C : orya-ba                                           odBa                     orya-ba                                 Oriya                                   ORIYA LETTER BA     
+   B2D : orya-bha                                          odBha                    orya-bha                                Oriya                                   ORIYA LETTER BHA    
+   B1A : orya-ca                                           odCa                     orya-ca                                 Oriya                                   ORIYA LETTER CA     
+   B01 : orya-candrabindu                                  odCandrabindu            orya-candrabindu                        Oriya                                   ORIYA SIGN CANDRABINDU
+   B1B : orya-cha                                          odCha                    orya-cha                                Oriya                                   ORIYA LETTER CHA    
+   B26 : orya-da                                           odDa                     orya-da                                 Oriya                                   ORIYA LETTER DA     
+   B21 : orya-dda                                          odDda                    orya-dda                                Oriya                                   ORIYA LETTER DDA    
+   B22 : orya-ddha                                         odDdha                   orya-ddha                               Oriya                                   ORIYA LETTER DDHA   
+   B27 : orya-dha                                          odDha                    orya-dha                                Oriya                                   ORIYA LETTER DHA    
+   B0F : orya-e                                            odE                      orya-e                                  Oriya                                   ORIYA LETTER E      
+   B6E : orya-eight                                        odEight                  orya-eight                              Oriya                                   ORIYA DIGIT EIGHT   
+   B47 : orya-esign                                        odEsign                  orya-esign                              Oriya                                   ORIYA VOWEL SIGN E  
+   B6B : orya-five                                         odFive                   orya-five                               Oriya                                   ORIYA DIGIT FIVE    
+   B6A : orya-four                                         odFour                   orya-four                               Oriya                                   ORIYA DIGIT FOUR    
+   B17 : orya-ga                                           odGa                     orya-ga                                 Oriya                                   ORIYA LETTER GA     
+   B18 : orya-gha                                          odGha                    orya-gha                                Oriya                                   ORIYA LETTER GHA    
+   B39 : orya-ha                                           odHa                     orya-ha                                 Oriya                                   ORIYA LETTER HA     
+   B07 : orya-i                                            odI                      orya-i                                  Oriya                                   ORIYA LETTER I      
+   B08 : orya-ii                                           odIi                     orya-ii                                 Oriya                                   ORIYA LETTER II     
+   B40 : orya-iisign                                       odIisign                 orya-iisign                             Oriya                                   ORIYA VOWEL SIGN II 
+   B3F : orya-isign                                        odIsign                  orya-isign                              Oriya                                   ORIYA VOWEL SIGN I  
+   B70 : orya-isshar                                       odIsshar                 orya-isshar                             Oriya                                   ORIYA ISSHAR        
+   B1C : orya-ja                                           odJa                     orya-ja                                 Oriya                                   ORIYA LETTER JA     
+   B1D : orya-jha                                          odJha                    orya-jha                                Oriya                                   ORIYA LETTER JHA    
+   B15 : orya-ka                                           odKa                     orya-ka                                 Oriya                                   ORIYA LETTER KA     
+   B16 : orya-kha                                          odKha                    orya-kha                                Oriya                                   ORIYA LETTER KHA    
+   B32 : orya-la                                           odLa                     orya-la                                 Oriya                                   ORIYA LETTER LA     
+   B33 : orya-lla                                          odLla                    orya-lla                                Oriya                                   ORIYA LETTER LLA    
+   B61 : orya-llvocal                                      odLlvocal                orya-llvocal                            Oriya                                   ORIYA LETTER VOCALIC LL
+   B63 : orya-llvocalsign                                  odLlvocalsign            orya-llvocalsign                        Oriya                                   ORIYA VOWEL SIGN VOCALIC LL
+   B0C : orya-lvocal                                       odLvocal                 orya-lvocal                             Oriya                                   ORIYA LETTER VOCALIC L
+   B62 : orya-lvocalsign                                   odLvocalsign             orya-lvocalsign                         Oriya                                   ORIYA VOWEL SIGN VOCALIC L
+   B2E : orya-ma                                           odMa                     orya-ma                                 Oriya                                   ORIYA LETTER MA     
+   B28 : orya-na                                           odNa                     orya-na                                 Oriya                                   ORIYA LETTER NA     
+   B19 : orya-nga                                          odNga                    orya-nga                                Oriya                                   ORIYA LETTER NGA    
+   B6F : orya-nine                                         odNine                   orya-nine                               Oriya                                   ORIYA DIGIT NINE    
+   B23 : orya-nna                                          odNna                    orya-nna                                Oriya                                   ORIYA LETTER NNA    
+   B3C : orya-nukta                                        odNukta                  orya-nukta                              Oriya                                   ORIYA SIGN NUKTA    
+   B1E : orya-nya                                          odNya                    orya-nya                                Oriya                                   ORIYA LETTER NYA    
+   B13 : orya-o                                            odO                      orya-o                                  Oriya                                   ORIYA LETTER O      
+   B67 : orya-one                                          odOne                    orya-one                                Oriya                                   ORIYA DIGIT ONE     
+   B4B : orya-osign                                        odOsign                  orya-osign                              Oriya                                   ORIYA VOWEL SIGN O  
+   B2A : orya-pa                                           odPa                     orya-pa                                 Oriya                                   ORIYA LETTER PA     
+   B2B : orya-pha                                          odPha                    orya-pha                                Oriya                                   ORIYA LETTER PHA    
+   B30 : orya-ra                                           odRa                     orya-ra                                 Oriya                                   ORIYA LETTER RA     
+   B5D : orya-rha                                          odRha                    orya-rha                                Oriya                                   ORIYA LETTER RHA    
+   B5C : orya-rra                                          odRra                    orya-rra                                Oriya                                   ORIYA LETTER RRA    
+   B60 : orya-rrvocal                                      odRrvocal                orya-rrvocal                            Oriya                                   ORIYA LETTER VOCALIC RR
+   B44 : orya-rrvocalsign                                  odRrvocalsign            orya-rrvocalsign                        Oriya                                   ORIYA VOWEL SIGN VOCALIC RR
+   B0B : orya-rvocal                                       odRvocal                 orya-rvocal                             Oriya                                   ORIYA LETTER VOCALIC R
+   B43 : orya-rvocalsign                                   odRvocalsign             orya-rvocalsign                         Oriya                                   ORIYA VOWEL SIGN VOCALIC R
+   B38 : orya-sa                                           odSa                     orya-sa                                 Oriya                                   ORIYA LETTER SA     
+   B6D : orya-seven                                        odSeven                  orya-seven                              Oriya                                   ORIYA DIGIT SEVEN   
+   B36 : orya-sha                                          odSha                    orya-sha                                Oriya                                   ORIYA LETTER SHA    
+   B6C : orya-six                                          odSix                    orya-six                                Oriya                                   ORIYA DIGIT SIX     
+   B37 : orya-ssa                                          odSsa                    orya-ssa                                Oriya                                   ORIYA LETTER SSA    
+   B24 : orya-ta                                           odTa                     orya-ta                                 Oriya                                   ORIYA LETTER TA     
+   B25 : orya-tha                                          odTha                    orya-tha                                Oriya                                   ORIYA LETTER THA    
+   B69 : orya-three                                        odThree                  orya-three                              Oriya                                   ORIYA DIGIT THREE   
+   B1F : orya-tta                                          odTta                    orya-tta                                Oriya                                   ORIYA LETTER TTA    
+   B20 : orya-ttha                                         odTtha                   orya-ttha                               Oriya                                   ORIYA LETTER TTHA   
+   B68 : orya-two                                          odTwo                    orya-two                                Oriya                                   ORIYA DIGIT TWO     
+   B09 : orya-u                                            odU                      orya-u                                  Oriya                                   ORIYA LETTER U      
+   B41 : orya-usign                                        odUsign                  orya-usign                              Oriya                                   ORIYA VOWEL SIGN U  
+   B0A : orya-uu                                           odUu                     orya-uu                                 Oriya                                   ORIYA LETTER UU     
+   B42 : orya-uusign                                       odUusign                 orya-uusign                             Oriya                                   ORIYA VOWEL SIGN UU 
+   B35 : orya-va                                           odVa                     orya-va                                 Oriya                                   ORIYA LETTER VA     
+   B4D : orya-virama                                       odVirama                 orya-virama                             Oriya                                   ORIYA SIGN VIRAMA   
+   B03 : orya-visarga                                      odVisarga                orya-visarga                            Oriya                                   ORIYA SIGN VISARGA  
+   B71 : orya-wa                                           odWa                     orya-wa                                 Oriya                                   ORIYA LETTER WA     
+   B2F : orya-ya                                           odYa                     orya-ya                                 Oriya                                   ORIYA LETTER YA     
+   B5F : orya-yya                                          odYya                    orya-yya                                Oriya                                   ORIYA LETTER YYA    
+   B66 : orya-zero                                         odZero                   orya-zero                               Oriya                                   ORIYA DIGIT ZERO    
 
 Phonetic Extensions
-  1D25 : phnt-ain                                          -                        phnt-ain                                Phonetic Extensions                     LATIN LETTER AIN    
-  1D6B : phnt-ue                                           -                        phnt-ue                                 Phonetic Extensions                     LATIN SMALL LETTER UE
+  1D25 : phon-ain                                          -                        phon-ain                                Phonetic Extensions                     LATIN LETTER AIN    
+  1D60 : phon-phimod                                       phisupmod                phon-phimod                             Phonetic Extensions                     MODIFIER LETTER SMALL GREEK PHI
+  1D6B : phon-ue                                           -                        phon-ue                                 Phonetic Extensions                     LATIN SMALL LETTER UE
+
+Phonetic Extensions Supplement
+  1DB2 : phon-phimod                                       -                        phon-phimod                             Phonetic Extensions Supplement          MODIFIER LETTER SMALL PHI
 
 Small Form Variants
   FE60 : smll-ampersand                                    -                        smll-ampersand                          Small Form Variants                     SMALL AMPERSAND     

@@ -1,7 +1,9 @@
 # Glyph Name Formatted Unicode List - GNFUL
 # GlyphNameFormatter version 0.1 - git commit: 265
-# Generated on 2016 03 13 11:22:56
+# Generated on 2016 03 13 11:22:59
 # <glyphName> <hex unicode>
+# Separator "-"
+# Prefixed "True"
 #
 # Basic Latin
 space 0020

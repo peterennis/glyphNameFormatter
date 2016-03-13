@@ -240,6 +240,7 @@ scriptConflictNames = [
     "perthousand",
     "pha",
     "phi",
+    "phimod",
     "pi",
     "plus",
     "po",

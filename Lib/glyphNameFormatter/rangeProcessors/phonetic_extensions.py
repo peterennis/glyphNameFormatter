@@ -41,11 +41,11 @@ def process(self):
     if self.has("GREEK"):
         self.edit("GREEK")
         self.handleCase()
-        self.uniNameProcessed = addScriptPrefix(self.uniNameProcessed, script="greek")
+        #self.uniNameProcessed = addScriptPrefix(self.uniNameProcessed, script="greek")
     elif self.has("CYRILLIC"):
         self.edit("CYRILLIC")
         self.handleCase()
-        self.uniNameProcessed = addScriptPrefix(self.uniNameProcessed, script="cyrillic")
+        #self.uniNameProcessed = addScriptPrefix(self.uniNameProcessed, script="cyrillic")
     else:
         self.handleCase()
 
@@ -53,6 +53,7 @@ def process(self):
     self.edit("LETTER")
 
     self.compress()
+    self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange

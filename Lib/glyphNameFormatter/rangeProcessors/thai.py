@@ -8,6 +8,7 @@ def process(self):
     self.processAs("Helper Digit Names")
     self.lower()
     self.compress()
+    self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
