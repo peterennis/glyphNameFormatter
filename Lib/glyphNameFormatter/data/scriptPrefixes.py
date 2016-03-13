@@ -60,19 +60,19 @@ class ScriptPrefixesDict(dict):
         return "".join(key[:4])
 
 
-def addScriptPrefix(txt, tag=None, script=None, separator=SCRIPTSEPARATOR, asPrefix=SCRIPTASPREFIX):
+def addScriptPrefix(txt, tag=None, script=None, scriptSeparator=SCRIPTSEPARATOR, scriptAsPrefix=SCRIPTASPREFIX):
     if tag is None and script is None:
         raise GlyphNameFormatterError("Need a script or a tag")
     if tag is None:
         tag = scriptPrefixes[script]
     if "%s" not in tag:
-        if asPrefix:
-            order = (tag, separator)
+        if scriptAsPrefix:
+            order = (tag, scriptSeparator)
             tag = "%s%s%%s" % order
         else:
-            order = (separator, tag)
+            order = (scriptSeparator, tag)
             tag = "%%s%s%s" % order
-    if asPrefix:
+    if scriptAsPrefix:
         return tag % txt
     return tag % txt
 
@@ -84,24 +84,15 @@ def addScriptPrefix(txt, tag=None, script=None, separator=SCRIPTSEPARATOR, asPre
 _scriptPrefixes = {
     'cjk': 'cjk',
     'arabic': 'ar',
-    'armenian': 'am',
     'boxdrawings': 'bxd',
     'cyrillic': '%scyr',
-    'devanagari': 'dv',
-    'ethiopic': "et",
     'greek': 'gr',
     'hangul': 'ko',
     'hebrew': '%%s%shb' % SCRIPTSEPARATOR,
-    'hiragana': 'hi',
+    'hiragana': 'hira',
+    'katakana': 'kata',
     'ipa': 'ipa',
-    'kannada': "kn",
-    'katakana': 'ka',
-    'javanese': 'ja',
-    'malayalam': 'ma',
     'latin': "lt",
-    'mongolian': 'mo',
-    'tibetan': 'tb',
-    'thai': 'ti',
     'miscellaneous': 'misc',
     'musical': 'music',
     'optical character recognition': 'ocr',
