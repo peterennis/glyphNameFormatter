@@ -87,6 +87,8 @@ _scriptPrefixes = {
     'cjk': 'cjk',
     'combining diacritical marks': "cmb",
     'cyrillic': '%scyr',
+    'fullwidth': 'fwd',
+    'halfwidth': 'hwd',
     'greek': 'gr',
     'hangul': 'ko',
     'hebrew': '%%s%shb' % SCRIPTSEPARATOR,

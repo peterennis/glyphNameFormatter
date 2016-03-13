@@ -19,6 +19,8 @@ def process(self):
     elif 0xFFA0 <= self.uniNumber <= 0xFFDC:
         self.edit("HANGUL LETTER")
         self.processAs('Hangul')
+        self.replace("-", '')
+        self.lower()
     else:
         self.lower()
     self.scriptTag = scriptPrefixes[size]
