@@ -39,6 +39,7 @@ def process(self):
 
     self.processAs("Helper Diacritics")
     self.processAs("Helper Shapes")
+
     self.handleCase()
     self.compress()
 
