@@ -29,11 +29,14 @@ def debug(uniNumber):
     g = glyphNameFormatter.GlyphName(uniNumber)
     name = g.getName(extension=True)
     count = 0
-    print(name, uniNumber)
-    print("{0:<5} {1:<30} {2:<30} {3:<30} {4:<30}".format("step", "lookFor", "replaceWith", "before", "after"))
+    print("Debugging: %s"%name)
+    print("uninumber: %04X"%uniNumber)
+    print("uni range: %s"%g.uniRangeName)
+    print("{0:<5} {1:<30} {2:<30} {3:<30} {4:<30}".format("Step", "Look For", "Replace With", "Before", "After"))
     for lookFor, replaceWith, before, after in g._log:
         count += 1
         print("{0:<5} {0:<30} {1:<30} {2:<30} {3:<30}".format(count, lookFor, replaceWith, before, after))
+    print("\nSuffixes: %s"%" ".join(g.suffixParts))
 
 class GlyphNameFormatterError(Exception):
     pass
