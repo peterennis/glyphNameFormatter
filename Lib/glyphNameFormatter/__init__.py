@@ -8,7 +8,6 @@ from data.preferredAGLNames import preferredAGLNames
 from data.scriptPrefixes import scriptPrefixes, addScriptPrefix, SCRIPTSEPARATOR, SCRIPTASPREFIX
 
 from unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessorByRangeName
-from rangeProcessors import GlyphNameProcessor
 
 from tools import unicodeToChar
 
@@ -26,7 +25,7 @@ def debug(uniNumber):
         print("\t", step)
 
 
-class GlyphName(GlyphNameProcessor):
+class GlyphName(object):
 
     prefSpelling_dieresis = "dieresis"
 
@@ -172,8 +171,9 @@ class GlyphName(GlyphNameProcessor):
             # take disambiguation action
             self.mustAddScript = True
 
-
     def processAs(self, rangeName):
+        if not rangeName.lower().startswith("helper"):
+            self.scriptTag = scriptPrefixes[rangeName]
         processor = getRangeProcessorByRangeName(rangeName)
         processor(self)
 
