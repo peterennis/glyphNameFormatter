@@ -5,7 +5,7 @@ import unicodedata
 
 from data.scriptConflictNames import scriptConflictNames
 from data.preferredAGLNames import preferredAGLNames
-from data.scriptPrefixes import scriptPrefixes, addScriptPrefix
+from data.scriptPrefixes import scriptPrefixes, addScriptPrefix, SCRIPTSEPARATOR, SCRIPTASPREFIX
 
 from unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessorByRangeName
 from rangeProcessors import GlyphNameProcessor
@@ -74,20 +74,6 @@ class GlyphName(GlyphNameProcessor):
             return False
         return True
 
-    # def hashWords(self):
-    #     parts = {}
-    #     if not self.uniName:
-    #         return parts
-    #     for p in self.uniName.split(" "):
-    #         for q in p.split("-"):
-    #             try:
-    #                 int(q, 16)
-    #             except ValueError:
-    #                 if q not in parts:
-    #                     parts[q] = 0
-    #                 parts[q] += 1
-    #     return parts
-
     def has(self, namePart):
         if self.uniName is None:
             return False
@@ -136,9 +122,14 @@ class GlyphName(GlyphNameProcessor):
                 self.edit(lowerNames, suffix)
                 self.replace(before, after)
 
-    def getName(self, extension=True):
+    def getName(self, extension=True, scriptSeparator=None, scriptAsPrefix=None):
         # return the name, add extensions or not.
-
+        self.requestedScriptSeparator = SCRIPTSEPARATOR
+        self.requestedScriptAsPrefix = SCRIPTASPREFIX
+        if scriptSeparator is not None:
+            self.requestedScriptSeparator = scriptSeparator
+        if scriptAsPrefix is not None:
+            self.requestedScriptAsPrefix = scriptAsPrefix
         if self.uniName is None:
             # nothing to see here.
             return None
@@ -150,7 +141,11 @@ class GlyphName(GlyphNameProcessor):
             # for disambiguation
             if self.scriptTag != scriptPrefixes['latin'] and self.scriptTag != "":
                 if self.mustAddScript and self.scriptTag:
-                    return addScriptPrefix(self.uniNameProcessed, self.scriptTag)
+                    return addScriptPrefix(self.uniNameProcessed,
+                                self.scriptTag,
+                                scriptSeparator=self.requestedScriptSeparator,
+                                scriptAsPrefix=self.requestedScriptAsPrefix,
+                                )
             else:
                 return self.uniNameProcessed
         else:
@@ -288,6 +283,15 @@ if __name__ == "__main__":
         >>> g.handleCase()
         >>> g.getName()
         'a'
+        >>> g = GlyphName(uniNumber=0x0ABD)
+        >>> g.getName(scriptSeparator="$")  # no, this is not a proposal to use $ as a separator.
+        'gujr$avagraha'
+        >>> g.getName(scriptSeparator=":")
+        'gujr:avagraha'
+        >>> g.getName(scriptSeparator=":", scriptAsPrefix=True)
+        'gujr:avagraha'
+        >>> g.getName(scriptSeparator=":", scriptAsPrefix=False)
+        'avagraha:gujr'
         """
 
     doctest.testmod()
