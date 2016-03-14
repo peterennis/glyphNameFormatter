@@ -27,6 +27,7 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
     data = [
         "# Glyph Name Formatted Unicode List - GNFUL",
         "# GlyphNameFormatter version %s" % getExportVersionNumber(),
+        "# Source code: %s" % getGithubLink(),
         "# Generated on %s" % time.strftime("%Y %m %d %H:%M:%S"),
         "# <glyphName> <hex unicode>",
     ]
