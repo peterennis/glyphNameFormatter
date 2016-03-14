@@ -50,8 +50,8 @@ def testCoverage():
     text.append("## unicodedata.unidata_version: %s"%unicodedata.unidata_version)
     text.append("")
     text.append('| Total code points in the available ranges | %d |'%totalPoints)
-    text.append('| Total named glyphs | %d |'%totalGlyphs)
-    text.append('| Work done so far | %3.3f%%'%(100.0*totalCovered/totalGlyphs))
+    text.append('| Total named glyphs in the available ranges | %d |'%totalGlyphs)
+    text.append('| Work done so far | %3.3f%% |'%(100.0*totalCovered/totalGlyphs))
     text.append('| Total names covered in GlyphNameFormatter | %d |'%totalCovered)
 
     text.append("")
