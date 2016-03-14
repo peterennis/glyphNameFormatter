@@ -1,12 +1,11 @@
-from glyphNameFormatter.data.scriptPrefixes import addScriptPrefix
 
 
 def process(self):
     # edits go here
     self.edit("LATIN")
 
-    self.replace("CAPITAL LETTER ALPHA", addScriptPrefix("Alpha", script="latin"))
-    self.replace("CAPITAL LETTER TURNED ALPHA", addScriptPrefix("Alphaturned", script="latin"))
+    self.forceScriptPrefix("latin", "CAPITAL LETTER ALPHA", "Alpha")
+    self.forceScriptPrefix("latin", "CAPITAL LETTER TURNED ALPHA", "Alphaturned")
 
     self.replace("LETTER SMALL CAPITAL TURNED E", "Esmallturned")
 

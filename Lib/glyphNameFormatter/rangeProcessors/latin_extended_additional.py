@@ -1,4 +1,3 @@
-from glyphNameFormatter.data.scriptPrefixes import addScriptPrefix
 
 
 def process(self):
@@ -14,7 +13,7 @@ def process(self):
 
     self.replace("CAPITAL LETTER SHARP S", "Germandbls")
 
-    self.replace("SMALL LETTER DELTA", addScriptPrefix("delta", script="latin"))
+    self.forceScriptPrefix("latin", "SMALL LETTER DELTA", "delta")
 
     self.processAs("Helper Diacritics")
     self.handleCase()

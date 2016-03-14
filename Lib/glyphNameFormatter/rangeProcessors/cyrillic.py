@@ -1,5 +1,3 @@
-from glyphNameFormatter.data.scriptPrefixes import addScriptPrefix
-
 
 ukrainian = "ukr"
 

@@ -1,4 +1,3 @@
-from glyphNameFormatter.data.scriptPrefixes import addScriptPrefix
 
 
 def process(self):
@@ -33,9 +32,9 @@ def process(self):
 
     self.replace("LETTER CLICK", "click")
 
-    self.replace("CAPITAL LETTER GAMMA", addScriptPrefix("Gamma", script="latin"))
-    self.replace("CAPITAL LETTER IOTA", addScriptPrefix("Iota", script="latin"))
-    self.replace("CAPITAL LETTER UPSILON", addScriptPrefix("Upsilon", script="latin"))
+    self.forceScriptPrefix("latin", "CAPITAL LETTER GAMMA", "Gamma")
+    self.forceScriptPrefix("latin", "CAPITAL LETTER IOTA", "Iota")
+    self.forceScriptPrefix("latin", "CAPITAL LETTER UPSILON", "Upsilon")
 
     self.processAs("Helper Diacritics")
     self.processAs("Helper Shapes")

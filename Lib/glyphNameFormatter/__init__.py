@@ -29,25 +29,52 @@ class GlyphName(object):
 
     prefSpelling_dieresis = "dieresis"
 
-    def __init__(self, uniNumber=None, verbose=False):
+    def __init__(self, uniNumber=None, scriptSeparator=None, scriptAsPrefix=None, verbose=False):
         self.uniNumber = uniNumber
         self.uniLetter = None
         self.uniName = ""
         self.uniNameProcessed = self.uniName
         self.uniRangeName = "No Range"
-        self.letterCase = None
-        self.isLigature = False
         self.scriptTag = ""
+        if scriptSeparator is None:
+            scriptSeparator = SCRIPTSEPARATOR
+        if scriptAsPrefix is None:
+            scriptAsPrefix = SCRIPTASPREFIX
+        self._scriptSeparator = scriptSeparator
+        self._scriptAsPrefix = scriptAsPrefix
+        self.verbose = verbose
+        self.lookup()
+        self.process()
+
+    def _get_scriptSeparator(self):
+        return self._scriptSeparator
+
+    def _set_scriptSeparator(self, separator):
+        if separator == self._scriptSeparator:
+            return
+        self._scriptSeparator = separator
+        self.process()
+
+    scriptSeparator = property(_get_scriptSeparator, _set_scriptSeparator)
+
+    def _get_scriptAsPrefix(self):
+        return self._scriptAsPrefix
+
+    def _set_scriptAsPrefix(self, asPrefix):
+        if asPrefix == self._scriptAsPrefix:
+            return
+        self._scriptAsPrefix = asPrefix
+        self.process()
+
+    scriptAsPrefix = property(_get_scriptAsPrefix, _set_scriptAsPrefix)
+
+    def reset(self):
         self.languageSuffix = []
         self.suffixParts = []
         self.finalParts = []
         self.mustAddScript = False  # set to True if we need to add script to disambiguate
         self.statsPrefixRequested = False
         self._log = []
-        self.verbose = verbose
-
-        self.lookup()
-        self.process()
 
     def lookup(self):
         # look up all the external references we need.
@@ -122,13 +149,11 @@ class GlyphName(object):
                 self.replace(before, after)
 
     def getName(self, extension=True, scriptSeparator=None, scriptAsPrefix=None):
-        # return the name, add extensions or not.
-        self.requestedScriptSeparator = SCRIPTSEPARATOR
-        self.requestedScriptAsPrefix = SCRIPTASPREFIX
         if scriptSeparator is not None:
-            self.requestedScriptSeparator = scriptSeparator
+            self.scriptSeparator = scriptSeparator
         if scriptAsPrefix is not None:
-            self.requestedScriptAsPrefix = scriptAsPrefix
+            self.scriptAsPrefix = scriptAsPrefix
+        # return the name, add extensions or not.
         if self.uniName is None:
             # nothing to see here.
             return None
@@ -142,8 +167,8 @@ class GlyphName(object):
                 if self.mustAddScript and self.scriptTag:
                     return addScriptPrefix(self.uniNameProcessed,
                                 self.scriptTag,
-                                scriptSeparator=self.requestedScriptSeparator,
-                                scriptAsPrefix=self.requestedScriptAsPrefix,
+                                scriptSeparator=self.scriptSeparator,
+                                scriptAsPrefix=self.scriptAsPrefix,
                                 )
             else:
                 return self.uniNameProcessed
@@ -155,6 +180,8 @@ class GlyphName(object):
         return "%s\t\t%05x\t\t%s" % (self.getName(extension=False), self.uniNumber, self.uniName)
 
     def process(self):
+        # reset everything
+        self.reset()
         # try to find appropriate formatters and
         if self.uniNumber in preferredAGLNames:
             self.uniNameProcessed = preferredAGLNames[self.uniNumber]
@@ -205,8 +232,19 @@ class GlyphName(object):
             self.suffixParts.append(namePart)
 
     def scriptPrefix(self):
+        # should add a script prefix
         self.statsPrefixRequested = True
         self.mustAddScript = True
+
+    def forceScriptPrefix(self, rangeName, lookFor=None, replaceWith=None):
+        # Force add a prefix for a rangeName
+        # as default it will replace the already processed uni name
+        # optionally a pattern and replacement can be provided
+        if lookFor is None:
+            lookFor = self.uniNameProcessed
+        if replaceWith is None:
+            replaceWith = self.uniNameProcessed
+        self.replace(lookFor, addScriptPrefix(replaceWith, script=rangeName, scriptSeparator=self.scriptSeparator, scriptAsPrefix=self.scriptAsPrefix))
 
     def final(self, namePart):
         # add a final part, for things that have the really last, like name extensions
@@ -283,14 +321,19 @@ if __name__ == "__main__":
         >>> g.handleCase()
         >>> g.getName()
         'a'
-        >>> g = GlyphName(uniNumber=0x0ABD)
-        >>> g.getName(scriptSeparator="$")  # no, this is not a proposal to use $ as a separator.
+        >>> g = GlyphName(uniNumber=0x0ABD, scriptSeparator="$")
+        >>> g.getName()  # no, this is not a proposal to use $ as a separator.
         'gujr$avagraha'
-        >>> g.getName(scriptSeparator=":")
+        >>> g.scriptSeparator = ":"
+        >>> g.getName()
         'gujr:avagraha'
-        >>> g.getName(scriptSeparator=":", scriptAsPrefix=True)
+        >>> g.scriptSeparator = ":"
+        >>> g.scriptAsPrefix = True
+        >>> g.getName()
         'gujr:avagraha'
-        >>> g.getName(scriptSeparator=":", scriptAsPrefix=False)
+        >>> g.scriptSeparator = ":"
+        >>> g.scriptAsPrefix = False
+        >>> g.getName()
         'avagraha:gujr'
         """
 

@@ -157,5 +157,5 @@ if __name__ == "__main__":
             prefixes[pf].append(n)
         from pprint import pprint
         pprint(prefixes)
-    
+
     testAllPrefixes()

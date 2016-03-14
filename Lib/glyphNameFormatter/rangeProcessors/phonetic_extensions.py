@@ -1,4 +1,3 @@
-from glyphNameFormatter.data.scriptPrefixes import addScriptPrefix
 
 
 def process(self):
@@ -41,11 +40,9 @@ def process(self):
     if self.has("GREEK"):
         self.edit("GREEK")
         self.handleCase()
-        #self.uniNameProcessed = addScriptPrefix(self.uniNameProcessed, script="greek")
     elif self.has("CYRILLIC"):
         self.edit("CYRILLIC")
         self.handleCase()
-        #self.uniNameProcessed = addScriptPrefix(self.uniNameProcessed, script="cyrillic")
     else:
         self.handleCase()
 
