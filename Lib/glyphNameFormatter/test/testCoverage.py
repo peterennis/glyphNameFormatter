@@ -49,6 +49,8 @@ def testCoverage():
     text.append("")
     text.append("## unicodedata.unidata_version: %s"%unicodedata.unidata_version)
     text.append("")
+
+    text.append("| ----- | ----- |")
     text.append('| Total code points in the available ranges | %d |'%totalPoints)
     text.append('| Total named glyphs in the available ranges | %d |'%totalGlyphs)
     text.append('| Work done so far | %3.3f%% |'%(100.0*totalCovered/totalGlyphs))
@@ -62,7 +64,11 @@ def testCoverage():
         if not thisRange in glyphCount: continue
         a, b = getRangeByName(thisRange)
         items = glyphCount[thisRange]
-        text.append("| %s | %s | %04X | %04X |"%(thisRange, items['rangeProcessor']!=None, a, b))
+        if items['rangeProcessor']!=None:
+            has = "**Yes**"
+        else:
+            has = "No"
+        text.append("| %s | %s | %04X | %04X |"%(thisRange, has, a, b))
 
     text.append("\n\n")
     path = "../../../coverage.md"
