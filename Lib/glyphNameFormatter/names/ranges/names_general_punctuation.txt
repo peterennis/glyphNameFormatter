@@ -19,7 +19,7 @@
 2011	nonbreakinghyphen	NON-BREAKING HYPHEN
 2012	figuredash	FIGURE DASH
 2013	endash	EN DASH
-2014	gnrl-emdash	EM DASH
+2014	emdash	EM DASH
 2015	horizontalbar	HORIZONTAL BAR
 2016	verticalbardbl	DOUBLE VERTICAL LINE
 2017	underscoredbl	DOUBLE LOW LINE
@@ -37,17 +37,17 @@
 2023	triangularbullet	TRIANGULAR BULLET
 2024	onedotenleader	ONE DOT LEADER
 2025	twodotenleader	TWO DOT LEADER
-2026	gnrl-ellipsis	HORIZONTAL ELLIPSIS
+2026	ellipsis	HORIZONTAL ELLIPSIS
 2027	hyphenationpoint	HYPHENATION POINT
 2028	lineseparator	LINE SEPARATOR
-2029	gnrl-paragraphseparator	PARAGRAPH SEPARATOR
+2029	paragraphseparator	PARAGRAPH SEPARATOR
 202A	lefttorightembed	LEFT-TO-RIGHT EMBEDDING
 202B	righttoleftembed	RIGHT-TO-LEFT EMBEDDING
 202C	popdirectionalformatting	POP DIRECTIONAL FORMATTING
 202D	lefttorightoverride	LEFT-TO-RIGHT OVERRIDE
 202E	righttoleftoverride	RIGHT-TO-LEFT OVERRIDE
 202F	narrownobreakspace	NARROW NO-BREAK SPACE
-2030	gnrl-perthousand	PER MILLE SIGN
+2030	perthousand	PER MILLE SIGN
 2031	pertenthousandsign	PER TEN THOUSAND SIGN
 2032	minute	PRIME
 2033	second	DOUBLE PRIME
@@ -61,7 +61,7 @@
 203B	referencemark	REFERENCE MARK
 203C	exclamdbl	DOUBLE EXCLAMATION MARK
 203D	interrobang	INTERROBANG
-203E	gnrl-overline	OVERLINE
+203E	overline	OVERLINE
 203F	undertie	UNDERTIE
 2040	charactertie	CHARACTER TIE
 2041	caretinsertionpoint	CARET INSERTION POINT

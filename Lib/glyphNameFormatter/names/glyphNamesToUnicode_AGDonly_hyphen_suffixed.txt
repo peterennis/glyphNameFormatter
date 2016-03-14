@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 300
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/0e0fc55
+# GlyphNameFormatter version 0.1 - git commit: 303
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/2131c2f
 
-# Generated on 2016 03 14 15:46:27
+# Generated on 2016 03 15 00:02:10
 # <glyphName> <hex unicode>
 # Separator "-"
 # Prefixed "False"
@@ -3520,6 +3520,92 @@ eighty-ethi 1379
 ninety-ethi 137A
 hundred-ethi 137B
 tenthousand-ethi 137C
+# Cherokee
+a-cher 13A0
+e-cher 13A1
+i-cher 13A2
+o-cher 13A3
+u-cher 13A4
+v-cher 13A5
+ga-cher 13A6
+ka-cher 13A7
+ge-cher 13A8
+gi-cher 13A9
+go-cher 13AA
+gu-cher 13AB
+gv-cher 13AC
+ha-cher 13AD
+he-cher 13AE
+hi-cher 13AF
+ho-cher 13B0
+hu-cher 13B1
+hv-cher 13B2
+la-cher 13B3
+le-cher 13B4
+li-cher 13B5
+lo-cher 13B6
+lu-cher 13B7
+lv-cher 13B8
+ma-cher 13B9
+me-cher 13BA
+mi-cher 13BB
+mo-cher 13BC
+mu-cher 13BD
+na-cher 13BE
+hna-cher 13BF
+nah-cher 13C0
+ne-cher 13C1
+ni-cher 13C2
+no-cher 13C3
+nu-cher 13C4
+nv-cher 13C5
+qua-cher 13C6
+que-cher 13C7
+qui-cher 13C8
+quo-cher 13C9
+quu-cher 13CA
+quv-cher 13CB
+sa-cher 13CC
+s-cher 13CD
+se-cher 13CE
+si-cher 13CF
+so-cher 13D0
+su-cher 13D1
+sv-cher 13D2
+da-cher 13D3
+ta-cher 13D4
+de-cher 13D5
+te-cher 13D6
+di-cher 13D7
+ti-cher 13D8
+do-cher 13D9
+du-cher 13DA
+dv-cher 13DB
+dla-cher 13DC
+tla-cher 13DD
+tle-cher 13DE
+tli-cher 13DF
+tlo-cher 13E0
+tlu-cher 13E1
+tlv-cher 13E2
+tsa-cher 13E3
+tse-cher 13E4
+tsi-cher 13E5
+tso-cher 13E6
+tsu-cher 13E7
+tsv-cher 13E8
+wa-cher 13E9
+we-cher 13EA
+wi-cher 13EB
+wo-cher 13EC
+wu-cher 13ED
+wv-cher 13EE
+ya-cher 13EF
+ye-cher 13F0
+yi-cher 13F1
+yo-cher 13F2
+yu-cher 13F3
+yv-cher 13F4
 # Mongolian
 birga-mong 1800
 ellipsis-mong 1801
@@ -7473,7 +7559,7 @@ seven-java A9D7
 eight-java A9D8
 nine-java A9D9
 tirtatumetespada A9DE
-# Latin Extended-E
+# Cherokee Supplement
 # Private Use Area
 # Alphabetic Presentation Forms
 f_f FB00
@@ -8673,7 +8759,6 @@ dominovertical_06_03 1F090
 dominovertical_06_04 1F091
 dominovertical_06_05 1F092
 dominovertical_06_06 1F093
-# Playing Cards
 # Enclosed Alphanumeric Supplement
 zerofullstop 1F100
 zerocomma 1F101

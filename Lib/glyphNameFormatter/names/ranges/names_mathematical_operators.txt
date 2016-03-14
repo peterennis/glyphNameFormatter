@@ -161,10 +161,10 @@
 229F	squaredminus	SQUARED MINUS
 22A0	squaredtimes	SQUARED TIMES
 22A1	squareddotoperator	SQUARED DOT OPERATOR
-22A2	math-tackright	RIGHT TACK
-22A3	math-tackleft	LEFT TACK
+22A2	tackright	RIGHT TACK
+22A3	tackleft	LEFT TACK
 22A4	tackdown	DOWN TACK
-22A5	math-perpendicular	UP TACK
+22A5	tackup	UP TACK
 22A6	assertion	ASSERTION
 22A7	models	MODELS
 22A8	true	TRUE
@@ -241,7 +241,7 @@
 22EF	ellipsismidhorizontal	MIDLINE HORIZONTAL ELLIPSIS
 22F0	ellipsisdiagonalupright	UP RIGHT DIAGONAL ELLIPSIS
 22F1	ellipsisdiagonaldownright	DOWN RIGHT DIAGONAL ELLIPSIS
-22F2	elementhorizontalstroke	ELEMENT OF WITH LONG HORIZONTAL STROKE
+22F2	elementlonghorizontalstroke	ELEMENT OF WITH LONG HORIZONTAL STROKE
 22F3	elementverticalbarhorizontalstroke	ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
 22F4	elementsmallverticalbarhorizontalstroke	SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
 22F5	elementdotabove	ELEMENT OF WITH DOT ABOVE
@@ -249,7 +249,7 @@
 22F7	elementoverbarsmall	SMALL ELEMENT OF WITH OVERBAR
 22F8	elementunderbar	ELEMENT OF WITH UNDERBAR
 22F9	elementtwoshorizontalstroke	ELEMENT OF WITH TWO HORIZONTAL STROKES
-22FA	containshorizontalstroke	CONTAINS WITH LONG HORIZONTAL STROKE
+22FA	containslonghorizontalstroke	CONTAINS WITH LONG HORIZONTAL STROKE
 22FB	containsverticalbarhorizontalstroke	CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
 22FC	containssmallverticalbarhorizontalstroke	SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE
 22FD	containsoverbar	CONTAINS WITH OVERBAR

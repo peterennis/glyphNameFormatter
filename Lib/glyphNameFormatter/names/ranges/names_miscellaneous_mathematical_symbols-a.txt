@@ -1,7 +1,7 @@
 # Miscellaneous Mathematical Symbols-A 27C0 - 27EF
 27C0	threedimensionalangle	THREE DIMENSIONAL ANGLE
 27C1	tricontainingtriwhiteanglesmall	WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE
-27C2	math-perpendicular	PERPENDICULAR
+27C2	perpendicular	PERPENDICULAR
 27C3	opensubset	OPEN SUBSET
 27C4	opensuperset	OPEN SUPERSET
 27C5	bagdelimitersshapeleft	LEFT S-SHAPED BAG DELIMITER
@@ -10,7 +10,7 @@
 27C8	solidussubsetreversepreceding	REVERSE SOLIDUS PRECEDING SUBSET
 27C9	solidussupersetpreceding	SUPERSET PRECEDING SOLIDUS
 27CA	verticalbarhorizontalstroke	VERTICAL BAR WITH HORIZONTAL STROKE
-27CC	division	LONG DIVISION
+27CC	longdivision	LONG DIVISION
 27D0	centreddotwhitediamond	WHITE DIAMOND WITH CENTRED DOT
 27D1	dot	AND WITH DOT
 27D2	elementopeningup	ELEMENT OF OPENING UPWARDS
@@ -24,8 +24,8 @@
 27DA	turnstileleftrightdbl	LEFT AND RIGHT DOUBLE TURNSTILE
 27DB	tackleftright	LEFT AND RIGHT TACK
 27DC	multimapleft	LEFT MULTIMAP
-27DD	math-tackright	LONG RIGHT TACK
-27DE	math-tackleft	LONG LEFT TACK
+27DD	longtackright	LONG RIGHT TACK
+27DE	longtackleft	LONG LEFT TACK
 27DF	tackcircleaboveup	UP TACK WITH CIRCLE ABOVE
 27E0	lozengedividedbyrulehorizontal	LOZENGE DIVIDED BY HORIZONTAL RULE
 27E1	convavediamondwhite	WHITE CONCAVE-SIDED DIAMOND
