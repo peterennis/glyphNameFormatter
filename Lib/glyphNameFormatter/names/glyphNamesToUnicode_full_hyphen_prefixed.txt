@@ -1,6 +1,6 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 284
-# Generated on 2016 03 14 13:46:01
+# GlyphNameFormatter version 0.1 - git commit: 285
+# Generated on 2016 03 14 13:56:47
 # <glyphName> <hex unicode>
 # Separator "-"
 # Prefixed "True"
