@@ -12,7 +12,7 @@ from pprint import pprint
 
 def testCoverage():
     text = []
-    text.append("# Coverage")
+    text.append("\n\n# Coverage")
     wantRanges = {}
     glyphCount = {}
     for thisRange in getAllRangeNames():
@@ -51,7 +51,7 @@ def testCoverage():
     text.append("")
     text.append('| Total code points in the available ranges | %d |'%totalPoints)
     text.append('| Total named glyphs | %d |'%totalGlyphs)
-    text.append(('| Work done so far | %d |'%(totalGlyphs-totalCovered)) + " or %3.3f%%"%(100.0*totalCovered/totalGlyphs))
+    text.append('| Work done so far | %3.3f%%'%(100.0*totalCovered/totalGlyphs))
     text.append('| Total names covered in GlyphNameFormatter | %d |'%totalCovered)
 
     text.append("")
@@ -64,6 +64,7 @@ def testCoverage():
         items = glyphCount[thisRange]
         text.append("| %s | %s | %04X | %04X |"%(thisRange, items['rangeProcessor']!=None, a, b))
 
+    text.append("\n\n")
     path = "../../../coverage.md"
     f = open(path, 'w')
     f.write("\n".join(text))

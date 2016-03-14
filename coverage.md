@@ -3,7 +3,7 @@
 
 | Total code points in the available ranges | 126398 |
 | Total named glyphs | 107217 |
-| Work done so far | 98477 | or 8.152%
+| Work done so far | 8.152%
 | Total names covered in GlyphNameFormatter | 8740 |
 
 | Range name | has processor | Start | End |
@@ -266,3 +266,5 @@
 | CJK Compatibility Ideographs Supplement | False | 2F800 | 2FA1F |
 | Tags | False | E0000 | E007F |
 | Variation Selectors Supplement | False | E0100 | E01EF |
+
+
