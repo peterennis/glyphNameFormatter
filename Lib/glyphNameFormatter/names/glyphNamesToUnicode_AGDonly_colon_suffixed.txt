@@ -1,6 +1,6 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 281
-# Generated on 2016 03 13 23:00:10
+# GlyphNameFormatter version 0.1 - git commit: 284
+# Generated on 2016 03 14 13:45:38
 # <glyphName> <hex unicode>
 # Separator ":"
 # Prefixed "False"
@@ -7471,7 +7471,6 @@ seven:java A9D7
 eight:java A9D8
 nine:java A9D9
 tirtatumetespada A9DE
-# Latin Extended-E
 # Private Use Area
 # Alphabetic Presentation Forms
 f_f FB00

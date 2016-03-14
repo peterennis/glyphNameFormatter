@@ -8,5 +8,5 @@ def process(self):
     self.edit('ISOLATED FORM', ".isol")
 
 if __name__ == "__main__":
-    from glyphNameFormatter.test import printRange
+    from glyphNameFormatter.exporters import printRange
     printRange("Helper Arabic Positions")

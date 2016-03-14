@@ -12,5 +12,5 @@ def process(self):
     self.edit("CANDRA", "candra")
 
 if __name__ == "__main__":
-    from glyphNameFormatter.test import printRange
+    from glyphNameFormatter.exporters import printRange
     printRange("Helper Indic")

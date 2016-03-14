@@ -13,5 +13,5 @@ def process(self):
     self.compress()
 
 if __name__ == "__main__":
-    from glyphNameFormatter.test import printRange
+    from glyphNameFormatter.exporters import printRange
     printRange("Enclosed Alphanumerics")
