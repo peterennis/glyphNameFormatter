@@ -1792,12 +1792,6 @@
   30BF : kata-ta                                           takatakana               kata-ta                                 Katakana                                KATAKANA LETTER TA  
   A9A0 : java-ta                                           -                        java-ta                                 Javanese                                JAVANESE LETTER TA  
 
-  22A3 : math-tackleft                                     tackleft                 math-tackleft                           Mathematical Operators                  LEFT TACK           
-  27DE : math-tackleft                                     -                        math-tackleft                           Miscellaneous Mathematical Symbols-A    LONG LEFT TACK      
-
-  22A2 : math-tackright                                    -                        math-tackright                          Mathematical Operators                  RIGHT TACK          
-  27DD : math-tackright                                    -                        math-tackright                          Miscellaneous Mathematical Symbols-A    LONG RIGHT TACK     
-
    442 : tecyr                                             te                       tecyr                                   Cyrillic                                CYRILLIC SMALL LETTER TE
   1275 : ethi-te                                           -                        ethi-te                                 Ethiopic                                ETHIOPIC SYLLABLE TE
   3066 : hira-te                                           tehiragana               hira-te                                 Hiragana                                HIRAGANA LETTER TE  
@@ -2215,7 +2209,7 @@
   12D9 : ethi-zu                                           -                        ethi-zu                                 Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hira-zu                                           zuhiragana               hira-zu                                 Hiragana                                HIRAGANA LETTER ZU  
   30BA : kata-zu                                           zukatakana               kata-zu                                 Katakana                                KATAKANA LETTER ZU  
-# 414 names with conflicts, affecting 1801 unicodes
+# 412 names with conflicts, affecting 1797 unicodes
 
 
 Conflicts by rangename
@@ -3701,13 +3695,9 @@ Mathematical Operators
   221B : math-cuberoot                                     -                        math-cuberoot                           Mathematical Operators                  CUBE ROOT           
   221C : math-fourthroot                                   -                        math-fourthroot                         Mathematical Operators                  FOURTH ROOT         
   22A5 : math-perpendicular                                perpendicular            math-perpendicular                      Mathematical Operators                  UP TACK             
-  22A3 : math-tackleft                                     tackleft                 math-tackleft                           Mathematical Operators                  LEFT TACK           
-  22A2 : math-tackright                                    -                        math-tackright                          Mathematical Operators                  RIGHT TACK          
 
 Miscellaneous Mathematical Symbols-A
   27C2 : math-perpendicular                                -                        math-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
-  27DE : math-tackleft                                     -                        math-tackleft                           Miscellaneous Mathematical Symbols-A    LONG LEFT TACK      
-  27DD : math-tackright                                    -                        math-tackright                          Miscellaneous Mathematical Symbols-A    LONG RIGHT TACK     
 
 Miscellaneous Mathematical Symbols-B
   2985 : misc-leftwhiteparenthesis                         -                        misc-leftwhiteparenthesis               Miscellaneous Mathematical Symbols-B    LEFT WHITE PARENTHESIS
@@ -4126,3 +4116,28 @@ Vertical Forms
   FE12 : vert-ideographicfullstop                          -                        vert-ideographicfullstop                Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP
   FE16 : vert-question                                     questionvert             vert-question                           Vertical Forms                          PRESENTATION FORM FOR VERTICAL QUESTION MARK
   FE14 : vert-semicolon                                    semicolonvert            vert-semicolon                          Vertical Forms                          PRESENTATION FORM FOR VERTICAL SEMICOLON
+
+
+Doubles over all ranges
+   512 : Elhookcyr                                         zukatakana               Elhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH HOOK
+   520 : Elhookcyr                                         zukatakana               Elhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK
+   4C7 : Enhookcyr                                         zukatakana               Enhookcyr                               Cyrillic                                CYRILLIC CAPITAL LETTER EN WITH HOOK
+   522 : Enhookcyr                                         zukatakana               Enhookcyr                               Cyrillic Supplement                     CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK
+   417 : Zecyr                                             zukatakana               Zecyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER ZE
+   510 : Zecyr                                             zukatakana               Zecyr                                   Cyrillic Supplement                     CYRILLIC CAPITAL LETTER REVERSED ZE
+   64D : ar-kasratan                                       zukatakana               ar-kasratan                             Arabic                                  ARABIC KASRATAN     
+  FE74 : ar-kasratan                                       zukatakana               ar-kasratan                             Arabic Presentation Forms-B             ARABIC KASRATAN ISOLATED FORM
+   513 : elhookcyr                                         zukatakana               elhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH HOOK
+   521 : elhookcyr                                         zukatakana               elhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
+   4C8 : enhookcyr                                         zukatakana               enhookcyr                               Cyrillic                                CYRILLIC SMALL LETTER EN WITH HOOK
+   523 : enhookcyr                                         zukatakana               enhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
+  2014 : gnrl-emdash                                       zukatakana               gnrl-emdash                             General Punctuation                     EM DASH             
+  FE58 : gnrl-emdash                                       zukatakana               gnrl-emdash                             Small Form Variants                     SMALL EM DASH       
+  2010 : gnrl-hyphen                                       zukatakana               gnrl-hyphen                             General Punctuation                     HYPHEN              
+  FE63 : gnrl-hyphen                                       zukatakana               gnrl-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
+  22A5 : math-perpendicular                                zukatakana               math-perpendicular                      Mathematical Operators                  UP TACK             
+  27C2 : math-perpendicular                                zukatakana               math-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
+  1D60 : phon-phimod                                       zukatakana               phon-phimod                             Phonetic Extensions                     MODIFIER LETTER SMALL GREEK PHI
+  1DB2 : phon-phimod                                       zukatakana               phon-phimod                             Phonetic Extensions Supplement          MODIFIER LETTER SMALL PHI
+   437 : zecyr                                             zukatakana               zecyr                                   Cyrillic                                CYRILLIC SMALL LETTER ZE
+   511 : zecyr                                             zukatakana               zecyr                                   Cyrillic Supplement                     CYRILLIC SMALL LETTER REVERSED ZE

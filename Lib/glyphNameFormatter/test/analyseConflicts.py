@@ -9,6 +9,7 @@ from glyphNameFormatter.data import unicode2name_AGD
 
 def findConflict():
     names = {}
+    extendedNames = {}
     lines = []
     for rangeName in getAllRangeNames():
         start, end = getRangeByName(rangeName)
@@ -18,9 +19,12 @@ def findConflict():
                 # lines.append("%04X\t%s\t%s" % (uniNumber, glyphName.getName(), glyphName.uniName))
                 name = glyphName.getName(extension=False)
                 extendedName = glyphName.getName(extension=True)
-                if not name in names:
+                if name not in names:
                     names[name] = []
                 names[name].append(glyphName)
+                if extendedName not in extendedNames:
+                    extendedNames[extendedName] = []
+                extendedNames[extendedName].append(glyphName)
     n = names.keys()
     n.sort()
 
@@ -64,6 +68,18 @@ def findConflict():
         lines.append("\n%s"%rangeName)
         for line in conflictsPerRange[rangeName]:
             lines.append(line)
+
+    lines.append("")
+    lines.append("")
+    lines.append("Doubles over all ranges")
+    for extenedName in sorted(extendedNames.keys()):
+        glyphs = extendedNames[extenedName]
+        if len(glyphs) > 1:
+            for g in glyphs:
+                line = "{0:>6X} : {1:<50}{2:<25}{3:<40}{4:<40}{5:<20}".format(g.uniNumber, g.getName(), AGLname[:25], g.getName(), g.uniRangeName[:40], g.uniName)
+                print(line)
+                lines.append(line)
+
     path = "./../names/conflict.txt"
     f = open(path, 'w')
     f.write("\n".join(lines))

@@ -341,8 +341,6 @@ scriptConflictNames = [
     "su",
     "t",
     "ta",
-    "tackleft",
-    "tackright",
     "te",
     "ten",
     "tha",
