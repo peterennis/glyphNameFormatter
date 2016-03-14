@@ -30,7 +30,7 @@ def process(self):
     self.replace("GREATER-THAN", "greater")
     self.replace("OPERATOR", "operator")
     self.replace("WITH")
-    self.replace("LONG")
+    self.replace("LONG", "long")
     self.replace("SIGN")
     self.replace("-OR-")
     self.replace("TO")
@@ -40,6 +40,7 @@ def process(self):
 
     self.lower()
     self.compress()
+
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
