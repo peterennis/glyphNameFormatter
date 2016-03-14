@@ -11,6 +11,8 @@ from pprint import pprint
 #   so we can prioritize the support
 
 def testCoverage():
+    text = []
+    text.append("# Coverage")
     wantRanges = {}
     glyphCount = {}
     for thisRange in getAllRangeNames():
@@ -43,11 +45,29 @@ def testCoverage():
         if items['rangeProcessor'] is not None:
             totalCovered += items['uniNames']
 
-    print("unicodedata.unidata_version", unicodedata.unidata_version)
-    print('total code points in the available ranges', totalPoints)
-    print('total named glyphs', totalGlyphs)
-    print('work:', totalGlyphs-totalCovered, "or %3.3f%%"%(100.0*totalCovered/totalGlyphs))
-    print('total names covered in GlyphNameFormatter', totalCovered)
+    text = []
+    text.append("")
+    text.append("unicodedata.unidata_version: %s"%unicodedata.unidata_version)
+    text.append("")
+    text.append('Total code points in the available ranges: %d'%totalPoints)
+    text.append('Total named glyphs: %d'%totalGlyphs)
+    text.append(('Work done so far: %d'%(totalGlyphs-totalCovered)) + " or %3.3f%%"%(100.0*totalCovered/totalGlyphs))
+    text.append('Total names covered in GlyphNameFormatter: %d'%totalCovered)
+
+    text.append("")
+    text.append("| Range name | has processor | Start | End |")
+    text.append("| ----- | ----- | ----- | ----- |")
+
+    for thisRange in getAllRangeNames():
+        if not thisRange in glyphCount: continue
+        a, b = getRangeByName(thisRange)
+        items = glyphCount[thisRange]
+        text.append("| %s | %s | %04X | %04X |"%(thisRange, items['rangeProcessor']!=None, a, b))
+
+    path = "../../../coverage.md"
+    f = open(path, 'w')
+    f.write("\n".join(text))
+    f.close()
 
 
 if __name__ == "__main__":
