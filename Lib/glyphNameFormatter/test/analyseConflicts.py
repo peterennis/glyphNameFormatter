@@ -55,7 +55,7 @@ def findConflict():
                 if not rangeName in conflictsPerRange:
                     conflictsPerRange[rangeName] = []
                 conflictsPerRange[rangeName].append(line)
-    stats =  "# %d names with conflicts, affecting %d unicodes"%(len(conflictNames), len(conflictUniNumbers))
+    stats = "# %d names with conflicts, affecting %d unicodes"%(len(conflictNames), len(conflictUniNumbers))
     print(stats)
     lines.append(stats)
 
@@ -72,13 +72,22 @@ def findConflict():
     lines.append("")
     lines.append("")
     lines.append("Doubles over all ranges")
+    count = 0
+    doubleCount = 0
     for extenedName in sorted(extendedNames.keys()):
         glyphs = extendedNames[extenedName]
-        if len(glyphs) > 1:
+        total = len(glyphs)
+        count += total
+        if total > 1:
+            doubleCount += total
             for g in glyphs:
                 line = "{0:>6X} : {1:<50}{2:<25}{3:<40}{4:<40}{5:<20}".format(g.uniNumber, g.getName(), AGLname[:25], g.getName(), g.uniRangeName[:40], g.uniName)
                 print(line)
                 lines.append(line)
+
+    lines.append("")
+    lines.append("")
+    lines.append("Generated %s glyph names with %s doubles" % (count, doubleCount))
 
     path = "./../names/conflict.txt"
     f = open(path, 'w')
@@ -104,7 +113,7 @@ if __name__ == "__main__":
         line = "{0:->6s} + {1:-<50}{2:-<25}{3:-<40}{4:<40}".format("", "", "+", "+", "+")
         print(line)
         for i in range(10):
-            g= glyphNameFormatter.GlyphName(randint(0,0xffff))
+            g = glyphNameFormatter.GlyphName(randint(0,0xffff))
             line = "{0:>6X} : {1:<50}{2:<25}{3:<40}{4:<40}".format(g.uniNumber, g.getName(), "AGLname"[:25], g.getName(), g.uniRangeName[:40])
             print(line)
     findConflict()
