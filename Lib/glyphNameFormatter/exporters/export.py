@@ -17,17 +17,21 @@ def getExportVersionNumber():
     commitNumber = commitNumber.strip()
     return "%s - git commit: %s" % (__version__, commitNumber)
 
+_versionNumber = getExportVersionNumber()
+
 
 def getGithubLink():
     commithash = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'],  cwd=os.path.dirname(__file__))
     return "https://github.com/LettError/glyphNameFormatter/tree/%s" % commithash
 
+_githubLink = getGithubLink()
+
 
 def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=None):
     data = [
         "# Glyph Name Formatted Unicode List - GNFUL",
-        "# GlyphNameFormatter version %s" % getExportVersionNumber(),
-        "# Source code: %s" % getGithubLink(),
+        "# GlyphNameFormatter version %s" % _versionNumber,
+        "# Source code: %s" % _githubLink,
         "# Generated on %s" % time.strftime("%Y %m %d %H:%M:%S"),
         "# <glyphName> <hex unicode>",
     ]

@@ -1,11 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-<<<<<<< HEAD
-# GlyphNameFormatter version 0.1 - git commit: 284
-# Generated on 2016 03 14 10:31:17
-=======
-# GlyphNameFormatter version 0.1 - git commit: 285
-# Generated on 2016 03 14 13:57:08
->>>>>>> restructure-test-and-exporters
+# GlyphNameFormatter version 0.1 - git commit: 300
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/0e0fc55
+
+# Generated on 2016 03 14 15:46:27
 # <glyphName> <hex unicode>
 # Separator "-"
 # Prefixed "False"
@@ -3755,12 +3752,12 @@ Zsmall-phon 1D22
 Ezhsmall-phon 1D23
 spirantvoicedlaryngeal-phon 1D24
 ain-phon 1D25
-Gammasmall-phon 1D26
-Lambdasmall-phon 1D27
-Pismall-phon 1D28
-RsmallHO-phon 1D29
-Psismall-phon 1D2A
-ELsmall-phon 1D2B
+Gamma-grsmall-phon 1D26
+Lambda-grsmall-phon 1D27
+Pi-grsmall-phon 1D28
+RsmallHO-gr-phon 1D29
+Psi-grsmall-phon 1D2A
+ELsmallcyr-phon 1D2B
 Amod-phon 1D2C
 Aemod-phon 1D2D
 Bmod-phon 1D2E
@@ -3811,19 +3808,19 @@ mturnedmod-phon 1D5A
 vmod-phon 1D5B
 ainmod-phon 1D5C
 betamod-phon 1D5D
-gammamod-phon 1D5E
+gamma-grmod-phon 1D5E
 deltamod-phon 1D5F
-phimod-phon 1D60
+phi-grmod-phon 1D60
 chimod-phon 1D61
 isubscript-phon 1D62
 rsubscript-phon 1D63
 usubscript-phon 1D64
 vsubscript-phon 1D65
-betasubscript-phon 1D66
-gammasubscript-phon 1D67
-rhosubscript-phon 1D68
-phisubscript-phon 1D69
-chisubscript-phon 1D6A
+beta-grsubscript-phon 1D66
+gamma-grsubscript-phon 1D67
+rho-grsubscript-phon 1D68
+phi-grsubscript-phon 1D69
+chi-grsubscript-phon 1D6A
 ue-phon 1D6B
 bmiddletilde-phon 1D6C
 dmiddletilde-phon 1D6D
@@ -3837,7 +3834,7 @@ smiddletilde-phon 1D74
 tmiddletilde-phon 1D75
 zmiddletilde-phon 1D76
 gturned-phon 1D77
-ENmod-phon 1D78
+ENcyrmod-phon 1D78
 ginsular-phon 1D79
 thstrike-phon 1D7A
 Ismallstroke-phon 1D7B
@@ -4461,7 +4458,7 @@ hyphen-gnrl 2010
 nonbreakinghyphen 2011
 figuredash 2012
 endash 2013
-emdash-gnrl 2014
+emdash 2014
 horizontalbar 2015
 verticalbardbl 2016
 underscoredbl 2017
@@ -4479,17 +4476,17 @@ bullet 2022
 triangularbullet 2023
 onedotenleader 2024
 twodotenleader 2025
-ellipsis-gnrl 2026
+ellipsis 2026
 hyphenationpoint 2027
 lineseparator 2028
-paragraphseparator-gnrl 2029
+paragraphseparator 2029
 lefttorightembed 202A
 righttoleftembed 202B
 popdirectionalformatting 202C
 lefttorightoverride 202D
 righttoleftoverride 202E
 narrownobreakspace 202F
-perthousand-gnrl 2030
+perthousand 2030
 pertenthousandsign 2031
 minute 2032
 second 2033
@@ -4503,7 +4500,7 @@ guilsinglright 203A
 referencemark 203B
 exclamdbl 203C
 interrobang 203D
-overline-gnrl 203E
+overline 203E
 undertie 203F
 charactertie 2040
 caretinsertionpoint 2041
@@ -5022,10 +5019,10 @@ squaredplus 229E
 squaredminus 229F
 squaredtimes 22A0
 squareddotoperator 22A1
-tackright-math 22A2
-tackleft-math 22A3
+tackright 22A2
+tackleft 22A3
 tackdown 22A4
-perpendicular-math 22A5
+tackup 22A5
 assertion 22A6
 models 22A7
 true 22A8
@@ -5102,7 +5099,7 @@ ellipsisvertical 22EE
 ellipsismidhorizontal 22EF
 ellipsisdiagonalupright 22F0
 ellipsisdiagonaldownright 22F1
-elementhorizontalstroke 22F2
+elementlonghorizontalstroke 22F2
 elementverticalbarhorizontalstroke 22F3
 elementsmallverticalbarhorizontalstroke 22F4
 elementdotabove 22F5
@@ -5110,7 +5107,7 @@ elementoverbar 22F6
 elementoverbarsmall 22F7
 elementunderbar 22F8
 elementtwoshorizontalstroke 22F9
-containshorizontalstroke 22FA
+containslonghorizontalstroke 22FA
 containsverticalbarhorizontalstroke 22FB
 containssmallverticalbarhorizontalstroke 22FC
 containsoverbar 22FD
@@ -6246,7 +6243,7 @@ arrowrightoutlinedopen-dngb 27BE
 # Miscellaneous Mathematical Symbols-A
 threedimensionalangle 27C0
 tricontainingtriwhiteanglesmall 27C1
-perpendicular-math 27C2
+perpendicular 27C2
 opensubset 27C3
 opensuperset 27C4
 bagdelimitersshapeleft 27C5
@@ -6255,7 +6252,7 @@ ordotinside 27C7
 solidussubsetreversepreceding 27C8
 solidussupersetpreceding 27C9
 verticalbarhorizontalstroke 27CA
-division 27CC
+longdivision 27CC
 centreddotwhitediamond 27D0
 dot 27D1
 elementopeningup 27D2
@@ -6269,8 +6266,8 @@ largetackdown 27D9
 turnstileleftrightdbl 27DA
 tackleftright 27DB
 multimapleft 27DC
-tackright-math 27DD
-tackleft-math 27DE
+longtackright 27DD
+longtackleft 27DE
 tackcircleaboveup 27DF
 lozengedividedbyrulehorizontal 27E0
 convavediamondwhite 27E1
@@ -7476,6 +7473,7 @@ seven-java A9D7
 eight-java A9D8
 nine-java A9D9
 tirtatumetespada A9DE
+# Latin Extended-E
 # Private Use Area
 # Alphabetic Presentation Forms
 f_f FB00
@@ -8175,31 +8173,31 @@ overlinedblwavy FE4C
 underscoredashed FE4D
 underscorecenterline FE4E
 # Small Form Variants
-comma-gnrl FE50
-ideographiccomma-gnrl FE51
-period-gnrl FE52
-semicolon-gnrl FE54
-colon-gnrl FE55
-question-gnrl FE56
-exclam-gnrl FE57
-emdash-gnrl FE58
-parenthesisleft-gnrl FE59
-parenthesisright-gnrl FE5A
-braceleft-gnrl FE5B
-braceright-gnrl FE5C
-tortoiseshellbracketleft-gnrl FE5D
-tortoiseshellbracketright-gnrl FE5E
-numbersign-gnrl FE5F
-ampersand-gnrl FE60
-asterisk-gnrl FE61
-plus-gnrl FE62
-hyphen-gnrl FE63
-less-gnrl FE64
-greater-gnrl FE65
-equal-gnrl FE66
-backslash-gnrl FE68
-dollar-gnrl FE69
-percent-gnrl FE6A
+comma-smll FE50
+ideographiccomma-smll FE51
+period-smll FE52
+semicolon-smll FE54
+colon-smll FE55
+question-smll FE56
+exclam-smll FE57
+emdash-smll FE58
+parenthesisleft-smll FE59
+parenthesisright-smll FE5A
+braceleft-smll FE5B
+braceright-smll FE5C
+tortoiseshellbracketleft-smll FE5D
+tortoiseshellbracketright-smll FE5E
+numbersign-smll FE5F
+ampersand-smll FE60
+asterisk-smll FE61
+plus-smll FE62
+hyphen-smll FE63
+less-smll FE64
+greater-smll FE65
+equal-smll FE66
+backslash-smll FE68
+dollar-smll FE69
+percent-smll FE6A
 commercialat FE6B
 # Arabic Presentation Forms-B
 fathatan.isol FE70
@@ -8574,6 +8572,108 @@ interlinearseparator FFFA
 interlinearterminator FFFB
 replacementcharobj FFFC
 replacementchar FFFD
+# Domino Tiles
+dominohorizontalback 1F030
+dominohorizontal_00_00 1F031
+dominohorizontal_00_01 1F032
+dominohorizontal_00_02 1F033
+dominohorizontal_00_03 1F034
+dominohorizontal_00_04 1F035
+dominohorizontal_00_05 1F036
+dominohorizontal_00_06 1F037
+dominohorizontal_01_00 1F038
+dominohorizontal_01_01 1F039
+dominohorizontal_01_02 1F03A
+dominohorizontal_01_03 1F03B
+dominohorizontal_01_04 1F03C
+dominohorizontal_01_05 1F03D
+dominohorizontal_01_06 1F03E
+dominohorizontal_02_00 1F03F
+dominohorizontal_02_01 1F040
+dominohorizontal_02_02 1F041
+dominohorizontal_02_03 1F042
+dominohorizontal_02_04 1F043
+dominohorizontal_02_05 1F044
+dominohorizontal_02_06 1F045
+dominohorizontal_03_00 1F046
+dominohorizontal_03_01 1F047
+dominohorizontal_03_02 1F048
+dominohorizontal_03_03 1F049
+dominohorizontal_03_04 1F04A
+dominohorizontal_03_05 1F04B
+dominohorizontal_03_06 1F04C
+dominohorizontal_04_00 1F04D
+dominohorizontal_04_01 1F04E
+dominohorizontal_04_02 1F04F
+dominohorizontal_04_03 1F050
+dominohorizontal_04_04 1F051
+dominohorizontal_04_05 1F052
+dominohorizontal_04_06 1F053
+dominohorizontal_05_00 1F054
+dominohorizontal_05_01 1F055
+dominohorizontal_05_02 1F056
+dominohorizontal_05_03 1F057
+dominohorizontal_05_04 1F058
+dominohorizontal_05_05 1F059
+dominohorizontal_05_06 1F05A
+dominohorizontal_06_00 1F05B
+dominohorizontal_06_01 1F05C
+dominohorizontal_06_02 1F05D
+dominohorizontal_06_03 1F05E
+dominohorizontal_06_04 1F05F
+dominohorizontal_06_05 1F060
+dominohorizontal_06_06 1F061
+dominoverticalback 1F062
+dominovertical_00_00 1F063
+dominovertical_00_01 1F064
+dominovertical_00_02 1F065
+dominovertical_00_03 1F066
+dominovertical_00_04 1F067
+dominovertical_00_05 1F068
+dominovertical_00_06 1F069
+dominovertical_01_00 1F06A
+dominovertical_01_01 1F06B
+dominovertical_01_02 1F06C
+dominovertical_01_03 1F06D
+dominovertical_01_04 1F06E
+dominovertical_01_05 1F06F
+dominovertical_01_06 1F070
+dominovertical_02_00 1F071
+dominovertical_02_01 1F072
+dominovertical_02_02 1F073
+dominovertical_02_03 1F074
+dominovertical_02_04 1F075
+dominovertical_02_05 1F076
+dominovertical_02_06 1F077
+dominovertical_03_00 1F078
+dominovertical_03_01 1F079
+dominovertical_03_02 1F07A
+dominovertical_03_03 1F07B
+dominovertical_03_04 1F07C
+dominovertical_03_05 1F07D
+dominovertical_03_06 1F07E
+dominovertical_04_00 1F07F
+dominovertical_04_01 1F080
+dominovertical_04_02 1F081
+dominovertical_04_03 1F082
+dominovertical_04_04 1F083
+dominovertical_04_05 1F084
+dominovertical_04_06 1F085
+dominovertical_05_00 1F086
+dominovertical_05_01 1F087
+dominovertical_05_02 1F088
+dominovertical_05_03 1F089
+dominovertical_05_04 1F08A
+dominovertical_05_05 1F08B
+dominovertical_05_06 1F08C
+dominovertical_06_00 1F08D
+dominovertical_06_01 1F08E
+dominovertical_06_02 1F08F
+dominovertical_06_03 1F090
+dominovertical_06_04 1F091
+dominovertical_06_05 1F092
+dominovertical_06_06 1F093
+# Playing Cards
 # Enclosed Alphanumeric Supplement
 zerofullstop 1F100
 zerocomma 1F101
