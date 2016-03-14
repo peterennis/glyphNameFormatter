@@ -39,10 +39,12 @@ def process(self):
 
     if self.has("GREEK"):
         self.edit("GREEK")
+        self.forceScriptPrefix("greek")
         self.handleCase()
     elif self.has("CYRILLIC"):
         self.edit("CYRILLIC")
         self.handleCase()
+        self.forceScriptPrefix("cyrillic")
     else:
         self.handleCase()
 
