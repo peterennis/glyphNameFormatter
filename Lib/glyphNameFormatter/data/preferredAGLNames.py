@@ -107,7 +107,7 @@ preferredAGLNames = {
     0x2287: "reflexsuperset",
     0x2295: "circleplus",
     0x2297: "circlemultiply",
-    0x22A5: "perpendicular",
+    # 0x22A5: "perpendicular",
     0x22C5: "dotmath",
     0x2302: "house",
     0x2310: "revlogicalnot",
