@@ -239,7 +239,7 @@
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        GREEK SMALL LETTER ALPHA
 
     26 : ampersand                                         ampersand                ampersand                               Basic Latin                             AMPERSAND           
-  FE60 : gnrl-ampersand                                    -                        gnrl-ampersand                          Small Form Variants                     SMALL AMPERSAND     
+  FE60 : smll-ampersand                                    -                        smll-ampersand                          Small Form Variants                     SMALL AMPERSAND     
   FF06 : fwd-ampersand                                     ampersandfullwidth       fwd-ampersand                           Halfwidth and Fullwidth Forms           FULLWIDTH AMPERSAND 
 
   1829 : mong-ang                                          -                        mong-ang                                Mongolian                               MONGOLIAN LETTER ANG
@@ -265,7 +265,7 @@
   30A1 : kata-asmall                                       asmallkatakana           kata-asmall                             Katakana                                KATAKANA LETTER SMALL A
 
     2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             ASTERISK            
-  FE61 : gnrl-asterisk                                     asterisksmall            gnrl-asterisk                           Small Form Variants                     SMALL ASTERISK      
+  FE61 : smll-asterisk                                     asterisksmall            smll-asterisk                           Small Form Variants                     SMALL ASTERISK      
   FF0A : fwd-asterisk                                      asteriskfullwidth        fwd-asterisk                            Halfwidth and Fullwidth Forms           FULLWIDTH ASTERISK  
 
     40 : at                                                at                       at                                      Basic Latin                             COMMERCIAL AT       
@@ -326,7 +326,7 @@
   A9A7 : java-ba                                           -                        java-ba                                 Javanese                                JAVANESE LETTER BA  
 
     5C : backslash                                         backslash                backslash                               Basic Latin                             REVERSE SOLIDUS     
-  FE68 : gnrl-backslash                                    -                        gnrl-backslash                          Small Form Variants                     SMALL REVERSE SOLIDUS
+  FE68 : smll-backslash                                    -                        smll-backslash                          Small Form Variants                     SMALL REVERSE SOLIDUS
   FF3C : fwd-backslash                                     backslashfullwidth       fwd-backslash                           Halfwidth and Fullwidth Forms           FULLWIDTH REVERSE SOLIDUS
 
     7C : bar                                               bar                      bar                                     Basic Latin                             VERTICAL LINE       
@@ -365,11 +365,11 @@
   2445 : ocr-bowtie                                        -                        ocr-bowtie                              Optical Character Recognition           OCR BOW TIE         
 
     7B : braceleft                                         braceleft                braceleft                               Basic Latin                             LEFT CURLY BRACKET  
-  FE5B : gnrl-braceleft                                    braceleftsmall           gnrl-braceleft                          Small Form Variants                     SMALL LEFT CURLY BRACKET
+  FE5B : smll-braceleft                                    braceleftsmall           smll-braceleft                          Small Form Variants                     SMALL LEFT CURLY BRACKET
   FF5B : fwd-braceleft                                     braceleftfullwidth       fwd-braceleft                           Halfwidth and Fullwidth Forms           FULLWIDTH LEFT CURLY BRACKET
 
     7D : braceright                                        braceright               braceright                              Basic Latin                             RIGHT CURLY BRACKET 
-  FE5C : gnrl-braceright                                   bracerightsmall          gnrl-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
+  FE5C : smll-braceright                                   bracerightsmall          smll-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
   FF5D : fwd-braceright                                    bracerightfullwidth      fwd-braceright                          Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT CURLY BRACKET
 
     5B : bracketleft                                       bracketleft              bracketleft                             Basic Latin                             LEFT SQUARE BRACKET 
@@ -451,7 +451,7 @@
   1365 : ethi-colon                                        -                        ethi-colon                              Ethiopic                                ETHIOPIC COLON      
   1804 : mong-colon                                        -                        mong-colon                              Mongolian                               MONGOLIAN COLON     
   FE13 : vert-colon                                        colonvert                vert-colon                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COLON
-  FE55 : gnrl-colon                                        colonsmall               gnrl-colon                              Small Form Variants                     SMALL COLON         
+  FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     SMALL COLON         
   FF1A : fwd-colon                                         colonfullwidth           fwd-colon                               Halfwidth and Fullwidth Forms           FULLWIDTH COLON     
 
     2C : comma                                             comma                    comma                                   Basic Latin                             COMMA               
@@ -460,7 +460,7 @@
   1363 : ethi-comma                                        -                        ethi-comma                              Ethiopic                                ETHIOPIC COMMA      
   1802 : mong-comma                                        -                        mong-comma                              Mongolian                               MONGOLIAN COMMA     
   FE10 : vert-comma                                        commavert                vert-comma                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COMMA
-  FE50 : gnrl-comma                                        commasmall               gnrl-comma                              Small Form Variants                     SMALL COMMA         
+  FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     SMALL COMMA         
   FF0C : fwd-comma                                         commafullwidth           fwd-comma                               Halfwidth and Fullwidth Forms           FULLWIDTH COMMA     
 
    606 : ar-cuberoot                                       -                        ar-cuberoot                             Arabic                                  ARABIC-INDIC CUBE ROOT
@@ -548,7 +548,7 @@
   30C9 : kata-do                                           dokatakana               kata-do                                 Katakana                                KATAKANA LETTER DO  
 
     24 : dollar                                            dollar                   dollar                                  Basic Latin                             DOLLAR SIGN         
-  FE69 : gnrl-dollar                                       dollarsmall              gnrl-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
+  FE69 : smll-dollar                                       dollarsmall              smll-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
   FF04 : fwd-dollar                                        dollarfullwidth          fwd-dollar                              Halfwidth and Fullwidth Forms           FULLWIDTH DOLLAR SIGN
 
    2D9 : spcn-dotaccent                                    dotaccent                spcn-dotaccent                          Spacing Modifier Letters                DOT ABOVE           
@@ -622,10 +622,10 @@
    521 : elhookcyr                                         -                        elhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
 
   1801 : mong-ellipsis                                     -                        mong-ellipsis                           Mongolian                               MONGOLIAN ELLIPSIS  
-  2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     HORIZONTAL ELLIPSIS 
+  2026 : ellipsis                                          ellipsis                 ellipsis                                General Punctuation                     HORIZONTAL ELLIPSIS 
 
-  2014 : gnrl-emdash                                       emdash                   gnrl-emdash                             General Punctuation                     EM DASH             
-  FE58 : gnrl-emdash                                       -                        gnrl-emdash                             Small Form Variants                     SMALL EM DASH       
+  2014 : emdash                                            emdash                   emdash                                  General Punctuation                     EM DASH             
+  FE58 : smll-emdash                                       -                        smll-emdash                             Small Form Variants                     SMALL EM DASH       
 
    43D : encyr                                             en                       encyr                                   Cyrillic                                CYRILLIC SMALL LETTER EN
   3123 : bopo-en                                           enbopomofo               bopo-en                                 Bopomofo                                BOPOMOFO LETTER EN  
@@ -640,7 +640,7 @@
   FFC6 : hwd-eo                                            -                        hwd-eo                                  Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER EO
 
     3D : equal                                             equal                    equal                                   Basic Latin                             EQUALS SIGN         
-  FE66 : gnrl-equal                                        equalsmall               gnrl-equal                              Small Form Variants                     SMALL EQUALS SIGN   
+  FE66 : smll-equal                                        equalsmall               smll-equal                              Small Form Variants                     SMALL EQUALS SIGN   
   FF1D : fwd-equal                                         equalfullwidth           fwd-equal                               Halfwidth and Fullwidth Forms           FULLWIDTH EQUALS SIGN
 
    440 : ercyr                                             er                       ercyr                                   Cyrillic                                CYRILLIC SMALL LETTER ER
@@ -673,7 +673,7 @@
     21 : exclam                                            exclam                   exclam                                  Basic Latin                             EXCLAMATION MARK    
    55C : armn-exclam                                       exclamarmenian           armn-exclam                             Armenian                                ARMENIAN EXCLAMATION MARK
   FE15 : vert-exclam                                       exclamvert               vert-exclam                             Vertical Forms                          PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK
-  FE57 : gnrl-exclam                                       -                        gnrl-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
+  FE57 : smll-exclam                                       -                        smll-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
   FF01 : fwd-exclam                                        exclamfullwidth          fwd-exclam                              Halfwidth and Fullwidth Forms           FULLWIDTH EXCLAMATION MARK
 
     66 : f                                                 f                        f                                       Basic Latin                             LATIN SMALL LETTER F
@@ -795,7 +795,7 @@
   FF40 : fwd-grave                                         gravefullwidth           fwd-grave                               Halfwidth and Fullwidth Forms           FULLWIDTH GRAVE ACCENT
 
     3E : greater                                           greater                  greater                                 Basic Latin                             GREATER-THAN SIGN   
-  FE65 : gnrl-greater                                      greatersmall             gnrl-greater                            Small Form Variants                     SMALL GREATER-THAN SIGN
+  FE65 : smll-greater                                      greatersmall             smll-greater                            Small Form Variants                     SMALL GREATER-THAN SIGN
   FF1E : fwd-greater                                       greaterfullwidth         fwd-greater                             Halfwidth and Fullwidth Forms           FULLWIDTH GREATER-THAN SIGN
 
    261 : ipa-gscript                                       gscript                  ipa-gscript                             IPA Extensions                          LATIN SMALL LETTER SCRIPT G
@@ -856,7 +856,7 @@
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             HYPHEN-MINUS        
    58A : armn-hyphen                                       -                        armn-hyphen                             Armenian                                ARMENIAN HYPHEN     
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     HYPHEN              
-  FE63 : gnrl-hyphen                                       hyphensmall              gnrl-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
+  FE63 : smll-hyphen                                       hyphensmall              smll-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
   FF0D : fwd-hyphen                                        hyphenfullwidth          fwd-hyphen                              Halfwidth and Fullwidth Forms           FULLWIDTH HYPHEN-MINUS
 
     69 : i                                                 i                        i                                       Basic Latin                             LATIN SMALL LETTER I
@@ -882,7 +882,7 @@
 
   3001 : cjk-ideographiccomma                              ideographiccomma         cjk-ideographiccomma                    CJK Symbols and Punctuation             IDEOGRAPHIC COMMA   
   FE11 : vert-ideographiccomma                             -                        vert-ideographiccomma                   Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA
-  FE51 : gnrl-ideographiccomma                             -                        gnrl-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
+  FE51 : smll-ideographiccomma                             -                        smll-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
   FF64 : hwd-ideographiccomma                              ideographiccommaleft     hwd-ideographiccomma                    Halfwidth and Fullwidth Forms           HALFWIDTH IDEOGRAPHIC COMMA
 
   FE12 : vert-ideographicfullstop                          -                        vert-ideographicfullstop                Vertical Forms                          PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP
@@ -1071,7 +1071,7 @@
   FF5F : fwd-leftwhiteparenthesis                          -                        fwd-leftwhiteparenthesis                Halfwidth and Fullwidth Forms           FULLWIDTH LEFT WHITE PARENTHESIS
 
     3C : less                                              less                     less                                    Basic Latin                             LESS-THAN SIGN      
-  FE64 : gnrl-less                                         lesssmall                gnrl-less                               Small Form Variants                     SMALL LESS-THAN SIGN
+  FE64 : smll-less                                         lesssmall                smll-less                               Small Form Variants                     SMALL LESS-THAN SIGN
   FF1C : fwd-less                                          lessfullwidth            fwd-less                                Halfwidth and Fullwidth Forms           FULLWIDTH LESS-THAN SIGN
 
    515 : lhacyr                                            -                        lhacyr                                  Cyrillic Supplement                     CYRILLIC SMALL LETTER LHA
@@ -1272,7 +1272,7 @@
 
     23 : numbersign                                        numbersign               numbersign                              Basic Latin                             NUMBER SIGN         
    600 : ar-numbersign                                     arNumberSign             ar-numbersign                           Arabic                                  ARABIC NUMBER SIGN  
-  FE5F : gnrl-numbersign                                   numbersignsmall          gnrl-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
+  FE5F : smll-numbersign                                   numbersignsmall          smll-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
   FF03 : fwd-numbersign                                    numbersignfullwidth      fwd-numbersign                          Halfwidth and Fullwidth Forms           FULLWIDTH NUMBER SIGN
 
    91E : deva-nya                                          dvNya                    deva-nya                                Devanagari                              DEVANAGARI LETTER NYA
@@ -1392,7 +1392,7 @@
   3121 : bopo-ou                                           oubopomofo               bopo-ou                                 Bopomofo                                BOPOMOFO LETTER OU  
 
    305 : cmb-overline                                      overlinecmb              cmb-overline                            Combining Diacritical Marks             COMBINING OVERLINE  
-  203E : gnrl-overline                                     overline                 gnrl-overline                           General Punctuation                     OVERLINE            
+  203E : overline                                          overline                 overline                                General Punctuation                     OVERLINE            
 
     70 : p                                                 p                        p                                       Basic Latin                             LATIN SMALL LETTER P
   3106 : bopo-p                                            pbopomofo                bopo-p                                  Bopomofo                                BOPOMOFO LETTER P   
@@ -1415,12 +1415,12 @@
   A9A5 : java-pa                                           -                        java-pa                                 Javanese                                JAVANESE LETTER PA  
 
   1368 : ethi-paragraphseparator                           -                        ethi-paragraphseparator                 Ethiopic                                ETHIOPIC PARAGRAPH SEPARATOR
-  2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     PARAGRAPH SEPARATOR 
+  2029 : paragraphseparator                                -                        paragraphseparator                      General Punctuation                     PARAGRAPH SEPARATOR 
 
-  FE59 : gnrl-parenthesisleft                              parenleftsmall           gnrl-parenthesisleft                    Small Form Variants                     SMALL LEFT PARENTHESIS
+  FE59 : smll-parenthesisleft                              parenleftsmall           smll-parenthesisleft                    Small Form Variants                     SMALL LEFT PARENTHESIS
   FF08 : fwd-parenthesisleft                               parenleftfullwidth       fwd-parenthesisleft                     Halfwidth and Fullwidth Forms           FULLWIDTH LEFT PARENTHESIS
 
-  FE5A : gnrl-parenthesisright                             parenrightsmall          gnrl-parenthesisright                   Small Form Variants                     SMALL RIGHT PARENTHESIS
+  FE5A : smll-parenthesisright                             parenrightsmall          smll-parenthesisright                   Small Form Variants                     SMALL RIGHT PARENTHESIS
   FF09 : fwd-parenthesisright                              parenrightfullwidth      fwd-parenthesisright                    Halfwidth and Fullwidth Forms           FULLWIDTH RIGHT PARENTHESIS
 
    43F : pecyr                                             pe                       pecyr                                   Cyrillic                                CYRILLIC SMALL LETTER PE
@@ -1434,20 +1434,17 @@
 
     25 : percent                                           percent                  percent                                 Basic Latin                             PERCENT SIGN        
    66A : ar-percent                                        arPercent                ar-percent                              Arabic                                  ARABIC PERCENT SIGN 
-  FE6A : gnrl-percent                                      percentsmall             gnrl-percent                            Small Form Variants                     SMALL PERCENT SIGN  
+  FE6A : smll-percent                                      percentsmall             smll-percent                            Small Form Variants                     SMALL PERCENT SIGN  
   FF05 : fwd-percent                                       percentfullwidth         fwd-percent                             Halfwidth and Fullwidth Forms           FULLWIDTH PERCENT SIGN
 
     2E : period                                            period                   period                                  Basic Latin                             FULL STOP           
    589 : armn-period                                       periodarmenian           armn-period                             Armenian                                ARMENIAN FULL STOP  
   1803 : mong-period                                       -                        mong-period                             Mongolian                               MONGOLIAN FULL STOP 
-  FE52 : gnrl-period                                       periodsmall              gnrl-period                             Small Form Variants                     SMALL FULL STOP     
+  FE52 : smll-period                                       periodsmall              smll-period                             Small Form Variants                     SMALL FULL STOP     
   FF0E : fwd-period                                        periodfullwidth          fwd-period                              Halfwidth and Fullwidth Forms           FULLWIDTH FULL STOP 
 
-  22A5 : math-perpendicular                                perpendicular            math-perpendicular                      Mathematical Operators                  UP TACK             
-  27C2 : math-perpendicular                                -                        math-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
-
    60A : ar-perthousand                                    -                        ar-perthousand                          Arabic                                  ARABIC-INDIC PER TEN THOUSAND SIGN
-  2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     PER MILLE SIGN      
+  2030 : perthousand                                       perthousand              perthousand                             General Punctuation                     PER MILLE SIGN      
 
    92B : deva-pha                                          dvPha                    deva-pha                                Devanagari                              DEVANAGARI LETTER PHA
    9AB : beng-pha                                          bePha                    beng-pha                                Bengali                                 BENGALI LETTER PHA  
@@ -1467,9 +1464,6 @@
   314D : ko-phieuph                                        phieuphkorean            ko-phieuph                              Hangul Compatibility Jamo               HANGUL LETTER PHIEUPH
   FFBD : hwd-phieuph                                       -                        hwd-phieuph                             Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER PHIEUPH
 
-  1D60 : phon-phimod                                       phisupmod                phon-phimod                             Phonetic Extensions                     MODIFIER LETTER SMALL GREEK PHI
-  1DB2 : phon-phimod                                       -                        phon-phimod                             Phonetic Extensions Supplement          MODIFIER LETTER SMALL PHI
-
    3C0 : gr-pi                                             pi                       gr-pi                                   Greek and Coptic                        GREEK SMALL LETTER PI
   1352 : ethi-pi                                           -                        ethi-pi                                 Ethiopic                                ETHIOPIC SYLLABLE PI
   3074 : hira-pi                                           pihiragana               hira-pi                                 Hiragana                                HIRAGANA LETTER PI  
@@ -1482,7 +1476,7 @@
   FFB4 : hwd-pieupsios                                     -                        hwd-pieupsios                           Halfwidth and Fullwidth Forms           HALFWIDTH HANGUL LETTER PIEUP-SIOS
 
     2B : plus                                              plus                     plus                                    Basic Latin                             PLUS SIGN           
-  FE62 : gnrl-plus                                         plussmall                gnrl-plus                               Small Form Variants                     SMALL PLUS SIGN     
+  FE62 : smll-plus                                         plussmall                smll-plus                               Small Form Variants                     SMALL PLUS SIGN     
   FF0B : fwd-plus                                          plusfullwidth            fwd-plus                                Halfwidth and Fullwidth Forms           FULLWIDTH PLUS SIGN 
 
   1356 : ethi-po                                           -                        ethi-po                                 Ethiopic                                ETHIOPIC SYLLABLE PO
@@ -1510,7 +1504,7 @@
    55E : armn-question                                     questionarmenian         armn-question                           Armenian                                ARMENIAN QUESTION MARK
    61F : ar-question                                       arQuestion               ar-question                             Arabic                                  ARABIC QUESTION MARK
   FE16 : vert-question                                     questionvert             vert-question                           Vertical Forms                          PRESENTATION FORM FOR VERTICAL QUESTION MARK
-  FE56 : gnrl-question                                     -                        gnrl-question                           Small Form Variants                     SMALL QUESTION MARK 
+  FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     SMALL QUESTION MARK 
   FF1F : fwd-question                                      questionfullwidth        fwd-question                            Halfwidth and Fullwidth Forms           FULLWIDTH QUESTION MARK
 
     22 : quotedbl                                          quotedbl                 quotedbl                                Basic Latin                             QUOTATION MARK      
@@ -1668,7 +1662,7 @@
    61B : ar-semicolon                                      arSemicolon              ar-semicolon                            Arabic                                  ARABIC SEMICOLON    
   1364 : ethi-semicolon                                    -                        ethi-semicolon                          Ethiopic                                ETHIOPIC SEMICOLON  
   FE14 : vert-semicolon                                    semicolonvert            vert-semicolon                          Vertical Forms                          PRESENTATION FORM FOR VERTICAL SEMICOLON
-  FE54 : gnrl-semicolon                                    semicolonsmall           gnrl-semicolon                          Small Form Variants                     SMALL SEMICOLON     
+  FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     SMALL SEMICOLON     
   FF1B : fwd-semicolon                                     semicolonfullwidth       fwd-semicolon                           Halfwidth and Fullwidth Forms           FULLWIDTH SEMICOLON 
 
     37 : seven                                             seven                    seven                                   Basic Latin                             DIGIT SEVEN         
@@ -1855,10 +1849,10 @@
   30C8 : kata-to                                           tokatakana               kata-to                                 Katakana                                KATAKANA LETTER TO  
 
   3014 : cjk-tortoiseshellbracketleft                      tortoiseshellbracketleft cjk-tortoiseshellbracketleft            CJK Symbols and Punctuation             LEFT TORTOISE SHELL BRACKET
-  FE5D : gnrl-tortoiseshellbracketleft                     tortoiseshellbracketleftsgnrl-tortoiseshellbracketleft           Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
+  FE5D : smll-tortoiseshellbracketleft                     tortoiseshellbracketleftssmll-tortoiseshellbracketleft           Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
 
   3015 : cjk-tortoiseshellbracketright                     tortoiseshellbracketrightcjk-tortoiseshellbracketright           CJK Symbols and Punctuation             RIGHT TORTOISE SHELL BRACKET
-  FE5E : gnrl-tortoiseshellbracketright                    tortoiseshellbracketrightgnrl-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
+  FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
 
    C58 : telu-tsa                                          teTsa                    telu-tsa                                Telugu                                  TELUGU LETTER TSA   
    F59 : tibt-tsa                                          -                        tibt-tsa                                Tibetan                                 TIBETAN LETTER TSA  
@@ -2209,7 +2203,7 @@
   12D9 : ethi-zu                                           -                        ethi-zu                                 Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hira-zu                                           zuhiragana               hira-zu                                 Hiragana                                HIRAGANA LETTER ZU  
   30BA : kata-zu                                           zukatakana               kata-zu                                 Katakana                                KATAKANA LETTER ZU  
-# 412 names with conflicts, affecting 1797 unicodes
+# 410 names with conflicts, affecting 1793 unicodes
 
 
 Conflicts by rangename
@@ -2827,12 +2821,12 @@ Ethiopic
   12D9 : ethi-zu                                           -                        ethi-zu                                 Ethiopic                                ETHIOPIC SYLLABLE ZU
 
 General Punctuation
-  2026 : gnrl-ellipsis                                     ellipsis                 gnrl-ellipsis                           General Punctuation                     HORIZONTAL ELLIPSIS 
-  2014 : gnrl-emdash                                       emdash                   gnrl-emdash                             General Punctuation                     EM DASH             
+  2026 : ellipsis                                          ellipsis                 ellipsis                                General Punctuation                     HORIZONTAL ELLIPSIS 
+  2014 : emdash                                            emdash                   emdash                                  General Punctuation                     EM DASH             
   2010 : gnrl-hyphen                                       hyphentwo                gnrl-hyphen                             General Punctuation                     HYPHEN              
-  203E : gnrl-overline                                     overline                 gnrl-overline                           General Punctuation                     OVERLINE            
-  2029 : gnrl-paragraphseparator                           -                        gnrl-paragraphseparator                 General Punctuation                     PARAGRAPH SEPARATOR 
-  2030 : gnrl-perthousand                                  perthousand              gnrl-perthousand                        General Punctuation                     PER MILLE SIGN      
+  203E : overline                                          overline                 overline                                General Punctuation                     OVERLINE            
+  2029 : paragraphseparator                                -                        paragraphseparator                      General Punctuation                     PARAGRAPH SEPARATOR 
+  2030 : perthousand                                       perthousand              perthousand                             General Punctuation                     PER MILLE SIGN      
 
 Geometric Shapes
   25C6 : gmtr-diamondblack                                 diamondblack             gmtr-diamondblack                       Geometric Shapes                        BLACK DIAMOND       
@@ -3694,10 +3688,6 @@ Mathematical Operators
   22C8 : math-bowtie                                       -                        math-bowtie                             Mathematical Operators                  BOWTIE              
   221B : math-cuberoot                                     -                        math-cuberoot                           Mathematical Operators                  CUBE ROOT           
   221C : math-fourthroot                                   -                        math-fourthroot                         Mathematical Operators                  FOURTH ROOT         
-  22A5 : math-perpendicular                                perpendicular            math-perpendicular                      Mathematical Operators                  UP TACK             
-
-Miscellaneous Mathematical Symbols-A
-  27C2 : math-perpendicular                                -                        math-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
 
 Miscellaneous Mathematical Symbols-B
   2985 : misc-leftwhiteparenthesis                         -                        misc-leftwhiteparenthesis               Miscellaneous Mathematical Symbols-B    LEFT WHITE PARENTHESIS
@@ -3852,38 +3842,34 @@ Oriya
 
 Phonetic Extensions
   1D25 : phon-ain                                          -                        phon-ain                                Phonetic Extensions                     LATIN LETTER AIN    
-  1D60 : phon-phimod                                       phisupmod                phon-phimod                             Phonetic Extensions                     MODIFIER LETTER SMALL GREEK PHI
   1D6B : phon-ue                                           -                        phon-ue                                 Phonetic Extensions                     LATIN SMALL LETTER UE
 
-Phonetic Extensions Supplement
-  1DB2 : phon-phimod                                       -                        phon-phimod                             Phonetic Extensions Supplement          MODIFIER LETTER SMALL PHI
-
 Small Form Variants
-  FE60 : gnrl-ampersand                                    -                        gnrl-ampersand                          Small Form Variants                     SMALL AMPERSAND     
-  FE61 : gnrl-asterisk                                     asterisksmall            gnrl-asterisk                           Small Form Variants                     SMALL ASTERISK      
-  FE68 : gnrl-backslash                                    -                        gnrl-backslash                          Small Form Variants                     SMALL REVERSE SOLIDUS
-  FE5B : gnrl-braceleft                                    braceleftsmall           gnrl-braceleft                          Small Form Variants                     SMALL LEFT CURLY BRACKET
-  FE5C : gnrl-braceright                                   bracerightsmall          gnrl-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
-  FE55 : gnrl-colon                                        colonsmall               gnrl-colon                              Small Form Variants                     SMALL COLON         
-  FE50 : gnrl-comma                                        commasmall               gnrl-comma                              Small Form Variants                     SMALL COMMA         
-  FE69 : gnrl-dollar                                       dollarsmall              gnrl-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
-  FE58 : gnrl-emdash                                       -                        gnrl-emdash                             Small Form Variants                     SMALL EM DASH       
-  FE66 : gnrl-equal                                        equalsmall               gnrl-equal                              Small Form Variants                     SMALL EQUALS SIGN   
-  FE57 : gnrl-exclam                                       -                        gnrl-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
-  FE65 : gnrl-greater                                      greatersmall             gnrl-greater                            Small Form Variants                     SMALL GREATER-THAN SIGN
-  FE63 : gnrl-hyphen                                       hyphensmall              gnrl-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
-  FE51 : gnrl-ideographiccomma                             -                        gnrl-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
-  FE64 : gnrl-less                                         lesssmall                gnrl-less                               Small Form Variants                     SMALL LESS-THAN SIGN
-  FE5F : gnrl-numbersign                                   numbersignsmall          gnrl-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
-  FE59 : gnrl-parenthesisleft                              parenleftsmall           gnrl-parenthesisleft                    Small Form Variants                     SMALL LEFT PARENTHESIS
-  FE5A : gnrl-parenthesisright                             parenrightsmall          gnrl-parenthesisright                   Small Form Variants                     SMALL RIGHT PARENTHESIS
-  FE6A : gnrl-percent                                      percentsmall             gnrl-percent                            Small Form Variants                     SMALL PERCENT SIGN  
-  FE52 : gnrl-period                                       periodsmall              gnrl-period                             Small Form Variants                     SMALL FULL STOP     
-  FE62 : gnrl-plus                                         plussmall                gnrl-plus                               Small Form Variants                     SMALL PLUS SIGN     
-  FE56 : gnrl-question                                     -                        gnrl-question                           Small Form Variants                     SMALL QUESTION MARK 
-  FE54 : gnrl-semicolon                                    semicolonsmall           gnrl-semicolon                          Small Form Variants                     SMALL SEMICOLON     
-  FE5D : gnrl-tortoiseshellbracketleft                     tortoiseshellbracketleftsgnrl-tortoiseshellbracketleft           Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
-  FE5E : gnrl-tortoiseshellbracketright                    tortoiseshellbracketrightgnrl-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
+  FE60 : smll-ampersand                                    -                        smll-ampersand                          Small Form Variants                     SMALL AMPERSAND     
+  FE61 : smll-asterisk                                     asterisksmall            smll-asterisk                           Small Form Variants                     SMALL ASTERISK      
+  FE68 : smll-backslash                                    -                        smll-backslash                          Small Form Variants                     SMALL REVERSE SOLIDUS
+  FE5B : smll-braceleft                                    braceleftsmall           smll-braceleft                          Small Form Variants                     SMALL LEFT CURLY BRACKET
+  FE5C : smll-braceright                                   bracerightsmall          smll-braceright                         Small Form Variants                     SMALL RIGHT CURLY BRACKET
+  FE55 : smll-colon                                        colonsmall               smll-colon                              Small Form Variants                     SMALL COLON         
+  FE50 : smll-comma                                        commasmall               smll-comma                              Small Form Variants                     SMALL COMMA         
+  FE69 : smll-dollar                                       dollarsmall              smll-dollar                             Small Form Variants                     SMALL DOLLAR SIGN   
+  FE58 : smll-emdash                                       -                        smll-emdash                             Small Form Variants                     SMALL EM DASH       
+  FE66 : smll-equal                                        equalsmall               smll-equal                              Small Form Variants                     SMALL EQUALS SIGN   
+  FE57 : smll-exclam                                       -                        smll-exclam                             Small Form Variants                     SMALL EXCLAMATION MARK
+  FE65 : smll-greater                                      greatersmall             smll-greater                            Small Form Variants                     SMALL GREATER-THAN SIGN
+  FE63 : smll-hyphen                                       hyphensmall              smll-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
+  FE51 : smll-ideographiccomma                             -                        smll-ideographiccomma                   Small Form Variants                     SMALL IDEOGRAPHIC COMMA
+  FE64 : smll-less                                         lesssmall                smll-less                               Small Form Variants                     SMALL LESS-THAN SIGN
+  FE5F : smll-numbersign                                   numbersignsmall          smll-numbersign                         Small Form Variants                     SMALL NUMBER SIGN   
+  FE59 : smll-parenthesisleft                              parenleftsmall           smll-parenthesisleft                    Small Form Variants                     SMALL LEFT PARENTHESIS
+  FE5A : smll-parenthesisright                             parenrightsmall          smll-parenthesisright                   Small Form Variants                     SMALL RIGHT PARENTHESIS
+  FE6A : smll-percent                                      percentsmall             smll-percent                            Small Form Variants                     SMALL PERCENT SIGN  
+  FE52 : smll-period                                       periodsmall              smll-period                             Small Form Variants                     SMALL FULL STOP     
+  FE62 : smll-plus                                         plussmall                smll-plus                               Small Form Variants                     SMALL PLUS SIGN     
+  FE56 : smll-question                                     -                        smll-question                           Small Form Variants                     SMALL QUESTION MARK 
+  FE54 : smll-semicolon                                    semicolonsmall           smll-semicolon                          Small Form Variants                     SMALL SEMICOLON     
+  FE5D : smll-tortoiseshellbracketleft                     tortoiseshellbracketleftssmll-tortoiseshellbracketleft           Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
+  FE5E : smll-tortoiseshellbracketright                    tortoiseshellbracketrightsmll-tortoiseshellbracketright          Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
 
 Spacing Modifier Letters
    2D8 : spcn-breve                                        breve                    spcn-breve                              Spacing Modifier Letters                BREVE               
@@ -4131,13 +4117,8 @@ Doubles over all ranges
    521 : elhookcyr                                         zukatakana               elhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK
    4C8 : enhookcyr                                         zukatakana               enhookcyr                               Cyrillic                                CYRILLIC SMALL LETTER EN WITH HOOK
    523 : enhookcyr                                         zukatakana               enhookcyr                               Cyrillic Supplement                     CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK
-  2014 : gnrl-emdash                                       zukatakana               gnrl-emdash                             General Punctuation                     EM DASH             
-  FE58 : gnrl-emdash                                       zukatakana               gnrl-emdash                             Small Form Variants                     SMALL EM DASH       
-  2010 : gnrl-hyphen                                       zukatakana               gnrl-hyphen                             General Punctuation                     HYPHEN              
-  FE63 : gnrl-hyphen                                       zukatakana               gnrl-hyphen                             Small Form Variants                     SMALL HYPHEN-MINUS  
-  22A5 : math-perpendicular                                zukatakana               math-perpendicular                      Mathematical Operators                  UP TACK             
-  27C2 : math-perpendicular                                zukatakana               math-perpendicular                      Miscellaneous Mathematical Symbols-A    PERPENDICULAR       
-  1D60 : phon-phimod                                       zukatakana               phon-phimod                             Phonetic Extensions                     MODIFIER LETTER SMALL GREEK PHI
-  1DB2 : phon-phimod                                       zukatakana               phon-phimod                             Phonetic Extensions Supplement          MODIFIER LETTER SMALL PHI
    437 : zecyr                                             zukatakana               zecyr                                   Cyrillic                                CYRILLIC SMALL LETTER ZE
    511 : zecyr                                             zukatakana               zecyr                                   Cyrillic Supplement                     CYRILLIC SMALL LETTER REVERSED ZE
+
+
+Generated 107296 glyph names with 14 doubles
