@@ -1,3 +1,5 @@
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes
+
 
 def process(self):
     self.replace("VERTICAL LINE", "verticalbar")
@@ -24,6 +26,10 @@ def process(self):
     self.replace("-")
     self.compress()
     self.lower()
+
+    if not self.has("HYPHEN"):
+        # solve conflict with HYPHEN-MINUS 002D
+        self.scriptTag = scriptPrefixes["latin"]
 
 if __name__ == "__main__":
     from glyphNameFormatter.test import printRange
