@@ -26,5 +26,5 @@ def process(self):
     self.lower()
 
 if __name__ == "__main__":
-    from glyphNameFormatter.test import printRange
+    from glyphNameFormatter.exporters import printRange
     printRange("Enclosed CJK Letters and Months")

@@ -9,7 +9,7 @@ import subprocess
 from glyphNameFormatter import GlyphName, __version__
 from glyphNameFormatter.unicodeRangeNames import getAllRangeNames, getRangeByName, rangeNameToModuleName
 from glyphNameFormatter.data.scriptPrefixes import SCRIPTSEPARATOR, SCRIPTASPREFIX
-from glyphNameFormatter.test.analyseConflicts import findConflict
+from glyphNameFormatter.exporters.analyseConflicts import findConflict
 
 
 def getExportVersionNumber():
@@ -56,8 +56,9 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
 
 if __name__ == "__main__":
 
-    findConflict()
+    findConflict(makeModule=True)
 
+    # generate a flat export
     generateFlat("./../names/glyphNamesToUnicode.txt")
 
     # and because this is a generator we can make any flavor we want:
@@ -71,7 +72,7 @@ if __name__ == "__main__":
                 ]:
             for onlySupported, sp in [
                     (True, "AGDonly"),
-                    # (False, "full")    # large files, proceed at own leisurely pace.
+                    (False, "full")    # large files, proceed at own leisurely pace.
                     ]:
                 path = "./../names/glyphNamesToUnicode_%s_%s_%s.txt" % (sp, sn, pn)
                 generateFlat(path, onlySupported=onlySupported, scriptSeparator=separator, scriptAsPrefix=asPrefix)

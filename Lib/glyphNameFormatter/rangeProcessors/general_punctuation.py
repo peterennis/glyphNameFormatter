@@ -32,5 +32,5 @@ def process(self):
         self.scriptTag = scriptPrefixes["latin"]
 
 if __name__ == "__main__":
-    from glyphNameFormatter.test import printRange
+    from glyphNameFormatter.exporters import printRange
     printRange("General Punctuation")
