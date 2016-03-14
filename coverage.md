@@ -1,10 +1,10 @@
 
-unicodedata.unidata_version: 5.2.0
+## unicodedata.unidata_version: 5.2.0
 
-Total code points in the available ranges: 126398
-Total named glyphs: 107217
-Work done so far: 98477or 8.152%
-Total names covered in GlyphNameFormatter: 8740
+| Total code points in the available ranges | 126398 |
+| Total named glyphs | 107217 |
+| Work done so far | 98477 | or 8.152%
+| Total names covered in GlyphNameFormatter | 8740 |
 
 | Range name | has processor | Start | End |
 | ----- | ----- | ----- | ----- |

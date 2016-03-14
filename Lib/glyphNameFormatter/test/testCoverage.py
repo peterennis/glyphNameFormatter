@@ -47,12 +47,12 @@ def testCoverage():
 
     text = []
     text.append("")
-    text.append("unicodedata.unidata_version: %s"%unicodedata.unidata_version)
+    text.append("## unicodedata.unidata_version: %s"%unicodedata.unidata_version)
     text.append("")
-    text.append('Total code points in the available ranges: %d'%totalPoints)
-    text.append('Total named glyphs: %d'%totalGlyphs)
-    text.append(('Work done so far: %d'%(totalGlyphs-totalCovered)) + " or %3.3f%%"%(100.0*totalCovered/totalGlyphs))
-    text.append('Total names covered in GlyphNameFormatter: %d'%totalCovered)
+    text.append('| Total code points in the available ranges | %d |'%totalPoints)
+    text.append('| Total named glyphs | %d |'%totalGlyphs)
+    text.append(('| Work done so far | %d |'%(totalGlyphs-totalCovered)) + " or %3.3f%%"%(100.0*totalCovered/totalGlyphs))
+    text.append('| Total names covered in GlyphNameFormatter | %d |'%totalCovered)
 
     text.append("")
     text.append("| Range name | has processor | Start | End |")
