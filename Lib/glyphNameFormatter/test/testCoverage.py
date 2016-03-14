@@ -48,17 +48,17 @@ def testCoverage():
     text = []
     text.append("")
     text.append("## unicodedata.unidata_version: %s"%unicodedata.unidata_version)
-    text.append("")
+    text.append("\n\n")
 
     text.append("| ------------------------------------------ | ------- |")
     text.append('| Total code points in the available ranges  |   `%d`    |'%totalPoints)
     text.append('| Total named glyphs in the available ranges |   `%d`    |'%totalGlyphs)
-    # text.append('| Work done so far                           | `%3.3f%%` |'%(100.0*totalCovered/totalGlyphs))
+    text.append('| Work done so far                           | `%3.3f%%` |'%(100.0*totalCovered/totalGlyphs))
     text.append('| Total names covered in GlyphNameFormatter  | `%d`      |'%totalCovered)
 
     text.append("\n\n")
-    text.append("| Range name | has processor | Start | End |")
-    text.append("| ----- | ----- | ----- | ----- |")
+    text.append("| Range name | # | has processor | Start | End |")
+    text.append("| ----- | ----- |----- | ----- | ----- |")
 
     for thisRange in getAllRangeNames():
         if not thisRange in glyphCount: continue
@@ -66,9 +66,11 @@ def testCoverage():
         items = glyphCount[thisRange]
         if items['rangeProcessor']!=None:
             has = "**Yes**"
+            n = items['uniNames']
         else:
             has = "No"
-        text.append("| %s | %s | `%04X` | `%04X` |"%(thisRange, has, a, b))
+            n = ""
+        text.append("| %s | %s | %s | `%04X` | `%04X` |"%(thisRange, n, has, a, b))
 
     text.append("\n\n")
     path = "../../../coverage.md"
