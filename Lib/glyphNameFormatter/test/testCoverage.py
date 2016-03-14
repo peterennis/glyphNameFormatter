@@ -51,10 +51,10 @@ def testCoverage():
     text.append("")
 
     text.append("| ------------------------------------------ | ------- |")
-    text.append('| Total code points in the available ranges  |   %d    |'%totalPoints)
-    text.append('| Total named glyphs in the available ranges |   %d    |'%totalGlyphs)
-    text.append('| Work done so far                           | %3.3f%% |'%(100.0*totalCovered/totalGlyphs))
-    text.append('| Total names covered in GlyphNameFormatter  | %d      |'%totalCovered)
+    text.append('| Total code points in the available ranges  |   `%d`    |'%totalPoints)
+    text.append('| Total named glyphs in the available ranges |   `%d`    |'%totalGlyphs)
+    # text.append('| Work done so far                           | `%3.3f%%` |'%(100.0*totalCovered/totalGlyphs))
+    text.append('| Total names covered in GlyphNameFormatter  | `%d`      |'%totalCovered)
 
     text.append("\n\n")
     text.append("| Range name | has processor | Start | End |")
@@ -68,7 +68,7 @@ def testCoverage():
             has = "**Yes**"
         else:
             has = "No"
-        text.append("| %s | %s | %04X | %04X |"%(thisRange, has, a, b))
+        text.append("| %s | %s | `%04X` | `%04X` |"%(thisRange, has, a, b))
 
     text.append("\n\n")
     path = "../../../coverage.md"
