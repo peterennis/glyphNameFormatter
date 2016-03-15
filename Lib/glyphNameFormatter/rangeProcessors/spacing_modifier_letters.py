@@ -1,8 +1,11 @@
 
 def process(self):
+    if self.has("MODIFIER LETTER CIRCUMFLEX ACCENT"):
+        return
+
     self.replace("MODIFIER")
 
-    #self.replace("LETTER SMALL CAPITAL INVERTED R", "Rsmallinvertedsupmod")
+    # self.replace("LETTER SMALL CAPITAL INVERTED R", "Rsmallinvertedsupmod")
 
     self.edit("COLON", "colon")
     self.edit("TRIANGULAR", "triangular")
@@ -45,8 +48,10 @@ def process(self):
     if self.has("MODIFIER"):
         self.suffix("mod")
     self.compress()
+    self.scriptTag = ""
 
 
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange
     printRange("Spacing Modifier Letters")
+
