@@ -18,7 +18,10 @@ def getExportVersionNumber():
     return "%s - git commit: %s" % (__version__, commitNumber)
 
 
-def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=None):
+def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=None, findConflicts=True):
+    if findConflicts:
+        findConflict(makeModule=True)
+
     data = [
         "# Glyph Name Formatted Unicode List - GNFUL",
         "# GlyphNameFormatter version %s" % getExportVersionNumber(),
@@ -51,8 +54,6 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
 
 if __name__ == "__main__":
 
-    findConflict(makeModule=True)
-
     # generate a flat export
     generateFlat("./../names/glyphNamesToUnicode.txt")
 
@@ -70,4 +71,4 @@ if __name__ == "__main__":
                     (False, "full")    # large files, proceed at own leisurely pace.
                     ]:
                 path = "./../names/glyphNamesToUnicode_%s_%s_%s.txt" % (sp, sn, pn)
-                generateFlat(path, onlySupported=onlySupported, scriptSeparator=separator, scriptAsPrefix=asPrefix)
+                generateFlat(path, onlySupported=onlySupported, scriptSeparator=separator, scriptAsPrefix=asPrefix, findConflicts=False)
