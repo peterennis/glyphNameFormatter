@@ -17,6 +17,11 @@ def process(self):
     self.edit("SMALL LIGATURE VEW NOW", "vew_now")
     self.edit("SMALL LIGATURE MEN XEH", "men_xeh")
 
+    self.edit("RIGHT-FACING", "rightfacing")
+    self.edit("LEFT-FACING", "leftfacing")
+    self.edit("ETERNITY SIGN", "eternitysign")
+    self.edit("ARMENIAN")
+
     self.edit("COMMA", "comma")
     self.edit("FULL STOP", "period")
     self.edit("HYPHEN", "hyphen")
