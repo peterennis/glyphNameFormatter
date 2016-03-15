@@ -11,15 +11,26 @@ from pprint import pprint
 #   so we can prioritize the support
 
 def testCoverage():
+    uncountables = [
+        'Hangul Syllables',
+        'CJK Unified Ideographs',
+        'Private'
+    ]
+    uncounted = []
     text = []
     text.append("\n\n# Coverage")
     wantRanges = {}
     glyphCount = {}
     for thisRange in getAllRangeNames():
         a, b = getRangeByName(thisRange)
-        if thisRange.find('Private')!=-1:
-            #print("skipping private", thisRange)
-            continue
+        countThis = True
+        for uc in uncountables:
+            if thisRange.find(uc)!=-1:
+                uncounted.append(" * %s"%thisRange)
+                countThis = False
+                break
+        if not countThis:
+            break
 
         moduleName = rangeNameToModuleName(thisRange)
         if thisRange not in glyphCount:
@@ -54,7 +65,12 @@ def testCoverage():
     text.append(" * Narrow build Python might also leave some names inaccessible.")
     text.append(" * Not all ranges need to count. Private Use ranges are ignored, perhaps others need to as well.")
     text.append("\n\n\n")
+    if uncounted:
+        text.append("The following ranges are skipped:")
+        for line in uncounted:
+            text.append(line)
 
+    text.append("\n\n\n")
     text.append("| Stats                                      | :)        |")
     text.append("| ------------------------------------------ | --------- |")
     text.append('| Total code points in the available ranges  |   `%d`    |'%totalPoints)
