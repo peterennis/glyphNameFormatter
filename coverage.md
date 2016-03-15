@@ -4,6 +4,14 @@
 
 
 
+This coverage page is has some issues.
+ * The version of python used to build the table does not have the latest Unicode data.
+ * Narrow build Python might also leave some names inaccessible.
+ * Not all ranges need to count. Private Use ranges are ignored, perhaps others need to as well.
+
+
+
+
 | Stats                                      | :)        |
 | ------------------------------------------ | --------- |
 | Total code points in the available ranges  |   `126398`    |

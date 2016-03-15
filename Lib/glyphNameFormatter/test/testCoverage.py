@@ -49,6 +49,11 @@ def testCoverage():
     text.append("")
     text.append("## unicodedata.unidata_version: %s"%unicodedata.unidata_version)
     text.append("\n\n\n")
+    text.append("This coverage page is has some issues.")
+    text.append(" * The version of python used to build the table does not have the latest Unicode data.")
+    text.append(" * Narrow build Python might also leave some names inaccessible.")
+    text.append(" * Not all ranges need to count. Private Use ranges are ignored, perhaps others need to as well.")
+    text.append("\n\n\n")
 
     text.append("| Stats                                      | :)        |")
     text.append("| ------------------------------------------ | --------- |")
