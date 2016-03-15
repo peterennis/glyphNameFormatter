@@ -72,10 +72,10 @@ def testCoverage():
         items = glyphCount[thisRange]
         if items['rangeProcessor']!=None:
             has = "**Yes**"
-            n = items['uniNames']
+            n = "**%s**"%items['uniNames']
         else:
             has = "No"
-            n = ""
+            n = items['uniNames']
         text.append("| %s | %s | %s | `%04X` | `%04X` |"%(thisRange, n, has, a, b))
 
     text.append("\n\n")
