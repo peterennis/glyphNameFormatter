@@ -12,18 +12,6 @@ This coverage page is has some issues.
 
 
 
-The following ranges are skipped:
- * CJK Unified Ideographs Extension A
-
-
-
-
-| Stats                                      | :)        |
-| ------------------------------------------ | --------: |
-| Total code points in the available ranges  |   `13054`    |
-| Total named glyphs in the available ranges |   `11773`    |
-| Total names covered in GlyphNameFormatter  | `7459`      |
-| Progress                                   | `63.357%` |
 
 
 
@@ -144,5 +132,153 @@ The following ranges are skipped:
 | Katakana Phonetic Extensions | 15 | No | `31F0` | `31FF` |
 | Enclosed CJK Letters and Months | **254** | **Yes** | `3200` | `32FF` |
 | CJK Compatibility | **255** | **Yes** | `3300` | `33FF` |
+| CJK Unified Ideographs Extension A | 6582 | No | `3400` | `4DBF` |
+| Yijing Hexagram Symbols | 63 | No | `4DC0` | `4DFF` |
+| CJK Unified Ideographs | 20950 | No | `4E00` | `9FFF` |
+| Yi Syllables | 1165 | No | `A000` | `A48F` |
+| Yi Radicals | 55 | No | `A490` | `A4CF` |
+| Lisu | 47 | No | `A4D0` | `A4FF` |
+| Vai | 300 | No | `A500` | `A63F` |
+| Cyrillic Extended-B | 95 | No | `A640` | `A69F` |
+| Bamum | 88 | No | `A6A0` | `A6FF` |
+| Modifier Tone Letters | 31 | No | `A700` | `A71F` |
+| Latin Extended-D | **158** | **Yes** | `A720` | `A7FF` |
+| Syloti Nagri | 44 | No | `A800` | `A82F` |
+| Common Indic Number Forms | 10 | No | `A830` | `A83F` |
+| Phags-pa | 56 | No | `A840` | `A87F` |
+| Saurashtra | 81 | No | `A880` | `A8DF` |
+| Devanagari Extended | 30 | No | `A8E0` | `A8FF` |
+| Kayah Li | 47 | No | `A900` | `A92F` |
+| Rejang | 36 | No | `A930` | `A95F` |
+| Hangul Jamo Extended-A | 29 | No | `A960` | `A97F` |
+| Javanese | **90** | **Yes** | `A980` | `A9DF` |
+| Myanmar Extended-B | 31 | No | `A9E0` | `A9FF` |
+| Cham | 82 | No | `AA00` | `AA5F` |
+| Myanmar Extended-A | 31 | No | `AA60` | `AA7F` |
+| Tai Viet | 71 | No | `AA80` | `AADF` |
+| Meetei Mayek Extensions | 23 | No | `AAE0` | `AAFF` |
+| Ethiopic Extended-A | 32 | No | `AB00` | `AB2F` |
+| Latin Extended-E | 54 | No | `AB30` | `AB6F` |
+| Cherokee Supplement | **79** | **Yes** | `AB70` | `ABBF` |
+| Meetei Mayek | 56 | No | `ABC0` | `ABFF` |
+| Hangul Syllables | 11172 | No | `AC00` | `D7AF` |
+| Hangul Jamo Extended-B | 72 | No | `D7B0` | `D7FF` |
+| High Surrogates | 0 | No | `D800` | `DB7F` |
+| High Private Use Surrogates | 0 | No | `DB80` | `DBFF` |
+| Low Surrogates | 0 | No | `DC00` | `DFFF` |
+| Private Use Area | **0** | **Yes** | `E000` | `F8FF` |
+| CJK Compatibility Ideographs | 472 | No | `F900` | `FAFF` |
+| Alphabetic Presentation Forms | **57** | **Yes** | `FB00` | `FB4F` |
+| Arabic Presentation Forms-A | **611** | **Yes** | `FB50` | `FDFF` |
+| Variation Selectors | 15 | No | `FE00` | `FE0F` |
+| Vertical Forms | **10** | **Yes** | `FE10` | `FE1F` |
+| Combining Half Marks | 15 | No | `FE20` | `FE2F` |
+| CJK Compatibility Forms | **31** | **Yes** | `FE30` | `FE4F` |
+| Small Form Variants | **26** | **Yes** | `FE50` | `FE6F` |
+| Arabic Presentation Forms-B | **140** | **Yes** | `FE70` | `FEFF` |
+| Halfwidth and Fullwidth Forms | **225** | **Yes** | `FF00` | `FFEF` |
+| Specials | **5** | **Yes** | `FFF0` | `FFFF` |
+| Linear B Syllabary | 88 | No | `10000` | `1007F` |
+| Linear B Ideograms | 123 | No | `10080` | `100FF` |
+| Aegean Numbers | 56 | No | `10100` | `1013F` |
+| Ancient Greek Numbers | 77 | No | `10140` | `1018F` |
+| Ancient Symbols | 13 | No | `10190` | `101CF` |
+| Phaistos Disc | 46 | No | `101D0` | `101FF` |
+| Lycian | 29 | No | `10280` | `1029F` |
+| Carian | 49 | No | `102A0` | `102DF` |
+| Coptic Epact Numbers | 28 | No | `102E0` | `102FF` |
+| Old Italic | 36 | No | `10300` | `1032F` |
+| Gothic | 27 | No | `10330` | `1034F` |
+| Old Permic | 43 | No | `10350` | `1037F` |
+| Ugaritic | 30 | No | `10380` | `1039F` |
+| Old Persian | 50 | No | `103A0` | `103DF` |
+| Deseret | 79 | No | `10400` | `1044F` |
+| Shavian | 47 | No | `10450` | `1047F` |
+| Osmanya | 40 | No | `10480` | `104AF` |
+| Elbasan | 40 | No | `10500` | `1052F` |
+| Caucasian Albanian | 52 | No | `10530` | `1056F` |
+| Linear A | 341 | No | `10600` | `1077F` |
+| Cypriot Syllabary | 54 | No | `10800` | `1083F` |
+| Imperial Aramaic | 30 | No | `10840` | `1085F` |
+| Palmyrene | 31 | No | `10860` | `1087F` |
+| Nabataean | 39 | No | `10880` | `108AF` |
+| Hatran | 25 | No | `108E0` | `108FF` |
+| Phoenician | 28 | No | `10900` | `1091F` |
+| Lydian | 26 | No | `10920` | `1093F` |
+| Meroitic Hieroglyphs | 31 | No | `10980` | `1099F` |
+| Meroitic Cursive | 89 | No | `109A0` | `109FF` |
+| Kharoshthi | 65 | No | `10A00` | `10A5F` |
+| Old South Arabian | 31 | No | `10A60` | `10A7F` |
+| Old North Arabian | 31 | No | `10A80` | `10A9F` |
+| Manichaean | 51 | No | `10AC0` | `10AFF` |
+| Avestan | 60 | No | `10B00` | `10B3F` |
+| Inscriptional Parthian | 29 | No | `10B40` | `10B5F` |
+| Inscriptional Pahlavi | 26 | No | `10B60` | `10B7F` |
+| Psalter Pahlavi | 28 | No | `10B80` | `10BAF` |
+| Old Turkic | 73 | No | `10C00` | `10C4F` |
+| Old Hungarian | 107 | No | `10C80` | `10CFF` |
+| Rumi Numeral Symbols | 31 | No | `10E60` | `10E7F` |
+| Brahmi | 108 | No | `11000` | `1107F` |
+| Kaithi | 66 | No | `11080` | `110CF` |
+| Sora Sompeng | 35 | No | `110D0` | `110FF` |
+| Chakma | 67 | No | `11100` | `1114F` |
+| Mahajani | 39 | No | `11150` | `1117F` |
+| Sharada | 93 | No | `11180` | `111DF` |
+| Sinhala Archaic Numbers | 20 | No | `111E0` | `111FF` |
+| Khojki | 61 | No | `11200` | `1124F` |
+| Multani | 38 | No | `11280` | `112AF` |
+| Khudawadi | 69 | No | `112B0` | `112FF` |
+| Grantha | 85 | No | `11300` | `1137F` |
+| Tirhuta | 82 | No | `11480` | `114DF` |
+| Siddham | 92 | No | `11580` | `115FF` |
+| Modi | 79 | No | `11600` | `1165F` |
+| Takri | 66 | No | `11680` | `116CF` |
+| Ahom | 56 | No | `11700` | `1173F` |
+| Warang Citi | 83 | No | `118A0` | `118FF` |
+| Pau Cin Hau | 57 | No | `11AC0` | `11AFF` |
+| Cuneiform | 922 | No | `12000` | `123FF` |
+| Cuneiform Numbers and Punctuation | 116 | No | `12400` | `1247F` |
+| Early Dynastic Cuneiform | 196 | No | `12480` | `1254F` |
+| Egyptian Hieroglyphs | 1071 | No | `13000` | `1342F` |
+| Anatolian Hieroglyphs | 583 | No | `14400` | `1467F` |
+| Bamum Supplement | 569 | No | `16800` | `16A3F` |
+| Mro | 42 | No | `16A40` | `16A6F` |
+| Bassa Vah | 36 | No | `16AD0` | `16AFF` |
+| Pahawh Hmong | 126 | No | `16B00` | `16B8F` |
+| Miao | 132 | No | `16F00` | `16F9F` |
+| Kana Supplement | 2 | No | `1B000` | `1B0FF` |
+| Duployan | 142 | No | `1BC00` | `1BC9F` |
+| Shorthand Format Controls | 4 | No | `1BCA0` | `1BCAF` |
+| Byzantine Musical Symbols | 246 | No | `1D000` | `1D0FF` |
+| Musical Symbols | 231 | No | `1D100` | `1D1FF` |
+| Ancient Greek Musical Notation | 70 | No | `1D200` | `1D24F` |
+| Tai Xuan Jing Symbols | 87 | No | `1D300` | `1D35F` |
+| Counting Rod Numerals | 18 | No | `1D360` | `1D37F` |
+| Mathematical Alphanumeric Symbols | 995 | No | `1D400` | `1D7FF` |
+| Sutton SignWriting | 671 | No | `1D800` | `1DAAF` |
+| Mende Kikakui | 213 | No | `1E800` | `1E8DF` |
+| Arabic Mathematical Alphabetic Symbols | 143 | No | `1EE00` | `1EEFF` |
+| Mahjong Tiles | 44 | No | `1F000` | `1F02F` |
+| Domino Tiles | **100** | **Yes** | `1F030` | `1F09F` |
+| Playing Cards | 82 | No | `1F0A0` | `1F0FF` |
+| Enclosed Alphanumeric Supplement | **172** | **Yes** | `1F100` | `1F1FF` |
+| Enclosed Ideographic Supplement | 57 | No | `1F200` | `1F2FF` |
+| Miscellaneous Symbols and Pictographs | 765 | No | `1F300` | `1F5FF` |
+| Emoticons | **79** | **Yes** | `1F600` | `1F64F` |
+| Ornamental Dingbats | 47 | No | `1F650` | `1F67F` |
+| Transport and Map Symbols | 98 | No | `1F680` | `1F6FF` |
+| Alchemical Symbols | 116 | No | `1F700` | `1F77F` |
+| Geometric Shapes Extended | 85 | No | `1F780` | `1F7FF` |
+| Supplemental Arrows-C | 148 | No | `1F800` | `1F8FF` |
+| Supplemental Symbols and Pictographs | 15 | No | `1F900` | `1F9FF` |
+| CJK Unified Ideographs Extension B | 42711 | No | `20000` | `2A6DF` |
+| CJK Unified Ideographs Extension C | 4149 | No | `2A700` | `2B73F` |
+| CJK Unified Ideographs Extension D | 222 | No | `2B740` | `2B81F` |
+| CJK Unified Ideographs Extension E | 5762 | No | `2B820` | `2CEAF` |
+| CJK Compatibility Ideographs Supplement | 542 | No | `2F800` | `2FA1F` |
+| Tags | 96 | No | `E0000` | `E007F` |
+| Variation Selectors Supplement | 239 | No | `E0100` | `E01EF` |
+| Supplementary Private Use Area-A | 0 | No | `F0000` | `FFFFF` |
+| Supplementary Private Use Area-B | 0 | No | `100000` | `10FFFF` |
 
 

@@ -69,7 +69,7 @@ if __name__ == "__main__":
     # and because this is a generator we can make any flavor we want:
     for separator, sn in [
             (":", "colon"),
-            ("-", "hyphen")
+            ("-", "hyphen"),
             ]:
         for asPrefix, pn in [
                 (True, "prefixed"),
@@ -77,7 +77,7 @@ if __name__ == "__main__":
                 ]:
             for onlySupported, sp in [
                     (True, "AGDonly"),
-                    (False, "full")    # large files, proceed at own leisurely pace.
+                    #(False, "full")    # large files, proceed at own leisurely pace.
                     ]:
                 path = "./../names/glyphNamesToUnicode_%s_%s_%s.txt" % (sp, sn, pn)
                 generateFlat(path, onlySupported=onlySupported, scriptSeparator=separator, scriptAsPrefix=asPrefix)
