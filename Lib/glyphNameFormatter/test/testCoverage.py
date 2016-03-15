@@ -3,7 +3,7 @@ from glyphNameFormatter.unicodeRangeNames import getAllRangeNames, rangeNameToMo
 from glyphNameFormatter import GlyphName
 import unicodedata
 
-from glyphNameFormatter.data import name2unicode_AGD
+from glyphNameFormatter.data import name2unicode_AGD, unicodeVersion
 import importlib
 from pprint import pprint
 
@@ -28,7 +28,6 @@ def testCoverage():
             if thisRange.find(uc)!=-1:
                 uncounted.append(" * %s"%thisRange)
                 countThis = False
-                break
         if not countThis:
             break
 
@@ -58,7 +57,7 @@ def testCoverage():
 
     text = []
     text.append("")
-    text.append("## unicodedata.unidata_version: %s"%unicodedata.unidata_version)
+    text.append("## Version %s"%unicodeVersion)
     text.append("\n\n\n")
     text.append("This coverage page is has some issues.")
     text.append(" * The version of python used to build the table does not have the latest Unicode data.")
@@ -72,7 +71,7 @@ def testCoverage():
 
     text.append("\n\n\n")
     text.append("| Stats                                      | :)        |")
-    text.append("| ------------------------------------------ | --------- |")
+    text.append("| ------------------------------------------ | --------: |")
     text.append('| Total code points in the available ranges  |   `%d`    |'%totalPoints)
     text.append('| Total named glyphs in the available ranges |   `%d`    |'%totalGlyphs)
     text.append('| Total names covered in GlyphNameFormatter  | `%d`      |'%totalCovered)
