@@ -3,11 +3,14 @@
 
 
 
-| ------------------------------------------ | ------- |
+
+| Stats                                      | :)        |
+| ------------------------------------------ | --------- |
 | Total code points in the available ranges  |   `126398`    |
 | Total named glyphs in the available ranges |   `107217`    |
-| Work done so far                           | `8.152%` |
 | Total names covered in GlyphNameFormatter  | `8740`      |
+| Progress                                   | `8.152%` |
+
 
 
 
