@@ -1,5 +1,13 @@
 import os
 
+__slots__ = [
+    "unicode2name_AGD",
+    "name2unicode_AGD",
+    "unicodelist",
+    "unicodeVersion",
+    "unicodeRangeNames",
+    ]
+
 path = os.path.dirname(__file__)
 
 # =======
@@ -41,6 +49,8 @@ f = open(os.path.join(path, "flatUnicode.txt"))
 lines = f.readlines()
 f.close()
 
+unicodeVersion = lines[0].replace("#", "").strip()
+
 for line in lines:
     if line.startswith("#"):
         # a comment
@@ -53,6 +63,7 @@ for line in lines:
     uniNumber = int(uniNumber, 16)
     unicodelist[uniNumber] = uniName
 
+unicodeVersion = lines[0].replace("#", "").strip()
 
 # ==================
 # = unicode blocks =
