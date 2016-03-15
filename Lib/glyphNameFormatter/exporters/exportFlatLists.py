@@ -17,14 +17,21 @@ def getExportVersionNumber():
     commitNumber = commitNumber.strip()
     return "%s - git commit: %s" % (__version__, commitNumber)
 
+_versionNumber = getExportVersionNumber()
 
-def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=None, findConflicts=True):
-    if findConflicts:
-        findConflict(makeModule=True)
 
+def getGithubLink():
+    commithash = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'],  cwd=os.path.dirname(__file__))
+    return "https://github.com/LettError/glyphNameFormatter/tree/%s" % commithash
+
+_githubLink = getGithubLink()
+
+
+def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=None):
     data = [
         "# Glyph Name Formatted Unicode List - GNFUL",
-        "# GlyphNameFormatter version %s" % getExportVersionNumber(),
+        "# GlyphNameFormatter version %s" % _versionNumber,
+        "# Source code: %s" % _githubLink,
         "# Generated on %s" % time.strftime("%Y %m %d %H:%M:%S"),
         "# <glyphName> <hex unicode>",
     ]
@@ -42,8 +49,8 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
                 continue
         data.append("# %s" % rangeName)
         for u in range(*getRangeByName(rangeName)):
-            g = GlyphName(uniNumber=u)
-            name = g.getName(extension=True, scriptSeparator=scriptSeparator, scriptAsPrefix=scriptAsPrefix)
+            g = GlyphName(uniNumber=u, scriptSeparator=scriptSeparator, scriptAsPrefix=scriptAsPrefix)
+            name = g.getName(extension=True)
             if name is None:
                 continue
             data.append("%s %04X" % (name, u))
@@ -53,6 +60,8 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
     f.close()
 
 if __name__ == "__main__":
+
+    findConflict(makeModule=True)
 
     # generate a flat export
     generateFlat("./../names/glyphNamesToUnicode.txt")
@@ -71,4 +80,4 @@ if __name__ == "__main__":
                     (False, "full")    # large files, proceed at own leisurely pace.
                     ]:
                 path = "./../names/glyphNamesToUnicode_%s_%s_%s.txt" % (sp, sn, pn)
-                generateFlat(path, onlySupported=onlySupported, scriptSeparator=separator, scriptAsPrefix=asPrefix, findConflicts=False)
+                generateFlat(path, onlySupported=onlySupported, scriptSeparator=separator, scriptAsPrefix=asPrefix)
