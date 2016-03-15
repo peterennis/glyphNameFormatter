@@ -1,8 +1,11 @@
 """
-This simple parse into a simple list that is workable and
+This will parse the large ucd xml into a simple list that is workable and
 is fair enough for download and embeding.
 
-Just parse it to <unicode> \t <unicode name>
+starts with the # unicode description/version
+
+format
+<unicode> \t <unicode name>
 
 download from
 http://www.unicode.org/Public/8.0.0/ucdxml/ucd.all.flat.zip
