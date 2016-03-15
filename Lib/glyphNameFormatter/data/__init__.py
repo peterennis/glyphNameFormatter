@@ -31,6 +31,29 @@ for line in lines:
         currentGlyphName = line.strip()
 
 
+# ================
+# = unicode list =
+# ================
+
+unicodelist = {}
+
+f = open(os.path.join(path, "flatUnicode.txt"))
+lines = f.readlines()
+f.close()
+
+for line in lines:
+    if line.startswith("#"):
+        # a comment
+        continue
+    line = line.strip()
+    if not line:
+        # empty line
+        continue
+    uniNumber, uniName = line.split("\t")
+    uniNumber = int(uniNumber, 16)
+    unicodelist[uniNumber] = uniName
+
+
 # ==================
 # = unicode blocks =
 # ==================

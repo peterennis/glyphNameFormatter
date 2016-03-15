@@ -3,6 +3,7 @@ from __future__ import print_function
 
 import unicodedata
 
+from data import unicodelist
 from data.scriptConflictNames import scriptConflictNames
 from data.preferredAGLNames import preferredAGLNames
 from data.scriptPrefixes import scriptPrefixes, addScriptPrefix, SCRIPTSEPARATOR, SCRIPTASPREFIX
@@ -86,11 +87,16 @@ class GlyphName(object):
             print("GlyphName valueerror for %04X" % self.uniNumber)
             return
         try:
-            self.uniName = unicodedata.name(self.uniLetter)
-            self.uniNameProcessed = self.uniName
+            # self.uniName = unicodedata.name(self.uniLetter)
+            self.uniName = unicodelist.get(self.uniNumber)
+            if self.uniName is None:
+                self.uniNameProcessed = ""
+            else:
+                self.uniNameProcessed = self.uniName
             self.bidiType = unicodedata.bidirectional(self.uniLetter)
         except ValueError:
             self.uniName = None
+            self.uniNameProcessed = ""
             self.uniLetter = None
             self.bidiType = None
         self.uniRangeName = getRangeName(self.uniNumber)
