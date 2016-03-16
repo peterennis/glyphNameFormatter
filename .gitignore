@@ -16,3 +16,7 @@
 .idea/modules.xml
 
 .idea/misc.xml
+
+*.sublime-project
+
+*.sublime-workspace
