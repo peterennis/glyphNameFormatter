@@ -1,5 +1,7 @@
 
+
 def process(self):
+    self.scriptTag = ""
     if self.has("MODIFIER LETTER CIRCUMFLEX ACCENT"):
         return
 
@@ -48,7 +50,7 @@ def process(self):
     if self.has("MODIFIER"):
         self.suffix("mod")
     self.compress()
-    self.scriptTag = ""
+
 
 
 if __name__ == "__main__":

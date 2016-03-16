@@ -326,6 +326,7 @@ scriptConflictNames = [
     "rra",
     "rrvocal",
     "rrvocalsign",
+    "rtail",
     "ru",
     "rupee",
     "rvocal",
