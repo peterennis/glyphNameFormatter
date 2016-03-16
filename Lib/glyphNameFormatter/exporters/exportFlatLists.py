@@ -48,7 +48,8 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
             except:
                 continue
         data.append("# %s" % rangeName)
-        for u in range(*getRangeByName(rangeName)):
+        start, end = getRangeByName(rangeName)
+        for u in range(start, end+1):
             g = GlyphName(uniNumber=u, scriptSeparator=scriptSeparator, scriptAsPrefix=scriptAsPrefix)
             g.compress()  # should auto compress
             if status is not None:
