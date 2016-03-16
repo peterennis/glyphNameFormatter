@@ -13,11 +13,15 @@ def process(self):
     self.edit("UPWARDS", "up")
     self.edit("RAISED OMISSION", "raised")
 
+    self.replace("QUOTATION", "quote")
     self.replace("MARKER", "marker")
     self.edit("MARK")
     self.edit("PUNCTUATION")
     self.edit("SIDEWAYS")
 
+    self.edit("LOW-REVERSED-9", "lowreversed")
+    self.edit("TWO-", "dbl")
+    self.edit("THREE-", "tpl")
     parts = [
         "HALF", "DOTTED", "RAISED", "INTERPOLATION", "TRANSPOSITION", "SUBSTITUTION",
         "RING", "VERTICAL", "PARAPHRASE", "FORKED", "EDITORIAL",
