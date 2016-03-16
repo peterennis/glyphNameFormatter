@@ -66,6 +66,7 @@ def process(self):
         0x03C8,  # psi
         0x03B1,  # alpha
         0x03C7,  # chi
+        0x03A7,  # Chi
         0x0927,  # delta
         0x03B3,  # gamma
         0x03DE,  # Koppa
@@ -73,6 +74,14 @@ def process(self):
         0x03C6,  # phi
         0x03C5,  # upsilon
         0x03B9,  # iota
+        0x03BC,  # mu
+        0x03BD,  # nu
+        0x03C0,  # pi
+        0x03F8,  # sho
+        0x03BE,  # xi
+        0x03B2,  # beta
+        0x0392,  # Beta
+        0x037A,  # iotasubscript
         ]
 
     if self.uniNumber in greekFirstUnicodes:
