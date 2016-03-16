@@ -31,6 +31,7 @@ class GlyphName(object):
     prefSpelling_dieresis = "dieresis"
 
     def __init__(self, uniNumber=None, scriptSeparator=None, scriptAsPrefix=None, verbose=False):
+        self.status = 0 # defaults to draft
         self.uniNumber = uniNumber
         self.uniLetter = None
         self.uniName = ""
@@ -100,6 +101,16 @@ class GlyphName(object):
             self.uniLetter = None
             self.bidiType = None
         self.uniRangeName = getRangeName(self.uniNumber)
+
+    # these can be called by a range processor to set the status of a name.
+    def setRelease(self):
+        self.status = 1     # good, checked, ready
+    def setDraft(self):
+        self.status = 0     # working on it, default
+    def setExperimental(self):
+        self.status = -1    # new, unchecked, needs work
+    def setDeprecated(self):
+        self.status = -2    # old, must not include
 
     def hasName(self):
         if not self.uniName:

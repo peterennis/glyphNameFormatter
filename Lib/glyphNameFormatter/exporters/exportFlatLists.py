@@ -27,7 +27,7 @@ def getGithubLink():
 _githubLink = getGithubLink()
 
 
-def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=None):
+def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=None, status=0):
     data = [
         "# Glyph Name Formatted Unicode List - GNFUL",
         "# GlyphNameFormatter version %s" % _versionNumber,
@@ -50,6 +50,11 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
         data.append("# %s" % rangeName)
         for u in range(*getRangeByName(rangeName)):
             g = GlyphName(uniNumber=u, scriptSeparator=scriptSeparator, scriptAsPrefix=scriptAsPrefix)
+            if status is not None:
+                if g.status < status:
+                    # if the glyph has a status that is less than what we're looking for
+                    # then do not include it in the list.
+                    continue
             name = g.getName(extension=True)
             if name is None:
                 continue
@@ -65,6 +70,7 @@ if __name__ == "__main__":
 
     # generate a flat export
     generateFlat("./../names/glyphNamesToUnicode.txt")
+    generateFlat("./../names/glyphNamesToUnicode_experimental.txt", status=-1)
 
     # and because this is a generator we can make any flavor we want:
     for separator, sn in [
@@ -80,4 +86,8 @@ if __name__ == "__main__":
                     #(False, "full")    # large files, proceed at own leisurely pace.
                     ]:
                 path = "./../names/glyphNamesToUnicode_%s_%s_%s.txt" % (sp, sn, pn)
-                generateFlat(path, onlySupported=onlySupported, scriptSeparator=separator, scriptAsPrefix=asPrefix)
+                generateFlat(path, onlySupported=onlySupported,
+                    scriptSeparator=separator,
+                    scriptAsPrefix=asPrefix,
+                    status=0
+                    )

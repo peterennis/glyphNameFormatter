@@ -3,6 +3,7 @@
 def process(self):
     # just to test unicode 8 stuff
     # not complete
+    self.setExperimental()
     self.replace(" ", "_")
     self.lower()
     self.compress()
