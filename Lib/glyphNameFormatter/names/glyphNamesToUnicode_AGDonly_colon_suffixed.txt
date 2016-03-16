@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 330
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/e63784b
+# GlyphNameFormatter version 0.1 - git commit: 339
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/6619c40
 
-# Generated on 2016 03 16 09:15:28
+# Generated on 2016 03 16 15:36:35
 # <glyphName> <hex unicode>
 # Separator ":"
 # Prefixed "False"
@@ -581,7 +581,7 @@ rturned 0279
 rlonglegturned 027A
 rhookturned 027B
 rlongleg 027C
-rtail 027D
+rtail:ipa 027D
 rfishhook 027E
 rfishhookreversed 027F
 Rsmall 0280
@@ -654,7 +654,7 @@ arrowheadleftmod 02C2
 arrowheadrightmod 02C3
 arrowheadupmod 02C4
 arrowheaddownmod 02C5
-circumflex:spcn 02C6
+circumflex 02C6
 caron 02C7
 verticallinemod 02C8
 macronmod 02C9
@@ -832,7 +832,7 @@ numeralsign 0374
 lownumeralsign 0375
 Digammapamphylian 0376
 digammapamphylian 0377
-iotasubscript:gr 037A
+iotasubscript 037A
 sigmalunatereversedsymbol 037B
 sigmalunatedottedsymbol 037C
 sigmalunatedottedreversedsymbol 037D
@@ -850,7 +850,7 @@ Upsilonwithtonos 038E
 Omegawithtonos 038F
 iotadieresisandtonos 0390
 Alpha 0391
-Beta:gr 0392
+Beta 0392
 Gamma 0393
 Delta 0394
 Epsilon 0395
@@ -870,7 +870,7 @@ Sigma 03A3
 Tau 03A4
 Upsilon 03A5
 Phi 03A6
-Chi:gr 03A7
+Chi 03A7
 Psi 03A8
 Omega 03A9
 Iotadieresis 03AA
@@ -881,7 +881,7 @@ etawithtonos 03AE
 iotawithtonos 03AF
 upsilondieresisandtonos 03B0
 alpha 03B1
-beta:gr 03B2
+beta 03B2
 gamma 03B3
 delta 03B4
 epsilon 03B5
@@ -891,11 +891,11 @@ theta 03B8
 iota 03B9
 kappa 03BA
 lamda 03BB
-mu:gr 03BC
-nu:gr 03BD
-xi:gr 03BE
+mu 03BC
+nu 03BD
+xi 03BE
 omicron 03BF
-pi:gr 03C0
+pi 03C0
 rho 03C1
 finalsigma 03C2
 sigma 03C3
@@ -951,7 +951,7 @@ Thetasymbol 03F4
 epsilonlunatesymbol 03F5
 epsilonreversedlunatesymbol 03F6
 Sho 03F7
-sho:gr 03F8
+sho 03F8
 Sigmalunatesymbol 03F9
 San 03FA
 san 03FB
@@ -1863,7 +1863,7 @@ ooe:deva 0974
 aw:deva 0975
 ue:deva 0976
 uue:deva 0977
-marwari dda:deva 0978
+marwaridda:deva 0978
 zha:deva 0979
 yaheavy:deva 097A
 gga:deva 097B
@@ -6527,15 +6527,15 @@ daggerwithguardleft 2E36
 daggerwithguardright 2E37
 turneddagger 2E38
 sectionsignhalftop 2E39
-two-emdash 2E3A
-three-emdash 2E3B
+emdashdbl 2E3A
+emdashtpl 2E3B
 stenographicfullstop 2E3C
 sixdotsvertical 2E3D
 wigglylinevertical 2E3E
 capitulum 2E3F
 hyphendbl 2E40
 commareversed 2E41
---9quotationdblreversedlow 2E42
+quotedbllowreversed 2E42
 # CJK Symbols and Punctuation
 ideographicspace 3000
 ideographiccomma:cjk 3001
@@ -7687,6 +7687,7 @@ seven:java A9D7
 eight:java A9D8
 nine:java A9D9
 tirtatumetespada A9DE
+# Latin Extended-E
 # Cherokee Supplement
 # Private Use Area
 # Alphabetic Presentation Forms
@@ -8903,6 +8904,7 @@ dominovertical_06_03 1F090
 dominovertical_06_04 1F091
 dominovertical_06_05 1F092
 dominovertical_06_06 1F093
+# Playing Cards
 # Enclosed Alphanumeric Supplement
 zerofullstop 1F100
 zerocomma 1F101

@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 330
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/e63784b
+# GlyphNameFormatter version 0.1 - git commit: 339
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/6619c40
 
-# Generated on 2016 03 16 09:15:26
+# Generated on 2016 03 16 15:36:28
 # <glyphName> <hex unicode>
 #
 # Basic Latin
@@ -579,7 +579,7 @@ rturned 0279
 rlonglegturned 027A
 rhookturned 027B
 rlongleg 027C
-rtail 027D
+ipa-rtail 027D
 rfishhook 027E
 rfishhookreversed 027F
 Rsmall 0280
@@ -652,7 +652,7 @@ arrowheadleftmod 02C2
 arrowheadrightmod 02C3
 arrowheadupmod 02C4
 arrowheaddownmod 02C5
-spcn-circumflex 02C6
+circumflex 02C6
 caron 02C7
 verticallinemod 02C8
 macronmod 02C9
@@ -830,7 +830,7 @@ numeralsign 0374
 lownumeralsign 0375
 Digammapamphylian 0376
 digammapamphylian 0377
-gr-iotasubscript 037A
+iotasubscript 037A
 sigmalunatereversedsymbol 037B
 sigmalunatedottedsymbol 037C
 sigmalunatedottedreversedsymbol 037D
@@ -848,7 +848,7 @@ Upsilonwithtonos 038E
 Omegawithtonos 038F
 iotadieresisandtonos 0390
 Alpha 0391
-gr-Beta 0392
+Beta 0392
 Gamma 0393
 Delta 0394
 Epsilon 0395
@@ -868,7 +868,7 @@ Sigma 03A3
 Tau 03A4
 Upsilon 03A5
 Phi 03A6
-gr-Chi 03A7
+Chi 03A7
 Psi 03A8
 Omega 03A9
 Iotadieresis 03AA
@@ -879,7 +879,7 @@ etawithtonos 03AE
 iotawithtonos 03AF
 upsilondieresisandtonos 03B0
 alpha 03B1
-gr-beta 03B2
+beta 03B2
 gamma 03B3
 delta 03B4
 epsilon 03B5
@@ -889,11 +889,11 @@ theta 03B8
 iota 03B9
 kappa 03BA
 lamda 03BB
-gr-mu 03BC
-gr-nu 03BD
-gr-xi 03BE
+mu 03BC
+nu 03BD
+xi 03BE
 omicron 03BF
-gr-pi 03C0
+pi 03C0
 rho 03C1
 finalsigma 03C2
 sigma 03C3
@@ -949,7 +949,7 @@ Thetasymbol 03F4
 epsilonlunatesymbol 03F5
 epsilonreversedlunatesymbol 03F6
 Sho 03F7
-gr-sho 03F8
+sho 03F8
 Sigmalunatesymbol 03F9
 San 03FA
 san 03FB
@@ -1861,7 +1861,7 @@ deva-ooe 0974
 deva-aw 0975
 deva-ue 0976
 deva-uue 0977
-deva-marwari dda 0978
+deva-marwaridda 0978
 deva-zha 0979
 deva-yaheavy 097A
 deva-gga 097B
@@ -6706,15 +6706,15 @@ daggerwithguardleft 2E36
 daggerwithguardright 2E37
 turneddagger 2E38
 sectionsignhalftop 2E39
-two-emdash 2E3A
-three-emdash 2E3B
+emdashdbl 2E3A
+emdashtpl 2E3B
 stenographicfullstop 2E3C
 sixdotsvertical 2E3D
 wigglylinevertical 2E3E
 capitulum 2E3F
 hyphendbl 2E40
 commareversed 2E41
---9quotationdblreversedlow 2E42
+quotedbllowreversed 2E42
 # CJK Symbols and Punctuation
 ideographicspace 3000
 cjk-ideographiccomma 3001
@@ -7866,6 +7866,61 @@ java-seven A9D7
 java-eight A9D8
 java-nine A9D9
 tirtatumetespada A9DE
+# Latin Extended-E
+redalphabar AB30
+areversedschwa AB31
+efractur AB32
+redebar AB33
+eflourish AB34
+flenis AB35
+gtailscript AB36
+llazyinverteds AB37
+lmiddledbltilde AB38
+lmiddlering AB39
+mtail AB3A
+ntail AB3B
+engtail AB3C
+ofractur AB3D
+ofracturstroke AB3E
+ostrokeopen AB3F
+oeinverted AB40
+oestroketurned AB41
+oehorizontalstroketurned AB42
+ooopenturned AB43
+ooopenstroketurned AB44
+stirrupr AB45
+Rrightlegsmall AB46
+routhandle AB47
+rdbl AB48
+rtail AB49
+rtaildbl AB4A
+rscript AB4B
+rringscript AB4C
+baselineesh AB4D
+urightlegshort AB4E
+urightlegbarshort AB4F
+ui AB50
+uiturned AB51
+ulefthook AB52
+chi AB53
+chilowrightring AB54
+chilowleftserif AB55
+xlowrightring AB56
+xlongleftleg AB57
+xlongleftlegandlowrightring AB58
+xlongleftlegserif AB59
+yrightlegshort AB5A
+breveinvertedmod AB5B
+hengmod AB5C
+llazyinvertedsmod AB5D
+lmiddletildemod AB5E
+ulefthookmod AB5F
+sakhayat AB60
+iotifiede AB61
+oeopen AB62
+uo AB63
+alphainverted AB64
+grOmegasmall AB65
 # Cherokee Supplement
 chrk-asmall AB70
 chrk-esmall AB71
@@ -9161,6 +9216,89 @@ dominovertical_06_03 1F090
 dominovertical_06_04 1F091
 dominovertical_06_05 1F092
 dominovertical_06_06 1F093
+# Playing Cards
+cards-back 1F0A0
+cards-aceofspades 1F0A1
+cards-twoofspades 1F0A2
+cards-threeofspades 1F0A3
+cards-fourofspades 1F0A4
+cards-fiveofspades 1F0A5
+cards-sixofspades 1F0A6
+cards-sevenofspades 1F0A7
+cards-eightofspades 1F0A8
+cards-nineofspades 1F0A9
+cards-tenofspades 1F0AA
+cards-jackofspades 1F0AB
+cards-knightofspades 1F0AC
+cards-queenofspades 1F0AD
+cards-kingofspades 1F0AE
+cards-aceofhearts 1F0B1
+cards-twoofhearts 1F0B2
+cards-threeofhearts 1F0B3
+cards-fourofhearts 1F0B4
+cards-fiveofhearts 1F0B5
+cards-sixofhearts 1F0B6
+cards-sevenofhearts 1F0B7
+cards-eightofhearts 1F0B8
+cards-nineofhearts 1F0B9
+cards-tenofhearts 1F0BA
+cards-jackofhearts 1F0BB
+cards-knightofhearts 1F0BC
+cards-queenofhearts 1F0BD
+cards-kingofhearts 1F0BE
+cards-redjoker 1F0BF
+cards-aceofdiamonds 1F0C1
+cards-twoofdiamonds 1F0C2
+cards-threeofdiamonds 1F0C3
+cards-fourofdiamonds 1F0C4
+cards-fiveofdiamonds 1F0C5
+cards-sixofdiamonds 1F0C6
+cards-sevenofdiamonds 1F0C7
+cards-eightofdiamonds 1F0C8
+cards-nineofdiamonds 1F0C9
+cards-tenofdiamonds 1F0CA
+cards-jackofdiamonds 1F0CB
+cards-knightofdiamonds 1F0CC
+cards-queenofdiamonds 1F0CD
+cards-kingofdiamonds 1F0CE
+cards-blackjoker 1F0CF
+cards-aceofclubs 1F0D1
+cards-twoofclubs 1F0D2
+cards-threeofclubs 1F0D3
+cards-fourofclubs 1F0D4
+cards-fiveofclubs 1F0D5
+cards-sixofclubs 1F0D6
+cards-sevenofclubs 1F0D7
+cards-eightofclubs 1F0D8
+cards-nineofclubs 1F0D9
+cards-tenofclubs 1F0DA
+cards-jackofclubs 1F0DB
+cards-knightofclubs 1F0DC
+cards-queenofclubs 1F0DD
+cards-kingofclubs 1F0DE
+cards-whitejoker 1F0DF
+cards-fool 1F0E0
+cards-trump1 1F0E1
+cards-trump2 1F0E2
+cards-trump3 1F0E3
+cards-trump4 1F0E4
+cards-trump5 1F0E5
+cards-trump6 1F0E6
+cards-trump7 1F0E7
+cards-trump8 1F0E8
+cards-trump9 1F0E9
+cards-trump10 1F0EA
+cards-trump11 1F0EB
+cards-trump12 1F0EC
+cards-trump13 1F0ED
+cards-trump14 1F0EE
+cards-trump15 1F0EF
+cards-trump16 1F0F0
+cards-trump17 1F0F1
+cards-trump18 1F0F2
+cards-trump19 1F0F3
+cards-trump20 1F0F4
+cards-trump21 1F0F5
 # Enclosed Alphanumeric Supplement
 zerofullstop 1F100
 zerocomma 1F101
@@ -9341,14 +9479,14 @@ face_with_tears_of_joy 1F602
 smiling_face_with_open_mouth 1F603
 smiling_face_with_open_mouth_and_smiling_eyes 1F604
 smiling_face_with_open_mouth_and_cold_sweat 1F605
-smiling_face_with_open_mouth_and_tightly-closed_eyes 1F606
+smiling_face_with_open_mouth_and_tightly_closed_eyes 1F606
 smiling_face_with_halo 1F607
 smiling_face_with_horns 1F608
 winking_face 1F609
 smiling_face_with_smiling_eyes 1F60A
 face_savouring_delicious_food 1F60B
 relieved_face 1F60C
-smiling_face_with_heart-shaped_eyes 1F60D
+smiling_face_with_heart_shaped_eyes 1F60D
 smiling_face_with_sunglasses 1F60E
 smirking_face 1F60F
 neutral_face 1F610
@@ -9362,9 +9500,9 @@ kissing_face 1F617
 face_throwing_a_kiss 1F618
 kissing_face_with_smiling_eyes 1F619
 kissing_face_with_closed_eyes 1F61A
-face_with_stuck-out_tongue 1F61B
-face_with_stuck-out_tongue_and_winking_eye 1F61C
-face_with_stuck-out_tongue_and_tightly-closed_eyes 1F61D
+face_with_stuck_out_tongue 1F61B
+face_with_stuck_out_tongue_and_winking_eye 1F61C
+face_with_stuck_out_tongue_and_tightly_closed_eyes 1F61D
 disappointed_face 1F61E
 worried_face 1F61F
 angry_face 1F620
@@ -9394,7 +9532,7 @@ face_with_medical_mask 1F637
 grinning_cat_face_with_smiling_eyes 1F638
 cat_face_with_tears_of_joy 1F639
 smiling_cat_face_with_open_mouth 1F63A
-smiling_cat_face_with_heart-shaped_eyes 1F63B
+smiling_cat_face_with_heart_shaped_eyes 1F63B
 cat_face_with_wry_smile 1F63C
 kissing_cat_face_with_closed_eyes 1F63D
 pouting_cat_face 1F63E
@@ -9402,14 +9540,14 @@ crying_cat_face 1F63F
 weary_cat_face 1F640
 slightly_frowning_face 1F641
 slightly_smiling_face 1F642
-upside-down_face 1F643
+upside_down_face 1F643
 face_with_rolling_eyes 1F644
 face_with_no_good_gesture 1F645
 face_with_ok_gesture 1F646
 person_bowing_deeply 1F647
-see-no-evil_monkey 1F648
-hear-no-evil_monkey 1F649
-speak-no-evil_monkey 1F64A
+see_no_evil_monkey 1F648
+hear_no_evil_monkey 1F649
+speak_no_evil_monkey 1F64A
 happy_person_raising_one_hand 1F64B
 person_raising_both_hands_in_celebration 1F64C
 person_frowning 1F64D
