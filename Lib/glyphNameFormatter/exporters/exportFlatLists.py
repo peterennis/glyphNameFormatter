@@ -50,6 +50,7 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
         data.append("# %s" % rangeName)
         for u in range(*getRangeByName(rangeName)):
             g = GlyphName(uniNumber=u, scriptSeparator=scriptSeparator, scriptAsPrefix=scriptAsPrefix)
+            g.compress()  # should auto compress
             if status is not None:
                 if g.status < status:
                     # if the glyph has a status that is less than what we're looking for
