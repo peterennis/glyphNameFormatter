@@ -5,6 +5,7 @@ def process(self):
     # not complete
     self.setExperimental()
     self.replace(" ", "_")
+    self.replace("-", "_")
     self.lower()
     self.compress()
 
