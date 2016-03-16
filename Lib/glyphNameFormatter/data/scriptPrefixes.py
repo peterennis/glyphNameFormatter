@@ -104,6 +104,7 @@ _scriptPrefixes = {
     'phonetic': "phon",
     'vedic': 've',
     'vertical forms': 'vert',
+    'Playing Cards': 'cards',
 }
 
 scriptPrefixes = ScriptPrefixesDict(_scriptPrefixes)
