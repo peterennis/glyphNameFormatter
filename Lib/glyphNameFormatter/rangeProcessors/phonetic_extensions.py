@@ -28,7 +28,7 @@ def process(self):
     self.replace("LETTER SMALL CAPITAL R", "Rsmall")
     self.replace("SMALL CAPITAL LETTER U", "Usmall")
     self.replace("SMALL CAPITAL LETTER I", "Ismall")
-    self.replace("LETTER SMALL CAPITAL EL", "ELsmall")
+    self.replace("LETTER SMALL CAPITAL EL", "Elsmall")
     self.replace("AIN", "ain")
 
     self.replace("LETTER SMALL CAPITAL AE", "AEsmall")
