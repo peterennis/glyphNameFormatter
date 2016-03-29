@@ -65,33 +65,33 @@ def addScriptPrefix(txt, tag=None, script=None, scriptSeparator=SCRIPTSEPARATOR,
         raise GlyphNameFormatterError("Need a script or a tag")
     if tag is None:
         tag = scriptPrefixes[script]
-    if "%s" not in tag:
-        if scriptAsPrefix:
-            order = (tag, scriptSeparator)
-            tag = "%s%s%%s" % order
-        else:
-            order = (scriptSeparator, tag)
-            tag = "%%s%s%s" % order
+
+    if "{glyphName}" in tag:
+        return tag.format(glyphName=txt, scriptSeparator=scriptSeparator)
+
     if scriptAsPrefix:
-        return tag % txt
-    return tag % txt
+        order = tag, scriptSeparator, txt
+    else:
+        order = txt, scriptSeparator, tag
+    return "%s%s%s" % order
 
 
 # script prefixes are abbreviations of a script
 # optionally a pattern can be given:
-# '%scyr' will add 'cyr' to the end
+# '{glyphName}cyr' will add 'cyr' to the end
+# '{scriptSeparator}' will insert the separator at a given place
 
 _scriptPrefixes = {
     'arabic': 'ar',
     'boxdrawings': 'bxd',
     'cjk': 'cjk',
     'combining diacritical marks': "cmb",
-    'cyrillic': '%scyr',
+    'cyrillic': '{glyphName}cyr',
     'fullwidth': 'fwd',
     'halfwidth': 'hwd',
     'greek': 'gr',
     'hangul': 'ko',
-    'hebrew': '%%s%shb' % SCRIPTSEPARATOR,
+    'hebrew': '{glyphName}{scriptSeparator}hb',
     'hiragana': 'hira',
     'ipa': 'ipa',
     'katakana': 'kata',
@@ -100,7 +100,7 @@ _scriptPrefixes = {
     'miscellaneous': 'misc',
     'musical': 'music',
     'optical character recognition': 'ocr',
-    'oriya': "orya", # "odia"
+    'oriya': "orya",  # "odia"
     'phonetic': "phon",
     'vedic': 've',
     'vertical forms': 'vert',
@@ -141,10 +141,13 @@ if __name__ == "__main__":
         'latin:A'
         >>> addScriptPrefix("A", "latin", scriptSeparator=":", scriptAsPrefix=False)
         'A:latin'
+        >>> addScriptPrefix("A", "hebrew", scriptSeparator=":", scriptAsPrefix=False)
+        'A:hebrew'
+        >>> addScriptPrefix("A", script="hebrew", scriptSeparator=":", scriptAsPrefix=False)
+        'A:hb'
         """
 
     doctest.testmod()
-
 
     def testAllPrefixes():
         # let's not just assume all prefixes that end up the same
@@ -153,7 +156,7 @@ if __name__ == "__main__":
         prefixes = {}
         for n in getAllRangeNames():
             pf = scriptPrefixes[n]
-            if not pf in prefixes:
+            if pf not in prefixes:
                 prefixes[pf] = []
             prefixes[pf].append(n)
         from pprint import pprint
