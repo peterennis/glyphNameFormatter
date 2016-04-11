@@ -23,6 +23,7 @@ def process(self):
     self.edit("CAPITAL LETTER AE WITH", "AE")
 
     self.edit("CAPITAL LETTER WYNN", "Wynn")
+    self.edit("LETTER WYNN", "wynn")
 
     self.edit("WITH PALATAL", "palatal")
     self.edit("DENTAL", "dental")

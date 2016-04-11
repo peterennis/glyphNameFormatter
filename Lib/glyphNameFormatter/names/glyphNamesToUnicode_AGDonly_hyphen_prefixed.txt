@@ -1,7 +1,7 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 358
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/95a5910
-# Generated on 2016 04 11 21:40:31
+# GlyphNameFormatter version 0.1 - git commit: 359
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/53b1b75
+# Generated on 2016 04 11 22:20:57
 # <glyphName> <hex unicode>
 # Separator "-"
 # Prefixed "True"
@@ -392,7 +392,7 @@ twostroke 01BB
 Tonefive 01BC
 tonefive 01BD
 glottalinvertedstroke 01BE
-LETTERWYNN 01BF
+wynn 01BF
 clickdental 01C0
 clicklateral 01C1
 clickalveolar 01C2

@@ -104,4 +104,3 @@ def getSupportedRangeNames():
             supported.append(name)
     return supported
 
-print(getSupportedRangeNames())
