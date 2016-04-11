@@ -32,4 +32,3 @@ for i in tree.iter():
 f = open("flatUnicode.txt", "w")
 f.write("\n".join(flat))
 f.close()
-
