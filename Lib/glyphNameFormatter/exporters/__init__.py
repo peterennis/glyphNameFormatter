@@ -3,7 +3,7 @@ from __future__ import print_function
 from glyphNameFormatter.unicodeRangeNames import getRangeByName
 from glyphNameFormatter import GlyphName
 
-from glyphNameFormatter.data import unicode2name_AGD
+from glyphNameFormatter.data import unicode2name_AGD, unicode2name_GLYPHS
 
 
 def _rangeNameToRange(rangeName):
@@ -14,7 +14,11 @@ def _rangeNameToRange(rangeName):
 
 
 def printRange(rangeName, toFile=None):
-    out = []
+    out = [
+        "{0:<50s}{1:<30}{2:<30}{3}{4:<5}{5}".format("Generated Name", "AGD", "Glyphs", "uni    ", " ", "uni name"),
+        ""
+
+    ]
     for u in range(*_rangeNameToRange(rangeName)):
         g = GlyphName(uniNumber=u)
         name = g.getName()
@@ -25,8 +29,14 @@ def printRange(rangeName, toFile=None):
             AGDName = "-"
         elif AGDName == name:
             AGDName = u"👍"
+        GLYPHSName = unicode2name_GLYPHS.get(g.uniNumber)
+        if GLYPHSName is None:
+            GLYPHSName = "-"
+        elif GLYPHSName == name:
+            GLYPHSName = ""
         txt = name.ljust(50)
         txt += AGDName.ljust(30)
+        txt += GLYPHSName.ljust(30)
         txt += "%04X   " % g.uniNumber
         txt += g.uniLetter.ljust(5)
         txt += g.uniName

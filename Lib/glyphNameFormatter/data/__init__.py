@@ -1,8 +1,11 @@
 import os
+from xml.etree import cElementTree as ET
 
 __slots__ = [
     "unicode2name_AGD",
     "name2unicode_AGD",
+    "unicode2name_GLYPHS",
+    "name2unicode_GLYPHS",
     "unicodelist",
     "unicodeVersion",
     "unicodeRangeNames",
@@ -38,6 +41,27 @@ for line in lines:
     else:
         currentGlyphName = line.strip()
 
+
+# ==========================
+# = GLYPHS glyph name list =
+# ==========================
+
+# data taken from https://github.com/schriftgestalt/GlyphsInfo/blob/master/GlyphData.xml
+
+unicode2name_GLYPHS = {}
+name2unicode_GLYPHS = {}
+
+tree = ET.parse(os.path.join(path, "GlyphData.xml"))
+
+for i in tree.iter():
+    if i.tag == "glyph":
+        u = i.attrib.get("unicode")
+        if u:
+            u = int(u, 16)
+            n = i.attrib.get("name")
+            n = n.split("-")[0]
+            unicode2name_GLYPHS[u] = n
+            name2unicode_GLYPHS[n] = u
 
 # ================
 # = unicode list =
