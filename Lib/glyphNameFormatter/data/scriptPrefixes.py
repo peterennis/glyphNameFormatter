@@ -4,7 +4,7 @@ from xml.etree import ElementTree as ET
 from glyphNameFormatter.tools import GlyphNameFormatterError
 
 
-SCRIPTSEPARATOR = "-"
+SCRIPTSEPARATOR = ":"
 SCRIPTASPREFIX = True
 
 

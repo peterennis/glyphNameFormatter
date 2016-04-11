@@ -1,6 +1,6 @@
 from __future__ import print_function
 import glyphNameFormatter
-from glyphNameFormatter.unicodeRangeNames import getRangeByName, getAllRangeNames
+from glyphNameFormatter.unicodeRangeNames import getRangeByName, getAllRangeNames, getSupportedRangeNames
 import os
 
 skipped = {}
@@ -13,7 +13,8 @@ def generateRange(rangeName):
         print("unknown range name", rangeName)
         return
     start, end = r
-    lines.append("# %s %04X - %04X" % (rangeName, start, end))
+    lines.append("# %s %05X - %05X" % (rangeName, start, end))
+    hasSupport = False
     for uniNumber in range(start, end+1):
         glyphName = glyphNameFormatter.GlyphName(uniNumber)
         if glyphName.hasName():
@@ -21,11 +22,12 @@ def generateRange(rangeName):
     dirForNames = "../names/ranges/"
     if not os.path.exists(dirForNames):
         os.makedirs(dirForNames)
-    path = "../names/ranges/names_%s.txt" % rangeName.replace(" ", "_").lower()
+    rangeForFileName = "%05X-%05X %s" % (start, end, rangeName.replace(" ", "_").lower())
+    path = "../names/ranges/%s.txt" % rangeForFileName
     f = open(path, 'w')
     f.write("\n".join(lines))
     f.close()
 
 if __name__ == "__main__":
-    for rangeName in getAllRangeNames():
+    for rangeName in getSupportedRangeNames():
         generateRange(rangeName)

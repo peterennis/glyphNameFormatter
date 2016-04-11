@@ -73,7 +73,7 @@ def getRangeProcessor(value):
     return getRangeProcessorByRangeName(name)
 
 
-def getRangeProcessorByRangeName(rangeName):
+def _findRangeNameProcessor(rangeName):
     import importlib
     moduleName = rangeNameToModuleName(rangeName)
     module = None
@@ -81,9 +81,27 @@ def getRangeProcessorByRangeName(rangeName):
         module = importlib.import_module('glyphNameFormatter.rangeProcessors.%s' % moduleName)
     except ImportError:
         # return the default
+        pass
+    return module
+
+
+def getRangeProcessorByRangeName(rangeName):
+    module = _findRangeNameProcessor(rangeName)
+    if module is None:
         module = rangeProcessors
     try:
         return getattr(module, "process")
     except AttributeError:
         print(moduleName)
         return None
+
+
+def getSupportedRangeNames():
+    supported = []
+    for name in getAllRangeNames():
+        processor = _findRangeNameProcessor(name)
+        if processor is not None:
+            supported.append(name)
+    return supported
+
+print(getSupportedRangeNames())
