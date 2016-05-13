@@ -10,7 +10,7 @@ A system for generating glyph name lists from unicode data.
 * These lists should not dictate what is useful or not in a font but offer reliable unicode to name mapping.
 * Adobe standardized some lists years ago, standard, but incomplete and immutable
 
-### Glyph Name Formatted Unicode List Release 0.1
+### Glyph Name Formatted Unicode List Release 0.1 (ɣNUFL)
 
 [download](https://github.com/LettError/glyphNameFormatter/releases)
 
