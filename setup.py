@@ -24,4 +24,7 @@ setup(name = "Glyph Name Formatter",
               "glyphNameFormatter.test",
       ],
       package_dir = {"":"Lib"},
+      package_data = {
+              'glyphNameFormatter': ['data/*.txt', 'data/*.html', 'data/*.xml'],
+      }
 )
