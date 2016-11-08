@@ -26,7 +26,7 @@ for i in tree.iter():
     if i.tag.endswith("char"):
         n = i.attrib.get("na")
         if n:
-            flat.append("%s\t%s" % (i.attrib.get("cp"),  n))
+            flat.append("%s\t%s" % (i.attrib.get("cp"), n))
 
 
 f = open("flatUnicode.txt", "w")
