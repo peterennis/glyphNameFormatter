@@ -12,18 +12,33 @@ from glyphNameFormatter.data.scriptPrefixes import SCRIPTSEPARATOR, SCRIPTASPREF
 from glyphNameFormatter.exporters.analyseConflicts import findConflict
 
 
+def _getHasGit():
+    try:
+        subprocess.check_output(["which", "git"])
+        result = True
+    except:
+        result = False
+    return result
+
+_hasGit = _getHasGit()
+
+
 def getExportVersionNumber():
-    commitNumber = subprocess.check_output(["git", "rev-list", "HEAD", "--count"], cwd=os.path.dirname(__file__))
-    commitNumber = commitNumber.strip()
-    return "%s - git commit: %s" % (__version__, commitNumber)
+    if _hasGit:
+        commitNumber = subprocess.check_output(["git", "rev-list", "HEAD", "--count"], cwd=os.path.dirname(__file__))
+        commitNumber = commitNumber.strip()
+        return "%s - git commit: %s" % (__version__, commitNumber)
+    return "%s" % __version__
 
 _versionNumber = getExportVersionNumber()
 
 
 def getGithubLink():
-    commithash = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'],  cwd=os.path.dirname(__file__))
-    commithash = commithash.strip()
-    return "https://github.com/LettError/glyphNameFormatter/tree/%s" % commithash
+    if _hasGit:
+        commithash = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'],  cwd=os.path.dirname(__file__))
+        commithash = commithash.strip()
+        return "https://github.com/LettError/glyphNameFormatter/tree/%s" % commithash
+    return "-"
 
 _githubLink = getGithubLink()
 
