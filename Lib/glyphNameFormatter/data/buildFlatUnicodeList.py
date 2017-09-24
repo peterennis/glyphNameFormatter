@@ -11,7 +11,8 @@ except ImportError:
     from urllib.request import urlopen
 
 __doc__ = """
-This will parse the large ucd xml into a simple list that is workable and
+This will parse the large ucd xml from unicode.org 
+into a simple list that is workable and 
 is fair enough for download and embedding.
 
 starts with the # unicode description/version

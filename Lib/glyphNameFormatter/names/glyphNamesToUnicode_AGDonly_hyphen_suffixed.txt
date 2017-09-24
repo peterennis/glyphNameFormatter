@@ -1,7 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 371
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/b4fe3a4
-# Generated on 2017 09 24 13:52:43
+# GlyphNameFormatter version 0.1 - git commit: 372
+# Unicode version: Unicode 10.0.0
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/2315a0e
+# Generated on 2017 09 24 14:25:53
 # <glyphName> <hex unicode>
 # Separator "-"
 # Prefixed "False"
@@ -1529,8 +1530,8 @@ kasratan-ar 064D
 fatha 064E
 damma 064F
 kasra 0650
-shadda 0651
-sukun 0652
+shadda-ar 0651
+sukun-ar 0652
 madda 0653
 hamzaabove 0654
 hamzabelow 0655

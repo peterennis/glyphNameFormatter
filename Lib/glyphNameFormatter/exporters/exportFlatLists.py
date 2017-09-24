@@ -9,6 +9,7 @@ import subprocess
 from glyphNameFormatter import GlyphName, __version__
 from glyphNameFormatter.unicodeRangeNames import getAllRangeNames, getRangeByName, rangeNameToModuleName
 from glyphNameFormatter.data.scriptPrefixes import SCRIPTSEPARATOR, SCRIPTASPREFIX
+from glyphNameFormatter.data import unicodeVersion
 from glyphNameFormatter.exporters.analyseConflicts import findConflict
 
 
@@ -47,6 +48,7 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
     data = [
         "# Glyph Name Formatted Unicode List - GNFUL",
         "# GlyphNameFormatter version %s" % _versionNumber,
+        "# Unicode version: %s" % unicodeVersion,
         "# Source code: %s" % _githubLink,
         "# Generated on %s" % time.strftime("%Y %m %d %H:%M:%S"),
         "# <glyphName> <hex unicode>",
