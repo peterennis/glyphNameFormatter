@@ -21,7 +21,6 @@ format
 """
 
 URL = "http://www.unicode.org/Public/{version}/ucdxml/ucd.all.flat.zip"
-UNICODE_VERSION = "9.0.0"
 UCD_ZIP_FILE = "ucd.all.flat.zip"
 UCD_FILE = UCD_ZIP_FILE[:-3] + "xml"
 FLAT_FILE = "flatUnicode.txt"
@@ -43,11 +42,7 @@ else:
     tempdir = tempfile.mkdtemp()
     filename = os.path.join(tempdir, UCD_ZIP_FILE)
     print(">> Downloading {} to {}".format(UCD_ZIP_FILE, filename))
-    if options.unicode_version:
-        version = options.unicode_version
-    else:
-        version = UNICODE_VERSION
-    url = urlopen(URL.format(version=version))
+    url = urlopen(URL.format(version=options.unicode_version))
     with open(filename, "wb") as fp:
         blocksize = 8192
         while True:
