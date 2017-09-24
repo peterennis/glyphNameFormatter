@@ -243,6 +243,13 @@ class GlyphName(object):
         # remove the spaces from the name
         self.uniNameProcessed = self.uniNameProcessed.replace(" ", "")
 
+    def camelCase(self):
+        # whole name camelcased to lowercase
+        parts = self.uniNameProcessed.split(" ")
+        casedParts = [a[0].upper()+a[1:].lower() for a in parts]
+        self.uniNameProcessed = "".join(casedParts)
+        self.uniNameProcessed = self.uniNameProcessed[0].lower() + self.uniNameProcessed[1:]
+
     def lower(self):
         # whole name to lowercase
         self.uniNameProcessed = self.uniNameProcessed.lower()

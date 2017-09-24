@@ -146,6 +146,24 @@
 1F198	sossquare	SQUARED SOS
 1F199	upwithexclamationmarksquare	SQUARED UP WITH EXCLAMATION MARK
 1F19A	vssquare	SQUARED VS
+1F19B	threedsquare	SQUARED THREE D
+1F19C	secondscreensquare	SQUARED SECOND SCREEN
+1F19D	twoksquare	SQUARED TWO K
+1F19E	fourksquare	SQUARED FOUR K
+1F19F	eightksquare	SQUARED EIGHT K
+1F1A0	fivepointonesquare	SQUARED FIVE POINT ONE
+1F1A1	sevenpointonesquare	SQUARED SEVEN POINT ONE
+1F1A2	twenty-twopointtwosquare	SQUARED TWENTY-TWO POINT TWO
+1F1A3	sixtypsquare	SQUARED SIXTY P
+1F1A4	onehundredtwentypsquare	SQUARED ONE HUNDRED TWENTY P
+1F1A5	dsquare	SQUARED LATIN SMALL LETTER D
+1F1A6	hcsquare	SQUARED HC
+1F1A7	hdrsquare	SQUARED HDR
+1F1A8	hi-ressquare	SQUARED HI-RES
+1F1A9	losslesssquare	SQUARED LOSSLESS
+1F1AA	shvsquare	SQUARED SHV
+1F1AB	uhdsquare	SQUARED UHD
+1F1AC	vodsquare	SQUARED VOD
 1F1E6	regionalindicatorsymbollettera	REGIONAL INDICATOR SYMBOL LETTER A
 1F1E7	regionalindicatorsymbolletterb	REGIONAL INDICATOR SYMBOL LETTER B
 1F1E8	regionalindicatorsymbolletterc	REGIONAL INDICATOR SYMBOL LETTER C

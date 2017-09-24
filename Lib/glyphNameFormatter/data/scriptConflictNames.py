@@ -118,6 +118,7 @@ scriptConflictNames = [
     "d",
     "da",
     "dalet",
+    "dash",
     "dda",
     "ddha",
     "de",

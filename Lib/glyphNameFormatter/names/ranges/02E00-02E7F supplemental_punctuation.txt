@@ -66,3 +66,10 @@
 2E40	hyphendbl	DOUBLE HYPHEN
 2E41	commareversed	REVERSED COMMA
 2E42	quotedbllowreversed	DOUBLE LOW-REVERSED-9 QUOTATION MARK
+2E43	dashwithupturnleft	DASH WITH LEFT UPTURN
+2E44	suspensiondbl	DOUBLE SUSPENSION MARK
+2E45	kavykainvertedlow	INVERTED LOW KAVYKA
+2E46	kavykawithkavykaaboveinvertedlow	INVERTED LOW KAVYKA WITH KAVYKA ABOVE
+2E47	kavykalow	LOW KAVYKA
+2E48	kavykawithdotlow	LOW KAVYKA WITH DOT
+2E49	stackedcommadbl	DOUBLE STACKED COMMA

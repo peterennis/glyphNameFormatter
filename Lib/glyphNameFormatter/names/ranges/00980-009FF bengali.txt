@@ -92,3 +92,5 @@
 09F9	beng:sixteencurrencydenominator	BENGALI CURRENCY DENOMINATOR SIXTEEN
 09FA	beng:isshar	BENGALI ISSHAR
 09FB	beng:gandamark	BENGALI GANDA MARK
+09FC	beng:vedicanusvara	BENGALI LETTER VEDIC ANUSVARA
+09FD	beng:abbreviationsign	BENGALI ABBREVIATION SIGN
