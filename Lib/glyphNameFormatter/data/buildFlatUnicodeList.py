@@ -22,6 +22,7 @@ format
 """
 
 URL = "http://www.unicode.org/Public/{version}/ucdxml/ucd.all.flat.zip"
+
 UNICODE_VERSION = "10.0.0"
 UCD_ZIP_FILE = "ucd.all.flat.zip"
 UCD_FILE = UCD_ZIP_FILE[:-3] + "xml"
