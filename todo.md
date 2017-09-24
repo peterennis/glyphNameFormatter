@@ -6,4 +6,4 @@
 * lookup unicode
 * lookup unicode name
 * lookup components??
-* search trough: I want all glyphs with a `grave`
+* search through: I want all glyphs with a `grave`

@@ -1,7 +1,7 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.1 - git commit: 359
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/53b1b75
-# Generated on 2016 04 11 22:20:55
+# GlyphNameFormatter version 0.1 - git commit: 371
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/b4fe3a4
+# Generated on 2017 09 24 13:52:39
 # <glyphName> <hex unicode>
 # Separator ":"
 # Prefixed "False"
@@ -564,7 +564,7 @@ hhook 0266
 henghook 0267
 istroke 0268
 iota:ipa 0269
-Ismall 026A
+Ismall:ipa 026A
 lmiddletilde 026B
 lbelt 026C
 lretroflex 026D
@@ -1976,6 +1976,8 @@ currencyoneless:beng 09F8
 sixteencurrencydenominator:beng 09F9
 isshar:beng 09FA
 gandamark:beng 09FB
+vedicanusvara:beng 09FC
+abbreviationsign:beng 09FD
 # Gurmukhi
 adakbindisign:guru 0A01
 bindisign:guru 0A02
@@ -2142,6 +2144,12 @@ nine:gujr 0AEF
 abbreviation:gujr 0AF0
 rupee:gujr 0AF1
 zha:gujr 0AF9
+sukun:gujr 0AFA
+shadda:gujr 0AFB
+maddah:gujr 0AFC
+three-dotnuktaabove:gujr 0AFD
+circlenuktaabove:gujr 0AFE
+two-circlenuktaabove:gujr 0AFF
 # Oriya
 candrabindu:orya 0B01
 anusvara:orya 0B02
@@ -2404,6 +2412,7 @@ fractiontwoforevenpowersoffour:telu 0C7D
 fractionthreeforevenpowersoffour:telu 0C7E
 tuumusign:telu 0C7F
 # Kannada
+signspacingcandrabindu:knda 0C80
 signcandrabindu:knda 0C81
 anusvara:knda 0C82
 visarga:knda 0C83
@@ -2492,6 +2501,7 @@ nine:knda 0CEF
 jihvamuliya:knda 0CF1
 upadhmaniya:knda 0CF2
 # Malayalam
+combininganusvaraabovesign:mlym 0D00
 candrabindusign:mlym 0D01
 anusvarasign:mlym 0D02
 visargasign:mlym 0D03
@@ -2547,6 +2557,8 @@ ssa:mlym 0D37
 sa:mlym 0D38
 ha:mlym 0D39
 ttta:mlym 0D3A
+verticalbarviramasign:mlym 0D3B
+circularviramasign:mlym 0D3C
 avagrahasign:mlym 0D3D
 aasign:mlym 0D3E
 isign:mlym 0D3F
@@ -2563,7 +2575,18 @@ oosign:mlym 0D4B
 ausign:mlym 0D4C
 viramasign:mlym 0D4D
 dotreph:mlym 0D4E
+parasign:mlym 0D4F
+mchillu:mlym 0D54
+ychillu:mlym 0D55
+lllchillu:mlym 0D56
 aulength:mlym 0D57
+oneone-hundred-and-sixtieth:mlym 0D58
+onefortieth:mlym 0D59
+threeeightieths:mlym 0D5A
+onetwentieth:mlym 0D5B
+onetenth:mlym 0D5C
+threetwentieths:mlym 0D5D
+onefifth:mlym 0D5E
 archaicii:mlym 0D5F
 rrvocal:mlym 0D60
 llvocal:mlym 0D61
@@ -2585,6 +2608,9 @@ onethousand:mlym 0D72
 onequarter:mlym 0D73
 onehalf:mlym 0D74
 threequarters:mlym 0D75
+onesixteenth:mlym 0D76
+oneeighth:mlym 0D77
+threesixteenths:mlym 0D78
 date:mlym 0D79
 nnchillu:mlym 0D7A
 nchillu:mlym 0D7B
@@ -3798,6 +3824,7 @@ rotatedardhavisargasign:ve 1CF3
 abovetonecandra:ve 1CF4
 jihvamuliyasign:ve 1CF5
 upadhmaniyasign:ve 1CF6
+atikramasign:ve 1CF7
 ringabovetone:ve 1CF8
 ringabovetonedbl:ve 1CF9
 # Phonetic Extensions
@@ -4049,6 +4076,11 @@ adieresiscmb 1DF2
 odieresiscmb 1DF3
 udieresiscmb 1DF4
 uptackabovecmb 1DF5
+kavykaaboverightcmb 1DF6
+kavykaaboveleftcmb 1DF7
+dotaboveleftcmb 1DF8
+wideinvertedbridgebelowcmb 1DF9
+deletionmarkcmb 1DFB
 doubleinvertedbelowbrevecmb 1DFC
 almostequaltobelowcmb 1DFD
 leftarrowheadabovecmb 1DFE
@@ -4731,6 +4763,7 @@ nordicmark 20BB
 manat 20BC
 ruble 20BD
 lari 20BE
+bitcoin 20BF
 # Letterlike Symbols
 accountof 2100
 addressedsubject 2101
@@ -4815,16 +4848,16 @@ forsamaritan 214F
 # Number Forms
 oneseventh 2150
 oneninth 2151
-onetenth 2152
+onetenth:nmbr 2152
 onethird 2153
 twothirds 2154
-onefifth 2155
+onefifth:nmbr 2155
 twofifths 2156
 threefifths 2157
 fourfifths 2158
 onesixth 2159
 fivesixths 215A
-oneeighth 215B
+oneeighth:nmbr 215B
 threeeighths 215C
 fiveeighths 215D
 seveneighths 215E
@@ -5495,6 +5528,11 @@ blackmediumpointingtriangledown 23F7
 doublebarvertical 23F8
 blackforstopsquare 23F9
 blackcircleforrecord 23FA
+power 23FB
+poweronoff 23FC
+poweron 23FD
+powersleep 23FE
+observereye 23FF
 # Control Pictures
 null:cntr 2400
 startofheading:cntr 2401
@@ -6567,6 +6605,13 @@ capitulum 2E3F
 hyphendbl 2E40
 commareversed 2E41
 quotedbllowreversed 2E42
+dashwithupturnleft 2E43
+suspensiondbl 2E44
+kavykainvertedlow 2E45
+kavykawithkavykaaboveinvertedlow 2E46
+kavykalow 2E47
+kavykawithdotlow 2E48
+stackedcommadbl 2E49
 # CJK Symbols and Punctuation
 ideographicspace 3000
 ideographiccomma:cjk 3001
@@ -6865,6 +6910,7 @@ v:bopo 312A
 ng:bopo 312B
 gn:bopo 312C
 ih:bopo 312D
+owithdotabove:bopo 312E
 # Hangul Compatibility Jamo
 kiyeok:ko 3131
 ssangkiyeok:ko 3132
@@ -7615,6 +7661,7 @@ Hhook A7AA
 Ereversedopen A7AB
 Scriptg A7AC
 Lbelt A7AD
+Ismall A7AE
 Kturned A7B0
 Tturned A7B1
 Jcrossed-tail A7B2
@@ -9093,6 +9140,24 @@ oksquare 1F197
 sossquare 1F198
 upwithexclamationmarksquare 1F199
 vssquare 1F19A
+threedsquare 1F19B
+secondscreensquare 1F19C
+twoksquare 1F19D
+fourksquare 1F19E
+eightksquare 1F19F
+fivepointonesquare 1F1A0
+sevenpointonesquare 1F1A1
+twenty-twopointtwosquare 1F1A2
+sixtypsquare 1F1A3
+onehundredtwentypsquare 1F1A4
+dsquare 1F1A5
+hcsquare 1F1A6
+hdrsquare 1F1A7
+hi-ressquare 1F1A8
+losslesssquare 1F1A9
+shvsquare 1F1AA
+uhdsquare 1F1AB
+vodsquare 1F1AC
 regionalindicatorsymbollettera 1F1E6
 regionalindicatorsymbolletterb 1F1E7
 regionalindicatorsymbolletterc 1F1E8
@@ -9120,3 +9185,83 @@ regionalindicatorsymbolletterx 1F1FD
 regionalindicatorsymbollettery 1F1FE
 regionalindicatorsymbolletterz 1F1FF
 # Emoticons
+grinning_face 1F600
+grinning_face_with_smiling_eyes 1F601
+face_with_tears_of_joy 1F602
+smiling_face_with_open_mouth 1F603
+smiling_face_with_open_mouth_and_smiling_eyes 1F604
+smiling_face_with_open_mouth_and_cold_sweat 1F605
+smiling_face_with_open_mouth_and_tightly_closed_eyes 1F606
+smiling_face_with_halo 1F607
+smiling_face_with_horns 1F608
+winking_face 1F609
+smiling_face_with_smiling_eyes 1F60A
+face_savouring_delicious_food 1F60B
+relieved_face 1F60C
+smiling_face_with_heart_shaped_eyes 1F60D
+smiling_face_with_sunglasses 1F60E
+smirking_face 1F60F
+neutral_face 1F610
+expressionless_face 1F611
+unamused_face 1F612
+face_with_cold_sweat 1F613
+pensive_face 1F614
+confused_face 1F615
+confounded_face 1F616
+kissing_face 1F617
+face_throwing_a_kiss 1F618
+kissing_face_with_smiling_eyes 1F619
+kissing_face_with_closed_eyes 1F61A
+face_with_stuck_out_tongue 1F61B
+face_with_stuck_out_tongue_and_winking_eye 1F61C
+face_with_stuck_out_tongue_and_tightly_closed_eyes 1F61D
+disappointed_face 1F61E
+worried_face 1F61F
+angry_face 1F620
+pouting_face 1F621
+crying_face 1F622
+persevering_face 1F623
+face_with_look_of_triumph 1F624
+disappointed_but_relieved_face 1F625
+frowning_face_with_open_mouth 1F626
+anguished_face 1F627
+fearful_face 1F628
+weary_face 1F629
+sleepy_face 1F62A
+tired_face 1F62B
+grimacing_face 1F62C
+loudly_crying_face 1F62D
+face_with_open_mouth 1F62E
+hushed_face 1F62F
+face_with_open_mouth_and_cold_sweat 1F630
+face_screaming_in_fear 1F631
+astonished_face 1F632
+flushed_face 1F633
+sleeping_face 1F634
+dizzy_face 1F635
+face_without_mouth 1F636
+face_with_medical_mask 1F637
+grinning_cat_face_with_smiling_eyes 1F638
+cat_face_with_tears_of_joy 1F639
+smiling_cat_face_with_open_mouth 1F63A
+smiling_cat_face_with_heart_shaped_eyes 1F63B
+cat_face_with_wry_smile 1F63C
+kissing_cat_face_with_closed_eyes 1F63D
+pouting_cat_face 1F63E
+crying_cat_face 1F63F
+weary_cat_face 1F640
+slightly_frowning_face 1F641
+slightly_smiling_face 1F642
+upside_down_face 1F643
+face_with_rolling_eyes 1F644
+face_with_no_good_gesture 1F645
+face_with_ok_gesture 1F646
+person_bowing_deeply 1F647
+see_no_evil_monkey 1F648
+hear_no_evil_monkey 1F649
+speak_no_evil_monkey 1F64A
+happy_person_raising_one_hand 1F64B
+person_raising_both_hands_in_celebration 1F64C
+person_frowning 1F64D
+person_with_pouting_face 1F64E
+person_with_folded_hands 1F64F

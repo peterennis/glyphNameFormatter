@@ -12,7 +12,7 @@ except ImportError:
 
 __doc__ = """
 This will parse the large ucd xml into a simple list that is workable and
-is fair enough for download and embeding.
+is fair enough for download and embedding.
 
 starts with the # unicode description/version
 
@@ -21,7 +21,7 @@ format
 """
 
 URL = "http://www.unicode.org/Public/{version}/ucdxml/ucd.all.flat.zip"
-UNICODE_VERSION = "9.0.0"
+UNICODE_VERSION = "10.0.0"
 UCD_ZIP_FILE = "ucd.all.flat.zip"
 UCD_FILE = UCD_ZIP_FILE[:-3] + "xml"
 FLAT_FILE = "flatUnicode.txt"
