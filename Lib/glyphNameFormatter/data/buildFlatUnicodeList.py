@@ -72,7 +72,7 @@ for i in tree.iter():
     if i.tag.endswith("char"):
         n = i.attrib.get("na")
         if n:
-            flat.append("%s\t%s" % (i.attrib.get("cp"), n))
+            flat.append("%s\t%s\t%s" % (i.attrib.get("cp"), n, i.attrib.get("gc")))
 
 
 f = open(FLAT_FILE, "w")
