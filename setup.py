@@ -22,6 +22,7 @@ setup(name = "Glyph Name Formatter",
               "glyphNameFormatter.data",
               "glyphNameFormatter.rangeProcessors",
               "glyphNameFormatter.test",
+              "glyphNameFormatter.exporters",
       ],
       package_dir = {"":"Lib"},
       package_data = {
