@@ -23,26 +23,26 @@ This release is not meant to be final. Many ranges have basic coverage but could
 
 If you find things wrong and would like to share this insight, we're accepting comments, [open an issue](https://github.com/LettError/glyphNameFormatter/issues). If you see how the system works we will also gladly consider pull requests. If you would like to see certain ranges supported, let us know.
 
-A public discussion about the prefixing and suffixing of names would also be useful.
+This version acknowledges the help by Adam, Daniel, Bahman and Ilya. 
 
-This version acknowledges the help by Daniel, Bahman and Ilya. 
-
-### Rules
+### Naming guidelines
 
 * Glyph names should, as much as possible, only have script tags to disambiguate.
 * Detect when script specific prefix or suffix is necessary
 * Keep script prefix or suffix short
+* Some scripts already have a preference for pre- or suffix.
+* Some names look better with camelCase.
 
 ## Making lists
+
+Run `data/buildFlatUnicodeList.py` to download the current (or previous) data from Unicode.org. This is a large file. This script downloads and processes the data to a  more practical size, stored in `data/flatUnicode.txt`.
+
+Run `exporters/exportFlatLists.py` to generate a text file with <name> <unicode> pairs, exclusively with the available range processors. The results are in [names/glyphNamesToUnicode.txt](https://github.com/LettError/glyphNameFormatter/blob/master/Lib/glyphNameFormatter/names/glyphNamesToUnicode.txt)
 
 Run `test/buildRanges.py` to make all the name lists. They will be deposited in `names/ranges`. There will be other methods and other lists, but for now this is the place to make things.
 You can also run each of the range scripts in `rangeProcessors/` and they will print a nice readable table with the processed name, unicode value, original name. There is also a column for names from the Adobe AGL if it has a different name for that entry. 
 
-Run `test/analyseConflicts.py` to get an overview of all name clashes and how they are addressed. The results are in a text file in [names/conflict.txt](https://github.com/LettError/glyphNameFormatter/blob/master/Lib/glyphNameFormatter/names/conflict.txt)
-
-Run `test/export.py` to generate a text file with <name> <unicode> pairs, exclusively with the available range processors. The results are in [names/glyphNamesToUnicode.txt](https://github.com/LettError/glyphNameFormatter/blob/master/Lib/glyphNameFormatter/names/glyphNamesToUnicode.txt)
-
-Run `testAGDcoverage.py` to generate an overview of all glyphranges that are needed to match the Adobe Glyph Dictionary. It also calculates how far we are along.
+Run `exporters/analyseConflicts.py` to get an overview of all name clashes and how they are addressed. The results are in a text file in [data/conflict.txt](https://github.com/LettError/glyphNameFormatter/blob/master/Lib/glyphNameFormatter/data/conflict.txt)
 
 ## Range Processors
 
