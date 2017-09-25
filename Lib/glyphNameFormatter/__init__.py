@@ -14,7 +14,7 @@ from unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessor
 from tools import unicodeToChar
 
 
-__version__ = "0.2"
+__version__ = "0.28"
 
 
 def debug(uniNumber):
@@ -246,6 +246,9 @@ class GlyphName(object):
     def camelCase(self):
         # whole name camelcased to lowercase
         parts = self.uniNameProcessed.split(" ")
+        if len(parts) < 2:
+            self.lower()
+            return
         casedParts = [a[0].upper()+a[1:].lower() for a in parts]
         self.uniNameProcessed = "".join(casedParts)
         self.uniNameProcessed = self.uniNameProcessed[0].lower() + self.uniNameProcessed[1:]
