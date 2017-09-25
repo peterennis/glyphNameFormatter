@@ -14,7 +14,7 @@ from unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessor
 from tools import unicodeToChar
 
 
-__version__ = "0.1"
+__version__ = "0.2"
 
 
 def debug(uniNumber):
