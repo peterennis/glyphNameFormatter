@@ -1,6 +1,7 @@
 
 def process(self):
-    self.setExperimental()
+    #self.setExperimental()
+    self.replace("SYMBOL")
     self.replace("-", " ")
     self.camelCase()
     #self.edit("LETTER")
