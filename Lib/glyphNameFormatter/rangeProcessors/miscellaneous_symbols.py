@@ -1,7 +1,7 @@
 
 def process(self):
     self.replace("BALLOT BOX", "checkbox")
-    self.replace("WITH CHECK", "chekced")
+    self.replace("WITH CHECK", "checked")
     self.replace("WITH X", "x")
     self.replace("SUIT")
     self.replace("CHESS")

@@ -9,6 +9,7 @@ import subprocess
 from glyphNameFormatter import GlyphName, __version__
 from glyphNameFormatter.unicodeRangeNames import getAllRangeNames, getRangeByName, rangeNameToModuleName
 from glyphNameFormatter.data.scriptPrefixes import SCRIPTSEPARATOR, SCRIPTASPREFIX
+from glyphNameFormatter.data import unicodeVersion, unicodeCategories
 from glyphNameFormatter.exporters.analyseConflicts import findConflict
 
 
@@ -43,14 +44,18 @@ def getGithubLink():
 _githubLink = getGithubLink()
 
 
-def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=None, status=0):
+def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=None, status=0, includeUnicodeCategory=False):
     data = [
         "# Glyph Name Formatted Unicode List - GNFUL",
         "# GlyphNameFormatter version %s" % _versionNumber,
+        "# Unicode version: %s" % unicodeVersion,
         "# Source code: %s" % _githubLink,
         "# Generated on %s" % time.strftime("%Y %m %d %H:%M:%S"),
-        "# <glyphName> <hex unicode>",
     ]
+    if includeUnicodeCategory:
+        data.append("# <glyphName> <hex unicode> <unicodeCategory>")
+    else:
+        data.append("# <glyphName> <hex unicode>")
     if scriptSeparator is not None:
         data.append("# Separator \"%s\"" % scriptSeparator)
     if scriptAsPrefix is not None:
@@ -76,7 +81,11 @@ def generateFlat(path, onlySupported=True, scriptSeparator=None, scriptAsPrefix=
             name = g.getName(extension=True)
             if name is None:
                 continue
-            data.append("%s %04X" % (name, u))
+            if includeUnicodeCategory:
+                data.append("%s %04X %s" % (name, u, unicodeCategories.get(u, "-")))
+            else:
+                data.append("%s %04X" % (name, u))
+
 
     f = open(path, "w")
     f.write("\n".join(data))
@@ -89,6 +98,9 @@ if __name__ == "__main__":
     # generate a flat export
     generateFlat("./../names/glyphNamesToUnicode.txt")
     generateFlat("./../names/glyphNamesToUnicode_experimental.txt", status=-1)
+
+    generateFlat("./../names/glyphNamesToUnicodeAndCategories.txt", includeUnicodeCategory=True)
+    generateFlat("./../names/glyphNamesToUnicodeAndCategories_experimental.txt", status=-1, includeUnicodeCategory=True)
 
     # and because this is a generator we can make any flavor we want:
     for separator, sn in [

@@ -38,5 +38,6 @@
 1CF4	ve:abovetonecandra	VEDIC TONE CANDRA ABOVE
 1CF5	ve:jihvamuliyasign	VEDIC SIGN JIHVAMULIYA
 1CF6	ve:upadhmaniyasign	VEDIC SIGN UPADHMANIYA
+1CF7	ve:atikramasign	VEDIC SIGN ATIKRAMA
 1CF8	ve:ringabovetone	VEDIC TONE RING ABOVE
 1CF9	ve:ringabovetonedbl	VEDIC TONE DOUBLE RING ABOVE

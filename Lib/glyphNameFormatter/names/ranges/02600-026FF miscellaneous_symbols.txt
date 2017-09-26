@@ -16,7 +16,7 @@
 260E	telephoneblack	BLACK TELEPHONE
 260F	telephonewhite	WHITE TELEPHONE
 2610	checkbox	BALLOT BOX
-2611	checkboxchekced	BALLOT BOX WITH CHECK
+2611	checkboxchecked	BALLOT BOX WITH CHECK
 2612	checkboxx	BALLOT BOX WITH X
 2613	saltire	SALTIRE
 2614	umbrellaraindrops	UMBRELLA WITH RAIN DROPS

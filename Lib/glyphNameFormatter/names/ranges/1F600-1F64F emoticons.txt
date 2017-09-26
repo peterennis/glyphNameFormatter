@@ -1,81 +1,81 @@
 # Emoticons 1F600 - 1F64F
-1F600	grinning_face	GRINNING FACE
-1F601	grinning_face_with_smiling_eyes	GRINNING FACE WITH SMILING EYES
-1F602	face_with_tears_of_joy	FACE WITH TEARS OF JOY
-1F603	smiling_face_with_open_mouth	SMILING FACE WITH OPEN MOUTH
-1F604	smiling_face_with_open_mouth_and_smiling_eyes	SMILING FACE WITH OPEN MOUTH AND SMILING EYES
-1F605	smiling_face_with_open_mouth_and_cold_sweat	SMILING FACE WITH OPEN MOUTH AND COLD SWEAT
-1F606	smiling_face_with_open_mouth_and_tightly_closed_eyes	SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES
-1F607	smiling_face_with_halo	SMILING FACE WITH HALO
-1F608	smiling_face_with_horns	SMILING FACE WITH HORNS
-1F609	winking_face	WINKING FACE
-1F60A	smiling_face_with_smiling_eyes	SMILING FACE WITH SMILING EYES
-1F60B	face_savouring_delicious_food	FACE SAVOURING DELICIOUS FOOD
-1F60C	relieved_face	RELIEVED FACE
-1F60D	smiling_face_with_heart_shaped_eyes	SMILING FACE WITH HEART-SHAPED EYES
-1F60E	smiling_face_with_sunglasses	SMILING FACE WITH SUNGLASSES
-1F60F	smirking_face	SMIRKING FACE
-1F610	neutral_face	NEUTRAL FACE
-1F611	expressionless_face	EXPRESSIONLESS FACE
-1F612	unamused_face	UNAMUSED FACE
-1F613	face_with_cold_sweat	FACE WITH COLD SWEAT
-1F614	pensive_face	PENSIVE FACE
-1F615	confused_face	CONFUSED FACE
-1F616	confounded_face	CONFOUNDED FACE
-1F617	kissing_face	KISSING FACE
-1F618	face_throwing_a_kiss	FACE THROWING A KISS
-1F619	kissing_face_with_smiling_eyes	KISSING FACE WITH SMILING EYES
-1F61A	kissing_face_with_closed_eyes	KISSING FACE WITH CLOSED EYES
-1F61B	face_with_stuck_out_tongue	FACE WITH STUCK-OUT TONGUE
-1F61C	face_with_stuck_out_tongue_and_winking_eye	FACE WITH STUCK-OUT TONGUE AND WINKING EYE
-1F61D	face_with_stuck_out_tongue_and_tightly_closed_eyes	FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES
-1F61E	disappointed_face	DISAPPOINTED FACE
-1F61F	worried_face	WORRIED FACE
-1F620	angry_face	ANGRY FACE
-1F621	pouting_face	POUTING FACE
-1F622	crying_face	CRYING FACE
-1F623	persevering_face	PERSEVERING FACE
-1F624	face_with_look_of_triumph	FACE WITH LOOK OF TRIUMPH
-1F625	disappointed_but_relieved_face	DISAPPOINTED BUT RELIEVED FACE
-1F626	frowning_face_with_open_mouth	FROWNING FACE WITH OPEN MOUTH
-1F627	anguished_face	ANGUISHED FACE
-1F628	fearful_face	FEARFUL FACE
-1F629	weary_face	WEARY FACE
-1F62A	sleepy_face	SLEEPY FACE
-1F62B	tired_face	TIRED FACE
-1F62C	grimacing_face	GRIMACING FACE
-1F62D	loudly_crying_face	LOUDLY CRYING FACE
-1F62E	face_with_open_mouth	FACE WITH OPEN MOUTH
-1F62F	hushed_face	HUSHED FACE
-1F630	face_with_open_mouth_and_cold_sweat	FACE WITH OPEN MOUTH AND COLD SWEAT
-1F631	face_screaming_in_fear	FACE SCREAMING IN FEAR
-1F632	astonished_face	ASTONISHED FACE
-1F633	flushed_face	FLUSHED FACE
-1F634	sleeping_face	SLEEPING FACE
-1F635	dizzy_face	DIZZY FACE
-1F636	face_without_mouth	FACE WITHOUT MOUTH
-1F637	face_with_medical_mask	FACE WITH MEDICAL MASK
-1F638	grinning_cat_face_with_smiling_eyes	GRINNING CAT FACE WITH SMILING EYES
-1F639	cat_face_with_tears_of_joy	CAT FACE WITH TEARS OF JOY
-1F63A	smiling_cat_face_with_open_mouth	SMILING CAT FACE WITH OPEN MOUTH
-1F63B	smiling_cat_face_with_heart_shaped_eyes	SMILING CAT FACE WITH HEART-SHAPED EYES
-1F63C	cat_face_with_wry_smile	CAT FACE WITH WRY SMILE
-1F63D	kissing_cat_face_with_closed_eyes	KISSING CAT FACE WITH CLOSED EYES
-1F63E	pouting_cat_face	POUTING CAT FACE
-1F63F	crying_cat_face	CRYING CAT FACE
-1F640	weary_cat_face	WEARY CAT FACE
-1F641	slightly_frowning_face	SLIGHTLY FROWNING FACE
-1F642	slightly_smiling_face	SLIGHTLY SMILING FACE
-1F643	upside_down_face	UPSIDE-DOWN FACE
-1F644	face_with_rolling_eyes	FACE WITH ROLLING EYES
-1F645	face_with_no_good_gesture	FACE WITH NO GOOD GESTURE
-1F646	face_with_ok_gesture	FACE WITH OK GESTURE
-1F647	person_bowing_deeply	PERSON BOWING DEEPLY
-1F648	see_no_evil_monkey	SEE-NO-EVIL MONKEY
-1F649	hear_no_evil_monkey	HEAR-NO-EVIL MONKEY
-1F64A	speak_no_evil_monkey	SPEAK-NO-EVIL MONKEY
-1F64B	happy_person_raising_one_hand	HAPPY PERSON RAISING ONE HAND
-1F64C	person_raising_both_hands_in_celebration	PERSON RAISING BOTH HANDS IN CELEBRATION
-1F64D	person_frowning	PERSON FROWNING
-1F64E	person_with_pouting_face	PERSON WITH POUTING FACE
-1F64F	person_with_folded_hands	PERSON WITH FOLDED HANDS
+1F600	grinningFace	GRINNING FACE
+1F601	grinningFaceWithSmilingEyes	GRINNING FACE WITH SMILING EYES
+1F602	faceWithTearsOfJoy	FACE WITH TEARS OF JOY
+1F603	smilingFaceWithOpenMouth	SMILING FACE WITH OPEN MOUTH
+1F604	smilingFaceWithOpenMouthAndSmilingEyes	SMILING FACE WITH OPEN MOUTH AND SMILING EYES
+1F605	smilingFaceWithOpenMouthAndColdSweat	SMILING FACE WITH OPEN MOUTH AND COLD SWEAT
+1F606	smilingFaceWithOpenMouthAndTightlyClosedEyes	SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES
+1F607	smilingFaceWithHalo	SMILING FACE WITH HALO
+1F608	smilingFaceWithHorns	SMILING FACE WITH HORNS
+1F609	winkingFace	WINKING FACE
+1F60A	smilingFaceWithSmilingEyes	SMILING FACE WITH SMILING EYES
+1F60B	faceSavouringDeliciousFood	FACE SAVOURING DELICIOUS FOOD
+1F60C	relievedFace	RELIEVED FACE
+1F60D	smilingFaceWithHeartShapedEyes	SMILING FACE WITH HEART-SHAPED EYES
+1F60E	smilingFaceWithSunglasses	SMILING FACE WITH SUNGLASSES
+1F60F	smirkingFace	SMIRKING FACE
+1F610	neutralFace	NEUTRAL FACE
+1F611	expressionlessFace	EXPRESSIONLESS FACE
+1F612	unamusedFace	UNAMUSED FACE
+1F613	faceWithColdSweat	FACE WITH COLD SWEAT
+1F614	pensiveFace	PENSIVE FACE
+1F615	confusedFace	CONFUSED FACE
+1F616	confoundedFace	CONFOUNDED FACE
+1F617	kissingFace	KISSING FACE
+1F618	faceThrowingAKiss	FACE THROWING A KISS
+1F619	kissingFaceWithSmilingEyes	KISSING FACE WITH SMILING EYES
+1F61A	kissingFaceWithClosedEyes	KISSING FACE WITH CLOSED EYES
+1F61B	faceWithStuckOutTongue	FACE WITH STUCK-OUT TONGUE
+1F61C	faceWithStuckOutTongueAndWinkingEye	FACE WITH STUCK-OUT TONGUE AND WINKING EYE
+1F61D	faceWithStuckOutTongueAndTightlyClosedEyes	FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES
+1F61E	disappointedFace	DISAPPOINTED FACE
+1F61F	worriedFace	WORRIED FACE
+1F620	angryFace	ANGRY FACE
+1F621	poutingFace	POUTING FACE
+1F622	cryingFace	CRYING FACE
+1F623	perseveringFace	PERSEVERING FACE
+1F624	faceWithLookOfTriumph	FACE WITH LOOK OF TRIUMPH
+1F625	disappointedButRelievedFace	DISAPPOINTED BUT RELIEVED FACE
+1F626	frowningFaceWithOpenMouth	FROWNING FACE WITH OPEN MOUTH
+1F627	anguishedFace	ANGUISHED FACE
+1F628	fearfulFace	FEARFUL FACE
+1F629	wearyFace	WEARY FACE
+1F62A	sleepyFace	SLEEPY FACE
+1F62B	tiredFace	TIRED FACE
+1F62C	grimacingFace	GRIMACING FACE
+1F62D	loudlyCryingFace	LOUDLY CRYING FACE
+1F62E	faceWithOpenMouth	FACE WITH OPEN MOUTH
+1F62F	hushedFace	HUSHED FACE
+1F630	faceWithOpenMouthAndColdSweat	FACE WITH OPEN MOUTH AND COLD SWEAT
+1F631	faceScreamingInFear	FACE SCREAMING IN FEAR
+1F632	astonishedFace	ASTONISHED FACE
+1F633	flushedFace	FLUSHED FACE
+1F634	sleepingFace	SLEEPING FACE
+1F635	dizzyFace	DIZZY FACE
+1F636	faceWithoutMouth	FACE WITHOUT MOUTH
+1F637	faceWithMedicalMask	FACE WITH MEDICAL MASK
+1F638	grinningCatFaceWithSmilingEyes	GRINNING CAT FACE WITH SMILING EYES
+1F639	catFaceWithTearsOfJoy	CAT FACE WITH TEARS OF JOY
+1F63A	smilingCatFaceWithOpenMouth	SMILING CAT FACE WITH OPEN MOUTH
+1F63B	smilingCatFaceWithHeartShapedEyes	SMILING CAT FACE WITH HEART-SHAPED EYES
+1F63C	catFaceWithWrySmile	CAT FACE WITH WRY SMILE
+1F63D	kissingCatFaceWithClosedEyes	KISSING CAT FACE WITH CLOSED EYES
+1F63E	poutingCatFace	POUTING CAT FACE
+1F63F	cryingCatFace	CRYING CAT FACE
+1F640	wearyCatFace	WEARY CAT FACE
+1F641	slightlyFrowningFace	SLIGHTLY FROWNING FACE
+1F642	slightlySmilingFace	SLIGHTLY SMILING FACE
+1F643	upsideDownFace	UPSIDE-DOWN FACE
+1F644	faceWithRollingEyes	FACE WITH ROLLING EYES
+1F645	faceWithNoGoodGesture	FACE WITH NO GOOD GESTURE
+1F646	faceWithOkGesture	FACE WITH OK GESTURE
+1F647	personBowingDeeply	PERSON BOWING DEEPLY
+1F648	seeNoEvilMonkey	SEE-NO-EVIL MONKEY
+1F649	hearNoEvilMonkey	HEAR-NO-EVIL MONKEY
+1F64A	speakNoEvilMonkey	SPEAK-NO-EVIL MONKEY
+1F64B	happyPersonRaisingOneHand	HAPPY PERSON RAISING ONE HAND
+1F64C	personRaisingBothHandsInCelebration	PERSON RAISING BOTH HANDS IN CELEBRATION
+1F64D	personFrowning	PERSON FROWNING
+1F64E	personWithPoutingFace	PERSON WITH POUTING FACE
+1F64F	personWithFoldedHands	PERSON WITH FOLDED HANDS

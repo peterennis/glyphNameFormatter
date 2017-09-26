@@ -74,6 +74,7 @@ if os.path.exists(glyphDataPath):
 # ================
 
 unicodelist = {}
+unicodeCategories = {}
 
 flatUnicodePath = os.path.join(path, "flatUnicode.txt")
 
@@ -92,9 +93,10 @@ if os.path.exists(flatUnicodePath):
         if not line:
             # empty line
             continue
-        uniNumber, uniName = line.split("\t")
+        uniNumber, uniName, uniCategory = line.split("\t")
         uniNumber = int(uniNumber, 16)
         unicodelist[uniNumber] = uniName
+        unicodeCategories[uniNumber] = uniCategory
 
     unicodeVersion = lines[0].replace("#", "").strip()
 

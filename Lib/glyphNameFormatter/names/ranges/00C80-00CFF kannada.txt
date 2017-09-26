@@ -1,4 +1,5 @@
 # Kannada 00C80 - 00CFF
+0C80	knda:signspacingcandrabindu	KANNADA SIGN SPACING CANDRABINDU
 0C81	knda:signcandrabindu	KANNADA SIGN CANDRABINDU
 0C82	knda:anusvara	KANNADA SIGN ANUSVARA
 0C83	knda:visarga	KANNADA SIGN VISARGA
