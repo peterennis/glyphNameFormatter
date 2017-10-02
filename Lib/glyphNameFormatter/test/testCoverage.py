@@ -1,7 +1,6 @@
 from __future__ import print_function
 from glyphNameFormatter.unicodeRangeNames import getAllRangeNames, rangeNameToModuleName, getRangeByName
 from glyphNameFormatter import GlyphName
-import unicodedata
 
 from glyphNameFormatter.data import name2unicode_AGD, unicodeVersion
 import importlib
@@ -62,8 +61,9 @@ def testCoverage():
     text.append("")
     text.append("## Version %s"%unicodeVersion)
     text.append("\n\n\n")
-    text.append("This coverage page is has some issues.")
-    text.append(" * The version of python used to build the table does not have the latest Unicode data.")
+    text.append("### Note:\n")
+    text.append("This coverage page is has some issues.\n")
+    text.append(" * Most of the Unicode data is downloaded from Unicode.org. Only the bidirectional data still depends on the Python unicodedata module..")
     text.append(" * Narrow build Python might also leave some names inaccessible.")
     text.append(" * Not all ranges need to count. Private Use ranges are ignored, perhaps others need to as well.")
     text.append("\n\n\n")

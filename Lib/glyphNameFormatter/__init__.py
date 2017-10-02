@@ -39,6 +39,7 @@ class GlyphName(object):
         self.uniNameProcessed = self.uniName
         self.uniRangeName = "No Range"
         self.isMath = False # is this a math symbol
+        self.isLegacy = False   # if the unicode value is only for legacy support
         self.scriptTag = ""
         if scriptSeparator is None:
             scriptSeparator = SCRIPTSEPARATOR
@@ -92,12 +93,14 @@ class GlyphName(object):
         if self.uniNumber in mathUniNumbers:
             self.isMath = True
         try:
-            # self.uniName = unicodedata.name(self.uniLetter)
             self.uniName = unicodelist.get(self.uniNumber)
             if self.uniName is None:
                 self.uniNameProcessed = ""
             else:
                 self.uniNameProcessed = self.uniName
+            # NOTE: this is still a dependency on the unicodedata module.
+            # Would be nice to extract this data directly from the unicode data
+            # but the algotirhm is ot trivial..
             self.bidiType = unicodedata.bidirectional(self.uniLetter)
         except ValueError:
             self.uniName = None
@@ -218,6 +221,8 @@ class GlyphName(object):
             # the final name has a duplicate in another script
             # take disambiguation action
             self.mustAddScript = True
+        if self.isLegacy:
+            self.uniNameProcessed = "lgcy_" + self.uniNameProcessed
 
     def processAs(self, rangeName):
         if not rangeName.lower().startswith("helper"):

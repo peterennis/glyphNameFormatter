@@ -4,7 +4,6 @@
 #
 #
 #   make a list of arabic marks
-from unicodedata import bidirectional
 
 inevitableExceptions = [
     1552,
