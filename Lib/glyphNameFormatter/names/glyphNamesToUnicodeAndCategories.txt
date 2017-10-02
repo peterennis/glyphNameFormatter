@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.28 - git commit: 391
+# GlyphNameFormatter version 0.28 - git commit: 392
 # Unicode version: Unicode 10.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/0608b15
-# Generated on 2017 10 02 17:27:58
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/f433044
+# Generated on 2017 10 02 23:45:47
 # <glyphName> <hex unicode> <unicodeCategory>
 #
 # Basic Latin
@@ -1524,7 +1524,7 @@ alefmaksura 0649 Lo
 yeh 064A Lo
 fathatan 064B Mn
 dammatan 064C Mn
-ar:kasratan 064D Mn
+kasratan 064D Mn
 fatha 064E Mn
 damma 064F Mn
 kasra 0650 Mn
@@ -8086,12 +8086,12 @@ yeh.init_yeh.fina FC5A Lo
 thal.init_superscriptalef.fina FC5B Lo
 reh.init_superscriptalef.fina FC5C Lo
 alefmaksura.init_superscriptalef.fina FC5D Lo
-shaddadamatan FC5E Lo
-shadda.init_kasratan.finaisolated FC5F Lo
-shadda.init_fatha.finaisolated FC60 Lo
-shadda.init_damma.finaisolated FC61 Lo
-shadda.init_kasra.finaisolated FC62 Lo
-shadda.init_superscriptalef.finaisolated FC63 Lo
+shaddaDammatanIsol FC5E Lo
+shaddaKasratanIsol FC5F Lo
+shaddaFathaIsol FC60 Lo
+shaddaDammaIsol FC61 Lo
+shaddaKasraIsol FC62 Lo
+shaddaAlefIsol FC63 Lo
 yeh.medi_hamzaabove.medi_reh.fina FC64 Lo
 yeh.medi_hamzaabove.medi_zain.fina FC65 Lo
 yeh.medi_hamzaabove.medi_meem.fina FC66 Lo
@@ -8234,9 +8234,9 @@ noon.medi_meem.medi FCEE Lo
 noon.medi_heh.medi FCEF Lo
 yeh.medi_meem.medi FCF0 Lo
 yeh.medi_heh.medi FCF1 Lo
-shadda.medi_fatha.medimedial FCF2 Lo
-shadda.medi_damma.medimedial FCF3 Lo
-shadda.medi_kasra.medimedial FCF4 Lo
+shaddaFathaMedi FCF2 Lo
+shaddaDammaMedi FCF3 Lo
+shaddaKasraMedi FCF4 Lo
 tah.init_alefmaksura.fina FCF5 Lo
 tah.init_yeh.fina FCF6 Lo
 ain.init_alefmaksura.fina FCF7 Lo
@@ -8516,25 +8516,25 @@ smll:dollar FE69 Sc
 smll:percent FE6A Po
 commercialat FE6B Po
 # Arabic Presentation Forms-B
-arabicfathatanisolatedform FE70 Lo
-tatweelfathatanabove FE71 Lo
-arabicdammatanisolatedform FE72 Lo
-arabictailfragment FE73 Lo
-ar:kasratan FE74 Lo
-arabicfathaisolatedform FE76 Lo
-arabicfathamedialform FE77 Lo
-arabicdammaisolatedform FE78 Lo
-arabicdammamedialform FE79 Lo
-arabickasraisolatedform FE7A Lo
-arabickasramedialform FE7B Lo
-arabicshaddaisolatedform FE7C Lo
-arabicshaddamedialform FE7D Lo
-arabicsukunisolatedform FE7E Lo
-arabicsukunmedialform FE7F Lo
-isolatedformhamza FE80 Lo
+fathatanIsol FE70 Lo
+tatweelFathatanAbove FE71 Lo
+dammatanIsol FE72 Lo
+kashidaFina FE73 Lo
+kasratanIsol FE74 Lo
+fathaIsol FE76 Lo
+fathaMedi FE77 Lo
+dammaIsol FE78 Lo
+dammaMedi FE79 Lo
+kasraIsol FE7A Lo
+kasraMedi FE7B Lo
+shaddaIsol FE7C Lo
+shaddaMedi FE7D Lo
+sukunIsol FE7E Lo
+sukunMedi FE7F Lo
+hamzaIsol FE80 Lo
 alefmadda.isol FE81 Lo
 alefmadda.fina FE82 Lo
-alefhamzaabove.isol FE83 Lo
+alefhamza.isol FE83 Lo
 alefhamza.fina FE84 Lo
 wawhamza.isol FE85 Lo
 wawhamza.fina FE86 Lo

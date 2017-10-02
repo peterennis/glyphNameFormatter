@@ -13,6 +13,9 @@ def process(self):
     #self.edit("ARABIC FATHA MEDIAL FORM", "fathamedial")
     #self.edit("ARABIC LETTER ALEF WITH HAMZA ABOVE ISOLATED FORM", "alefhamzaabove.isol")
 
+    if self.processAs("Helper Arabic Ligature Exceptions"):
+        return 
+
     if self.has("LIGATURE"):
         self.processAs("Helper Arabic Ligature")
     else:

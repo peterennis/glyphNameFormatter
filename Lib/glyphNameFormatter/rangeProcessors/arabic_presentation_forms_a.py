@@ -9,17 +9,20 @@ def process(self):
 
     # and now we're using camelcase?
 
-    inevitableExceptions = {
-    #    "ARABIC LIGATURE SHADDA WITH DAMMATAN ISOLATED FORM":   "shaddadamatan",
-    }
-    for k, v in inevitableExceptions.items():
-        if k == self.uniName:
-            self.edit(k, v)
-            return
+    # inevitableExceptions = {
+    # #    "ARABIC LIGATURE SHADDA WITH DAMMATAN ISOLATED FORM":   "shaddadamatan",
+    # }
+    # for k, v in inevitableExceptions.items():
+    #     if k == self.uniName:
+    #         self.edit(k, v)
+    #         return
 
 
 
 
+    if self.processAs("Helper Arabic Ligature Exceptions"):
+        return 
+        
     if self.has("LIGATURE"):
         self.processAs("Helper Arabic Ligature")
     else:

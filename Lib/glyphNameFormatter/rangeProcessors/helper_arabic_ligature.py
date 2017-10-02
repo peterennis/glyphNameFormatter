@@ -2,15 +2,6 @@ from __future__ import print_function
 from glyphNameFormatter.tools import camelCase
 
 
-doNotProcessAsLigatureRanges = [
-    #(0xfc5e, 0xfc63), 
-    (0xfe70, 0xfe74), 
-    #(0xfe76, 0xfe80), 
-    #(0xfc61, 0xfc5e), 
-    #(0xfcf2, 0xfcf4), 
-]
-
-
 def process(self):
     # interpret an arabic ligature from the parts
 
@@ -21,24 +12,6 @@ def process(self):
     # Isolate ligature: The LAST components is FINA, the fist components is INIT and the rest are MEDI
 
     parts = self.uniName.split(" ")
-
-    # Specifically: do not add suffixes for arabic marks
-    # shadda ligatures do not need suffixes
-    # XXXXX does not work
-
-    for a, b in doNotProcessAsLigatureRanges:
-        if a <= self.uniNumber <= b:
-            print(hex(a), hex(self.uniNumber), hex(b))
-            self.edit(u"ARABIC", "")
-            self.edit('INITIAL FORM', "initial")
-            self.edit('MEDIAL FORM', "medial")
-            self.edit('FINAL FORM', "final")
-            self.edit('ISOLATED FORM', "isolated")
-            self.edit('WITH', "")
-            self.edit("LIGATURE", "")
-            self.lower()
-            self.compress()
-            return
 
     # get the type, initial, medial, final or isolated.
     ligatureType = 'other'
@@ -135,9 +108,19 @@ if __name__ == "__main__":
     assert GlyphName(uniNumber=0xFC40).getName() == "lam.init_hah.fina"
     assert GlyphName(uniNumber=0xFBFC).getName() == "yehfarsi.isol"
 
+    print("\ndoNotProcessAsLigatureRanges", doNotProcessAsLigatureRanges)
+    odd = 0xfe76
     for a, b in doNotProcessAsLigatureRanges:
+        print('\nrange:',hex(a) , hex(odd), hex(b))
+        print( a <= odd <= b,)
         for u in range(a,b+1):
-            
-            g = GlyphName(uniNumber=u)
-            print(hex(u), g.getName(), g.uniName)
-    
+            try:
+                g = GlyphName(uniNumber=u)
+                n = g.getName()
+                # print(g.uniNumber)
+                print(u, hex(a), hex(u), hex(b), n, g.uniName)
+                #print( a <= u <= b,)
+                
+            except:
+                import traceback
+                traceback.print_exc()

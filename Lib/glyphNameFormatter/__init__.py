@@ -107,6 +107,9 @@ class GlyphName(object):
             self.uniNameProcessed = ""
             self.uniLetter = None
             self.bidiType = None
+        except:
+            import traceback
+            traceback.print_exc()
         self.uniRangeName = getRangeName(self.uniNumber)
 
     # these can be called by a range processor to set the status of a name.
@@ -228,7 +231,7 @@ class GlyphName(object):
         if not rangeName.lower().startswith("helper"):
             self.scriptTag = scriptPrefixes[rangeName]
         processor = getRangeProcessorByRangeName(rangeName)
-        processor(self)
+        return processor(self)
 
     def edit(self, pattern, *suffix):
         # look for pattern
