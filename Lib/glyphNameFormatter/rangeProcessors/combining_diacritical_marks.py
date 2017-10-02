@@ -29,6 +29,7 @@ def process(self):
     self.edit("RIGHT TACK", 'righttack')
     self.edit("REVERSED COMMA", 'reversedcomma')
     self.edit("TURNED COMMA", "commaturned")
+    self.edit("COMMA BELOW", "commaaccentbelow")
     self.edit("COMMA", "turned")
     self.edit("DOT ABOVE RIGHT", "dotrightabove")
     self.edit("CANDRABINDU", "candrabindu")

@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.28 - git commit: 385
+# GlyphNameFormatter version 0.28 - git commit: 391
 # Unicode version: Unicode 10.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/9d7f15e
-# Generated on 2017 09 25 11:09:50
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/0608b15
+# Generated on 2017 10 02 17:27:54
 # <glyphName> <hex unicode>
 #
 # Basic Latin
@@ -753,7 +753,7 @@ cmb:retroflexhookbelow 0322
 cmb:dotbelowcomb 0323
 cmb:dieresisbelow 0324
 cmb:ringbelow 0325
-cmb:turnedbelow 0326
+cmb:commaaccentbelow 0326
 cmb:cedilla 0327
 cmb:ogonek 0328
 cmb:lineverticalbelow 0329
@@ -1704,54 +1704,54 @@ ampersandSindhi 06FD
 menpostSindhi 06FE
 hehinvertedV 06FF
 # Arabic Supplement
-BehThreeDotsHorizontallyBelow 0750
-BehDotBelowAndThreeDotSAbove 0751
-BehThreeDotsPointingUpwardsBelow 0752
-BehThreeDotsPointingUpwardsBelowAndTwoDotsAbove 0753
-BehTwoDotsBelowAndDotAbove 0754
-BehInvertedSmallVBelow 0755
-BehSmallV 0756
-HahTwoDotsAbove 0757
-HahThreeDotsPointingUpwardsBelow 0758
-DalTwoDotsVerticallyBelowAndSmallTah 0759
-DalInvertedSmallVBelow 075A
-RehStroke 075B
-SeenFourDotsAbove 075C
-AinTwoDotsAbove 075D
-AinThreeDotsPointingDownwardsAbove 075E
-AinTwoDotsVerticallyAbove 075F
-FehTwoDotsBelow 0760
-FehThreeDotsPointingUpwardsBelow 0761
-KehehDotAbove 0762
-KehehThreeDotsAbove 0763
-KehehThreeDotsPointingUpwardsBelow 0764
-MeemDotAbove 0765
-MeemDotBelow 0766
-NoonTwoDotsBelow 0767
-NoonSmallTah 0768
-NoonSmallV 0769
-LamBar 076A
-RehTwoDotsVerticallyAbove 076B
-RehHamzaAbove 076C
-SeenTwoDotsVerticallyAbove 076D
-HahSmallTahBelow 076E
-HahSmallTahAndTwoDots 076F
-SeenSmallTahAndTwoDots 0770
-RehSmallTahAndTwoDots 0771
-HahSmallTahAbove 0772
-AlefDigitTwoAbove 0773
-AlefDigitThreeAbove 0774
-FarsiYehDigitTwoAbove 0775
-FarsiYehDigitThreeAbove 0776
-FarsiYehDigitFourBelow 0777
-WawDigitTwoAbove 0778
-WawDigitThreeAbove 0779
-YehBarreeDigitTwoAbove 077A
-YehBarreeDigitThreeAbove 077B
-HahDigitFourBelow 077C
-SeenDigitFourAbove 077D
-SeenInvertedV 077E
-KafTwoDotsAbove 077F
+behThreeDotsHorizontallyBelow 0750
+behDotBelowAndThreeDotsAbove 0751
+behThreeDotsPointingUpwardsBelow 0752
+behThreeDotsPointingUpwardsBelowAndTwoDotsAbove 0753
+behTwoDotsBelowAndDotAbove 0754
+behInvertedSmallVBelow 0755
+behSmallV 0756
+hahTwoDotsAbove 0757
+hahThreeDotsPointingUpwardsBelow 0758
+dalTwoDotsVerticallyBelowAndSmallTah 0759
+dalInvertedSmallVBelow 075A
+rehStroke 075B
+seenFourDotsAbove 075C
+ainTwoDotsAbove 075D
+ainThreeDotsPointingDownwardsAbove 075E
+ainTwoDotsVerticallyAbove 075F
+fehTwoDotsBelow 0760
+fehThreeDotsPointingUpwardsBelow 0761
+kehehDotAbove 0762
+kehehThreeDotsAbove 0763
+kehehThreeDotsPointingUpwardsBelow 0764
+meemDotAbove 0765
+meemDotBelow 0766
+noonTwoDotsBelow 0767
+noonSmallTah 0768
+noonSmallV 0769
+lamBar 076A
+rehTwoDotsVerticallyAbove 076B
+rehHamzaAbove 076C
+seenTwoDotsVerticallyAbove 076D
+hahSmallTahBelow 076E
+hahSmallTahAndTwoDots 076F
+seenSmallTahAndTwoDots 0770
+rehSmallTahAndTwoDots 0771
+hahSmallTahAbove 0772
+alefDigitTwoAbove 0773
+alefDigitThreeAbove 0774
+farsiYehDigitTwoAbove 0775
+farsiYehDigitThreeAbove 0776
+farsiYehDigitFourBelow 0777
+wawDigitTwoAbove 0778
+wawDigitThreeAbove 0779
+yehBarreeDigitTwoAbove 077A
+yehBarreeDigitThreeAbove 077B
+hahDigitFourBelow 077C
+seenDigitFourAbove 077D
+seenInvertedV 077E
+kafTwoDotsAbove 077F
 # Devanagari
 deva:candrabinduinverted 0900
 deva:candrabindu 0901
@@ -8087,11 +8087,11 @@ thal.init_superscriptalef.fina FC5B
 reh.init_superscriptalef.fina FC5C
 alefmaksura.init_superscriptalef.fina FC5D
 shaddadamatan FC5E
-shadda.init_kasratan.fina FC5F
-shadda.init_fatha.fina FC60
-shadda.init_damma.fina FC61
-shadda.init_kasra.fina FC62
-shadda.init_superscriptalef.fina FC63
+shadda.init_kasratan.finaisolated FC5F
+shadda.init_fatha.finaisolated FC60
+shadda.init_damma.finaisolated FC61
+shadda.init_kasra.finaisolated FC62
+shadda.init_superscriptalef.finaisolated FC63
 yeh.medi_hamzaabove.medi_reh.fina FC64
 yeh.medi_hamzaabove.medi_zain.fina FC65
 yeh.medi_hamzaabove.medi_meem.fina FC66
@@ -8234,9 +8234,9 @@ noon.medi_meem.medi FCEE
 noon.medi_heh.medi FCEF
 yeh.medi_meem.medi FCF0
 yeh.medi_heh.medi FCF1
-shadda.medi_fatha.medi FCF2
-shadda.medi_damma.medi FCF3
-shadda.medi_kasra.medi FCF4
+shadda.medi_fatha.medimedial FCF2
+shadda.medi_damma.medimedial FCF3
+shadda.medi_kasra.medimedial FCF4
 tah.init_alefmaksura.fina FCF5
 tah.init_yeh.fina FCF6
 ain.init_alefmaksura.fina FCF7
@@ -8516,22 +8516,22 @@ smll:dollar FE69
 smll:percent FE6A
 commercialat FE6B
 # Arabic Presentation Forms-B
-fathatan.isol FE70
+arabicfathatanisolatedform FE70
 tatweelfathatanabove FE71
-dammatan.isol FE72
-tailfragment FE73
+arabicdammatanisolatedform FE72
+arabictailfragment FE73
 ar:kasratan FE74
-fatha.isol FE76
-fathamedial FE77
-damma.isol FE78
-damma.medi FE79
-kasra.isol FE7A
-kasra.medi FE7B
-shadda.isol FE7C
-shadda.medi FE7D
-sukun.isol FE7E
-sukun.medi FE7F
-hamza.isol FE80
+arabicfathaisolatedform FE76
+arabicfathamedialform FE77
+arabicdammaisolatedform FE78
+arabicdammamedialform FE79
+arabickasraisolatedform FE7A
+arabickasramedialform FE7B
+arabicshaddaisolatedform FE7C
+arabicshaddamedialform FE7D
+arabicsukunisolatedform FE7E
+arabicsukunmedialform FE7F
+isolatedformhamza FE80
 alefmadda.isol FE81
 alefmadda.fina FE82
 alefhamzaabove.isol FE83

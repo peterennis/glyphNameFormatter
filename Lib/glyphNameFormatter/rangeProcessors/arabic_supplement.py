@@ -16,20 +16,11 @@ def process(self):
             nameParts = nameParts[1:]
         if nameParts[0] == 'LETTER':
             nameParts = nameParts[1:]
-
         self.edit("WITH")
         self.edit("EXTENDED ARABIC-INDIC")
         self.edit("ARABIC LETTER")
-        for p in nameParts:
-            self.replace(p, camelCase(p.lower()))
-        for p in withParts:
-            self.replace(p, camelCase(p.lower()))
-
+        self.camelCase()
     self.compress()
-    #if self.has("LIGATURE"):
-    #    self.processAs("Helper Arabic Ligature")
-    #else:
-    #    self.processAs("Arabic")
 
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange
