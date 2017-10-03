@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.28 - git commit: 394
+# GlyphNameFormatter version 0.28 - git commit: 395
 # Unicode version: Unicode 10.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/0427173
-# Generated on 2017 10 03 09:43:37
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/2a6c4d7
+# Generated on 2017 10 03 11:37:49
 # <glyphName> <hex unicode>
 # Separator ":"
 # Prefixed "False"
@@ -590,7 +590,7 @@ rfishhookreversed 027F
 Rsmall 0280
 Rinvertedsmall 0281
 shook 0282
-esh 0283
+esh:ipa 0283
 dotlessjstrokehook 0284
 eshsquatreversed 0285
 eshcurl 0286
@@ -717,16 +717,16 @@ shelfmod 02FD
 shelfopenmod 02FE
 arrowleftlowmod 02FF
 # Combining Diacritical Marks
-gravecomb:cmb 0300
-acutecomb:cmb 0301
+grave:cmb 0300
+acute:cmb 0301
 circumflex:cmb 0302
-tildecomb:cmb 0303
+tilde:cmb 0303
 macron:cmb 0304
 overline:cmb 0305
 breve:cmb 0306
 dotaccent:cmb 0307
 dieresis:cmb 0308
-hookabovecomb:cmb 0309
+hookabove:cmb 0309
 ringabove:cmb 030A
 hungarumlaut:cmb 030B
 caron:cmb 030C
@@ -738,7 +738,7 @@ invertedbreve:cmb 0311
 commaturnedabove:cmb 0312
 turnedabove:cmb 0313
 reversedcommaabove:cmb 0314
-RIGHTturnedabove:cmb 0315
+turnedcommaabove:cmb 0315
 gravebelow:cmb 0316
 acutebelow:cmb 0317
 lefttackbelow:cmb 0318
@@ -4023,69 +4023,69 @@ zcurlmod:phon 1DBD
 ezhmod:phon 1DBE
 thetamod:phon 1DBF
 # Combining Diacritical Marks Supplement
-dottedaccentgravecmb 1DC0
-dottedaccentacutecmb 1DC1
-snakebelowcmb 1DC2
-suspensionmarkcmb 1DC3
-macronacutecmb 1DC4
-gravemacroncmb 1DC5
-macrongravecmb 1DC6
-acutemacroncmb 1DC7
-graveacutegravecmb 1DC8
-acutegraveacutecmb 1DC9
-rbelowcmb 1DCA
-brevemacroncmb 1DCB
-macronbrevecmb 1DCC
-doubleabovecircumflexcmb 1DCD
-aboveogonekcmb 1DCE
-zigzagbelowcmb 1DCF
-isbelowcmb 1DD0
-urabovecmb 1DD1
-usabovecmb 1DD2
-aaboveflatcmb 1DD3
-aecmb 1DD4
-aocmb 1DD5
-avcmb 1DD6
-ccedillacmb 1DD7
-insulardcmb 1DD8
-ethcmb 1DD9
-gcmb 1DDA
-gsmallcmb 1DDB
-kcmb 1DDC
-lcmb 1DDD
-lsmallcmb 1DDE
-msmallcmb 1DDF
-ncmb 1DE0
-nsmallcmb 1DE1
-rsmallcmb 1DE2
-rrotundacmb 1DE3
-scmb 1DE4
-longscmb 1DE5
-zcmb 1DE6
-alphacmb 1DE7
-bcmb 1DE8
-betacmb 1DE9
-schwacmb 1DEA
-fcmb 1DEB
-lwithdoublemiddletildecmb 1DEC
-owithlightcentralizationstrokecmb 1DED
-pcmb 1DEE
-eshcmb 1DEF
-uwithlightcentralizationstrokecmb 1DF0
-wcmb 1DF1
-adieresiscmb 1DF2
-odieresiscmb 1DF3
-udieresiscmb 1DF4
-uptackabovecmb 1DF5
-kavykaaboverightcmb 1DF6
-kavykaaboveleftcmb 1DF7
-dotaboveleftcmb 1DF8
-wideinvertedbridgebelowcmb 1DF9
-deletionmarkcmb 1DFB
-doubleinvertedbelowbrevecmb 1DFC
-almostequaltobelowcmb 1DFD
-leftarrowheadabovecmb 1DFE
-rightarrowheadanddownarrowheadbelowcmb 1DFF
+dottedgrave:cmb 1DC0
+dottedacute:cmb 1DC1
+snakebelow:cmb 1DC2
+suspensionmark:cmb 1DC3
+macronacute:cmb 1DC4
+gravemacron:cmb 1DC5
+macrongrave:cmb 1DC6
+acutemacron:cmb 1DC7
+graveacutegrave:cmb 1DC8
+acutegraveacute:cmb 1DC9
+rbelow:cmb 1DCA
+brevemacron:cmb 1DCB
+macronbreve:cmb 1DCC
+doubleabovecircumflex:cmb 1DCD
+aboveogonek:cmb 1DCE
+zigzagbelow:cmb 1DCF
+isbelow:cmb 1DD0
+urabove:cmb 1DD1
+usabove:cmb 1DD2
+aaboveflat:cmb 1DD3
+ae:cmb 1DD4
+ao:cmb 1DD5
+av:cmb 1DD6
+ccedilla:cmb 1DD7
+insulard:cmb 1DD8
+eth:cmb 1DD9
+g:cmb 1DDA
+gsmall:cmb 1DDB
+k:cmb 1DDC
+l:cmb 1DDD
+lsmall:cmb 1DDE
+msmall:cmb 1DDF
+n:cmb 1DE0
+nsmall:cmb 1DE1
+rsmall:cmb 1DE2
+rrotunda:cmb 1DE3
+s:cmb 1DE4
+longs:cmb 1DE5
+z:cmb 1DE6
+alpha:cmb 1DE7
+b:cmb 1DE8
+beta:cmb 1DE9
+schwa:cmb 1DEA
+f:cmb 1DEB
+lwithdoublemiddletilde:cmb 1DEC
+owithlightcentralizationstroke:cmb 1DED
+p:cmb 1DEE
+esh:cmb 1DEF
+uwithlightcentralizationstroke:cmb 1DF0
+w:cmb 1DF1
+adieresis:cmb 1DF2
+odieresis:cmb 1DF3
+udieresis:cmb 1DF4
+uptackabove:cmb 1DF5
+kavykaaboveright:cmb 1DF6
+kavykaaboveleft:cmb 1DF7
+dotaboveleft:cmb 1DF8
+wideinvertedbridgebelow:cmb 1DF9
+deletionmark:cmb 1DFB
+doubleinvertedbelowbreve:cmb 1DFC
+almostequaltobelow:cmb 1DFD
+leftarrowheadabove:cmb 1DFE
+rightarrowheadanddownarrowheadbelow:cmb 1DFF
 # Latin Extended Additional
 Aringbelow 1E00
 aringbelow 1E01

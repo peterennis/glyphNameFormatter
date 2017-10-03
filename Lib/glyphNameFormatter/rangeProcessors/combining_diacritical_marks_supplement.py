@@ -12,8 +12,10 @@ def process(self):
     self.edit("GRAVE-ACUTE-GRAVE", "graveacutegrave")
     self.edit("ACUTE-GRAVE-ACUTE", "acutegraveacute")
 
-    self.editToFinal("COMBINING", "cmb")
+    #self.editToFinal("COMBINING", "cmb")
+    self.edit("COMBINING")
     self.edit("OPEN")
+    self.edit("ACCENT")
     self.edit("FLATTENED", "flat")
 
     self.processAs("Helper Diacritics")
@@ -21,6 +23,7 @@ def process(self):
 
     self.lower()
     self.compress()
+    self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange

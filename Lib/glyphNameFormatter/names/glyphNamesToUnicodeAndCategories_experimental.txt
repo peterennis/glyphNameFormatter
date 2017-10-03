@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.28 - git commit: 394
+# GlyphNameFormatter version 0.28 - git commit: 395
 # Unicode version: Unicode 10.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/0427173
-# Generated on 2017 10 03 09:43:32
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/2a6c4d7
+# Generated on 2017 10 03 11:37:45
 # <glyphName> <hex unicode> <unicodeCategory>
 #
 # Basic Latin
@@ -588,7 +588,7 @@ rfishhookreversed 027F Ll
 Rsmall 0280 Ll
 Rinvertedsmall 0281 Ll
 shook 0282 Ll
-esh 0283 Ll
+ipa:esh 0283 Ll
 dotlessjstrokehook 0284 Ll
 eshsquatreversed 0285 Ll
 eshcurl 0286 Ll
@@ -715,16 +715,16 @@ shelfmod 02FD Sk
 shelfopenmod 02FE Sk
 arrowleftlowmod 02FF Sk
 # Combining Diacritical Marks
-cmb:gravecomb 0300 Mn
-cmb:acutecomb 0301 Mn
+cmb:grave 0300 Mn
+cmb:acute 0301 Mn
 cmb:circumflex 0302 Mn
-cmb:tildecomb 0303 Mn
+cmb:tilde 0303 Mn
 cmb:macron 0304 Mn
 cmb:overline 0305 Mn
 cmb:breve 0306 Mn
 cmb:dotaccent 0307 Mn
 cmb:dieresis 0308 Mn
-cmb:hookabovecomb 0309 Mn
+cmb:hookabove 0309 Mn
 cmb:ringabove 030A Mn
 cmb:hungarumlaut 030B Mn
 cmb:caron 030C Mn
@@ -736,7 +736,7 @@ cmb:invertedbreve 0311 Mn
 cmb:commaturnedabove 0312 Mn
 cmb:turnedabove 0313 Mn
 cmb:reversedcommaabove 0314 Mn
-cmb:RIGHTturnedabove 0315 Mn
+cmb:turnedcommaabove 0315 Mn
 cmb:gravebelow 0316 Mn
 cmb:acutebelow 0317 Mn
 cmb:lefttackbelow 0318 Mn
@@ -4202,69 +4202,69 @@ phon:zcurlmod 1DBD Lm
 phon:ezhmod 1DBE Lm
 phon:thetamod 1DBF Lm
 # Combining Diacritical Marks Supplement
-dottedaccentgravecmb 1DC0 Mn
-dottedaccentacutecmb 1DC1 Mn
-snakebelowcmb 1DC2 Mn
-suspensionmarkcmb 1DC3 Mn
-macronacutecmb 1DC4 Mn
-gravemacroncmb 1DC5 Mn
-macrongravecmb 1DC6 Mn
-acutemacroncmb 1DC7 Mn
-graveacutegravecmb 1DC8 Mn
-acutegraveacutecmb 1DC9 Mn
-rbelowcmb 1DCA Mn
-brevemacroncmb 1DCB Mn
-macronbrevecmb 1DCC Mn
-doubleabovecircumflexcmb 1DCD Mn
-aboveogonekcmb 1DCE Mn
-zigzagbelowcmb 1DCF Mn
-isbelowcmb 1DD0 Mn
-urabovecmb 1DD1 Mn
-usabovecmb 1DD2 Mn
-aaboveflatcmb 1DD3 Mn
-aecmb 1DD4 Mn
-aocmb 1DD5 Mn
-avcmb 1DD6 Mn
-ccedillacmb 1DD7 Mn
-insulardcmb 1DD8 Mn
-ethcmb 1DD9 Mn
-gcmb 1DDA Mn
-gsmallcmb 1DDB Mn
-kcmb 1DDC Mn
-lcmb 1DDD Mn
-lsmallcmb 1DDE Mn
-msmallcmb 1DDF Mn
-ncmb 1DE0 Mn
-nsmallcmb 1DE1 Mn
-rsmallcmb 1DE2 Mn
-rrotundacmb 1DE3 Mn
-scmb 1DE4 Mn
-longscmb 1DE5 Mn
-zcmb 1DE6 Mn
-alphacmb 1DE7 Mn
-bcmb 1DE8 Mn
-betacmb 1DE9 Mn
-schwacmb 1DEA Mn
-fcmb 1DEB Mn
-lwithdoublemiddletildecmb 1DEC Mn
-owithlightcentralizationstrokecmb 1DED Mn
-pcmb 1DEE Mn
-eshcmb 1DEF Mn
-uwithlightcentralizationstrokecmb 1DF0 Mn
-wcmb 1DF1 Mn
-adieresiscmb 1DF2 Mn
-odieresiscmb 1DF3 Mn
-udieresiscmb 1DF4 Mn
-uptackabovecmb 1DF5 Mn
-kavykaaboverightcmb 1DF6 Mn
-kavykaaboveleftcmb 1DF7 Mn
-dotaboveleftcmb 1DF8 Mn
-wideinvertedbridgebelowcmb 1DF9 Mn
-deletionmarkcmb 1DFB Mn
-doubleinvertedbelowbrevecmb 1DFC Mn
-almostequaltobelowcmb 1DFD Mn
-leftarrowheadabovecmb 1DFE Mn
-rightarrowheadanddownarrowheadbelowcmb 1DFF Mn
+cmb:dottedgrave 1DC0 Mn
+cmb:dottedacute 1DC1 Mn
+cmb:snakebelow 1DC2 Mn
+cmb:suspensionmark 1DC3 Mn
+cmb:macronacute 1DC4 Mn
+cmb:gravemacron 1DC5 Mn
+cmb:macrongrave 1DC6 Mn
+cmb:acutemacron 1DC7 Mn
+cmb:graveacutegrave 1DC8 Mn
+cmb:acutegraveacute 1DC9 Mn
+cmb:rbelow 1DCA Mn
+cmb:brevemacron 1DCB Mn
+cmb:macronbreve 1DCC Mn
+cmb:doubleabovecircumflex 1DCD Mn
+cmb:aboveogonek 1DCE Mn
+cmb:zigzagbelow 1DCF Mn
+cmb:isbelow 1DD0 Mn
+cmb:urabove 1DD1 Mn
+cmb:usabove 1DD2 Mn
+cmb:aaboveflat 1DD3 Mn
+cmb:ae 1DD4 Mn
+cmb:ao 1DD5 Mn
+cmb:av 1DD6 Mn
+cmb:ccedilla 1DD7 Mn
+cmb:insulard 1DD8 Mn
+cmb:eth 1DD9 Mn
+cmb:g 1DDA Mn
+cmb:gsmall 1DDB Mn
+cmb:k 1DDC Mn
+cmb:l 1DDD Mn
+cmb:lsmall 1DDE Mn
+cmb:msmall 1DDF Mn
+cmb:n 1DE0 Mn
+cmb:nsmall 1DE1 Mn
+cmb:rsmall 1DE2 Mn
+cmb:rrotunda 1DE3 Mn
+cmb:s 1DE4 Mn
+cmb:longs 1DE5 Mn
+cmb:z 1DE6 Mn
+cmb:alpha 1DE7 Mn
+cmb:b 1DE8 Mn
+cmb:beta 1DE9 Mn
+cmb:schwa 1DEA Mn
+cmb:f 1DEB Mn
+cmb:lwithdoublemiddletilde 1DEC Mn
+cmb:owithlightcentralizationstroke 1DED Mn
+cmb:p 1DEE Mn
+cmb:esh 1DEF Mn
+cmb:uwithlightcentralizationstroke 1DF0 Mn
+cmb:w 1DF1 Mn
+cmb:adieresis 1DF2 Mn
+cmb:odieresis 1DF3 Mn
+cmb:udieresis 1DF4 Mn
+cmb:uptackabove 1DF5 Mn
+cmb:kavykaaboveright 1DF6 Mn
+cmb:kavykaaboveleft 1DF7 Mn
+cmb:dotaboveleft 1DF8 Mn
+cmb:wideinvertedbridgebelow 1DF9 Mn
+cmb:deletionmark 1DFB Mn
+cmb:doubleinvertedbelowbreve 1DFC Mn
+cmb:almostequaltobelow 1DFD Mn
+cmb:leftarrowheadabove 1DFE Mn
+cmb:rightarrowheadanddownarrowheadbelow 1DFF Mn
 # Latin Extended Additional
 Aringbelow 1E00 Lu
 aringbelow 1E01 Ll

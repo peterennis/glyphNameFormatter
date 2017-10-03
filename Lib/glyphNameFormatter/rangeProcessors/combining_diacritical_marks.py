@@ -1,5 +1,15 @@
 
 def process(self):
+    # override some names that came from the AGL
+    AGLOverrides = [
+        ("COMBINING ACUTE ACCENT", "acute"),   
+        ("COMBINING GRAVE ACCENT", "grave"),   
+        ("COMBINING TILDE", "tilde"),   
+        ("COMBINING HOOK ABOVE", "hook above"),   
+    ]
+    for a, b in AGLOverrides:
+        if a == self.uniName:
+            self.uniNameProcessed = b
     self.edit("GREEK PERISPOMENI", "perispomeni")
     self.edit("GREEK KORONIS", "koronis")
     self.edit("GREEK DIALYTIKA TONOS", "dialytikatonos")
@@ -28,6 +38,7 @@ def process(self):
     self.edit("UP TACK", 'uptack')
     self.edit("RIGHT TACK", 'righttack')
     self.edit("REVERSED COMMA", 'reversedcomma')
+    self.edit("COMBINING COMMA ABOVE RIGHT", 'turnedcommaabove')
     self.edit("TURNED COMMA", "commaturned")
     self.edit("COMMA BELOW", "commaaccentbelow")
     self.edit("COMMA", "turned")
@@ -68,7 +79,7 @@ def process(self):
     self.edit("SHORT STROKE", "strokeshort")
     self.edit("LONG STROKE", "strokelong")
 
-    self.edit("DOUBLE RIGHTWARDS ARROW", "arrowrightdouble")
+    self.edit("DOUBLE RIGHTWARDS ARROW", "arrow right double")
     self.edit("UPWARDS ARROW", "arrowup")
     self.edit("LEFT RIGHT ARROW", "arrowleftright")
     self.edit("LEFT ARROWHEAD", "arrowheadleft")
