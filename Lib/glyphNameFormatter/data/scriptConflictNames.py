@@ -90,6 +90,7 @@ scriptConflictNames = [
     "beta",
     "bha",
     "bi",
+    "blank",
     "bo",
     "bowtie",
     "braceleft",
