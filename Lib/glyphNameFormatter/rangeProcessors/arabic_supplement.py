@@ -16,6 +16,10 @@ def process(self):
             nameParts = nameParts[1:]
         if nameParts[0] == 'LETTER':
             nameParts = nameParts[1:]
+        self.replace("UPWARDS", "UP") 
+        self.replace("DOWNWARDS", "DOWN") 
+        self.replace("POINTING", "") 
+        self.replace("AND", "") 
         self.edit("WITH")
         self.edit("EXTENDED ARABIC-INDIC")
         self.edit("ARABIC LETTER")

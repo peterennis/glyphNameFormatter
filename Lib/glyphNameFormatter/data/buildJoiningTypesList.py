@@ -16,8 +16,15 @@ group.add_argument("-u", "--unicode-version",
                    help="Unicode version to use for download and processing")
 options = parser.parse_args()
 
+if options.unicode_version:
+    version = options.unicode_version
+else:
+    version = UNICODE_VERSION
+
 JOININGTYPES_FILE = "joiningTypes.txt"
 ASURL = "http://www.unicode.org/Public/{version}/ucd/ArabicShaping.txt"
+
+print(ASURL.format(version=version))
 
 tempdir = tempfile.mkdtemp()
 filename = os.path.join(tempdir, JOININGTYPES_FILE)
