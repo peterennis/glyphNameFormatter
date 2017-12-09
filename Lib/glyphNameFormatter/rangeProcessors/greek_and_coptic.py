@@ -17,6 +17,7 @@ def process(self):
     self.replace("LETTER KOPPA", "Koppa")
     self.replace("LETTER STIGMA", "Stigma")
     self.replace("LETTER SAMPI", "Sampi")
+    self.replace("LETTER LAMDA", "Lambda")
     self.replace("LETTER YOT", "yot")
 
     self.edit("LOWER NUMERAL SIGN", "lownumeralsign")
@@ -53,7 +54,7 @@ def process(self):
     self.edit("UPSILON WITH HOOK SYMBOL", "Upsilonhooksymbol")
     self.edit("UPSILON WITH ACUTE AND HOOK SYMBOL", "Upsilonacutehooksymbol")
     self.edit("UPSILON WITH DIAERESIS AND HOOK SYMBOL", "Upsilona%shooksymbol" % self.prefSpelling_dieresis)
-    self.edit("TONOS", "tonos")
+    self.edit("WITH TONOS", "tonos")
 
     self.processAs("Helper Greek Diacritics")
 
