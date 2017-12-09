@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.28 - git commit: 397
+# GlyphNameFormatter version 0.28 - git commit: 398
 # Unicode version: Unicode 10.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/19f216e
-# Generated on 2017 12 09 10:55:34
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/e245f5a
+# Generated on 2017 12 09 21:46:44
 # <glyphName> <hex unicode>
 #
 # Basic Latin
@@ -8102,11 +8102,11 @@ Ismall A7AE
 Kturned A7B0
 Tturned A7B1
 Jcrossed-tail A7B2
-Chi A7B3
-Beta A7B4
-beta A7B5
-Omega A7B6
-omega A7B7
+lt:Chi A7B3
+lt:Beta A7B4
+lt:beta A7B5
+lt:Omega A7B6
+lt:omega A7B7
 iepigraphicsideways A7F7
 Hstrokemod A7F8
 ligatureoemod A7F9

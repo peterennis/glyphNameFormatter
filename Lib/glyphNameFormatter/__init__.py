@@ -40,6 +40,7 @@ class GlyphName(object):
         self.uniRangeName = "No Range"
         self.isMath = False # is this a math symbol
         self.isLegacy = False   # if the unicode value is only for legacy support
+        self.forceLatinScriptTag = False  # set to True to foxce a scripttag to latin
         self.scriptTag = ""
         if scriptSeparator is None:
             scriptSeparator = SCRIPTSEPARATOR
@@ -190,7 +191,7 @@ class GlyphName(object):
             # we don't want a script extension,
             # but we've been warned that it might be necessary
             # for disambiguation
-            if self.scriptTag != scriptPrefixes['latin'] and self.scriptTag != "":
+            if self.forceLatinScriptTag or (self.scriptTag != scriptPrefixes['latin'] and self.scriptTag != ""):
                 if self.mustAddScript and self.scriptTag:
                     return addScriptPrefix(self.uniNameProcessed,
                                 self.scriptTag,
