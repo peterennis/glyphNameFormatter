@@ -42,7 +42,7 @@ class ScriptPrefixesDict(dict):
             # found it, return it
             return value
         # get the existing keys
-        existingKeys = dict.keys(self)
+        existingKeys = list(dict.keys(self))
         # sort them by reversed lenght
         existingKeys.sort(key=len, reverse=True)
         for existingKey in existingKeys:

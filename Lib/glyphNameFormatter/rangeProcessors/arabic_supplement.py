@@ -1,5 +1,6 @@
 from glyphNameFormatter.tools import camelCase
 
+
 def process(self):
     # If the Arabic ligature names comes with any of these terms then these rules apply on components:
 
@@ -16,15 +17,16 @@ def process(self):
             nameParts = nameParts[1:]
         if nameParts[0] == 'LETTER':
             nameParts = nameParts[1:]
-        self.replace("UPWARDS", "UP") 
-        self.replace("DOWNWARDS", "DOWN") 
-        self.replace("POINTING", "") 
-        self.replace("AND", "") 
+        self.replace("UPWARDS", "UP")
+        self.replace("DOWNWARDS", "DOWN")
+        self.replace("POINTING", "")
+        self.replace("AND", "")
         self.edit("WITH")
         self.edit("EXTENDED ARABIC-INDIC")
         self.edit("ARABIC LETTER")
         self.camelCase()
     self.compress()
+
 
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange

@@ -1,5 +1,7 @@
 # -*- coding: UTF-8 -*-
 from __future__ import print_function
+from fontTools.misc.py23 import unicode, PY2
+
 from glyphNameFormatter.unicodeRangeNames import getRangeByName
 from glyphNameFormatter import GlyphName
 
@@ -42,7 +44,8 @@ def printRange(rangeName, toFile=None):
         txt += g.uniName
         out.append(txt)
     out = "\n".join(out)
-    out = out.encode("utf-8")
+    if PY2:
+        out = out.encode("utf-8")
     if toFile:
         toFile.write(out)
     else:

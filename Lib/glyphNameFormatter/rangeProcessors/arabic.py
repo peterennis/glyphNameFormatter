@@ -1,4 +1,6 @@
 from glyphNameFormatter.tools import debug
+
+
 def process(self):
     lowercaseOk = True
 

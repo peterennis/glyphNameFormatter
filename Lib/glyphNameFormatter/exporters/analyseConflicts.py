@@ -20,7 +20,7 @@ def findConflict(makeModule=True, makeReport=False, printReport=False):
                 if name not in names:
                     names[name] = []
                 names[name].append(glyphName)
-    n = names.keys()
+    n = list(names.keys())
     n.sort()
 
     conflictNames = []

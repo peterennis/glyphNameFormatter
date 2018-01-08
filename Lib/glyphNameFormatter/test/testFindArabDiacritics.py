@@ -25,7 +25,7 @@ for uniNumber in range(1, 0xffff):
 candidates = []
 for u in biditypes["NSM"]:
     g = GlyphName(u)
-    if g.uniRangeName.find("Arabic")!=-1 and g.uniNumber not in inevitableExceptions:
+    if g.uniRangeName.find("Arabic") != -1 and g.uniNumber not in inevitableExceptions:
         candidates.append(u)
-        print g.uniNumber, g.uniName
-print candidates
+        print(g.uniNumber, g.uniName)
+print(candidates)

@@ -1,17 +1,17 @@
 # -*- coding: UTF-8 -*-
-from __future__ import print_function
+from __future__ import print_function, absolute_import
 
 import unicodedata
 
-from data import unicodelist
-from data.scriptConflictNames import scriptConflictNames
-from data.preferredAGLNames import preferredAGLNames
-from data.scriptPrefixes import scriptPrefixes, addScriptPrefix, SCRIPTSEPARATOR, SCRIPTASPREFIX
-from data.mathUniNumbers import mathUniNumbers
+from .data import unicodelist
+from .data.scriptConflictNames import scriptConflictNames
+from .data.preferredAGLNames import preferredAGLNames
+from .data.scriptPrefixes import scriptPrefixes, addScriptPrefix, SCRIPTSEPARATOR, SCRIPTASPREFIX
+from .data.mathUniNumbers import mathUniNumbers
 
-from unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessorByRangeName
+from .unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessorByRangeName
 
-from tools import unicodeToChar
+from .tools import unicodeToChar
 
 
 __version__ = "0.28"
@@ -89,7 +89,7 @@ class GlyphName(object):
         try:
             self.uniLetter = unicodeToChar(self.uniNumber)
         except:
-            print("GlyphName valueerror for %04X" % self.uniNumber)
+            # print("GlyphName value error for %04X" % self.uniNumber)
             return
         if self.uniNumber in mathUniNumbers:
             self.isMath = True

@@ -22,14 +22,14 @@ for name in getAllRangeNames():
             theta.append(g)
 
 
-print "\n\ngreek and math"
+print("\n\ngreek and math")
 for g in greekSymbols:
-    print g, g.uniRangeName, g.isMath
+    print(g, g.uniRangeName, g.isMath)
 
-print "\n\ntheta"
+print("\n\ntheta")
 for g in theta:
-    print g, g.uniRangeName, g.isMath
+    print(g, g.uniRangeName, g.isMath)
 
-print "\n\npi"
+print("\n\npi")
 for g in pi:
-    print g, g.uniRangeName, g.isMath
+    print(g, g.uniRangeName, g.isMath)

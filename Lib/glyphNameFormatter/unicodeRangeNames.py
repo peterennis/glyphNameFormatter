@@ -1,9 +1,9 @@
 # -*- coding: UTF-8 -*-
-from __future__ import print_function
+from __future__ import print_function, absolute_import
 from glyphNameFormatter.data import unicodeRangeNames
 
-import rangeProcessors
-reload(rangeProcessors)
+from . import rangeProcessors
+# reload(rangeProcessors)
 
 
 unicodePlaneNames = {
@@ -39,7 +39,7 @@ def getRangeByName(rangeName):
 
 def getAllRangeNames():
     names = []
-    ranges = unicodeRangeNames.keys()
+    ranges = list(unicodeRangeNames.keys())
     ranges.sort()
     for r in ranges:
         names.append(unicodeRangeNames[r])
@@ -92,7 +92,7 @@ def getRangeProcessorByRangeName(rangeName):
     try:
         return getattr(module, "process")
     except AttributeError:
-        print(moduleName)
+        print(module)
         return None
 
 
@@ -103,4 +103,3 @@ def getSupportedRangeNames():
         if processor is not None:
             supported.append(name)
     return supported
-

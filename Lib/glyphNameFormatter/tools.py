@@ -1,3 +1,4 @@
+from fontTools.misc.py23 import unichr
 import struct
 
 

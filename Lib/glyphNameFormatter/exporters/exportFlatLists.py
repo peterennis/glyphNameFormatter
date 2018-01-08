@@ -28,7 +28,7 @@ def getExportVersionNumber():
     if _hasGit:
         commitNumber = subprocess.check_output(["git", "rev-list", "HEAD", "--count"], cwd=os.path.dirname(__file__))
         commitNumber = commitNumber.strip()
-        return "%s - git commit: %s" % (__version__, commitNumber)
+        return "%s - git commit: %s" % (__version__, commitNumber.decode())
     return "%s" % __version__
 
 _versionNumber = getExportVersionNumber()
@@ -36,9 +36,9 @@ _versionNumber = getExportVersionNumber()
 
 def getGithubLink():
     if _hasGit:
-        commithash = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'],  cwd=os.path.dirname(__file__))
+        commithash = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'], cwd=os.path.dirname(__file__))
         commithash = commithash.strip()
-        return "https://github.com/LettError/glyphNameFormatter/tree/%s" % commithash
+        return "https://github.com/LettError/glyphNameFormatter/tree/%s" % commithash.decode()
     return "-"
 
 _githubLink = getGithubLink()
@@ -97,11 +97,13 @@ if __name__ == "__main__":
 
     # generate a flat export
     generateFlat("./../names/glyphNamesToUnicode.txt")
+    print("done: 'glyphNamesToUnicode.txt'")
     generateFlat("./../names/glyphNamesToUnicode_experimental.txt", status=-1)
-
+    print("done: 'glyphNamesToUnicode_experimental.txt'")
     generateFlat("./../names/glyphNamesToUnicodeAndCategories.txt", includeUnicodeCategory=True)
+    print("done: 'glyphNamesToUnicodeAndCategories.txt'")
     generateFlat("./../names/glyphNamesToUnicodeAndCategories_experimental.txt", status=-1, includeUnicodeCategory=True)
-
+    print("done: 'glyphNamesToUnicodeAndCategories_experimental.txt'")
     # and because this is a generator we can make any flavor we want:
     for separator, sn in [
             (":", "colon"),

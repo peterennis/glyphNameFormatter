@@ -9,7 +9,7 @@ __slots__ = [
     "unicodelist",
     "unicodeVersion",
     "unicodeRangeNames",
-    ]
+]
 
 path = os.path.dirname(__file__)
 
@@ -112,7 +112,6 @@ if os.path.exists(unicodeBlocksPath):
     f = open(unicodeBlocksPath, "r")
     lines = f.readlines()
     f.close()
-
     # format
     # Start Code..End Code; Block Name
     for line in lines:
