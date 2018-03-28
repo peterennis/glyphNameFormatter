@@ -1,5 +1,6 @@
 import os
 from xml.etree import cElementTree as ET
+from fontTools.misc.py23 import open
 
 __slots__ = [
     "unicode2name_AGD",
@@ -109,7 +110,7 @@ unicodeRangeNames = {}
 unicodeBlocksPath = os.path.join(path, "unicodeBlocks.txt")
 
 if os.path.exists(unicodeBlocksPath):
-    f = open(unicodeBlocksPath, "r")
+    f = open(unicodeBlocksPath, "r", encoding="utf-8")
     lines = f.readlines()
     f.close()
     # format
