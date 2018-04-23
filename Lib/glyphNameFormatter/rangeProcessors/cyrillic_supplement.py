@@ -4,8 +4,14 @@ def process(self):
     # self.edit("ARMENIAN")
     # self.handleCase()
     # self.compress()
-    self.edit("REVERSED")
+    #self.edit("REVERSED")
+    if self.has("REVERSED"):
+    	self.replace("REVERSED", "reversed")
+    if self.has("MIDDLE"):
+        self.replace("MIDDLE", "middle")
+        self.edit("WITH")
     self.processAs("Cyrillic")
+    self.compress()
 
 
 if __name__ == "__main__":
