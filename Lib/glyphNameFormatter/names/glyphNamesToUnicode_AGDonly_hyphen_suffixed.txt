@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.28 - git commit: 400
+# GlyphNameFormatter version 0.28 - git commit: 406
 # Unicode version: Unicode 10.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/fcca7b3
-# Generated on 2018 03 23 20:36:56
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/c225719
+# Generated on 2018 04 23 22:18:33
 # <glyphName> <hex unicode>
 # Separator "-"
 # Prefixed "False"
@@ -1239,8 +1239,8 @@ Sjekomicyr 050C
 sjekomicyr 050D
 Tjekomicyr 050E
 tjekomicyr 050F
-Zecyr 0510
-zecyr 0511
+Reversedzecyr 0510
+reversedzecyr 0511
 Elhookcyr 0512
 elhookcyr 0513
 Lhacyr 0514
@@ -1255,10 +1255,10 @@ Wecyr 051C
 wecyr 051D
 Kaaleutcyr 051E
 kaaleutcyr 051F
-Elhookcyr 0520
-elhookcyr 0521
-Enhookcyr 0522
-enhookcyr 0523
+Elmiddlehookcyr 0520
+elmiddlehookcyr 0521
+Enmiddlehookcyr 0522
+enmiddlehookcyr 0523
 Petailcyr 0524
 petailcyr 0525
 Shhatailcyr 0526
