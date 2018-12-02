@@ -78,3 +78,4 @@
 0A73	guru:ura	GURMUKHI URA
 0A74	guru:ekonkar	GURMUKHI EK ONKAR
 0A75	guru:yakashsign	GURMUKHI SIGN YAKASH
+0A76	guru:abbreviationsign	GURMUKHI ABBREVIATION SIGN
