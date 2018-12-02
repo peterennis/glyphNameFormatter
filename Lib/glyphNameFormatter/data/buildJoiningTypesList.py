@@ -9,6 +9,8 @@ try:
 except ImportError:
     from urllib.request import urlopen
 
+UNICODE_VERSION = "11.0.0"
+
 parser = ArgumentParser(description=__doc__,
                         formatter_class=RawDescriptionHelpFormatter)
 group = parser.add_mutually_exclusive_group(required=True)
@@ -41,5 +43,5 @@ with open(filename, "wb") as fp:
         if not buffer:
             break
         fp.write(buffer)
-fp.rewind()
-print(len(fp))
+# fp.rewind()
+# print(len(fp))
