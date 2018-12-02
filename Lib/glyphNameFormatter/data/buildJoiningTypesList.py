@@ -28,15 +28,13 @@ ASURL = "http://www.unicode.org/Public/{version}/ucd/ArabicShaping.txt"
 
 print(ASURL.format(version=version))
 
-tempdir = tempfile.mkdtemp()
-filename = os.path.join(tempdir, JOININGTYPES_FILE)
-print(">> Downloading {} to {}".format(os.path.basename(ASURL), filename))
+print(">> Downloading {} to {}".format(os.path.basename(ASURL), JOININGTYPES_FILE))
 if options.unicode_version:
     version = options.unicode_version
 else:
     version = UNICODE_VERSION
 url = urlopen(ASURL.format(version=version))
-with open(filename, "wb") as fp:
+with open(JOININGTYPES_FILE, "wb") as fp:
     blocksize = 8192
     while True:
         buffer = url.read(blocksize)
