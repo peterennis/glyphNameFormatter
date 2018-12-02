@@ -95,16 +95,57 @@ def u2r(value):
 			return v
 	return None
 
+def _upr(uni):
+	v = chr(uni).upper()
+	if len(v) == 1:
+		return ord(v)
+	return v
+
+def _lwr(uni):
+	v = chr(uni).lower()
+	if len(v) == 1:
+		return ord(v)
+	return v
+
+def n2N(name):
+	# name to uppercase
+	uni = n2u(name)
+	if uni:
+		#print('uni', uni, len(chr(uni).upper()))
+		uprUni = _upr(uni)
+		if uprUni:
+			return u2n(uprUni)
+	return name
+
+def N2n(name):
+	# name to lowercase
+	pass
+
+def u2U(value):
+	# unicode to uppercase unicode
+	pass
+
+def U2u(value):
+	# unicode to lowercase unicode
+	pass
 
 if __name__ == "__main__":
-	allNames = name2uni.keys()
-	#print(allNames)
+	
+	allNames = list(name2uni.keys())
 	allNames.sort()
 	for n in allNames:
-		print(n)
-		assert(n == u2n(n2u(n)))
+		uu = n2N(n)
+		if uu != n and uu is not None:
+			print("\t", n, uu)
+
+	if False:
+		allNames = list(name2uni.keys())
+		allNames.sort()
+		for n in allNames:
+			print(n)
+			assert(n == u2n(n2u(n)))
 
 
-	for n in allNames:
-		u = n2u(n)
-		print(n, u2r(u))
+		for n in allNames:
+			u = n2u(n)
+			print(n, u2r(u))

@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.28 - git commit: 406
-# Unicode version: Unicode 10.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/c225719
-# Generated on 2018 04 23 22:18:15
+# GlyphNameFormatter version 0.28 - git commit: 410
+# Unicode version: Unicode 11.0.0
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/2658794
+# Generated on 2018 12 02 20:56:43
 # <glyphName> <hex unicode>
 #
 # Basic Latin
@@ -1315,6 +1315,7 @@ armn:exclam 055C
 armn:comma 055D
 armn:question 055E
 armn:abbreviationmark 055F
+armn:turnedayb 0560
 armn:ayb 0561
 armn:ben 0562
 armn:gim 0563
@@ -1354,6 +1355,7 @@ armn:keh 0584
 armn:oh 0585
 armn:feh 0586
 armn:ech_yiwn 0587
+armn:yiwithstroke 0588
 armn:period 0589
 armn:hyphen 058A
 armn:rightfacingeternitysign 058D
@@ -1442,6 +1444,7 @@ qof:hb 05E7
 resh:hb 05E8
 shin:hb 05E9
 tav:hb 05EA
+yodtriangle:hb 05EF
 vav_vav:hb 05F0
 vav_yod:hb 05F1
 yod_yod:hb 05F2
@@ -1977,6 +1980,7 @@ beng:isshar 09FA
 beng:gandamark 09FB
 beng:vedicanusvara 09FC
 beng:abbreviationsign 09FD
+beng:sandhimark 09FE
 # Gurmukhi
 guru:adakbindisign 0A01
 guru:bindisign 0A02
@@ -2057,6 +2061,7 @@ guru:iri 0A72
 guru:ura 0A73
 guru:ekonkar 0A74
 guru:yakashsign 0A75
+guru:abbreviationsign 0A76
 # Gujarati
 gujr:binducandra 0A81
 gujr:anusvara 0A82
@@ -2318,6 +2323,7 @@ telu:combiningbinduabovesigncandra 0C00
 telu:bindusigncandra 0C01
 telu:anusvarasign 0C02
 telu:visargasign 0C03
+telu:combininganusvaraabovesign 0C04
 telu:a 0C05
 telu:aa 0C06
 telu:i 0C07
@@ -2415,6 +2421,7 @@ knda:signspacingcandrabindu 0C80
 knda:signcandrabindu 0C81
 knda:anusvara 0C82
 knda:visarga 0C83
+knda:signsiddham 0C84
 knda:a 0C85
 knda:aa 0C86
 knda:i 0C87
@@ -3740,6 +3747,7 @@ mong:kamanchu 1874
 mong:ramanchu 1875
 mong:famanchu 1876
 mong:zhamanchu 1877
+mong:chawithtwodots 1878
 mong:anusvaraonealigali 1880
 mong:visargaonealigali 1881
 mong:damarualigali 1882
@@ -6868,6 +6876,11 @@ kavykawithkavykaaboveinvertedlow 2E46
 kavykalow 2E47
 kavykawithdotlow 2E48
 stackedcommadbl 2E49
+solidusdotted 2E4A
+tripledagger 2E4B
+medievalcomma 2E4C
+paragraphus 2E4D
+punctuselevatus 2E4E
 # CJK Symbols and Punctuation
 ideographicspace 3000
 cjk:ideographiccomma 3001
@@ -7167,6 +7180,7 @@ bopo:ng 312B
 bopo:gn 312C
 bopo:ih 312D
 bopo:owithdotabove 312E
+bopo:nn 312F
 # Hangul Compatibility Jamo
 ko:kiyeok 3131
 ko:ssangkiyeok 3132
@@ -7918,6 +7932,7 @@ Ereversedopen A7AB
 Scriptg A7AC
 Lbelt A7AD
 Ismall A7AE
+Qsmall A7AF
 Kturned A7B0
 Tturned A7B1
 Jcrossed-tail A7B2
@@ -7926,6 +7941,8 @@ lt:Beta A7B4
 lt:beta A7B5
 lt:Omega A7B6
 lt:omega A7B7
+Ustroke A7B8
+ustroke A7B9
 iepigraphicsideways A7F7
 Hstrokemod A7F8
 ligatureoemod A7F9
@@ -9293,6 +9310,7 @@ Citaliccircle 1F12B
 Ritaliccircle 1F12C
 CDcircle 1F12D
 WZcircle 1F12E
+copyleftsymbol 1F12F
 Asquare 1F130
 Bsquare 1F131
 Csquare 1F132
@@ -10398,3 +10416,4 @@ motorScooter 1F6F5
 canoe 1F6F6
 sled 1F6F7
 flyingSaucer 1F6F8
+skateboard 1F6F9
