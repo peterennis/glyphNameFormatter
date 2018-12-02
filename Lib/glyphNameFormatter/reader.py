@@ -111,7 +111,6 @@ def n2N(name):
 	# name to uppercase
 	uni = n2u(name)
 	if uni:
-		#print('uni', uni, len(chr(uni).upper()))
 		uprUni = _upr(uni)
 		if uprUni:
 			return u2n(uprUni)
@@ -119,24 +118,41 @@ def n2N(name):
 
 def N2n(name):
 	# name to lowercase
-	pass
+	uni = n2u(name)
+	if uni:
+		lwrUni = _lwr(uni)
+		if lwrUni:
+			return u2n(lwrUni)
+	return name
 
-def u2U(value):
+def u2U(uni):
 	# unicode to uppercase unicode
-	pass
+	return _upr(uni)
 
-def U2u(value):
+def U2u(uni):
 	# unicode to lowercase unicode
-	pass
+	return _lwr(uni)
 
 if __name__ == "__main__":
 	
 	allNames = list(name2uni.keys())
 	allNames.sort()
+	print("test lower -> upper -> lower")
 	for n in allNames:
-		uu = n2N(n)
-		if uu != n and uu is not None:
-			print("\t", n, uu)
+		upr = n2N(n)
+		if upr != n and upr is not None:
+			lwr = N2n(upr)
+			if n != lwr:
+				print("\t\tfailed", n, "->", upr, "->", lwr)
+			#else:
+			#	print("\tok", n, "->", upr, "->", lwr)
+	assert N2n("non-existing-glyphname") == "non-existing-glyphname"
+	assert n2N("non-existing-glyphname") == "non-existing-glyphname"
+	print(n2N("germandbls"))
+	assert N2n("A") == 'a'
+	assert n2N("a") == 'A'
+	assert U2u(65) == 97	# A -> a
+	assert u2U(97) == 65	# a -> A
 
 	if False:
 		allNames = list(name2uni.keys())
