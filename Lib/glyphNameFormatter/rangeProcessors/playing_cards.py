@@ -2,7 +2,7 @@
 
 def process(self):
     # processor for rangeName
-    self.setExperimental()
+    self.setDraft()
 
     self.edit("PLAYING CARD")
     self.edit("-")

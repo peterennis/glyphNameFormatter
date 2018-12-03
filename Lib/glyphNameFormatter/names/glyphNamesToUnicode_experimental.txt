@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.28 - git commit: 413
+# GlyphNameFormatter version 0.28 - git commit: 417
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/3bf00dc
-# Generated on 2018 12 02 22:30:32
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/8437cf2
+# Generated on 2018 12 03 11:00:20
 # <glyphName> <hex unicode>
 #
 # Basic Latin
@@ -6949,6 +6949,101 @@ dots345678 28FC
 dots1345678 28FD
 dots2345678 28FE
 dots12345678 28FF
+# Glagolitic
+Azu 2C00
+Buky 2C01
+Vede 2C02
+Glagoli 2C03
+Dobro 2C04
+Yestu 2C05
+Zhivete 2C06
+Dzelo 2C07
+Zemlja 2C08
+Izhe 2C09
+Initializhe 2C0A
+glag:I 2C0B
+Djervi 2C0C
+Kako 2C0D
+Ljudije 2C0E
+Myslite 2C0F
+Nashi 2C10
+Onu 2C11
+Pokoji 2C12
+Ritsi 2C13
+Slovo 2C14
+Tvrido 2C15
+Uku 2C16
+Fritu 2C17
+Heru 2C18
+Otu 2C19
+glag:Pe 2C1A
+Shta 2C1B
+Tsi 2C1C
+Chrivi 2C1D
+glag:Sha 2C1E
+Yeru 2C1F
+Yeri 2C20
+Yati 2C21
+Spideryha 2C22
+glag:Yu 2C23
+Smallyus 2C24
+Smallyuswithtail 2C25
+Yo 2C26
+Iotatedsmallyus 2C27
+Bigyus 2C28
+Iotatedbigyus 2C29
+glag:Fita 2C2A
+glag:Izhitsa 2C2B
+Shtapic 2C2C
+Trokutastia 2C2D
+Latinatemyslite 2C2E
+azu 2C30
+buky 2C31
+vede 2C32
+glagoli 2C33
+dobro 2C34
+yestu 2C35
+zhivete 2C36
+dzelo 2C37
+zemlja 2C38
+izhe 2C39
+initializhe 2C3A
+glag:i 2C3B
+djervi 2C3C
+kako 2C3D
+ljudije 2C3E
+myslite 2C3F
+nashi 2C40
+onu 2C41
+pokoji 2C42
+ritsi 2C43
+slovo 2C44
+tvrido 2C45
+uku 2C46
+fritu 2C47
+heru 2C48
+otu 2C49
+glag:pe 2C4A
+shta 2C4B
+glag:tsi 2C4C
+chrivi 2C4D
+glag:sha 2C4E
+yeru 2C4F
+yeri 2C50
+yati 2C51
+spideryha 2C52
+glag:yu 2C53
+smallyus 2C54
+smallyuswithtail 2C55
+glag:yo 2C56
+iotatedsmallyus 2C57
+bigyus 2C58
+iotatedbigyus 2C59
+glag:fita 2C5A
+glag:izhitsa 2C5B
+shtapic 2C5C
+trokutastia 2C5D
+latinatemyslite 2C5E
 # Latin Extended-C
 Ldblbar 2C60
 ldblbar 2C61
