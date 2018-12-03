@@ -22,3 +22,4 @@
 *.sublime-workspace
 Lib/Glyph_Name_Formatter.egg-info
 ArabicShaping.txt
+CaseFolding.txt

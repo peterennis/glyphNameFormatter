@@ -197,6 +197,9 @@
    970 : deva:abbreviation                                 dvAbbreviation           deva:abbreviation                       Devanagari                              DEVANAGARI ABBREVIATION SIGN
    AF0 : gujr:abbreviation                                 -                        gujr:abbreviation                       Gujarati                                GUJARATI ABBREVIATION SIGN
 
+   9FD : beng:abbreviationsign                             -                        beng:abbreviationsign                   Bengali                                 BENGALI ABBREVIATION SIGN
+   A76 : guru:abbreviationsign                             -                        guru:abbreviationsign                   Gurmukhi                                GURMUKHI ABBREVIATION SIGN
+
    103 : abreve                                            abreve                   abreve                                  Latin Extended-A                        LATIN SMALL LETTER A WITH BREVE
    4D1 : abrevecyr                                         abrevecyr                abrevecyr                               Cyrillic                                CYRILLIC SMALL LETTER A WITH BREVE
 
@@ -504,6 +507,9 @@
   FE13 : vert:colon                                        colonvert                vert:colon                              Vertical Forms                          PRESENTATION FORM FOR VERTICAL COLON
   FE55 : smll:colon                                        colonsmall               smll:colon                              Small Form Variants                     SMALL COLON         
   FF1A : fwd:colon                                         colonfullwidth           fwd:colon                               Halfwidth and Fullwidth Forms           FULLWIDTH COLON     
+
+   C04 : telu:combininganusvaraabovesign                   -                        telu:combininganusvaraabovesign         Telugu                                  TELUGU SIGN COMBINING ANUSVARA ABOVE
+   D00 : mlym:combininganusvaraabovesign                   -                        mlym:combininganusvaraabovesign         Malayalam                               MALAYALAM SIGN COMBINING ANUSVARA ABOVE
 
     2C : comma                                             comma                    comma                                   Basic Latin                             COMMA               
    55D : armn:comma                                        commaarmenian            armn:comma                              Armenian                                ARMENIAN COMMA      
@@ -2479,7 +2485,7 @@
   12D9 : ethi:zu                                           -                        ethi:zu                                 Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hira:zu                                           zuhiragana               hira:zu                                 Hiragana                                HIRAGANA LETTER ZU  
   30BA : kata:zu                                           zukatakana               kata:zu                                 Katakana                                KATAKANA LETTER ZU  
-# 445 names with conflicts, affecting 2034 unicodes
+# 447 names with conflicts, affecting 2038 unicodes
 
 
 Conflicts by rangename
@@ -2650,6 +2656,7 @@ Bengali
    985 : beng:a                                            beA                      beng:a                                  Bengali                                 BENGALI LETTER A    
    986 : beng:aa                                           beAa                     beng:aa                                 Bengali                                 BENGALI LETTER AA   
    9BE : beng:aasign                                       beAasign                 beng:aasign                             Bengali                                 BENGALI VOWEL SIGN AA
+   9FD : beng:abbreviationsign                             -                        beng:abbreviationsign                   Bengali                                 BENGALI ABBREVIATION SIGN
    990 : beng:ai                                           beAi                     beng:ai                                 Bengali                                 BENGALI LETTER AI   
    9C8 : beng:aisign                                       beAisign                 beng:aisign                             Bengali                                 BENGALI VOWEL SIGN AI
    982 : beng:anusvara                                     beAnusvara               beng:anusvara                           Bengali                                 BENGALI SIGN ANUSVARA
@@ -3337,6 +3344,7 @@ Gurmukhi
    A05 : guru:a                                            guA                      guru:a                                  Gurmukhi                                GURMUKHI LETTER A   
    A06 : guru:aa                                           guAa                     guru:aa                                 Gurmukhi                                GURMUKHI LETTER AA  
    A3E : guru:aasign                                       guAasign                 guru:aasign                             Gurmukhi                                GURMUKHI VOWEL SIGN AA
+   A76 : guru:abbreviationsign                             -                        guru:abbreviationsign                   Gurmukhi                                GURMUKHI ABBREVIATION SIGN
    A10 : guru:ai                                           guAi                     guru:ai                                 Gurmukhi                                GURMUKHI LETTER AI  
    A48 : guru:aisign                                       guAisign                 guru:aisign                             Gurmukhi                                GURMUKHI VOWEL SIGN AI
    A14 : guru:au                                           guAu                     guru:au                                 Gurmukhi                                GURMUKHI LETTER AU  
@@ -4021,6 +4029,7 @@ Malayalam
    D2D : mlym:bha                                          mlBha                    mlym:bha                                Malayalam                               MALAYALAM LETTER BHA
    D1A : mlym:ca                                           mlCa                     mlym:ca                                 Malayalam                               MALAYALAM LETTER CA 
    D1B : mlym:cha                                          mlCha                    mlym:cha                                Malayalam                               MALAYALAM LETTER CHA
+   D00 : mlym:combininganusvaraabovesign                   -                        mlym:combininganusvaraabovesign         Malayalam                               MALAYALAM SIGN COMBINING ANUSVARA ABOVE
    D26 : mlym:da                                           mlDa                     mlym:da                                 Malayalam                               MALAYALAM LETTER DA 
    D21 : mlym:dda                                          mlDda                    mlym:dda                                Malayalam                               MALAYALAM LETTER DDA
    D22 : mlym:ddha                                         mlDdha                   mlym:ddha                               Malayalam                               MALAYALAM LETTER DDHA
@@ -4496,6 +4505,7 @@ Telugu
    C2D : telu:bha                                          teBha                    telu:bha                                Telugu                                  TELUGU LETTER BHA   
    C1A : telu:ca                                           teCa                     telu:ca                                 Telugu                                  TELUGU LETTER CA    
    C1B : telu:cha                                          teCha                    telu:cha                                Telugu                                  TELUGU LETTER CHA   
+   C04 : telu:combininganusvaraabovesign                   -                        telu:combininganusvaraabovesign         Telugu                                  TELUGU SIGN COMBINING ANUSVARA ABOVE
    C26 : telu:da                                           teDa                     telu:da                                 Telugu                                  TELUGU LETTER DA    
    C21 : telu:dda                                          teDda                    telu:dda                                Telugu                                  TELUGU LETTER DDA   
    C22 : telu:ddha                                         teDdha                   telu:ddha                               Telugu                                  TELUGU LETTER DDHA  
