@@ -3,7 +3,7 @@ from __future__ import print_function, absolute_import
 
 import glyphNameFormatter
 from glyphNameFormatter.unicodeRangeNames import getRangeByName, getAllRangeNames, getSupportedRangeNames
-
+from glyphNameFormatter.data import upperToLower, lowerToUpper
 
 import os
 
@@ -95,23 +95,11 @@ def u2r(value):
 			return v
 	return None
 
-def _upr(uni):
-	v = chr(uni).upper()
-	if len(v) == 1:
-		return ord(v)
-	return v
-
-def _lwr(uni):
-	v = chr(uni).lower()
-	if len(v) == 1:
-		return ord(v)
-	return v
-
 def n2N(name):
 	# name to uppercase
 	uni = n2u(name)
 	if uni:
-		uprUni = _upr(uni)
+		uprUni = lowerToUpper.get(uni)
 		if uprUni:
 			return u2n(uprUni)
 	return name
@@ -120,18 +108,24 @@ def N2n(name):
 	# name to lowercase
 	uni = n2u(name)
 	if uni:
-		lwrUni = _lwr(uni)
+		lwrUni = upperToLower.get(uni)
 		if lwrUni:
 			return u2n(lwrUni)
 	return name
 
 def u2U(uni):
 	# unicode to uppercase unicode
-	return _upr(uni)
+	uprUni = lowerToUpper.get(uni)
+	if uprUni is not None:
+		return uprUni
+	return uni
 
 def U2u(uni):
 	# unicode to lowercase unicode
-	return _lwr(uni)
+	lwrUni = upperToLower.get(uni)
+	if lwrUni is not None:
+		return lwrUni
+	return lwr
 
 if __name__ == "__main__":
 	
@@ -144,8 +138,8 @@ if __name__ == "__main__":
 			lwr = N2n(upr)
 			if n != lwr:
 				print("\t\tfailed", n, "->", upr, "->", lwr)
-			#else:
-			#	print("\tok", n, "->", upr, "->", lwr)
+			else:
+				print("\tok", n, "->", upr, "->", lwr)
 	assert N2n("non-existing-glyphname") == "non-existing-glyphname"
 	assert n2N("non-existing-glyphname") == "non-existing-glyphname"
 	print(n2N("germandbls"))
