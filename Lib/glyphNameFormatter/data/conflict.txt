@@ -41,6 +41,9 @@
     46 : F                                                 F                        F                                       Basic Latin                             LATIN CAPITAL LETTER F
   FF26 : fwd:F                                             Ffullwidth               fwd:F                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER F
 
+   472 : Fitacyr                                           Fita                     Fitacyr                                 Cyrillic                                CYRILLIC CAPITAL LETTER FITA
+  2C2A : glag:Fita                                         -                        glag:Fita                               Glagolitic                              GLAGOLITIC CAPITAL LETTER FITA
+
     47 : G                                                 G                        G                                       Basic Latin                             LATIN CAPITAL LETTER G
   FF27 : fwd:G                                             Gfullwidth               fwd:G                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER G
 
@@ -49,6 +52,7 @@
 
     49 : I                                                 I                        I                                       Basic Latin                             LATIN CAPITAL LETTER I
    418 : Icyr                                              Icyr                     Icyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER I
+  2C0B : glag:I                                            -                        glag:I                                  Glagolitic                              GLAGOLITIC CAPITAL LETTER I
   FF29 : fwd:I                                             Ifullwidth               fwd:I                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER I
 
     CF : Idieresis                                         Idieresis                Idieresis                               Latin-1 Supplement                      LATIN CAPITAL LETTER I WITH DIAERESIS
@@ -62,6 +66,9 @@
 
    26A : ipa:Ismall                                        Ismall                   ipa:Ismall                              IPA Extensions                          LATIN LETTER SMALL CAPITAL I
   A7AE : Ismall                                            -                        Ismall                                  Latin Extended-D                        LATIN CAPITAL LETTER SMALL CAPITAL I
+
+   474 : Izhitsacyr                                        Izhitsa                  Izhitsacyr                              Cyrillic                                CYRILLIC CAPITAL LETTER IZHITSA
+  2C2B : glag:Izhitsa                                      -                        glag:Izhitsa                            Glagolitic                              GLAGOLITIC CAPITAL LETTER IZHITSA
 
     4A : J                                                 J                        J                                       Basic Latin                             LATIN CAPITAL LETTER J
   FF2A : fwd:J                                             Jfullwidth               fwd:J                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER J
@@ -98,6 +105,9 @@
     50 : P                                                 P                        P                                       Basic Latin                             LATIN CAPITAL LETTER P
   FF30 : fwd:P                                             Pfullwidth               fwd:P                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER P
 
+   41F : Pecyr                                             Pe                       Pecyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER PE
+  2C1A : glag:Pe                                           -                        glag:Pe                                 Glagolitic                              GLAGOLITIC CAPITAL LETTER PE
+
    3A8 : Psi                                               Psi                      Psi                                     Greek and Coptic                        GREEK CAPITAL LETTER PSI
    470 : Psicyr                                            Psicyrillic              Psicyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER PSI
 
@@ -115,6 +125,7 @@
 
    428 : Shacyr                                            Sha                      Shacyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER SHA
    547 : armn:Sha                                          Shaarmenian              armn:Sha                                Armenian                                ARMENIAN CAPITAL LETTER SHA
+  2C1E : glag:Sha                                          -                        glag:Sha                                Glagolitic                              GLAGOLITIC CAPITAL LETTER SHA
 
     54 : T                                                 T                        T                                       Basic Latin                             LATIN CAPITAL LETTER T
   FF34 : fwd:T                                             Tfullwidth               fwd:T                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER T
@@ -140,6 +151,9 @@
 
     59 : Y                                                 Y                        Y                                       Basic Latin                             LATIN CAPITAL LETTER Y
   FF39 : fwd:Y                                             Yfullwidth               fwd:Y                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER Y
+
+   42E : Yucyr                                             Yu                       Yucyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER YU
+  2C23 : glag:Yu                                           -                        glag:Yu                                 Glagolitic                              GLAGOLITIC CAPITAL LETTER YU
 
     5A : Z                                                 Z                        Z                                       Basic Latin                             LATIN CAPITAL LETTER Z
   FF3A : fwd:Z                                             Zfullwidth               fwd:Z                                   Halfwidth and Fullwidth Forms           FULLWIDTH LATIN CAPITAL LETTER Z
@@ -776,6 +790,9 @@
   134A : ethi:fi                                           -                        ethi:fi                                 Ethiopic                                ETHIOPIC SYLLABLE FI
   FB01 : fi                                                fi                       fi                                      Alphabetic Presentation Forms           LATIN SMALL LIGATURE FI
 
+   473 : fitacyr                                           fita                     fitacyr                                 Cyrillic                                CYRILLIC SMALL LETTER FITA
+  2C5A : glag:fita                                         -                        glag:fita                               Glagolitic                              GLAGOLITIC SMALL LETTER FITA
+
     35 : five                                              five                     five                                    Basic Latin                             DIGIT FIVE          
    665 : ar:five                                           arFive                   ar:five                                 Arabic                                  ARABIC-INDIC DIGIT FIVE
    96B : deva:five                                         dvFive                   deva:five                               Devanagari                              DEVANAGARI DIGIT FIVE
@@ -977,6 +994,7 @@
    D89 : sinh:i                                            siI                      sinh:i                                  Sinhala                                 SINHALA LETTER IYANNA
   13A2 : cher:i                                            -                        cher:i                                  Cherokee                                CHEROKEE LETTER I   
   1822 : mong:i                                            -                        mong:i                                  Mongolian                               MONGOLIAN LETTER I  
+  2C3B : glag:i                                            -                        glag:i                                  Glagolitic                              GLAGOLITIC SMALL LETTER I
   3044 : hira:i                                            ihiragana                hira:i                                  Hiragana                                HIRAGANA LETTER I   
   30A4 : kata:i                                            ikatakana                kata:i                                  Katakana                                KATAKANA LETTER I   
   3127 : bopo:i                                            ibopomofo                bopo:i                                  Bopomofo                                BOPOMOFO LETTER I   
@@ -1051,6 +1069,9 @@
 
    9FA : beng:isshar                                       beIsshar                 beng:isshar                             Bengali                                 BENGALI ISSHAR      
    B70 : orya:isshar                                       odIsshar                 orya:isshar                             Oriya                                   ORIYA ISSHAR        
+
+   475 : izhitsacyr                                        izhitsa                  izhitsacyr                              Cyrillic                                CYRILLIC SMALL LETTER IZHITSA
+  2C5B : glag:izhitsa                                      -                        glag:izhitsa                            Glagolitic                              GLAGOLITIC SMALL LETTER IZHITSA
 
     6A : j                                                 j                        j                                       Basic Latin                             LATIN SMALL LETTER J
   3110 : bopo:j                                            jbopomofo                bopo:j                                  Bopomofo                                BOPOMOFO LETTER J   
@@ -1607,6 +1628,7 @@
    43F : pecyr                                             pe                       pecyr                                   Cyrillic                                CYRILLIC SMALL LETTER PE
    5E4 : pe:hb                                             hePe                     pe:hb                                   Hebrew                                  HEBREW LETTER PE    
   1355 : ethi:pe                                           -                        ethi:pe                                 Ethiopic                                ETHIOPIC SYLLABLE PE
+  2C4A : glag:pe                                           -                        glag:pe                                 Glagolitic                              GLAGOLITIC SMALL LETTER PE
   307A : hira:pe                                           pehiragana               hira:pe                                 Hiragana                                HIRAGANA LETTER PE  
   30DA : kata:pe                                           pekatakana               kata:pe                                 Katakana                                KATAKANA LETTER PE  
 
@@ -1904,6 +1926,7 @@
    F64 : tibt:sha                                          -                        tibt:sha                                Tibetan                                 TIBETAN LETTER SHA  
   1238 : ethi:sha                                          -                        ethi:sha                                Ethiopic                                ETHIOPIC SYLLABLE SHA
   1831 : mong:sha                                          -                        mong:sha                                Mongolian                               MONGOLIAN LETTER SHA
+  2C4E : glag:sha                                          -                        glag:sha                                Glagolitic                              GLAGOLITIC SMALL LETTER SHA
 
    651 : ar:shadda                                         arShadda                 ar:shadda                               Arabic                                  ARABIC SHADDA       
    AFB : gujr:shadda                                       -                        gujr:shadda                             Gujarati                                GUJARATI SIGN SHADDA
@@ -2093,6 +2116,7 @@
 
   133A : ethi:tsi                                          -                        ethi:tsi                                Ethiopic                                ETHIOPIC SYLLABLE TSI
   13E5 : cher:tsi                                          -                        cher:tsi                                Cherokee                                CHEROKEE LETTER TSI 
+  2C4C : glag:tsi                                          -                        glag:tsi                                Glagolitic                              GLAGOLITIC SMALL LETTER TSI
 
   133E : ethi:tso                                          -                        ethi:tso                                Ethiopic                                ETHIOPIC SYLLABLE TSO
   13E6 : cher:tso                                          -                        cher:tso                                Cherokee                                CHEROKEE LETTER TSO 
@@ -2393,6 +2417,7 @@
 
   12EE : ethi:yo                                           -                        ethi:yo                                 Ethiopic                                ETHIOPIC SYLLABLE YO
   13F2 : cher:yo                                           -                        cher:yo                                 Cherokee                                CHEROKEE LETTER YO  
+  2C56 : glag:yo                                           -                        glag:yo                                 Glagolitic                              GLAGOLITIC SMALL LETTER YO
   3088 : hira:yo                                           yohiragana               hira:yo                                 Hiragana                                HIRAGANA LETTER YO  
   30E8 : kata:yo                                           yokatakana               kata:yo                                 Katakana                                KATAKANA LETTER YO  
   315B : ko:yo                                             yokorean                 ko:yo                                   Hangul Compatibility Jamo               HANGUL LETTER YO    
@@ -2409,6 +2434,7 @@
    6C8 : ar:yu                                             arYu                     ar:yu                                   Arabic                                  ARABIC LETTER YU    
   12E9 : ethi:yu                                           -                        ethi:yu                                 Ethiopic                                ETHIOPIC SYLLABLE YU
   13F3 : cher:yu                                           -                        cher:yu                                 Cherokee                                CHEROKEE LETTER YU  
+  2C53 : glag:yu                                           -                        glag:yu                                 Glagolitic                              GLAGOLITIC SMALL LETTER YU
   3086 : hira:yu                                           yuhiragana               hira:yu                                 Hiragana                                HIRAGANA LETTER YU  
   30E6 : kata:yu                                           yukatakana               kata:yu                                 Katakana                                KATAKANA LETTER YU  
   3160 : ko:yu                                             yukorean                 ko:yu                                   Hangul Compatibility Jamo               HANGUL LETTER YU    
@@ -2485,7 +2511,7 @@
   12D9 : ethi:zu                                           -                        ethi:zu                                 Ethiopic                                ETHIOPIC SYLLABLE ZU
   305A : hira:zu                                           zuhiragana               hira:zu                                 Hiragana                                HIRAGANA LETTER ZU  
   30BA : kata:zu                                           zukatakana               kata:zu                                 Katakana                                KATAKANA LETTER ZU  
-# 447 names with conflicts, affecting 2038 unicodes
+# 453 names with conflicts, affecting 2058 unicodes
 
 
 Conflicts by rangename
@@ -2926,21 +2952,25 @@ Cyrillic
    4D0 : Abrevecyr                                         Abrevecyr                Abrevecyr                               Cyrillic                                CYRILLIC CAPITAL LETTER A WITH BREVE
    4D2 : Adieresiscyr                                      Adieresiscyr             Adieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER A WITH DIAERESIS
    42D : Ereversedcyr                                      Ecyr                     Ereversedcyr                            Cyrillic                                CYRILLIC CAPITAL LETTER E
+   472 : Fitacyr                                           Fita                     Fitacyr                                 Cyrillic                                CYRILLIC CAPITAL LETTER FITA
    418 : Icyr                                              Icyr                     Icyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER I
    4E4 : Idieresiscyr                                      Idieresiscyr             Idieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER I WITH DIAERESIS
    40D : Igravecyr                                         Igravecyr                Igravecyr                               Cyrillic                                CYRILLIC CAPITAL LETTER I WITH GRAVE
    4E2 : Imacroncyr                                        Imacroncyr               Imacroncyr                              Cyrillic                                CYRILLIC CAPITAL LETTER I WITH MACRON
+   474 : Izhitsacyr                                        Izhitsa                  Izhitsacyr                              Cyrillic                                CYRILLIC CAPITAL LETTER IZHITSA
    480 : Koppacyr                                          Koppacyrillic            Koppacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER KOPPA
    41E : Ocyr                                              Ocyr                     Ocyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER O
    4E8 : Obarcyr                                           Obarcyr                  Obarcyr                                 Cyrillic                                CYRILLIC CAPITAL LETTER BARRED O
    4E6 : Odieresiscyr                                      Odieresiscyr             Odieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER O WITH DIAERESIS
    460 : Omegacyr                                          Omegacyrillic            Omegacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER OMEGA
+   41F : Pecyr                                             Pe                       Pecyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER PE
    470 : Psicyr                                            Psicyrillic              Psicyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER PSI
    4D8 : Schwacyr                                          Schwacyr                 Schwacyr                                Cyrillic                                CYRILLIC CAPITAL LETTER SCHWA
    428 : Shacyr                                            Sha                      Shacyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER SHA
    423 : Ucyr                                              Ucyr                     Ucyr                                    Cyrillic                                CYRILLIC CAPITAL LETTER U
    4F0 : Udieresiscyr                                      Udieresiscyr             Udieresiscyr                            Cyrillic                                CYRILLIC CAPITAL LETTER U WITH DIAERESIS
    4EE : Umacroncyr                                        Umacroncyr               Umacroncyr                              Cyrillic                                CYRILLIC CAPITAL LETTER U WITH MACRON
+   42E : Yucyr                                             Yu                       Yucyr                                   Cyrillic                                CYRILLIC CAPITAL LETTER YU
    416 : Zhecyr                                            Zhe                      Zhecyr                                  Cyrillic                                CYRILLIC CAPITAL LETTER ZHE
    430 : acyr                                              acyr                     acyr                                    Cyrillic                                CYRILLIC SMALL LETTER A
    4D1 : abrevecyr                                         abrevecyr                abrevecyr                               Cyrillic                                CYRILLIC SMALL LETTER A WITH BREVE
@@ -2951,12 +2981,14 @@ Cyrillic
    43D : encyr                                             en                       encyr                                   Cyrillic                                CYRILLIC SMALL LETTER EN
    440 : ercyr                                             er                       ercyr                                   Cyrillic                                CYRILLIC SMALL LETTER ER
    44D : ereversedcyr                                      ecyr                     ereversedcyr                            Cyrillic                                CYRILLIC SMALL LETTER E
+   473 : fitacyr                                           fita                     fitacyr                                 Cyrillic                                CYRILLIC SMALL LETTER FITA
    433 : gecyr                                             ghe                      gecyr                                   Cyrillic                                CYRILLIC SMALL LETTER GHE
    445 : hacyr                                             ha                       hacyr                                   Cyrillic                                CYRILLIC SMALL LETTER HA
    438 : icyr                                              icyr                     icyr                                    Cyrillic                                CYRILLIC SMALL LETTER I
    4E5 : idieresiscyr                                      idieresiscyr             idieresiscyr                            Cyrillic                                CYRILLIC SMALL LETTER I WITH DIAERESIS
    45D : igravecyr                                         igravecyr                igravecyr                               Cyrillic                                CYRILLIC SMALL LETTER I WITH GRAVE
    4E3 : imacroncyr                                        imacroncyr               imacroncyr                              Cyrillic                                CYRILLIC SMALL LETTER I WITH MACRON
+   475 : izhitsacyr                                        izhitsa                  izhitsacyr                              Cyrillic                                CYRILLIC SMALL LETTER IZHITSA
    458 : jecyr                                             je                       jecyr                                   Cyrillic                                CYRILLIC SMALL LETTER JE
    43A : kacyr                                             ka                       kacyr                                   Cyrillic                                CYRILLIC SMALL LETTER KA
    481 : koppacyr                                          koppacyrillic            koppacyr                                Cyrillic                                CYRILLIC SMALL LETTER KOPPA
@@ -3222,6 +3254,22 @@ General Punctuation
 Geometric Shapes
   25C6 : gmtr:diamondblack                                 diamondblack             gmtr:diamondblack                       Geometric Shapes                        BLACK DIAMOND       
   25C7 : gmtr:diamondwhite                                 whitediamond             gmtr:diamondwhite                       Geometric Shapes                        WHITE DIAMOND       
+
+Glagolitic
+  2C2A : glag:Fita                                         -                        glag:Fita                               Glagolitic                              GLAGOLITIC CAPITAL LETTER FITA
+  2C0B : glag:I                                            -                        glag:I                                  Glagolitic                              GLAGOLITIC CAPITAL LETTER I
+  2C2B : glag:Izhitsa                                      -                        glag:Izhitsa                            Glagolitic                              GLAGOLITIC CAPITAL LETTER IZHITSA
+  2C1A : glag:Pe                                           -                        glag:Pe                                 Glagolitic                              GLAGOLITIC CAPITAL LETTER PE
+  2C1E : glag:Sha                                          -                        glag:Sha                                Glagolitic                              GLAGOLITIC CAPITAL LETTER SHA
+  2C23 : glag:Yu                                           -                        glag:Yu                                 Glagolitic                              GLAGOLITIC CAPITAL LETTER YU
+  2C5A : glag:fita                                         -                        glag:fita                               Glagolitic                              GLAGOLITIC SMALL LETTER FITA
+  2C3B : glag:i                                            -                        glag:i                                  Glagolitic                              GLAGOLITIC SMALL LETTER I
+  2C5B : glag:izhitsa                                      -                        glag:izhitsa                            Glagolitic                              GLAGOLITIC SMALL LETTER IZHITSA
+  2C4A : glag:pe                                           -                        glag:pe                                 Glagolitic                              GLAGOLITIC SMALL LETTER PE
+  2C4E : glag:sha                                          -                        glag:sha                                Glagolitic                              GLAGOLITIC SMALL LETTER SHA
+  2C4C : glag:tsi                                          -                        glag:tsi                                Glagolitic                              GLAGOLITIC SMALL LETTER TSI
+  2C56 : glag:yo                                           -                        glag:yo                                 Glagolitic                              GLAGOLITIC SMALL LETTER YO
+  2C53 : glag:yu                                           -                        glag:yu                                 Glagolitic                              GLAGOLITIC SMALL LETTER YU
 
 Greek Extended
   1FFD : gr:acute                                          oxia                     gr:acute                                Greek Extended                          GREEK OXIA          

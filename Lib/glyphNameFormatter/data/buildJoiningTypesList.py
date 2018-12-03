@@ -12,17 +12,17 @@ except ImportError:
 
 UNICODE_VERSION = "11.0.0"
 
-parser = ArgumentParser(description=__doc__,
-                        formatter_class=RawDescriptionHelpFormatter)
-group = parser.add_mutually_exclusive_group(required=True)
-group.add_argument("-u", "--unicode-version",
-                   help="Unicode version to use for download and processing")
-options = parser.parse_args()
+#parser = ArgumentParser(description=__doc__,
+#                        formatter_class=RawDescriptionHelpFormatter)
+#group = parser.add_mutually_exclusive_group(required=True)
+#group.add_argument("-u", "--unicode-version",
+#                   help="Unicode version to use for download and processing")
+#options = parser.parse_args()
 
-if options.unicode_version:
-    version = options.unicode_version
-else:
-    version = UNICODE_VERSION
+#if options.unicode_version:
+#    version = options.unicode_version
+#else:
+version = UNICODE_VERSION
 
 JOININGTYPES_FILE = "ArabicShaping.txt"
 ASURL = "http://www.unicode.org/Public/{version}/ucd/ArabicShaping.txt"
@@ -30,10 +30,10 @@ ASURL = "http://www.unicode.org/Public/{version}/ucd/ArabicShaping.txt"
 print(ASURL.format(version=version))
 
 print(">> Downloading {} to {}".format(os.path.basename(ASURL), JOININGTYPES_FILE))
-if options.unicode_version:
-    version = options.unicode_version
-else:
-    version = UNICODE_VERSION
+#if options.unicode_version:
+#    version = options.unicode_version
+#else:
+version = UNICODE_VERSION
 url = urlopen(ASURL.format(version=version))
 with open(JOININGTYPES_FILE, "wb") as fp:
     blocksize = 8192

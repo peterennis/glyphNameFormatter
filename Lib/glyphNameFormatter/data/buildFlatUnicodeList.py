@@ -80,8 +80,13 @@ for i in tree.iter():
             lc = i.attrib.get("lc")
             if lc == "#":
                 lc = ''
+            mth = i.attrib.get('Math')
+            if mth != "N":
+                mth = "M"
+            else:
+                mth = ""
             # codepoint / tab / uppercase / tab / lowercase / tab / category / tab / name
-            flat.append("%s\t%s\t%s\t%s\t%s" % (i.attrib.get("cp"), uc, lc, i.attrib.get("gc"), n))
+            flat.append("%s\t%s\t%s\t%s\t%s\t%s" % (i.attrib.get("cp"), uc, lc, i.attrib.get("gc"), mth, n))
 
 
 f = open(FLAT_FILE, "w")

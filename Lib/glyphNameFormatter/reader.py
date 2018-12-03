@@ -128,21 +128,30 @@ def U2u(uni):
 	return lwr
 
 if __name__ == "__main__":
-	
+	print("upperToLower map:", len(upperToLower))
+	print("lowerToUpper map:", len(lowerToUpper))
 	allNames = list(name2uni.keys())
 	allNames.sort()
-	print("test lower -> upper -> lower")
+	print("\ntest lower -> upper -> lower")
 	for n in allNames:
 		upr = n2N(n)
 		if upr != n and upr is not None:
 			lwr = N2n(upr)
 			if n != lwr:
-				print("\t\tfailed", n, "->", upr, "->", lwr)
-			else:
-				print("\tok", n, "->", upr, "->", lwr)
+				print("\t\tn2N failed", n, "->", upr, "->", lwr)
+			#else:
+			#	print("\ta ok", n, "->", upr, "->", lwr)
+
+		lwr = N2n(n)
+		if lwr != n and lwr is not None:
+			upr = n2N(lwr)
+			if n != upr:
+				print("\t\tN2n failed", n, "->", lwr, "->", upr)
+			#else:
+			#	print("\tb ok", n, "->", lwr, "->", upr)
 	assert N2n("non-existing-glyphname") == "non-existing-glyphname"
 	assert n2N("non-existing-glyphname") == "non-existing-glyphname"
-	print(n2N("germandbls"))
+	assert n2N("germandbls") == "germandbls"
 	assert N2n("A") == 'a'
 	assert n2N("a") == 'A'
 	assert U2u(65) == 97	# A -> a
