@@ -14,7 +14,7 @@ from glyphNameFormatter.unicodeRangeNames import getRangeName, getRangeProcessor
 from glyphNameFormatter.tools import unicodeToChar
 
 
-__version__ = "0.29"
+__version__ = "0.3"
 
 
 def debug(uniNumber):
