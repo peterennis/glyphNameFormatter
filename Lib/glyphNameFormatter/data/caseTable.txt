@@ -1,5 +1,5 @@
 Case Folding Table
-# Generated on 2018 12 03 10:31:15
+# Generated on 2018 12 03 10:51:50
 # Source: # CaseFolding-11.0.0.txt
 # <unicode uppercase> <unicode lowercase>
 00041	00061	#Lu -> Ll, A -> a
@@ -660,6 +660,7 @@ Case Folding Table
 01E92	01E93	#Lu -> Ll, Zdotbelow -> zdotbelow
 01E94	01E95	#Lu -> Ll, Zlinebelow -> zlinebelow
 01E9B	01E61	#Ll -> Ll, longsdot -> sdot
+01E9E	000DF	#Lu -> Ll, Germandbls -> germandbls
 01EA0	01EA1	#Lu -> Ll, Adotbelow -> adotbelow
 01EA2	01EA3	#Lu -> Ll, Ahoi -> ahoi
 01EA4	01EA5	#Lu -> Ll, Acircumflexacute -> acircumflexacute
@@ -756,15 +757,41 @@ Case Folding Table
 01F6D	01F65	#Lu -> Ll, Omegaasperacute -> omegaasperacute
 01F6E	01F66	#Lu -> Ll, Omegalenistilde -> omegalenistilde
 01F6F	01F67	#Lu -> Ll, Omegaaspertilde -> omegaaspertilde
+01F88	01F80	#Lt -> Ll, Alphalenisiotasub -> alphalenisiotasub
+01F89	01F81	#Lt -> Ll, Alphaasperiotasub -> alphaasperiotasub
+01F8A	01F82	#Lt -> Ll, Alphalenisgraveiotasub -> alphalenisgraveiotasub
+01F8B	01F83	#Lt -> Ll, Alphaaspergraveiotasub -> alphaaspergraveiotasub
+01F8C	01F84	#Lt -> Ll, Alphalenisacuteiotasub -> alphalenisacuteiotasub
+01F8D	01F85	#Lt -> Ll, Alphaasperacuteiotasub -> alphaasperacuteiotasub
+01F8E	01F86	#Lt -> Ll, Alphalenistildeiotasub -> alphalenistildeiotasub
+01F8F	01F87	#Lt -> Ll, Alphaaspertildeiotasub -> alphaaspertildeiotasub
+01F98	01F90	#Lt -> Ll, Etalenisiotasub -> etalenisiotasub
+01F99	01F91	#Lt -> Ll, Etaasperiotasub -> etaasperiotasub
+01F9A	01F92	#Lt -> Ll, Etalenisgraveiotasub -> etalenisgraveiotasub
+01F9B	01F93	#Lt -> Ll, Etaaspergraveiotasub -> etaaspergraveiotasub
+01F9C	01F94	#Lt -> Ll, Etalenisacuteiotasub -> etalenisacuteiotasub
+01F9D	01F95	#Lt -> Ll, Etaasperacuteiotasub -> etaasperacuteiotasub
+01F9E	01F96	#Lt -> Ll, Etalenistildeiotasub -> etalenistildeiotasub
+01F9F	01F97	#Lt -> Ll, Etaaspertildeiotasub -> etaaspertildeiotasub
+01FA8	01FA0	#Lt -> Ll, Omegalenisiotasub -> omegalenisiotasub
+01FA9	01FA1	#Lt -> Ll, Omegaasperiotasub -> omegaasperiotasub
+01FAA	01FA2	#Lt -> Ll, Omegalenisgraveiotasub -> omegalenisgraveiotasub
+01FAB	01FA3	#Lt -> Ll, Omegaaspergraveiotasub -> omegaaspergraveiotasub
+01FAC	01FA4	#Lt -> Ll, Omegalenisacuteiotasub -> omegalenisacuteiotasub
+01FAD	01FA5	#Lt -> Ll, Omegaasperacuteiotasub -> omegaasperacuteiotasub
+01FAE	01FA6	#Lt -> Ll, Omegalenistildeiotasub -> omegalenistildeiotasub
+01FAF	01FA7	#Lt -> Ll, Omegaaspertildeiotasub -> omegaaspertildeiotasub
 01FB8	01FB0	#Lu -> Ll, Alphabreve -> alphabreve
 01FB9	01FB1	#Lu -> Ll, Alphawithmacron -> alphawithmacron
 01FBA	01F70	#Lu -> Ll, Alphagrave -> alphagrave
 01FBB	01F71	#Lu -> Ll, Alphaacute -> alphaacute
+01FBC	01FB3	#Lt -> Ll, Alphaiotasub -> alphaiotasub
 01FBE	003B9	#Ll -> Ll, iotaadscript -> iota
 01FC8	01F72	#Lu -> Ll, Epsilongrave -> epsilongrave
 01FC9	01F73	#Lu -> Ll, Epsilonacute -> epsilonacute
 01FCA	01F74	#Lu -> Ll, Etagrave -> etagrave
 01FCB	01F75	#Lu -> Ll, Etaacute -> etaacute
+01FCC	01FC3	#Lt -> Ll, Etaiotasub -> etaiotasub
 01FD8	01FD0	#Lu -> Ll, Iotabreve -> iotabreve
 01FD9	01FD1	#Lu -> Ll, Iotawithmacron -> iotawithmacron
 01FDA	01F76	#Lu -> Ll, Iotagrave -> iotagrave
@@ -778,6 +805,7 @@ Case Folding Table
 01FF9	01F79	#Lu -> Ll, Omicronacute -> omicronacute
 01FFA	01F7C	#Lu -> Ll, Omegagrave -> omegagrave
 01FFB	01F7D	#Lu -> Ll, Omegaacute -> omegaacute
+01FFC	01FF3	#Lt -> Ll, Omegaiotasub -> omegaiotasub
 02126	003C9	#Lu -> Ll, ohm -> omega
 0212A	0006B	#Lu -> Ll, kelvin -> k
 0212B	000E5	#Lu -> Ll, angstrom -> aring

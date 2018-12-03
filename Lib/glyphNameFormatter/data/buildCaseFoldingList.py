@@ -69,7 +69,7 @@ def readCaseFolding(path):
         if l[0] == "#": continue
         parts = l.split(";")
         parts = [p.strip() for p in parts]
-        if parts[1] not in ["C", 'T']:
+        if parts[1] not in ["C", 'T', 'S']:
             print("skipping", parts)
             continue
         parts[0] = u"0x"+parts[0]
