@@ -1,5 +1,5 @@
 Case Folding Table
-# Generated on 2018 12 03 10:51:50
+# Generated on 2018 12 03 12:18:49
 # Source: # CaseFolding-11.0.0.txt
 # <unicode uppercase> <unicode lowercase>
 00041	00061	#Lu -> Ll, A -> a
@@ -523,12 +523,12 @@ Case Folding Table
 010C5	02D25
 010C7	02D27
 010CD	02D2D
-013F8	013F0
-013F9	013F1
-013FA	013F2
-013FB	013F3
-013FC	013F4
-013FD	013F5
+013F8	013F0	#Ll -> Lu, cher:yesmall -> cher:ye
+013F9	013F1	#Ll -> Lu, cher:yismall -> cher:yi
+013FA	013F2	#Ll -> Lu, cher:yosmall -> cher:yo
+013FB	013F3	#Ll -> Lu, cher:yusmall -> cher:yu
+013FC	013F4	#Ll -> Lu, cher:yvsmall -> cher:yv
+013FD	013F5	#Ll -> Lu, cher:mvsmall -> cher:mv
 01C80	00432
 01C81	00434
 01C82	0043E
@@ -660,7 +660,6 @@ Case Folding Table
 01E92	01E93	#Lu -> Ll, Zdotbelow -> zdotbelow
 01E94	01E95	#Lu -> Ll, Zlinebelow -> zlinebelow
 01E9B	01E61	#Ll -> Ll, longsdot -> sdot
-01E9E	000DF	#Lu -> Ll, Germandbls -> germandbls
 01EA0	01EA1	#Lu -> Ll, Adotbelow -> adotbelow
 01EA2	01EA3	#Lu -> Ll, Ahoi -> ahoi
 01EA4	01EA5	#Lu -> Ll, Acircumflexacute -> acircumflexacute
@@ -853,53 +852,53 @@ Case Folding Table
 024CD	024E7	#So -> So, Xcircle -> xcircle
 024CE	024E8	#So -> So, Ycircle -> ycircle
 024CF	024E9	#So -> So, Zcircle -> zcircle
-02C00	02C30
-02C01	02C31
-02C02	02C32
-02C03	02C33
-02C04	02C34
-02C05	02C35
-02C06	02C36
-02C07	02C37
-02C08	02C38
-02C09	02C39
-02C0A	02C3A
-02C0B	02C3B
-02C0C	02C3C
-02C0D	02C3D
-02C0E	02C3E
-02C0F	02C3F
-02C10	02C40
-02C11	02C41
-02C12	02C42
-02C13	02C43
-02C14	02C44
-02C15	02C45
-02C16	02C46
-02C17	02C47
-02C18	02C48
-02C19	02C49
-02C1A	02C4A
-02C1B	02C4B
-02C1C	02C4C
-02C1D	02C4D
-02C1E	02C4E
-02C1F	02C4F
-02C20	02C50
-02C21	02C51
-02C22	02C52
-02C23	02C53
-02C24	02C54
-02C25	02C55
-02C26	02C56
-02C27	02C57
-02C28	02C58
-02C29	02C59
-02C2A	02C5A
-02C2B	02C5B
-02C2C	02C5C
-02C2D	02C5D
-02C2E	02C5E
+02C00	02C30	#Lu -> Ll, Azu -> azu
+02C01	02C31	#Lu -> Ll, Buky -> buky
+02C02	02C32	#Lu -> Ll, Vede -> vede
+02C03	02C33	#Lu -> Ll, Glagoli -> glagoli
+02C04	02C34	#Lu -> Ll, Dobro -> dobro
+02C05	02C35	#Lu -> Ll, Yestu -> yestu
+02C06	02C36	#Lu -> Ll, Zhivete -> zhivete
+02C07	02C37	#Lu -> Ll, Dzelo -> dzelo
+02C08	02C38	#Lu -> Ll, Zemlja -> zemlja
+02C09	02C39	#Lu -> Ll, Izhe -> izhe
+02C0A	02C3A	#Lu -> Ll, Initializhe -> initializhe
+02C0B	02C3B	#Lu -> Ll, glag:I -> glag:i
+02C0C	02C3C	#Lu -> Ll, Djervi -> djervi
+02C0D	02C3D	#Lu -> Ll, Kako -> kako
+02C0E	02C3E	#Lu -> Ll, Ljudije -> ljudije
+02C0F	02C3F	#Lu -> Ll, Myslite -> myslite
+02C10	02C40	#Lu -> Ll, Nashi -> nashi
+02C11	02C41	#Lu -> Ll, Onu -> onu
+02C12	02C42	#Lu -> Ll, Pokoji -> pokoji
+02C13	02C43	#Lu -> Ll, Ritsi -> ritsi
+02C14	02C44	#Lu -> Ll, Slovo -> slovo
+02C15	02C45	#Lu -> Ll, Tvrido -> tvrido
+02C16	02C46	#Lu -> Ll, Uku -> uku
+02C17	02C47	#Lu -> Ll, Fritu -> fritu
+02C18	02C48	#Lu -> Ll, Heru -> heru
+02C19	02C49	#Lu -> Ll, Otu -> otu
+02C1A	02C4A	#Lu -> Ll, glag:Pe -> glag:pe
+02C1B	02C4B	#Lu -> Ll, Shta -> shta
+02C1C	02C4C	#Lu -> Ll, Tsi -> glag:tsi
+02C1D	02C4D	#Lu -> Ll, Chrivi -> chrivi
+02C1E	02C4E	#Lu -> Ll, glag:Sha -> glag:sha
+02C1F	02C4F	#Lu -> Ll, Yeru -> yeru
+02C20	02C50	#Lu -> Ll, Yeri -> yeri
+02C21	02C51	#Lu -> Ll, Yati -> yati
+02C22	02C52	#Lu -> Ll, Spideryha -> spideryha
+02C23	02C53	#Lu -> Ll, glag:Yu -> glag:yu
+02C24	02C54	#Lu -> Ll, Smallyus -> smallyus
+02C25	02C55	#Lu -> Ll, Smallyuswithtail -> smallyuswithtail
+02C26	02C56	#Lu -> Ll, Yo -> glag:yo
+02C27	02C57	#Lu -> Ll, Iotatedsmallyus -> iotatedsmallyus
+02C28	02C58	#Lu -> Ll, Bigyus -> bigyus
+02C29	02C59	#Lu -> Ll, Iotatedbigyus -> iotatedbigyus
+02C2A	02C5A	#Lu -> Ll, glag:Fita -> glag:fita
+02C2B	02C5B	#Lu -> Ll, glag:Izhitsa -> glag:izhitsa
+02C2C	02C5C	#Lu -> Ll, Shtapic -> shtapic
+02C2D	02C5D	#Lu -> Ll, Trokutastia -> trokutastia
+02C2E	02C5E	#Lu -> Ll, Latinatemyslite -> latinatemyslite
 02C60	02C61	#Lu -> Ll, Ldblbar -> ldblbar
 02C62	0026B	#Lu -> Ll, Lmiddletilde -> lmiddletilde
 02C63	01D7D	#Lu -> Ll, Pstroke -> phon:pstroke
@@ -1073,90 +1072,90 @@ Case Folding Table
 0A7B0	0029E	#Lu -> Ll, Kturned -> kturned
 0A7B1	00287	#Lu -> Ll, Tturned -> tturned
 0A7B2	0029D	#Lu -> Ll, Jcrossed-tail -> jcrossedtail
-0A7B3	0AB53
+0A7B3	0AB53	#Lu -> Ll, lt:Chi -> chi
 0A7B4	0A7B5	#Lu -> Ll, lt:Beta -> lt:beta
 0A7B6	0A7B7	#Lu -> Ll, lt:Omega -> lt:omega
 0A7B8	0A7B9	#Lu -> Ll, Ustroke -> ustroke
-0AB70	013A0
-0AB71	013A1
-0AB72	013A2
-0AB73	013A3
-0AB74	013A4
-0AB75	013A5
-0AB76	013A6
-0AB77	013A7
-0AB78	013A8
-0AB79	013A9
-0AB7A	013AA
-0AB7B	013AB
-0AB7C	013AC
-0AB7D	013AD
-0AB7E	013AE
-0AB7F	013AF
-0AB80	013B0
-0AB81	013B1
-0AB82	013B2
-0AB83	013B3
-0AB84	013B4
-0AB85	013B5
-0AB86	013B6
-0AB87	013B7
-0AB88	013B8
-0AB89	013B9
-0AB8A	013BA
-0AB8B	013BB
-0AB8C	013BC
-0AB8D	013BD
-0AB8E	013BE
-0AB8F	013BF
-0AB90	013C0
-0AB91	013C1
-0AB92	013C2
-0AB93	013C3
-0AB94	013C4
-0AB95	013C5
-0AB96	013C6
-0AB97	013C7
-0AB98	013C8
-0AB99	013C9
-0AB9A	013CA
-0AB9B	013CB
-0AB9C	013CC
-0AB9D	013CD
-0AB9E	013CE
-0AB9F	013CF
-0ABA0	013D0
-0ABA1	013D1
-0ABA2	013D2
-0ABA3	013D3
-0ABA4	013D4
-0ABA5	013D5
-0ABA6	013D6
-0ABA7	013D7
-0ABA8	013D8
-0ABA9	013D9
-0ABAA	013DA
-0ABAB	013DB
-0ABAC	013DC
-0ABAD	013DD
-0ABAE	013DE
-0ABAF	013DF
-0ABB0	013E0
-0ABB1	013E1
-0ABB2	013E2
-0ABB3	013E3
-0ABB4	013E4
-0ABB5	013E5
-0ABB6	013E6
-0ABB7	013E7
-0ABB8	013E8
-0ABB9	013E9
-0ABBA	013EA
-0ABBB	013EB
-0ABBC	013EC
-0ABBD	013ED
-0ABBE	013EE
-0ABBF	013EF
+0AB70	013A0	#Ll -> Lu, chrk:asmall -> cher:a
+0AB71	013A1	#Ll -> Lu, chrk:esmall -> cher:e
+0AB72	013A2	#Ll -> Lu, chrk:ismall -> cher:i
+0AB73	013A3	#Ll -> Lu, chrk:osmall -> cher:o
+0AB74	013A4	#Ll -> Lu, chrk:usmall -> cher:u
+0AB75	013A5	#Ll -> Lu, chrk:vsmall -> cher:v
+0AB76	013A6	#Ll -> Lu, chrk:gasmall -> cher:ga
+0AB77	013A7	#Ll -> Lu, chrk:kasmall -> cher:ka
+0AB78	013A8	#Ll -> Lu, chrk:gesmall -> cher:ge
+0AB79	013A9	#Ll -> Lu, chrk:gismall -> cher:gi
+0AB7A	013AA	#Ll -> Lu, chrk:gosmall -> cher:go
+0AB7B	013AB	#Ll -> Lu, chrk:gusmall -> cher:gu
+0AB7C	013AC	#Ll -> Lu, chrk:gvsmall -> cher:gv
+0AB7D	013AD	#Ll -> Lu, chrk:hasmall -> cher:ha
+0AB7E	013AE	#Ll -> Lu, chrk:hesmall -> cher:he
+0AB7F	013AF	#Ll -> Lu, chrk:hismall -> cher:hi
+0AB80	013B0	#Ll -> Lu, chrk:hosmall -> cher:ho
+0AB81	013B1	#Ll -> Lu, chrk:husmall -> cher:hu
+0AB82	013B2	#Ll -> Lu, chrk:hvsmall -> cher:hv
+0AB83	013B3	#Ll -> Lu, chrk:lasmall -> cher:la
+0AB84	013B4	#Ll -> Lu, chrk:lesmall -> cher:le
+0AB85	013B5	#Ll -> Lu, chrk:lismall -> cher:li
+0AB86	013B6	#Ll -> Lu, chrk:losmall -> cher:lo
+0AB87	013B7	#Ll -> Lu, chrk:lusmall -> cher:lu
+0AB88	013B8	#Ll -> Lu, chrk:lvsmall -> cher:lv
+0AB89	013B9	#Ll -> Lu, chrk:masmall -> cher:ma
+0AB8A	013BA	#Ll -> Lu, chrk:mesmall -> cher:me
+0AB8B	013BB	#Ll -> Lu, chrk:mismall -> cher:mi
+0AB8C	013BC	#Ll -> Lu, chrk:mosmall -> cher:mo
+0AB8D	013BD	#Ll -> Lu, chrk:musmall -> cher:mu
+0AB8E	013BE	#Ll -> Lu, chrk:nasmall -> cher:na
+0AB8F	013BF	#Ll -> Lu, chrk:hnasmall -> cher:hna
+0AB90	013C0	#Ll -> Lu, chrk:nahsmall -> cher:nah
+0AB91	013C1	#Ll -> Lu, chrk:nesmall -> cher:ne
+0AB92	013C2	#Ll -> Lu, chrk:nismall -> cher:ni
+0AB93	013C3	#Ll -> Lu, chrk:nosmall -> cher:no
+0AB94	013C4	#Ll -> Lu, chrk:nusmall -> cher:nu
+0AB95	013C5	#Ll -> Lu, chrk:nvsmall -> cher:nv
+0AB96	013C6	#Ll -> Lu, chrk:quasmall -> cher:qua
+0AB97	013C7	#Ll -> Lu, chrk:quesmall -> cher:que
+0AB98	013C8	#Ll -> Lu, chrk:quismall -> cher:qui
+0AB99	013C9	#Ll -> Lu, chrk:quosmall -> cher:quo
+0AB9A	013CA	#Ll -> Lu, chrk:quusmall -> cher:quu
+0AB9B	013CB	#Ll -> Lu, chrk:quvsmall -> cher:quv
+0AB9C	013CC	#Ll -> Lu, chrk:sasmall -> cher:sa
+0AB9D	013CD	#Ll -> Lu, chrk:ssmall -> cher:s
+0AB9E	013CE	#Ll -> Lu, chrk:sesmall -> cher:se
+0AB9F	013CF	#Ll -> Lu, chrk:sismall -> cher:si
+0ABA0	013D0	#Ll -> Lu, chrk:sosmall -> cher:so
+0ABA1	013D1	#Ll -> Lu, chrk:susmall -> cher:su
+0ABA2	013D2	#Ll -> Lu, chrk:svsmall -> cher:sv
+0ABA3	013D3	#Ll -> Lu, chrk:dasmall -> cher:da
+0ABA4	013D4	#Ll -> Lu, chrk:tasmall -> cher:ta
+0ABA5	013D5	#Ll -> Lu, chrk:desmall -> cher:de
+0ABA6	013D6	#Ll -> Lu, chrk:tesmall -> cher:te
+0ABA7	013D7	#Ll -> Lu, chrk:dismall -> cher:di
+0ABA8	013D8	#Ll -> Lu, chrk:tismall -> cher:ti
+0ABA9	013D9	#Ll -> Lu, chrk:dosmall -> cher:do
+0ABAA	013DA	#Ll -> Lu, chrk:dusmall -> cher:du
+0ABAB	013DB	#Ll -> Lu, chrk:dvsmall -> cher:dv
+0ABAC	013DC	#Ll -> Lu, chrk:dlasmall -> cher:dla
+0ABAD	013DD	#Ll -> Lu, chrk:tlasmall -> cher:tla
+0ABAE	013DE	#Ll -> Lu, chrk:tlesmall -> cher:tle
+0ABAF	013DF	#Ll -> Lu, chrk:tlismall -> cher:tli
+0ABB0	013E0	#Ll -> Lu, chrk:tlosmall -> cher:tlo
+0ABB1	013E1	#Ll -> Lu, chrk:tlusmall -> cher:tlu
+0ABB2	013E2	#Ll -> Lu, chrk:tlvsmall -> cher:tlv
+0ABB3	013E3	#Ll -> Lu, chrk:tsasmall -> cher:tsa
+0ABB4	013E4	#Ll -> Lu, chrk:tsesmall -> cher:tse
+0ABB5	013E5	#Ll -> Lu, chrk:tsismall -> cher:tsi
+0ABB6	013E6	#Ll -> Lu, chrk:tsosmall -> cher:tso
+0ABB7	013E7	#Ll -> Lu, chrk:tsusmall -> cher:tsu
+0ABB8	013E8	#Ll -> Lu, chrk:tsvsmall -> cher:tsv
+0ABB9	013E9	#Ll -> Lu, chrk:wasmall -> cher:wa
+0ABBA	013EA	#Ll -> Lu, chrk:wesmall -> cher:we
+0ABBB	013EB	#Ll -> Lu, chrk:wismall -> cher:wi
+0ABBC	013EC	#Ll -> Lu, chrk:wosmall -> cher:wo
+0ABBD	013ED	#Ll -> Lu, chrk:wusmall -> cher:wu
+0ABBE	013EE	#Ll -> Lu, chrk:wvsmall -> cher:wv
+0ABBF	013EF	#Ll -> Lu, chrk:yasmall -> cher:ya
 0FF21	0FF41	#Lu -> Ll, fwd:A -> fwd:a
 0FF22	0FF42	#Lu -> Ll, fwd:B -> fwd:b
 0FF23	0FF43	#Lu -> Ll, fwd:C -> fwd:c

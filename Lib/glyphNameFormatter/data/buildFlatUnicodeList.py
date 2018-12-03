@@ -49,6 +49,7 @@ else:
     else:
         version = UNICODE_VERSION
     print(">> Downloading {} to {} (version {})".format(UCD_ZIP_FILE, filename, version))
+    print(URL.format(version=version))
     url = urlopen(URL.format(version=version))
     with open(filename, "wb") as fp:
         blocksize = 8192
@@ -73,7 +74,14 @@ for i in tree.iter():
     if i.tag.endswith("char"):
         n = i.attrib.get("na")
         if n:
-            flat.append("%s\t%s\t%s" % (i.attrib.get("cp"), n, i.attrib.get("gc")))
+            uc = i.attrib.get("uc")
+            if uc == "#":
+                uc = ''
+            lc = i.attrib.get("lc")
+            if lc == "#":
+                lc = ''
+            # codepoint / tab / uppercase / tab / lowercase / tab / category / tab / name
+            flat.append("%s\t%s\t%s\t%s\t%s" % (i.attrib.get("cp"), uc, lc, i.attrib.get("gc"), n))
 
 
 f = open(FLAT_FILE, "w")

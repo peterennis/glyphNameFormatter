@@ -51,12 +51,13 @@ with open(CASEFOLDING_FILE, "wb") as fp:
 # coding: utf-8
 
 
-def readCaseFolding(path):
+def readCaseFolding():
     # makes caseTable.txt
     names = {}
     explanation = """Case Folding Table"""
-
-    f = open(path, 'r')
+    ignoreFirst = [0xdf, 0x1E9E, 0x00B5]
+    ignoreSecond = [0x00131]
+    f = open(CASEFOLDING_FILE, 'r')
     d = f.read()
     f.close()
     source = None
@@ -70,7 +71,7 @@ def readCaseFolding(path):
         parts = l.split(";")
         parts = [p.strip() for p in parts]
         if parts[1] not in ["C", 'T', 'S']:
-            print("skipping", parts)
+            #print("skipping", parts)
             continue
         parts[0] = u"0x"+parts[0]
         parts[2] = u"0x"+parts[2]
@@ -78,6 +79,12 @@ def readCaseFolding(path):
         try:
             uniFirst = parts[0] = int(parts[0],0)
             uniSecond = parts[2] = int(parts[2],0)
+            if uniFirst in ignoreFirst:
+                print("--- ignoring", l)
+                continue
+            if uniSecond in ignoreSecond:
+                print("--- ignoring", l)
+                continue
             catFirst = u2c(uniFirst)
             catSecond = u2c(uniSecond)
             table.append((uniFirst, uniSecond, catFirst, catSecond))
@@ -85,6 +92,7 @@ def readCaseFolding(path):
             print(parts)
     #     categories[uni] = parts[2]
     txt = []
+    ruleCount = 0
     txt.append(explanation)
     txt.append("# Generated on %s" % time.strftime("%Y %m %d %H:%M:%S"))
     txt.append("# Source: %s"%source)
@@ -93,21 +101,18 @@ def readCaseFolding(path):
         if catFirst != None and catSecond != None:
             note = "\t#%s -> %s, %s -> %s" % (catFirst, catSecond, u2n(uniFirst), u2n(uniSecond))
         else:
+            #print("no cats for ", u2n(uniFirst), u2n(uniSecond))
             note = ""
         txt.append("%05X\t%05X%s"% (uniFirst, uniSecond, note))
-    path = "caseTable.txt"
+        ruleCount += 1
+    path = "caseFoldingList.txt"
     f = open(path, 'w')
     f.write('\n'.join(txt))
     f.close()
-
+    print("Added %d casing rules" %(ruleCount))
 
 
 
 if __name__ == "__main__":
-    from pprint import pprint
-    arabicRange = 1536, 125251
-    path = "CaseFolding.txt"
-    readCaseFolding(path)
-
-    path = "caseTable.txt"
+    readCaseFolding()
 

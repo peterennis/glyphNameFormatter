@@ -10,6 +10,7 @@ __slots__ = [
     "unicodelist",
     "unicodeVersion",
     "unicodeRangeNames",
+    "unicodeCaseMap"
 ]
 
 path = os.path.dirname(__file__)
@@ -76,6 +77,8 @@ if os.path.exists(glyphDataPath):
 
 unicodelist = {}
 unicodeCategories = {}
+upperToLower = {}
+lowerToUpper = {}
 
 flatUnicodePath = os.path.join(path, "flatUnicode.txt")
 
@@ -94,8 +97,31 @@ if os.path.exists(flatUnicodePath):
         if not line:
             # empty line
             continue
-        uniNumber, uniName, uniCategory = line.split("\t")
+        # codepoint / tab / uppercase / tab / lowercase / tab / category / tab / name
+        uniNumber, uniUppercase, uniLowercase, uniCategory, uniName, = line.split("\t")
         uniNumber = int(uniNumber, 16)
+        #print(uniNumber, uniUppercase, uniLowercase, uniCategory, uniName)
+        if uniUppercase != '':
+            try:
+                uniUppercase = int(uniUppercase, 16)
+            except ValueError:
+                uniUppercase = None
+        else:
+            uniUppercase = None
+        if uniLowercase != '':
+            try:
+                if uniLowercase:
+                    uniLowercase = int(uniLowercase, 16)
+                upperToLower[uniNumber] = uniUppercase
+            except ValueError:
+                uniLowercase = None
+        else:
+            uniLowercase = None
+        
+        if uniUppercase == None and uniLowercase != None:
+            upperToLower[uniNumber] = uniLowercase
+        if uniUppercase != None and uniLowercase == None:
+            lowerToUpper[uniNumber] = uniUppercase
         unicodelist[uniNumber] = uniName
         unicodeCategories[uniNumber] = uniCategory
 
