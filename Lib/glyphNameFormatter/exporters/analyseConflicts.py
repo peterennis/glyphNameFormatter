@@ -26,6 +26,7 @@ def findConflict(makeModule=True, makeReport=False, printReport=False):
     conflictNames = []
     conflictUniNumbers = []
     conflictsPerRange = {}
+    dontReport = ['tang:tangutideograph#', 'cjk:cjkunifiedideograph#', 'cjk:cjkcompatibilityideograph#', 'nsh:nushucharacter#']
     if makeReport:
         line = "{0:>6s} | {1:<50}{2:<25}{3:<40}{4:<40}{5:<20}".format("hex", "basic formatted name", "AGL name", "with extension", "range", "uni name")
         if printReport:
@@ -45,10 +46,13 @@ def findConflict(makeModule=True, makeReport=False, printReport=False):
             for g in names[name]:
                 rangeName = g.uniRangeName
                 extendedName = g.getName(extension=True)
-                conflictUniNumbers.append(g.uniNumber)
                 AGLname = unicode2name_AGD.get(g.uniNumber, "-")
+                nn = g.getName()
+                if nn in dontReport:
+                    continue
+                conflictUniNumbers.append(g.uniNumber)
                 if makeReport:
-                    line = "{0:>6X} : {1:<50}{2:<25}{3:<40}{4:<40}{5:<20}".format(g.uniNumber, g.getName(), AGLname[:25], g.getName(), g.uniRangeName[:40], g.uniName)
+                    line = "{0:>6X} : {1:<50}{2:<25}{3:<40}{4:<40}{5:<20}".format(g.uniNumber, nn, AGLname[:25], g.getName(), g.uniRangeName[:40], g.uniName)
                     if printReport:
                         print(line)
                     lines.append(line)
@@ -65,7 +69,7 @@ def findConflict(makeModule=True, makeReport=False, printReport=False):
 
     dirName = os.path.dirname(__file__)
 
-    k = conflictsPerRange.keys()
+    k = list(conflictsPerRange.keys())
     if makeReport:
         lines.append("")
         lines.append("")

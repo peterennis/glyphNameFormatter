@@ -73,3 +73,8 @@
 2E47	kavykalow	LOW KAVYKA
 2E48	kavykawithdotlow	LOW KAVYKA WITH DOT
 2E49	stackedcommadbl	DOUBLE STACKED COMMA
+2E4A	solidusdotted	DOTTED SOLIDUS
+2E4B	tripledagger	TRIPLE DAGGER
+2E4C	medievalcomma	MEDIEVAL COMMA
+2E4D	paragraphus	PARAGRAPHUS MARK
+2E4E	punctuselevatus	PUNCTUS ELEVATUS MARK

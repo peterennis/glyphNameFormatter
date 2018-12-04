@@ -3,18 +3,18 @@ from __future__ import print_function, absolute_import
 
 import unicodedata
 
-from .data import unicodelist
-from .data.scriptConflictNames import scriptConflictNames
-from .data.preferredAGLNames import preferredAGLNames
-from .data.scriptPrefixes import scriptPrefixes, addScriptPrefix, SCRIPTSEPARATOR, SCRIPTASPREFIX
-from .data.mathUniNumbers import mathUniNumbers
+from glyphNameFormatter.data import unicodelist, mathUniNumbers
+from glyphNameFormatter.data.scriptConflictNames import scriptConflictNames
+from glyphNameFormatter.data.preferredAGLNames import preferredAGLNames
+from glyphNameFormatter.data.scriptPrefixes import scriptPrefixes, addScriptPrefix, SCRIPTSEPARATOR, SCRIPTASPREFIX
+#from .data.mathUniNumbers import mathUniNumbers
 
-from .unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessorByRangeName
+from glyphNameFormatter.unicodeRangeNames import getRangeName, getRangeProcessor, getRangeProcessorByRangeName
 
-from .tools import unicodeToChar
+from glyphNameFormatter.tools import unicodeToChar
 
 
-__version__ = "0.28"
+__version__ = "0.3"
 
 
 def debug(uniNumber):

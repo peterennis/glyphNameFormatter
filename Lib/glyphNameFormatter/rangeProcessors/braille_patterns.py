@@ -1,7 +1,5 @@
 
 def process(self):
-    #self.setExperimental()
-    #self.edit("TAMIL")
     self.replace("BRAILLE PATTERN BLANK", "blank")
     self.replace("BRAILLE PATTERN DOTS", "dots")
     self.replace("-", "")

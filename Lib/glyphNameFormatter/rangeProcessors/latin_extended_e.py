@@ -1,7 +1,7 @@
 
 
 def process(self):
-    self.setExperimental()
+    self.setDraft()
 
     self.edit("LENIS", "lenis")
     self.edit("WITH CROSSED-TAIL", "tail")

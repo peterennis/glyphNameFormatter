@@ -110,7 +110,7 @@ This coverage page is has some issues.
 | Dingbats | **191** | **Yes** | `2700` | `27BF` |
 | Miscellaneous Mathematical Symbols-A | **47** | **Yes** | `27C0` | `27EF` |
 | Supplemental Arrows-A | 15 | No | `27F0` | `27FF` |
-| Braille Patterns | 255 | No | `2800` | `28FF` |
+| Braille Patterns | **255** | **Yes** | `2800` | `28FF` |
 | Supplemental Arrows-B | 127 | No | `2900` | `297F` |
 | Miscellaneous Mathematical Symbols-B | 127 | No | `2980` | `29FF` |
 | Supplemental Mathematical Operators | 255 | No | `2A00` | `2AFF` |

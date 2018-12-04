@@ -1,7 +1,5 @@
 
 def process(self):
-    #self.setExperimental()
-    #self.edit("circled", )
     self.replace("EUROPE-AFRICA", "Europe Africa")
     self.replace("ASIA-AUSTRALIA", "Asia Australia")
     self.edit("SYMBOL", "")

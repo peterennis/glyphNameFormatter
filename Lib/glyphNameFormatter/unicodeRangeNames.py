@@ -2,7 +2,7 @@
 from __future__ import print_function, absolute_import
 from glyphNameFormatter.data import unicodeRangeNames
 
-from . import rangeProcessors
+from glyphNameFormatter import rangeProcessors
 # reload(rangeProcessors)
 
 

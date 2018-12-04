@@ -1,6 +1,6 @@
 
 def process(self):
-    self.setExperimental()
+    self.setDraft()
     self.edit("RUNIC")
     self.edit("LETTER")
     self.scriptPrefix()

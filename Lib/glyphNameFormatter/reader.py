@@ -3,7 +3,7 @@ from __future__ import print_function, absolute_import
 
 import glyphNameFormatter
 from glyphNameFormatter.unicodeRangeNames import getRangeByName, getAllRangeNames, getSupportedRangeNames
-
+from glyphNameFormatter.data import upperToLower, lowerToUpper
 
 import os
 
@@ -95,16 +95,76 @@ def u2r(value):
 			return v
 	return None
 
+def n2N(name):
+	# name to uppercase
+	uni = n2u(name)
+	if uni:
+		uprUni = lowerToUpper.get(uni)
+		if uprUni:
+			return u2n(uprUni)
+	return name
+
+def N2n(name):
+	# name to lowercase
+	uni = n2u(name)
+	if uni:
+		lwrUni = upperToLower.get(uni)
+		if lwrUni:
+			return u2n(lwrUni)
+	return name
+
+def u2U(uni):
+	# unicode to uppercase unicode
+	uprUni = lowerToUpper.get(uni)
+	if uprUni is not None:
+		return uprUni
+	return uni
+
+def U2u(uni):
+	# unicode to lowercase unicode
+	lwrUni = upperToLower.get(uni)
+	if lwrUni is not None:
+		return lwrUni
+	return lwr
 
 if __name__ == "__main__":
-	allNames = name2uni.keys()
-	#print(allNames)
+	print("upperToLower map:", len(upperToLower))
+	print("lowerToUpper map:", len(lowerToUpper))
+	allNames = list(name2uni.keys())
 	allNames.sort()
+	print("\ntest lower -> upper -> lower")
 	for n in allNames:
-		print(n)
-		assert(n == u2n(n2u(n)))
+		upr = n2N(n)
+		if upr != n and upr is not None:
+			lwr = N2n(upr)
+			if n != lwr:
+				print("\t\tn2N failed", n, "->", upr, "->", lwr)
+			#else:
+			#	print("\ta ok", n, "->", upr, "->", lwr)
+
+		lwr = N2n(n)
+		if lwr != n and lwr is not None:
+			upr = n2N(lwr)
+			if n != upr:
+				print("\t\tN2n failed", n, "->", lwr, "->", upr)
+			#else:
+			#	print("\tb ok", n, "->", lwr, "->", upr)
+	assert N2n("non-existing-glyphname") == "non-existing-glyphname"
+	assert n2N("non-existing-glyphname") == "non-existing-glyphname"
+	assert n2N("germandbls") == "germandbls"
+	assert N2n("A") == 'a'
+	assert n2N("a") == 'A'
+	assert U2u(65) == 97	# A -> a
+	assert u2U(97) == 65	# a -> A
+
+	if False:
+		allNames = list(name2uni.keys())
+		allNames.sort()
+		for n in allNames:
+			print(n)
+			assert(n == u2n(n2u(n)))
 
 
-	for n in allNames:
-		u = n2u(n)
-		print(n, u2r(u))
+		for n in allNames:
+			u = n2u(n)
+			print(n, u2r(u))

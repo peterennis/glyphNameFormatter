@@ -11,8 +11,8 @@ except ImportError:
     from urllib.request import urlopen
 
 __doc__ = """
-This will parse the large ucd xml from unicode.org 
-into a simple list that is workable and 
+This will parse the large ucd xml from unicode.org
+into a simple list that is workable and
 is fair enough for download and embedding.
 
 starts with the # unicode description/version
@@ -23,14 +23,14 @@ format
 
 URL = "http://www.unicode.org/Public/{version}/ucdxml/ucd.all.flat.zip"
 
-UNICODE_VERSION = "10.0.0"
+UNICODE_VERSION = "11.0.0"
 UCD_ZIP_FILE = "ucd.all.flat.zip"
 UCD_FILE = UCD_ZIP_FILE[:-3] + "xml"
 FLAT_FILE = "flatUnicode.txt"
 
 parser = ArgumentParser(description=__doc__,
                         formatter_class=RawDescriptionHelpFormatter)
-group = parser.add_mutually_exclusive_group(required=True)
+group = parser.add_mutually_exclusive_group(required=False)
 group.add_argument("-u", "--unicode-version",
                    help="Unicode version to use for download and processing")
 group.add_argument("-i", "--input", metavar="UCD_FILE",
@@ -44,11 +44,12 @@ if options.input:
 else:
     tempdir = tempfile.mkdtemp()
     filename = os.path.join(tempdir, UCD_ZIP_FILE)
-    print(">> Downloading {} to {}".format(UCD_ZIP_FILE, filename))
     if options.unicode_version:
         version = options.unicode_version
     else:
         version = UNICODE_VERSION
+    print(">> Downloading {} to {} (version {})".format(UCD_ZIP_FILE, filename, version))
+    print(URL.format(version=version))
     url = urlopen(URL.format(version=version))
     with open(filename, "wb") as fp:
         blocksize = 8192
@@ -73,7 +74,19 @@ for i in tree.iter():
     if i.tag.endswith("char"):
         n = i.attrib.get("na")
         if n:
-            flat.append("%s\t%s\t%s" % (i.attrib.get("cp"), n, i.attrib.get("gc")))
+            uc = i.attrib.get("uc")
+            if uc == "#":
+                uc = ''
+            lc = i.attrib.get("lc")
+            if lc == "#":
+                lc = ''
+            mth = i.attrib.get('Math')
+            if mth != "N":
+                mth = "M"
+            else:
+                mth = ""
+            # codepoint / tab / uppercase / tab / lowercase / tab / category / tab / name
+            flat.append("%s\t%s\t%s\t%s\t%s\t%s" % (i.attrib.get("cp"), uc, lc, i.attrib.get("gc"), mth, n))
 
 
 f = open(FLAT_FILE, "w")
