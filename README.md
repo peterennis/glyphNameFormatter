@@ -8,9 +8,7 @@ A system for generating glyph name lists from official Unicode data.
 * Font editors need glyph names to easily identify the glyphs, short, unique, can't use spaces, non-ascii characters.
 * Raw Unicode names are unsuitable for this purpose in font editors
 * Font editors use their own lists that map names to unicode values.
-* These lists only cover the glyphs that were needed in production, so there are often holes in the coverage.
-* These lists should not dictate what is useful or not in a font but offer reliable unicode to name mapping.
-* Adobe standardized some lists years ago, standard, but incomplete and immutable
+* So this system parses, generates and tweaks.
 
 ### Glyph Name Formatted Unicode List Release 0.3 (ɣNUFL)
 
