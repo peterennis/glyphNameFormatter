@@ -28,6 +28,9 @@
     E6 : ae                                                ae                       ae                                      Latin-1 Supplement                      LATIN SMALL LETTER AE
    6D5 : ae                                                arAe                     ae                                      Arabic                                  ARABIC LETTER AE    
 
+   639 : ain                                               arAin                    ain                                     Arabic                                  ARABIC LETTER AIN   
+  1D25 : ain                                               -                        ain                                     Phonetic Extensions                     LATIN LETTER AIN    
+
    251 : alpha                                             alphalatin               alpha                                   IPA Extensions                          LATIN SMALL LETTER ALPHA
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        GREEK SMALL LETTER ALPHA
 
@@ -252,13 +255,14 @@
     30 : zero                                              zero                     zero                                    Basic Latin                             DIGIT ZERO          
    660 : zero                                              arZero                   zero                                    Arabic                                  ARABIC-INDIC DIGIT ZERO
   A9D0 : zero                                              -                        zero                                    Javanese                                JAVANESE DIGIT ZERO 
-# 80 names with conflicts, affecting 172 unicodes
+# 81 names with conflicts, affecting 174 unicodes
 
 
 Conflicts by rangename
 
 Arabic
    6D5 : ae                                                arAe                     ae                                      Arabic                                  ARABIC LETTER AE    
+   639 : ain                                               arAin                    ain                                     Arabic                                  ARABIC LETTER AIN   
    60C : comma                                             arComma                  comma                                   Arabic                                  ARABIC COMMA        
    606 : cuberoot                                          -                        cuberoot                                Arabic                                  ARABIC-INDIC CUBE ROOT
    66B : decimalseparator                                  arDecimal                decimalseparator                        Arabic                                  ARABIC DECIMAL SEPARATOR
@@ -444,6 +448,9 @@ Miscellaneous Technical
 Optical Character Recognition
   2445 : bowtie                                            -                        bowtie                                  Optical Character Recognition           OCR BOW TIE         
   2448 : dash                                              -                        dash                                    Optical Character Recognition           OCR DASH            
+
+Phonetic Extensions
+  1D25 : ain                                               -                        ain                                     Phonetic Extensions                     LATIN LETTER AIN    
 
 Small Form Variants
   FE60 : ampersand                                         -                        ampersand                               Small Form Variants                     SMALL AMPERSAND     

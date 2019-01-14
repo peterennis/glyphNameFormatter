@@ -52,7 +52,7 @@ def process(self):
     self.edit("LETTER")
 
     self.compress()
-    self.scriptPrefix()
+    #self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange
