@@ -3,8 +3,11 @@ def process(self):
     self.edit("ORIYA")
     self.edit("LETTER")
     self.edit("DIGIT")
+    self.edit("FRACTION")
     self.processAs("Helper Indic")
     self.processAs("Helper Numbers")
+
+
     self.lower()
     self.compress()
     self.scriptPrefix()

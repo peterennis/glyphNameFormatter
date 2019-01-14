@@ -38,6 +38,23 @@ uni2name = {}
 uni2cat = {}
 ranges = {}
 
+def readJoiningTypes(path):
+    # read the joiningTypes.txt
+    joiningTypes = {}
+    f = open(path, 'r')
+    d = f.read()
+    f.close()
+    lines = d.split("\n")
+    for l in lines:
+        if not l: continue
+        if l[0] == "#": continue
+        parts = l.split("\t")
+        uni = int('0x'+parts[0], 0)
+        jT = parts[1]
+        joiningTypes[uni] = jT
+    return joiningTypes
+
+
 def u2n(value):
 	"""Unicode value to glyphname"""
 	global uni2name
@@ -68,6 +85,7 @@ def _parse(path):
 			if not l: continue
 			if l[0]=="#": continue
 			parts = l.split(" ")
+			print('parts', parts)
 			assert(len(parts)==3)
 			name = parts[0]
 			value = int(parts[1], 16)
@@ -83,10 +101,15 @@ if os.path.exists(path):
 else:
 	print("GNUFL error: can't find name lists at %s"%(path))
 
+
 rangeNames = getSupportedRangeNames()
 for rangeName in rangeNames:
 	start, end = getRangeByName(rangeName)
 	ranges[(start, end)] = rangeName
+
+def n2jT(name):
+	"""name to joiningType"""
+	pass
 
 def u2r(value):
 	"""Unicode value to range name"""

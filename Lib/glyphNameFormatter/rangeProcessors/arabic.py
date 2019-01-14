@@ -7,6 +7,15 @@ def process(self):
     # note: these categories are practical
     # but it is always possible to have one
     # edit outside its category just to make it work    self.edit("ARABIC LETTER HAMZA", 'hamza')
+
+    #self.scriptPrefix()
+
+    self.edit("ARABIC COMMA", "comma")        
+    self.edit("ARABIC NUMBER SIGN", "numbersign")        
+    self.edit("ARABIC PERCENT SIGN", "percent")
+    self.edit("ARABIC QUESTION MARK", "question")
+    self.edit("ARABIC SEMICOLON", "semicolon")
+
     self.edit("ARABIC LETTER ALEF", "alef")
 
     # digits
@@ -77,18 +86,15 @@ def process(self):
     self.edit("RAY", 'ray')
     self.edit("ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO", 'zerosquareabove')
 
+
     # punctuation
-    self.edit("ARABIC PERCENT SIGN", "percent")
-    self.edit("ARABIC NUMBER SIGN", "numbersign")
-    self.edit("ARABIC COMMA", "comma")
+    #self.edit("ARABIC NUMBER SIGN", "numbersign")
     self.edit("ARABIC FULL STOP", "periodurdu")
-    self.edit("ARABIC QUESTION MARK", "question")
     self.edit("ARABIC DECIMAL SEPARATOR", "decimal", "separator")
     self.edit("ARABIC THOUSANDS SEPARATOR", "thousands", "separator")
     self.edit("ARABIC-INDIC PER MILLE SIGN", "permille")
     self.edit("ARABIC-INDIC PER TEN THOUSAND SIGN", 'perthousand')
     self.edit("ARABIC DATE SEPARATOR", "date", "separator")
-    self.edit("ARABIC SEMICOLON", "semicolon")
     self.edit("ARABIC TRIPLE DOT PUNCTUATION MARK", 'tripledot')
     self.edit("POSTPOSITION MEN", "menpost")
     self.edit("ARABIC SIGN SINDHI", "Sindhi")
@@ -125,10 +131,10 @@ def process(self):
     self.processAs("Helper Arabic Positions")
 
     if self.uniName is not None:
-        if "ARABIC LETTER" in self.uniName:
-            lowercaseOk = True
-        elif "ARABIC-INDIC DIGIT" in self.uniName:
-            lowercaseOk = True
+       if "ARABIC LETTER" in self.uniName:
+           lowercaseOk = True
+       elif "ARABIC-INDIC DIGIT" in self.uniName:
+           lowercaseOk = True
 
     # cleanup
     self.replace("ARABIC")
@@ -137,13 +143,13 @@ def process(self):
     if self.has("-"):
         self.replace('-')
     if lowercaseOk:
-       self.lower()
+      self.lower()
     self.compress()
 
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange
     printRange("Arabic")
-    # debug(0x066C)
+    debug(0x060C)
     # debug(0x066F)
     # debug(0x0697)
     # debug(0x069B)
