@@ -18,8 +18,11 @@ def process(self):
     self.edit("INVERTED DOUBLE ARCH", 'dblarchinverted')
     self.edit("COMBINING RIGHT ARROWHEAD AND UP ARROWHEAD", "arrowheadrightarrowheadup")
 
+    self.edit("OVERLAY", "")
+
     self.edit("DOUBLE RING", 'doublering')
     self.edit("DOUBLE VERTICAL LINE", 'dblverticalline')
+    self.edit("VERTICAL LINE", 'verticalline')
     self.edit("DOUBLE OVERLINE", "dbloverline")
     self.edit("LOW LINE", "lowline")
 

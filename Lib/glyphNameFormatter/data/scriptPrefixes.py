@@ -86,7 +86,7 @@ _scriptPrefixes = {
     'armenian': '{glyphName}armn',
     'boxdrawings': 'bxd',
     'cjk': 'cjk',
-    'combining diacritical marks': "cmb",
+    'combining diacritical marks': "{glyphName}cmb",
     'cyrillic': '{glyphName}cyr',
     'fullwidth': 'fwd',
     'halfwidth': 'hwd',

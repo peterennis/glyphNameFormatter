@@ -73,6 +73,7 @@ scriptConflictNames = [
     "tangutideograph#",
     "three",
     "tilde",
+    "tildecmb",
     "tortoiseshellbracketleft",
     "tortoiseshellbracketright",
     "two",
