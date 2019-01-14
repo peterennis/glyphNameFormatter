@@ -82,7 +82,8 @@ def addScriptPrefix(txt, tag=None, script=None, scriptSeparator=SCRIPTSEPARATOR,
 # '{scriptSeparator}' will insert the separator at a given place
 
 _scriptPrefixes = {
-    'arabic': 'ar',
+    'arabic': 'ar{glyphName}',
+    'armenian': '{glyphName}armn',
     'boxdrawings': 'bxd',
     'cjk': 'cjk',
     'combining diacritical marks': "cmb",
