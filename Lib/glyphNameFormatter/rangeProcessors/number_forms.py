@@ -1,5 +1,9 @@
 
 def process(self):
+
+    # nmbr:oneeighth -> oneeighth
+    # nmbr:onetenth -> onetenth
+    # nmbr:onefifth -> onefifth
     self.replace("FRACTION NUMERATOR ONE", "onefraction")
     self.replace("LATIN SMALL LETTER REVERSED C", "creversed")
 

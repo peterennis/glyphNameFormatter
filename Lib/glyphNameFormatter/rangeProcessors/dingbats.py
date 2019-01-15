@@ -90,7 +90,7 @@ def process(self):
 
     self.compress()
     self.lower()
-    self.scriptPrefix()
+    #self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange

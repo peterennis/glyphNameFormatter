@@ -42,7 +42,7 @@ def process(self):
     self.edit("KAI SYMBOL", "kaisymbol")
     self.edit("PI SYMBOL", "pi.math")
     self.edit("CAPITAL THETA SYMBOL", "Thetasymbol")
-    self.edit("THETA SYMBOL", "theta.math")
+    self.edit("THETA SYMBOL", "theta.math") # XX ?
     self.edit("BETA SYMBOL", "betasymbol")
     self.edit("UPSILON SYMBOL", "upsilonsymbol")
     self.edit("KAPPA SYMBOL", "kappa.math")

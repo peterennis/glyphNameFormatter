@@ -20,6 +20,7 @@ def process(self):
     self.edit("RIGHT-FACING", "rightfacing")
     self.edit("LEFT-FACING", "leftfacing")
     self.edit("ETERNITY SIGN", "eternitysign")
+    self.edit("DRAM SIGN", "dramsign")
     self.edit("ARMENIAN")
 
     self.edit("COMMA", "comma")

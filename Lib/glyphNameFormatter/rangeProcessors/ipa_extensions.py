@@ -15,7 +15,7 @@ def process(self):
     self.edit("SQUAT", "squat")
     self.edit("INVERTED", "inverted")
     self.edit("REVERSED", "reversed")
-
+    
     self.replace("DZ", "dzed")
     self.replace("LZ", "lzed")
     self.replace("DIGRAPH")

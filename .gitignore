@@ -24,3 +24,5 @@ Lib/Glyph_Name_Formatter.egg-info
 ArabicShaping.txt
 CaseFolding.txt
 test_encodings
+.idea
+Lib/glyphNameFormatter/data/conflicts

@@ -31,7 +31,7 @@ class GlyphName(object):
 
     prefSpelling_dieresis = "dieresis"
 
-    def __init__(self, uniNumber=None, scriptSeparator=None, scriptAsPrefix=None, verbose=False):
+    def __init__(self, uniNumber=None, scriptSeparator=None, scriptAsPrefix=None, verbose=False, ignoreConflicts=False):
         self.status = 0 # defaults to draft
         self.uniNumber = uniNumber
         self.uniLetter = None
@@ -49,6 +49,7 @@ class GlyphName(object):
         self._scriptSeparator = scriptSeparator
         self._scriptAsPrefix = scriptAsPrefix
         self.verbose = verbose
+        self._ignoreConflicts = ignoreConflicts # when checking for conflicts we actually need to ignore the scriptConflictNames
         self.lookup()
         self.process()
 
@@ -221,10 +222,11 @@ class GlyphName(object):
             processor(self)
             # make the final name
             self.uniNameProcessed = self.uniNameProcessed + "".join(self.suffixParts) + "".join(self.finalParts)
-        if self.uniNameProcessed in scriptConflictNames:
-            # the final name has a duplicate in another script
-            # take disambiguation action
-            self.mustAddScript = True
+        if not self._ignoreConflicts:
+            if self.uniNameProcessed in scriptConflictNames:
+                # the final name has a duplicate in another script
+                # take disambiguation action
+                self.mustAddScript = True
         if self.isLegacy:
             self.uniNameProcessed = "lgcy_" + self.uniNameProcessed
 
@@ -377,4 +379,7 @@ if __name__ == "__main__":
         'avagraha:gujr'
         """
 
-    doctest.testmod()
+    #doctest.testmod()
+    debug(0x0600)
+    g = GlyphName(uniNumber=0x0600)
+    print(g.getName(extension=True))

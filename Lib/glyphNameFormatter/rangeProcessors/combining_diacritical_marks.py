@@ -20,6 +20,7 @@ def process(self):
 
     self.edit("DOUBLE RING", 'doublering')
     self.edit("DOUBLE VERTICAL LINE", 'dblverticalline')
+    self.edit("VERTICAL LINE", 'verticalline')
     self.edit("DOUBLE OVERLINE", "dbloverline")
     self.edit("LOW LINE", "lowline")
 
