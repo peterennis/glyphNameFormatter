@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.3 - git commit: 433
+# GlyphNameFormatter version 0.3 - git commit: 428
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/2acd6b3
-# Generated on 2019 01 15 17:44:05
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/2945ddb
+# Generated on 2019 01 15 18:54:28
 # <glyphName> <hex unicode> <unicodeCategory>
 #
 # Basic Latin
@@ -1690,16 +1690,16 @@ filledstopabove 06EC Mn
 meembelow 06ED Mn
 dalinvertedV 06EE Lo
 rehinvertedV 06EF Lo
-zerofar 06F0 Nd
-onefar 06F1 Nd
-twofar 06F2 Nd
-threefar 06F3 Nd
-fourfar 06F4 Nd
-fivefar 06F5 Nd
-sixfar 06F6 Nd
-sevenfar 06F7 Nd
-eightfar 06F8 Nd
-ninefar 06F9 Nd
+sefr 06F0 Nd
+yek 06F1 Nd
+do 06F2 Nd
+seh 06F3 Nd
+chahar 06F4 Nd
+panj 06F5 Nd
+shish 06F6 Nd
+haft 06F7 Nd
+hasht 06F8 Nd
+noh 06F9 Nd
 sheendotbelow 06FA Lo
 daddotbelow 06FB Lo
 ghaindotbelow 06FC Lo
@@ -9573,6 +9573,7 @@ interlinearseparator FFFA Cf
 interlinearterminator FFFB Cf
 replacementcharobj FFFC So
 replacementchar FFFD So
+# Zanabazar Square
 # Domino Tiles
 dominohorizontalback 1F030 So
 dominohorizontal_00_00 1F031 So
