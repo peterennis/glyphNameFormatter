@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.3 - git commit: 432
+# GlyphNameFormatter version 0.3 - git commit: 433
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/0ba2e15
-# Generated on 2019 01 14 21:31:59
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/2acd6b3
+# Generated on 2019 01 15 17:44:01
 # <glyphName> <hex unicode>
 #
 # Basic Latin
@@ -840,7 +840,7 @@ iotasub 037A
 sigmalunatereversedsymbol 037B
 sigmalunatedottedsymbol 037C
 sigmalunatedottedreversedsymbol 037D
-questiongreek 037E
+gr:question 037E
 Yot 037F
 tonos 0384
 dieresistonos 0385
@@ -4054,11 +4054,11 @@ Zsmall 1D22
 Ezhsmall 1D23
 spirantvoicedlaryngeal 1D24
 phon:ain 1D25
-Gammagreeksmall 1D26
-Lambdagreeksmall 1D27
-Pigreeksmall 1D28
-RsmallHOgreek 1D29
-Psigreeksmall 1D2A
+gr:Gammasmall 1D26
+gr:Lambdasmall 1D27
+gr:Pismall 1D28
+gr:RsmallHO 1D29
+gr:Psismall 1D2A
 Elsmallcyr 1D2B
 Amod 1D2C
 Aemod 1D2D
@@ -4110,19 +4110,19 @@ mturnedmod 1D5A
 vmod 1D5B
 ainmod 1D5C
 betamod 1D5D
-gammagreekmod 1D5E
+gr:gammamod 1D5E
 deltamod 1D5F
-phigreekmod 1D60
+gr:phimod 1D60
 chimod 1D61
 isubscript 1D62
 rsubscript 1D63
 usubscript 1D64
 vsubscript 1D65
-betagreeksubscript 1D66
-gammagreeksubscript 1D67
-rhogreeksubscript 1D68
-phigreeksubscript 1D69
-chigreeksubscript 1D6A
+gr:betasubscript 1D66
+gr:gammasubscript 1D67
+gr:rhosubscript 1D68
+gr:phisubscript 1D69
+gr:chisubscript 1D6A
 ue 1D6B
 bmiddletilde 1D6C
 dmiddletilde 1D6D
@@ -4708,7 +4708,7 @@ Alphaiotasub 1FBC
 KORONIS 1FBD
 iotaadscript 1FBE
 lenis 1FBF
-tildegreek 1FC0
+gr:tilde 1FC0
 dieresistilde 1FC1
 etagraveiotasub 1FC2
 etaiotasub 1FC3
@@ -4751,7 +4751,7 @@ Upsilonacute 1FEB
 Rhoasper 1FEC
 dieresisgrave 1FED
 dieresisacute 1FEE
-gravegreek 1FEF
+gr:grave 1FEF
 omegagraveiotasub 1FF2
 omegaiotasub 1FF3
 omegaacuteiotasub 1FF4
@@ -4762,7 +4762,7 @@ Omicronacute 1FF9
 Omegagrave 1FFA
 Omegaacute 1FFB
 Omegaiotasub 1FFC
-acutegreek 1FFD
+gr:acute 1FFD
 asper 1FFE
 # General Punctuation
 enquad 2000
@@ -8374,7 +8374,7 @@ iotifiede AB61
 oeopen AB62
 uo AB63
 alphainverted AB64
-Omegagreeksmall AB65
+gr:Omegasmall AB65
 # Cherokee Supplement
 chrk:asmall AB70
 chrk:esmall AB71

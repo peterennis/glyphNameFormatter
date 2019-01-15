@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.3 - git commit: 432
+# GlyphNameFormatter version 0.3 - git commit: 433
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/0ba2e15
-# Generated on 2019 01 14 21:32:07
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/2acd6b3
+# Generated on 2019 01 15 17:44:07
 # <glyphName> <hex unicode> <unicodeCategory>
 #
 # Basic Latin
@@ -840,7 +840,7 @@ iotasub 037A Lm
 sigmalunatereversedsymbol 037B Ll
 sigmalunatedottedsymbol 037C Ll
 sigmalunatedottedreversedsymbol 037D Ll
-questiongreek 037E Po
+gr:question 037E Po
 Yot 037F Lu
 tonos 0384 Sk
 dieresistonos 0385 Sk
@@ -4054,11 +4054,11 @@ Zsmall 1D22 Ll
 Ezhsmall 1D23 Ll
 spirantvoicedlaryngeal 1D24 Ll
 phon:ain 1D25 Ll
-Gammagreeksmall 1D26 Ll
-Lambdagreeksmall 1D27 Ll
-Pigreeksmall 1D28 Ll
-RsmallHOgreek 1D29 Ll
-Psigreeksmall 1D2A Ll
+gr:Gammasmall 1D26 Ll
+gr:Lambdasmall 1D27 Ll
+gr:Pismall 1D28 Ll
+gr:RsmallHO 1D29 Ll
+gr:Psismall 1D2A Ll
 Elsmallcyr 1D2B Ll
 Amod 1D2C Lm
 Aemod 1D2D Lm
@@ -4110,19 +4110,19 @@ mturnedmod 1D5A Lm
 vmod 1D5B Lm
 ainmod 1D5C Lm
 betamod 1D5D Lm
-gammagreekmod 1D5E Lm
+gr:gammamod 1D5E Lm
 deltamod 1D5F Lm
-phigreekmod 1D60 Lm
+gr:phimod 1D60 Lm
 chimod 1D61 Lm
 isubscript 1D62 Lm
 rsubscript 1D63 Lm
 usubscript 1D64 Lm
 vsubscript 1D65 Lm
-betagreeksubscript 1D66 Lm
-gammagreeksubscript 1D67 Lm
-rhogreeksubscript 1D68 Lm
-phigreeksubscript 1D69 Lm
-chigreeksubscript 1D6A Lm
+gr:betasubscript 1D66 Lm
+gr:gammasubscript 1D67 Lm
+gr:rhosubscript 1D68 Lm
+gr:phisubscript 1D69 Lm
+gr:chisubscript 1D6A Lm
 ue 1D6B Ll
 bmiddletilde 1D6C Ll
 dmiddletilde 1D6D Ll
@@ -4708,7 +4708,7 @@ Alphaiotasub 1FBC Lt
 KORONIS 1FBD Sk
 iotaadscript 1FBE Ll
 lenis 1FBF Sk
-tildegreek 1FC0 Sk
+gr:tilde 1FC0 Sk
 dieresistilde 1FC1 Sk
 etagraveiotasub 1FC2 Ll
 etaiotasub 1FC3 Ll
@@ -4751,7 +4751,7 @@ Upsilonacute 1FEB Lu
 Rhoasper 1FEC Lu
 dieresisgrave 1FED Sk
 dieresisacute 1FEE Sk
-gravegreek 1FEF Sk
+gr:grave 1FEF Sk
 omegagraveiotasub 1FF2 Ll
 omegaiotasub 1FF3 Ll
 omegaacuteiotasub 1FF4 Ll
@@ -4762,7 +4762,7 @@ Omicronacute 1FF9 Lu
 Omegagrave 1FFA Lu
 Omegaacute 1FFB Lu
 Omegaiotasub 1FFC Lt
-acutegreek 1FFD Sk
+gr:acute 1FFD Sk
 asper 1FFE Sk
 # General Punctuation
 enquad 2000 Zs
@@ -8374,7 +8374,7 @@ iotifiede AB61 Ll
 oeopen AB62 Ll
 uo AB63 Ll
 alphainverted AB64 Ll
-Omegagreeksmall AB65 Ll
+gr:Omegasmall AB65 Ll
 # Cherokee Supplement
 chrk:asmall AB70 Ll
 chrk:esmall AB71 Ll
