@@ -10,6 +10,27 @@ def process(self):
 
     #self.scriptPrefix()
 
+    # edit the farsi numbers
+    # ۰ ۱ ۲ ۳ ۴ ۵ ۶ ۷ ۸ ۹
+    farsiNumbers = {
+        0x06f0: ('zero', 'sefr'),
+        0x06f1: ('one', 'yek'),
+        0x06f2: ('two', 'do'),
+        0x06f3: ('three', 'seh'),
+        0x06f4: ('four', 'chahar'),
+        0x06f5: ('five', 'panj'),
+        0x06f6: ('six', 'shish'),
+        0x06f7: ('seven', 'haft'),
+        0x06f8: ('eight', 'hasht'),
+        0x06f9: ('nine', 'noh'),
+    }
+
+    if self.uniNumber in farsiNumbers:
+        self.edit("EXTENDED ARABIC-INDIC DIGIT", "")
+        a, b = farsiNumbers.get(self.uniNumber)
+        self.lower()
+        self.edit(a, b)
+
     self.edit("ARABIC COMMA", "comma")        
     self.edit("ARABIC NUMBER SIGN", "numbersign")        
     self.edit("ARABIC PERCENT SIGN", "percent")
@@ -19,7 +40,6 @@ def process(self):
     self.edit("ARABIC LETTER ALEF", "alef")
 
     # digits
-    self.edit("EXTENDED ARABIC-INDIC DIGIT", "far")
     self.edit("ARABIC-INDIC CUBE", 'cube')
     self.edit("ARABIC-INDIC FOURTH", 'fourth')
     self.edit("ROOT", 'root')

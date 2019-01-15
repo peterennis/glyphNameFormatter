@@ -80,7 +80,6 @@ scriptConflictNames = [
     "u",
     "upsilon",
     "yu",
-    "zanabazarsquarelettera",
     "zero",
 ]
 

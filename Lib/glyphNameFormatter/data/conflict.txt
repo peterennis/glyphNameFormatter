@@ -249,13 +249,10 @@
    6C8 : yu                                                arYu                     yu                                      Arabic                                  ARABIC LETTER YU    
   2C53 : yu                                                -                        yu                                      Glagolitic                              GLAGOLITIC SMALL LETTER YU
 
- 11A00 : zanabazarsquarelettera                            -                        zanabazarsquarelettera                  Zanabazar Square                        ZANABAZAR SQUARE LETTER A
- 11A29 : zanabazarsquarelettera                            -                        zanabazarsquarelettera                  Zanabazar Square                        ZANABAZAR SQUARE LETTER -A
-
     30 : zero                                              zero                     zero                                    Basic Latin                             DIGIT ZERO          
    660 : zero                                              arZero                   zero                                    Arabic                                  ARABIC-INDIC DIGIT ZERO
   A9D0 : zero                                              -                        zero                                    Javanese                                JAVANESE DIGIT ZERO 
-# 81 names with conflicts, affecting 174 unicodes
+# 80 names with conflicts, affecting 172 unicodes
 
 
 Conflicts by rangename
@@ -487,7 +484,3 @@ Spacing Modifier Letters
 
 Transport and Map Symbols
  1F6BC : baby                                              -                        baby                                    Transport and Map Symbols               BABY SYMBOL         
-
-Zanabazar Square
- 11A00 : zanabazarsquarelettera                            -                        zanabazarsquarelettera                  Zanabazar Square                        ZANABAZAR SQUARE LETTER A
- 11A29 : zanabazarsquarelettera                            -                        zanabazarsquarelettera                  Zanabazar Square                        ZANABAZAR SQUARE LETTER -A

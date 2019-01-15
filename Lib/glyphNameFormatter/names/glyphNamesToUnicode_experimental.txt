@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.3 - git commit: 433
+# GlyphNameFormatter version 0.3 - git commit: 434
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/2acd6b3
-# Generated on 2019 01 15 17:44:03
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/88557d5
+# Generated on 2019 01 15 18:43:54
 # <glyphName> <hex unicode>
 #
 # Basic Latin
@@ -1690,16 +1690,16 @@ filledstopabove 06EC
 meembelow 06ED
 dalinvertedV 06EE
 rehinvertedV 06EF
-zerofar 06F0
-onefar 06F1
-twofar 06F2
-threefar 06F3
-fourfar 06F4
-fivefar 06F5
-sixfar 06F6
-sevenfar 06F7
-eightfar 06F8
-ninefar 06F9
+sefr 06F0
+yek 06F1
+do 06F2
+seh 06F3
+chahar 06F4
+panj 06F5
+shish 06F6
+haft 06F7
+hasht 06F8
+noh 06F9
 sheendotbelow 06FA
 daddotbelow 06FB
 ghaindotbelow 06FC
@@ -9573,6 +9573,79 @@ interlinearseparator FFFA
 interlinearterminator FFFB
 replacementcharobj FFFC
 replacementchar FFFD
+# Zanabazar Square
+zanb:a 11A00
+zanb:vowelsigni 11A01
+zanb:vowelsignue 11A02
+zanb:vowelsignu 11A03
+zanb:vowelsigne 11A04
+zanb:vowelsignoe 11A05
+zanb:vowelsigno 11A06
+zanb:vowelsignai 11A07
+zanb:vowelsignau 11A08
+zanb:vowelsignreversedi 11A09
+zanb:vowellengthmark 11A0A
+zanb:ka 11A0B
+zanb:kha 11A0C
+zanb:ga 11A0D
+zanb:gha 11A0E
+zanb:nga 11A0F
+zanb:ca 11A10
+zanb:cha 11A11
+zanb:ja 11A12
+zanb:nya 11A13
+zanb:tta 11A14
+zanb:ttha 11A15
+zanb:dda 11A16
+zanb:ddha 11A17
+zanb:nna 11A18
+zanb:ta 11A19
+zanb:tha 11A1A
+zanb:da 11A1B
+zanb:dha 11A1C
+zanb:na 11A1D
+zanb:pa 11A1E
+zanb:pha 11A1F
+zanb:ba 11A20
+zanb:bha 11A21
+zanb:ma 11A22
+zanb:tsa 11A23
+zanb:tsha 11A24
+zanb:dza 11A25
+zanb:dzha 11A26
+zanb:zha 11A27
+zanb:za 11A28
+zanb:dashA 11A29
+zanb:ya 11A2A
+zanb:ra 11A2B
+zanb:la 11A2C
+zanb:va 11A2D
+zanb:sha 11A2E
+zanb:ssa 11A2F
+zanb:sa 11A30
+zanb:ha 11A31
+zanb:kssa 11A32
+zanb:finalconsonantmark 11A33
+zanb:signvirama 11A34
+zanb:signcandrabindu 11A35
+zanb:signcandrabinduwithornament 11A36
+zanb:signcandrawithornament 11A37
+zanb:signanusvara 11A38
+zanb:signvisarga 11A39
+zanb:raclusterinit 11A3A
+zanb:yaclusterfina 11A3B
+zanb:raclusterfina 11A3C
+zanb:laclusterfina 11A3D
+zanb:vaclusterfina 11A3E
+zanb:initialheadmark 11A3F
+zanb:closingheadmark 11A40
+zanb:marktsheg 11A41
+zanb:markshad 11A42
+zanb:markdoubleshad 11A43
+zanb:marklongtsheg 11A44
+zanb:initialheadmarkdbllined 11A45
+zanb:closingheadmarkdbllined 11A46
+zanb:subjoiner 11A47
 # Domino Tiles
 dominohorizontalback 1F030
 dominohorizontal_00_00 1F031
