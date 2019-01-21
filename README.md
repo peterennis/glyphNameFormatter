@@ -19,6 +19,7 @@ Look at `/names/glyphNamesToUnicode.txt` for a useful name to unicode map.
 
 Release 0.2 offers more ranges from Unicode 10.0.0.
 Release 0.3 offers more ranges from Unicode 11.0.0.
+Release 0.4 fixes a bug in the conflict analysis. Better names for all.
 
 ### Contributions
 
@@ -49,7 +50,7 @@ After all the processing is done, the lists can be used with a couple of conveni
 * Keep script prefix or suffix short
 * Some scripts already have a preference for pre- or suffix.
 * Some names look better with camelCase.
-* 
+
 ## Generating lists
 
 Run `data/buildFlatUnicodeList.py` to download the current (or previous) data from Unicode.org. This is a large file. This script downloads and processes the data to a  more practical size, stored in `data/flatUnicode.txt`.
