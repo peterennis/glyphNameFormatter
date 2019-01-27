@@ -85,7 +85,6 @@ def _parse(path):
 			if not l: continue
 			if l[0]=="#": continue
 			parts = l.split(" ")
-			print('parts', parts)
 			assert(len(parts)==3)
 			name = parts[0]
 			value = int(parts[1], 16)
