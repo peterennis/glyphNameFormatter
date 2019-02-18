@@ -21,7 +21,6 @@ scriptConflictNames = [
     "bowtie",
     "braceleft",
     "braceright",
-    "chi",
     "cjkcompatibilityideograph#",
     "cjkunifiedideograph#",
     "colon",

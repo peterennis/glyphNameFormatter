@@ -61,9 +61,6 @@
     7D : braceright                                        braceright               braceright                              Basic Latin                             RIGHT CURLY BRACKET 
   FE5C : braceright                                        bracerightsmall          braceright                              Small Form Variants                     SMALL RIGHT CURLY BRACKET
 
-   3C7 : chi                                               chi                      chi                                     Greek and Coptic                        GREEK SMALL LETTER CHI
-  AB53 : chi                                               -                        chi                                     Latin Extended-E                        LATIN SMALL LETTER CHI
-
 
 
     3A : colon                                             colon                    colon                                   Basic Latin                             COLON               
@@ -252,7 +249,7 @@
     30 : zero                                              zero                     zero                                    Basic Latin                             DIGIT ZERO          
    660 : zero                                              arZero                   zero                                    Arabic                                  ARABIC-INDIC DIGIT ZERO
   A9D0 : zero                                              -                        zero                                    Javanese                                JAVANESE DIGIT ZERO 
-# 80 names with conflicts, affecting 172 unicodes
+# 79 names with conflicts, affecting 170 unicodes
 
 
 Conflicts by rangename
@@ -356,7 +353,6 @@ Greek and Coptic
    3A9 : Omega                                             Omega                    Omega                                   Greek and Coptic                        GREEK CAPITAL LETTER OMEGA
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        GREEK SMALL LETTER ALPHA
    3B2 : beta                                              beta                     beta                                    Greek and Coptic                        GREEK SMALL LETTER BETA
-   3C7 : chi                                               chi                      chi                                     Greek and Coptic                        GREEK SMALL LETTER CHI
    3B3 : gamma                                             gamma                    gamma                                   Greek and Coptic                        GREEK SMALL LETTER GAMMA
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        GREEK SMALL LETTER IOTA
    3C9 : omega                                             omega                    omega                                   Greek and Coptic                        GREEK SMALL LETTER OMEGA
@@ -409,7 +405,6 @@ Latin Extended-D
   A7B7 : omega                                             -                        omega                                   Latin Extended-D                        LATIN SMALL LETTER OMEGA
 
 Latin Extended-E
-  AB53 : chi                                               -                        chi                                     Latin Extended-E                        LATIN SMALL LETTER CHI
   AB49 : rtail                                             -                        rtail                                   Latin Extended-E                        LATIN SMALL LETTER R WITH CROSSED-TAIL
 
 Latin-1 Supplement
