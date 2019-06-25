@@ -6,7 +6,7 @@ def process(self):
     # self.compress()
     #self.edit("REVERSED")
     if self.has("REVERSED"):
-    	self.replace("REVERSED", "reversed")
+        self.replace("REVERSED", "reversed")
     if self.has("MIDDLE"):
         self.replace("MIDDLE", "middle")
         self.edit("WITH")

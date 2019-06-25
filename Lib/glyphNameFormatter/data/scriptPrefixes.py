@@ -91,6 +91,7 @@ _scriptPrefixes = {
     'fullwidth': 'fwd',
     'halfwidth': 'hwd',
     'greek': 'gr',
+    'georgian': '{glyphName}Geor',
     'hangul': 'ko',
     'hebrew': '{glyphName}{scriptSeparator}hb',
     'hiragana': 'hira',
