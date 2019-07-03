@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.4 - git commit: 444
+# GlyphNameFormatter version 0.4 - git commit: 445
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/2363e32
-# Generated on 2019 07 03 13:00:56
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/3eb599f
+# Generated on 2019 07 03 17:46:42
 # <glyphName> <hex unicode>
 # Separator "-"
 # Prefixed "False"
@@ -1769,8 +1769,8 @@ i-deva 0907
 ii-deva 0908
 u-deva 0909
 uu-deva 090A
-rvocal-deva 090B
-lvocal-deva 090C
+vocalicr-deva 090B
+vocalicl-deva 090C
 ecandra-deva 090D
 eshort-deva 090E
 e-deva 090F
@@ -1825,8 +1825,8 @@ isign-deva 093F
 iisign-deva 0940
 usign-deva 0941
 uusign-deva 0942
-rvocalsign-deva 0943
-rrvocalsign-deva 0944
+vocalicrsign-deva 0943
+vocalicrrsign-deva 0944
 esigncandra-deva 0945
 esignshort-deva 0946
 esign-deva 0947
@@ -1843,7 +1843,7 @@ udatta-deva 0951
 anudatta-deva 0952
 grave-deva 0953
 acute-deva 0954
-signelongcandra-deva 0955
+longesigncandra-deva 0955
 uesign-deva 0956
 uuesign-deva 0957
 qa-deva 0958
@@ -1854,10 +1854,10 @@ dddha-deva 095C
 rha-deva 095D
 fa-deva 095E
 yya-deva 095F
-rrvocal-deva 0960
-llvocal-deva 0961
-lvocalsign-deva 0962
-llvocalsign-deva 0963
+vocalicrr-deva 0960
+vocalicll-deva 0961
+vocaliclsign-deva 0962
+vocalicllsign-deva 0963
 danda-deva 0964
 dbldanda-deva 0965
 zero-deva 0966
@@ -2166,8 +2166,8 @@ i-orya 0B07
 ii-orya 0B08
 u-orya 0B09
 uu-orya 0B0A
-rvocal-orya 0B0B
-lvocal-orya 0B0C
+vocalicr-orya 0B0B
+vocalicl-orya 0B0C
 e-orya 0B0F
 ai-orya 0B10
 o-orya 0B13
@@ -2213,8 +2213,8 @@ isign-orya 0B3F
 iisign-orya 0B40
 usign-orya 0B41
 uusign-orya 0B42
-rvocalsign-orya 0B43
-rrvocalsign-orya 0B44
+vocalicrsign-orya 0B43
+vocalicrrsign-orya 0B44
 esign-orya 0B47
 aisign-orya 0B48
 osign-orya 0B4B
@@ -2225,10 +2225,10 @@ aulengthmark-orya 0B57
 rra-orya 0B5C
 rha-orya 0B5D
 yya-orya 0B5F
-rrvocal-orya 0B60
-llvocal-orya 0B61
-lvocalsign-orya 0B62
-llvocalsign-orya 0B63
+vocalicrr-orya 0B60
+vocalicll-orya 0B61
+vocaliclsign-orya 0B62
+vocalicllsign-orya 0B63
 zero-orya 0B66
 one-orya 0B67
 two-orya 0B68
@@ -2332,8 +2332,8 @@ i-telu 0C07
 ii-telu 0C08
 u-telu 0C09
 uu-telu 0C0A
-rvocal-telu 0C0B
-lvocal-telu 0C0C
+vocalicr-telu 0C0B
+vocalicl-telu 0C0C
 e-telu 0C0E
 ee-telu 0C0F
 ai-telu 0C10
@@ -2382,8 +2382,8 @@ isign-telu 0C3F
 iisign-telu 0C40
 usign-telu 0C41
 uusign-telu 0C42
-rsignvocal-telu 0C43
-rrsignvocal-telu 0C44
+vocalicrsign-telu 0C43
+vocalicrrsign-telu 0C44
 esign-telu 0C46
 eesign-telu 0C47
 aisign-telu 0C48
@@ -2396,10 +2396,10 @@ ailengthmark-telu 0C56
 tsa-telu 0C58
 dza-telu 0C59
 rrra-telu 0C5A
-rrvocal-telu 0C60
-llvocal-telu 0C61
-lsignvocal-telu 0C62
-llsignvocal-telu 0C63
+vocalicrr-telu 0C60
+vocalicll-telu 0C61
+vocaliclsign-telu 0C62
+vocalicllsign-telu 0C63
 zero-telu 0C66
 one-telu 0C67
 two-telu 0C68
@@ -2637,10 +2637,10 @@ i-sinh 0D89
 ii-sinh 0D8A
 u-sinh 0D8B
 uu-sinh 0D8C
-rvocal-sinh 0D8D
-rrvocal-sinh 0D8E
-lvocal-sinh 0D8F
-llvocal-sinh 0D90
+vocalicr-sinh 0D8D
+vocalicrr-sinh 0D8E
+vocalicl-sinh 0D8F
+vocalicll-sinh 0D90
 e-sinh 0D91
 ee-sinh 0D92
 ai-sinh 0D93
@@ -2696,14 +2696,14 @@ isign-sinh 0DD2
 iisign-sinh 0DD3
 usign-sinh 0DD4
 uusign-sinh 0DD6
-rvocalsign-sinh 0DD8
+vocalicrsign-sinh 0DD8
 esign-sinh 0DD9
 eesign-sinh 0DDA
 aisign-sinh 0DDB
 osign-sinh 0DDC
 oosign-sinh 0DDD
 ausign-sinh 0DDE
-lvocalsign-sinh 0DDF
+vocaliclsign-sinh 0DDF
 lithzero-sinh 0DE6
 lithone-sinh 0DE7
 lithtwo-sinh 0DE8
@@ -2714,8 +2714,8 @@ lithsix-sinh 0DEC
 lithseven-sinh 0DED
 litheight-sinh 0DEE
 lithnine-sinh 0DEF
-rrvocalsign-sinh 0DF2
-llvocalsign-sinh 0DF3
+vocalicrrsign-sinh 0DF2
+vocalicllsign-sinh 0DF3
 kunddaliya-sinh 0DF4
 # Thai
 kokai-thai 0E01

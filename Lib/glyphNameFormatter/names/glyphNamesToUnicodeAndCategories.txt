@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.4 - git commit: 444
+# GlyphNameFormatter version 0.4 - git commit: 445
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/2363e32
-# Generated on 2019 07 03 13:00:44
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/3eb599f
+# Generated on 2019 07 03 17:46:31
 # <glyphName> <hex unicode> <unicodeCategory>
 #
 # Basic Latin
@@ -1767,8 +1767,8 @@ deva:i 0907 Lo
 deva:ii 0908 Lo
 deva:u 0909 Lo
 deva:uu 090A Lo
-deva:rvocal 090B Lo
-deva:lvocal 090C Lo
+deva:vocalicr 090B Lo
+deva:vocalicl 090C Lo
 deva:ecandra 090D Lo
 deva:eshort 090E Lo
 deva:e 090F Lo
@@ -1823,8 +1823,8 @@ deva:isign 093F Mc
 deva:iisign 0940 Mc
 deva:usign 0941 Mn
 deva:uusign 0942 Mn
-deva:rvocalsign 0943 Mn
-deva:rrvocalsign 0944 Mn
+deva:vocalicrsign 0943 Mn
+deva:vocalicrrsign 0944 Mn
 deva:esigncandra 0945 Mn
 deva:esignshort 0946 Mn
 deva:esign 0947 Mn
@@ -1841,7 +1841,7 @@ deva:udatta 0951 Mn
 deva:anudatta 0952 Mn
 deva:grave 0953 Mn
 deva:acute 0954 Mn
-deva:signelongcandra 0955 Mn
+deva:longesigncandra 0955 Mn
 deva:uesign 0956 Mn
 deva:uuesign 0957 Mn
 deva:qa 0958 Lo
@@ -1852,10 +1852,10 @@ deva:dddha 095C Lo
 deva:rha 095D Lo
 deva:fa 095E Lo
 deva:yya 095F Lo
-deva:rrvocal 0960 Lo
-deva:llvocal 0961 Lo
-deva:lvocalsign 0962 Mn
-deva:llvocalsign 0963 Mn
+deva:vocalicrr 0960 Lo
+deva:vocalicll 0961 Lo
+deva:vocaliclsign 0962 Mn
+deva:vocalicllsign 0963 Mn
 deva:danda 0964 Po
 deva:dbldanda 0965 Po
 deva:zero 0966 Nd
@@ -2164,8 +2164,8 @@ orya:i 0B07 Lo
 orya:ii 0B08 Lo
 orya:u 0B09 Lo
 orya:uu 0B0A Lo
-orya:rvocal 0B0B Lo
-orya:lvocal 0B0C Lo
+orya:vocalicr 0B0B Lo
+orya:vocalicl 0B0C Lo
 orya:e 0B0F Lo
 orya:ai 0B10 Lo
 orya:o 0B13 Lo
@@ -2211,8 +2211,8 @@ orya:isign 0B3F Mn
 orya:iisign 0B40 Mc
 orya:usign 0B41 Mn
 orya:uusign 0B42 Mn
-orya:rvocalsign 0B43 Mn
-orya:rrvocalsign 0B44 Mn
+orya:vocalicrsign 0B43 Mn
+orya:vocalicrrsign 0B44 Mn
 orya:esign 0B47 Mc
 orya:aisign 0B48 Mc
 orya:osign 0B4B Mc
@@ -2223,10 +2223,10 @@ orya:aulengthmark 0B57 Mc
 orya:rra 0B5C Lo
 orya:rha 0B5D Lo
 orya:yya 0B5F Lo
-orya:rrvocal 0B60 Lo
-orya:llvocal 0B61 Lo
-orya:lvocalsign 0B62 Mn
-orya:llvocalsign 0B63 Mn
+orya:vocalicrr 0B60 Lo
+orya:vocalicll 0B61 Lo
+orya:vocaliclsign 0B62 Mn
+orya:vocalicllsign 0B63 Mn
 orya:zero 0B66 Nd
 orya:one 0B67 Nd
 orya:two 0B68 Nd
@@ -2330,8 +2330,8 @@ telu:i 0C07 Lo
 telu:ii 0C08 Lo
 telu:u 0C09 Lo
 telu:uu 0C0A Lo
-telu:rvocal 0C0B Lo
-telu:lvocal 0C0C Lo
+telu:vocalicr 0C0B Lo
+telu:vocalicl 0C0C Lo
 telu:e 0C0E Lo
 telu:ee 0C0F Lo
 telu:ai 0C10 Lo
@@ -2380,8 +2380,8 @@ telu:isign 0C3F Mn
 telu:iisign 0C40 Mn
 telu:usign 0C41 Mc
 telu:uusign 0C42 Mc
-telu:rsignvocal 0C43 Mc
-telu:rrsignvocal 0C44 Mc
+telu:vocalicrsign 0C43 Mc
+telu:vocalicrrsign 0C44 Mc
 telu:esign 0C46 Mn
 telu:eesign 0C47 Mn
 telu:aisign 0C48 Mn
@@ -2394,10 +2394,10 @@ telu:ailengthmark 0C56 Mn
 telu:tsa 0C58 Lo
 telu:dza 0C59 Lo
 telu:rrra 0C5A Lo
-telu:rrvocal 0C60 Lo
-telu:llvocal 0C61 Lo
-telu:lsignvocal 0C62 Mn
-telu:llsignvocal 0C63 Mn
+telu:vocalicrr 0C60 Lo
+telu:vocalicll 0C61 Lo
+telu:vocaliclsign 0C62 Mn
+telu:vocalicllsign 0C63 Mn
 telu:zero 0C66 Nd
 telu:one 0C67 Nd
 telu:two 0C68 Nd
@@ -2635,10 +2635,10 @@ sinh:i 0D89 Lo
 sinh:ii 0D8A Lo
 sinh:u 0D8B Lo
 sinh:uu 0D8C Lo
-sinh:rvocal 0D8D Lo
-sinh:rrvocal 0D8E Lo
-sinh:lvocal 0D8F Lo
-sinh:llvocal 0D90 Lo
+sinh:vocalicr 0D8D Lo
+sinh:vocalicrr 0D8E Lo
+sinh:vocalicl 0D8F Lo
+sinh:vocalicll 0D90 Lo
 sinh:e 0D91 Lo
 sinh:ee 0D92 Lo
 sinh:ai 0D93 Lo
@@ -2694,14 +2694,14 @@ sinh:isign 0DD2 Mn
 sinh:iisign 0DD3 Mn
 sinh:usign 0DD4 Mn
 sinh:uusign 0DD6 Mn
-sinh:rvocalsign 0DD8 Mc
+sinh:vocalicrsign 0DD8 Mc
 sinh:esign 0DD9 Mc
 sinh:eesign 0DDA Mc
 sinh:aisign 0DDB Mc
 sinh:osign 0DDC Mc
 sinh:oosign 0DDD Mc
 sinh:ausign 0DDE Mc
-sinh:lvocalsign 0DDF Mc
+sinh:vocaliclsign 0DDF Mc
 sinh:lithzero 0DE6 Nd
 sinh:lithone 0DE7 Nd
 sinh:lithtwo 0DE8 Nd
@@ -2712,8 +2712,8 @@ sinh:lithsix 0DEC Nd
 sinh:lithseven 0DED Nd
 sinh:litheight 0DEE Nd
 sinh:lithnine 0DEF Nd
-sinh:rrvocalsign 0DF2 Mc
-sinh:llvocalsign 0DF3 Mc
+sinh:vocalicrrsign 0DF2 Mc
+sinh:vocalicllsign 0DF3 Mc
 sinh:kunddaliya 0DF4 Po
 # Thai
 thai:kokai 0E01 Lo

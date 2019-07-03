@@ -2,14 +2,16 @@
 def process(self):
     self.edit("DEVANAGARI")
 
+    self.edit("LONG E", "longe")
     # parts
     self.edit("LETTER")
     self.edit("DIGIT")
-    self.edit("VOWEL SIGN VOCALIC", "vocalsign")
-    self.edit("VOWEL SIGN", "sign")
-    self.edit("VOCALIC", "vocal")
 
-    self.edit("LONG E", "elong")
+    #self.edit("VOWEL SIGN VOCALIC", "vocalsign")
+    self.edit("VOWEL SIGN", "sign")
+    #self.edit("VOCALIC", "vocal")
+
+    self.edit("CANDRA LONG", "candralong")
     self.edit("SHORT", "short")
     self.edit("DOUBLE", "dbl")
 
@@ -33,8 +35,11 @@ def process(self):
 
     # AGD uses camelcase, but there do not seem to be casing differences between the letters
     self.lower()
+    self.compress()
     self.scriptPrefix()
 
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange
     printRange("Devanagari")
+    from glyphNameFormatter.tools import debug
+    debug(0x0955)
