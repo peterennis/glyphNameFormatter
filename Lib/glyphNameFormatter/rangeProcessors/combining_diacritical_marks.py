@@ -6,6 +6,7 @@ def process(self):
         ("COMBINING GRAVE ACCENT", "grave"),   
         ("COMBINING TILDE", "tilde"),   
         ("COMBINING HOOK ABOVE", "hook above"),   
+        ("COMBINING DOT BELOW", "dot below"),   
     ]
     for a, b in AGLOverrides:
         if a == self.uniName:
@@ -107,3 +108,7 @@ def process(self):
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange
     printRange("Combining Diacritical Marks")
+
+
+    #from glyphNameFormatter.tools import debug
+    #debug(0x0323)
