@@ -112,6 +112,8 @@ def n2jT(name):
 
 def u2r(value):
 	"""Unicode value to range name"""
+	if value is None:
+		return None
 	for k, v in ranges.items():
 		if k[0]<=value<=k[1]:
 			return v

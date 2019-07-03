@@ -1,6 +1,6 @@
 
 def process(self):
-    self.edit("MTAVRULI", "Mtavruli")
+    self.edit("MTAVRULI", "Geor")	#Mtavruli
     self.processAs("Georgian")
 
 

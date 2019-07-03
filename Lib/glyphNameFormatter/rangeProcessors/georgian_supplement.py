@@ -2,7 +2,7 @@
 def process(self):
     self.processAs("Georgian")
     if self.has("GEORGIAN SMALL LETTER"):
-        self.suffix("Nuskhuri")
+        self.suffix("Geok")	#Nuskhuri
 
 
 if __name__ == "__main__":

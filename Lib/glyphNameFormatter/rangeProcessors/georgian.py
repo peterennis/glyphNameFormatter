@@ -10,10 +10,10 @@ def process(self):
     self.handleCase()
     if self.has("GEORGIAN LETTER") and  self.uniNumber not in [0x10FC, 0x10FE, 0x10FF]:
         self.edit("LETTER")
-        self.suffix("Mkhedruli")
+        self.suffix("Geor") #Mkhedruli
         self.lower()
     elif self.has("GEORGIAN CAPITAL LETTER"):
-        self.suffix("Asomtavruli")
+        self.suffix("Geok") #Asomtavruli
     self.compress()
     if self.has("GEORGIAN PARAGRAPH SEPARATOR"):
         self.scriptPrefix()

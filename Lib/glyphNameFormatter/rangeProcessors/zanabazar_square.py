@@ -1,6 +1,6 @@
 
 def process(self):
-    self.setExperimental()
+    #self.setExperimental()
     self.edit("LETTER")
     self.edit("SQUARE")
     self.edit("ZANABAZAR")
