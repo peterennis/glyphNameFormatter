@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.4 - git commit: 445
+# GlyphNameFormatter version 0.4 - git commit: 446
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/3eb599f
-# Generated on 2019 07 03 17:46:31
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/17fde65
+# Generated on 2019 07 05 11:39:44
 # <glyphName> <hex unicode> <unicodeCategory>
 #
 # Basic Latin
@@ -1841,7 +1841,7 @@ deva:udatta 0951 Mn
 deva:anudatta 0952 Mn
 deva:grave 0953 Mn
 deva:acute 0954 Mn
-deva:longesigncandra 0955 Mn
+deva:esigncandralong 0955 Mn
 deva:uesign 0956 Mn
 deva:uuesign 0957 Mn
 deva:qa 0958 Lo
