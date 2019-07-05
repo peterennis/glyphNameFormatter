@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.4 - git commit: 446
+# GlyphNameFormatter version 0.4 - git commit: 447
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/17fde65
-# Generated on 2019 07 05 11:39:52
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/68e8791
+# Generated on 2019 07 05 14:22:18
 # <glyphName> <hex unicode>
 # Separator ":"
 # Prefixed "False"
@@ -1897,8 +1897,8 @@ i:beng 0987
 ii:beng 0988
 u:beng 0989
 uu:beng 098A
-rvocal:beng 098B
-lvocal:beng 098C
+vocalicr:beng 098B
+vocalicl:beng 098C
 e:beng 098F
 ai:beng 0990
 o:beng 0993
@@ -1942,8 +1942,8 @@ isign:beng 09BF
 iisign:beng 09C0
 usign:beng 09C1
 uusign:beng 09C2
-rvocalsign:beng 09C3
-rrvocalsign:beng 09C4
+vocalicrsign:beng 09C3
+vocalicrrsign:beng 09C4
 esign:beng 09C7
 aisign:beng 09C8
 osign:beng 09CB
@@ -1954,10 +1954,10 @@ aulengthmark:beng 09D7
 rra:beng 09DC
 rha:beng 09DD
 yya:beng 09DF
-rrvocal:beng 09E0
-llvocal:beng 09E1
-lvocalsign:beng 09E2
-llvocalsign:beng 09E3
+vocalicrr:beng 09E0
+vocalicll:beng 09E1
+vocaliclsign:beng 09E2
+vocalicllsign:beng 09E3
 zero:beng 09E6
 one:beng 09E7
 two:beng 09E8
@@ -2065,7 +2065,7 @@ ekonkar:guru 0A74
 yakashsign:guru 0A75
 abbreviationsign:guru 0A76
 # Gujarati
-binducandra:gujr 0A81
+candrabindu:gujr 0A81
 anusvara:gujr 0A82
 visarga:gujr 0A83
 a:gujr 0A85
@@ -2074,8 +2074,8 @@ i:gujr 0A87
 ii:gujr 0A88
 u:gujr 0A89
 uu:gujr 0A8A
-rvocal:gujr 0A8B
-lvocal:gujr 0A8C
+vocalicr:gujr 0A8B
+vocalicl:gujr 0A8C
 ecandra:gujr 0A8D
 e:gujr 0A8F
 ai:gujr 0A90
@@ -2123,8 +2123,8 @@ isign:gujr 0ABF
 iisign:gujr 0AC0
 usign:gujr 0AC1
 uusign:gujr 0AC2
-rvocalsign:gujr 0AC3
-rrvocalsign:gujr 0AC4
+vocalicrsign:gujr 0AC3
+vocalicrrsign:gujr 0AC4
 esigncandra:gujr 0AC5
 esign:gujr 0AC7
 aisign:gujr 0AC8
@@ -2133,10 +2133,10 @@ osign:gujr 0ACB
 ausign:gujr 0ACC
 virama:gujr 0ACD
 om:gujr 0AD0
-rrvocal:gujr 0AE0
-llvocal:gujr 0AE1
-lvocalsign:gujr 0AE2
-llvocalsign:gujr 0AE3
+vocalicrr:gujr 0AE0
+vocalicll:gujr 0AE1
+vocaliclsign:gujr 0AE2
+vocalicllsign:gujr 0AE3
 zero:gujr 0AE6
 one:gujr 0AE7
 two:gujr 0AE8
@@ -2248,8 +2248,8 @@ onesixteenth:orya 0B75
 oneeighth:orya 0B76
 threesixteenths:orya 0B77
 # Tamil
-anusvarasign:taml 0B82
-visargasign:taml 0B83
+anusvara:taml 0B82
+visarga:taml 0B83
 a:taml 0B85
 aa:taml 0B86
 i:taml 0B87
@@ -2296,7 +2296,7 @@ aisign:taml 0BC8
 osign:taml 0BCA
 oosign:taml 0BCB
 ausign:taml 0BCC
-viramasign:taml 0BCD
+virama:taml 0BCD
 om:taml 0BD0
 aulengthmark:taml 0BD7
 zero:taml 0BE6
@@ -2318,13 +2318,13 @@ yearsign:taml 0BF5
 debitsign:taml 0BF6
 creditsign:taml 0BF7
 asabovesign:taml 0BF8
-rupeesign:taml 0BF9
+rupee:taml 0BF9
 sign:taml 0BFA
 # Telugu
-combiningbinduabovesigncandra:telu 0C00
-bindusigncandra:telu 0C01
-anusvarasign:telu 0C02
-visargasign:telu 0C03
+combiningcandrabinduabovesign:telu 0C00
+candrabindusign:telu 0C01
+anusvara:telu 0C02
+visarga:telu 0C03
 combininganusvaraabovesign:telu 0C04
 a:telu 0C05
 aa:telu 0C06
@@ -2376,7 +2376,7 @@ sha:telu 0C36
 ssa:telu 0C37
 sa:telu 0C38
 ha:telu 0C39
-avagrahasign:telu 0C3D
+avagraha:telu 0C3D
 aasign:telu 0C3E
 isign:telu 0C3F
 iisign:telu 0C40
@@ -2390,7 +2390,7 @@ aisign:telu 0C48
 osign:telu 0C4A
 oosign:telu 0C4B
 ausign:telu 0C4C
-viramasign:telu 0C4D
+virama:telu 0C4D
 lengthmark:telu 0C55
 ailengthmark:telu 0C56
 tsa:telu 0C58
@@ -2704,16 +2704,16 @@ osign:sinh 0DDC
 oosign:sinh 0DDD
 ausign:sinh 0DDE
 vocaliclsign:sinh 0DDF
-lithzero:sinh 0DE6
-lithone:sinh 0DE7
-lithtwo:sinh 0DE8
-liththree:sinh 0DE9
-lithfour:sinh 0DEA
-lithfive:sinh 0DEB
-lithsix:sinh 0DEC
-lithseven:sinh 0DED
-litheight:sinh 0DEE
-lithnine:sinh 0DEF
+zerolith:sinh 0DE6
+onelith:sinh 0DE7
+twolith:sinh 0DE8
+threelith:sinh 0DE9
+fourlith:sinh 0DEA
+fivelith:sinh 0DEB
+sixlith:sinh 0DEC
+sevenlith:sinh 0DED
+eightlith:sinh 0DEE
+ninelith:sinh 0DEF
 vocalicrrsign:sinh 0DF2
 vocalicllsign:sinh 0DF3
 kunddaliya:sinh 0DF4

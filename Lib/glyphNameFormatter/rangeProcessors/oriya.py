@@ -2,6 +2,7 @@
 def process(self):
     self.edit("ORIYA")
     self.edit("LETTER")
+    self.edit("VOWEL SIGN", "sign")
     self.edit("DIGIT")
     self.edit("FRACTION")
     self.processAs("Helper Indic")

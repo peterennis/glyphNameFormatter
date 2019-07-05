@@ -9,6 +9,9 @@ def process(self):
     self.edit("SIGN CANDRABINDU", "candrabindu")
     self.edit("CANDRA", "candra")
 
+    self.edit("RUPEE MARK", "rupeemark")
+    self.edit("RUPEE SIGN", "rupee")
+
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange
     printRange("Helper Indic")
