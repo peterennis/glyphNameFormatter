@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.4 - git commit: 447
+# GlyphNameFormatter version 0.4 - git commit: 448
 # Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/68e8791
-# Generated on 2019 07 05 14:22:23
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/5f64d95
+# Generated on 2019 07 05 14:40:39
 # <glyphName> <hex unicode>
 # Separator "-"
 # Prefixed "False"
@@ -2153,9 +2153,9 @@ zha-gujr 0AF9
 sukun-gujr 0AFA
 shadda-gujr 0AFB
 maddah-gujr 0AFC
-three-dotnuktaabove-gujr 0AFD
+threedotnuktaabove-gujr 0AFD
 circlenuktaabove-gujr 0AFE
-two-circlenuktaabove-gujr 0AFF
+twocirclenuktaabove-gujr 0AFF
 # Oriya
 candrabindu-orya 0B01
 anusvara-orya 0B02

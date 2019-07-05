@@ -12,6 +12,9 @@ def process(self):
     self.edit("VOWEL")
     self.edit("SIGN")
 
+    self.edit("THREE-DOT NUKTA ABOVE", "threedotnuktaabove")
+    self.edit("TWO-CIRCLE NUKTA ABOVE", "twocirclenuktaabove")
+
     self.processAs("Helper Numbers")
     self.lower()
     self.compress()
