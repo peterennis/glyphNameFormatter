@@ -7,6 +7,7 @@ def process(self):
     self.processAs("Basic Latin")
     self.processAs("General Punctuation")
     self.scriptTag = scriptPrefixes["Small Form Variants"]
+    self.suffix("small")
 
 if __name__ == "__main__":
     from glyphNameFormatter.exporters import printRange

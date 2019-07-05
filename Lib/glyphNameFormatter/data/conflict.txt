@@ -34,17 +34,8 @@
    251 : alpha                                             alphalatin               alpha                                   IPA Extensions                          LATIN SMALL LETTER ALPHA
    3B1 : alpha                                             alpha                    alpha                                   Greek and Coptic                        GREEK SMALL LETTER ALPHA
 
-    26 : ampersand                                         ampersand                ampersand                               Basic Latin                             AMPERSAND           
-  FE60 : ampersand                                         -                        ampersand                               Small Form Variants                     SMALL AMPERSAND     
-
-    2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             ASTERISK            
-  FE61 : asterisk                                          asterisksmall            asterisk                                Small Form Variants                     SMALL ASTERISK      
-
  1F476 : baby                                              -                        baby                                    Miscellaneous Symbols and Pictographs   BABY                
  1F6BC : baby                                              -                        baby                                    Transport and Map Symbols               BABY SYMBOL         
-
-    5C : backslash                                         backslash                backslash                               Basic Latin                             REVERSE SOLIDUS     
-  FE68 : backslash                                         -                        backslash                               Small Form Variants                     SMALL REVERSE SOLIDUS
 
   237E : bell                                              -                        bell                                    Miscellaneous Technical                 BELL SYMBOL         
  1F514 : bell                                              -                        bell                                    Miscellaneous Symbols and Pictographs   BELL                
@@ -55,20 +46,10 @@
   22C8 : bowtie                                            -                        bowtie                                  Mathematical Operators                  BOWTIE              
   2445 : bowtie                                            -                        bowtie                                  Optical Character Recognition           OCR BOW TIE         
 
-    7B : braceleft                                         braceleft                braceleft                               Basic Latin                             LEFT CURLY BRACKET  
-  FE5B : braceleft                                         braceleftsmall           braceleft                               Small Form Variants                     SMALL LEFT CURLY BRACKET
 
-    7D : braceright                                        braceright               braceright                              Basic Latin                             RIGHT CURLY BRACKET 
-  FE5C : braceright                                        bracerightsmall          braceright                              Small Form Variants                     SMALL RIGHT CURLY BRACKET
-
-
-
-    3A : colon                                             colon                    colon                                   Basic Latin                             COLON               
-  FE55 : colon                                             colonsmall               colon                                   Small Form Variants                     SMALL COLON         
 
     2C : comma                                             comma                    comma                                   Basic Latin                             COMMA               
    60C : comma                                             arComma                  comma                                   Arabic                                  ARABIC COMMA        
-  FE50 : comma                                             commasmall               comma                                   Small Form Variants                     SMALL COMMA         
 
    606 : cuberoot                                          -                        cuberoot                                Arabic                                  ARABIC-INDIC CUBE ROOT
   221B : cuberoot                                          -                        cuberoot                                Mathematical Operators                  CUBE ROOT           
@@ -85,9 +66,6 @@
   25C7 : diamondwhite                                      whitediamond             diamondwhite                            Geometric Shapes                        WHITE DIAMOND       
   2662 : diamondwhite                                      diamondopen              diamondwhite                            Miscellaneous Symbols                   WHITE DIAMOND SUIT  
 
-    24 : dollar                                            dollar                   dollar                                  Basic Latin                             DOLLAR SIGN         
-  FE69 : dollar                                            dollarsmall              dollar                                  Small Form Variants                     SMALL DOLLAR SIGN   
-
     65 : e                                                 e                        e                                       Basic Latin                             LATIN SMALL LETTER E
    6D0 : e                                                 arE                      e                                       Arabic                                  ARABIC LETTER E     
   A98C : e                                                 -                        e                                       Javanese                                JAVANESE LETTER E   
@@ -96,17 +74,8 @@
    668 : eight                                             arEight                  eight                                   Arabic                                  ARABIC-INDIC DIGIT EIGHT
   A9D8 : eight                                             -                        eight                                   Javanese                                JAVANESE DIGIT EIGHT
 
-  2014 : emdash                                            emdash                   emdash                                  General Punctuation                     EM DASH             
-  FE58 : emdash                                            -                        emdash                                  Small Form Variants                     SMALL EM DASH       
-
-    3D : equal                                             equal                    equal                                   Basic Latin                             EQUALS SIGN         
-  FE66 : equal                                             equalsmall               equal                                   Small Form Variants                     SMALL EQUALS SIGN   
-
    258 : ereversed                                         ereversed                ereversed                               IPA Extensions                          LATIN SMALL LETTER REVERSED E
    44D : ereversed                                         ecyr                     ereversed                               Cyrillic                                CYRILLIC SMALL LETTER E
-
-    21 : exclam                                            exclam                   exclam                                  Basic Latin                             EXCLAMATION MARK    
-  FE57 : exclam                                            -                        exclam                                  Small Form Variants                     SMALL EXCLAMATION MARK
 
     35 : five                                              five                     five                                    Basic Latin                             DIGIT FIVE          
    665 : five                                              arFive                   five                                    Arabic                                  ARABIC-INDIC DIGIT FIVE
@@ -128,28 +97,18 @@
     60 : grave                                             grave                    grave                                   Basic Latin                             GRAVE ACCENT        
   1FEF : grave                                             varia                    grave                                   Greek Extended                          GREEK VARIA         
 
-    3E : greater                                           greater                  greater                                 Basic Latin                             GREATER-THAN SIGN   
-  FE65 : greater                                           greatersmall             greater                                 Small Form Variants                     SMALL GREATER-THAN SIGN
-
    261 : gscript                                           gscript                  gscript                                 IPA Extensions                          LATIN SMALL LETTER SCRIPT G
   210A : gscript                                           gscriptmath              gscript                                 Letterlike Symbols                      SCRIPT SMALL G      
 
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             HYPHEN-MINUS        
   2010 : hyphen                                            hyphentwo                hyphen                                  General Punctuation                     HYPHEN              
-  FE63 : hyphen                                            hyphensmall              hyphen                                  Small Form Variants                     SMALL HYPHEN-MINUS  
 
     69 : i                                                 i                        i                                       Basic Latin                             LATIN SMALL LETTER I
   2C3B : i                                                 -                        i                                       Glagolitic                              GLAGOLITIC SMALL LETTER I
   A986 : i                                                 -                        i                                       Javanese                                JAVANESE LETTER I   
 
-  3001 : ideographiccomma                                  ideographiccomma         ideographiccomma                        CJK Symbols and Punctuation             IDEOGRAPHIC COMMA   
-  FE51 : ideographiccomma                                  -                        ideographiccomma                        Small Form Variants                     SMALL IDEOGRAPHIC COMMA
-
    269 : iota                                              iotalatin                iota                                    IPA Extensions                          LATIN SMALL LETTER IOTA
    3B9 : iota                                              iota                     iota                                    Greek and Coptic                        GREEK SMALL LETTER IOTA
-
-    3C : less                                              less                     less                                    Basic Latin                             LESS-THAN SIGN      
-  FE64 : less                                              lesssmall                less                                    Small Form Variants                     SMALL LESS-THAN SIGN
 
  11C88 : marchenlettera                                    -                        marchenlettera                          Marchen                                 MARCHEN LETTER -A   
  11C8F : marchenlettera                                    -                        marchenlettera                          Marchen                                 MARCHEN LETTER A    
@@ -160,7 +119,6 @@
 
     23 : numbersign                                        numbersign               numbersign                              Basic Latin                             NUMBER SIGN         
    600 : numbersign                                        arNumberSign             numbersign                              Arabic                                  ARABIC NUMBER SIGN  
-  FE5F : numbersign                                        numbersignsmall          numbersign                              Small Form Variants                     SMALL NUMBER SIGN   
 
 
     6F : o                                                 o                        o                                       Basic Latin                             LATIN SMALL LETTER O
@@ -178,10 +136,6 @@
 
     25 : percent                                           percent                  percent                                 Basic Latin                             PERCENT SIGN        
    66A : percent                                           arPercent                percent                                 Arabic                                  ARABIC PERCENT SIGN 
-  FE6A : percent                                           percentsmall             percent                                 Small Form Variants                     SMALL PERCENT SIGN  
-
-    2E : period                                            period                   period                                  Basic Latin                             FULL STOP           
-  FE52 : period                                            periodsmall              period                                  Small Form Variants                     SMALL FULL STOP     
 
    60A : perthousand                                       -                        perthousand                             Arabic                                  ARABIC-INDIC PER TEN THOUSAND SIGN
   2030 : perthousand                                       perthousand              perthousand                             General Punctuation                     PER MILLE SIGN      
@@ -189,13 +143,9 @@
    278 : phi                                               philatin                 phi                                     IPA Extensions                          LATIN SMALL LETTER PHI
    3C6 : phi                                               phi                      phi                                     Greek and Coptic                        GREEK SMALL LETTER PHI
 
-    2B : plus                                              plus                     plus                                    Basic Latin                             PLUS SIGN           
-  FE62 : plus                                              plussmall                plus                                    Small Form Variants                     SMALL PLUS SIGN     
-
     3F : question                                          question                 question                                Basic Latin                             QUESTION MARK       
    37E : question                                          questiongreek            question                                Greek and Coptic                        GREEK QUESTION MARK 
    61F : question                                          arQuestion               question                                Arabic                                  ARABIC QUESTION MARK
-  FE56 : question                                          -                        question                                Small Form Variants                     SMALL QUESTION MARK 
 
    2DA : ring                                              ring                     ring                                    Spacing Modifier Letters                RING ABOVE          
  1F48D : ring                                              -                        ring                                    Miscellaneous Symbols and Pictographs   RING                
@@ -205,7 +155,6 @@
 
     3B : semicolon                                         semicolon                semicolon                               Basic Latin                             SEMICOLON           
    61B : semicolon                                         arSemicolon              semicolon                               Arabic                                  ARABIC SEMICOLON    
-  FE54 : semicolon                                         semicolonsmall           semicolon                               Small Form Variants                     SMALL SEMICOLON     
 
     37 : seven                                             seven                    seven                                   Basic Latin                             DIGIT SEVEN         
    667 : seven                                             arSeven                  seven                                   Arabic                                  ARABIC-INDIC DIGIT SEVEN
@@ -226,12 +175,6 @@
    2DC : tilde                                             tilde                    tilde                                   Spacing Modifier Letters                SMALL TILDE         
   1FC0 : tilde                                             perispomeni              tilde                                   Greek Extended                          GREEK PERISPOMENI   
 
-  3014 : tortoiseshellbracketleft                          tortoiseshellbracketleft tortoiseshellbracketleft                CJK Symbols and Punctuation             LEFT TORTOISE SHELL BRACKET
-  FE5D : tortoiseshellbracketleft                          tortoiseshellbracketleftstortoiseshellbracketleft                Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
-
-  3015 : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               CJK Symbols and Punctuation             RIGHT TORTOISE SHELL BRACKET
-  FE5E : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
-
     32 : two                                               two                      two                                     Basic Latin                             DIGIT TWO           
    662 : two                                               arTwo                    two                                     Arabic                                  ARABIC-INDIC DIGIT TWO
   A9D2 : two                                               -                        two                                     Javanese                                JAVANESE DIGIT TWO  
@@ -249,7 +192,7 @@
     30 : zero                                              zero                     zero                                    Basic Latin                             DIGIT ZERO          
    660 : zero                                              arZero                   zero                                    Arabic                                  ARABIC-INDIC DIGIT ZERO
   A9D0 : zero                                              -                        zero                                    Javanese                                JAVANESE DIGIT ZERO 
-# 79 names with conflicts, affecting 170 unicodes
+# 62 names with conflicts, affecting 130 unicodes
 
 
 Conflicts by rangename
@@ -284,32 +227,19 @@ Arabic
 Basic Latin
     49 : I                                                 I                        I                                       Basic Latin                             LATIN CAPITAL LETTER I
     61 : a                                                 a                        a                                       Basic Latin                             LATIN SMALL LETTER A
-    26 : ampersand                                         ampersand                ampersand                               Basic Latin                             AMPERSAND           
-    2A : asterisk                                          asterisk                 asterisk                                Basic Latin                             ASTERISK            
-    5C : backslash                                         backslash                backslash                               Basic Latin                             REVERSE SOLIDUS     
-    7B : braceleft                                         braceleft                braceleft                               Basic Latin                             LEFT CURLY BRACKET  
-    7D : braceright                                        braceright               braceright                              Basic Latin                             RIGHT CURLY BRACKET 
-    3A : colon                                             colon                    colon                                   Basic Latin                             COLON               
     2C : comma                                             comma                    comma                                   Basic Latin                             COMMA               
-    24 : dollar                                            dollar                   dollar                                  Basic Latin                             DOLLAR SIGN         
     65 : e                                                 e                        e                                       Basic Latin                             LATIN SMALL LETTER E
     38 : eight                                             eight                    eight                                   Basic Latin                             DIGIT EIGHT         
-    3D : equal                                             equal                    equal                                   Basic Latin                             EQUALS SIGN         
-    21 : exclam                                            exclam                   exclam                                  Basic Latin                             EXCLAMATION MARK    
     35 : five                                              five                     five                                    Basic Latin                             DIGIT FIVE          
     34 : four                                              four                     four                                    Basic Latin                             DIGIT FOUR          
     60 : grave                                             grave                    grave                                   Basic Latin                             GRAVE ACCENT        
-    3E : greater                                           greater                  greater                                 Basic Latin                             GREATER-THAN SIGN   
     2D : hyphen                                            hyphen                   hyphen                                  Basic Latin                             HYPHEN-MINUS        
     69 : i                                                 i                        i                                       Basic Latin                             LATIN SMALL LETTER I
-    3C : less                                              less                     less                                    Basic Latin                             LESS-THAN SIGN      
     39 : nine                                              nine                     nine                                    Basic Latin                             DIGIT NINE          
     23 : numbersign                                        numbersign               numbersign                              Basic Latin                             NUMBER SIGN         
     6F : o                                                 o                        o                                       Basic Latin                             LATIN SMALL LETTER O
     31 : one                                               one                      one                                     Basic Latin                             DIGIT ONE           
     25 : percent                                           percent                  percent                                 Basic Latin                             PERCENT SIGN        
-    2E : period                                            period                   period                                  Basic Latin                             FULL STOP           
-    2B : plus                                              plus                     plus                                    Basic Latin                             PLUS SIGN           
     3F : question                                          question                 question                                Basic Latin                             QUESTION MARK       
     3B : semicolon                                         semicolon                semicolon                               Basic Latin                             SEMICOLON           
     37 : seven                                             seven                    seven                                   Basic Latin                             DIGIT SEVEN         
@@ -319,17 +249,11 @@ Basic Latin
     75 : u                                                 u                        u                                       Basic Latin                             LATIN SMALL LETTER U
     30 : zero                                              zero                     zero                                    Basic Latin                             DIGIT ZERO          
 
-CJK Symbols and Punctuation
-  3001 : ideographiccomma                                  ideographiccomma         ideographiccomma                        CJK Symbols and Punctuation             IDEOGRAPHIC COMMA   
-  3014 : tortoiseshellbracketleft                          tortoiseshellbracketleft tortoiseshellbracketleft                CJK Symbols and Punctuation             LEFT TORTOISE SHELL BRACKET
-  3015 : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               CJK Symbols and Punctuation             RIGHT TORTOISE SHELL BRACKET
-
 Cyrillic
    42D : Ereversed                                         Ecyr                     Ereversed                               Cyrillic                                CYRILLIC CAPITAL LETTER E
    44D : ereversed                                         ecyr                     ereversed                               Cyrillic                                CYRILLIC SMALL LETTER E
 
 General Punctuation
-  2014 : emdash                                            emdash                   emdash                                  General Punctuation                     EM DASH             
   2010 : hyphen                                            hyphentwo                hyphen                                  General Punctuation                     HYPHEN              
   2030 : perthousand                                       perthousand              perthousand                             General Punctuation                     PER MILLE SIGN      
 
@@ -443,31 +367,6 @@ Optical Character Recognition
 
 Phonetic Extensions
   1D25 : ain                                               -                        ain                                     Phonetic Extensions                     LATIN LETTER AIN    
-
-Small Form Variants
-  FE60 : ampersand                                         -                        ampersand                               Small Form Variants                     SMALL AMPERSAND     
-  FE61 : asterisk                                          asterisksmall            asterisk                                Small Form Variants                     SMALL ASTERISK      
-  FE68 : backslash                                         -                        backslash                               Small Form Variants                     SMALL REVERSE SOLIDUS
-  FE5B : braceleft                                         braceleftsmall           braceleft                               Small Form Variants                     SMALL LEFT CURLY BRACKET
-  FE5C : braceright                                        bracerightsmall          braceright                              Small Form Variants                     SMALL RIGHT CURLY BRACKET
-  FE55 : colon                                             colonsmall               colon                                   Small Form Variants                     SMALL COLON         
-  FE50 : comma                                             commasmall               comma                                   Small Form Variants                     SMALL COMMA         
-  FE69 : dollar                                            dollarsmall              dollar                                  Small Form Variants                     SMALL DOLLAR SIGN   
-  FE58 : emdash                                            -                        emdash                                  Small Form Variants                     SMALL EM DASH       
-  FE66 : equal                                             equalsmall               equal                                   Small Form Variants                     SMALL EQUALS SIGN   
-  FE57 : exclam                                            -                        exclam                                  Small Form Variants                     SMALL EXCLAMATION MARK
-  FE65 : greater                                           greatersmall             greater                                 Small Form Variants                     SMALL GREATER-THAN SIGN
-  FE63 : hyphen                                            hyphensmall              hyphen                                  Small Form Variants                     SMALL HYPHEN-MINUS  
-  FE51 : ideographiccomma                                  -                        ideographiccomma                        Small Form Variants                     SMALL IDEOGRAPHIC COMMA
-  FE64 : less                                              lesssmall                less                                    Small Form Variants                     SMALL LESS-THAN SIGN
-  FE5F : numbersign                                        numbersignsmall          numbersign                              Small Form Variants                     SMALL NUMBER SIGN   
-  FE6A : percent                                           percentsmall             percent                                 Small Form Variants                     SMALL PERCENT SIGN  
-  FE52 : period                                            periodsmall              period                                  Small Form Variants                     SMALL FULL STOP     
-  FE62 : plus                                              plussmall                plus                                    Small Form Variants                     SMALL PLUS SIGN     
-  FE56 : question                                          -                        question                                Small Form Variants                     SMALL QUESTION MARK 
-  FE54 : semicolon                                         semicolonsmall           semicolon                               Small Form Variants                     SMALL SEMICOLON     
-  FE5D : tortoiseshellbracketleft                          tortoiseshellbracketleftstortoiseshellbracketleft                Small Form Variants                     SMALL LEFT TORTOISE SHELL BRACKET
-  FE5E : tortoiseshellbracketright                         tortoiseshellbracketrighttortoiseshellbracketright               Small Form Variants                     SMALL RIGHT TORTOISE SHELL BRACKET
 
 Soyombo
  11A50 : soyombolettera                                    -                        soyombolettera                          Soyombo                                 SOYOMBO LETTER A    

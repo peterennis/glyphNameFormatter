@@ -91,7 +91,9 @@ def process(self):
 
     self.edit("SINHALA")
     self.edit("LETTER")
+    self.edit("LITH", "lith")
     self.edit("DIGIT")
+    self.edit("VOWEL SIGN", "sign")
     self.edit("PUNCTUATION")
     self.processAs("Helper Indic")
     self.processAs("Helper Numbers")

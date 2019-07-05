@@ -35,10 +35,11 @@ def debug(uniNumber):
     print("Debugging: %s" % name)
     print("uninumber: %04X" % uniNumber)
     print("uni range: %s" % g.uniRangeName)
-    print("{0:<5} {1:<30} {2:<30} {3:<30} {4:<30}".format("Step", "Look For", "Replace With", "Before", "After"))
+    cols = "{0:<5} {1:<40} {2:<40} {3:<40} {4:<40} {5:<50}"
+    print(cols.format("Step", "Look For", "Replace With", "Before", "After", "Suffixen"))
     for lookFor, replaceWith, before, after in g._log:
         count += 1
-        print("{0:<5} {1:<30} {2:<30} {3:<30} {4:<30}".format(count, lookFor, replaceWith, before, after))
+        print(cols.format(count, lookFor, replaceWith, before, after, ", ".join(g.suffixParts)))
     print("\nSuffixes: %s" % " ".join(g.suffixParts))
 
 
