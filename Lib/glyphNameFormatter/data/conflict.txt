@@ -46,6 +46,9 @@
   22C8 : bowtie                                            -                        bowtie                                  Mathematical Operators                  BOWTIE              
   2445 : bowtie                                            -                        bowtie                                  Optical Character Recognition           OCR BOW TIE         
 
+  2441 : chair                                             chair                    chair                                   Optical Character Recognition           OCR CHAIR           
+ 1FA91 : chair                                             -                        chair                                   Symbols and Pictographs Extended-A      CHAIR               
+
 
 
     2C : comma                                             comma                    comma                                   Basic Latin                             COMMA               
@@ -192,7 +195,7 @@
     30 : zero                                              zero                     zero                                    Basic Latin                             DIGIT ZERO          
    660 : zero                                              arZero                   zero                                    Arabic                                  ARABIC-INDIC DIGIT ZERO
   A9D0 : zero                                              -                        zero                                    Javanese                                JAVANESE DIGIT ZERO 
-# 62 names with conflicts, affecting 130 unicodes
+# 63 names with conflicts, affecting 132 unicodes
 
 
 Conflicts by rangename
@@ -363,6 +366,7 @@ Miscellaneous Technical
 
 Optical Character Recognition
   2445 : bowtie                                            -                        bowtie                                  Optical Character Recognition           OCR BOW TIE         
+  2441 : chair                                             chair                    chair                                   Optical Character Recognition           OCR CHAIR           
   2448 : dash                                              -                        dash                                    Optical Character Recognition           OCR DASH            
 
 Phonetic Extensions
@@ -375,6 +379,9 @@ Soyombo
 Spacing Modifier Letters
    2DA : ring                                              ring                     ring                                    Spacing Modifier Letters                RING ABOVE          
    2DC : tilde                                             tilde                    tilde                                   Spacing Modifier Letters                SMALL TILDE         
+
+Symbols and Pictographs Extended-A
+ 1FA91 : chair                                             -                        chair                                   Symbols and Pictographs Extended-A      CHAIR               
 
 Transport and Map Symbols
  1F6BC : baby                                              -                        baby                                    Transport and Map Symbols               BABY SYMBOL         

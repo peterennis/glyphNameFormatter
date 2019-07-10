@@ -1,6 +1,6 @@
 # Tamil 00B80 - 00BFF
-0B82	taml:anusvarasign	TAMIL SIGN ANUSVARA
-0B83	taml:visargasign	TAMIL SIGN VISARGA
+0B82	taml:anusvara	TAMIL SIGN ANUSVARA
+0B83	taml:visarga	TAMIL SIGN VISARGA
 0B85	taml:a	TAMIL LETTER A
 0B86	taml:aa	TAMIL LETTER AA
 0B87	taml:i	TAMIL LETTER I
@@ -47,7 +47,7 @@
 0BCA	taml:osign	TAMIL VOWEL SIGN O
 0BCB	taml:oosign	TAMIL VOWEL SIGN OO
 0BCC	taml:ausign	TAMIL VOWEL SIGN AU
-0BCD	taml:viramasign	TAMIL SIGN VIRAMA
+0BCD	taml:virama	TAMIL SIGN VIRAMA
 0BD0	taml:om	TAMIL OM
 0BD7	taml:aulengthmark	TAMIL AU LENGTH MARK
 0BE6	taml:zero	TAMIL DIGIT ZERO
@@ -69,5 +69,5 @@
 0BF6	taml:debitsign	TAMIL DEBIT SIGN
 0BF7	taml:creditsign	TAMIL CREDIT SIGN
 0BF8	taml:asabovesign	TAMIL AS ABOVE SIGN
-0BF9	taml:rupeesign	TAMIL RUPEE SIGN
+0BF9	taml:rupee	TAMIL RUPEE SIGN
 0BFA	taml:sign	TAMIL NUMBER SIGN

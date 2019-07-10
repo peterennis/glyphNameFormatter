@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.4 - git commit: 448
-# Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/5f64d95
-# Generated on 2019 07 05 14:40:27
+# GlyphNameFormatter version 0.4 - git commit: 451
+# Unicode version: Unicode 12.1.0
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/850f238
+# Generated on 2019 07 10 15:06:30
 # <glyphName> <hex unicode> <unicodeCategory>
 #
 # Basic Latin
@@ -1690,16 +1690,16 @@ filledstopabove 06EC Mn
 meembelow 06ED Mn
 dalinvertedV 06EE Lo
 rehinvertedV 06EF Lo
-sefr 06F0 Nd
-yek 06F1 Nd
-do 06F2 Nd
-seh 06F3 Nd
-chahar 06F4 Nd
-panj 06F5 Nd
-shish 06F6 Nd
-haft 06F7 Nd
-hasht 06F8 Nd
-noh 06F9 Nd
+arzero 06F0 Nd
+arone 06F1 Nd
+artwo 06F2 Nd
+arthree 06F3 Nd
+arfour 06F4 Nd
+arfive 06F5 Nd
+arsix 06F6 Nd
+arseven 06F7 Nd
+areight 06F8 Nd
+arnine 06F9 Nd
 sheendotbelow 06FA Lo
 daddotbelow 06FB Lo
 ghaindotbelow 06FC Lo
@@ -2408,6 +2408,7 @@ telu:six 0C6C Nd
 telu:seven 0C6D Nd
 telu:eight 0C6E Nd
 telu:nine 0C6F Nd
+telu:siddhamsign 0C77 Po
 telu:fractionzeroforoddpowersoffour 0C78 No
 telu:fractiononeforoddpowersoffour 0C79 No
 telu:fractiontwoforoddpowersoffour 0C7A No
@@ -3099,7 +3100,7 @@ ynGeor 10F7 Ll
 elifiGeor 10F8 Ll
 turnedganGeor 10F9 Ll
 ainGeor 10FA Ll
-paragraphseparatorGeor 10FB Po
+geor:paragraphseparator 10FB Po
 narmodGeor 10FC Lm
 aenGeor 10FD Ll
 hardsignGeor 10FE Ll
@@ -4143,14 +4144,15 @@ ve:hexiformanusvarasignlong 1CEE Lo
 ve:anusvarasignlong 1CEF Lo
 ve:rthanganusvarasignlong 1CF0 Lo
 ve:anusvaraubhayatomukhasign 1CF1 Lo
-ve:ardhavisargasign 1CF2 Mc
-ve:rotatedardhavisargasign 1CF3 Mc
+ve:ardhavisargasign 1CF2 Lo
+ve:rotatedardhavisargasign 1CF3 Lo
 ve:abovetonecandra 1CF4 Mn
 ve:jihvamuliyasign 1CF5 Lo
 ve:upadhmaniyasign 1CF6 Lo
 ve:atikramasign 1CF7 Mc
 ve:ringabovetone 1CF8 Mn
 ve:ringabovetonedbl 1CF9 Mn
+ve:anusvaraantargomukhasigndbl 1CFA Lo
 # Phonetic Extensions
 Asmall 1D00 Ll
 AEsmall 1D01 Ll
@@ -5899,7 +5901,7 @@ cntr:deleteformtwo 2425 So
 cntr:substituteformtwo 2426 So
 # Optical Character Recognition
 hook 2440 So
-chair 2441 So
+ocr:chair 2441 So
 fork 2442 So
 invertedfork 2443 So
 beltbuckle 2444 So
@@ -7334,6 +7336,7 @@ tripledagger 2E4B Po
 medievalcomma 2E4C Po
 paragraphus 2E4D Po
 punctuselevatus 2E4E Po
+cornishversedivider 2E4F Po
 # CJK Symbols and Punctuation
 ideographicspace 3000 Zs
 ideographiccomma 3001 Po
@@ -7984,6 +7987,7 @@ wacirclekatakana 32FB So
 wicirclekatakana 32FC So
 wecirclekatakana 32FD So
 wocirclekatakana 32FE So
+squareeranamereiwa 32FF So
 # CJK Compatibility
 apaatosquare 3300 So
 aruhuasquare 3301 So
@@ -8396,6 +8400,17 @@ lt:Omega A7B6 Lu
 lt:omega A7B7 Ll
 Ustroke A7B8 Lu
 ustroke A7B9 Ll
+Glottala A7BA Lu
+glottala A7BB Ll
+Glottali A7BC Lu
+glottali A7BD Ll
+Glottalu A7BE Lu
+glottalu A7BF Ll
+Anglicanaw A7C2 Lu
+anglicanaw A7C3 Ll
+Cpalatalhook A7C4 Lu
+Shook A7C5 Lu
+Zpalatalhook A7C6 Lu
 iepigraphicsideways A7F7 Lo
 Hstrokemod A7F8 Lm
 ligatureoemod A7F9 Lm
@@ -8467,7 +8482,7 @@ sukumendutvowel A9B9 Mn
 talingvowel A9BA Mc
 dirgamurevowel A9BB Mc
 pepetvowel A9BC Mn
-keretconsonant A9BD Mc
+keretconsonant A9BD Mn
 pengkalconsonant A9BE Mc
 cakraconsonant A9BF Mc
 pangkon A9C0 Mc
@@ -8552,6 +8567,8 @@ oeopen AB62 Ll
 uo AB63 Ll
 alphainverted AB64 Ll
 lt:Omegasmall AB65 Ll
+dzdigraphretroflexhook AB66 Ll
+tsdigraphretroflexhook AB67 Ll
 # Cherokee Supplement
 chrk:asmall AB70 Ll
 chrk:esmall AB71 Ll
@@ -10113,6 +10130,7 @@ Ycircleblack 1F168 So
 Zcircleblack 1F169 So
 raisedmcsign 1F16A So
 raisedmdsign 1F16B So
+raisedmrsign 1F16C So
 Asquareblack 1F170 So
 Bsquareblack 1F171 So
 Csquareblack 1F172 So
@@ -11136,6 +11154,7 @@ octagonalSign 1F6D1 So
 shoppingTrolley 1F6D2 So
 stupa 1F6D3 So
 pagoda 1F6D4 So
+hinduTemple 1F6D5 So
 hammerAndWrench 1F6E0 So
 shield 1F6E1 So
 oilDrum 1F6E2 So
@@ -11159,3 +11178,4 @@ canoe 1F6F6 So
 sled 1F6F7 So
 flyingSaucer 1F6F8 So
 skateboard 1F6F9 So
+autoRickshaw 1F6FA So

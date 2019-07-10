@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.4 - git commit: 448
-# Unicode version: Unicode 11.0.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/5f64d95
-# Generated on 2019 07 05 14:40:32
+# GlyphNameFormatter version 0.4 - git commit: 451
+# Unicode version: Unicode 12.1.0
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/850f238
+# Generated on 2019 07 10 15:06:35
 # <glyphName> <hex unicode>
 # Separator ":"
 # Prefixed "True"
@@ -1692,16 +1692,16 @@ filledstopabove 06EC
 meembelow 06ED
 dalinvertedV 06EE
 rehinvertedV 06EF
-sefr 06F0
-yek 06F1
-do 06F2
-seh 06F3
-chahar 06F4
-panj 06F5
-shish 06F6
-haft 06F7
-hasht 06F8
-noh 06F9
+arzero 06F0
+arone 06F1
+artwo 06F2
+arthree 06F3
+arfour 06F4
+arfive 06F5
+arsix 06F6
+arseven 06F7
+areight 06F8
+arnine 06F9
 sheendotbelow 06FA
 daddotbelow 06FB
 ghaindotbelow 06FC
@@ -2410,6 +2410,7 @@ telu:six 0C6C
 telu:seven 0C6D
 telu:eight 0C6E
 telu:nine 0C6F
+telu:siddhamsign 0C77
 telu:fractionzeroforoddpowersoffour 0C78
 telu:fractiononeforoddpowersoffour 0C79
 telu:fractiontwoforoddpowersoffour 0C7A
@@ -3101,7 +3102,7 @@ ynGeor 10F7
 elifiGeor 10F8
 turnedganGeor 10F9
 ainGeor 10FA
-paragraphseparatorGeor 10FB
+geor:paragraphseparator 10FB
 narmodGeor 10FC
 aenGeor 10FD
 hardsignGeor 10FE
@@ -4153,6 +4154,7 @@ ve:upadhmaniyasign 1CF6
 ve:atikramasign 1CF7
 ve:ringabovetone 1CF8
 ve:ringabovetonedbl 1CF9
+ve:anusvaraantargomukhasigndbl 1CFA
 # Phonetic Extensions
 Asmall 1D00
 AEsmall 1D01
@@ -5901,7 +5903,7 @@ cntr:deleteformtwo 2425
 cntr:substituteformtwo 2426
 # Optical Character Recognition
 hook 2440
-chair 2441
+ocr:chair 2441
 fork 2442
 invertedfork 2443
 beltbuckle 2444
@@ -7336,6 +7338,7 @@ tripledagger 2E4B
 medievalcomma 2E4C
 paragraphus 2E4D
 punctuselevatus 2E4E
+cornishversedivider 2E4F
 # CJK Symbols and Punctuation
 ideographicspace 3000
 ideographiccomma 3001
@@ -7986,6 +7989,7 @@ wacirclekatakana 32FB
 wicirclekatakana 32FC
 wecirclekatakana 32FD
 wocirclekatakana 32FE
+squareeranamereiwa 32FF
 # CJK Compatibility
 apaatosquare 3300
 aruhuasquare 3301
@@ -8398,6 +8402,17 @@ lt:Omega A7B6
 lt:omega A7B7
 Ustroke A7B8
 ustroke A7B9
+Glottala A7BA
+glottala A7BB
+Glottali A7BC
+glottali A7BD
+Glottalu A7BE
+glottalu A7BF
+Anglicanaw A7C2
+anglicanaw A7C3
+Cpalatalhook A7C4
+Shook A7C5
+Zpalatalhook A7C6
 iepigraphicsideways A7F7
 Hstrokemod A7F8
 ligatureoemod A7F9
@@ -8554,6 +8569,8 @@ oeopen AB62
 uo AB63
 alphainverted AB64
 lt:Omegasmall AB65
+dzdigraphretroflexhook AB66
+tsdigraphretroflexhook AB67
 # Cherokee Supplement
 chrk:asmall AB70
 chrk:esmall AB71
@@ -10115,6 +10132,7 @@ Ycircleblack 1F168
 Zcircleblack 1F169
 raisedmcsign 1F16A
 raisedmdsign 1F16B
+raisedmrsign 1F16C
 Asquareblack 1F170
 Bsquareblack 1F171
 Csquareblack 1F172
@@ -11138,6 +11156,7 @@ octagonalSign 1F6D1
 shoppingTrolley 1F6D2
 stupa 1F6D3
 pagoda 1F6D4
+hinduTemple 1F6D5
 hammerAndWrench 1F6E0
 shield 1F6E1
 oilDrum 1F6E2
@@ -11161,3 +11180,4 @@ canoe 1F6F6
 sled 1F6F7
 flyingSaucer 1F6F8
 skateboard 1F6F9
+autoRickshaw 1F6FA

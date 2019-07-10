@@ -25,9 +25,10 @@ def process(self):
 
     if self.uniNumber in farsiNumbers:
         self.edit("EXTENDED ARABIC-INDIC DIGIT", "")
-        a, b = farsiNumbers.get(self.uniNumber)
-        self.lower()
-        self.edit(a, b)
+        self.scriptPrefix()
+        #a, b = farsiNumbers.get(self.uniNumber)
+        #self.lower()
+        #self.edit(a, b)
 
     self.edit("ARABIC COMMA", "comma")        
     self.edit("ARABIC NUMBER SIGN", "numbersign")        

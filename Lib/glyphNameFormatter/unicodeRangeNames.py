@@ -103,3 +103,8 @@ def getSupportedRangeNames():
         if processor is not None:
             supported.append(name)
     return supported
+
+if __name__ == "__main__":
+    names = getSupportedRangeNames()
+    names.sort()
+    print("\n".join(names))
