@@ -26,11 +26,13 @@ _hasGit = _getHasGit()
 
 def getExportVersionNumber():
     if _hasGit:
-        commitNumber = subprocess.check_output(["git", "rev-list", "HEAD", "--count"], cwd=os.path.dirname(__file__))
-        commitNumber = commitNumber.strip()
-        return "%s - git commit: %s" % (__version__, commitNumber.decode())
+        try:
+            commitNumber = subprocess.check_output(["git", "rev-list", "HEAD", "--count"], cwd=os.path.dirname(__file__))
+            commitNumber = commitNumber.strip()
+            return "%s - git commit: %s" % (__version__, commitNumber.decode())
+        except Exception:
+            pass
     return "%s" % __version__
-
 _versionNumber = getExportVersionNumber()
 
 
