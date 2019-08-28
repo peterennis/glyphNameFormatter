@@ -1,4 +1,3 @@
-from fontTools.misc.py23 import unichr
 import struct
 
 
@@ -15,7 +14,7 @@ def camelCase(pattern):
 
 def unicodeToChar(uni):
     if uni < 0xFFFF:
-        return unichr(uni)
+        return chr(uni)
     else:
         return struct.pack('i', uni).decode('utf-32')
 

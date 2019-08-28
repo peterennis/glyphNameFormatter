@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-
 from __future__ import print_function
-from fontTools.misc.py23 import unicode, PY2
 
 from glyphNameFormatter.unicodeRangeNames import getRangeByName
 from glyphNameFormatter import GlyphName
@@ -44,8 +43,6 @@ def printRange(rangeName, toFile=None):
         txt += g.uniName
         out.append(txt)
     out = "\n".join(out)
-    if PY2:
-        out = out.encode("utf-8")
     if toFile:
         toFile.write(out)
     else:
@@ -90,7 +87,7 @@ def testGLIFFileName(rangeName, toFile=None):
         from ufoLib.filenames import userNameToFileName
 
         def nameToFileName(name):
-            return userNameToFileName(unicode(name))
+            return userNameToFileName(name)
     except:
         # UFO2 robofab
         from robofab.tools.glyphNameSchemes import glyphNameToShortFileName

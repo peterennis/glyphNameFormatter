@@ -1,6 +1,5 @@
 import os
 from xml.etree import cElementTree as ET
-from fontTools.misc.py23 import open
 
 __slots__ = [
     "unicode2name_AGD",
@@ -122,7 +121,7 @@ if os.path.exists(flatUnicodePath):
                 uniLowercase = None
         else:
             uniLowercase = None
-        
+
         if uniUppercase == None and uniLowercase != None:
             upperToLower[uniNumber] = uniLowercase
         if uniUppercase != None and uniLowercase == None:
