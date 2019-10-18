@@ -84,7 +84,7 @@ def testGLIFFileName(rangeName, toFile=None):
     # support both UFO2 as UFO3
     try:
         # UFO3 ufoLib
-        from ufoLib.filenames import userNameToFileName
+        from fontTools.ufoLib.filenames import userNameToFileName
 
         def nameToFileName(name):
             return userNameToFileName(name)
