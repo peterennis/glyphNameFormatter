@@ -1,8 +1,8 @@
 # Glyph Name Formatted Unicode List - GNFUL
-# GlyphNameFormatter version 0.4 - git commit: 452
+# GlyphNameFormatter version 0.4 - git commit: 462
 # Unicode version: Unicode 12.1.0
-# Source code: https://github.com/LettError/glyphNameFormatter/tree/8c874d3
-# Generated on 2019 07 18 09:44:31
+# Source code: https://github.com/LettError/glyphNameFormatter/tree/872bcb2
+# Generated on 2019 12 02 16:01:11
 # <glyphName> <hex unicode>
 # Separator ":"
 # Prefixed "False"
@@ -9842,6 +9842,7 @@ marklongtsheg:zanb 11A44
 initialheadmarkdbllined:zanb 11A45
 closingheadmarkdbllined:zanb 11A46
 subjoiner:zanb 11A47
+# Mathematical Alphanumeric Symbols
 # Domino Tiles
 dominohorizontalback 1F030
 dominohorizontal_00_00 1F031

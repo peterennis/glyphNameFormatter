@@ -51,6 +51,7 @@ scriptConflictNames = [
     "phi",
     "question",
     "ring",
+    "rscript",
     "rtail",
     "semicolon",
     "seven",

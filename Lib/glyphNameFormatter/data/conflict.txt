@@ -153,6 +153,9 @@
    2DA : ring                                              ring                     ring                                    Spacing Modifier Letters                RING ABOVE          
  1F48D : ring                                              -                        ring                                    Miscellaneous Symbols and Pictographs   RING                
 
+  AB4B : rscript                                           -                        rscript                                 Latin Extended-E                        LATIN SMALL LETTER SCRIPT R
+ 1D4C7 : rscript                                           -                        rscript                                 Mathematical Alphanumeric Symbols       MATHEMATICAL SCRIPT SMALL R
+
    27D : rtail                                             rtail                    rtail                                   IPA Extensions                          LATIN SMALL LETTER R WITH TAIL
   AB49 : rtail                                             -                        rtail                                   Latin Extended-E                        LATIN SMALL LETTER R WITH CROSSED-TAIL
 
@@ -195,7 +198,7 @@
     30 : zero                                              zero                     zero                                    Basic Latin                             DIGIT ZERO          
    660 : zero                                              arZero                   zero                                    Arabic                                  ARABIC-INDIC DIGIT ZERO
   A9D0 : zero                                              -                        zero                                    Javanese                                JAVANESE DIGIT ZERO 
-# 63 names with conflicts, affecting 132 unicodes
+# 64 names with conflicts, affecting 134 unicodes
 
 
 Conflicts by rangename
@@ -332,6 +335,7 @@ Latin Extended-D
   A7B7 : omega                                             -                        omega                                   Latin Extended-D                        LATIN SMALL LETTER OMEGA
 
 Latin Extended-E
+  AB4B : rscript                                           -                        rscript                                 Latin Extended-E                        LATIN SMALL LETTER SCRIPT R
   AB49 : rtail                                             -                        rtail                                   Latin Extended-E                        LATIN SMALL LETTER R WITH CROSSED-TAIL
 
 Latin-1 Supplement
@@ -344,6 +348,9 @@ Letterlike Symbols
 Marchen
  11C88 : marchenlettera                                    -                        marchenlettera                          Marchen                                 MARCHEN LETTER -A   
  11C8F : marchenlettera                                    -                        marchenlettera                          Marchen                                 MARCHEN LETTER A    
+
+Mathematical Alphanumeric Symbols
+ 1D4C7 : rscript                                           -                        rscript                                 Mathematical Alphanumeric Symbols       MATHEMATICAL SCRIPT SMALL R
 
 Mathematical Operators
   22C8 : bowtie                                            -                        bowtie                                  Mathematical Operators                  BOWTIE              
