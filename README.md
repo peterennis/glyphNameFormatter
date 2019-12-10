@@ -10,7 +10,7 @@ A system for generating glyph name lists from official Unicode data.
 * Font editors use their own lists that map names to unicode values.
 * So this system parses, generates and tweaks.
 
-### Glyph Name Formatted Unicode List Release 0.5 (ɣNUFL)
+### Glyph Name Formatted Unicode List Release 0.6 (ɣNUFL)
 
 [download](https://github.com/LettError/glyphNameFormatter/releases)
 
@@ -20,6 +20,7 @@ Look at `/names/glyphNamesToUnicode.txt` for a useful name to unicode map.
 * Release 0.3 offers more ranges from Unicode 11.0.0.
 * Release 0.4 fixes a bug in the conflict analysis. Better names for all.
 * Release 0.5 Improved support for Georgian names.
+* Release 0.6 Adds Mathematical Alphanumeric Symbols, housekeeping
 
 ### Contributions
 
