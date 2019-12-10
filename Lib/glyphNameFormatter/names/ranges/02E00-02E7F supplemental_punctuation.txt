@@ -78,3 +78,4 @@
 2E4C	medievalcomma	MEDIEVAL COMMA
 2E4D	paragraphus	PARAGRAPHUS MARK
 2E4E	punctuselevatus	PUNCTUS ELEVATUS MARK
+2E4F	cornishversedivider	CORNISH VERSE DIVIDER

@@ -253,3 +253,4 @@
 32FC	wicirclekatakana	CIRCLED KATAKANA WI
 32FD	wecirclekatakana	CIRCLED KATAKANA WE
 32FE	wocirclekatakana	CIRCLED KATAKANA WO
+32FF	squareeranamereiwa	SQUARE ERA NAME REIWA

@@ -88,6 +88,7 @@
 0C6D	telu:seven	TELUGU DIGIT SEVEN
 0C6E	telu:eight	TELUGU DIGIT EIGHT
 0C6F	telu:nine	TELUGU DIGIT NINE
+0C77	telu:siddhamsign	TELUGU SIGN SIDDHAM
 0C78	telu:fractionzeroforoddpowersoffour	TELUGU FRACTION DIGIT ZERO FOR ODD POWERS OF FOUR
 0C79	telu:fractiononeforoddpowersoffour	TELUGU FRACTION DIGIT ONE FOR ODD POWERS OF FOUR
 0C7A	telu:fractiontwoforoddpowersoffour	TELUGU FRACTION DIGIT TWO FOR ODD POWERS OF FOUR
