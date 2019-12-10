@@ -15,7 +15,6 @@ A system for generating glyph name lists from official Unicode data.
 [download](https://github.com/LettError/glyphNameFormatter/releases)
 
 * Release 0.1 offers (almost) the same coverage as the Adobe Glyph Dictionary, AGD.txt
-Look at `/names/glyphNamesToUnicode.txt` for a useful name to unicode map.
 * Release 0.2 offers more ranges from Unicode 10.0.0.
 * Release 0.3 offers more ranges from Unicode 11.0.0.
 * Release 0.4 fixes a bug in the conflict analysis. Better names for all.
