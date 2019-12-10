@@ -1,6 +1,5 @@
 
 def process(self):
-    self.setExperimental()
     self.edit("MATHEMATICAL")
 
     self.edit("EPSILON SYMBOL", "epsilonsymbol")
