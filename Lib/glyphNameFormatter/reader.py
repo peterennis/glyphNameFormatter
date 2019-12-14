@@ -38,6 +38,27 @@ uni2name = {}
 uni2cat = {}
 ranges = {}
 
+# these are unicode ranges for the CJK ideographs
+ideographRanges = [
+	(0x4E00, 0x9FFF),		#CJK Unified Ideographs
+	(0x3400, 0x4DBF),		#CJK Unified Ideographs Extension A
+	(0x20000, 0x2A6DF),		#CJK Unified Ideographs Extension B
+	(0x2A700, 0x2B73F),		#CJK Unified Ideographs Extension C
+	(0x2B740, 0x2B81F),		#CJK Unified Ideographs Extension D
+	(0x2B820, 0x2CEAF),		#CJK Unified Ideographs Extension E
+	(0x2CEB0, 0x2EBEF),		#CJK Unified Ideographs Extension F
+	(0xF900, 0xFAFF),		#CJK Compatibility Ideographs
+	(0x2F800, 0x2FA1F),		#CJK Compatibility Ideographs Supplement
+	(0x1F200, 0x1F2FF),		#Enclosed Ideographic Supplement
+	]
+
+def isIdeograph(value):
+	for a, b in ideographRanges:
+		if a<=value<=b:
+			return True
+	return False
+
+
 def readJoiningTypes(path):
     # read the joiningTypes.txt
     joiningTypes = {}
@@ -54,16 +75,31 @@ def readJoiningTypes(path):
         joiningTypes[uni] = jT
     return joiningTypes
 
+def uniPatternName(v):
+	return "uni{:X}".format(v)
 
 def u2n(value):
 	"""Unicode value to glyphname"""
 	global uni2name
-	return uni2name.get(value)
+	v = uni2name.get(value)
+	if v is not None:
+		return v
+	if isIdeograph(value):
+		return uniPatternName(value)
 
 def n2u(name):
 	"""Glyphname to Unicode value"""
 	global name2uni
-	return name2uni.get(name)
+	v = name2uni.get(name)
+	if v is not None:
+		return v
+	if name[:3] == "uni":
+		# parse uniXXXX name
+		try:
+			return int(name[3:], 16)
+		except:
+			pass
+
 
 def u2c(value):
 	"""Unicode value to Unicode category"""
@@ -180,6 +216,15 @@ if __name__ == "__main__":
 	assert n2N("a") == 'A'
 	assert U2u(65) == 97	# A -> a
 	assert u2U(97) == 65	# a -> A
+
+	# ideograph support
+	assert isIdeograph(1) == False
+	assert isIdeograph(0x2A700) == True
+	testIdeographValues = [0x2A700, 0x3401, 0x9FFF]
+	for v in testIdeographValues:
+		#print(v, u2n(v), chr(v))
+		assert n2u(u2n(v)) == v
+
 
 	if False:
 		allNames = list(name2uni.keys())
