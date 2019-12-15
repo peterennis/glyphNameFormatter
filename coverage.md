@@ -1,5 +1,5 @@
 
-## Version Unicode 11.0.0
+## Version Unicode 12.1.0
 
 
 
@@ -48,15 +48,15 @@ This coverage page is has some issues.
 | Gujarati | **90** | **Yes** | `0A80` | `0AFF` |
 | Oriya | **90** | **Yes** | `0B00` | `0B7F` |
 | Tamil | **72** | **Yes** | `0B80` | `0BFF` |
-| Telugu | **96** | **Yes** | `0C00` | `0C7F` |
+| Telugu | **97** | **Yes** | `0C00` | `0C7F` |
 | Kannada | **89** | **Yes** | `0C80` | `0CFF` |
 | Malayalam | **116** | **Yes** | `0D00` | `0D7F` |
 | Sinhala | **90** | **Yes** | `0D80` | `0DFF` |
 | Thai | **87** | **Yes** | `0E00` | `0E7F` |
-| Lao | 67 | No | `0E80` | `0EFF` |
+| Lao | 82 | No | `0E80` | `0EFF` |
 | Tibetan | **211** | **Yes** | `0F00` | `0FFF` |
 | Myanmar | 159 | No | `1000` | `109F` |
-| Georgian | 87 | No | `10A0` | `10FF` |
+| Georgian | **87** | **Yes** | `10A0` | `10FF` |
 | Hangul Jamo | **255** | **Yes** | `1100` | `11FF` |
 | Ethiopic | **358** | **Yes** | `1200` | `137F` |
 | Ethiopic Supplement | 26 | No | `1380` | `139F` |
@@ -84,8 +84,9 @@ This coverage page is has some issues.
 | Lepcha | 73 | No | `1C00` | `1C4F` |
 | Ol Chiki | 47 | No | `1C50` | `1C7F` |
 | Cyrillic Extended-C | 9 | No | `1C80` | `1C8F` |
+| Georgian Extended | **45** | **Yes** | `1C90` | `1CBF` |
 | Sundanese Supplement | 8 | No | `1CC0` | `1CCF` |
-| Vedic Extensions | **42** | **Yes** | `1CD0` | `1CFF` |
+| Vedic Extensions | **43** | **Yes** | `1CD0` | `1CFF` |
 | Phonetic Extensions | **127** | **Yes** | `1D00` | `1D7F` |
 | Phonetic Extensions Supplement | **63** | **Yes** | `1D80` | `1DBF` |
 | Combining Diacritical Marks Supplement | **62** | **Yes** | `1DC0` | `1DFF` |
@@ -114,15 +115,15 @@ This coverage page is has some issues.
 | Supplemental Arrows-B | 127 | No | `2900` | `297F` |
 | Miscellaneous Mathematical Symbols-B | 127 | No | `2980` | `29FF` |
 | Supplemental Mathematical Operators | 255 | No | `2A00` | `2AFF` |
-| Miscellaneous Symbols and Arrows | 250 | No | `2B00` | `2BFF` |
+| Miscellaneous Symbols and Arrows | 251 | No | `2B00` | `2BFF` |
 | Glagolitic | **94** | **Yes** | `2C00` | `2C5F` |
 | Latin Extended-C | **31** | **Yes** | `2C60` | `2C7F` |
 | Coptic | 122 | No | `2C80` | `2CFF` |
-| Georgian Supplement | 40 | No | `2D00` | `2D2F` |
+| Georgian Supplement | **40** | **Yes** | `2D00` | `2D2F` |
 | Tifinagh | 58 | No | `2D30` | `2D7F` |
 | Ethiopic Extended | 79 | No | `2D80` | `2DDF` |
 | Cyrillic Extended-A | 31 | No | `2DE0` | `2DFF` |
-| Supplemental Punctuation | **79** | **Yes** | `2E00` | `2E7F` |
+| Supplemental Punctuation | **80** | **Yes** | `2E00` | `2E7F` |
 | CJK Radicals Supplement | 115 | No | `2E80` | `2EFF` |
 | Kangxi Radicals | 214 | No | `2F00` | `2FDF` |
 | Ideographic Description Characters | 12 | No | `2FF0` | `2FFF` |
@@ -147,7 +148,7 @@ This coverage page is has some issues.
 | Cyrillic Extended-B | 95 | No | `A640` | `A69F` |
 | Bamum | 88 | No | `A6A0` | `A6FF` |
 | Modifier Tone Letters | 31 | No | `A700` | `A71F` |
-| Latin Extended-D | **162** | **Yes** | `A720` | `A7FF` |
+| Latin Extended-D | **173** | **Yes** | `A720` | `A7FF` |
 | Syloti Nagri | 44 | No | `A800` | `A82F` |
 | Common Indic Number Forms | 10 | No | `A830` | `A83F` |
 | Phags-pa | 56 | No | `A840` | `A87F` |
@@ -163,7 +164,7 @@ This coverage page is has some issues.
 | Tai Viet | 71 | No | `AA80` | `AADF` |
 | Meetei Mayek Extensions | 23 | No | `AAE0` | `AAFF` |
 | Ethiopic Extended-A | 32 | No | `AB00` | `AB2F` |
-| Latin Extended-E | **54** | **Yes** | `AB30` | `AB6F` |
+| Latin Extended-E | **56** | **Yes** | `AB30` | `AB6F` |
 | Cherokee Supplement | **79** | **Yes** | `AB70` | `ABBF` |
 | Meetei Mayek | 56 | No | `ABC0` | `ABFF` |
 | Hangul Syllables | 11172 | No | `AC00` | `D7AF` |
@@ -223,7 +224,11 @@ This coverage page is has some issues.
 | Psalter Pahlavi | 28 | No | `10B80` | `10BAF` |
 | Old Turkic | 73 | No | `10C00` | `10C4F` |
 | Old Hungarian | 107 | No | `10C80` | `10CFF` |
+| Hanifi Rohingya | 50 | No | `10D00` | `10D3F` |
 | Rumi Numeral Symbols | 31 | No | `10E60` | `10E7F` |
+| Old Sogdian | 40 | No | `10F00` | `10F2F` |
+| Sogdian | 42 | No | `10F30` | `10F6F` |
+| Elymaic | 23 | No | `10FE0` | `10FFF` |
 | Brahmi | 108 | No | `11000` | `1107F` |
 | Kaithi | 67 | No | `11080` | `110CF` |
 | Sora Sompeng | 35 | No | `110D0` | `110FF` |
@@ -235,62 +240,77 @@ This coverage page is has some issues.
 | Multani | 38 | No | `11280` | `112AF` |
 | Khudawadi | 69 | No | `112B0` | `112FF` |
 | Grantha | 86 | No | `11300` | `1137F` |
-| Newa | 93 | No | `11400` | `1147F` |
+| Newa | 94 | No | `11400` | `1147F` |
 | Tirhuta | 82 | No | `11480` | `114DF` |
 | Siddham | 92 | No | `11580` | `115FF` |
 | Modi | 79 | No | `11600` | `1165F` |
 | Mongolian Supplement | 13 | No | `11660` | `1167F` |
-| Takri | 66 | No | `11680` | `116CF` |
+| Takri | 67 | No | `11680` | `116CF` |
 | Ahom | 57 | No | `11700` | `1173F` |
+| Dogra | 60 | No | `11800` | `1184F` |
 | Warang Citi | 83 | No | `118A0` | `118FF` |
-| Zanabazar Square | 72 | No | `11A00` | `11A4F` |
-| Soyombo | 81 | No | `11A50` | `11AAF` |
+| Nandinagari | 65 | No | `119A0` | `119FF` |
+| Zanabazar Square | **72** | **Yes** | `11A00` | `11A4F` |
+| Soyombo | 83 | No | `11A50` | `11AAF` |
 | Pau Cin Hau | 57 | No | `11AC0` | `11AFF` |
 | Bhaiksuki | 97 | No | `11C00` | `11C6F` |
 | Marchen | 68 | No | `11C70` | `11CBF` |
 | Masaram Gondi | 75 | No | `11D00` | `11D5F` |
+| Gunjala Gondi | 63 | No | `11D60` | `11DAF` |
+| Makasar | 25 | No | `11EE0` | `11EFF` |
+| Tamil Supplement | 50 | No | `11FC0` | `11FFF` |
 | Cuneiform | 922 | No | `12000` | `123FF` |
 | Cuneiform Numbers and Punctuation | 116 | No | `12400` | `1247F` |
 | Early Dynastic Cuneiform | 196 | No | `12480` | `1254F` |
 | Egyptian Hieroglyphs | 1071 | No | `13000` | `1342F` |
+| Egyptian Hieroglyph Format Controls | 9 | No | `13430` | `1343F` |
 | Anatolian Hieroglyphs | 583 | No | `14400` | `1467F` |
 | Bamum Supplement | 569 | No | `16800` | `16A3F` |
 | Mro | 42 | No | `16A40` | `16A6F` |
 | Bassa Vah | 36 | No | `16AD0` | `16AFF` |
 | Pahawh Hmong | 126 | No | `16B00` | `16B8F` |
-| Miao | 132 | No | `16F00` | `16F9F` |
-| Ideographic Symbols and Punctuation | 2 | No | `16FE0` | `16FFF` |
-| Tangut | 6130 | No | `17000` | `187FF` |
+| Medefaidrin | 91 | No | `16E40` | `16E9F` |
+| Miao | 148 | No | `16F00` | `16F9F` |
+| Ideographic Symbols and Punctuation | 4 | No | `16FE0` | `16FFF` |
+| Tangut | 6136 | No | `17000` | `187FF` |
 | Tangut Components | 755 | No | `18800` | `18AFF` |
 | Kana Supplement | 255 | No | `1B000` | `1B0FF` |
 | Kana Extended-A | 31 | No | `1B100` | `1B12F` |
+| Small Kana Extension | 7 | No | `1B130` | `1B16F` |
 | Nushu | 396 | No | `1B170` | `1B2FF` |
 | Duployan | 142 | No | `1BC00` | `1BC9F` |
 | Shorthand Format Controls | 4 | No | `1BCA0` | `1BCAF` |
 | Byzantine Musical Symbols | 246 | No | `1D000` | `1D0FF` |
 | Musical Symbols | 231 | No | `1D100` | `1D1FF` |
 | Ancient Greek Musical Notation | 70 | No | `1D200` | `1D24F` |
+| Mayan Numerals | 20 | No | `1D2E0` | `1D2FF` |
 | Tai Xuan Jing Symbols | 87 | No | `1D300` | `1D35F` |
 | Counting Rod Numerals | 25 | No | `1D360` | `1D37F` |
-| Mathematical Alphanumeric Symbols | 995 | No | `1D400` | `1D7FF` |
+| Mathematical Alphanumeric Symbols | **995** | **Yes** | `1D400` | `1D7FF` |
 | Sutton SignWriting | 671 | No | `1D800` | `1DAAF` |
 | Glagolitic Supplement | 38 | No | `1E000` | `1E02F` |
+| Nyiakeng Puachue Hmong | 70 | No | `1E100` | `1E14F` |
+| Wancho | 58 | No | `1E2C0` | `1E2FF` |
 | Mende Kikakui | 213 | No | `1E800` | `1E8DF` |
-| Adlam | 86 | No | `1E900` | `1E95F` |
+| Adlam | 87 | No | `1E900` | `1E95F` |
+| Indic Siyaq Numbers | 68 | No | `1EC70` | `1ECBF` |
+| Ottoman Siyaq Numbers | 61 | No | `1ED00` | `1ED4F` |
 | Arabic Mathematical Alphabetic Symbols | 143 | No | `1EE00` | `1EEFF` |
 | Mahjong Tiles | 44 | No | `1F000` | `1F02F` |
 | Domino Tiles | **100** | **Yes** | `1F030` | `1F09F` |
 | Playing Cards | **82** | **Yes** | `1F0A0` | `1F0FF` |
-| Enclosed Alphanumeric Supplement | **191** | **Yes** | `1F100` | `1F1FF` |
+| Enclosed Alphanumeric Supplement | **192** | **Yes** | `1F100` | `1F1FF` |
 | Enclosed Ideographic Supplement | 64 | No | `1F200` | `1F2FF` |
 | Miscellaneous Symbols and Pictographs | **767** | **Yes** | `1F300` | `1F5FF` |
 | Emoticons | **79** | **Yes** | `1F600` | `1F64F` |
 | Ornamental Dingbats | 47 | No | `1F650` | `1F67F` |
-| Transport and Map Symbols | **108** | **Yes** | `1F680` | `1F6FF` |
+| Transport and Map Symbols | **110** | **Yes** | `1F680` | `1F6FF` |
 | Alchemical Symbols | 116 | No | `1F700` | `1F77F` |
-| Geometric Shapes Extended | 89 | No | `1F780` | `1F7FF` |
+| Geometric Shapes Extended | 101 | No | `1F780` | `1F7FF` |
 | Supplemental Arrows-C | 148 | No | `1F800` | `1F8FF` |
-| Supplemental Symbols and Pictographs | 212 | No | `1F900` | `1F9FF` |
+| Supplemental Symbols and Pictographs | 243 | No | `1F900` | `1F9FF` |
+| Chess Symbols | 98 | No | `1FA00` | `1FA6F` |
+| Symbols and Pictographs Extended-A | 16 | No | `1FA70` | `1FAFF` |
 | CJK Unified Ideographs Extension B | 42711 | No | `20000` | `2A6DF` |
 | CJK Unified Ideographs Extension C | 4149 | No | `2A700` | `2B73F` |
 | CJK Unified Ideographs Extension D | 222 | No | `2B740` | `2B81F` |

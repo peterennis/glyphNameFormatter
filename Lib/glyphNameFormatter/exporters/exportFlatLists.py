@@ -38,9 +38,12 @@ _versionNumber = getExportVersionNumber()
 
 def getGithubLink():
     if _hasGit:
-        commithash = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'], cwd=os.path.dirname(__file__))
-        commithash = commithash.strip()
-        return "https://github.com/LettError/glyphNameFormatter/tree/%s" % commithash.decode()
+        try:
+            commithash = subprocess.check_output(['git', 'rev-parse', '--short', 'HEAD'], cwd=os.path.dirname(__file__))
+            commithash = commithash.strip()
+            return "https://github.com/LettError/glyphNameFormatter/tree/%s" % commithash.decode()
+        except Exception:
+            pass
     return "-"
 
 _githubLink = getGithubLink()
