@@ -39,21 +39,21 @@ uni2cat = {}
 ranges = {}
 
 # these are unicode ranges for the CJK ideographs
-ideographRanges = [
-	(0x4E00, 0x9FFF),		#CJK Unified Ideographs
-	(0x3400, 0x4DBF),		#CJK Unified Ideographs Extension A
-	(0x20000, 0x2A6DF),		#CJK Unified Ideographs Extension B
-	(0x2A700, 0x2B73F),		#CJK Unified Ideographs Extension C
-	(0x2B740, 0x2B81F),		#CJK Unified Ideographs Extension D
-	(0x2B820, 0x2CEAF),		#CJK Unified Ideographs Extension E
-	(0x2CEB0, 0x2EBEF),		#CJK Unified Ideographs Extension F
-	(0xF900, 0xFAFF),		#CJK Compatibility Ideographs
-	(0x2F800, 0x2FA1F),		#CJK Compatibility Ideographs Supplement
-	(0x1F200, 0x1F2FF),		#Enclosed Ideographic Supplement
-	]
+ideographRanges = {
+	(0x4E00, 0x9FFF):		"CJK Unified Ideographs",
+	(0x3400, 0x4DBF):		"CJK Unified Ideographs Extension A",
+	(0x20000, 0x2A6DF):		"CJK Unified Ideographs Extension B",
+	(0x2A700, 0x2B73F):		"CJK Unified Ideographs Extension C",
+	(0x2B740, 0x2B81F):		"CJK Unified Ideographs Extension D",
+	(0x2B820, 0x2CEAF):		"CJK Unified Ideographs Extension E",
+	(0x2CEB0, 0x2EBEF):		"CJK Unified Ideographs Extension F",
+	(0xF900, 0xFAFF):		"CJK Compatibility Ideographs",
+	(0x2F800, 0x2FA1F):		"CJK Compatibility Ideographs Supplement",
+	(0x1F200, 0x1F2FF):		"Enclosed Ideographic Supplement",
+	}
 
 def isIdeograph(value):
-	for a, b in ideographRanges:
+	for a, b in ideographRanges.keys():
 		if a<=value<=b:
 			return True
 	return False
@@ -75,8 +75,10 @@ def readJoiningTypes(path):
         joiningTypes[uni] = jT
     return joiningTypes
 
+
 def uniPatternName(v):
 	return "uni{:X}".format(v)
+
 
 def u2n(value):
 	"""Unicode value to glyphname"""
@@ -106,10 +108,12 @@ def u2c(value):
 	global uni2cat
 	return uni2cat.get(value)
 
+
 def n2c(name):
 	"""Glyphname to Unicode category"""
 	global name2uni, uni2cat
 	return uni2cat.get(name2uni.get(name))
+
 
 def _parse(path):
 	lines = None
@@ -151,6 +155,9 @@ def u2r(value):
 	if value is None:
 		return None
 	for k, v in ranges.items():
+		if k[0]<=value<=k[1]:
+			return v
+	for k, v in ideographRanges.items():
 		if k[0]<=value<=k[1]:
 			return v
 	return None
@@ -222,9 +229,12 @@ if __name__ == "__main__":
 	assert isIdeograph(0x2A700) == True
 	testIdeographValues = [0x2A700, 0x3401, 0x9FFF]
 	for v in testIdeographValues:
-		#print(v, u2n(v), chr(v))
 		assert n2u(u2n(v)) == v
-
+	# check if a value an ideographRange returns the proper name
+	for k, v in ideographRanges.items():
+		a, b = k
+		c = int(.5*(a+b))
+		assert u2r(c) == v
 
 	if False:
 		allNames = list(name2uni.keys())
@@ -237,3 +247,4 @@ if __name__ == "__main__":
 		for n in allNames:
 			u = n2u(n)
 			print(n, u2r(u))
+
